@@ -1,0 +1,220 @@
+﻿[03/13/2023 18:48:09]
+  Starting the server...
+[03/13/2023 18:48:09]
+  Using SteamP2P networking.
+[03/13/2023 18:48:09]
+  Server started
+[03/13/2023 18:48:09]
+  Игрок kynlan4ic присоединился к серверу.
+[03/13/2023 18:48:09]
+  Saving client permissions
+[03/13/2023 18:48:09]
+  Saving client permissions
+[03/13/2023 18:48:10]
+  Gamemode changed to Кампания
+[03/13/2023 18:48:28]
+  Игрок vlad32 присоединился к серверу.
+[03/13/2023 18:48:28]
+  Saving client permissions
+[03/13/2023 18:48:33]
+  vlad32 is ready to start the game.
+[03/13/2023 18:51:29]
+  kynlan4ic is ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is ready to start the game.
+[03/13/2023 19:04:08]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:04:08]
+  vlad32 is ready to start the game.
+[03/13/2023 19:04:13]
+  vlad32: ХУУУУУУУЙ
+[03/13/2023 19:13:38]
+  Starting a new round...
+[03/13/2023 19:13:39]
+  kynlan4ic is not ready to start the game.
+[03/13/2023 19:13:58]
+  John Poole equipped PDW-323E
+[03/13/2023 19:13:58]
+  Lauren Reeves equipped M21 Light
+[03/13/2023 19:13:59]
+  Steve Rosewood equipped AEK-22 Special
+[03/13/2023 19:13:59]
+  Lionel Lavey equipped M21 Light
+[03/13/2023 19:13:59]
+  Beverley Rosewood equipped M4-29 Assault rifle
+[03/13/2023 19:13:59]
+  Katrina Gordon equipped AEK-22 Special
+[03/13/2023 19:13:59]
+  Candace Dyer equipped A219-E
+[03/13/2023 19:13:59]
+  Миссия: Renegade Marines
+[03/13/2023 19:13:59]
+  A group of Renegade Marines has captured an outpost. Kill all the traitors and destrot outpost's reactor!
+[03/13/2023 19:14:01]
+  Game mode: Кампания
+[03/13/2023 19:14:01]
+  Submarine: Wellerman
+[03/13/2023 19:14:01]
+  Level seed: Riville
+[03/13/2023 19:14:01]
+  Mission: Renegade Marines
+[03/13/2023 19:14:03]
+  Round started.
+[03/13/2023 19:14:04]
+  Steve Rosewood unequipped AEK-22 Special
+[03/13/2023 19:14:04]
+  Katrina Gordon unequipped AEK-22 Special
+[03/13/2023 19:14:04]
+  Candace Dyer unequipped A219-E
+[03/13/2023 19:14:04]
+  John Poole unequipped PDW-323E
+[03/13/2023 19:14:04]
+  Lauren Reeves unequipped M21 Light
+[03/13/2023 19:14:04]
+  Beverley Rosewood unequipped M4-29 Assault rifle
+[03/13/2023 19:14:04]
+  Lionel Lavey unequipped M21 Light
+[03/13/2023 19:14:05]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:14:05]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:14:06]
+  Arron Gregory: Devin Maxwell проходит лечение здесь: электрика!
+[03/13/2023 19:14:06]
+  Arron Gregory: Мне жаль, Devin Maxwell, это все, что я могу сделать!
+[03/13/2023 19:14:06]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:14:06]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:14:07]
+  Arron Gregory: Devin Maxwell нуждается в помощи! Срочно требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:14:08]
+  Arron Gregory: vlad32 получает первую помощь здесь: орудийный отсек!
+[03/13/2023 19:14:09]
+  Arron Gregory: Мне требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:14:09]
+  Lionel Lavey closed Настраиваемая дверь
+[03/13/2023 19:14:09]
+  Lionel Lavey opened Настраиваемая дверь
+[03/13/2023 19:14:45]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:14:49]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:14:56]
+  vlad32 picked up Pirate Exosuit
+[03/13/2023 19:15:00]
+  Devin Maxwell: Внутрь.
+[03/13/2023 19:15:01]
+  Devin Maxwell: Нырять глубже? Нет, нырять внутрь.
+[03/13/2023 19:15:11]
+  vlad32 placed Подводное ружье in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:11]
+  vlad32 removed M3 Double-Barrel from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:11]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:15:11]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:15:11]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:15:12]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:15:12]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:15:12]
+  kynlan4ic picked up Кислородный баллон
+[03/13/2023 19:15:13]
+  vlad32 placed M3 Double-Barrel in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:13]
+  vlad32 removed Патрон для дробовика from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:13]
+  vlad32 removed Патрон для дробовика from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:13]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:15:13]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:15:17]
+  vlad32 placed Патрон для дробовика in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:17]
+  vlad32 placed Патрон для дробовика in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:17]
+  vlad32 removed M3 Double-Barrel from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:17]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:15:17]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/13/2023 19:15:19]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 8619)
+[03/13/2023 19:15:23]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 395)
+[03/13/2023 19:15:25]
+  vlad32 picked up Подводное ружье
+[03/13/2023 19:15:27]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:28]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:29]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:29]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:30]
+  vlad32 picked up Shotgun Hollow-Point Slug
+[03/13/2023 19:15:30]
+  vlad32 picked up Shotgun Hollow-Point Slug
+[03/13/2023 19:15:30]
+  vlad32 dropped Подводное ружье
+[03/13/2023 19:15:30]
+  vlad32 placed Подводное ружье in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:32]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:33]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:33]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:15:33]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:15:33]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:36]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:36]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:36]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:36]
+  vlad32 equipped M3 Double-Barrel
+[03/13/2023 19:15:40]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:41]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:43]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:45]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:45]
+  kynlan4ic equipped Медконтейнер
+[03/13/2023 19:15:46]
+  vlad32 picked up ЭМ-граната
+[03/13/2023 19:15:46]
+  Lionel Lavey opened Настраиваемая дверь
+[03/13/2023 19:15:46]
+  Lionel Lavey closed Настраиваемая дверь
+[03/13/2023 19:15:47]
+  vlad32 dropped Pirate Exosuit
+[03/13/2023 19:15:47]
+  kynlan4ic dropped Медконтейнер
+[03/13/2023 19:15:48]
+  vlad32 equipped ЭМ-граната
+[03/13/2023 19:15:49]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:54]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:16:04]
+  Client "kynlan4ic" ended the round.
+[03/13/2023 19:16:04]
+  Ending the round...

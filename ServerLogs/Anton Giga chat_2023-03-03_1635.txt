@@ -1,0 +1,1600 @@
+﻿[03/03/2023 15:56:09]
+  Starting the server...
+[03/03/2023 15:56:09]
+  Using SteamP2P networking.
+[03/03/2023 15:56:09]
+  Server started
+[03/03/2023 15:56:09]
+  Игрок kynlan4ic присоединился к серверу.
+[03/03/2023 15:56:09]
+  Saving client permissions
+[03/03/2023 15:56:09]
+  Saving client permissions
+[03/03/2023 15:56:09]
+  Gamemode changed to Кампания
+[03/03/2023 16:11:33]
+  Starting a new round...
+[03/03/2023 16:11:55]
+  Game mode: Кампания
+[03/03/2023 16:11:55]
+  Submarine: Orca
+[03/03/2023 16:11:55]
+  Level seed: Balagtan
+[03/03/2023 16:11:55]
+  Joshua Case equipped Гаечный ключ
+[03/03/2023 16:11:55]
+  Joshua Case unequipped Гаечный ключ
+[03/03/2023 16:11:55]
+  Joshua Case equipped Отвертка
+[03/03/2023 16:11:56]
+  Kerry Jack equipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Kerry Jack unequipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Kerry Jack equipped Отвертка
+[03/03/2023 16:11:56]
+  Lauren Chapman equipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Lauren Chapman unequipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Lauren Chapman equipped Отвертка
+[03/03/2023 16:11:56]
+  Erik Lozano equipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Erik Lozano unequipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Erik Lozano equipped Отвертка
+[03/03/2023 16:11:56]
+  Erik Lozano unequipped Отвертка
+[03/03/2023 16:11:56]
+  Erik Lozano equipped Лом
+[03/03/2023 16:11:56]
+  Sharie Chaney equipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Sharie Chaney unequipped Гаечный ключ
+[03/03/2023 16:11:56]
+  Sharie Chaney equipped Отвертка
+[03/03/2023 16:11:57]
+  Elliana Cork equipped Лом
+[03/03/2023 16:11:57]
+  Willy Lavey equipped Гаечный ключ
+[03/03/2023 16:11:57]
+  Glenn Swanson equipped Гаечный ключ
+[03/03/2023 16:11:59]
+  Round started.
+[03/03/2023 16:11:59]
+  Sharie Chaney: Всем привет! Похоже, у вас был тяжелый рейс.
+[03/03/2023 16:12:00]
+  Glenn Swanson unequipped Гаечный ключ
+[03/03/2023 16:12:00]
+  Elliana Cork unequipped Лом
+[03/03/2023 16:12:00]
+  Joshua Case unequipped Отвертка
+[03/03/2023 16:12:00]
+  Erik Lozano unequipped Лом
+[03/03/2023 16:12:01]
+  Willy Lavey unequipped Гаечный ключ
+[03/03/2023 16:12:36]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/03/2023 16:12:56]
+  Candace Ashley: Как здесь паршиво!
+[03/03/2023 16:12:57]
+  Candace Ashley: Я хочу домой!
+[03/03/2023 16:13:56]
+  kynlan4ic placed Топливный бак сварочного аппарата in Большой стальной шкаф (ID: 958)
+[03/03/2023 16:13:58]
+  kynlan4ic picked up Инопланетное украшение
+[03/03/2023 16:14:00]
+  kynlan4ic picked up Воспламенитовый кристалл
+[03/03/2023 16:14:00]
+  kynlan4ic picked up Осколок сернита
+[03/03/2023 16:14:07]
+  kynlan4ic placed Воспламенитовый кристалл in Деконструктор (ID: 211)
+[03/03/2023 16:14:08]
+  kynlan4ic picked up Воспламенитовый кристалл
+[03/03/2023 16:14:10]
+  kynlan4ic placed Воспламенитовый кристалл in Деконструктор (ID: 211)
+[03/03/2023 16:14:12]
+  kynlan4ic picked up Воспламенитовый кристалл
+[03/03/2023 16:14:12]
+  kynlan4ic placed Осколок сернита in Деконструктор (ID: 211)
+[03/03/2023 16:14:14]
+  kynlan4ic picked up Осколок сернита
+[03/03/2023 16:14:17]
+  kynlan4ic placed Осколок сернита in Фабрикатор (ID: 210)
+[03/03/2023 16:14:29]
+  kynlan4ic picked up Осколок сернита
+[03/03/2023 16:14:31]
+  kynlan4ic placed Инопланетное украшение in Деконструктор (ID: 211)
+[03/03/2023 16:14:32]
+  kynlan4ic picked up Инопланетное украшение
+[03/03/2023 16:14:38]
+  kynlan4ic placed Воспламенитовый кристалл in Контейнер для хранения (ID: 3488)
+[03/03/2023 16:14:40]
+  kynlan4ic placed Осколок сернита in Контейнер для хранения (ID: 3488)
+[03/03/2023 16:14:57]
+  kynlan4ic placed Инопланетное украшение in Шкаф для хранения токсинов (ID: 235)
+[03/03/2023 16:14:59]
+  kynlan4ic equipped Ящик со взрывчаткой
+[03/03/2023 16:15:02]
+  kynlan4ic placed Осколочная граната in Средний стальной шкаф с окном (ID: 889)
+[03/03/2023 16:15:07]
+  kynlan4ic picked up Осколочная граната
+[03/03/2023 16:15:08]
+  kynlan4ic picked up Осколочная граната
+[03/03/2023 16:15:13]
+  kynlan4ic placed Ящик со взрывчаткой in Деконструктор (ID: 211)
+[03/03/2023 16:15:14]
+  kynlan4ic activated Деконструктор
+[03/03/2023 16:15:24]
+  kynlan4ic equipped Металлический ящик
+[03/03/2023 16:15:25]
+  kynlan4ic placed Осколочная граната in Металлический ящик (ID: 2511)
+[03/03/2023 16:15:25]
+  kynlan4ic placed Осколочная граната in Металлический ящик (ID: 2511)
+[03/03/2023 16:15:26]
+  kynlan4ic dropped Металлический ящик
+[03/03/2023 16:15:32]
+  kynlan4ic equipped Ящик взрывчатых снарядов шрапнельного орудия
+[03/03/2023 16:15:37]
+  kynlan4ic dropped Ящик взрывчатых снарядов шрапнельного орудия
+[03/03/2023 16:15:41]
+  kynlan4ic equipped Ящик взрывчатых снарядов шрапнельного орудия
+[03/03/2023 16:15:46]
+  kynlan4ic dropped Ящик взрывчатых снарядов шрапнельного орудия
+[03/03/2023 16:15:50]
+  kynlan4ic equipped Дробные боеприпасы для цепной пушки
+[03/03/2023 16:15:57]
+  kynlan4ic dropped Дробные боеприпасы для цепной пушки
+[03/03/2023 16:16:03]
+  kynlan4ic equipped Дробные боеприпасы для цепной пушки
+[03/03/2023 16:16:09]
+  kynlan4ic dropped Дробные боеприпасы для цепной пушки
+[03/03/2023 16:16:20]
+  kynlan4ic equipped Дробные боеприпасы для цепной пушки
+[03/03/2023 16:16:26]
+  kynlan4ic dropped Дробные боеприпасы для цепной пушки
+[03/03/2023 16:16:31]
+  kynlan4ic equipped Металлический ящик
+[03/03/2023 16:16:41]
+  kynlan4ic placed 40-мм оглушающая граната in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:41]
+  kynlan4ic placed 40-мм оглушающая граната in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:41]
+  kynlan4ic placed 40-мм оглушающая граната in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:42]
+  kynlan4ic placed 40-мм граната in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:42]
+  kynlan4ic placed 40-мм граната in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:43]
+  kynlan4ic placed Резиновый патрон для дробовика in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:43]
+  kynlan4ic placed Резиновый патрон для дробовика in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:43]
+  kynlan4ic placed Резиновый патрон для дробовика in Большой стальной шкаф (ID: 304)
+[03/03/2023 16:16:50]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 211)
+[03/03/2023 16:16:51]
+  kynlan4ic activated Деконструктор
+[03/03/2023 16:17:03]
+  kynlan4ic equipped Контейнер для хранения
+[03/03/2023 16:17:03]
+  kynlan4ic picked up Контейнер для хранения
+[03/03/2023 16:17:05]
+  kynlan4ic picked up Магазин для ПП
+[03/03/2023 16:17:05]
+  kynlan4ic picked up Магазин для ПП
+[03/03/2023 16:17:06]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф с окном (ID: 894)
+[03/03/2023 16:17:13]
+  kynlan4ic equipped Металлический ящик
+[03/03/2023 16:17:15]
+  kynlan4ic placed Магазин для ПП in Металлический ящик (ID: 1713)
+[03/03/2023 16:17:15]
+  kynlan4ic placed Магазин для ПП in Металлический ящик (ID: 1713)
+[03/03/2023 16:17:16]
+  kynlan4ic dropped Металлический ящик
+[03/03/2023 16:18:09]
+  kynlan4ic changed the salary of kynlan4ic to 1%.
+[03/03/2023 16:18:15]
+  kynlan4ic changed the salary of kynlan4ic to 0%.
+[03/03/2023 16:18:54]
+  kynlan4ic equipped Боевой водолазный скафандр
+[03/03/2023 16:18:55]
+  kynlan4ic dropped Боевой водолазный скафандр
+[03/03/2023 16:19:32]
+  Client "kynlan4ic" ended the round.
+[03/03/2023 16:19:33]
+  Ending the round...
+[03/03/2023 16:19:34]
+  Round ended.
+[03/03/2023 16:19:37]
+  Starting a new round...
+[03/03/2023 16:19:51]
+  Миссия: Доставка медицинских материалов
+[03/03/2023 16:19:51]
+  В точку Аванпост New Nanhui необходимо доставить медицинских материалов. Если справитесь, можете рассчитывать на награду в 360 кред.
+[03/03/2023 16:19:53]
+  Game mode: Кампания
+[03/03/2023 16:19:53]
+  Submarine: Orca
+[03/03/2023 16:19:53]
+  Level seed: New NanhuiBalagtan
+[03/03/2023 16:19:53]
+  Mission: Доставка медицинских материалов
+[03/03/2023 16:19:55]
+  Round started.
+[03/03/2023 16:19:59]
+  Fractalguardian2 equipped Паровая пушка стража
+[03/03/2023 16:19:59]
+  Fractalguardian equipped Гарпун стража
+[03/03/2023 16:19:59]
+  Fractalguardian equipped Гарпун стража
+[03/03/2023 16:20:29]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/03/2023 16:20:56]
+  Sara Lyons: Здесь ужасно тихо.
+[03/03/2023 16:22:20]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/03/2023 16:23:52]
+  Bennie Castro: Неизвестная цель обнаружена!
+[03/03/2023 16:23:52]
+  Bennie Castro: Огонь!
+[03/03/2023 16:23:54]
+  Inner wall breached by Spineling
+[03/03/2023 16:23:54]
+  Outer wall breached by Spineling
+[03/03/2023 16:23:54]
+  Inner wall breached by Spineling
+[03/03/2023 16:23:54]
+  Inner wall breached by Spineling
+[03/03/2023 16:23:55]
+  Outer wall breached by Spineling
+[03/03/2023 16:23:55]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:55]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:55]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:23:55]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 16:23:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Rowena Colpitts started repairing Сливной клапан
+[03/03/2023 16:23:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:56]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:23:56]
+  Bennie Castro: Кажется, есть попадание!
+[03/03/2023 16:23:57]
+  Outer wall breached by Spineling
+[03/03/2023 16:23:57]
+  Outer wall breached by Spineling
+[03/03/2023 16:23:57]
+  Outer wall breached by Spineling
+[03/03/2023 16:23:59]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:23:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:23:59]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:23:59]
+  Bennie Castro: Цель уничтожена!
+[03/03/2023 16:24:00]
+  Rowena Colpitts started repairing Люк с кнопками
+[03/03/2023 16:24:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:00]
+  Inner wall breached by Spineling
+[03/03/2023 16:24:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Inner wall breached by Spineling
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:24:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:01]
+  Bennie Castro: Кажется, есть попадание!
+[03/03/2023 16:24:03]
+  Outer wall breached by Spineling
+[03/03/2023 16:24:03]
+  Dominick Mansfield started repairing Настраиваемый люк
+[03/03/2023 16:24:03]
+  Sara Lyons started repairing Люк с кнопками
+[03/03/2023 16:24:03]
+  Outer wall breached by Spineling
+[03/03/2023 16:24:03]
+  Outer wall breached by Spineling
+[03/03/2023 16:24:03]
+  Delbert Graves: Огонь!
+[03/03/2023 16:24:03]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:03]
+  Inner wall breached by Spineling
+[03/03/2023 16:24:03]
+  Rowena Colpitts started repairing Люк с кнопками
+[03/03/2023 16:24:03]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[03/03/2023 16:24:03]
+  Delbert Graves: Цель уничтожена!
+[03/03/2023 16:24:03]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:04]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:04]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/03/2023 16:24:04]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:06]
+  Carlton Craig: kynlan4ic получает первую помощь здесь: пункт управления!
+[03/03/2023 16:24:06]
+  Carlton Craig: Мне требуется эластичный бинт, бинт или антибиотический клей!
+[03/03/2023 16:24:07]
+  Outer wall breached by Spineling
+[03/03/2023 16:24:07]
+  Outer wall breached by Spineling
+[03/03/2023 16:24:07]
+  Bennie Castro equipped Сварочный аппарат
+[03/03/2023 16:24:07]
+  Carlton Craig equipped Бинт
+[03/03/2023 16:24:08]
+  Sara Lyons started repairing Люк с кнопками
+[03/03/2023 16:24:10]
+  Outer wall repaired by Bennie Castro
+[03/03/2023 16:24:10]
+  Bennie Castro: Камера балласта A: выполняю ремонт. Осталось несколько отверстий!
+[03/03/2023 16:24:12]
+  Claire Suarez: Стреляю!
+[03/03/2023 16:24:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:12]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:24:13]
+  Claire Suarez: И-и-и-и... Готово!
+[03/03/2023 16:24:13]
+  Carlton Craig: kynlan4ic в полном порядке!
+[03/03/2023 16:24:13]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:13]
+  Outer wall breached by Spineling
+[03/03/2023 16:24:13]
+  Bennie Castro: Надо найти водолазный скафандр!
+[03/03/2023 16:24:13]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[03/03/2023 16:24:13]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:13]
+  Delbert Graves: Кажется, есть попадание!
+[03/03/2023 16:24:14]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:15]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:24:15]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/03/2023 16:24:15]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:24:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 38.0 Кровотечение: 4.0
+[03/03/2023 16:24:16]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:18]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:18]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:18]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:18]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:19]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:19]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:19]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:19]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:19]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:19]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:22]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:24:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:22]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 16:24:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:24]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:24]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:24]
+  Outer wall breached by Delbert Graves
+[03/03/2023 16:24:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  Spineling attacked by kynlan4ic. Рваная рана: 19.0 Кровотечение: 2.0
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  Outer wall repaired by Rowena Colpitts
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  Rowena Colpitts: Камера балласта B: выполняю ремонт. Осталось несколько отверстий!
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:28]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:29]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:29]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:29]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:29]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 16:24:29]
+  Outer wall breached by Delbert Graves
+[03/03/2023 16:24:29]
+  Inner wall breached by Delbert Graves
+[03/03/2023 16:24:29]
+  Inner wall breached by Delbert Graves
+[03/03/2023 16:24:29]
+  Outer wall breached by Delbert Graves
+[03/03/2023 16:24:29]
+  Spineling has died (Cause of death: Рваная рана)
+[03/03/2023 16:24:29]
+  Claire Suarez: Кажется, есть попадание!
+[03/03/2023 16:24:29]
+  Delbert Graves: Цель уничтожена!
+[03/03/2023 16:24:30]
+  Delbert Graves: У меня новая цель!
+[03/03/2023 16:24:30]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:30]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:30]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:24:30]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:31]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:31]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:31]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:31]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:32]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:32]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:32]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:24:32]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[03/03/2023 16:24:32]
+  Delbert Graves: Цель уничтожена!
+[03/03/2023 16:24:37]
+  Outer wall repaired by Bennie Castro
+[03/03/2023 16:24:44]
+  Carlton Craig equipped Сварочный аппарат
+[03/03/2023 16:24:44]
+  Outer wall repaired by Carlton Craig
+[03/03/2023 16:24:44]
+  Carlton Craig: Инженерный отсек: протечек не осталось!
+[03/03/2023 16:24:45]
+  Joe Parchman equipped Сварочный аппарат
+[03/03/2023 16:24:49]
+  Bennie Castro opened Настраиваемая дверь с окном
+[03/03/2023 16:24:49]
+  Inner wall repaired by Joe Parchman
+[03/03/2023 16:24:54]
+  kynlan4ic picked up Сварочный аппарат
+[03/03/2023 16:24:54]
+  Bennie Castro closed Настраиваемая дверь с окном
+[03/03/2023 16:24:55]
+  kynlan4ic equipped Сварочный аппарат
+[03/03/2023 16:24:55]
+  Outer wall repaired by kynlan4ic
+[03/03/2023 16:24:58]
+  Outer wall repaired by kynlan4ic
+[03/03/2023 16:24:59]
+  Outer wall repaired by Bennie Castro
+[03/03/2023 16:25:01]
+  Outer wall repaired by kynlan4ic
+[03/03/2023 16:25:01]
+  Outer wall repaired by Joe Parchman
+[03/03/2023 16:25:04]
+  Joe Parchman unequipped Сварочный аппарат
+[03/03/2023 16:25:04]
+  Outer wall repaired by Rowena Colpitts
+[03/03/2023 16:25:04]
+  Rowena Colpitts: Камера балласта B: протечек не осталось!
+[03/03/2023 16:25:06]
+  Bennie Castro opened Настраиваемая дверь с окном
+[03/03/2023 16:25:07]
+  Outer wall repaired by Bennie Castro
+[03/03/2023 16:25:08]
+  Bennie Castro closed Настраиваемая дверь с окном
+[03/03/2023 16:25:10]
+  Carlton Craig unequipped Сварочный аппарат
+[03/03/2023 16:25:12]
+  Outer wall repaired by Rowena Colpitts
+[03/03/2023 16:25:12]
+  Inner wall repaired by Bennie Castro
+[03/03/2023 16:25:13]
+  Outer wall repaired by kynlan4ic
+[03/03/2023 16:25:13]
+  Inner wall repaired by Bennie Castro
+[03/03/2023 16:25:14]
+  Bennie Castro: Камера балласта B: все протечки устранены!
+[03/03/2023 16:25:14]
+  Carlton Craig equipped Сварочный аппарат
+[03/03/2023 16:25:15]
+  Carlton Craig unequipped Сварочный аппарат
+[03/03/2023 16:25:18]
+  Inner wall repaired by Rowena Colpitts
+[03/03/2023 16:25:18]
+  Rowena Colpitts: Пункт управления: протечек не осталось!
+[03/03/2023 16:25:19]
+  Inner wall repaired by Bennie Castro
+[03/03/2023 16:25:20]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:25:21]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/03/2023 16:25:21]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:25:23]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/03/2023 16:25:24]
+  Inner wall repaired by Rowena Colpitts
+[03/03/2023 16:25:24]
+  Bennie Castro unequipped Сварочный аппарат
+[03/03/2023 16:25:34]
+  Sara Lyons equipped Водолазный скафандр бездны
+[03/03/2023 16:25:35]
+  Rowena Colpitts closed Настраиваемая дверь с окном
+[03/03/2023 16:25:35]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 860)
+[03/03/2023 16:25:55]
+  Joe Parchman equipped Водолазный скафандр бездны
+[03/03/2023 16:26:01]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/03/2023 16:26:01]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:26:01]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:26:01]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 16:26:03]
+  Dominick Mansfield started repairing Генератор кислорода
+[03/03/2023 16:26:08]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 16:26:10]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:26:15]
+  Joe Parchman equipped Водолазный скафандр бездны
+[03/03/2023 16:26:21]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:26:21]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:26:21]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:26:21]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:26:26]
+  Dominick Mansfield started repairing Навигационный терминал
+[03/03/2023 16:26:32]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:26:37]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:26:50]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:26:51]
+  Console command "godmode" executed by kynlan4ic.
+[03/03/2023 16:26:56]
+  kynlan4ic picked up Водолазный скафандр бездны
+[03/03/2023 16:26:57]
+  kynlan4ic dropped Водолазный скафандр бездны
+[03/03/2023 16:26:58]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/03/2023 16:27:01]
+  kynlan4ic picked up Плазменный резак
+[03/03/2023 16:27:02]
+  kynlan4ic picked up Ручной сонар
+[03/03/2023 16:27:05]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/03/2023 16:27:06]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/03/2023 16:27:07]
+  kynlan4ic opened Настраиваемый люк
+[03/03/2023 16:27:12]
+  kynlan4ic equipped Ручной сонар
+[03/03/2023 16:27:46]
+  kynlan4ic closed Настраиваемый люк
+[03/03/2023 16:27:47]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/03/2023 16:27:55]
+  kynlan4ic launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:28:02]
+  kynlan4ic launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:28:10]
+  kynlan4ic placed Ручной сонар in Средний стальной шкаф с окном (ID: 929)
+[03/03/2023 16:28:10]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 929)
+[03/03/2023 16:28:12]
+  kynlan4ic dropped Боевой водолазный скафандр
+[03/03/2023 16:28:30]
+  Dominick Mansfield: Загружаю в реактор дополнительное топливо!
+[03/03/2023 16:28:31]
+  Dominick Mansfield equipped Топливный стержень
+[03/03/2023 16:28:46]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[03/03/2023 16:28:46]
+  Bennie Castro: Огонь!
+[03/03/2023 16:28:47]
+  Inner wall breached by Hammerheadgold
+[03/03/2023 16:28:47]
+  Inner wall breached by Hammerheadgold
+[03/03/2023 16:28:47]
+  Outer wall breached by Hammerheadgold
+[03/03/2023 16:28:47]
+  Outer wall breached by Hammerheadgold
+[03/03/2023 16:28:47]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:48]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:48]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:48]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:48]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:49]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:28:49]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 16:28:49]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:50]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:50]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:50]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:50]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:50]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:50]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 16:28:50]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:28:50]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:51]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[03/03/2023 16:28:51]
+  Dominick Mansfield: Мне нужно подводное снаряжение!
+[03/03/2023 16:28:51]
+  Sara Lyons: Надо найти водолазный скафандр!
+[03/03/2023 16:28:51]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[03/03/2023 16:28:55]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:56]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:28:59]
+  Bennie Castro: Надо найти водолазный скафандр!
+[03/03/2023 16:29:04]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:29:06]
+  Delbert Graves: Стреляю!
+[03/03/2023 16:29:06]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:06]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:06]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:06]
+  Outer wall breached by Hammerhead
+[03/03/2023 16:29:06]
+  Outer wall breached by Hammerhead
+[03/03/2023 16:29:07]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:07]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:07]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:07]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:07]
+  Outer wall breached by Delbert Graves
+[03/03/2023 16:29:08]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:08]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:08]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:08]
+  Outer wall breached by Hammerhead
+[03/03/2023 16:29:08]
+  Outer wall breached by Hammerhead
+[03/03/2023 16:29:08]
+  Outer wall breached by Hammerhead
+[03/03/2023 16:29:08]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:09]
+  Outer wall breached by Hammerheadgold
+[03/03/2023 16:29:09]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/03/2023 16:29:09]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:09]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:09]
+  Hammerhead has died (Cause of death: Повреждение глубоких тканей)
+[03/03/2023 16:29:12]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:12]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:12]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:14]
+  Joe Parchman: Мне нужно подводное снаряжение!
+[03/03/2023 16:29:16]
+  Bennie Castro equipped Сварочный аппарат
+[03/03/2023 16:29:17]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:17]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:17]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:17]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:18]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:18]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:18]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:18]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:19]
+  Hammerhead has died (Cause of death: Повреждение глубоких тканей)
+[03/03/2023 16:29:19]
+  Delbert Graves: И-и-и-и... Готово!
+[03/03/2023 16:29:22]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:22]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:22]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:22]
+  Sara Lyons: Надо найти водолазный скафандр!
+[03/03/2023 16:29:22]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:23]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:23]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:23]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:29:23]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/03/2023 16:29:23]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:23]
+  Carlton Craig: Надо найти водолазный скафандр!
+[03/03/2023 16:29:24]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:24]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:24]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:24]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:24]
+  Rowena Colpitts: Стыковочный порт: протечек не осталось!
+[03/03/2023 16:29:25]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:25]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:25]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:25]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:26]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:26]
+  Joe Parchman equipped Сварочный аппарат
+[03/03/2023 16:29:26]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:26]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:26]
+  Dominick Mansfield: Надо найти водолазный скафандр!
+[03/03/2023 16:29:27]
+  Joe Parchman: Камера балласта A: все протечки устранены!
+[03/03/2023 16:29:27]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/03/2023 16:29:27]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/03/2023 16:29:27]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/03/2023 16:29:27]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:29:27]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:29:27]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:29:28]
+  Rowena Colpitts: Мне нужен кислород!
+[03/03/2023 16:29:32]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 16:29:32]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:29:32]
+  Rowena Colpitts: Мне нужно подводное снаряжение!
+[03/03/2023 16:29:32]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:29:33]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/03/2023 16:29:34]
+  Rowena Colpitts: Меняем кислородные баллоны!
+[03/03/2023 16:29:34]
+  Rowena Colpitts: У меня больше нет кислородных баллонов, кроме этого.
+[03/03/2023 16:29:38]
+  Carlton Craig equipped Сварочный аппарат
+[03/03/2023 16:29:39]
+  Delbert Graves: Стреляю!
+[03/03/2023 16:29:39]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:40]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:40]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:40]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:40]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:41]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:41]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:41]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:42]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:42]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:42]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:42]
+  Bennie Castro: Камера балласта C: выполняю ремонт. Осталось несколько отверстий!
+[03/03/2023 16:29:42]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:43]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:29:43]
+  Rowena Colpitts started repairing Двигатель
+[03/03/2023 16:29:43]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:43]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:43]
+  Delbert Graves launched Магнитная пушка (projectile: Взрывной снаряд магнитной пушки)
+[03/03/2023 16:29:44]
+  Hammerheadgold has died (Cause of death: Повреждение глубоких тканей)
+[03/03/2023 16:29:44]
+  Delbert Graves: Кажется, есть попадание!
+[03/03/2023 16:29:50]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:29:52]
+  Sara Lyons started repairing Фабрикатор
+[03/03/2023 16:29:54]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:29:54]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:29:56]
+  Rowena Colpitts started repairing Деконструктор
+[03/03/2023 16:30:01]
+  Rowena Colpitts started repairing Фабрикатор
+[03/03/2023 16:30:04]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:30:04]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/03/2023 16:30:05]
+  Outer wall repaired by Joe Parchman
+[03/03/2023 16:30:08]
+  Dominick Mansfield failed to repair Деконструктор
+[03/03/2023 16:30:09]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/03/2023 16:30:09]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:30:10]
+  Sara Lyons failed to repair Малый насос
+[03/03/2023 16:30:11]
+  Outer wall repaired by Joe Parchman
+[03/03/2023 16:30:12]
+  Joe Parchman unequipped Сварочный аппарат
+[03/03/2023 16:30:13]
+  Bennie Castro unequipped Сварочный аппарат
+[03/03/2023 16:30:13]
+  Bennie Castro equipped Топливный бак сварочного аппарата
+[03/03/2023 16:30:13]
+  Bennie Castro equipped Сварочный аппарат
+[03/03/2023 16:30:13]
+  Outer wall repaired by Bennie Castro
+[03/03/2023 16:30:13]
+  Bennie Castro: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[03/03/2023 16:30:14]
+  kynlan4ic equipped Ящик пробивных снарядов
+[03/03/2023 16:30:15]
+  Sara Lyons started repairing Двигатель
+[03/03/2023 16:30:16]
+  Outer wall repaired by Carlton Craig
+[03/03/2023 16:30:16]
+  kynlan4ic dropped Ящик пробивных снарядов
+[03/03/2023 16:30:21]
+  Rowena Colpitts started repairing Малый насос
+[03/03/2023 16:30:21]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:30:21]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:30:22]
+  Joe Parchman equipped Топливный бак сварочного аппарата
+[03/03/2023 16:30:23]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 16:30:23]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:30:23]
+  Carlton Craig unequipped Сварочный аппарат
+[03/03/2023 16:30:25]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:30:25]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:30:25]
+  Bennie Castro unequipped Сварочный аппарат
+[03/03/2023 16:30:28]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 16:30:28]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:30:28]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 16:30:28]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/03/2023 16:30:28]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/03/2023 16:30:28]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:30:29]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:30:29]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 16:30:29]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:30:29]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:30:29]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:30:29]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:30:32]
+  kynlan4ic equipped Боевой водолазный скафандр
+[03/03/2023 16:30:32]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 16:30:32]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:30:32]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:30:32]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:30:32]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 16:30:32]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:30:34]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:30:34]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:30:36]
+  Sara Lyons started repairing Ядерный реактор
+[03/03/2023 16:30:38]
+  Rowena Colpitts started repairing Ядерный реактор
+[03/03/2023 16:30:38]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/03/2023 16:30:39]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 82)
+[03/03/2023 16:30:44]
+  Carlton Craig equipped Водолазный скафандр бездны
+[03/03/2023 16:30:44]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:30:48]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[03/03/2023 16:30:50]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 16:30:50]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:30:51]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:30:51]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:30:51]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 16:30:51]
+  Sara Lyons: Надо найти водолазный скафандр!
+[03/03/2023 16:30:52]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:30:52]
+  Dominick Mansfield: Мне нужно подводное снаряжение!
+[03/03/2023 16:31:01]
+  Dominick Mansfield started repairing Деконструктор
+[03/03/2023 16:31:04]
+  Rowena Colpitts started repairing Фабрикатор
+[03/03/2023 16:31:09]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:31:09]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 16:31:10]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 16:31:11]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 16:31:11]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 16:31:11]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 16:31:11]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:31:13]
+  Joe Parchman equipped Боевой водолазный скафандр
+[03/03/2023 16:31:13]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:31:13]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/03/2023 16:31:14]
+  Outer wall repaired by Rowena Colpitts
+[03/03/2023 16:31:17]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/03/2023 16:31:18]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:31:18]
+  Sara Lyons equipped Кислородный баллон
+[03/03/2023 16:31:20]
+  Sara Lyons: Невозможно добраться: Полка для хранения кислородных баллонов!
+[03/03/2023 16:31:23]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/03/2023 16:31:23]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 16:31:23]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 16:31:23]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:31:29]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[03/03/2023 16:31:33]
+  Joe Parchman equipped Кислородный баллон
+[03/03/2023 16:31:35]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 16:31:35]
+  Rowena Colpitts equipped Топливный стержень
+[03/03/2023 16:31:35]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 16:31:38]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:31:39]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:31:45]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 16:31:46]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:31:53]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 16:31:53]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 16:31:53]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:31:58]
+  kynlan4ic picked up Плазменный резак
+[03/03/2023 16:31:59]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/03/2023 16:31:59]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:32:02]
+  kynlan4ic opened Настраиваемый люк
+[03/03/2023 16:32:03]
+  kynlan4ic opened Настраиваемый люк
+[03/03/2023 16:32:04]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:32:04]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 16:32:06]
+  kynlan4ic equipped Плазменный резак
+[03/03/2023 16:32:09]
+  Joe Parchman equipped Боевой водолазный скафандр
+[03/03/2023 16:32:12]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:32:18]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:32:18]
+  Sara Lyons equipped Кислородный баллон
+[03/03/2023 16:32:22]
+  Sara Lyons: Невозможно добраться: Полка для хранения кислородных баллонов!
+[03/03/2023 16:32:35]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:32:35]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:32:37]
+  Rowena Colpitts failed to repair Кабельная коробка
+[03/03/2023 16:32:42]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:32:44]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:32:50]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:33:07]
+  kynlan4ic placed Касситерит in Пояс инструментов (ID: 9277)
+[03/03/2023 16:33:07]
+  kynlan4ic placed Касситерит in Пояс инструментов (ID: 9277)
+[03/03/2023 16:33:07]
+  kynlan4ic placed Касситерит in Пояс инструментов (ID: 9277)
+[03/03/2023 16:33:07]
+  kynlan4ic placed Касситерит in Пояс инструментов (ID: 9277)
+[03/03/2023 16:33:14]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:33:15]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:33:18]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 16:33:19]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:33:22]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:33:26]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 16:33:26]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:33:27]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:33:29]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:33:41]
+  kynlan4ic closed Настраиваемый люк
+[03/03/2023 16:33:42]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/03/2023 16:33:43]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/03/2023 16:33:45]
+  kynlan4ic dropped Боевой водолазный скафандр
+[03/03/2023 16:33:52]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 929)
+[03/03/2023 16:33:56]
+  kynlan4ic equipped Водолазный скафандр бездны
+[03/03/2023 16:34:01]
+  kynlan4ic dropped Водолазный скафандр бездны
+[03/03/2023 16:34:16]
+  kynlan4ic placed Полигалит in Контейнер для хранения (ID: 2292)
+[03/03/2023 16:34:16]
+  kynlan4ic placed Полигалит in Контейнер для хранения (ID: 2292)
+[03/03/2023 16:34:16]
+  kynlan4ic placed Полигалит in Контейнер для хранения (ID: 2292)
+[03/03/2023 16:34:18]
+  kynlan4ic placed Эсперит in Контейнер для хранения (ID: 33)
+[03/03/2023 16:34:18]
+  kynlan4ic placed Эсперит in Контейнер для хранения (ID: 33)
+[03/03/2023 16:34:18]
+  kynlan4ic placed Эсперит in Контейнер для хранения (ID: 33)
+[03/03/2023 16:34:20]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1242)
+[03/03/2023 16:34:24]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 76)
+[03/03/2023 16:34:24]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 76)
+[03/03/2023 16:34:24]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 76)
+[03/03/2023 16:34:28]
+  kynlan4ic placed Касситерит in Контейнер для хранения (ID: 3047)
+[03/03/2023 16:34:28]
+  kynlan4ic placed Касситерит in Контейнер для хранения (ID: 3047)
+[03/03/2023 16:34:28]
+  kynlan4ic placed Касситерит in Контейнер для хранения (ID: 3047)
+[03/03/2023 16:34:28]
+  kynlan4ic placed Касситерит in Контейнер для хранения (ID: 3047)
+[03/03/2023 16:34:30]
+  kynlan4ic equipped Контейнер для хранения
+[03/03/2023 16:34:30]
+  kynlan4ic picked up Контейнер для хранения
+[03/03/2023 16:34:37]
+  kynlan4ic picked up Титанит
+[03/03/2023 16:34:37]
+  kynlan4ic picked up Титанит
+[03/03/2023 16:34:37]
+  kynlan4ic picked up Титанит
+[03/03/2023 16:34:37]
+  kynlan4ic picked up Титанит
+[03/03/2023 16:34:39]
+  kynlan4ic placed Контейнер для хранения in Большой стальной шкаф (ID: 251)
+[03/03/2023 16:34:41]
+  kynlan4ic placed Титанит in Деконструктор (ID: 211)
+[03/03/2023 16:34:41]
+  kynlan4ic placed Титанит in Деконструктор (ID: 211)
+[03/03/2023 16:34:41]
+  kynlan4ic placed Титанит in Деконструктор (ID: 211)
+[03/03/2023 16:34:41]
+  kynlan4ic placed Титанит in Деконструктор (ID: 211)
+[03/03/2023 16:34:43]
+  Bennie Castro: Кто-нибудь слышал что-нибудь о профсоюзах?
+[03/03/2023 16:34:43]
+  kynlan4ic picked up Стальной слиток
+[03/03/2023 16:34:44]
+  kynlan4ic picked up Органическое волокно
+[03/03/2023 16:34:46]
+  kynlan4ic activated Деконструктор
+[03/03/2023 16:34:47]
+  Claire Suarez: Да, и что с того?
+[03/03/2023 16:34:47]
+  kynlan4ic placed Стальной слиток in Большой стальной шкаф (ID: 251)
+[03/03/2023 16:34:48]
+  kynlan4ic placed Органическое волокно in Большой стальной шкаф (ID: 251)
+[03/03/2023 16:34:49]
+  Bennie Castro: Думаю, нам надо создать профсоюз.
+[03/03/2023 16:34:49]
+  kynlan4ic placed Стальной слиток in Контейнер для хранения (ID: 76)
+[03/03/2023 16:34:51]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 16:34:52]
+  Sara Lyons equipped Отвертка
+[03/03/2023 16:34:52]
+  kynlan4ic placed Органическое волокно in Контейнер для хранения (ID: 2292)
+[03/03/2023 16:34:52]
+  Bennie Castro: Было бы неплохо повысить стандарты безопасности, увеличить зарплаты, добиться достойной пенсии...
+[03/03/2023 16:34:54]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 16:34:56]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 16:34:57]
+  Claire Suarez: Думаешь, ты доживешь до пенсии?
+[03/03/2023 16:35:00]
+  Bennie Castro: Справедливо.
+[03/03/2023 16:35:01]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 16:35:03]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 16:35:37]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[03/03/2023 16:35:38]
+  Bennie Castro: Огонь!
+[03/03/2023 16:35:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:41]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:43]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:44]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:44]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:44]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[03/03/2023 16:35:44]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/03/2023 16:35:45]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)

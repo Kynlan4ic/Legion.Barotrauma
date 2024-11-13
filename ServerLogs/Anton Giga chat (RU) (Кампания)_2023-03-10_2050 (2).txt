@@ -1,0 +1,1607 @@
+﻿[03/10/2023 20:29:01]
+  Darwin Brady equipped Водолазный скафандр
+[03/10/2023 20:29:01]
+  igameCrog adjusted reactor settings: Temperature: 1203, Fission rate: 30, Turbine output: 56, Autotemp OFF
+[03/10/2023 20:29:02]
+  kynlan4ic adjusted reactor settings: Temperature: 2195, Fission rate: 24, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:03]
+  igameCrog adjusted reactor settings: Temperature: 2024, Fission rate: 26, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:05]
+  kynlan4ic adjusted reactor settings: Temperature: 2411, Fission rate: 25, Turbine output: 76, Autotemp OFF
+[03/10/2023 20:29:06]
+  kynlan4ic adjusted reactor settings: Temperature: 1869, Fission rate: 25, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:07]
+  kynlan4ic adjusted reactor settings: Temperature: 2330, Fission rate: 25, Turbine output: 64, Autotemp OFF
+[03/10/2023 20:29:08]
+  Супостат499 adjusted reactor settings: Temperature: 3178, Fission rate: 33, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:09]
+  kynlan4ic adjusted reactor settings: Temperature: 4194, Fission rate: 33, Turbine output: 61, Autotemp OFF
+[03/10/2023 20:29:10]
+  kynlan4ic adjusted reactor settings: Temperature: 4489, Fission rate: 33, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:15]
+  kynlan4ic adjusted reactor settings: Temperature: 4439, Fission rate: 36, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:16]
+  kynlan4ic adjusted reactor settings: Temperature: 5260, Fission rate: 55, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:17]
+  kynlan4ic adjusted reactor settings: Temperature: 6260, Fission rate: 74, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:18]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 3530)
+[03/10/2023 20:29:18]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 3530)
+[03/10/2023 20:29:18]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 3666)
+[03/10/2023 20:29:18]
+  kynlan4ic adjusted reactor settings: Temperature: 7260, Fission rate: 38, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:19]
+  kynlan4ic adjusted reactor settings: Temperature: 7727, Fission rate: 22, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:20]
+  kynlan4ic adjusted reactor settings: Temperature: 6727, Fission rate: 29, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:21]
+  kynlan4ic adjusted reactor settings: Temperature: 5727, Fission rate: 30, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:22]
+  kynlan4ic adjusted reactor settings: Temperature: 4727, Fission rate: 38, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:23]
+  kynlan4ic adjusted reactor settings: Temperature: 5173, Fission rate: 38, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:27]
+  kynlan4ic adjusted reactor settings: Temperature: 6048, Fission rate: 37, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:28]
+  kynlan4ic adjusted reactor settings: Temperature: 5536, Fission rate: 34, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:32]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:29:34]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:29:35]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:29:36]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:29:37]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 20:29:37]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 20:29:39]
+  kynlan4ic adjusted reactor settings: Temperature: 4690, Fission rate: 34, Turbine output: 66, Autotemp OFF
+[03/10/2023 20:29:40]
+  kynlan4ic adjusted reactor settings: Temperature: 4193, Fission rate: 34, Turbine output: 74, Autotemp OFF
+[03/10/2023 20:29:40]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/10/2023 20:29:41]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 20:29:41]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:29:41]
+  kynlan4ic adjusted reactor settings: Temperature: 3857, Fission rate: 34, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:29:41]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 20:29:41]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:29:45]
+  Devin Maxwell started repairing Монитор состояния
+[03/10/2023 20:29:45]
+  Darwin Brady failed to repair Батарея
+[03/10/2023 20:29:50]
+  igameCrog equipped Отвертка
+[03/10/2023 20:29:51]
+  Darwin Brady started repairing Батарея
+[03/10/2023 20:29:52]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 20:29:55]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:29:56]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:30:00]
+  kynlan4ic closed Дверь с кнопками
+[03/10/2023 20:30:00]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 20:30:04]
+  Супостат499 placed Касситерит in Рюкзак (ID: 3530)
+[03/10/2023 20:30:04]
+  Супостат499 placed Касситерит in Рюкзак (ID: 3530)
+[03/10/2023 20:30:04]
+  Супостат499 placed Касситерит in Рюкзак (ID: 3530)
+[03/10/2023 20:30:12]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:30:12]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 20:30:13]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:30:15]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 20:30:17]
+  Супостат499 closed Дверь с кнопками
+[03/10/2023 20:30:17]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:30:17]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:30:17]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:30:17]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:30:18]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:30:21]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:30:26]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 20:30:26]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 20:30:29]
+  Супостат499 adjusted reactor settings: Temperature: 3670, Fission rate: 24, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:30]
+  Darwin Brady failed to repair Генератор кислорода челнока
+[03/10/2023 20:30:31]
+  Супостат499 adjusted reactor settings: Temperature: 2660, Fission rate: 0, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:32]
+  Супостат499 adjusted reactor settings: Temperature: 1510, Fission rate: 9, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:33]
+  Супостат499 adjusted reactor settings: Temperature: 510, Fission rate: 34, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:34]
+  Супостат499 adjusted reactor settings: Temperature: 977, Fission rate: 39, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  Супостат499 adjusted reactor settings: Temperature: 1977, Fission rate: 36, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:39]
+  igameCrog equipped Коричневый провод
+[03/10/2023 20:30:39]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 742)
+[03/10/2023 20:30:41]
+  Супостат499 placed Military Mk-I Hardsuit (Mercenary) in Шкаф для подводного снаряжения (ID: 742)
+[03/10/2023 20:30:43]
+  igameCrog connected a wire to Ядерный реактор (shutdown)
+[03/10/2023 20:30:46]
+  Супостат499 picked up Водолазный скафандр
+[03/10/2023 20:30:47]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:30:48]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:30:52]
+  Darwin Brady started repairing Батарея
+[03/10/2023 20:30:53]
+  Devin Maxwell failed to repair Батарея
+[03/10/2023 20:30:57]
+  Супостат499 placed Водолазный скафандр in Деконструктор (ID: 627)
+[03/10/2023 20:30:57]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 20:30:58]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:30:58]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:30:58]
+  Супостат499 placed Физраствор in Средний стальной шкаф (ID: 1330)
+[03/10/2023 20:30:59]
+  Супостат499 activated Деконструктор
+[03/10/2023 20:31:03]
+  igameCrog equipped Выключатель
+[03/10/2023 20:31:04]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:31:04]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:31:04]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 20:31:07]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:31:07]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:31:12]
+  igameCrog attached Выключатель to a wall
+[03/10/2023 20:31:21]
+  Супостат499 placed Касситерит in Деконструктор (ID: 627)
+[03/10/2023 20:31:21]
+  Супостат499 placed Касситерит in Деконструктор (ID: 627)
+[03/10/2023 20:31:21]
+  Супостат499 placed Касситерит in Деконструктор (ID: 627)
+[03/10/2023 20:31:23]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:31:24]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:31:25]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 20:31:28]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 20:31:30]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:31:30]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:31:32]
+  Супостат499 activated Деконструктор
+[03/10/2023 20:31:42]
+  igameCrog equipped Гаечный ключ
+[03/10/2023 20:31:53]
+  kynlan4ic docked Wellerman to Шахта Jaavuari
+[03/10/2023 20:31:53]
+  igameCrog equipped Коричневый провод
+[03/10/2023 20:31:55]
+  Ending the round...
+[03/10/2023 20:31:55]
+  Round ended.
+[03/10/2023 20:31:57]
+  Starting a new round...
+[03/10/2023 20:32:13]
+  Game mode: Кампания
+[03/10/2023 20:32:13]
+  Submarine: Wellerman
+[03/10/2023 20:32:13]
+  Level seed: Jaavuari
+[03/10/2023 20:32:13]
+  Bettyann Southworth equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Bettyann Southworth unequipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Bettyann Southworth equipped Отвертка
+[03/10/2023 20:32:13]
+  Bettyann Southworth unequipped Отвертка
+[03/10/2023 20:32:13]
+  Bettyann Southworth equipped Лом
+[03/10/2023 20:32:13]
+  Yahaira Hajek equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Yahaira Hajek unequipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Yahaira Hajek equipped Отвертка
+[03/10/2023 20:32:13]
+  Joyce Stanley equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Joyce Stanley unequipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Joyce Stanley equipped Отвертка
+[03/10/2023 20:32:13]
+  Lanny Ulrich equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Lanny Ulrich unequipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Lanny Ulrich equipped Отвертка
+[03/10/2023 20:32:13]
+  Lane Maynes equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Shirlee Hillard equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Edgar Ordway equipped Отвертка
+[03/10/2023 20:32:13]
+  Stevie House equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Kizzie Huber equipped Лом
+[03/10/2023 20:32:13]
+  Arcelia Shah equipped Отвертка
+[03/10/2023 20:32:13]
+  Todd Pool equipped Отвертка
+[03/10/2023 20:32:13]
+  Kristeen Hampton equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  igameCrog equipped Коричневый провод
+[03/10/2023 20:32:13]
+  igameCrog equipped Гаечный ключ
+[03/10/2023 20:32:13]
+  Round started.
+[03/10/2023 20:32:14]
+  Stevie House unequipped Гаечный ключ
+[03/10/2023 20:32:14]
+  Arcelia Shah unequipped Отвертка
+[03/10/2023 20:32:14]
+  Kristeen Hampton unequipped Гаечный ключ
+[03/10/2023 20:32:14]
+  Lane Maynes unequipped Гаечный ключ
+[03/10/2023 20:32:14]
+  Shirlee Hillard unequipped Гаечный ключ
+[03/10/2023 20:32:14]
+  Todd Pool unequipped Отвертка
+[03/10/2023 20:32:14]
+  Kizzie Huber unequipped Лом
+[03/10/2023 20:32:15]
+  Edgar Ordway unequipped Отвертка
+[03/10/2023 20:32:15]
+  Bettyann Southworth unequipped Лом
+[03/10/2023 20:32:33]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 20:32:48]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 20:32:54]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 20:33:04]
+  Arcelia Shah: Вы слышали? Сектанты-оболочечники напали на здание суда в столице!
+[03/10/2023 20:33:04]
+  igameCrog detached Выключатель from a wall
+[03/10/2023 20:33:06]
+  igameCrog equipped Выключатель
+[03/10/2023 20:33:09]
+  Bettyann Southworth: А какой аванпост сейчас столица?
+[03/10/2023 20:33:13]
+  igameCrog attached Выключатель to a wall
+[03/10/2023 20:33:20]
+  igameCrog equipped Отвертка
+[03/10/2023 20:33:23]
+  igameCrog connected a wire to Выключатель (signal_out)
+[03/10/2023 20:33:35]
+  Lanny Ulrich: Всем привет! Похоже, у вас был тяжелый рейс.
+[03/10/2023 20:33:55]
+  igameCrog connected a wire from Ядерный реактор (shutdown) to Выключатель (signal_out)
+[03/10/2023 20:35:06]
+  Руди has died (Cause of death: Укусы)
+[03/10/2023 20:35:06]
+  Yahaira Hajek unequipped Отвертка
+[03/10/2023 20:35:44]
+  igameCrog purchased 1 item(s) for 192 кр.
+ - Текстовый экран x1
+[03/10/2023 20:35:45]
+  SERVER: Purchased level 1 weapons.turretincreaseoffsetonselected for 6000
+[03/10/2023 20:35:45]
+  Joyce Stanley: Благодарю за покупку! Я начну работать на вашей подлодке незадолго до вашего отбытия.
+[03/10/2023 20:35:50]
+  Console command "money 7000" executed by kynlan4ic.
+[03/10/2023 20:35:50]
+  Console command "money 7000" executed by kynlan4ic.
+[03/10/2023 20:35:53]
+  Супостат499 purchased 1 item(s) for 240 кр.
+ - Тяжёлый рюкзак x1
+[03/10/2023 20:35:55]
+  SERVER: Purchased level 1 electricaldevices.decreasedeteriorationspeed for 4500
+[03/10/2023 20:36:00]
+  SERVER: Purchased level 1 deconstructors.decreasedeconstructiontime for 3000
+[03/10/2023 20:36:03]
+  Joyce Stanley unequipped Отвертка
+[03/10/2023 20:36:04]
+  igameCrog picked up Этанол
+[03/10/2023 20:36:04]
+  igameCrog picked up Этанол
+[03/10/2023 20:36:04]
+  igameCrog picked up Этанол
+[03/10/2023 20:36:59]
+  kynlan4ic picked up Комбинезон шахтера
+[03/10/2023 20:36:59]
+  kynlan4ic picked up Наушники
+[03/10/2023 20:37:33]
+  Lanny Ulrich unequipped Отвертка
+[03/10/2023 20:38:00]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:01]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:02]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:03]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:04]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:05]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:08]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:09]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:10]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:11]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:16]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:17]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:19]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:22]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:24]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:25]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:26]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:31]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:32]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:33]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:34]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:35]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:36]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:39]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:43]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:44]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:45]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:38:50]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 20:38:54]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 20:38:56]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:00]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:02]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:03]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:05]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:06]
+  kynlan4ic adjusted reactor settings: Temperature: 1016, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:07]
+  igameCrog adjusted reactor settings: Temperature: 2230, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:08]
+  igameCrog adjusted reactor settings: Temperature: 2182, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:11]
+  igameCrog adjusted reactor settings: Temperature: 2200, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:12]
+  kynlan4ic adjusted reactor settings: Temperature: 2403, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:14]
+  igameCrog adjusted reactor settings: Temperature: 2245, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:16]
+  igameCrog adjusted reactor settings: Temperature: 2045, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:17]
+  kynlan4ic adjusted reactor settings: Temperature: 2382, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:20]
+  Супостат499 adjusted reactor settings: Temperature: 2100, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:23]
+  igameCrog disconnected a wire from Ядерный реактор (shutdown) to Выключатель (signal_out)
+[03/10/2023 20:39:24]
+  Супостат499 adjusted reactor settings: Temperature: 1697, Fission rate: 2, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:25]
+  Супостат499 adjusted reactor settings: Temperature: 2583, Fission rate: 28, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:26]
+  Супостат499 adjusted reactor settings: Temperature: 3599, Fission rate: 38, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:27]
+  Супостат499 adjusted reactor settings: Temperature: 4616, Fission rate: 33, Turbine output: 0, Autotemp OFF
+[03/10/2023 20:39:28]
+  Супостат499 adjusted reactor settings: Temperature: 5633, Fission rate: 32, Turbine output: 30, Autotemp OFF
+[03/10/2023 20:39:29]
+  Супостат499 adjusted reactor settings: Temperature: 6633, Fission rate: 32, Turbine output: 30, Autotemp OFF
+[03/10/2023 20:39:30]
+  Супостат499 adjusted reactor settings: Temperature: 7470, Fission rate: 15, Turbine output: 30, Autotemp OFF
+[03/10/2023 20:39:31]
+  Супостат499 adjusted reactor settings: Temperature: 6470, Fission rate: 15, Turbine output: 33, Autotemp OFF
+[03/10/2023 20:39:32]
+  Супостат499 adjusted reactor settings: Temperature: 5470, Fission rate: 15, Turbine output: 90, Autotemp OFF
+[03/10/2023 20:39:33]
+  Супостат499 adjusted reactor settings: Temperature: 4470, Fission rate: 15, Turbine output: 78, Autotemp OFF
+[03/10/2023 20:39:34]
+  Супостат499 adjusted reactor settings: Temperature: 3470, Fission rate: 15, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:35]
+  Супостат499 adjusted reactor settings: Temperature: 2470, Fission rate: 29, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:36]
+  Супостат499 adjusted reactor settings: Temperature: 2303, Fission rate: 41, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:37]
+  Супостат499 adjusted reactor settings: Temperature: 3303, Fission rate: 49, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:38]
+  Супостат499 adjusted reactor settings: Temperature: 4303, Fission rate: 47, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:39]
+  Супостат499 adjusted reactor settings: Temperature: 5303, Fission rate: 29, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:40]
+  Супостат499 adjusted reactor settings: Temperature: 4970, Fission rate: 37, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:41]
+  Супостат499 adjusted reactor settings: Temperature: 4605, Fission rate: 36, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:39:51]
+  Супостат499 equipped Гаечный ключ
+[03/10/2023 20:39:51]
+  Супостат499 equipped Отвертка
+[03/10/2023 20:40:03]
+  Супостат499 adjusted reactor settings: Temperature: 4337, Fission rate: 36, Turbine output: 71, Autotemp OFF
+[03/10/2023 20:40:04]
+  Супостат499 adjusted reactor settings: Temperature: 4763, Fission rate: 36, Turbine output: 60, Autotemp OFF
+[03/10/2023 20:40:05]
+  Супостат499 adjusted reactor settings: Temperature: 5227, Fission rate: 35, Turbine output: 62, Autotemp ON
+[03/10/2023 20:40:22]
+  Супостат499 picked up Fire Jumpsuit
+[03/10/2023 20:41:02]
+  Супостат499 started fabricating Защищенный металлический ящик in Фабрикатор
+[03/10/2023 20:41:13]
+  Супостат499 equipped Защищенный металлический ящик
+[03/10/2023 20:41:13]
+  Супостат499 picked up Защищенный металлический ящик
+[03/10/2023 20:41:30]
+  Супостат499 placed Титан in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:41:30]
+  Супостат499 placed Титан in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:41:30]
+  Супостат499 placed Титан in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:41:58]
+  Супостат499 placed Схема на базе ППВМ in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:41:58]
+  Супостат499 placed Схема на базе ППВМ in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:42:03]
+  kynlan4ic purchased 4 item(s) for 933 кр.
+ - Свинец x10
+ - Этанол x6
+ - Баллон с кислородитом x1
+ - Подводный скутер x2
+[03/10/2023 20:42:05]
+  Супостат499 dropped Защищенный металлический ящик
+[03/10/2023 20:42:10]
+  Супостат499 equipped Контейнер для хранения
+[03/10/2023 20:42:10]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:42:15]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:17]
+  Супостат499 picked up Олово
+[03/10/2023 20:42:19]
+  Супостат499 picked up Резина
+[03/10/2023 20:42:19]
+  Супостат499 picked up Резина
+[03/10/2023 20:42:19]
+  Супостат499 picked up Резина
+[03/10/2023 20:42:19]
+  Супостат499 picked up Резина
+[03/10/2023 20:42:19]
+  Супостат499 picked up Резина
+[03/10/2023 20:42:19]
+  Супостат499 picked up Резина
+[03/10/2023 20:42:20]
+  Супостат499 picked up Пластик
+[03/10/2023 20:42:20]
+  Супостат499 picked up Пластик
+[03/10/2023 20:42:20]
+  Супостат499 picked up Пластик
+[03/10/2023 20:42:20]
+  Супостат499 picked up Пластик
+[03/10/2023 20:42:23]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:23]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:23]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:23]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:25]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:27]
+  Супостат499 placed Резина in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:27]
+  Супостат499 placed Резина in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:27]
+  Супостат499 placed Резина in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:27]
+  Супостат499 placed Резина in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:27]
+  Супостат499 placed Резина in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:27]
+  Супостат499 placed Резина in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:28]
+  Супостат499 placed Резина in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:29]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:30]
+  Супостат499 placed Медь in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:31]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:31]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:31]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:31]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:31]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:31]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:33]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:42:45]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:47]
+  kynlan4ic picked up Физраствор
+[03/10/2023 20:42:48]
+  Супостат499 dropped Защищенный металлический ящик
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:49]
+  kynlan4ic placed Физраствор in Аптечка (ID: 609)
+[03/10/2023 20:42:55]
+  Супостат499 equipped Military Mk-I Hardsuit
+[03/10/2023 20:42:55]
+  Супостат499 picked up Military Mk-I Hardsuit
+[03/10/2023 20:43:02]
+  Супостат499 placed Military Mk-I Hardsuit in Деконструктор (ID: 577)
+[03/10/2023 20:43:04]
+  Супостат499 picked up Military Mk-I Hardsuit
+[03/10/2023 20:43:10]
+  igameCrog has died (Cause of death: Нехватка кислорода)
+[03/10/2023 20:43:12]
+  Супостат499 placed Military Mk-I Hardsuit in Шкаф для подводного снаряжения (ID: 698)
+[03/10/2023 20:43:15]
+  kynlan4ic equipped УЗК
+[03/10/2023 20:43:44]
+  Yahaira Hajek equipped Кислородный баллон
+[03/10/2023 20:44:00]
+  Respawning everyone in main sub.
+[03/10/2023 20:44:00]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[03/10/2023 20:44:01]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 20:44:04]
+  igameCrog placed Морфин in Форма врача (ID: 7152)
+[03/10/2023 20:44:07]
+  igameCrog placed Бинт in Форма врача (ID: 7152)
+[03/10/2023 20:44:14]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:17]
+  Супостат499 placed Железо in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:20]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:30]
+  Супостат499 started fabricating Стальной слиток in Фабрикатор
+[03/10/2023 20:44:31]
+  igameCrog equipped Вещмешок
+[03/10/2023 20:44:34]
+  igameCrog picked up Подводная маска
+[03/10/2023 20:44:36]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:38]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:44:40]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:44:40]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:44:40]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:44:40]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:44:40]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:44:40]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:41]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:42]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:42]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:43]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:43]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 20:44:43]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:44]
+  Супостат499 dropped Металлический ящик
+[03/10/2023 20:44:44]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:44:46]
+  Shirlee Hillard: Верхняя задняя часть: кто-нибудь, срочно займитесь ремонтом техники!
+[03/10/2023 20:44:47]
+  igameCrog picked up Пояс инструментов
+[03/10/2023 20:44:50]
+  Shirlee Hillard equipped Кислородный баллон
+[03/10/2023 20:44:54]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:02]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 20:45:02]
+  Супостат499 picked up Металлический ящик
+[03/10/2023 20:45:05]
+  Супостат499 placed Металлический ящик in Стеллаж для ящиков (ID: 477)
+[03/10/2023 20:45:06]
+  Супостат499 removed Металлический ящик from Стеллаж для ящиков (ID: 477)
+[03/10/2023 20:45:07]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:07]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:08]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 20:45:08]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:09]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:10]
+  Leola Hillard: Потерпи! Твоя смерть важна для нас, и молох скоро будет рядом с тобой.
+[03/10/2023 20:45:12]
+  Супостат499 placed Металлический ящик in Стеллаж для ящиков (ID: 477)
+[03/10/2023 20:45:13]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 20:45:13]
+  Супостат499 picked up Металлический ящик
+[03/10/2023 20:45:16]
+  Супостат499 placed Металлический ящик in Стеллаж для ящиков (ID: 477)
+[03/10/2023 20:45:25]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 20:45:25]
+  Супостат499 picked up Металлический ящик
+[03/10/2023 20:45:28]
+  Kizzie Huber equipped Кислородный баллон
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:29]
+  Супостат499 placed Стальной слиток in Рюкзак (ID: 7014)
+[03/10/2023 20:45:31]
+  Lane Maynes unequipped Кислородный баллон
+[03/10/2023 20:45:32]
+  Супостат499 placed Металлический ящик in Стеллаж для ящиков (ID: 555)
+[03/10/2023 20:45:33]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 6992)
+[03/10/2023 20:45:34]
+  Bettyann Southworth equipped Отвертка
+[03/10/2023 20:45:35]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:36]
+  Lane Maynes equipped Кислородный баллон
+[03/10/2023 20:45:36]
+  Edgar Ordway equipped Кислородный баллон
+[03/10/2023 20:45:36]
+  Stevie House equipped Кислородный баллон
+[03/10/2023 20:45:37]
+  Arcelia Shah equipped Кислородный баллон
+[03/10/2023 20:45:37]
+  Bettyann Southworth failed to repair Кабельная коробка (обломки)
+[03/10/2023 20:45:37]
+  Kristeen Hampton equipped Кислородный баллон
+[03/10/2023 20:45:37]
+  Todd Pool equipped Кислородный баллон
+[03/10/2023 20:45:38]
+  Супостат499 equipped Disposable ammunition container
+[03/10/2023 20:45:38]
+  Супостат499 picked up Disposable ammunition container
+[03/10/2023 20:45:38]
+  kynlan4ic picked up Кислородный баллон
+[03/10/2023 20:45:38]
+  igameCrog placed Кислородный баллон in Вещмешок (ID: 7150)
+[03/10/2023 20:45:39]
+  igameCrog placed Кислородный баллон in Вещмешок (ID: 7150)
+[03/10/2023 20:45:39]
+  Супостат499 placed Disposable ammunition container in Средний стальной шкаф (ID: 773)
+[03/10/2023 20:45:41]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:41]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:41]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:41]
+  kynlan4ic removed Кислородный баллон from Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:42]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:42]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:42]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:42]
+  igameCrog removed Кислородный баллон from Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:42]
+  igameCrog removed Кислородный баллон from Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:42]
+  Супостат499 equipped Контейнер для хранения
+[03/10/2023 20:45:42]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:45:44]
+  Супостат499 equipped Контейнер для хранения
+[03/10/2023 20:45:44]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:45:44]
+  kynlan4ic picked up Кислородный баллон
+[03/10/2023 20:45:45]
+  Edgar Ordway equipped Кислородный баллон
+[03/10/2023 20:45:45]
+  Arcelia Shah equipped Кислородный баллон
+[03/10/2023 20:45:47]
+  Todd Pool equipped Кислородный баллон
+[03/10/2023 20:45:49]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:45:51]
+  Kristeen Hampton equipped Кислородный баллон
+[03/10/2023 20:45:54]
+  Bettyann Southworth unequipped Отвертка
+[03/10/2023 20:45:54]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:45:55]
+  Arcelia Shah equipped Кислородный баллон
+[03/10/2023 20:45:56]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:45:57]
+  igameCrog picked up Кислородный баллон
+[03/10/2023 20:45:57]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:45:59]
+  Супостат499 placed Нож ныряльщика in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:00]
+  Супостат499 placed Отвертка in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:00]
+  igameCrog placed Подводная маска in Вещмешок (ID: 7150)
+[03/10/2023 20:46:01]
+  Супостат499 placed Гаечный ключ in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:02]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:04]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 7075)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  Супостат499 placed Стальной слиток in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:05]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 7088)
+[03/10/2023 20:46:06]
+  kynlan4ic picked up Кислородный баллон
+[03/10/2023 20:46:08]
+  igameCrog placed Кислородный баллон in Генератор кислорода челнока (ID: 549)
+[03/10/2023 20:46:11]
+  igameCrog placed Кислородный баллон in Вещмешок (ID: 7150)
+[03/10/2023 20:46:13]
+  Супостат499 picked up Гаечный ключ
+[03/10/2023 20:46:14]
+  Супостат499 picked up Отвертка
+[03/10/2023 20:46:15]
+  Супостат499 picked up Нож ныряльщика
+[03/10/2023 20:46:15]
+  kynlan4ic placed Комбинезон шахтера in Деконструктор (ID: 577)
+[03/10/2023 20:46:15]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7075)
+[03/10/2023 20:46:15]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7075)
+[03/10/2023 20:46:15]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7075)
+[03/10/2023 20:46:16]
+  kynlan4ic placed Наушники in Деконструктор (ID: 577)
+[03/10/2023 20:46:17]
+  kynlan4ic activated Деконструктор
+[03/10/2023 20:46:21]
+  igameCrog placed Информационный экран сканера здоровья in Большой стальной шкаф (ID: 594)
+[03/10/2023 20:46:22]
+  igameCrog picked up Информационный экран сканера здоровья
+[03/10/2023 20:46:24]
+  kynlan4ic equipped Защищенный металлический ящик
+[03/10/2023 20:46:25]
+  igameCrog placed Форма врача in Вещмешок (ID: 7150)
+[03/10/2023 20:46:25]
+  igameCrog removed Форма врача from Вещмешок (ID: 7150)
+[03/10/2023 20:46:25]
+  igameCrog picked up Форма врача
+[03/10/2023 20:46:26]
+  kynlan4ic dropped Защищенный металлический ящик
+[03/10/2023 20:46:27]
+  Супостат499 placed Лом in Рюкзак (ID: 7014)
+[03/10/2023 20:46:28]
+  igameCrog picked up Форма врача
+[03/10/2023 20:46:30]
+  igameCrog placed Морфин in Форма врача (ID: 7056)
+[03/10/2023 20:46:32]
+  igameCrog placed Бинт in Форма врача (ID: 7056)
+[03/10/2023 20:46:34]
+  igameCrog dropped Форма врача
+[03/10/2023 20:46:37]
+  kynlan4ic equipped Медконтейнер
+[03/10/2023 20:46:38]
+  kynlan4ic dropped Медконтейнер
+[03/10/2023 20:46:40]
+  Супостат499 placed Гаечный ключ in Деконструктор (ID: 577)
+[03/10/2023 20:46:41]
+  Супостат499 placed Отвертка in Деконструктор (ID: 577)
+[03/10/2023 20:46:43]
+  Супостат499 placed Нож ныряльщика in Деконструктор (ID: 577)
+[03/10/2023 20:46:43]
+  Супостат499 activated Деконструктор
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:44]
+  igameCrog picked up Этанол
+[03/10/2023 20:46:47]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:46:47]
+  igameCrog picked up Гаечный ключ
+[03/10/2023 20:46:48]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:46:49]
+  igameCrog picked up Коричневый провод
+[03/10/2023 20:46:49]
+  igameCrog picked up Коричневый провод
+[03/10/2023 20:46:49]
+  igameCrog picked up Коричневый провод
+[03/10/2023 20:46:49]
+  igameCrog picked up Коричневый провод
+[03/10/2023 20:46:54]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:46:55]
+  igameCrog placed Фонарик in Большой стальной шкаф (ID: 594)
+[03/10/2023 20:46:56]
+  igameCrog dropped Вещмешок
+[03/10/2023 20:47:02]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:03]
+  Супостат499 placed Медь in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:09]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:47:13]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:47:16]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:47:17]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:47:19]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:19]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:19]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:19]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:19]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:21]
+  Супостат499 placed Олово in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:22]
+  Супостат499 placed Медь in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:22]
+  Супостат499 placed Медь in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:22]
+  Супостат499 placed Медь in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:22]
+  Супостат499 placed Медь in Контейнер для хранения (ID: 313)
+[03/10/2023 20:47:26]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:47:27]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:47:32]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:47:38]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:47:39]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:47:39]
+  igameCrog placed Информационный экран сканера здоровья in Пояс инструментов (ID: 7075)
+[03/10/2023 20:47:39]
+  igameCrog removed Подводная маска from Пояс инструментов (ID: 7075)
+[03/10/2023 20:47:39]
+  igameCrog picked up Подводная маска
+[03/10/2023 20:47:42]
+  Супостат499 dropped Металлический ящик
+[03/10/2023 20:47:43]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 20:47:45]
+  Супостат499 dropped Металлический ящик
+[03/10/2023 20:47:45]
+  Супостат499 equipped Защищенный металлический ящик
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:47:58]
+  Супостат499 placed Стальной слиток in Защищенный металлический ящик (ID: 7149)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:04]
+  Супостат499 placed Стальной слиток in Контейнер для хранения (ID: 130)
+[03/10/2023 20:48:06]
+  Супостат499 placed Титан in Контейнер для хранения (ID: 313)
+[03/10/2023 20:48:06]
+  Супостат499 placed Титан in Контейнер для хранения (ID: 313)
+[03/10/2023 20:48:06]
+  Супостат499 placed Титан in Контейнер для хранения (ID: 313)
+[03/10/2023 20:48:12]
+  Супостат499 dropped Защищенный металлический ящик
+[03/10/2023 20:48:14]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:48:25]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:48:29]
+  SERVER: Purchased level 1 reactors.increasereactoroutput for 6000
+[03/10/2023 20:48:29]
+  Joyce Stanley: Благодарю за покупку! Я начну работать на вашей подлодке незадолго до вашего отбытия.
+[03/10/2023 20:48:34]
+  Супостат499 placed Схема на базе ППВМ in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:48:34]
+  Супостат499 placed Схема на базе ППВМ in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:48:36]
+  Супостат499 dropped Защищенный металлический ящик
+[03/10/2023 20:48:43]
+  Супостат499 picked up Органическое волокно
+[03/10/2023 20:48:43]
+  Супостат499 picked up Органическое волокно
+[03/10/2023 20:48:45]
+  Супостат499 picked up Железо
+[03/10/2023 20:48:45]
+  Супостат499 picked up Железо
+[03/10/2023 20:48:51]
+  Супостат499 picked up Пластик
+[03/10/2023 20:48:51]
+  Супостат499 picked up Пластик
+[03/10/2023 20:48:54]
+  Супостат499 dropped Защищенный металлический ящик
+[03/10/2023 20:49:00]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:49:00]
+  Супостат499 placed Органическое волокно in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:49:02]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:49:02]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:49:02]
+  igameCrog purchased 1 item(s) for 120 кр.
+ - Кнопка x1
+[03/10/2023 20:49:03]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:49:03]
+  Супостат499 placed Пластик in Контейнер для хранения (ID: 1419)
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:10]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:13]
+  Супостат499 picked up Контейнер для хранения
+[03/10/2023 20:49:20]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:20]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:20]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:20]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:20]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:20]
+  kynlan4ic picked up Этанол
+[03/10/2023 20:49:22]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 579)
+[03/10/2023 20:49:26]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:35]
+  Супостат499 picked up Топливный стержень
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:41]
+  Супостат499 placed Топливный стержень in Деконструктор (ID: 577)
+[03/10/2023 20:49:43]
+  Супостат499 activated Деконструктор
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:48]
+  kynlan4ic picked up Протеиновый батончик
+[03/10/2023 20:49:51]
+  Devin Maxwell equipped Кислородный баллон
+[03/10/2023 20:49:56]
+  Devin Maxwell equipped Кислородный баллон
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:49:59]
+  kynlan4ic picked up Энергонапиток
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:05]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Этанол in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:15]
+  kynlan4ic placed Протеиновый батончик in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:16]
+  kynlan4ic placed Энергонапиток in Аптечка (ID: 609)
+[03/10/2023 20:50:17]
+  Kristeen Hampton equipped Кислородный баллон
+[03/10/2023 20:50:22]
+  Супостат499 placed Кислородный баллон in Средний стальной шкаф (ID: 1277)
+[03/10/2023 20:50:22]
+  Супостат499 placed Кислородный баллон in Средний стальной шкаф (ID: 1277)
+[03/10/2023 20:50:22]
+  Супостат499 placed Кислородный баллон in Средний стальной шкаф (ID: 1277)
+[03/10/2023 20:50:22]
+  Супостат499 placed Кислородный баллон in Средний стальной шкаф (ID: 1277)
+[03/10/2023 20:50:22]
+  Супостат499 removed Кислородный баллон from Средний стальной шкаф (ID: 1277)
+[03/10/2023 20:50:22]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7014)
+[03/10/2023 20:50:25]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7014)
+[03/10/2023 20:50:25]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7014)
+[03/10/2023 20:50:25]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7014)
+[03/10/2023 20:50:25]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7014)
+[03/10/2023 20:50:29]
+  Супостат499 picked up Кислородный баллон
+[03/10/2023 20:50:37]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:37]
+  igameCrog removed Информационный экран сканера здоровья from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:37]
+  igameCrog picked up Информационный экран сканера здоровья
+[03/10/2023 20:50:40]
+  kynlan4ic equipped Металлический ящик
+[03/10/2023 20:50:40]
+  kynlan4ic picked up Металлический ящик
+[03/10/2023 20:50:40]
+  igameCrog picked up Подводная маска
+[03/10/2023 20:50:40]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 477)
+[03/10/2023 20:50:41]
+  kynlan4ic equipped Металлический ящик
+[03/10/2023 20:50:41]
+  kynlan4ic picked up Металлический ящик
+[03/10/2023 20:50:44]
+  igameCrog placed Кислородный баллон in Большой стальной шкаф (ID: 594)
+[03/10/2023 20:50:45]
+  kynlan4ic picked up Удостоверение личности
+[03/10/2023 20:50:46]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:47]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:47]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:47]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:47]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:47]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:47]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 7075)
+[03/10/2023 20:50:48]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 553)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:53]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 dropped Топливный бак сварочного аппарата
+[03/10/2023 20:50:54]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:55]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:55]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:55]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)
+[03/10/2023 20:50:55]
+  Супостат499 placed Топливный бак сварочного аппарата in Деконструктор (ID: 577)

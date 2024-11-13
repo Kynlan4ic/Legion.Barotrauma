@@ -1,0 +1,937 @@
+﻿[02/18/2023 13:43:42]
+  Starting the server...
+[02/18/2023 13:43:42]
+  Using SteamP2P networking.
+[02/18/2023 13:43:42]
+  Server started
+[02/18/2023 13:43:42]
+  Игрок kynlan4ic присоединился к серверу.
+[02/18/2023 13:43:42]
+  Saving client permissions
+[02/18/2023 13:43:42]
+  Saving client permissions
+[02/18/2023 13:43:42]
+  Gamemode changed to Кампания
+[02/18/2023 13:44:03]
+  Игрок vlad32 присоединился к серверу.
+[02/18/2023 13:44:03]
+  Saving client permissions
+[02/18/2023 13:44:18]
+  Starting a new round...
+[02/18/2023 13:44:29]
+  Game mode: Кампания
+[02/18/2023 13:44:29]
+  Submarine: Barsuk
+[02/18/2023 13:44:29]
+  Level seed: Tara
+[02/18/2023 13:44:29]
+  Willy Sparks equipped Гаечный ключ
+[02/18/2023 13:44:29]
+  Willy Sparks unequipped Гаечный ключ
+[02/18/2023 13:44:29]
+  Willy Sparks equipped Отвертка
+[02/18/2023 13:44:30]
+  Sherry James equipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Sherry James unequipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Sherry James equipped Отвертка
+[02/18/2023 13:44:30]
+  Omari James equipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Omari James unequipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Omari James equipped Отвертка
+[02/18/2023 13:44:30]
+  Sherry Pickett equipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Sherry Pickett unequipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Sherry Pickett equipped Отвертка
+[02/18/2023 13:44:30]
+  Sherry Pickett unequipped Отвертка
+[02/18/2023 13:44:30]
+  Sherry Pickett equipped Лом
+[02/18/2023 13:44:30]
+  Corinne Goodin equipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Corinne Goodin unequipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Corinne Goodin equipped Отвертка
+[02/18/2023 13:44:30]
+  Christine Gears equipped Гаечный ключ
+[02/18/2023 13:44:30]
+  Elmer Hinton equipped Отвертка
+[02/18/2023 13:44:30]
+  Virgil Proctor equipped Отвертка
+[02/18/2023 13:44:30]
+  Pete Ram equipped Отвертка
+[02/18/2023 13:44:30]
+  Erik Roman equipped Лом
+[02/18/2023 13:44:31]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 13:44:31]
+  vlad32 equipped Отвертка
+[02/18/2023 13:44:31]
+  Round started.
+[02/18/2023 13:44:31]
+  Corinne Goodin: Ух ты, у нас снова гости.
+[02/18/2023 13:44:32]
+  Alvin Wheeling equipped Лом
+[02/18/2023 13:44:32]
+  Rupert Weaver equipped Гаечный ключ
+[02/18/2023 13:44:32]
+  Everette Buckley equipped Лом
+[02/18/2023 13:44:32]
+  Willy Sparks unequipped Отвертка
+[02/18/2023 13:44:32]
+  Everette Buckley unequipped Лом
+[02/18/2023 13:44:32]
+  Virgil Proctor unequipped Отвертка
+[02/18/2023 13:44:32]
+  Sherry Pickett unequipped Лом
+[02/18/2023 13:44:32]
+  Erik Roman unequipped Лом
+[02/18/2023 13:44:32]
+  Elmer Hinton unequipped Отвертка
+[02/18/2023 13:44:32]
+  Pete Ram unequipped Отвертка
+[02/18/2023 13:44:32]
+  Christine Gears unequipped Гаечный ключ
+[02/18/2023 13:44:56]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 13:45:07]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 13:45:17]
+  Willie Velazquez: Я с вас глаз не спущу.
+[02/18/2023 13:45:29]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 13:45:57]
+  Игрок Mr Checken Farmer присоединился к серверу.
+[02/18/2023 13:45:57]
+  Saving client permissions
+[02/18/2023 13:46:12]
+  Игрок Mr Checken Farmer сменил имя на Dr Walkit Hoff.
+[02/18/2023 13:47:01]
+  kynlan4ic equipped Контейнер для хранения
+[02/18/2023 13:47:04]
+  kynlan4ic picked up Велосипедный гудок
+[02/18/2023 13:47:04]
+  kynlan4ic picked up Клоунский костюм
+[02/18/2023 13:47:05]
+  kynlan4ic picked up Велосипедный гудок
+[02/18/2023 13:47:05]
+  kynlan4ic picked up Клоунская маска
+[02/18/2023 13:47:07]
+  kynlan4ic dropped Контейнер для хранения
+[02/18/2023 13:47:41]
+  Rupert Weaver unequipped Гаечный ключ
+[02/18/2023 13:47:47]
+  Rupert Weaver equipped Гаечный ключ
+[02/18/2023 13:47:47]
+  Everette Buckley equipped Лом
+[02/18/2023 13:47:48]
+  Everette Buckley used Лом on Rupert Weaver.
+[02/18/2023 13:47:48]
+  Everette Buckley used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:47:51]
+  Sherita Danko equipped Шоковая дубинка
+[02/18/2023 13:47:51]
+  Everette Buckley used Лом on vlad32.
+[02/18/2023 13:47:52]
+  Everette Buckley used Лом on Rupert Weaver.
+[02/18/2023 13:47:53]
+  Mafalda Feinman equipped Шоковая дубинка
+[02/18/2023 13:47:53]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:47:53]
+  Dan Hurley equipped Электрошокер
+[02/18/2023 13:47:54]
+  Leola Rhymer equipped Шоковая дубинка
+[02/18/2023 13:47:54]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:47:57]
+  Leola Rhymer unequipped Шоковая дубинка
+[02/18/2023 13:47:58]
+  Leola Rhymer equipped Шоковая дубинка
+[02/18/2023 13:48:01]
+  Sherita Danko unequipped Шоковая дубинка
+[02/18/2023 13:48:02]
+  Respawning everyone in main sub.
+[02/18/2023 13:48:02]
+  Respawning Dr Walkit Hoff (STEAM_1:1:50258936) as Врач
+[02/18/2023 13:48:02]
+  Willie Velazquez used Шоковая дубинка(Аккумулятор) on Everette Buckley.
+[02/18/2023 13:48:03]
+  Mafalda Feinman unequipped Шоковая дубинка
+[02/18/2023 13:48:03]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:48:03]
+  Dan Hurley unequipped Электрошокер
+[02/18/2023 13:48:04]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:06]
+  Rupert Weaver used Гаечный ключ on Everette Buckley.
+[02/18/2023 13:48:06]
+  Rupert Weaver used Гаечный ключ on Большая вертикальная внутренняя стена.
+[02/18/2023 13:48:07]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:48:08]
+  Dr Walkit Hoff set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 13:48:09]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:09]
+  Sherita Danko equipped Шоковая дубинка
+[02/18/2023 13:48:10]
+  Everette Buckley used Лом on Rupert Weaver.
+[02/18/2023 13:48:10]
+  Mafalda Feinman equipped Шоковая дубинка
+[02/18/2023 13:48:11]
+  Leola Rhymer used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:48:12]
+  Dan Hurley equipped Электрошокер
+[02/18/2023 13:48:12]
+  Dan Hurley unequipped Электрошокер
+[02/18/2023 13:48:13]
+  Dan Hurley equipped Электрошокер
+[02/18/2023 13:48:14]
+  Willie Velazquez used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:48:14]
+  Leola Rhymer used Шоковая дубинка(Аккумулятор) on Willie Velazquez.
+[02/18/2023 13:48:15]
+  Willie Velazquez used Шоковая дубинка(Аккумулятор) on Everette Buckley.
+[02/18/2023 13:48:16]
+  Leola Rhymer used Шоковая дубинка(Аккумулятор) on Everette Buckley.
+[02/18/2023 13:48:17]
+  Willie Velazquez unequipped Лом
+[02/18/2023 13:48:17]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Leola Rhymer unequipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Leola Rhymer equipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Dan Hurley unequipped Электрошокер
+[02/18/2023 13:48:17]
+  Mafalda Feinman unequipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Sherita Danko unequipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Leola Rhymer unequipped Шоковая дубинка
+[02/18/2023 13:48:17]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:48:18]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:20]
+  Willie Velazquez: Цель арестована!
+[02/18/2023 13:48:20]
+  Leola Rhymer: Цель арестована!
+[02/18/2023 13:48:22]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:26]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:28]
+  kynlan4ic picked up Бинт
+[02/18/2023 13:48:31]
+  kynlan4ic picked up Галоперидол
+[02/18/2023 13:48:46]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:47]
+  vlad32 equipped Плазменный резак
+[02/18/2023 13:48:48]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:51]
+  Rupert Weaver used Гаечный ключ on Corinne Goodin.
+[02/18/2023 13:48:52]
+  Corinne Goodin attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:48:52]
+  vlad32 used Гаечный ключ on Corinne Goodin.
+[02/18/2023 13:48:53]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:48:53]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:48:54]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:48:54]
+  Dan Hurley equipped Электрошокер
+[02/18/2023 13:48:54]
+  Dan Hurley unequipped Электрошокер
+[02/18/2023 13:48:55]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:48:55]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:48:55]
+  Mafalda Feinman equipped Шоковая дубинка
+[02/18/2023 13:48:55]
+  Dan Hurley equipped Электрошокер
+[02/18/2023 13:48:56]
+  Mafalda Feinman unequipped Шоковая дубинка
+[02/18/2023 13:48:56]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:48:56]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:48:56]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:48:56]
+  Mafalda Feinman equipped Шоковая дубинка
+[02/18/2023 13:48:56]
+  Sherita Danko equipped Шоковая дубинка
+[02/18/2023 13:48:56]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:48:56]
+  Leola Rhymer equipped Шоковая дубинка
+[02/18/2023 13:48:56]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:48:57]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:48:57]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:48:57]
+  Leola Rhymer unequipped Шоковая дубинка
+[02/18/2023 13:48:57]
+  Leola Rhymer equipped Шоковая дубинка
+[02/18/2023 13:48:58]
+  kynlan4ic placed Натрий in Аптечка (ID: 3)
+[02/18/2023 13:48:58]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[02/18/2023 13:48:59]
+  Willie Velazquez used Шоковая дубинка(Аккумулятор) on vlad32.
+[02/18/2023 13:48:59]
+  kynlan4ic placed Галоперидол in Аптечка (ID: 3)
+[02/18/2023 13:48:59]
+  Mafalda Feinman unequipped Гаечный ключ
+[02/18/2023 13:48:59]
+  Mafalda Feinman unequipped Гаечный ключ
+[02/18/2023 13:48:59]
+  Mafalda Feinman unequipped Шоковая дубинка
+[02/18/2023 13:48:59]
+  Mafalda Feinman equipped Шоковая дубинка
+[02/18/2023 13:48:59]
+  Sherita Danko unequipped Шоковая дубинка
+[02/18/2023 13:48:59]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:48:59]
+  Leola Rhymer unequipped Шоковая дубинка
+[02/18/2023 13:49:00]
+  Mafalda Feinman unequipped Шоковая дубинка
+[02/18/2023 13:49:02]
+  Mafalda Feinman: Цель арестована!
+[02/18/2023 13:49:03]
+  kynlan4ic placed Велосипедный гудок in Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:49:04]
+  kynlan4ic placed Велосипедный гудок in Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:49:04]
+  Rupert Weaver used Гаечный ключ on Большая вертикальная внутренняя стена.
+[02/18/2023 13:49:04]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:49:04]
+  kynlan4ic placed Клоунский костюм in Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:49:05]
+  kynlan4ic placed Велосипедный гудок in Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:49:05]
+  Dan Hurley unequipped Электрошокер
+[02/18/2023 13:49:05]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:49:05]
+  kynlan4ic placed Клоунская маска in Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:49:06]
+  Willie Velazquez equipped Аккумулятор
+[02/18/2023 13:49:18]
+  kynlan4ic picked up Шоковая дубинка
+[02/18/2023 13:49:18]
+  kynlan4ic picked up Подводное ружье
+[02/18/2023 13:49:39]
+  Corinne Goodin unequipped Отвертка
+[02/18/2023 13:49:41]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:49:43]
+  Rupert Weaver used Гаечный ключ on vlad32.
+[02/18/2023 13:49:43]
+  kynlan4ic equipped Шоковая дубинка
+[02/18/2023 13:49:51]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:51]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:51]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:49:52]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:52]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:53]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:49:54]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:54]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:54]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:49:55]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:55]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:56]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:56]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:56]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:49:58]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:58]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:58]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:49:59]
+  Rupert Weaver attacked by kynlan4ic. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:49:59]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Rupert Weaver.
+[02/18/2023 13:49:59]
+  kynlan4ic used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 13:50:00]
+  kynlan4ic equipped Подводное ружье
+[02/18/2023 13:50:01]
+  Rupert Weaver attacked by kynlan4ic. Рваная рана: 16.6 Кровотечение: 26.3 Оглушение: 0.5
+[02/18/2023 13:50:02]
+  kynlan4ic picked up Гарпун
+[02/18/2023 13:50:04]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 760)
+[02/18/2023 13:50:09]
+  kynlan4ic picked up Наручники
+[02/18/2023 13:50:15]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 13:50:21]
+  vlad32 picked up Гаечный ключ
+[02/18/2023 13:50:22]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 13:50:26]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:50:26]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:50:27]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:50:27]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:50:28]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:50:28]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:50:30]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:50:30]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:50:31]
+  Rupert Weaver attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/18/2023 13:50:31]
+  vlad32 used Гаечный ключ on Rupert Weaver.
+[02/18/2023 13:50:39]
+  vlad32 picked up Удостоверение личности
+[02/18/2023 13:50:41]
+  vlad32 picked up Подводная маска
+[02/18/2023 13:50:50]
+  Dr Walkit Hoff: Elastin is half off.
+[02/18/2023 13:51:16]
+  Rupert Weaver has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 13:51:34]
+  Omari James unequipped Отвертка
+[02/18/2023 13:53:04]
+  vlad32 picked up Отвертка
+[02/18/2023 13:53:05]
+  Sherry James: Ты что делаешь? Положи на место!
+[02/18/2023 13:53:05]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:53:09]
+  vlad32 placed Отвертка in Средний стальной шкаф (ID: 2602)
+[02/18/2023 13:53:09]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:53:09]
+  Willie Velazquez equipped Шоковая дубинка
+[02/18/2023 13:53:09]
+  Willie Velazquez unequipped Шоковая дубинка
+[02/18/2023 13:53:25]
+  Alvin Wheeling has died (Cause of death: Передозировка опиатами)
+[02/18/2023 13:53:32]
+  Willy Sparks equipped Лом
+[02/18/2023 13:53:50]
+  Pete Ram: Тот, кто проектировал это место, понятия не имел, что он делает.
+[02/18/2023 13:53:55]
+  Dan Hurley: Ага. Слепили жилые модули в кучу как попало, в случайном порядке, и думают, что так и надо.
+[02/18/2023 13:54:03]
+  kynlan4ic purchased 3 item(s) for 419 кр.
+ - Топливный бак сварочного аппарата x2
+ - Аккумулятор x1
+ - Гарпун x12
+[02/18/2023 13:56:20]
+  Dr Walkit Hoff equipped Контейнер для хранения
+[02/18/2023 13:56:38]
+  Dr Walkit Hoff placed Информационный экран сканера здоровья in Контейнер для хранения (ID: 4680)
+[02/18/2023 13:56:45]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 13:56:46]
+  Ending the round...
+[02/18/2023 13:56:46]
+  Round ended.
+[02/18/2023 13:56:49]
+  Starting a new round...
+[02/18/2023 13:56:51]
+  Миссия: Добыча минералов (Урановая руда)
+[02/18/2023 13:56:51]
+  Говорят, где-то между точками Tara и Шахта Argiope Linea есть Урановая руда, целые залежи. Привезите оттуда ресурс (Урановая руда), 4 - этого будет достаточно. Ваша доля - 25%.
+[02/18/2023 13:56:52]
+  Game mode: Кампания
+[02/18/2023 13:56:52]
+  Submarine: Barsuk
+[02/18/2023 13:56:52]
+  Level seed: TaraArgiope Linea
+[02/18/2023 13:56:52]
+  Mission: Добыча минералов ([resourcename1])
+[02/18/2023 13:56:52]
+  Dr Walkit Hoff equipped Контейнер для хранения
+[02/18/2023 13:56:52]
+  Round started.
+[02/18/2023 13:57:02]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 13:57:10]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 13:57:13]
+  kynlan4ic placed Наручники in Средний стальной шкаф (ID: 39)
+[02/18/2023 13:57:17]
+  Dr Walkit Hoff set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 13:57:21]
+  Dr Walkit Hoff picked up Информационный экран сканера здоровья
+[02/18/2023 13:57:27]
+  vlad32 equipped Плазменный резак
+[02/18/2023 13:57:28]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 13:57:33]
+  kynlan4ic: Richard Hajek, положи все на свои места!
+[02/18/2023 13:57:34]
+  Richard Hajek: Слушаюсь!
+[02/18/2023 13:57:40]
+  Richard Hajek equipped Топливный бак сварочного аппарата
+[02/18/2023 13:57:42]
+  vlad32 equipped Металлический ящик
+[02/18/2023 13:57:45]
+  vlad32 placed Удостоверение личности in Металлический ящик (ID: 2613)
+[02/18/2023 13:57:48]
+  vlad32 picked up Удостоверение личности
+[02/18/2023 13:57:48]
+  Ashley Gallagher: Иногда мне кажется, что мы просто марионетки на ниточках.
+[02/18/2023 13:57:48]
+  vlad32 dropped Металлический ящик
+[02/18/2023 13:57:49]
+  Dr Walkit Hoff dropped Контейнер для хранения
+[02/18/2023 13:57:53]
+  kynlan4ic: Richard Hajek, спасибо за уборку всего, что валяется вокруг!
+[02/18/2023 13:57:53]
+  Ashley Gallagher: Пляшем и умираем на потеху неведомой сущности, притаившейся где-то за занавесом.
+[02/18/2023 13:57:58]
+  Elliana Marquez: На мой вкус, так себе потеха.
+[02/18/2023 13:58:03]
+  vlad32 picked up Отвертка
+[02/18/2023 13:58:03]
+  kynlan4ic: Ashley Gallagher, убери все, что валяется вокруг!
+[02/18/2023 13:58:04]
+  Dr Walkit Hoff placed Бинт in Аптечка (ID: 3)
+[02/18/2023 13:58:04]
+  Ashley Gallagher: Так точно!
+[02/18/2023 13:58:07]
+  Dr Walkit Hoff placed Морфин in Аптечка (ID: 3)
+[02/18/2023 13:58:12]
+  vlad32 equipped Отвертка
+[02/18/2023 13:58:13]
+  Ashley Gallagher equipped Аккумулятор
+[02/18/2023 13:59:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:05]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:05]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:05]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:05]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:06]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:06]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:06]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 13:59:16]
+  kynlan4ic picked up Плазменный резак
+[02/18/2023 13:59:17]
+  kynlan4ic picked up Подводный скутер
+[02/18/2023 13:59:17]
+  vlad32 picked up Клоунская маска
+[02/18/2023 13:59:22]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 13:59:25]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 13:59:27]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 13:59:28]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 13:59:31]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 13:59:37]
+  kynlan4ic equipped Плазменный резак
+[02/18/2023 13:59:41]
+  vlad32 placed Костюм котельника in Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:59:41]
+  vlad32 removed Клоунский костюм from Хозяйственный шкаф (ID: 614)
+[02/18/2023 13:59:41]
+  vlad32 picked up Клоунский костюм
+[02/18/2023 13:59:48]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 13:59:49]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 13:59:57]
+  vlad32 dropped Велосипедный гудок
+[02/18/2023 14:00:01]
+  Elliana Marquez equipped Велосипедный гудок
+[02/18/2023 14:00:12]
+  Информация о миссии: Минералы добыты - Вы добыли достаточно ресурса (Урановая руда). Доставьте его на аванпост и получите награду.
+[02/18/2023 14:00:14]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:00:16]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:00:16]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:00:18]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[02/18/2023 14:00:21]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 14:00:22]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 14:00:36]
+  Dr Walkit Hoff equipped Металлический ящик
+[02/18/2023 14:00:37]
+  Dr Walkit Hoff dropped Металлический ящик
+[02/18/2023 14:01:15]
+  Dr Walkit Hoff picked up Велосипедный гудок
+[02/18/2023 14:01:15]
+  Dr Walkit Hoff equipped Велосипедный гудок
+[02/18/2023 14:01:19]
+  Dr Walkit Hoff picked up Велосипедный гудок
+[02/18/2023 14:01:21]
+  Dr Walkit Hoff equipped Велосипедный гудок
+[02/18/2023 14:01:38]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 14:01:39]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 14:01:40]
+  Dr Walkit Hoff attacked by vlad32. Рваная рана: 2.4 Кровотечение: 1.5
+[02/18/2023 14:01:40]
+  vlad32 used Отвертка on Dr Walkit Hoff.
+[02/18/2023 14:02:08]
+  vlad32 dropped Велосипедный гудок
+[02/18/2023 14:02:11]
+  Richard Hajek: У меня новая цель! Не могу понять, что это такое...
+[02/18/2023 14:02:11]
+  Richard Hajek: Стреляю!
+[02/18/2023 14:02:12]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:02:14]
+  Outer wall breached by Crawler
+[02/18/2023 14:02:21]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:02:23]
+  Dr Walkit Hoff placed Велосипедный гудок in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:02:24]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:02:25]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:02:25]
+  Dr Walkit Hoff placed Велосипедный гудок in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:02:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:02:50]
+  Ashley Gallagher equipped Гаечный ключ
+[02/18/2023 14:02:51]
+  Ashley Gallagher started repairing Генератор кислорода
+[02/18/2023 14:02:53]
+  Outer wall breached by Crawler
+[02/18/2023 14:03:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:00]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/18/2023 14:03:00]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:03:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:01]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:03:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:03]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:03:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:04]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:03:07]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:03:10]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:03:10]
+  kynlan4ic equipped Подводное ружье
+[02/18/2023 14:03:15]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:03:21]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 237)
+[02/18/2023 14:03:24]
+  kynlan4ic set the recharge speed of Батарея to 10 %
+[02/18/2023 14:03:24]
+  kynlan4ic set the recharge speed of Батарея to 20 %
+[02/18/2023 14:03:24]
+  kynlan4ic set the recharge speed of Батарея to 30 %
+[02/18/2023 14:03:24]
+  kynlan4ic set the recharge speed of Батарея to 40 %
+[02/18/2023 14:03:24]
+  kynlan4ic set the recharge speed of Батарея to 50 %
+[02/18/2023 14:03:28]
+  kynlan4ic set the recharge speed of Батарея to 10 %
+[02/18/2023 14:03:28]
+  kynlan4ic set the recharge speed of Батарея to 20 %
+[02/18/2023 14:03:28]
+  kynlan4ic set the recharge speed of Батарея to 40 %
+[02/18/2023 14:03:28]
+  kynlan4ic set the recharge speed of Батарея to 50 %
+[02/18/2023 14:03:56]
+  vlad32 picked up Подводный скутер
+[02/18/2023 14:04:01]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:01]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:01]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:01]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:01]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:01]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:03]
+  vlad32 equipped Металлический ящик
+[02/18/2023 14:04:04]
+  vlad32 dropped Металлический ящик
+[02/18/2023 14:04:05]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 14:04:07]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:04:09]
+  Crawler attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/18/2023 14:04:11]
+  Richard Hajek: Стреляю!
+[02/18/2023 14:04:11]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 14:04:12]
+  vlad32 equipped Подводный скутер
+[02/18/2023 14:04:13]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 14:04:13]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:04:13]
+  Richard Hajek: И-и-и-и... Готово!
+[02/18/2023 14:04:18]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:04:20]
+  kynlan4ic picked up Инопланетная кровь
+[02/18/2023 14:04:25]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:04:28]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[02/18/2023 14:04:31]
+  vlad32 dropped Бейсболка
+[02/18/2023 14:04:36]
+  Ashley Gallagher equipped Велосипедный гудок
+[02/18/2023 14:04:36]
+  vlad32 dropped Водолазный скафандр
+[02/18/2023 14:04:40]
+  Ashley Gallagher equipped Водолазный скафандр
+[02/18/2023 14:04:50]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:04:53]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:04:57]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:05:00]
+  vlad32 adjusted reactor settings: Temperature: 3801, Fission rate: 70, Turbine output: 75, Autotemp ON
+[02/18/2023 14:05:07]
+  vlad32 adjusted reactor settings: Temperature: 3618, Fission rate: 57, Turbine output: 75, Autotemp ON
+[02/18/2023 14:05:11]
+  vlad32 adjusted reactor settings: Temperature: 3634, Fission rate: 55, Turbine output: 75, Autotemp ON
+[02/18/2023 14:05:16]
+  vlad32 adjusted reactor settings: Temperature: 3734, Fission rate: 62, Turbine output: 81, Autotemp ON
+[02/18/2023 14:05:16]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:05:18]
+  Ashley Gallagher failed to repair Монитор состояния
+[02/18/2023 14:05:26]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:05:33]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:05:33]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 14:05:37]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:05:49]
+  vlad32 set the recharge speed of Суперконденсатор to 40 %
+[02/18/2023 14:05:49]
+  vlad32 set the recharge speed of Суперконденсатор to 50 %
+[02/18/2023 14:05:51]
+  kynlan4ic: Ashley Gallagher, заряди реактор!
+[02/18/2023 14:05:52]
+  Ashley Gallagher: Так точно!
+[02/18/2023 14:05:53]
+  Ashley Gallagher: Загружаю в реактор дополнительное топливо!
+[02/18/2023 14:05:54]
+  Ashley Gallagher equipped Топливный стержень
+[02/18/2023 14:05:58]
+  Ashley Gallagher equipped Топливный стержень
+[02/18/2023 14:05:58]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:06:01]
+  Ashley Gallagher started repairing Монитор состояния
+[02/18/2023 14:06:09]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:06:13]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:06:15]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:06:16]
+  Ashley Gallagher started repairing Ядерный реактор
+[02/18/2023 14:06:17]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:06:34]
+  Dr Walkit Hoff покидает сервер.
+[02/18/2023 14:06:40]
+  kynlan4ic docked Barsuk to Шахта Argiope Linea
+[02/18/2023 14:06:40]
+  kynlan4ic has gained 127 experience (99 -> 226)
+[02/18/2023 14:06:40]
+  vlad32 has gained 127 experience (99 -> 226)
+[02/18/2023 14:06:40]
+  Richard Hajek has gained 127 experience (99 -> 226)
+[02/18/2023 14:06:40]
+  Ashley Gallagher has gained 127 experience (99 -> 226)
+[02/18/2023 14:06:40]
+  Elliana Marquez has gained 127 experience (99 -> 226)
+[02/18/2023 14:06:40]
+  Ending the round...
+[02/18/2023 14:06:40]
+  Round ended.
+[02/18/2023 14:06:43]
+  Starting a new round...
+[02/18/2023 14:06:45]
+  Game mode: Кампания
+[02/18/2023 14:06:45]
+  Submarine: Barsuk
+[02/18/2023 14:06:45]
+  Level seed: Argiope Linea
+[02/18/2023 14:06:45]
+  Walker Bradley equipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Walker Bradley unequipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Walker Bradley equipped Отвертка
+[02/18/2023 14:06:45]
+  Erich Sawyer equipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Erich Sawyer unequipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Erich Sawyer equipped Отвертка
+[02/18/2023 14:06:45]
+  Larita Ram equipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Larita Ram unequipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Larita Ram equipped Отвертка
+[02/18/2023 14:06:45]
+  Velma Meza equipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Velma Meza unequipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Velma Meza equipped Отвертка
+[02/18/2023 14:06:45]
+  Velma Meza unequipped Отвертка
+[02/18/2023 14:06:45]
+  Velma Meza equipped Лом
+[02/18/2023 14:06:45]
+  Jacquline Lawson equipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Jacquline Lawson unequipped Гаечный ключ
+[02/18/2023 14:06:45]
+  Jacquline Lawson equipped Отвертка
+[02/18/2023 14:06:46]
+  Manuel Shah equipped Отвертка
+[02/18/2023 14:06:46]
+  Tera Lozano equipped Лом
+[02/18/2023 14:06:46]
+  Alita Lawson equipped Отвертка
+[02/18/2023 14:06:46]
+  Round started.
+[02/18/2023 14:06:46]
+  Bryant Deras: Не встревайте в неприятности.
+[02/18/2023 14:06:47]
+  Manuel Shah unequipped Отвертка
+[02/18/2023 14:06:47]
+  Tera Lozano unequipped Лом
+[02/18/2023 14:06:47]
+  Walker Bradley unequipped Отвертка
+[02/18/2023 14:06:47]
+  Alita Lawson unequipped Отвертка
+[02/18/2023 14:06:47]
+  Velma Meza unequipped Лом
+[02/18/2023 14:06:53]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:06:59]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:07:07]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 14:07:07]
+  Ending the round...

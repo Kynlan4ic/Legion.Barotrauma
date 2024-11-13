@@ -1,0 +1,426 @@
+﻿[10/24/2022 17:50:52]
+  Crawler has died (Cause of death: Рваная рана)
+[10/24/2022 17:50:52]
+  Rosina Bradley: Кажется, есть попадание!
+[10/24/2022 17:50:54]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:50:56]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:50:57]
+  Trudy Summitt: Помогите, я истекаю кровью!
+[10/24/2022 17:50:58]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:51:00]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:51:00]
+  Crawler has died (Cause of death: Рваная рана)
+[10/24/2022 17:51:00]
+  Rosina Bradley: Кажется, есть попадание!
+[10/24/2022 17:51:10]
+  Outer wall breached by Crawler
+[10/24/2022 17:51:13]
+  Rosina Bradley: У меня новая цель! Не могу понять, что это такое...
+[10/24/2022 17:51:15]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:51:15]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:51:16]
+  Outer wall breached by Crawler
+[10/24/2022 17:51:20]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:51:22]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:51:23]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:51:24]
+  Rosina Bradley: Стреляю!
+[10/24/2022 17:51:24]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:51:24]
+  Crawler has died (Cause of death: Укусы)
+[10/24/2022 17:51:24]
+  Rosina Bradley: Враг уничтожен!
+[10/24/2022 17:51:28]
+  Katherina Phoenix: У меня новая цель! Не могу понять, что это такое...
+[10/24/2022 17:51:32]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 17:51:37]
+  Priscilla Reeves equipped Топливный стержень
+[10/24/2022 17:52:20]
+  Trudy Summitt has died (Cause of death: Рваная рана)
+[10/24/2022 17:52:27]
+  Rosina Bradley: Стреляю!
+[10/24/2022 17:52:27]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:52:28]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:52:30]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:52:32]
+  Rosina Bradley launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 17:52:33]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/24/2022 17:52:33]
+  Rosina Bradley: Кажется, есть попадание!
+[10/24/2022 17:52:38]
+  kynlan4ic has died (Cause of death: Рваная рана)
+[10/24/2022 17:52:44]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:52:47]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:52:48]
+  Dispatching the respawn shuttle.
+[10/24/2022 17:52:48]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/24/2022 17:52:48]
+  Respawning bot Trudy Summitt as Помощник
+[10/24/2022 17:52:50]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 17:52:51]
+  Stella Cork started repairing Батарея
+[10/24/2022 17:52:52]
+  Lorriane Swanger started repairing Батарея
+[10/24/2022 17:52:52]
+  Priscilla Reeves equipped Водолазный скафандр
+[10/24/2022 17:52:58]
+  Stella Cork started repairing Кабельная коробка
+[10/24/2022 17:53:00]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:53:01]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:53:37]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:53:37]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:53:43]
+  Stella Cork failed to repair Батарея
+[10/24/2022 17:53:45]
+  Lorriane Swanger started repairing Батарея
+[10/24/2022 17:53:48]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:53:48]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:54:27]
+  kynlan4ic docked Hemulen to R-29
+[10/24/2022 17:54:34]
+  kynlan4ic picked up Плазменный резак
+[10/24/2022 17:54:34]
+  kynlan4ic picked up Подводный скутер
+[10/24/2022 17:54:35]
+  kynlan4ic picked up Ручной сонар
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:38]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 17:54:47]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/24/2022 17:54:48]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:54:48]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:54:49]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:54:50]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:54:52]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:55:13]
+  kynlan4ic placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 361)
+[10/24/2022 17:55:15]
+  kynlan4ic picked up Водолазный скафандр
+[10/24/2022 17:55:29]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:55:30]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:55:33]
+  Lorriane Swanger started repairing Батарея
+[10/24/2022 17:55:37]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:55:40]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:55:48]
+  Lorriane Swanger started repairing Монитор состояния
+[10/24/2022 17:55:50]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:55:52]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:55:58]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:56:04]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:56:05]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:56:07]
+  Stella Cork started repairing Кабельная коробка
+[10/24/2022 17:56:10]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:56:10]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:56:24]
+  kynlan4ic closed Настраиваемый люк
+[10/24/2022 17:56:25]
+  kynlan4ic undocked Hemulen from R-29
+[10/24/2022 17:56:34]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/24/2022 17:56:35]
+  kynlan4ic equipped Подводный скутер
+[10/24/2022 17:56:45]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:56:46]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:56:47]
+  Stella Cork started repairing Кабельная коробка
+[10/24/2022 17:56:47]
+  kynlan4ic opened Настраиваемый люк
+[10/24/2022 17:56:50]
+  kynlan4ic closed Настраиваемый люк
+[10/24/2022 17:56:52]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:56:52]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:56:52]
+  Stella Cork equipped Гаечный ключ
+[10/24/2022 17:56:53]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:56:53]
+  Lorriane Swanger equipped Гаечный ключ
+[10/24/2022 17:56:55]
+  Stella Cork failed to repair Насос
+[10/24/2022 17:56:56]
+  Lorriane Swanger failed to repair Насос
+[10/24/2022 17:56:59]
+  Stella Cork unequipped Гаечный ключ
+[10/24/2022 17:56:59]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:57:00]
+  Lorriane Swanger unequipped Гаечный ключ
+[10/24/2022 17:57:00]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:57:00]
+  Stella Cork: Надо найти водолазный скафандр!
+[10/24/2022 17:57:01]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:57:01]
+  Lorriane Swanger equipped Гаечный ключ
+[10/24/2022 17:57:01]
+  Lorriane Swanger failed to repair Насос
+[10/24/2022 17:57:05]
+  Lorriane Swanger unequipped Гаечный ключ
+[10/24/2022 17:57:05]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:57:09]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:57:09]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:57:09]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:57:09]
+  Lorriane Swanger equipped Гаечный ключ
+[10/24/2022 17:57:10]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:57:10]
+  Stella Cork equipped Гаечный ключ
+[10/24/2022 17:57:10]
+  Stella Cork unequipped Гаечный ключ
+[10/24/2022 17:57:10]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:57:10]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:57:10]
+  Stella Cork equipped Гаечный ключ
+[10/24/2022 17:57:16]
+  Lorriane Swanger unequipped Гаечный ключ
+[10/24/2022 17:57:16]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:57:16]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:57:16]
+  Stella Cork started repairing Насос
+[10/24/2022 17:57:18]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:57:20]
+  Stella Cork unequipped Гаечный ключ
+[10/24/2022 17:57:34]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:57:35]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:57:35]
+  Stella Cork started repairing Кабельная коробка
+[10/24/2022 17:57:37]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:57:38]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:57:38]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:58:02]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:58:03]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:58:07]
+  Trudy Summitt: Надо найти водолазный скафандр!
+[10/24/2022 17:58:08]
+  Lorriane Swanger started repairing Батарея
+[10/24/2022 17:58:11]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:58:13]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:58:29]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:58:31]
+  Stella Parchman equipped Водолазный скафандр
+[10/24/2022 17:58:32]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:32]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:33]
+  Priscilla Reeves equipped Сварочный аппарат
+[10/24/2022 17:58:34]
+  Priscilla Reeves: Электрика: протечек не осталось!
+[10/24/2022 17:58:34]
+  Abe Bailey: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[10/24/2022 17:58:35]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:58:35]
+  Priscilla Reeves unequipped Сварочный аппарат
+[10/24/2022 17:58:36]
+  Lorriane Swanger started repairing Навигационный терминал
+[10/24/2022 17:58:36]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:36]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:37]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:37]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:37]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:37]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:37]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:37]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:39]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:58:39]
+  Lorriane Swanger equipped Гаечный ключ
+[10/24/2022 17:58:39]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:58:39]
+  Stella Cork equipped Гаечный ключ
+[10/24/2022 17:58:40]
+  Priscilla Reeves equipped Сварочный аппарат
+[10/24/2022 17:58:40]
+  Outer wall repaired by Priscilla Reeves
+[10/24/2022 17:58:40]
+  Stella Cork: Помогите, я истекаю кровью!
+[10/24/2022 17:58:41]
+  Stella Cork started repairing Дверь с окном и кнопками
+[10/24/2022 17:58:42]
+  Lorriane Swanger started repairing Дверь с окном и кнопками
+[10/24/2022 17:58:42]
+  Pamela Geist equipped Сварочный аппарат
+[10/24/2022 17:58:43]
+  Inner wall repaired by Priscilla Reeves
+[10/24/2022 17:58:43]
+  Stella Cork unequipped Гаечный ключ
+[10/24/2022 17:58:44]
+  Shirlee Hardy equipped Сварочный аппарат
+[10/24/2022 17:58:45]
+  Lorriane Swanger unequipped Гаечный ключ
+[10/24/2022 17:58:47]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:47]
+  Stella Cork equipped Отвертка
+[10/24/2022 17:58:48]
+  Lorriane Swanger equipped Отвертка
+[10/24/2022 17:58:49]
+  Outer wall repaired by Shirlee Hardy
+[10/24/2022 17:58:49]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:49]
+  Outer wall repaired by Shirlee Hardy
+[10/24/2022 17:58:49]
+  Shirlee Hardy: Реакторный отсек: все протечки устранены!
+[10/24/2022 17:58:49]
+  Bertram Delange: Stella Cork проходит лечение здесь: центральный проход!
+[10/24/2022 17:58:49]
+  Bertram Delange: Stella Cork в полном порядке!
+[10/24/2022 17:58:49]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:50]
+  Abe Bailey: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[10/24/2022 17:58:50]
+  Mose Malone equipped Сварочный аппарат
+[10/24/2022 17:58:51]
+  Stella Parchman: Помогите, я истекаю кровью!
+[10/24/2022 17:58:54]
+  Mose Malone: Моторный отсек: протечек не осталось!
+[10/24/2022 17:58:54]
+  Lorriane Swanger started repairing Кабельная коробка
+[10/24/2022 17:58:55]
+  Outer wall repaired by Mose Malone
+[10/24/2022 17:58:55]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:56]
+  Inner wall repaired by Shirlee Hardy
+[10/24/2022 17:58:56]
+  Priscilla Reeves: Надо найти водолазный скафандр!
+[10/24/2022 17:58:56]
+  Pamela Geist: Мне нужно подводное снаряжение!
+[10/24/2022 17:58:56]
+  Shirlee Hardy: Надо найти водолазный скафандр!
+[10/24/2022 17:58:56]
+  kynlan4ic docked R-29 to Шахта Skadi's Cauldron
+[10/24/2022 17:58:56]
+  Priscilla Reeves: Невозможно добраться до течи: Задний балласт!
+[10/24/2022 17:58:56]
+  Pamela Geist: Невозможно добраться до течи: Задний балласт!
+[10/24/2022 17:58:56]
+  Mose Malone: Задний балласт: минус одна протечка!
+[10/24/2022 17:58:56]
+  Mose Malone: Надо найти водолазный скафандр!
+[10/24/2022 17:58:57]
+  Shirlee Hardy: Невозможно добраться до течи: Задний балласт!
+[10/24/2022 17:58:57]
+  Stella Cork unequipped Отвертка
+[10/24/2022 17:58:57]
+  Lorriane Swanger unequipped Отвертка
+[10/24/2022 17:58:58]
+  Mose Malone: У меня кровь!
+[10/24/2022 17:58:58]
+  Lorriane Swanger: Я теряю много крови!
+[10/24/2022 17:58:58]
+  Mose Malone: Невозможно добраться до течи: Задний балласт!
+[10/24/2022 17:58:59]
+  Outer wall breached by Spineling
+[10/24/2022 17:58:59]
+  Inner wall breached by Spineling
+[10/24/2022 17:58:59]
+  Inner wall breached by Spineling
+[10/24/2022 17:59:00]
+  Shirlee Hardy: Помогите, я истекаю кровью!
+[10/24/2022 17:59:00]
+  Outer wall breached by Spineling
+[10/24/2022 17:59:00]
+  Outer wall breached by Spineling
+[10/24/2022 17:59:00]
+  Outer wall breached by Spineling
+[10/24/2022 17:59:00]
+  Abe Bailey: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[10/24/2022 17:59:01]
+  Ending round (submarine reached the end of the level)
+[10/24/2022 17:59:01]
+  Ending the round...

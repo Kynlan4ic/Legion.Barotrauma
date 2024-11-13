@@ -1,0 +1,1600 @@
+﻿[11/14/2022 21:10:51]
+  Starting the server...
+[11/14/2022 21:10:51]
+  Using SteamP2P networking.
+[11/14/2022 21:10:51]
+  Server started
+[11/14/2022 21:10:51]
+  Игрок kynlan4ic присоединился к серверу.
+[11/14/2022 21:10:51]
+  Saving client permissions
+[11/14/2022 21:10:51]
+  Saving client permissions
+[11/14/2022 21:10:59]
+  Игрок igameCrog присоединился к серверу.
+[11/14/2022 21:10:59]
+  Saving client permissions
+[11/14/2022 21:11:17]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/14/2022 21:11:51]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires
+[11/14/2022 21:11:51]
+  Saving client permissions
+[11/14/2022 21:11:56]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires
+[11/14/2022 21:11:56]
+  Saving client permissions
+[11/14/2022 21:12:32]
+  kynlan4ic is ready to start the game.
+[11/14/2022 21:12:32]
+  Client "kynlan4ic" started the round.
+[11/14/2022 21:12:32]
+  Starting a new round...
+[11/14/2022 21:12:38]
+  Миссия: Добыча минералов (Урановая руда)
+[11/14/2022 21:12:38]
+  Говорят, где-то между точками Центр Set и Шахта Skadi's Cauldron есть Урановая руда, целые залежи. Привезите оттуда ресурс (Урановая руда), 4 - этого будет достаточно. Ваша доля - 25%.
+[11/14/2022 21:12:38]
+  Game mode: Миссия
+[11/14/2022 21:12:38]
+  Submarine: IHN Kalvair
+[11/14/2022 21:12:38]
+  Level seed: daN7SoSN
+[11/14/2022 21:12:38]
+  Mission: Добыча минералов ([resourcename1])
+[11/14/2022 21:12:39]
+  Round started.
+[11/14/2022 21:12:45]
+  Kerry Colpitts: Тебе доводилось видеть эти штуковины, которые охраняют руины?
+[11/14/2022 21:12:47]
+  John Huber: Загружаю в реактор дополнительное топливо!
+[11/14/2022 21:12:51]
+  Irwin Flowers: Да, в институте.
+[11/14/2022 21:12:52]
+  Irwin Flowers: Говорят, они неорганические - это скорее машина, чем животное.
+[11/14/2022 21:12:57]
+  Kerry Colpitts: Крови у них точно нет.
+[11/14/2022 21:13:00]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/14/2022 21:13:07]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/14/2022 21:13:36]
+  kynlan4ic picked up Дробовик
+[11/14/2022 21:13:43]
+  igameCrog picked up Удостоверение личности
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:43]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:13:49]
+  igameCrog picked up Пистолет-пулемет
+[11/14/2022 21:13:50]
+  kynlan4ic picked up Шоковая дубинка
+[11/14/2022 21:13:51]
+  kynlan4ic equipped Шоковая дубинка
+[11/14/2022 21:13:52]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/14/2022 21:13:52]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[11/14/2022 21:13:52]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[11/14/2022 21:13:53]
+  Tessie Tyson attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/14/2022 21:13:53]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Tessie Tyson.
+[11/14/2022 21:13:54]
+  Tessie Tyson: Эй! Это последнее предупреждение!
+[11/14/2022 21:14:07]
+  igameCrog equipped Пистолет-пулемет
+[11/14/2022 21:14:09]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 21:14:09]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 21:14:09]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 21:14:19]
+  kynlan4ic attacked by igameCrog. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/14/2022 21:14:19]
+  kynlan4ic attacked by igameCrog. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/14/2022 21:14:19]
+  Inner wall breached by igameCrog
+[11/14/2022 21:14:20]
+  kynlan4ic attacked by igameCrog. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/14/2022 21:14:22]
+  kynlan4ic equipped Дробовик
+[11/14/2022 21:14:33]
+  igameCrog used item Бинт
+[11/14/2022 21:14:38]
+  igameCrog used item Морфин
+[11/14/2022 21:17:24]
+  igameCrog picked up Гаечный ключ
+[11/14/2022 21:17:25]
+  igameCrog picked up Отвертка
+[11/14/2022 21:17:35]
+  igameCrog picked up Пояс инструментов
+[11/14/2022 21:17:36]
+  Erich Fonte equipped Плазменный резак
+[11/14/2022 21:17:37]
+  Erich Fonte unequipped Плазменный резак
+[11/14/2022 21:17:37]
+  igameCrog picked up Плазменный резак
+[11/14/2022 21:17:38]
+  igameCrog picked up Сварочный аппарат
+[11/14/2022 21:17:39]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:17:44]
+  igameCrog equipped Сварочный аппарат
+[11/14/2022 21:17:47]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 3165)
+[11/14/2022 21:17:48]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 3165)
+[11/14/2022 21:17:50]
+  igameCrog placed Пистолет-пулемет in Пояс инструментов (ID: 3165)
+[11/14/2022 21:17:53]
+  igameCrog equipped Отвертка
+[11/14/2022 21:18:04]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/14/2022 21:18:11]
+  igameCrog equipped Шприц-пистолет
+[11/14/2022 21:19:04]
+  Kerry Colpitts started repairing Кабельная коробка
+[11/14/2022 21:19:16]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:19:17]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Компонент «Реле» (power_out)
+[11/14/2022 21:21:03]
+  Console command "spawn Charybdis outside" executed by kynlan4ic.
+[11/14/2022 21:21:39]
+  Irwin Flowers: Мне скучно!
+[11/14/2022 21:21:42]
+  igameCrog connected a wire from Кабельная коробка (power) to Компонент «Реле» (power_out)
+[11/14/2022 21:21:50]
+  kynlan4ic picked up Отвертка
+[11/14/2022 21:21:52]
+  kynlan4ic equipped Отвертка
+[11/14/2022 21:21:56]
+  kynlan4ic disconnected a wire from Ядерный реактор (power_out) to Кабельная коробка (power)
+[11/14/2022 21:22:55]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/14/2022 21:23:19]
+  Console command "freecam" executed by kynlan4ic.
+[11/14/2022 21:23:20]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:23:20]
+  igameCrog picked up Бандитский наряд
+[11/14/2022 21:23:40]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:23:40]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/14/2022 21:23:43]
+  igameCrog connected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/14/2022 21:23:45]
+  Console command "spawn Charybdis outside" executed by kynlan4ic.
+[11/14/2022 21:23:49]
+  Irwin Flowers equipped Отвертка
+[11/14/2022 21:23:50]
+  Irwin Flowers unequipped Отвертка
+[11/14/2022 21:23:53]
+  Kerry Colpitts started repairing Монитор состояния
+[11/14/2022 21:23:54]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/14/2022 21:24:04]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:24:05]
+  igameCrog attacked by kynlan4ic. Рваная рана: 2.5 Кровотечение: 1.5 Оглушение: 0.2
+[11/14/2022 21:24:05]
+  kynlan4ic used Отвертка on igameCrog.
+[11/14/2022 21:24:16]
+  Williams Aker equipped Гаечный ключ
+[11/14/2022 21:24:22]
+  kynlan4ic: Kerry Colpitts, заряди реактор!
+[11/14/2022 21:24:23]
+  Kerry Colpitts: Есть!
+[11/14/2022 21:24:24]
+  kynlan4ic: Kerry Colpitts, займись ремонтом поврежденных систем!
+[11/14/2022 21:24:25]
+  Kerry Colpitts: Слушаюсь!
+[11/14/2022 21:24:26]
+  kynlan4ic: Laurinda Mansfield, займись ремонтом поврежденных систем!
+[11/14/2022 21:24:27]
+  Laurinda Mansfield: Принято.
+[11/14/2022 21:24:28]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:24:29]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:24:30]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:24:34]
+  Laurinda Mansfield started repairing Кабельная коробка
+[11/14/2022 21:24:39]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:24:42]
+  Williams Aker started repairing Малый насос
+[11/14/2022 21:24:43]
+  Laurinda Mansfield started repairing Кабельная коробка
+[11/14/2022 21:24:45]
+  igameCrog connected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/14/2022 21:24:48]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:24:51]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:24:52]
+  Williams Aker unequipped Гаечный ключ
+[11/14/2022 21:24:57]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:25:00]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:25:09]
+  Kerry Colpitts: Невозможно добраться: Батарея!
+[11/14/2022 21:25:11]
+  Kerry Colpitts failed to repair Батарея
+[11/14/2022 21:25:12]
+  Laurinda Mansfield: Невозможно добраться: Батарея!
+[11/14/2022 21:25:13]
+  igameCrog connected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/14/2022 21:25:14]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:25:15]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:25:17]
+  Laurinda Mansfield failed to repair Монитор состояния
+[11/14/2022 21:25:23]
+  Kerry Colpitts started repairing Монитор состояния
+[11/14/2022 21:25:24]
+  Laurinda Mansfield started repairing Кабельная коробка
+[11/14/2022 21:25:30]
+  Kerry Colpitts started repairing Кабельная коробка
+[11/14/2022 21:25:37]
+  Laurinda Mansfield started repairing Кабельная коробка
+[11/14/2022 21:25:39]
+  Kerry Colpitts failed to repair Кабельная коробка
+[11/14/2022 21:25:44]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:25:49]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:26:31]
+  kynlan4ic picked up Водолазный скафандр
+[11/14/2022 21:26:31]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:26:32]
+  kynlan4ic equipped Водолазный скафандр
+[11/14/2022 21:26:33]
+  Laurinda Mansfield equipped Гаечный ключ
+[11/14/2022 21:26:34]
+  Kerry Colpitts: Невозможно добраться: Батарея!
+[11/14/2022 21:26:34]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:26:34]
+  Kerry Colpitts equipped Гаечный ключ
+[11/14/2022 21:26:38]
+  Laurinda Mansfield started repairing Насос
+[11/14/2022 21:26:41]
+  Kerry Colpitts started repairing Насос
+[11/14/2022 21:26:48]
+  Kerry Colpitts unequipped Гаечный ключ
+[11/14/2022 21:27:00]
+  Laurinda Mansfield unequipped Гаечный ключ
+[11/14/2022 21:27:44]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:27:45]
+  kynlan4ic picked up Подводный скутер
+[11/14/2022 21:27:45]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:27:46]
+  Laurinda Mansfield started repairing Кабельная коробка
+[11/14/2022 21:27:48]
+  Kerry Colpitts: Невозможно добраться: Батарея!
+[11/14/2022 21:27:53]
+  Kerry Colpitts started repairing Кабельная коробка
+[11/14/2022 21:27:57]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:28:00]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:28:21]
+  kynlan4ic dropped Водолазный скафандр
+[11/14/2022 21:28:25]
+  Erich Fonte equipped Водолазный скафандр
+[11/14/2022 21:28:37]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:28:39]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:28:40]
+  Kerry Colpitts: Невозможно добраться: Батарея!
+[11/14/2022 21:28:44]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:28:48]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:28:55]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:29:18]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:29:20]
+  kynlan4ic adjusted reactor settings: Temperature: 4994, Fission rate: 30, Turbine output: 0, Autotemp OFF
+[11/14/2022 21:29:21]
+  kynlan4ic adjusted reactor settings: Temperature: 4967, Fission rate: 39, Turbine output: 0, Autotemp OFF
+[11/14/2022 21:29:22]
+  Laurinda Mansfield: Невозможно добраться: Батарея!
+[11/14/2022 21:29:22]
+  kynlan4ic adjusted reactor settings: Temperature: 5967, Fission rate: 100, Turbine output: 0, Autotemp OFF
+[11/14/2022 21:29:24]
+  kynlan4ic picked up Топливный стержень
+[11/14/2022 21:29:24]
+  kynlan4ic picked up Топливный стержень
+[11/14/2022 21:29:24]
+  kynlan4ic picked up Топливный стержень
+[11/14/2022 21:29:24]
+  kynlan4ic picked up Топливный стержень
+[11/14/2022 21:29:24]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:29:27]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:29:27]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:29:30]
+  Kerry Colpitts: Невозможно добраться: Батарея!
+[11/14/2022 21:29:32]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:29:33]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:29:34]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:29:37]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:29:38]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:29:40]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:29:49]
+  Tessie Tyson: Мне нужно подводное снаряжение!
+[11/14/2022 21:29:49]
+  Lily Pool: Мне нужно подводное снаряжение!
+[11/14/2022 21:29:55]
+  igameCrog started repairing Батарея
+[11/14/2022 21:30:12]
+  kynlan4ic picked up Бейсболка
+[11/14/2022 21:30:14]
+  kynlan4ic dropped Бейсболка
+[11/14/2022 21:30:16]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:30:16]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:30:17]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:30:18]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:30:19]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:30:23]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:30:34]
+  kynlan4ic connected a wire from Ядерный реактор (power_out) to Кабельная коробка (power)
+[11/14/2022 21:30:40]
+  kynlan4ic picked up Плазменный резак
+[11/14/2022 21:30:50]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:30:50]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:30:55]
+  Laurinda Mansfield started repairing Кабельная коробка
+[11/14/2022 21:30:59]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:30:59]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:31:05]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:31:06]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:31:08]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:31:08]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:31:09]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:31:09]
+  igameCrog disconnected a wire from Ядерный реактор (power_out) to Кабельная коробка (power)
+[11/14/2022 21:31:12]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:31:19]
+  Kerry Colpitts started repairing Навигационный терминал
+[11/14/2022 21:31:25]
+  kynlan4ic picked up Водолазный скафандр
+[11/14/2022 21:31:26]
+  igameCrog connected a wire from Ядерный реактор (power_out) to Кабельная коробка (power)
+[11/14/2022 21:31:26]
+  kynlan4ic closed Настраиваемая дверь
+[11/14/2022 21:31:28]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:31:28]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:31:29]
+  kynlan4ic equipped Подводный скутер
+[11/14/2022 21:31:30]
+  Laurinda Mansfield started repairing Батарея
+[11/14/2022 21:31:32]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:31:33]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:31:36]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:31:39]
+  kynlan4ic equipped Плазменный резак
+[11/14/2022 21:31:44]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Ядерный реактор (power_out)
+[11/14/2022 21:31:45]
+  igameCrog connected a wire from Кабельная коробка (power) to Ядерный реактор (power_out)
+[11/14/2022 21:31:46]
+  Laurinda Mansfield equipped Отвертка
+[11/14/2022 21:31:46]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:31:48]
+  Kerry Colpitts started repairing Батарея
+[11/14/2022 21:31:50]
+  Laurinda Mansfield unequipped Отвертка
+[11/14/2022 21:31:53]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:31:58]
+  Kerry Colpitts: Веди ее по морю, веди ее на дно...
+[11/14/2022 21:32:02]
+  Kerry Colpitts: Веди ее туда, где рыбы спят давно!
+[11/14/2022 21:32:02]
+  kynlan4ic unequipped Плазменный резак
+[11/14/2022 21:32:02]
+  kynlan4ic equipped Урановая руда
+[11/14/2022 21:32:02]
+  kynlan4ic detached Урановая руда from a wall
+[11/14/2022 21:32:02]
+  kynlan4ic equipped Урановая руда
+[11/14/2022 21:32:02]
+  kynlan4ic detached Урановая руда from a wall
+[11/14/2022 21:32:05]
+  kynlan4ic dropped Отвертка
+[11/14/2022 21:32:05]
+  Kerry Colpitts: Проклятое давленье сотней острых игл...
+[11/14/2022 21:32:09]
+  kynlan4ic detached Урановая руда from a wall
+[11/14/2022 21:32:09]
+  kynlan4ic detached Урановая руда from a wall
+[11/14/2022 21:32:09]
+  kynlan4ic detached Урановая руда from a wall
+[11/14/2022 21:32:09]
+  Kerry Colpitts: Рвет тебя на части, как Акулий тигр!
+[11/14/2022 21:32:09]
+  kynlan4ic detached Урановая руда from a wall
+[11/14/2022 21:32:13]
+  Laurinda Mansfield: На Земле же моряки поют песни! Чем мы хуже!
+[11/14/2022 21:32:16]
+  igameCrog picked up Яйца велонацепса каликса
+[11/14/2022 21:32:29]
+  igameCrog used item Яйца велонацепса каликса
+[11/14/2022 21:32:34]
+  Информация о миссии: Минералы добыты - Вы добыли достаточно ресурса (Урановая руда). Доставьте его на аванпост и получите награду.
+[11/14/2022 21:32:36]
+  kynlan4ic opened Настраиваемая дверь
+[11/14/2022 21:32:48]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 254)
+[11/14/2022 21:32:55]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:32:56]
+  Kerry Colpitts started repairing Ядерный реактор
+[11/14/2022 21:32:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:32:57]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:32:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:32:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:33:00]
+  Laurinda Mansfield equipped Гаечный ключ
+[11/14/2022 21:33:00]
+  Kerry Colpitts equipped Отвертка
+[11/14/2022 21:33:01]
+  Kerry Colpitts started repairing Монитор состояния
+[11/14/2022 21:33:04]
+  Kerry Colpitts unequipped Отвертка
+[11/14/2022 21:33:04]
+  Kerry Colpitts equipped Гаечный ключ
+[11/14/2022 21:33:07]
+  Kerry Colpitts started repairing Малый насос
+[11/14/2022 21:33:09]
+  Laurinda Mansfield unequipped Гаечный ключ
+[11/14/2022 21:33:13]
+  Kerry Colpitts unequipped Гаечный ключ
+[11/14/2022 21:33:30]
+  Kerry Colpitts: Загружаю в реактор дополнительное топливо!
+[11/14/2022 21:33:34]
+  Laurinda Mansfield equipped Топливный стержень
+[11/14/2022 21:33:52]
+  igameCrog picked up Пистолет-пулемет
+[11/14/2022 21:33:54]
+  Randi Rios: Кажется, у меня жар.
+[11/14/2022 21:34:08]
+  igameCrog picked up Детонатор
+[11/14/2022 21:34:12]
+  kynlan4ic docked IHN Kalvair to Шахта Skadi's Cauldron
+[11/14/2022 21:34:15]
+  igameCrog placed Блок C-4+ in Детонатор (ID: 3008)
+[11/14/2022 21:34:17]
+  Ending round (submarine reached the end of the level)
+[11/14/2022 21:34:17]
+  Ending the round...
+[11/14/2022 21:34:18]
+  Round ended.
+[11/14/2022 21:34:44]
+  kynlan4ic changed PlayStyle to Serious
+[11/14/2022 21:34:44]
+  kynlan4ic changed LosMode to Transparent
+[11/14/2022 21:34:44]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/14/2022 21:34:44]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/14/2022 21:34:52]
+  kynlan4ic changed PlayStyle to Serious
+[11/14/2022 21:34:52]
+  kynlan4ic changed LosMode to Transparent
+[11/14/2022 21:34:52]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/14/2022 21:34:52]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/14/2022 21:35:05]
+  igameCrog is ready to start the game.
+[11/14/2022 21:35:18]
+  kynlan4ic changed PlayStyle to Serious
+[11/14/2022 21:35:18]
+  kynlan4ic changed LosMode to None
+[11/14/2022 21:35:18]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/14/2022 21:35:18]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/14/2022 21:35:20]
+  kynlan4ic is ready to start the game.
+[11/14/2022 21:35:20]
+  Client "kynlan4ic" started the round.
+[11/14/2022 21:35:20]
+  Starting a new round...
+[11/14/2022 21:35:26]
+  Миссия: Добыча минералов (Галена)
+[11/14/2022 21:35:26]
+  Говорят, где-то между точками Центр Set и Шахта Skadi's Cauldron есть Галена, целые залежи. Привезите оттуда ресурс (Галена), 8 - этого будет достаточно. Ваша доля - 25%.
+[11/14/2022 21:35:26]
+  Game mode: Миссия
+[11/14/2022 21:35:26]
+  Submarine: IHN Kalvair
+[11/14/2022 21:35:26]
+  Level seed: Rbc45lNJ
+[11/14/2022 21:35:26]
+  Mission: Добыча минералов ([resourcename1])
+[11/14/2022 21:35:26]
+  Harlan Deras equipped Электрошокер
+[11/14/2022 21:35:26]
+  Fernanda Kidd equipped Плазменный резак
+[11/14/2022 21:35:28]
+  Round started.
+[11/14/2022 21:35:37]
+  Fractalguardian2 equipped Паровая пушка стража
+[11/14/2022 21:35:37]
+  Fractalguardian equipped Гарпун стража
+[11/14/2022 21:35:37]
+  Fractalguardian2 equipped Паровая пушка стража
+[11/14/2022 21:35:37]
+  Fractalguardian equipped Гарпун стража
+[11/14/2022 21:35:42]
+  Reggie Donovan: Сигареты нынче такие дорогие.
+[11/14/2022 21:35:44]
+  Oscar Ulrich: Загружаю в реактор дополнительное топливо!
+[11/14/2022 21:35:45]
+  Santiago McNeal: И не говори.
+[11/14/2022 21:36:08]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/14/2022 21:36:18]
+  kynlan4ic equipped Ящик с химикатами
+[11/14/2022 21:36:20]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/14/2022 21:36:20]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/14/2022 21:36:20]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/14/2022 21:36:20]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/14/2022 21:36:20]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/14/2022 21:36:20]
+  kynlan4ic dropped Ящик с химикатами
+[11/14/2022 21:36:25]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/14/2022 21:36:59]
+  igameCrog picked up Водолазный скафандр
+[11/14/2022 21:37:00]
+  igameCrog equipped Водолазный скафандр
+[11/14/2022 21:37:02]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:03]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:03]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:05]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:05]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:06]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:08]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:08]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:09]
+  igameCrog picked up Кислородный баллон
+[11/14/2022 21:37:54]
+  kynlan4ic picked up Дробовик
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:57]
+  kynlan4ic picked up Патрон для дробовика
+[11/14/2022 21:37:58]
+  kynlan4ic picked up Гарпун
+[11/14/2022 21:37:58]
+  kynlan4ic picked up Гарпун
+[11/14/2022 21:37:58]
+  kynlan4ic picked up Гарпун
+[11/14/2022 21:37:58]
+  kynlan4ic picked up Гарпун
+[11/14/2022 21:38:05]
+  kynlan4ic picked up Подводное ружье
+[11/14/2022 21:38:06]
+  kynlan4ic picked up Нож ныряльщика
+[11/14/2022 21:38:17]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/14/2022 21:38:19]
+  kynlan4ic used Яйца велонацепса каликса on Santiago McNeal.
+[11/14/2022 21:38:19]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/14/2022 21:38:25]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/14/2022 21:38:27]
+  kynlan4ic used Яйца велонацепса каликса on Mafalda Stanley.
+[11/14/2022 21:38:27]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/14/2022 21:38:30]
+  kynlan4ic picked up Водолазный скафандр
+[11/14/2022 21:38:31]
+  kynlan4ic closed Настраиваемая дверь
+[11/14/2022 21:38:32]
+  kynlan4ic opened Настраиваемая дверь
+[11/14/2022 21:38:34]
+  kynlan4ic closed Настраиваемая дверь
+[11/14/2022 21:38:35]
+  kynlan4ic opened Настраиваемая дверь
+[11/14/2022 21:38:36]
+  kynlan4ic closed Настраиваемая дверь
+[11/14/2022 21:38:44]
+  kynlan4ic opened Настраиваемая дверь
+[11/14/2022 21:38:47]
+  kynlan4ic picked up Подводный скутер
+[11/14/2022 21:38:50]
+  kynlan4ic closed Настраиваемая дверь
+[11/14/2022 21:38:52]
+  kynlan4ic equipped Подводный скутер
+[11/14/2022 21:39:47]
+  Santiago McNeal: Что-то в горле першит.
+[11/14/2022 21:39:51]
+  Mafalda Stanley: Что-то в горле першит.
+[11/14/2022 21:39:51]
+  kynlan4ic opened Настраиваемая дверь
+[11/14/2022 21:40:05]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 21:40:05]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 21:40:06]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 21:40:08]
+  kynlan4ic closed Настраиваемая дверь
+[11/14/2022 21:40:12]
+  kynlan4ic used item Яйца велонацепса каликса
+[11/14/2022 21:40:43]
+  Console command "godmode" executed by kynlan4ic.
+[11/14/2022 21:40:55]
+  kynlan4ic equipped Дробовик
+[11/14/2022 21:41:03]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 8066)
+[11/14/2022 21:41:03]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 8066)
+[11/14/2022 21:41:03]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 8066)
+[11/14/2022 21:41:03]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 8066)
+[11/14/2022 21:41:03]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 8066)
+[11/14/2022 21:41:03]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 8066)
+[11/14/2022 21:41:10]
+  Santiago McNeal: У меня что-то во рту...
+[11/14/2022 21:41:17]
+  Mafalda Stanley: У меня что-то во рту...
+[11/14/2022 21:41:21]
+  Console command "godmode" executed by kynlan4ic.
+[11/14/2022 21:41:33]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:33]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:33]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:33]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:34]
+  Reggie Donovan: Мне нужно подводное снаряжение!
+[11/14/2022 21:41:34]
+  Santiago McNeal: Надо найти водолазный скафандр!
+[11/14/2022 21:41:39]
+  Johny Fleig equipped Сварочный аппарат
+[11/14/2022 21:41:39]
+  Johny Fleig: Мне нужно подводное снаряжение!
+[11/14/2022 21:41:41]
+  kynlan4ic opened Настраиваемая дверь
+[11/14/2022 21:41:46]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Inner wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Inner wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Inner wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Inner wall breached by Molochblack
+[11/14/2022 21:41:46]
+  Inner wall breached by Molochblack
+[11/14/2022 21:41:47]
+  Jenine Mendel: Мне нужно подводное снаряжение!
+[11/14/2022 21:41:48]
+  Freeman Marquez: Мне нужно подводное снаряжение!
+[11/14/2022 21:41:49]
+  Mafalda Stanley: Надо найти водолазный скафандр!
+[11/14/2022 21:41:52]
+  Oscar Ulrich: Мне нужно подводное снаряжение!
+[11/14/2022 21:41:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:53]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:53]
+  Dorsey Buckley: Мне нужно подводное снаряжение!
+[11/14/2022 21:41:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:53]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:54]
+  Cathleen Sunderland: Надо найти водолазный скафандр!
+[11/14/2022 21:41:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:55]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:55]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:55]
+  Lindy Summitt: Надо найти водолазный скафандр!
+[11/14/2022 21:41:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:55]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:55]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:56]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:56]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:56]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:57]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:57]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:57]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:57]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:58]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:58]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:58]
+  Outer wall breached by Molochblack
+[11/14/2022 21:41:58]
+  Inner wall breached by Molochblack
+[11/14/2022 21:41:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:59]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:59]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:41:59]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:41:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:00]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:00]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:00]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:00]
+  Jorge Rivera: Мне нужно подводное снаряжение!
+[11/14/2022 21:42:00]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:01]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:01]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:01]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:02]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:02]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:02]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:02]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:03]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:03]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:03]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:03]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:04]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:04]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:04]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:04]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:05]
+  Raymon Marchi: Надо найти водолазный скафандр!
+[11/14/2022 21:42:05]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:05]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:05]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:06]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:06]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:06]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:07]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:09]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:09]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:09]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:10]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:10]
+  Jenine Mendel equipped Сварочный аппарат
+[11/14/2022 21:42:10]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:12]
+  Lindy Summitt: Задыхаюсь.
+[11/14/2022 21:42:12]
+  Outer wall repaired by Jenine Mendel
+[11/14/2022 21:42:13]
+  Outer wall repaired by Jenine Mendel
+[11/14/2022 21:42:13]
+  Jenine Mendel: Navigation and Weapons Room: выполняю ремонт. Осталось несколько отверстий!
+[11/14/2022 21:42:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:14]
+  Outer wall breached by Molochblack
+[11/14/2022 21:42:14]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:14]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:14]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:14]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:15]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:15]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:15]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:15]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:16]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:16]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:16]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:16]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:17]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:17]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:20]
+  Raymon Marchi: Docking Room: давление достигло опасного уровня!
+[11/14/2022 21:42:20]
+  Lindy Summitt has died (Cause of death: Баротравма)
+[11/14/2022 21:42:20]
+  Dorsey Buckley has died (Cause of death: Баротравма)
+[11/14/2022 21:42:20]
+  Raymon Marchi has died (Cause of death: Баротравма)
+[11/14/2022 21:42:20]
+  Jorge Rivera: Задыхаюсь.
+[11/14/2022 21:42:24]
+  Oscar Ulrich equipped Отвертка
+[11/14/2022 21:42:25]
+  Cathleen Sunderland: Надо найти водолазный скафандр!
+[11/14/2022 21:42:25]
+  Oscar Ulrich started repairing Монитор состояния
+[11/14/2022 21:42:26]
+  Outer wall breached by Molochblack
+[11/14/2022 21:42:26]
+  Inner wall breached by Molochblack
+[11/14/2022 21:42:26]
+  Outer wall breached by Molochblack
+[11/14/2022 21:42:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:32]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:33]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:33]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:33]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:34]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:34]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:34]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:34]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:35]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:35]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:35]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:36]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:36]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:36]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:36]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:37]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:37]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:37]
+  Molochblack attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/14/2022 21:42:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:37]
+  Oscar Ulrich unequipped Отвертка
+[11/14/2022 21:42:38]
+  Molochblack attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/14/2022 21:42:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:38]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:38]
+  Molochblack attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/14/2022 21:42:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:38]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:39]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:39]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:39]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:39]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:39]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:40]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:40]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:40]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:41]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:41]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:41]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:41]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:42]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:42]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:42]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:42]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:43]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:43]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:43]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:44]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:44]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:44]
+  Jorge Rivera equipped Сварочный аппарат
+[11/14/2022 21:42:44]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:44]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:45]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:45]
+  Inner wall repaired by Jorge Rivera
+[11/14/2022 21:42:45]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:45]
+  Jorge Rivera: Hall: все протечки устранены!
+[11/14/2022 21:42:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:45]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:45]
+  Oscar Ulrich equipped Гаечный ключ
+[11/14/2022 21:42:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:45]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:45]
+  Oscar Ulrich unequipped Гаечный ключ
+[11/14/2022 21:42:45]
+  Oscar Ulrich equipped Отвертка
+[11/14/2022 21:42:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:46]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:46]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:46]
+  Inner wall repaired by Jorge Rivera
+[11/14/2022 21:42:46]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:46]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:47]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:47]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:47]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:48]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:48]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:48]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:48]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:49]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:49]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:49]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:49]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:50]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:50]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:50]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:51]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:51]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:51]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:51]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:52]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:52]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:52]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:52]
+  Oscar Ulrich started repairing Батарея
+[11/14/2022 21:42:52]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:53]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:53]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:53]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:53]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/14/2022 21:42:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:54]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:55]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:55]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:56]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:56]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:56]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:57]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:57]
+  Cathleen Sunderland: Мне нужно подводное снаряжение!
+[11/14/2022 21:42:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:57]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:58]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:42:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:59]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:42:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:42:59]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:00]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:01]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:15]
+  igameCrog has died (Cause of death: Нехватка кислорода)
+[11/14/2022 21:43:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:23]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:24]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:24]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:24]
+  Molochblack attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/14/2022 21:43:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:25]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:25]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:25]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:26]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:26]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:26]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:27]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:27]
+  Molochblack attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[11/14/2022 21:43:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:27]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[11/14/2022 21:43:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/14/2022 21:43:28]
+  Molochblack attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025

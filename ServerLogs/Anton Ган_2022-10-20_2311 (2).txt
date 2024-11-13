@@ -1,0 +1,1604 @@
+﻿[10/20/2022 22:30:52]
+  Saving client permissions
+[10/20/2022 22:30:52]
+  Saving client permissions
+[10/20/2022 22:32:11]
+  Игрок iliya_kind присоединился к серверу.
+[10/20/2022 22:32:11]
+  Saving client permissions
+[10/20/2022 22:32:37]
+  Игрок igameCrog присоединился к серверу.
+[10/20/2022 22:32:37]
+  Saving client permissions
+[10/20/2022 22:34:35]
+  iliya_kind is ready to start the game.
+[10/20/2022 22:35:00]
+  kynlan4ic is ready to start the game.
+[10/20/2022 22:35:04]
+  igameCrog is ready to start the game.
+[10/20/2022 22:35:05]
+  Client "kynlan4ic" started the round.
+[10/20/2022 22:35:05]
+  Starting a new round...
+[10/20/2022 22:35:13]
+  Миссия: Транспортировка медикаментов
+[10/20/2022 22:35:13]
+  Шахта Skadi's Cauldron вызывает все суда! Один несчастный отравился большой дозой морбузина. Он еще может выжить, если кто-то успеет доставить ему противоядие, но действовать надо быстро... Если все пройдет успешно, вам заплатят 1,000 кред.
+[10/20/2022 22:35:13]
+  Game mode: Миссия
+[10/20/2022 22:35:13]
+  Submarine: R-29
+[10/20/2022 22:35:13]
+  Level seed: 14237854
+[10/20/2022 22:35:13]
+  Mission: Транспортировка медикаментов
+[10/20/2022 22:35:13]
+  Round started.
+[10/20/2022 22:35:18]
+  Synthia Sexton: Знаешь, мне на днях пришла отличная предпринимательская идея.
+[10/20/2022 22:35:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:35:27]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:35:31]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:35:45]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:45]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:45]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 22:35:48]
+  iliya_kind placed Подводное ружье in Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:48]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:48]
+  iliya_kind picked up Револьвер
+[10/20/2022 22:35:51]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:51]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:51]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 22:35:53]
+  iliya_kind picked up Дробовик
+[10/20/2022 22:35:55]
+  iliya_kind picked up Пистолет-пулемет
+[10/20/2022 22:35:59]
+  iliya_kind picked up Пуленепробиваемый шлем
+[10/20/2022 22:36:02]
+  iliya_kind picked up Бронежилет
+[10/20/2022 22:36:15]
+  iliya_kind equipped Гитара
+[10/20/2022 22:36:48]
+  igameCrog removed Подводная маска from Средний стальной шкаф (ID: 367)
+[10/20/2022 22:36:50]
+  igameCrog picked up Фонарик
+[10/20/2022 22:36:52]
+  igameCrog picked up Подводный скутер
+[10/20/2022 22:36:55]
+  igameCrog picked up Плазменный резак
+[10/20/2022 22:36:57]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:36:57]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:36:57]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:37:01]
+  igameCrog picked up Аккумулятор
+[10/20/2022 22:37:01]
+  igameCrog picked up Аккумулятор
+[10/20/2022 22:37:03]
+  igameCrog picked up Подводная маска
+[10/20/2022 22:37:05]
+  iliya_kind picked up Подводная маска
+[10/20/2022 22:37:06]
+  iliya_kind removed Сварочный аппарат from Хозяйственный шкаф (ID: 580)
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:26]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/20/2022 22:37:27]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:27]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:30]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:36]
+  Dispatching the respawn shuttle.
+[10/20/2022 22:37:36]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/20/2022 22:37:37]
+  Vasili Lavey equipped Сварочный аппарат
+[10/20/2022 22:37:38]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:37:42]
+  Outer wall repaired by Vasili Lavey
+[10/20/2022 22:37:42]
+  Outer wall repaired by Vasili Lavey
+[10/20/2022 22:37:43]
+  Vasili Lavey unequipped Сварочный аппарат
+[10/20/2022 22:37:44]
+  igameCrog has died (Cause of death: Баротравма)
+[10/20/2022 22:37:46]
+  Maudie Donovan equipped Сварочный аппарат
+[10/20/2022 22:37:46]
+  iliya_kind dropped Гитара
+[10/20/2022 22:37:48]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:50]
+  iliya_kind is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[10/20/2022 22:37:50]
+  Maudie Donovan unequipped Сварочный аппарат
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:01]
+  Inner wall breached by Hammerheadgold
+[10/20/2022 22:38:01]
+  Inner wall breached by Hammerhead
+[10/20/2022 22:38:01]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Inner wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:06]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/20/2022 22:38:24]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:24]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:39]
+  The respawn shuttle is leaving.
+[10/20/2022 22:38:42]
+  kynlan4ic opened Настраиваемый люк
+[10/20/2022 22:38:43]
+  kynlan4ic closed Настраиваемый люк
+[10/20/2022 22:38:43]
+  kynlan4ic opened Настраиваемый люк
+[10/20/2022 22:38:44]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:44]
+  Inner wall breached by Hammerheadgold
+[10/20/2022 22:38:44]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:47]
+  kynlan4ic closed Настраиваемый люк
+[10/20/2022 22:39:10]
+  The respawn shuttle has left.
+[10/20/2022 22:39:13]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 22:39:15]
+  iliya_kind picked up Фонарик
+[10/20/2022 22:39:20]
+  Inner wall breached by Hammerheadgold
+[10/20/2022 22:39:20]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:21]
+  Dispatching the respawn shuttle.
+[10/20/2022 22:39:21]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 22:39:22]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:41]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 22:39:50]
+  kynlan4ic launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/20/2022 22:39:50]
+  Hammerheadgold attacked by kynlan4ic. Повреждение глубоких тканей: 52.5 Кровотечение: 15 Оглушение: 4
+[10/20/2022 22:40:01]
+  kynlan4ic launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/20/2022 22:40:07]
+  iliya_kind dropped Гитара
+[10/20/2022 22:40:08]
+  iliya_kind equipped Револьвер
+[10/20/2022 22:40:08]
+  iliya_kind equipped Дробовик
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:17]
+  Ending round by votes (2/1)
+[10/20/2022 22:40:17]
+  Ending the round...
+[10/20/2022 22:40:17]
+  Round ended.
+[10/20/2022 22:41:13]
+  Gamemode changed to PvP
+[10/20/2022 22:46:31]
+  Игрок Супостат присоединился к серверу.
+[10/20/2022 22:46:31]
+  Saving client permissions
+[10/20/2022 22:46:38]
+  kynlan4ic: вкппыпывпвпыпыварарврваоррапаорапопр
+[10/20/2022 22:47:15]
+  Gamemode changed to Миссия
+[10/20/2022 22:47:48]
+  kynlan4ic is ready to start the game.
+[10/20/2022 22:48:04]
+  igameCrog is ready to start the game.
+[10/20/2022 22:48:08]
+  Супостат is ready to start the game.
+[10/20/2022 22:48:27]
+  iliya_kind is ready to start the game.
+[10/20/2022 22:48:29]
+  Client "kynlan4ic" started the round.
+[10/20/2022 22:48:29]
+  Starting a new round...
+[10/20/2022 22:48:37]
+  Миссия: Разбор обломков
+[10/20/2022 22:48:37]
+  В точке «Центр Set» только что был получен сигнал бедствия с судна, которое считалось пропавшим вместе с находившимися на его борту особо секретными зашифрованными данными. Ваше приоритетное задание - найти журнал капитана и вернуть его.
+[10/20/2022 22:48:37]
+  Game mode: Миссия
+[10/20/2022 22:48:37]
+  Submarine: Dugong
+[10/20/2022 22:48:37]
+  Level seed: RRlHXX7f
+[10/20/2022 22:48:37]
+  Mission: Разбор обломков
+[10/20/2022 22:48:37]
+  Tessie Thompkins equipped Пистолет-пулемет
+[10/20/2022 22:48:37]
+  Iris Moses equipped Плазменный резак
+[10/20/2022 22:48:37]
+  Shirlee Meisner equipped Сварочный аппарат
+[10/20/2022 22:48:37]
+  Zandra Breeki equipped Шприц-пистолет
+[10/20/2022 22:48:37]
+  Round started.
+[10/20/2022 22:48:39]
+  Wilford Radice: Кто-нибудь еще помнит Землю?
+[10/20/2022 22:48:44]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:48:47]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:48:54]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:49:13]
+  igameCrog picked up Подводная маска
+[10/20/2022 22:49:14]
+  iliya_kind picked up Подводная маска
+[10/20/2022 22:49:15]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:49:16]
+  igameCrog picked up Морфин
+[10/20/2022 22:49:16]
+  kynlan4ic: Timur Angles, заряди реактор!
+[10/20/2022 22:49:17]
+  Timur Angles: Есть!
+[10/20/2022 22:49:24]
+  kynlan4ic: Lindy Bradley, займись оружием!
+[10/20/2022 22:49:25]
+  Lindy Bradley: Слушаюсь!
+[10/20/2022 22:49:28]
+  kynlan4ic: iliya_kind, займись оружием!
+[10/20/2022 22:49:32]
+  iliya_kind picked up Шприц-пистолет
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:35]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 22:49:36]
+  igameCrog turned off Насос
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф с окном (ID: 331)
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:37]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 22:49:39]
+  iliya_kind picked up Гарпун
+[10/20/2022 22:49:39]
+  iliya_kind picked up Гарпун
+[10/20/2022 22:49:39]
+  iliya_kind picked up Гарпун
+[10/20/2022 22:49:39]
+  iliya_kind picked up Гарпун
+[10/20/2022 22:49:39]
+  iliya_kind picked up Гарпун
+[10/20/2022 22:49:39]
+  iliya_kind picked up Гарпун
+[10/20/2022 22:49:40]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 22:49:40]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 22:49:40]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 22:49:40]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 22:49:40]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 22:49:40]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 22:49:41]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:49:48]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:49:48]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:49:48]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 22:49:52]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:49:52]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:49:52]
+  iliya_kind picked up Револьвер
+[10/20/2022 22:49:54]
+  iliya_kind picked up Пистолет-пулемет
+[10/20/2022 22:49:55]
+  iliya_kind picked up Дробовик
+[10/20/2022 22:49:59]
+  iliya_kind placed Шприц-пистолет in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:50:02]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:02]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:02]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:05]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:05]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:05]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:10]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 22:50:15]
+  igameCrog adjusted reactor settings: Temperature: 4202, Fission rate: 78, Turbine output: 83, Autotemp OFF
+[10/20/2022 22:50:17]
+  igameCrog adjusted reactor settings: Temperature: 4273, Fission rate: 96, Turbine output: 82, Autotemp OFF
+[10/20/2022 22:50:18]
+  igameCrog adjusted reactor settings: Temperature: 3886, Fission rate: 96, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:50:27]
+  kynlan4ic is a traitor and the current goals are:
+- Саботируйте цель Двигатель, чтобы ее исправность была не выше 10%. (В процессе)
+
+[10/20/2022 22:50:28]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:28]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:28]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:28]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:28]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:28]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:29]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:29]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:29]
+  iliya_kind placed Резиновый патрон для дробовика in Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:29]
+  iliya_kind removed Сварочный аппарат from Хозяйственный шкаф (ID: 140)
+[10/20/2022 22:50:29]
+  iliya_kind picked up Сварочный аппарат
+[10/20/2022 22:50:30]
+  igameCrog adjusted reactor settings: Temperature: 3765, Fission rate: 77, Turbine output: 87, Autotemp OFF
+[10/20/2022 22:50:31]
+  igameCrog adjusted reactor settings: Temperature: 3667, Fission rate: 96, Turbine output: 87, Autotemp OFF
+[10/20/2022 22:50:32]
+  igameCrog adjusted reactor settings: Temperature: 3416, Fission rate: 96, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:50:34]
+  igameCrog picked up Топливный стержень
+[10/20/2022 22:50:37]
+  Timur Angles: Загружаю в реактор дополнительное топливо!
+[10/20/2022 22:50:37]
+  iliya_kind equipped Дробовик
+[10/20/2022 22:50:55]
+  iliya_kind equipped Подводное ружье
+[10/20/2022 22:50:56]
+  igameCrog adjusted reactor settings: Temperature: 3405, Fission rate: 62, Turbine output: 69, Autotemp OFF
+[10/20/2022 22:50:59]
+  igameCrog adjusted reactor settings: Temperature: 3065, Fission rate: 61, Turbine output: 72, Autotemp OFF
+[10/20/2022 22:51:00]
+  igameCrog adjusted reactor settings: Temperature: 2405, Fission rate: 61, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:01]
+  Timur Angles adjusted reactor settings: Temperature: 2081, Fission rate: 76, Turbine output: 99, Autotemp ON
+[10/20/2022 22:51:07]
+  igameCrog adjusted reactor settings: Temperature: 3741, Fission rate: 71, Turbine output: 87, Autotemp OFF
+[10/20/2022 22:51:13]
+  Супостат placed Топливный стержень in Ядерный реактор (ID: 161)
+[10/20/2022 22:51:16]
+  igameCrog adjusted reactor settings: Temperature: 6190, Fission rate: 71, Turbine output: 90, Autotemp OFF
+[10/20/2022 22:51:17]
+  igameCrog adjusted reactor settings: Temperature: 7207, Fission rate: 71, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:21]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 89, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:22]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 90, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:23]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:25]
+  Супостат picked up Топливный стержень
+[10/20/2022 22:51:25]
+  iliya_kind picked up Информационный экран сканера здоровья
+[10/20/2022 22:51:33]
+  kynlan4ic: Timur Angles, туши огонь!
+[10/20/2022 22:51:34]
+  Супостат adjusted reactor settings: Temperature: 2800, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:34]
+  Timur Angles: Так точно!
+[10/20/2022 22:51:35]
+  Супостат adjusted reactor settings: Temperature: 2800, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/20/2022 22:51:38]
+  Timur Angles: Надо найти огнетушитель!
+[10/20/2022 22:51:38]
+  Супостат equipped Огнетушитель
+[10/20/2022 22:51:38]
+  Супостат picked up Огнетушитель
+[10/20/2022 22:51:41]
+  Timur Angles equipped Огнетушитель
+[10/20/2022 22:51:43]
+  igameCrog has died (Cause of death: Ожог)
+[10/20/2022 22:51:45]
+  Franklin Tootle: Мне нужен огнетушитель!
+[10/20/2022 22:51:46]
+  Pamela Thompkins: Надо найти огнетушитель!
+[10/20/2022 22:51:47]
+  Timur Angles: Реакторный отсек: мне удалось справиться с пожаром!
+[10/20/2022 22:51:53]
+  Dispatching the respawn shuttle.
+[10/20/2022 22:51:53]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 22:51:55]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:52:02]
+  igameCrog picked up Подводная маска
+[10/20/2022 22:52:04]
+  igameCrog picked up Дементонитовый лом
+[10/20/2022 22:52:07]
+  igameCrog picked up Плазменный резак
+[10/20/2022 22:52:08]
+  igameCrog picked up Ручной сонар
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:10]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:52:11]
+  igameCrog picked up Подводный скутер
+[10/20/2022 22:52:14]
+  iliya_kind placed Кислородный баллон in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:52:14]
+  iliya_kind removed Шприц-пистолет from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 22:52:14]
+  iliya_kind picked up Шприц-пистолет
+[10/20/2022 22:52:18]
+  kynlan4ic: ёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёёё
+[10/20/2022 22:52:21]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:52:31]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:52:31]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:52:31]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:52:31]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:52:44]
+  iliya_kind equipped Шприц-пистолет
+[10/20/2022 22:52:49]
+  kynlan4ic: Пункт управления: срочно нужен врач!
+[10/20/2022 22:52:51]
+  Супостат has died (Cause of death: Ожог)
+[10/20/2022 22:52:54]
+  Pamela Thompkins equipped Огнетушитель
+[10/20/2022 22:53:22]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:53:22]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:53:22]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3281)
+[10/20/2022 22:53:24]
+  iliya_kind placed Шприц-пистолет in Аптечка (ID: 132)
+[10/20/2022 22:53:31]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 22:53:34]
+  iliya_kind equipped Сварочный аппарат
+[10/20/2022 22:53:42]
+  iliya_kind equipped Белая краска
+[10/20/2022 22:53:42]
+  iliya_kind equipped Белая краска
+[10/20/2022 22:53:42]
+  iliya_kind picked up Белая краска
+[10/20/2022 22:53:46]
+  iliya_kind threw Белая краска
+[10/20/2022 22:53:51]
+  Nicole Rios equipped Белая краска
+[10/20/2022 22:53:51]
+  Nicole Rios equipped Белая краска
+[10/20/2022 22:53:51]
+  The respawn shuttle is leaving.
+[10/20/2022 22:53:59]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:54:15]
+  iliya_kind placed Кислородный баллон in Хозяйственный шкаф (ID: 461)
+[10/20/2022 22:54:15]
+  iliya_kind removed Морфин from Хозяйственный шкаф (ID: 461)
+[10/20/2022 22:54:15]
+  iliya_kind picked up Морфин
+[10/20/2022 22:54:17]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 22:54:22]
+  igameCrog has died (Cause of death: Unknown)
+[10/20/2022 22:54:22]
+  The respawn shuttle has left.
+[10/20/2022 22:54:24]
+  iliya_kind used item Морфин
+[10/20/2022 22:54:28]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 22:54:32]
+  Dispatching the respawn shuttle.
+[10/20/2022 22:54:32]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 22:54:32]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/20/2022 22:54:34]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:54:34]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:54:42]
+  igameCrog picked up Подводная маска
+[10/20/2022 22:54:44]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:54:44]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:54:44]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:54:44]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:54:47]
+  igameCrog picked up Подводный скутер
+[10/20/2022 22:54:50]
+  iliya_kind equipped Нож ныряльщика
+[10/20/2022 22:54:51]
+  igameCrog picked up Плазменный резак
+[10/20/2022 22:54:54]
+  igameCrog picked up Ручной сонар
+[10/20/2022 22:54:57]
+  igameCrog picked up Дементонитовый лом
+[10/20/2022 22:54:58]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 22:55:07]
+  iliya_kind equipped Фонарик
+[10/20/2022 22:55:07]
+  iliya_kind picked up Фонарик
+[10/20/2022 22:55:20]
+  iliya_kind placed Подводная маска in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:20]
+  iliya_kind removed Подводный скутер from Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:20]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 22:55:26]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:26]
+  iliya_kind removed Подводная маска from Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:26]
+  iliya_kind picked up Подводная маска
+[10/20/2022 22:55:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind removed Подводный скутер from Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:55:30]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 22:55:32]
+  igameCrog removed Одноразовый водолазный скафандр from Шкаф для подводного снаряжения (ID: 2617)
+[10/20/2022 22:55:43]
+  iliya_kind equipped Подводный скутер
+[10/20/2022 22:56:16]
+  kynlan4ic docked Dugong to Venture
+[10/20/2022 22:56:18]
+  iliya_kind equipped Револьвер
+[10/20/2022 22:56:23]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 22:56:27]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 22:56:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:31]
+  Outer wall breached by kynlan4ic
+[10/20/2022 22:56:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:33]
+  Outer wall breached by kynlan4ic
+[10/20/2022 22:56:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:36]
+  Inner wall breached by kynlan4ic
+[10/20/2022 22:56:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:56:38]
+  iliya_kind equipped Пистолет-пулемет
+[10/20/2022 22:57:03]
+  The respawn shuttle is leaving.
+[10/20/2022 22:57:10]
+  kynlan4ic docked Dugong to Venture
+[10/20/2022 22:57:18]
+  igameCrog attacked by iliya_kind. Огнестрельная рана: 3.4375 Кровотечение: 5.1562505 Оглушение: 0.15
+[10/20/2022 22:57:19]
+  kynlan4ic docked Dugong to Venture
+[10/20/2022 22:57:20]
+  kynlan4ic docked Dugong to Venture
+[10/20/2022 22:57:30]
+  kynlan4ic docked Dugong to Venture
+[10/20/2022 22:57:33]
+  kynlan4ic docked Dugong to Venture
+[10/20/2022 22:57:34]
+  The respawn shuttle has left.
+[10/20/2022 22:57:37]
+  Супостат picked up Водолазный скафандр
+[10/20/2022 22:57:38]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[10/20/2022 22:57:42]
+  Супостат placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[10/20/2022 22:57:45]
+  Lindy Bradley: Цель зафиксирована: ледяной шпиль!
+[10/20/2022 22:57:45]
+  Lindy Bradley: Огонь!
+[10/20/2022 22:57:45]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:45]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:46]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:46]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:46]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:47]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:47]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:47]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:47]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:48]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:48]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:57:48]
+  Lindy Bradley launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:58:13]
+  igameCrog dropped Одноразовый водолазный скафандр
+[10/20/2022 22:58:31]
+  Супостат equipped Гаечный ключ
+[10/20/2022 22:58:31]
+  Супостат equipped Отвертка
+[10/20/2022 22:58:38]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 22:58:48]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 22:58:55]
+  igameCrog: Арсенал горит!
+[10/20/2022 22:59:04]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 22:59:06]
+  kynlan4ic: Пункт управления: здесь пожар!
+[10/20/2022 22:59:17]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 22:59:20]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 22:59:32]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 22:59:33]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 22:59:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:37]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 22:59:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:38]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:38]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 22:59:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:38]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:39]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:39]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:39]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:40]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:40]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:40]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:40]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/20/2022 22:59:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:41]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:42]
+  Outer wall breached by Mudraptor
+[10/20/2022 22:59:42]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:42]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:43]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:43]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/20/2022 22:59:43]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:43]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:44]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:44]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:44]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:45]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:45]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:45]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/20/2022 22:59:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:46]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/20/2022 22:59:46]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/20/2022 22:59:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:47]
+  Pamela Thompkins equipped Сварочный аппарат
+[10/20/2022 22:59:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:47]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:47]
+  Outer wall breached by Mudraptor
+[10/20/2022 22:59:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:47]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:49]
+  Outer wall repaired by iliya_kind
+[10/20/2022 22:59:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:50]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:50]
+  Pamela Thompkins unequipped Сварочный аппарат
+[10/20/2022 22:59:50]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:52]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:53]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:54]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:54]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:55]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 22:59:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:55]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/20/2022 22:59:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:56]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:57]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:57]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/20/2022 22:59:57]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 22:59:59]
+  Mudraptor has died (Cause of death: Рваная рана)
+[10/20/2022 22:59:59]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 22:59:59]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:05]
+  igameCrog picked up Физраствор
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog placed Физраствор in Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog removed Стабилоцин from Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog removed Стабилоцин from Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog removed Стабилоцин from Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog removed Стабилоцин from Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog removed Стабилоцин from Аптечка (ID: 132)
+[10/20/2022 23:00:09]
+  igameCrog picked up Стабилоцин
+[10/20/2022 23:00:09]
+  igameCrog picked up Стабилоцин
+[10/20/2022 23:00:09]
+  igameCrog picked up Стабилоцин
+[10/20/2022 23:00:09]
+  igameCrog picked up Стабилоцин
+[10/20/2022 23:00:09]
+  igameCrog picked up Стабилоцин
+[10/20/2022 23:00:18]
+  Супостат picked up Сварочный аппарат
+[10/20/2022 23:00:19]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 23:00:20]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 23:00:20]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 23:00:21]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:22]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 23:00:24]
+  Супостат equipped Топливный стержень
+[10/20/2022 23:00:25]
+  Супостат equipped Сварочный аппарат
+[10/20/2022 23:00:27]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 23:00:30]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 23:00:33]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 23:00:34]
+  igameCrog set the recharge speed of Суперконденсатор to 10 %
+[10/20/2022 23:00:34]
+  igameCrog set the recharge speed of Суперконденсатор to 0 %
+[10/20/2022 23:00:39]
+  Pamela Thompkins equipped Сварочный аппарат
+[10/20/2022 23:00:40]
+  Outer wall repaired by Pamela Thompkins
+[10/20/2022 23:00:41]
+  Pamela Thompkins unequipped Сварочный аппарат
+[10/20/2022 23:00:46]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 23:00:48]
+  Outer wall repaired by iliya_kind
+[10/20/2022 23:00:53]
+  igameCrog equipped Гаечный ключ
+[10/20/2022 23:01:00]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 23:01:01]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 23:01:04]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 407)
+[10/20/2022 23:01:21]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 23:01:23]
+  igameCrog equipped Отвертка
+[10/20/2022 23:01:24]
+  igameCrog equipped Дементонитовый лом
+[10/20/2022 23:01:39]
+  igameCrog started repairing Кабельная коробка
+[10/20/2022 23:01:57]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 23:01:59]
+  igameCrog adjusted reactor settings: Temperature: 3040, Fission rate: 56, Turbine output: 59, Autotemp OFF
+[10/20/2022 23:02:00]
+  igameCrog adjusted reactor settings: Temperature: 3091, Fission rate: 73, Turbine output: 59, Autotemp OFF
+[10/20/2022 23:02:01]
+  igameCrog adjusted reactor settings: Temperature: 4074, Fission rate: 83, Turbine output: 59, Autotemp OFF
+[10/20/2022 23:02:02]
+  igameCrog adjusted reactor settings: Temperature: 4908, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:02:05]
+  kynlan4ic set the pumping speed of Насос to -100 %
+[10/20/2022 23:02:05]
+  kynlan4ic turned on Насос
+[10/20/2022 23:02:21]
+  igameCrog failed to repair Кабельная коробка
+[10/20/2022 23:02:28]
+  Pamela Thompkins equipped Отвертка
+[10/20/2022 23:02:29]
+  Pamela Thompkins started repairing Навигационный терминал
+[10/20/2022 23:02:30]
+  igameCrog failed to repair Кабельная коробка
+[10/20/2022 23:02:34]
+  kynlan4ic picked up Водолазный скафандр
+[10/20/2022 23:02:35]
+  Супостат покидает сервер.
+[10/20/2022 23:02:40]
+  Pamela Thompkins unequipped Отвертка
+[10/20/2022 23:02:45]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 23:02:50]
+  igameCrog started repairing Генератор кислорода
+[10/20/2022 23:03:01]
+  kynlan4ic picked up Фонарик
+[10/20/2022 23:03:03]
+  kynlan4ic picked up Ручной сонар
+[10/20/2022 23:03:05]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:03:05]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:03:05]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:03:05]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:03:11]
+  igameCrog adjusted reactor settings: Temperature: 2815, Fission rate: 50, Turbine output: 52, Autotemp OFF
+[10/20/2022 23:03:11]
+  Timur Angles equipped Отвертка
+[10/20/2022 23:03:14]
+  Franklin Tootle: Слышишь?
+[10/20/2022 23:03:15]
+  Wilford Radice: Что?
+[10/20/2022 23:03:15]
+  iliya_kind placed Сварочный аппарат in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:03:15]
+  iliya_kind removed Подводный скутер from Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:03:15]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 23:03:15]
+  Timur Angles started repairing Кабельная коробка
+[10/20/2022 23:03:16]
+  igameCrog adjusted reactor settings: Temperature: 2577, Fission rate: 45, Turbine output: 51, Autotemp OFF
+[10/20/2022 23:03:16]
+  Franklin Tootle: Какой-то гулкий рев снаружи подлодки.
+[10/20/2022 23:03:17]
+  igameCrog adjusted reactor settings: Temperature: 2176, Fission rate: 45, Turbine output: 55, Autotemp OFF
+[10/20/2022 23:03:18]
+  igameCrog adjusted reactor settings: Temperature: 1308, Fission rate: 45, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:03:19]
+  igameCrog adjusted reactor settings: Temperature: 308, Fission rate: 62, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:03:20]
+  Wilford Radice: Да просто корпус поскрипывает. Расслабься.
+[10/20/2022 23:03:20]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 70, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:03:21]
+  igameCrog adjusted reactor settings: Temperature: 899, Fission rate: 80, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:03:22]
+  igameCrog adjusted reactor settings: Temperature: 1933, Fission rate: 84, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:03:22]
+  kynlan4ic picked up Плазменный резак
+[10/20/2022 23:03:23]
+  igameCrog adjusted reactor settings: Temperature: 2611, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:03:27]
+  Timur Angles unequipped Отвертка
+[10/20/2022 23:03:33]
+  kynlan4ic equipped Фонарик
+[10/20/2022 23:03:34]
+  kynlan4ic equipped Ручной сонар
+[10/20/2022 23:03:39]
+  igameCrog dropped Одноразовый водолазный скафандр
+[10/20/2022 23:03:40]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 23:03:48]
+  igameCrog dropped Одноразовый водолазный скафандр
+[10/20/2022 23:03:56]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 161)
+[10/20/2022 23:03:57]
+  Timur Angles equipped Отвертка
+[10/20/2022 23:03:59]
+  Timur Angles started repairing Кабельная коробка
+[10/20/2022 23:04:00]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 5, Turbine output: 52, Autotemp OFF
+[10/20/2022 23:04:00]
+  Larissa Hinton equipped Топливный стержень
+[10/20/2022 23:04:01]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 5, Turbine output: 52, Autotemp OFF
+[10/20/2022 23:04:02]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 100, Turbine output: 52, Autotemp OFF
+[10/20/2022 23:04:03]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/20/2022 23:04:06]
+  Lindy Bradley: Неизвестная цель обнаружена!
+[10/20/2022 23:04:06]
+  Timur Angles unequipped Отвертка
+[10/20/2022 23:04:06]
+  Timur Angles: Загружаю в реактор дополнительное топливо!
+[10/20/2022 23:04:07]
+  Timur Angles equipped Топливный стержень
+[10/20/2022 23:04:14]
+  Lindy Bradley: У меня новая цель! Не могу понять, что это такое...
+[10/20/2022 23:04:16]
+  kynlan4ic equipped Плазменный резак
+[10/20/2022 23:04:20]
+  Outer wall breached by kynlan4ic
+[10/20/2022 23:04:25]
+  Outer wall breached by iliya_kind
+[10/20/2022 23:04:28]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 16.800001 Кровотечение: 25 Оглушение: 0.18
+[10/20/2022 23:04:29]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 7.6720004 Кровотечение: 12.84375 Оглушение: 0.3
+[10/20/2022 23:04:29]
+  kynlan4ic equipped Револьвер
+[10/20/2022 23:04:30]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[10/20/2022 23:04:31]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.800001 Кровотечение: 25 Оглушение: 0.18
+[10/20/2022 23:04:31]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:04:31]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:04:32]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.800001 Кровотечение: 25 Оглушение: 0.18
+[10/20/2022 23:04:32]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[10/20/2022 23:04:32]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:04:32]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:04:32]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:04:32]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:04:32]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:12]
+  kynlan4ic picked up Сонарный маяк
+[10/20/2022 23:05:14]
+  kynlan4ic picked up Мешок семян
+[10/20/2022 23:05:21]
+  kynlan4ic picked up Пояс инструментов
+[10/20/2022 23:05:40]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:41]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:42]
+  Pamela Thompkins equipped Отвертка
+[10/20/2022 23:05:44]
+  Pamela Thompkins failed to repair Монитор состояния
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:45]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/20/2022 23:05:48]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:48]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:49]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:49]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:49]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:49]
+  Pamela Thompkins unequipped Отвертка
+[10/20/2022 23:05:50]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[10/20/2022 23:05:50]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:50]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:50]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:05:53]
+  Larissa Hinton equipped Отвертка
+[10/20/2022 23:05:58]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 7.5000005 Кровотечение: 12.5 Оглушение: 0.09
+[10/20/2022 23:06:06]
+  Larissa Hinton started repairing Монитор состояния
+[10/20/2022 23:06:17]
+  Larissa Hinton unequipped Отвертка
+[10/20/2022 23:06:26]
+  Pamela Thompkins equipped Отвертка
+[10/20/2022 23:06:32]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 23:06:33]
+  kynlan4ic picked up Подводный скутер
+[10/20/2022 23:06:35]
+  kynlan4ic placed Мешок семян in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:06:35]
+  Pamela Thompkins started repairing Кабельная коробка
+[10/20/2022 23:06:39]
+  kynlan4ic placed Сонарный маяк in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:06:46]
+  Pamela Thompkins unequipped Отвертка
+[10/20/2022 23:06:49]
+  kynlan4ic equipped Подводный скутер
+[10/20/2022 23:07:23]
+  Husk attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[10/20/2022 23:07:25]
+  igameCrog equipped Подводный скутер
+[10/20/2022 23:07:26]
+  Husk attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/20/2022 23:07:26]
+  iliya_kind used Нож ныряльщика on Husk.
+[10/20/2022 23:07:27]
+  Gloria Phoenix attacked by iliya_kind. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:07:27]
+  iliya_kind used Нож ныряльщика on Gloria Phoenix.
+[10/20/2022 23:07:29]
+  Husk attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/20/2022 23:07:29]
+  iliya_kind used Нож ныряльщика on Husk.
+[10/20/2022 23:07:30]
+  Gloria Phoenix attacked by iliya_kind. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:07:30]
+  iliya_kind used Нож ныряльщика on Gloria Phoenix.
+[10/20/2022 23:07:31]
+  Husk attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/20/2022 23:07:31]
+  iliya_kind used Нож ныряльщика on Husk.
+[10/20/2022 23:07:32]
+  Husk attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/20/2022 23:07:32]
+  iliya_kind used Нож ныряльщика on Husk.
+[10/20/2022 23:07:36]
+  Супостат has died (Cause of death: Disconnected)
+[10/20/2022 23:07:39]
+  Mose Books equipped Сварочный аппарат
+[10/20/2022 23:07:54]
+  Husk attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[10/20/2022 23:07:59]
+  Husk attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[10/20/2022 23:08:03]
+  Husk has died (Cause of death: Рваная рана)
+[10/20/2022 23:08:03]
+  Husk attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[10/20/2022 23:08:03]
+  Inner wall breached by kynlan4ic
+[10/20/2022 23:08:06]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 23:08:07]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 23:08:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:08:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:08:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:08:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:08:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:08:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:08:08]
+  iliya_kind removed Гарпун from Подводное ружье (ID: 3097)
+[10/20/2022 23:08:12]
+  igameCrog dropped Одноразовый водолазный скафандр
+[10/20/2022 23:08:15]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3119)
+[10/20/2022 23:08:15]
+  kynlan4ic removed Кислородный баллон from Водолазный скафандр (ID: 3119)
+[10/20/2022 23:08:15]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 3096)
+[10/20/2022 23:08:15]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 23:08:15]
+  iliya_kind dropped Кислородный баллон
+[10/20/2022 23:08:15]
+  iliya_kind placed Кислородный баллон in Водолазный скафандр (ID: 3121)
+[10/20/2022 23:08:18]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:08:19]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:08:19]
+  kynlan4ic dropped Кислородный баллон
+[10/20/2022 23:08:19]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 3096)
+[10/20/2022 23:08:24]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:08:25]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:08:43]
+  kynlan4ic picked up Подводный скутер
+[10/20/2022 23:08:45]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:09:01]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:03]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:09:03]
+  kynlan4ic dropped Кислородный баллон
+[10/20/2022 23:09:03]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 3096)
+[10/20/2022 23:09:05]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind picked up Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind dropped Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind dropped Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind dropped Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind dropped Гарпун
+[10/20/2022 23:09:05]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:09:05]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:09:05]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:09:05]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:09:07]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:09:07]
+  kynlan4ic dropped Кислородный баллон
+[10/20/2022 23:09:07]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 3096)
+[10/20/2022 23:09:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:09:08]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 3097)
+[10/20/2022 23:09:47]
+  igameCrog equipped Плазменный резак
+[10/20/2022 23:09:51]
+  iliya_kind equipped Экстракт взрывного граната
+[10/20/2022 23:09:51]
+  iliya_kind picked up Экстракт взрывного граната
+[10/20/2022 23:09:55]
+  iliya_kind used item Экстракт взрывного граната
+[10/20/2022 23:09:55]
+  kynlan4ic equipped Подводный скутер
+[10/20/2022 23:10:23]
+  Pamela Thompkins equipped Отвертка
+[10/20/2022 23:10:26]
+  Pamela Thompkins started repairing Кабельная коробка
+[10/20/2022 23:10:37]
+  Pamela Thompkins unequipped Отвертка
+[10/20/2022 23:10:40]
+  kynlan4ic picked up Кислородный баллон
+[10/20/2022 23:10:40]
+  kynlan4ic dropped Кислородный баллон
+[10/20/2022 23:10:40]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3119)
+[10/20/2022 23:10:58]
+  igameCrog: Пункт управления: здесь протечка!
+[10/20/2022 23:11:01]
+  igameCrog: Пункт управления: здесь протечка!
+[10/20/2022 23:11:03]
+  igameCrog: Пункт управления: здесь протечка!
+[10/20/2022 23:11:05]
+  igameCrog: Пункт управления: здесь протечка!
+[10/20/2022 23:11:19]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 23:11:25]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:11:27]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:11:32]
+  iliya_kind picked up Сварочный аппарат
+[10/20/2022 23:11:33]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[10/20/2022 23:11:40]
+  iliya_kind placed Фонарик in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 23:11:44]
+  iliya_kind picked up Патрон револьвера
+[10/20/2022 23:11:44]
+  iliya_kind picked up Патрон револьвера

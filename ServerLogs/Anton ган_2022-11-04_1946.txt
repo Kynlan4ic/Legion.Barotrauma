@@ -1,0 +1,1604 @@
+﻿[11/04/2022 19:23:37]
+  Starting the server...
+[11/04/2022 19:23:37]
+  Using SteamP2P networking.
+[11/04/2022 19:23:37]
+  Server started
+[11/04/2022 19:23:37]
+  Игрок kynlan4ic присоединился к серверу.
+[11/04/2022 19:23:37]
+  Saving client permissions
+[11/04/2022 19:23:37]
+  Saving client permissions
+[11/04/2022 19:23:38]
+  Gamemode changed to Кампания
+[11/04/2022 19:23:43]
+  Gamemode changed to Миссия
+[11/04/2022 19:25:02]
+  kynlan4ic: зЫ ХУЙ
+[11/04/2022 19:25:43]
+  Игрок igameCrog присоединился к серверу.
+[11/04/2022 19:25:43]
+  Saving client permissions
+[11/04/2022 19:26:37]
+  igameCrog: хуй
+[11/04/2022 19:26:40]
+  Игрок iliya_kind присоединился к серверу.
+[11/04/2022 19:26:40]
+  Saving client permissions
+[11/04/2022 19:26:41]
+  igameCrog: пизда
+[11/04/2022 19:26:47]
+  igameCrog: головка
+[11/04/2022 19:26:52]
+  kynlan4ic: Я ъуйх
+[11/04/2022 19:27:01]
+  kynlan4ic: Я трапвпмывфпраыфваывпжыва
+[11/04/2022 19:28:16]
+  iliya_kind: ыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыыы
+[11/04/2022 19:28:17]
+  iliya_kind: ы
+[11/04/2022 19:28:17]
+  iliya_kind: ы
+[11/04/2022 19:28:18]
+  Игрок iliya_kind исключен с сервера Причина: Вас исключили за спам.
+[11/04/2022 19:28:24]
+  Игрок Супостат присоединился к серверу.
+[11/04/2022 19:28:24]
+  Saving client permissions
+[11/04/2022 19:28:47]
+  Игрок iliya_kind присоединился к серверу.
+[11/04/2022 19:28:47]
+  Saving client permissions
+[11/04/2022 19:28:59]
+  kynlan4ic is ready to start the game.
+[11/04/2022 19:29:02]
+  iliya_kind is ready to start the game.
+[11/04/2022 19:29:13]
+  Client "kynlan4ic" started the round.
+[11/04/2022 19:29:13]
+  Starting a new round...
+[11/04/2022 19:29:18]
+  Миссия: Гигантский шипостай
+[11/04/2022 19:29:18]
+  Поступили сообщения о чрезвычайно крупном и агрессивном шипостае, нападающем на суда на маршруте Центр Set - Шахта Skadi's Cauldron. Тому, кто убьет это опасное создание, полагается достойная награда в размере 5,000 кред.
+[11/04/2022 19:29:18]
+  Game mode: Миссия
+[11/04/2022 19:29:18]
+  Submarine: Remora
+[11/04/2022 19:29:18]
+  Level seed: E5bBwfKj
+[11/04/2022 19:29:18]
+  Mission: Гигантский шипостай
+[11/04/2022 19:29:19]
+  Round started.
+[11/04/2022 19:29:26]
+  Messiah Danko: Кто-нибудь слышал что-нибудь о профсоюзах?
+[11/04/2022 19:29:39]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 19:29:47]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 19:29:47]
+  kynlan4ic picked up Дробовик
+[11/04/2022 19:29:49]
+  kynlan4ic picked up Бронежилет
+[11/04/2022 19:29:50]
+  kynlan4ic picked up Пуленепробиваемый шлем
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:52]
+  kynlan4ic picked up Патрон для дробовика
+[11/04/2022 19:29:56]
+  iliya_kind picked up Кислородный баллон
+[11/04/2022 19:30:01]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 19:30:09]
+  iliya_kind picked up Кислородный баллон
+[11/04/2022 19:30:14]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 19:30:28]
+  iliya_kind picked up Магазин для ПП
+[11/04/2022 19:30:33]
+  iliya_kind placed Нож ныряльщика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:33]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:33]
+  iliya_kind picked up Подводное ружье
+[11/04/2022 19:30:36]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:36]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:36]
+  iliya_kind picked up Револьвер
+[11/04/2022 19:30:39]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:39]
+  iliya_kind removed Пистолет-пулемет from Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:39]
+  iliya_kind picked up Пистолет-пулемет
+[11/04/2022 19:30:44]
+  iliya_kind placed Магазин для ПП in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:44]
+  iliya_kind removed Огнемет from Защищенный стальной шкаф (ID: 596)
+[11/04/2022 19:30:44]
+  iliya_kind picked up Огнемет
+[11/04/2022 19:30:50]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:30:50]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:30:50]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:30:50]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:30:50]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:30:50]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:30:53]
+  iliya_kind picked up Патрон револьвера
+[11/04/2022 19:30:53]
+  iliya_kind picked up Патрон револьвера
+[11/04/2022 19:30:53]
+  iliya_kind picked up Патрон револьвера
+[11/04/2022 19:30:53]
+  iliya_kind picked up Патрон револьвера
+[11/04/2022 19:30:53]
+  iliya_kind picked up Патрон револьвера
+[11/04/2022 19:30:53]
+  iliya_kind picked up Патрон револьвера
+[11/04/2022 19:31:06]
+  iliya_kind picked up Магазин для ПП
+[11/04/2022 19:31:15]
+  kynlan4ic dropped Дробовик
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:17]
+  kynlan4ic dropped Патрон для дробовика
+[11/04/2022 19:31:19]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[11/04/2022 19:31:19]
+  igameCrog placed Бинт in Аптечка (ID: 195)
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:20]
+  igameCrog picked up Бинт
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  igameCrog picked up Морфин
+[11/04/2022 19:31:21]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:22]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:22]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:23]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:23]
+  igameCrog picked up Каликсанид
+[11/04/2022 19:31:23]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:23]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:23]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:24]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:24]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:31:24]
+  igameCrog placed Каликсанид in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:26]
+  igameCrog placed Морфин in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  igameCrog placed Бинт in Форма врача (ID: 4234)
+[11/04/2022 19:31:27]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:33]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:35]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/04/2022 19:31:40]
+  iliya_kind placed Огнемет in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 19:31:50]
+  kynlan4ic: Fritz Berlin, встань за орудия!
+[11/04/2022 19:31:51]
+  Fritz Berlin: Так точно!
+[11/04/2022 19:31:57]
+  kynlan4ic: iliya_kind, займись орудиями!
+[11/04/2022 19:32:02]
+  Outer wall breached by Crawlerhusk
+[11/04/2022 19:32:04]
+  Outer wall breached by Crawlerhusk
+[11/04/2022 19:32:05]
+  Outer wall breached by Crawlerhusk
+[11/04/2022 19:32:10]
+  Супостат is a traitor and the current goals are:
+- Найдите каждое яйцо, все до единого! Они могут быть спрятаны в вентиляции. (В процессе)
+
+[11/04/2022 19:32:19]
+  iliya_kind picked up Кислородный баллон
+[11/04/2022 19:32:20]
+  Outer wall breached by Crawlerhusk
+[11/04/2022 19:32:24]
+  igameCrog picked up Сварочный аппарат
+[11/04/2022 19:32:25]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:38]
+  kynlan4ic: Katerina Chapman, займись орудиями!
+[11/04/2022 19:32:39]
+  Katerina Chapman: Вас понял!
+[11/04/2022 19:32:40]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:40]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:40]
+  Outer wall breached by iliya_kind
+[11/04/2022 19:32:41]
+  igameCrog set the recharge speed of Батарея челнока to 20 %
+[11/04/2022 19:32:41]
+  igameCrog set the recharge speed of Батарея челнока to 90 %
+[11/04/2022 19:32:42]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/04/2022 19:32:43]
+  igameCrog set the recharge speed of Батарея челнока to 0 %
+[11/04/2022 19:32:43]
+  kynlan4ic: Messiah Danko, займись протечками!
+[11/04/2022 19:32:44]
+  Messiah Danko: Так точно!
+[11/04/2022 19:32:44]
+  Messiah Danko: Надо найти водолазный скафандр!
+[11/04/2022 19:32:47]
+  kynlan4ic: Christiana Chapman, займись ремонтом поврежденных систем!
+[11/04/2022 19:32:48]
+  Christiana Chapman: Само собой!
+[11/04/2022 19:32:52]
+  Fritz Berlin: Неизвестная цель обнаружена!
+[11/04/2022 19:32:53]
+  Fritz Berlin: Стреляю!
+[11/04/2022 19:32:53]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:53]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:53]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:53]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:54]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:32:54]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:55]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:55]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:55]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:56]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:32:57]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:32:57]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:58]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:32:58]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:33:00]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:33:01]
+  Messiah Danko equipped Сварочный аппарат
+[11/04/2022 19:33:02]
+  Outer wall repaired by Messiah Danko
+[11/04/2022 19:33:02]
+  Messiah Danko: Камера балласта A: минус одна протечка!
+[11/04/2022 19:33:03]
+  igameCrog picked up Подводная маска
+[11/04/2022 19:33:03]
+  Inner wall breached by Mudraptor
+[11/04/2022 19:33:05]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:33:05]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:33:07]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:33:13]
+  kynlan4ic: Sherry Mansfield, займись ремонтом поврежденных систем!
+[11/04/2022 19:33:14]
+  Sherry Mansfield: Принято.
+[11/04/2022 19:33:14]
+  iliya_kind picked up Водолазный скафандр
+[11/04/2022 19:33:14]
+  Inner wall breached by Mudraptor
+[11/04/2022 19:33:15]
+  kynlan4ic: Sherry Mansfield, займись протечками!
+[11/04/2022 19:33:15]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:33:16]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:33:16]
+  Sherry Mansfield: Вас понял!
+[11/04/2022 19:33:16]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:33:17]
+  Fritz Berlin launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:33:17]
+  kynlan4ic: Phoenix Aguilar, начинай устранять протечки!
+[11/04/2022 19:33:18]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:33:18]
+  Phoenix Aguilar: Вас понял!
+[11/04/2022 19:33:19]
+  kynlan4ic: Phoenix Aguilar, займись ремонтом поврежденных систем!
+[11/04/2022 19:33:20]
+  Phoenix Aguilar: Слушаюсь!
+[11/04/2022 19:33:21]
+  Sherry Mansfield equipped Сварочный аппарат
+[11/04/2022 19:33:21]
+  Sherry Mansfield: Надо найти водолазный скафандр!
+[11/04/2022 19:33:21]
+  Inner wall breached by Mudraptor
+[11/04/2022 19:33:23]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:33:23]
+  Phoenix Aguilar: Надо найти водолазный скафандр!
+[11/04/2022 19:33:27]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:33:27]
+  iliya_kind equipped Подводное ружье
+[11/04/2022 19:33:28]
+  Inner wall breached by Mudraptor
+[11/04/2022 19:33:30]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:33:31]
+  Outer wall repaired by Messiah Danko
+[11/04/2022 19:33:31]
+  Mudraptor attacked by iliya_kind. Рваная рана: 4 Оглушение: 0.5
+[11/04/2022 19:33:35]
+  iliya_kind equipped Пистолет-пулемет
+[11/04/2022 19:33:39]
+  Katerina Chapman equipped Гаечный ключ
+[11/04/2022 19:33:39]
+  Phoenix Aguilar: Я теряю много крови!
+[11/04/2022 19:33:39]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/04/2022 19:33:39]
+  Inner wall breached by Mudraptor
+[11/04/2022 19:33:39]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/04/2022 19:33:40]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:33:40]
+  Fritz Berlin equipped Шоковая дубинка
+[11/04/2022 19:33:40]
+  Fritz Berlin: Мне нужно подводное снаряжение!
+[11/04/2022 19:33:40]
+  Messiah Danko attacked by iliya_kind. Огнестрельная рана: 4.0625 Кровотечение: 6.09375 Оглушение: 0.15
+[11/04/2022 19:33:40]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:33:40]
+  Mudraptor attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/04/2022 19:33:41]
+  Messiah Danko attacked by iliya_kind. Огнестрельная рана: 4.0625 Кровотечение: 6.09375 Оглушение: 0.15
+[11/04/2022 19:33:41]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/04/2022 19:33:42]
+  Mudraptor attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/04/2022 19:33:44]
+  igameCrog picked up Кислородный баллон
+[11/04/2022 19:33:44]
+  igameCrog picked up Кислородный баллон
+[11/04/2022 19:33:45]
+  igameCrog picked up Кислородный баллон
+[11/04/2022 19:33:45]
+  Messiah Danko: У меня кровь!
+[11/04/2022 19:33:46]
+  Fritz Berlin: Помогите, я истекаю кровью!
+[11/04/2022 19:33:48]
+  Console command "godmode" executed by kynlan4ic.
+[11/04/2022 19:33:48]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:33:50]
+  igameCrog picked up Водолазный скафандр
+[11/04/2022 19:33:52]
+  igameCrog picked up Пояс инструментов
+[11/04/2022 19:33:53]
+  igameCrog picked up Отвертка
+[11/04/2022 19:33:54]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:33:55]
+  igameCrog picked up Гаечный ключ
+[11/04/2022 19:33:59]
+  igameCrog equipped Водолазный скафандр
+[11/04/2022 19:34:01]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 4282)
+[11/04/2022 19:34:02]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:34:02]
+  Sherry Mansfield unequipped Сварочный аппарат
+[11/04/2022 19:34:02]
+  Katerina Chapman unequipped Гаечный ключ
+[11/04/2022 19:34:02]
+  Messiah Danko unequipped Сварочный аппарат
+[11/04/2022 19:34:03]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 4282)
+[11/04/2022 19:34:03]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:34:03]
+  kynlan4ic picked up Осколочная граната
+[11/04/2022 19:34:03]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:34:03]
+  Christiana Chapman: Надо найти водолазный скафандр!
+[11/04/2022 19:34:04]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:34:04]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:34:04]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:34:05]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:34:05]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:34:05]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:34:05]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:34:06]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 4282)
+[11/04/2022 19:34:06]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:34:06]
+  Fritz Berlin has died (Cause of death: Укусы)
+[11/04/2022 19:34:08]
+  kynlan4ic picked up Шоковая дубинка
+[11/04/2022 19:34:09]
+  Sherry Mansfield equipped Сварочный аппарат
+[11/04/2022 19:34:10]
+  Messiah Danko equipped Гаечный ключ
+[11/04/2022 19:34:10]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:34:10]
+  Phoenix Aguilar equipped Отвертка
+[11/04/2022 19:34:11]
+  Phoenix Aguilar: Помогите, я истекаю кровью!
+[11/04/2022 19:34:11]
+  Messiah Danko unequipped Гаечный ключ
+[11/04/2022 19:34:11]
+  Messiah Danko equipped Сварочный аппарат
+[11/04/2022 19:34:11]
+  Phoenix Aguilar: Мне нужно подводное снаряжение!
+[11/04/2022 19:34:11]
+  Katerina Chapman: Надо найти водолазный скафандр!
+[11/04/2022 19:34:13]
+  Phoenix Aguilar unequipped Отвертка
+[11/04/2022 19:34:13]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:34:13]
+  Christiana Chapman: У меня кровь!
+[11/04/2022 19:34:14]
+  kynlan4ic equipped Шоковая дубинка
+[11/04/2022 19:34:15]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:15]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:15]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:34:15]
+  Phoenix Aguilar equipped Отвертка
+[11/04/2022 19:34:16]
+  Phoenix Aguilar unequipped Отвертка
+[11/04/2022 19:34:16]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:34:16]
+  Messiah Danko unequipped Сварочный аппарат
+[11/04/2022 19:34:16]
+  Messiah Danko equipped Гаечный ключ
+[11/04/2022 19:34:16]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:16]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:17]
+  Messiah Danko unequipped Гаечный ключ
+[11/04/2022 19:34:17]
+  Messiah Danko equipped Сварочный аппарат
+[11/04/2022 19:34:17]
+  Mudraptor attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:17]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor.
+[11/04/2022 19:34:19]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 6 Оглушение: 0.2
+[11/04/2022 19:34:19]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:19]
+  Messiah Danko: Помогите, я истекаю кровью!
+[11/04/2022 19:34:20]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:20]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:21]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:21]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:22]
+  igameCrog equipped Сварочный аппарат
+[11/04/2022 19:34:22]
+  Katerina Chapman has died (Cause of death: Баротравма)
+[11/04/2022 19:34:22]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:22]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:23]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:23]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:25]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:25]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:25]
+  Messiah Danko unequipped Сварочный аппарат
+[11/04/2022 19:34:26]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:34:26]
+  Mudraptor attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:26]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor.
+[11/04/2022 19:34:26]
+  Inner wall breached by Mudraptor_veteran
+[11/04/2022 19:34:26]
+  Sherry Mansfield unequipped Сварочный аппарат
+[11/04/2022 19:34:27]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:34:27]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:34:27]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:27]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:28]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:34:28]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:34:28]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:28]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:30]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:30]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:31]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:31]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:31]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:34:32]
+  Messiah Danko equipped Сварочный аппарат
+[11/04/2022 19:34:32]
+  Mudraptor attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:32]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor.
+[11/04/2022 19:34:33]
+  kynlan4ic equipped Осколочная граната
+[11/04/2022 19:34:34]
+  kynlan4ic threw Осколочная граната
+[11/04/2022 19:34:37]
+  Outer wall breached by kynlan4ic
+[11/04/2022 19:34:37]
+  Inner wall breached by kynlan4ic
+[11/04/2022 19:34:37]
+  Mudraptor has died (Cause of death: Повреждение глубоких тканей)
+[11/04/2022 19:34:40]
+  Sherry Mansfield equipped Сварочный аппарат
+[11/04/2022 19:34:42]
+  Sherry Mansfield: Эй! Ты что ж такое делаешь, а?
+[11/04/2022 19:34:42]
+  Sherry Mansfield: У меня кровь!
+[11/04/2022 19:34:42]
+  Sherry Mansfield unequipped Сварочный аппарат
+[11/04/2022 19:34:42]
+  Sherry Mansfield equipped Гаечный ключ
+[11/04/2022 19:34:42]
+  Phoenix Aguilar: Помогите, я истекаю кровью!
+[11/04/2022 19:34:42]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:34:42]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:34:44]
+  Sherry Mansfield unequipped Гаечный ключ
+[11/04/2022 19:34:44]
+  Sherry Mansfield equipped Сварочный аппарат
+[11/04/2022 19:34:45]
+  Messiah Danko attacked by kynlan4ic. Травма от удара тупым предметом: 1.17 Оглушение: 0.2
+[11/04/2022 19:34:45]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Messiah Danko.
+[11/04/2022 19:34:47]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:47]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:47]
+  Christiana Chapman: У меня кровь!
+[11/04/2022 19:34:48]
+  Mudraptor_veteran attacked by kynlan4ic. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/04/2022 19:34:48]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor_veteran.
+[11/04/2022 19:34:48]
+  Sherry Mansfield unequipped Сварочный аппарат
+[11/04/2022 19:34:48]
+  Sherry Mansfield equipped Гаечный ключ
+[11/04/2022 19:34:49]
+  Mudraptor attacked by kynlan4ic. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[11/04/2022 19:34:49]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Mudraptor.
+[11/04/2022 19:34:49]
+  Sherry Mansfield unequipped Гаечный ключ
+[11/04/2022 19:34:49]
+  Sherry Mansfield equipped Сварочный аппарат
+[11/04/2022 19:34:51]
+  Messiah Danko: Я теряю много крови!
+[11/04/2022 19:34:52]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:34:52]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:34:52]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:34:53]
+  Sherry Mansfield unequipped Сварочный аппарат
+[11/04/2022 19:34:53]
+  Sherry Mansfield equipped Гаечный ключ
+[11/04/2022 19:34:53]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:34:53]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:34:53]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:34:53]
+  Christiana Chapman: Мне нужно подводное снаряжение!
+[11/04/2022 19:34:54]
+  Sherry Mansfield unequipped Гаечный ключ
+[11/04/2022 19:34:54]
+  Sherry Mansfield equipped Сварочный аппарат
+[11/04/2022 19:34:55]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:34:55]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:34:56]
+  Outer wall breached by Mudraptor
+[11/04/2022 19:34:58]
+  iliya_kind equipped Дробовик
+[11/04/2022 19:35:01]
+  kynlan4ic picked up Подводная маска
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 12 Кровотечение: 9 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 12 Кровотечение: 9 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 12 Кровотечение: 9 Оглушение: 0.1
+[11/04/2022 19:35:05]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:07]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:35:08]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:35:09]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:35:09]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:35:10]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:35:10]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:35:13]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 0.8 Оглушение: 0.1
+[11/04/2022 19:35:13]
+  Sherry Mansfield has died (Cause of death: Укусы)
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 0.8 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:14]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:15]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:15]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:15]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:15]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:15]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:15]
+  Inner wall breached by iliya_kind
+[11/04/2022 19:35:15]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 0.8 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:16]
+  Mudraptor_veteran has died (Cause of death: Огнестрельная рана)
+[11/04/2022 19:35:16]
+  Mudraptor_veteran attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[11/04/2022 19:35:19]
+  Messiah Danko has died (Cause of death: Укусы)
+[11/04/2022 19:35:20]
+  Phoenix Aguilar: Я теряю много крови!
+[11/04/2022 19:35:21]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:35:21]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:35:21]
+  kynlan4ic picked up Огнемет
+[11/04/2022 19:35:22]
+  Christiana Chapman: У меня кровь!
+[11/04/2022 19:35:24]
+  Супостат equipped Гаечный ключ
+[11/04/2022 19:35:24]
+  Супостат equipped Отвертка
+[11/04/2022 19:35:29]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:35:31]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:35:31]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:35:31]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:35:31]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:35:31]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:35:31]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:35:31]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:35:31]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:35:33]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:35:39]
+  Christiana Chapman started repairing Дверь с окном и кнопками
+[11/04/2022 19:35:41]
+  Phoenix Aguilar started repairing Дверь с окном и кнопками
+[11/04/2022 19:35:48]
+  Inner wall repaired by igameCrog
+[11/04/2022 19:35:53]
+  Christiana Chapman: Помогите, я истекаю кровью!
+[11/04/2022 19:35:54]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:35:54]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:35:54]
+  Phoenix Aguilar: У меня кровь!
+[11/04/2022 19:36:01]
+  Inner wall breached by Mudraptor
+[11/04/2022 19:36:01]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:36:01]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:36:02]
+  Outer wall repaired by igameCrog
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:06]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:36:07]
+  Console command "kill kynlan4ic" executed by kynlan4ic.
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 0.3 Оглушение: 0.3
+[11/04/2022 19:36:07]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:36:09]
+  Christiana Chapman started repairing Дверь с окном и кнопками
+[11/04/2022 19:36:11]
+  Console command "kill kynlan4ic" executed by kynlan4ic.
+[11/04/2022 19:36:13]
+  Console command "godmode" executed by kynlan4ic.
+[11/04/2022 19:36:13]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:36:13]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:36:14]
+  kynlan4ic has died (Cause of death: Внутренняя травма)
+[11/04/2022 19:36:14]
+  Console command "kill kynlan4ic" executed by kynlan4ic.
+[11/04/2022 19:36:16]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:36:16]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:17]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:18]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:36:18]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:36:19]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:36:19]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:36:19]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:36:20]
+  Inner wall breached by Mudraptor_veteran
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor has died (Cause of death: Травма от удара тупым предметом)
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:21]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 4.5 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 3 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 4.5 Оглушение: 0.3
+[11/04/2022 19:36:23]
+  Mudraptor attacked by iliya_kind. Травма от удара тупым предметом: 4.5 Оглушение: 0.3
+[11/04/2022 19:36:25]
+  Супостат has died (Cause of death: Нехватка кислорода)
+[11/04/2022 19:36:27]
+  Christiana Chapman: У меня кровь!
+[11/04/2022 19:36:27]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:36:27]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:36:28]
+  Phoenix Aguilar equipped Отвертка
+[11/04/2022 19:36:28]
+  Phoenix Aguilar unequipped Отвертка
+[11/04/2022 19:36:28]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:36:29]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:36:29]
+  Phoenix Aguilar: Помогите, я истекаю кровью!
+[11/04/2022 19:36:32]
+  iliya_kind picked up Кислородный баллон
+[11/04/2022 19:36:37]
+  kynlan4ic: ((((((((
+[11/04/2022 19:36:39]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:36:39]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:36:39]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:36:39]
+  iliya_kind placed Резиновый патрон для дробовика in Дробовик (ID: 3973)
+[11/04/2022 19:36:41]
+  kynlan4ic: Матвей
+[11/04/2022 19:36:43]
+  Phoenix Aguilar started repairing Настраиваемая дверь
+[11/04/2022 19:36:44]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:36:44]
+  Phoenix Aguilar equipped Отвертка
+[11/04/2022 19:36:44]
+  Phoenix Aguilar unequipped Отвертка
+[11/04/2022 19:36:44]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:36:45]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:36:46]
+  kynlan4ic: Я в чате 
+[11/04/2022 19:36:48]
+  kynlan4ic: Алё
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:52]
+  iliya_kind picked up Патрон для дробовика
+[11/04/2022 19:36:53]
+  kynlan4ic: Я здох
+[11/04/2022 19:36:54]
+  igameCrog used item Морфин
+[11/04/2022 19:36:54]
+  Phoenix Aguilar unequipped Сварочный аппарат
+[11/04/2022 19:36:54]
+  Phoenix Aguilar equipped Гаечный ключ
+[11/04/2022 19:36:55]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:36:56]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:36:56]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:36:57]
+  Супостат: похуй
+[11/04/2022 19:36:59]
+  Christiana Chapman: У меня кровь!
+[11/04/2022 19:36:59]
+  Phoenix Aguilar unequipped Гаечный ключ
+[11/04/2022 19:36:59]
+  Phoenix Aguilar equipped Сварочный аппарат
+[11/04/2022 19:37:00]
+  Christiana Chapman failed to repair Деконструктор
+[11/04/2022 19:37:15]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:37:15]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:37:15]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:37:15]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:37:16]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:37:16]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:37:17]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:37:17]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:37:20]
+  Christiana Chapman started repairing Деконструктор
+[11/04/2022 19:37:21]
+  igameCrog picked up Отвертка
+[11/04/2022 19:37:23]
+  igameCrog picked up Гаечный ключ
+[11/04/2022 19:37:28]
+  igameCrog is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[11/04/2022 19:37:30]
+  Christiana Chapman: Я теряю много крови!
+[11/04/2022 19:37:33]
+  Phoenix Aguilar has died (Cause of death: Укусы)
+[11/04/2022 19:37:35]
+  Christiana Chapman failed to repair Фабрикатор
+[11/04/2022 19:37:36]
+  kynlan4ic: ???
+[11/04/2022 19:37:37]
+  igameCrog equipped Отвертка
+[11/04/2022 19:37:38]
+  igameCrog equipped Гаечный ключ
+[11/04/2022 19:37:40]
+  Christiana Chapman started repairing Фабрикатор
+[11/04/2022 19:37:40]
+  igameCrog failed to repair Навигационный терминал
+[11/04/2022 19:37:41]
+  kynlan4ic: Всмысле похуй
+[11/04/2022 19:37:45]
+  igameCrog failed to repair Навигационный терминал
+[11/04/2022 19:37:52]
+  Christiana Chapman: Мне нужно подводное снаряжение!
+[11/04/2022 19:38:00]
+  iliya_kind set the force of Большой двигатель to 10 %
+[11/04/2022 19:38:00]
+  iliya_kind set the force of Большой двигатель to -10 %
+[11/04/2022 19:38:00]
+  iliya_kind set the force of Большой двигатель to -60 %
+[11/04/2022 19:38:00]
+  iliya_kind set the force of Большой двигатель to -100 %
+[11/04/2022 19:38:01]
+  iliya_kind set the force of Большой двигатель to -90 %
+[11/04/2022 19:38:01]
+  iliya_kind set the force of Большой двигатель to -60 %
+[11/04/2022 19:38:01]
+  iliya_kind set the force of Большой двигатель to 10 %
+[11/04/2022 19:38:01]
+  iliya_kind set the force of Большой двигатель to 20 %
+[11/04/2022 19:38:01]
+  iliya_kind set the force of Большой двигатель to 30 %
+[11/04/2022 19:38:02]
+  iliya_kind set the force of Большой двигатель to 20 %
+[11/04/2022 19:38:02]
+  iliya_kind set the force of Большой двигатель to 10 %
+[11/04/2022 19:38:04]
+  iliya_kind set the force of Большой двигатель to -10 %
+[11/04/2022 19:38:05]
+  iliya_kind set the force of Большой двигатель to 10 %
+[11/04/2022 19:38:06]
+  Christiana Chapman started repairing Медицинский фабрикатор
+[11/04/2022 19:38:06]
+  iliya_kind set the force of Большой двигатель to -10 %
+[11/04/2022 19:38:14]
+  igameCrog adjusted reactor settings: Temperature: 2554, Fission rate: 0, Turbine output: 0, Autotemp ON
+[11/04/2022 19:38:21]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/04/2022 19:38:21]
+  iliya_kind placed Взрывной гарпун in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind placed Взрывной гарпун in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind placed Взрывной гарпун in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind placed Взрывной гарпун in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind placed Взрывной гарпун in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind placed Взрывной гарпун in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind removed Сварочный аппарат from Средний стальной шкаф (ID: 670)
+[11/04/2022 19:38:21]
+  iliya_kind picked up Сварочный аппарат
+[11/04/2022 19:38:22]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/04/2022 19:38:22]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/04/2022 19:38:22]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/04/2022 19:38:23]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:38:23]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:38:23]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:38:23]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:38:23]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:38:23]
+  iliya_kind picked up Взрывной гарпун
+[11/04/2022 19:38:24]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:38:24]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:38:32]
+  Christiana Chapman started repairing Суперконденсатор
+[11/04/2022 19:38:32]
+  iliya_kind equipped Сварочный аппарат
+[11/04/2022 19:38:36]
+  iliya_kind removed Кислородный баллон from Водолазный скафандр (ID: 3980)
+[11/04/2022 19:38:38]
+  iliya_kind placed Кислородный баллон in Водолазный скафандр (ID: 3980)
+[11/04/2022 19:38:39]
+  igameCrog picked up Кислородный баллон
+[11/04/2022 19:38:39]
+  igameCrog picked up Кислородный баллон
+[11/04/2022 19:38:42]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:38:42]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:38:49]
+  Christiana Chapman started repairing Суперконденсатор
+[11/04/2022 19:39:06]
+  kynlan4ic: Это блэздэц
+[11/04/2022 19:39:13]
+  Christiana Chapman started repairing Навигационный терминал
+[11/04/2022 19:39:14]
+  Christiana Chapman: Мне нужен кислородный баллон!
+[11/04/2022 19:39:17]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:39:17]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4282)
+[11/04/2022 19:39:17]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3979)
+[11/04/2022 19:39:18]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:39:18]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:39:19]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:39:19]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:39:41]
+  Christiana Chapman started repairing Кабельная коробка
+[11/04/2022 19:39:42]
+  Outer wall repaired by igameCrog
+[11/04/2022 19:39:50]
+  igameCrog started repairing Навигационный терминал
+[11/04/2022 19:39:52]
+  Christiana Chapman started repairing Кабельная коробка
+[11/04/2022 19:39:59]
+  Christiana Chapman started repairing Суперконденсатор
+[11/04/2022 19:40:00]
+  igameCrog used item Морфин
+[11/04/2022 19:40:03]
+  igameCrog used item Морфин
+[11/04/2022 19:40:12]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:40:12]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:40:15]
+  Christiana Chapman started repairing Настраиваемая дверь
+[11/04/2022 19:40:20]
+  iliya_kind adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[11/04/2022 19:40:22]
+  iliya_kind adjusted reactor settings: Temperature: 961, Fission rate: 8, Turbine output: 2, Autotemp OFF
+[11/04/2022 19:40:23]
+  iliya_kind adjusted reactor settings: Temperature: 1085, Fission rate: 9, Turbine output: 2, Autotemp ON
+[11/04/2022 19:40:34]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:40:34]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:40:35]
+  iliya_kind placed Сварочный аппарат in Средний стальной шкаф (ID: 670)
+[11/04/2022 19:40:35]
+  Christiana Chapman: Как правильно – таламусы или таламы?
+[11/04/2022 19:40:39]
+  iliya_kind picked up Лом
+[11/04/2022 19:40:42]
+  Christiana Chapman started repairing Суперконденсатор
+[11/04/2022 19:40:43]
+  iliya_kind picked up Кислородный баллон
+[11/04/2022 19:40:54]
+  Outer wall repaired by igameCrog
+[11/04/2022 19:40:56]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:40:56]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:40:56]
+  Christiana Chapman started repairing Люк с кнопками
+[11/04/2022 19:41:06]
+  iliya_kind equipped Револьвер
+[11/04/2022 19:41:07]
+  Mudraptor attacked by iliya_kind. Огнестрельная рана: 42 Кровотечение: 37.5 Оглушение: 0.3
+[11/04/2022 19:41:07]
+  Mudraptor has died (Cause of death: Повреждение глубоких тканей)
+[11/04/2022 19:41:07]
+  Mudraptor attacked by iliya_kind. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[11/04/2022 19:41:10]
+  Console command "spawn Watcher cursor" executed by kynlan4ic.
+[11/04/2022 19:41:11]
+  igameCrog picked up Гидроксиапатит
+[11/04/2022 19:41:14]
+  Dispatching the respawn shuttle.
+[11/04/2022 19:41:14]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/04/2022 19:41:14]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/04/2022 19:41:15]
+  Respawning bot Sherry Mansfield as Помощник
+[11/04/2022 19:41:15]
+  Respawning bot Fritz Berlin as Офицер службы безопасности
+[11/04/2022 19:41:15]
+  Respawning bot Phoenix Aguilar as Инженер
+[11/04/2022 19:41:15]
+  Respawning bot Messiah Danko as Механик
+[11/04/2022 19:41:15]
+  Respawning bot Katerina Chapman as Помощник
+[11/04/2022 19:41:16]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:41:16]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:41:17]
+  Christiana Chapman started repairing Кабельная коробка
+[11/04/2022 19:41:18]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 19:41:20]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/04/2022 19:41:20]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:22]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:41:23]
+  kynlan4ic picked up Подводный скутер
+[11/04/2022 19:41:25]
+  kynlan4ic picked up Ручной сонар
+[11/04/2022 19:41:25]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:41:25]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:41:25]
+  kynlan4ic picked up Подводный скутер
+[11/04/2022 19:41:26]
+  Christiana Chapman started repairing Люк с кнопками
+[11/04/2022 19:41:28]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф (ID: 3773)
+[11/04/2022 19:41:32]
+  Супостат picked up Одноразовый водолазный скафандр
+[11/04/2022 19:41:34]
+  iliya_kind unequipped Револьвер
+[11/04/2022 19:41:34]
+  iliya_kind equipped Вещмешок
+[11/04/2022 19:41:40]
+  iliya_kind dropped Вещмешок
+[11/04/2022 19:41:42]
+  iliya_kind equipped Револьвер
+[11/04/2022 19:41:45]
+  Супостат picked up Плазменный резак
+[11/04/2022 19:41:48]
+  Супостат picked up Дементонитовый лом
+[11/04/2022 19:41:50]
+  Christiana Chapman started repairing Зарядник магнитной пушки
+[11/04/2022 19:41:56]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[11/04/2022 19:42:01]
+  Christiana Chapman failed to repair Зарядник магнитной пушки
+[11/04/2022 19:42:11]
+  Christiana Chapman started repairing Малый насос
+[11/04/2022 19:42:14]
+  Christiana Chapman failed to repair Малый насос
+[11/04/2022 19:42:18]
+  Christiana Chapman failed to repair Малый насос
+[11/04/2022 19:42:35]
+  Christiana Chapman unequipped Гаечный ключ
+[11/04/2022 19:42:35]
+  Christiana Chapman equipped Отвертка
+[11/04/2022 19:42:36]
+  Inner wall repaired by igameCrog
+[11/04/2022 19:42:38]
+  Christiana Chapman started repairing Кабельная коробка
+[11/04/2022 19:42:40]
+  Супостат dropped Одноразовый водолазный скафандр
+[11/04/2022 19:42:43]
+  Christiana Chapman started repairing Суперконденсатор
+[11/04/2022 19:42:45]
+  Супостат picked up Одноразовый водолазный скафандр
+[11/04/2022 19:42:50]
+  Christiana Chapman unequipped Отвертка
+[11/04/2022 19:42:50]
+  Christiana Chapman equipped Гаечный ключ
+[11/04/2022 19:42:50]
+  Christiana Chapman started repairing Малый насос
+[11/04/2022 19:43:03]
+  Christiana Chapman started repairing Двигатель челнока
+[11/04/2022 19:43:04]
+  kynlan4ic docked Venture to Remora
+[11/04/2022 19:43:08]
+  Christiana Chapman failed to repair Двигатель челнока
+[11/04/2022 19:43:12]
+  Christiana Chapman failed to repair Двигатель челнока
+[11/04/2022 19:43:26]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:43:27]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:43:27]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 19:43:28]
+  Christiana Chapman opened Настраиваемая дверь
+[11/04/2022 19:43:28]
+  Christiana Chapman closed Настраиваемая дверь
+[11/04/2022 19:43:29]
+  Christiana Chapman closed Настраиваемая дверь
+[11/04/2022 19:43:29]
+  Christiana Chapman opened Настраиваемая дверь
+[11/04/2022 19:43:29]
+  Christiana Chapman opened Настраиваемая дверь
+[11/04/2022 19:43:29]
+  Christiana Chapman closed Настраиваемая дверь
+[11/04/2022 19:43:29]
+  Christiana Chapman opened Настраиваемая дверь
+[11/04/2022 19:43:29]
+  Christiana Chapman closed Настраиваемая дверь
+[11/04/2022 19:43:31]
+  Christiana Chapman: Я теряю много крови!
+[11/04/2022 19:43:38]
+  Christiana Chapman closed Настраиваемая дверь
+[11/04/2022 19:43:38]
+  Christiana Chapman opened Настраиваемая дверь
+[11/04/2022 19:44:00]
+  iliya_kind removed Кислородный баллон from Водолазный скафандр (ID: 3980)
+[11/04/2022 19:44:03]
+  iliya_kind placed Кислородный баллон in Водолазный скафандр (ID: 3980)
+[11/04/2022 19:44:15]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4282)
+[11/04/2022 19:44:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4282)
+[11/04/2022 19:44:15]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3979)
+[11/04/2022 19:44:29]
+  Christiana Chapman has died (Cause of death: Кровопотеря)
+[11/04/2022 19:44:33]
+  kynlan4ic picked up Гаечный ключ
+[11/04/2022 19:44:35]
+  kynlan4ic equipped Гаечный ключ
+[11/04/2022 19:44:40]
+  kynlan4ic picked up Отвертка
+[11/04/2022 19:44:41]
+  kynlan4ic equipped Отвертка
+[11/04/2022 19:44:43]
+  iliya_kind equipped Водолазный скафандр
+[11/04/2022 19:44:50]
+  kynlan4ic closed Настраиваемый люк
+[11/04/2022 19:44:50]
+  kynlan4ic undocked Venture from Remora
+[11/04/2022 19:45:11]
+  Супостат removed Снаряд рельсотрона from Стойка для снарядов рельсотрона (ID: 1274)
+[11/04/2022 19:45:17]
+  Супостат equipped Снаряд рельсотрона
+[11/04/2022 19:45:48]
+  Inner wall breached by Mudraptor_veteran
+[11/04/2022 19:45:50]
+  Outer wall breached by Mudraptor_veteran
+[11/04/2022 19:45:52]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:45:52]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 19:45:55]
+  Inner wall breached by Mudraptor_veteran
+[11/04/2022 19:46:19]
+  Outer wall breached by Spineling_giant
+[11/04/2022 19:46:19]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:19]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:20]
+  Fritz Berlin: Надо найти водолазный скафандр!
+[11/04/2022 19:46:20]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:20]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:20]
+  Inner wall breached by Spineling
+[11/04/2022 19:46:22]
+  Inner wall breached by Spineling
+[11/04/2022 19:46:22]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:22]
+  Супостат dropped Снаряд рельсотрона
+[11/04/2022 19:46:22]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:22]
+  Inner wall breached by Spineling
+[11/04/2022 19:46:23]
+  Outer wall breached by Spineling_giant
+[11/04/2022 19:46:23]
+  Inner wall breached by Spineling
+[11/04/2022 19:46:23]
+  Outer wall breached by Spineling_giant
+[11/04/2022 19:46:23]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:23]
+  Outer wall repaired by igameCrog
+[11/04/2022 19:46:24]
+  Sherry Mansfield: Мне нужно подводное снаряжение!
+[11/04/2022 19:46:24]
+  Outer wall repaired by igameCrog
+[11/04/2022 19:46:24]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 19:46:25]
+  Messiah Danko: Мне нужно подводное снаряжение!
+[11/04/2022 19:46:26]
+  Супостат removed Ящик с боеприпасами для магнитной пушки from Полка с боеприпасами (ID: 1259)
+[11/04/2022 19:46:26]
+  kynlan4ic closed Настраиваемая дверь
+[11/04/2022 19:46:27]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 19:46:28]
+  Супостат equipped Ящик с боеприпасами для магнитной пушки
+[11/04/2022 19:46:30]
+  Katerina Chapman: Надо найти водолазный скафандр!
+[11/04/2022 19:46:31]
+  kynlan4ic equipped Револьвер
+[11/04/2022 19:46:32]
+  Phoenix Aguilar: Мне нужно подводное снаряжение!
+[11/04/2022 19:46:32]
+  kynlan4ic closed Настраиваемая дверь
+[11/04/2022 19:46:34]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 19:46:36]
+  kynlan4ic closed Настраиваемая дверь
+[11/04/2022 19:46:40]
+  Супостат removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 487)
+[11/04/2022 19:46:42]
+  Супостат placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 487)
+[11/04/2022 19:46:51]
+  Inner wall repaired by igameCrog
+[11/04/2022 19:46:55]
+  Outer wall breached by iliya_kind
+[11/04/2022 19:46:57]
+  Outer wall breached by Spineling
+[11/04/2022 19:46:58]
+  Outer wall breached by iliya_kind

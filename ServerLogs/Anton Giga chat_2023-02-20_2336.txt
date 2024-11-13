@@ -1,0 +1,1600 @@
+﻿[02/20/2023 23:07:31]
+  Starting the server...
+[02/20/2023 23:07:31]
+  Using SteamP2P networking.
+[02/20/2023 23:07:31]
+  Server started
+[02/20/2023 23:07:32]
+  Игрок kynlan4ic присоединился к серверу.
+[02/20/2023 23:07:32]
+  Saving client permissions
+[02/20/2023 23:07:32]
+  Saving client permissions
+[02/20/2023 23:08:27]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/20/2023 23:08:27]
+  Saving client permissions
+[02/20/2023 23:09:29]
+  Игрок igameCrog присоединился к серверу.
+[02/20/2023 23:09:29]
+  Saving client permissions
+[02/20/2023 23:09:45]
+  kynlan4ic is ready to start the game.
+[02/20/2023 23:09:46]
+  Client "kynlan4ic" started the round.
+[02/20/2023 23:09:46]
+  Starting a new round...
+[02/20/2023 23:09:50]
+  Миссия: Активировать маяк
+[02/20/2023 23:09:50]
+  Маяк на маршруте Исследовательский центр Milda - Укрепление Bramerton не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[02/20/2023 23:09:50]
+  Game mode: Миссия
+[02/20/2023 23:09:50]
+  Submarine: Dugong
+[02/20/2023 23:09:50]
+  Level seed: qDOTm1r0
+[02/20/2023 23:09:50]
+  Mission: Активировать маяк
+[02/20/2023 23:09:51]
+  Round started.
+[02/20/2023 23:09:58]
+  Seth Castillo: Мне довелось на днях увидеть ползуна. Жуткие твари.
+[02/20/2023 23:10:03]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 23:10:07]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 23:10:09]
+  kynlan4ic picked up Водолазный скафандр
+[02/20/2023 23:10:09]
+  kynlan4ic equipped Водолазный скафандр
+[02/20/2023 23:10:15]
+  kynlan4ic picked up Подводная маска
+[02/20/2023 23:10:16]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:10:16]
+  Чпок В Пупок picked up Водолазный скафандр
+[02/20/2023 23:10:18]
+  Чпок В Пупок equipped Водолазный скафандр
+[02/20/2023 23:10:25]
+  kynlan4ic picked up Плазменный резак
+[02/20/2023 23:10:26]
+  kynlan4ic picked up Подводный скутер
+[02/20/2023 23:10:27]
+  kynlan4ic picked up Ручной сонар
+[02/20/2023 23:10:28]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:10:28]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:10:28]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:10:28]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:11:15]
+  Игрок igameCrog отключился от игры. Причина: Время истекло
+[02/20/2023 23:11:30]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:11:31]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:11:32]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:11:40]
+  Игрок igameCrog присоединился к серверу.
+[02/20/2023 23:11:40]
+  Saving client permissions
+[02/20/2023 23:11:46]
+  Чпок В Пупок picked up Сварочный аппарат
+[02/20/2023 23:12:36]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 23:12:40]
+  kynlan4ic: Althea Callahan, займись орудиями!
+[02/20/2023 23:12:41]
+  Althea Callahan: Само собой!
+[02/20/2023 23:12:41]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:12:42]
+  Althea Callahan: Стреляю!
+[02/20/2023 23:12:42]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:43]
+  Outer wall breached by Althea Callahan
+[02/20/2023 23:12:43]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:43]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:43]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:44]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:44]
+  Outer wall breached by Crawler
+[02/20/2023 23:12:44]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:44]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:44]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:45]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:45]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:45]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:45]
+  Outer wall breached by Crawler
+[02/20/2023 23:12:46]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:47]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/20/2023 23:12:47]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:47]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:47]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:48]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:48]
+  igameCrog picked up Водолазный скафандр
+[02/20/2023 23:12:49]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:49]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:49]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:49]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:50]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:50]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:50]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:51]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:52]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:52]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:53]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:53]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:53]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:12:53]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:53]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:12:53]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:54]
+  Gloria Hutchinson equipped Сварочный аппарат
+[02/20/2023 23:12:54]
+  Gloria Hutchinson unequipped Сварочный аппарат
+[02/20/2023 23:12:54]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:54]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:12:55]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:12:55]
+  Christine Combs equipped Сварочный аппарат
+[02/20/2023 23:12:55]
+  Christine Combs unequipped Сварочный аппарат
+[02/20/2023 23:12:56]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:12:56]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:56]
+  Elliana Maxwell equipped Сварочный аппарат
+[02/20/2023 23:12:57]
+  Outer wall breached by Crawler
+[02/20/2023 23:12:57]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:57]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:58]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:58]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:58]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:58]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:12:59]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:00]
+  Outer wall breached by Crawler
+[02/20/2023 23:13:00]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:13:00]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:13:00]
+  Gloria Hutchinson equipped Сварочный аппарат
+[02/20/2023 23:13:01]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:01]
+  Inner wall breached by Crawler
+[02/20/2023 23:13:01]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:13:01]
+  Elliana Maxwell unequipped Сварочный аппарат
+[02/20/2023 23:13:01]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:02]
+  Gloria Hutchinson unequipped Сварочный аппарат
+[02/20/2023 23:13:02]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:03]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:13:03]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:03]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:03]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:03]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:13:03]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:04]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:04]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:04]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:04]
+  Crawler has died (Cause of death: Рваная рана)
+[02/20/2023 23:13:05]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:05]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:05]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:05]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:06]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:06]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:06]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:07]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:07]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:07]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:07]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:07]
+  Alex Welden: Надо найти водолазный скафандр!
+[02/20/2023 23:13:08]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:13:08]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:08]
+  Christine Combs: Надо найти водолазный скафандр!
+[02/20/2023 23:13:08]
+  Katherina Lucas: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:08]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:08]
+  Outer wall repaired by Jarvis Suarez
+[02/20/2023 23:13:08]
+  Christiana Phoenix equipped Сварочный аппарат
+[02/20/2023 23:13:08]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:08]
+  Jarvis Suarez: Пункт управления: протечек не осталось!
+[02/20/2023 23:13:08]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:09]
+  Christiana Phoenix unequipped Сварочный аппарат
+[02/20/2023 23:13:09]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:09]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:09]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:09]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:10]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:13:11]
+  Althea Callahan: Суперконденсатор: заряжено на 50%!
+[02/20/2023 23:13:12]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:12]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:12]
+  Althea Callahan: Стреляю!
+[02/20/2023 23:13:12]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:13]
+  Jarvis Suarez: Надо найти водолазный скафандр!
+[02/20/2023 23:13:14]
+  Seth Castillo: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:15]
+  Elliana Maxwell equipped Сварочный аппарат
+[02/20/2023 23:13:16]
+  Outer wall breached by Crawler
+[02/20/2023 23:13:16]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:16]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:17]
+  Elliana Maxwell unequipped Сварочный аппарат
+[02/20/2023 23:13:17]
+  Gloria Hutchinson: Надо найти водолазный скафандр!
+[02/20/2023 23:13:17]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:17]
+  Christiana Phoenix: Надо найти водолазный скафандр!
+[02/20/2023 23:13:17]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:18]
+  Armanda Chiu: Надо найти водолазный скафандр!
+[02/20/2023 23:13:18]
+  Freeman Escobar: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:19]
+  Kerry Maynes: Надо найти водолазный скафандр!
+[02/20/2023 23:13:19]
+  Elliana Maxwell: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:20]
+  Althea Callahan launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 23:13:21]
+  Michele Lawrence equipped Шоковая дубинка
+[02/20/2023 23:13:21]
+  Michele Lawrence: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:21]
+  Althea Callahan: Надо найти водолазный скафандр!
+[02/20/2023 23:13:21]
+  Sherise Gallardo: Надо найти водолазный скафандр!
+[02/20/2023 23:13:21]
+  Jess Dorado: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:23]
+  Katerina Freeman: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:24]
+  Inner wall breached by Crawler
+[02/20/2023 23:13:26]
+  Outer wall breached by Crawler
+[02/20/2023 23:13:29]
+  Crawler has died (Cause of death: Травма от удара тупым предметом)
+[02/20/2023 23:13:29]
+  Crawler has died (Cause of death: Ожог кислотой)
+[02/20/2023 23:13:29]
+  Michele Lawrence unequipped Шоковая дубинка
+[02/20/2023 23:13:30]
+  Gloria Hutchinson equipped Сварочный аппарат
+[02/20/2023 23:13:31]
+  Katherina Lucas: Нечем дышать!
+[02/20/2023 23:13:31]
+  Alex Welden equipped Гаечный ключ
+[02/20/2023 23:13:31]
+  Kerry Maynes equipped Сварочный аппарат
+[02/20/2023 23:13:31]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:13:32]
+  Kerry Maynes unequipped Сварочный аппарат
+[02/20/2023 23:13:32]
+  Kerry Maynes equipped Сварочный аппарат
+[02/20/2023 23:13:32]
+  Christine Combs equipped Сварочный аппарат
+[02/20/2023 23:13:32]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:32]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:13:32]
+  Jarvis Suarez equipped Гаечный ключ
+[02/20/2023 23:13:33]
+  Freeman Escobar unequipped Сварочный аппарат
+[02/20/2023 23:13:33]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:33]
+  Seth Castillo has died (Cause of death: Баротравма)
+[02/20/2023 23:13:33]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:13:33]
+  Jarvis Suarez unequipped Гаечный ключ
+[02/20/2023 23:13:33]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:13:35]
+  Freeman Escobar unequipped Сварочный аппарат
+[02/20/2023 23:13:35]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:36]
+  Jarvis Suarez: Помогите, я истекаю кровью!
+[02/20/2023 23:13:37]
+  Christiana Phoenix has died (Cause of death: Баротравма)
+[02/20/2023 23:13:38]
+  Alex Welden: Мне нужно подводное снаряжение!
+[02/20/2023 23:13:39]
+  kynlan4ic equipped Плазменный резак
+[02/20/2023 23:13:39]
+  Sherise Gallardo: Задыхаюсь.
+[02/20/2023 23:13:40]
+  Elliana Maxwell: Нечем дышать!
+[02/20/2023 23:13:40]
+  Althea Callahan: Нечем дышать!
+[02/20/2023 23:13:40]
+  Michele Lawrence: Задыхаюсь.
+[02/20/2023 23:13:41]
+  Elliana Maxwell has died (Cause of death: Баротравма)
+[02/20/2023 23:13:42]
+  Althea Callahan: Я теряю много крови!
+[02/20/2023 23:13:42]
+  Freeman Escobar unequipped Сварочный аппарат
+[02/20/2023 23:13:42]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:42]
+  Kerry Maynes unequipped Сварочный аппарат
+[02/20/2023 23:13:42]
+  Kerry Maynes equipped Сварочный аппарат
+[02/20/2023 23:13:43]
+  Outer wall breached by kynlan4ic
+[02/20/2023 23:13:44]
+  Jess Dorado: Я теряю сознание!
+[02/20/2023 23:13:44]
+  Christine Combs unequipped Сварочный аппарат
+[02/20/2023 23:13:44]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:13:44]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:13:44]
+  Console command "giveaffliction HuskInfection 100 Jess" executed by igameCrog.
+[02/20/2023 23:13:45]
+  Freeman Escobar unequipped Сварочный аппарат
+[02/20/2023 23:13:45]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:45]
+  Kerry Maynes unequipped Сварочный аппарат
+[02/20/2023 23:13:45]
+  Kerry Maynes equipped Сварочный аппарат
+[02/20/2023 23:13:45]
+  Christine Combs equipped Сварочный аппарат
+[02/20/2023 23:13:47]
+  Sherise Gallardo has died (Cause of death: Баротравма)
+[02/20/2023 23:13:47]
+  Gloria Hutchinson: Надо найти водолазный скафандр!
+[02/20/2023 23:13:48]
+  Freeman Escobar unequipped Сварочный аппарат
+[02/20/2023 23:13:49]
+  Katerina Freeman: Задыхаюсь.
+[02/20/2023 23:13:49]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:13:49]
+  Freeman Escobar: Надо найти водолазный скафандр!
+[02/20/2023 23:13:49]
+  Kerry Maynes: Надо найти водолазный скафандр!
+[02/20/2023 23:13:49]
+  Kerry Maynes unequipped Сварочный аппарат
+[02/20/2023 23:13:49]
+  Kerry Maynes equipped Сварочный аппарат
+[02/20/2023 23:13:50]
+  Kerry Maynes unequipped Сварочный аппарат
+[02/20/2023 23:13:50]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:13:51]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:13:51]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:53]
+  Katerina Freeman equipped Гаечный ключ
+[02/20/2023 23:13:55]
+  Inner wall breached by Crawler
+[02/20/2023 23:13:55]
+  Freeman Escobar unequipped Сварочный аппарат
+[02/20/2023 23:13:55]
+  Freeman Escobar equipped Сварочный аппарат
+[02/20/2023 23:13:58]
+  Inner wall breached by Crawler
+[02/20/2023 23:13:59]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:14:00]
+  Outer wall breached by Crawler
+[02/20/2023 23:14:00]
+  Gloria Hutchinson unequipped Сварочный аппарат
+[02/20/2023 23:14:02]
+  Alex Welden unequipped Гаечный ключ
+[02/20/2023 23:14:02]
+  Alex Welden equipped Гаечный ключ
+[02/20/2023 23:14:03]
+  Armanda Chiu: Мне нужно подводное снаряжение!
+[02/20/2023 23:14:04]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:14:07]
+  Inner wall breached by Crawler
+[02/20/2023 23:14:08]
+  Jarvis Suarez: Я теряю много крови!
+[02/20/2023 23:14:09]
+  Alex Welden: Надо найти водолазный скафандр!
+[02/20/2023 23:14:09]
+  Alex Welden unequipped Гаечный ключ
+[02/20/2023 23:14:11]
+  Outer wall breached by kynlan4ic
+[02/20/2023 23:14:15]
+  Kerry Maynes: Я теряю сознание!
+[02/20/2023 23:14:15]
+  Freeman Escobar: Я теряю сознание!
+[02/20/2023 23:14:18]
+  Gloria Hutchinson: Мне нужно подводное снаряжение!
+[02/20/2023 23:14:21]
+  Inner wall breached by Crawler
+[02/20/2023 23:14:22]
+  Freeman Escobar: Мне нужно подводное снаряжение!
+[02/20/2023 23:14:28]
+  Gloria Hutchinson: Медицинский отсек: здесь поднимается давление!
+[02/20/2023 23:14:28]
+  Freeman Escobar: Верхняя средняя часть: давление достигло опасного уровня!
+[02/20/2023 23:14:29]
+  Katherina Lucas has died (Cause of death: Баротравма)
+[02/20/2023 23:14:29]
+  Kerry Maynes has died (Cause of death: Баротравма)
+[02/20/2023 23:14:29]
+  Freeman Escobar has died (Cause of death: Баротравма)
+[02/20/2023 23:14:30]
+  Armanda Chiu: Соединительный отсек: здесь поднимается давление!
+[02/20/2023 23:14:31]
+  Alex Welden: Медицинский отсек: давление достигло опасного уровня!
+[02/20/2023 23:14:31]
+  Inner wall breached by kynlan4ic
+[02/20/2023 23:14:33]
+  Inner wall breached by Crawler
+[02/20/2023 23:14:34]
+  igameCrog picked up Серная кислота
+[02/20/2023 23:14:35]
+  Armanda Chiu: Надо найти водолазный скафандр!
+[02/20/2023 23:14:41]
+  igameCrog picked up Пакет с кровью
+[02/20/2023 23:14:41]
+  igameCrog picked up Пакет с кровью
+[02/20/2023 23:14:43]
+  igameCrog picked up Этанол
+[02/20/2023 23:14:43]
+  igameCrog picked up Этанол
+[02/20/2023 23:14:45]
+  Althea Callahan has died (Cause of death: Нехватка кислорода)
+[02/20/2023 23:14:47]
+  Alex Welden: Мне нужно подводное снаряжение!
+[02/20/2023 23:14:48]
+  Gloria Hutchinson: Мне нужно подводное снаряжение!
+[02/20/2023 23:14:50]
+  igameCrog used item Морфин
+[02/20/2023 23:14:55]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:14:55]
+  Jess Dorado has died (Cause of death: Нехватка кислорода)
+[02/20/2023 23:14:55]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:14:56]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:14:57]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:14:57]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:14:58]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:14:58]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:14:58]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:14:58]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:14:58]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:14:58]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:14:59]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:14:59]
+  Чпок В Пупок picked up Бинт
+[02/20/2023 23:14:59]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:14:59]
+  igameCrog picked up Морфин
+[02/20/2023 23:15:02]
+  Michele Lawrence has died (Cause of death: Нехватка кислорода)
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:02]
+  igameCrog picked up Бинт
+[02/20/2023 23:15:05]
+  Armanda Chiu: Мне нужно подводное снаряжение!
+[02/20/2023 23:15:07]
+  Katerina Freeman has died (Cause of death: Нехватка кислорода)
+[02/20/2023 23:15:18]
+  Alex Welden: Надо найти водолазный скафандр!
+[02/20/2023 23:15:18]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:15:30]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:15:35]
+  Armanda Chiu: Мне нужно подводное снаряжение!
+[02/20/2023 23:15:42]
+  Inner wall breached by Crawler
+[02/20/2023 23:15:49]
+  Alex Welden equipped Опиум
+[02/20/2023 23:15:49]
+  igameCrog equipped Кислородный баллон
+[02/20/2023 23:15:51]
+  igameCrog equipped Этанол
+[02/20/2023 23:15:52]
+  Alex Welden: Надо найти водолазный скафандр!
+[02/20/2023 23:15:55]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:15:56]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:15:57]
+  Inner wall breached by Crawler
+[02/20/2023 23:15:58]
+  kynlan4ic closed Настраиваемый люк
+[02/20/2023 23:15:59]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:15:59]
+  kynlan4ic closed Настраиваемый люк
+[02/20/2023 23:16:04]
+  igameCrog placed Этанол in Human
+[02/20/2023 23:16:08]
+  Чпок В Пупок equipped Этанол
+[02/20/2023 23:16:10]
+  Jarvis Suarez equipped Гаечный ключ
+[02/20/2023 23:16:11]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:16:13]
+  Jarvis Suarez: Надо найти водолазный скафандр!
+[02/20/2023 23:16:16]
+  Console command "godmode" executed by kynlan4ic.
+[02/20/2023 23:16:16]
+  Чпок В Пупок set the pumping speed of Насос to -20 %
+[02/20/2023 23:16:16]
+  Чпок В Пупок turned off Насос
+[02/20/2023 23:16:17]
+  Gloria Hutchinson equipped Гаечный ключ
+[02/20/2023 23:16:17]
+  Christine Combs unequipped Сварочный аппарат
+[02/20/2023 23:16:19]
+  Gloria Hutchinson started repairing Дверь с окном и кнопками
+[02/20/2023 23:16:19]
+  Чпок В Пупок set the pumping speed of Насос to -100 %
+[02/20/2023 23:16:19]
+  Чпок В Пупок turned on Насос
+[02/20/2023 23:16:20]
+  Чпок В Пупок set the pumping speed of Насос to -30 %
+[02/20/2023 23:16:20]
+  Чпок В Пупок turned off Насос
+[02/20/2023 23:16:22]
+  Gloria Hutchinson: Надо найти водолазный скафандр!
+[02/20/2023 23:16:22]
+  Alex Welden: Надо найти водолазный скафандр!
+[02/20/2023 23:16:23]
+  Christine Combs: Мне нужно подводное снаряжение!
+[02/20/2023 23:16:27]
+  Чпок В Пупок set the pumping speed of Насос to -100 %
+[02/20/2023 23:16:27]
+  Чпок В Пупок turned on Насос
+[02/20/2023 23:16:37]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:16:37]
+  kynlan4ic dropped Кислородный баллон
+[02/20/2023 23:16:37]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 2863)
+[02/20/2023 23:16:38]
+  igameCrog used item Морфин
+[02/20/2023 23:16:39]
+  Christine Combs has died (Cause of death: Баротравма)
+[02/20/2023 23:16:39]
+  Jarvis Suarez unequipped Гаечный ключ
+[02/20/2023 23:16:39]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:16:49]
+  Inner wall breached by Crawler
+[02/20/2023 23:16:51]
+  Inner wall breached by Crawler
+[02/20/2023 23:16:53]
+  Alex Welden: Надо найти водолазный скафандр!
+[02/20/2023 23:16:54]
+  Gloria Hutchinson: Надо найти водолазный скафандр!
+[02/20/2023 23:16:57]
+  Gloria Hutchinson unequipped Гаечный ключ
+[02/20/2023 23:16:57]
+  Gloria Hutchinson equipped Сварочный аппарат
+[02/20/2023 23:16:59]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:17:17]
+  Alex Welden: Где кислородные баллоны?
+[02/20/2023 23:17:25]
+  Gloria Hutchinson: Надо найти водолазный скафандр!
+[02/20/2023 23:17:25]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:17:26]
+  Alex Welden: Мне нужно подводное снаряжение!
+[02/20/2023 23:17:26]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:17:26]
+  Jarvis Suarez equipped Гаечный ключ
+[02/20/2023 23:17:27]
+  Gloria Hutchinson: Камера балласта B: высокий уровень давления!
+[02/20/2023 23:17:27]
+  Alex Welden: Я теряю много крови!
+[02/20/2023 23:17:27]
+  Jarvis Suarez unequipped Гаечный ключ
+[02/20/2023 23:17:27]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:17:28]
+  Alex Welden has died (Cause of death: Баротравма)
+[02/20/2023 23:17:28]
+  Gloria Hutchinson has died (Cause of death: Баротравма)
+[02/20/2023 23:17:29]
+  Armanda Chiu used Гаечный ключ on Обшивка A 0 градусов.
+[02/20/2023 23:17:29]
+  Armanda Chiu used Гаечный ключ on Crawler.
+[02/20/2023 23:17:29]
+  Jarvis Suarez: Я теряю много крови!
+[02/20/2023 23:17:30]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:17:30]
+  Jarvis Suarez equipped Гаечный ключ
+[02/20/2023 23:17:31]
+  Jarvis Suarez unequipped Гаечный ключ
+[02/20/2023 23:17:31]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:17:33]
+  kynlan4ic unequipped Сварочный аппарат
+[02/20/2023 23:17:34]
+  Armanda Chiu used Гаечный ключ on Crawler.
+[02/20/2023 23:17:37]
+  Чпок В Пупок placed Кислородный баллон in Human
+[02/20/2023 23:17:39]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:17:40]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:17:40]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:17:46]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:17:46]
+  Чпок В Пупок placed Кислородный баллон in Human
+[02/20/2023 23:17:48]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:17:49]
+  kynlan4ic closed Настраиваемый люк
+[02/20/2023 23:17:50]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:17:50]
+  kynlan4ic closed Настраиваемый люк
+[02/20/2023 23:17:50]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:18:01]
+  Jarvis Suarez: Я теряю много крови!
+[02/20/2023 23:18:04]
+  Чпок В Пупок equipped Отвертка
+[02/20/2023 23:18:06]
+  Чпок В Пупок equipped Гаечный ключ
+[02/20/2023 23:18:06]
+  Crawler has died (Cause of death: Рваная рана)
+[02/20/2023 23:18:07]
+  igameCrog picked up Отвертка
+[02/20/2023 23:18:07]
+  Чпок В Пупок started repairing Настраиваемый люк
+[02/20/2023 23:18:09]
+  igameCrog picked up Гаечный ключ
+[02/20/2023 23:18:10]
+  Armanda Chiu equipped Сварочный аппарат
+[02/20/2023 23:18:11]
+  igameCrog picked up Сварочный аппарат
+[02/20/2023 23:18:12]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 23:18:15]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:18:15]
+  igameCrog dropped Кислородный баллон
+[02/20/2023 23:18:15]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 2894)
+[02/20/2023 23:18:16]
+  igameCrog dropped Кислородный баллон
+[02/20/2023 23:18:18]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:18:23]
+  igameCrog equipped Отвертка
+[02/20/2023 23:18:25]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:18:26]
+  Armanda Chiu: Я теряю много крови!
+[02/20/2023 23:18:31]
+  igameCrog dropped Wire
+[02/20/2023 23:18:31]
+  igameCrog connected a wire to Кнопка (signal_out)
+[02/20/2023 23:18:36]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:18:38]
+  igameCrog dropped Wire
+[02/20/2023 23:18:38]
+  igameCrog connected a wire to Кнопка (signal_out)
+[02/20/2023 23:18:39]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:18:40]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:18:40]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:18:42]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:18:50]
+  Armanda Chiu: Меняем кислородные баллоны!
+[02/20/2023 23:18:50]
+  Armanda Chiu: У меня этот кислородный баллон - последний.
+[02/20/2023 23:18:51]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 23:18:52]
+  Armanda Chiu unequipped Сварочный аппарат
+[02/20/2023 23:18:52]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:18:52]
+  Чпок В Пупок closed Настраиваемый люк
+[02/20/2023 23:18:53]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:18:53]
+  Armanda Chiu equipped Сварочный аппарат
+[02/20/2023 23:18:53]
+  Чпок В Пупок opened Настраиваемый люк
+[02/20/2023 23:18:55]
+  igameCrog equipped Сварочный аппарат
+[02/20/2023 23:18:56]
+  Jarvis Suarez: Меняем кислородные баллоны!
+[02/20/2023 23:18:56]
+  Jarvis Suarez: У меня больше нет кислородных баллонов, кроме этого.
+[02/20/2023 23:18:57]
+  Armanda Chiu unequipped Сварочный аппарат
+[02/20/2023 23:18:57]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:18:58]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:18:58]
+  Armanda Chiu equipped Сварочный аппарат
+[02/20/2023 23:19:00]
+  Outer wall repaired by igameCrog
+[02/20/2023 23:19:00]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:19:00]
+  kynlan4ic dropped Кислородный баллон
+[02/20/2023 23:19:00]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 2892)
+[02/20/2023 23:19:00]
+  Armanda Chiu: Помогите, я истекаю кровью!
+[02/20/2023 23:19:06]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:19:06]
+  Armanda Chiu unequipped Сварочный аппарат
+[02/20/2023 23:19:06]
+  Armanda Chiu equipped Гаечный ключ
+[02/20/2023 23:19:08]
+  Armanda Chiu unequipped Гаечный ключ
+[02/20/2023 23:19:08]
+  Armanda Chiu equipped Сварочный аппарат
+[02/20/2023 23:19:12]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:19:15]
+  Armanda Chiu unequipped Сварочный аппарат
+[02/20/2023 23:19:17]
+  Armanda Chiu equipped Сварочный аппарат
+[02/20/2023 23:19:17]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:19:18]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:19:19]
+  igameCrog used item Бинт
+[02/20/2023 23:19:19]
+  igameCrog used item Морфин
+[02/20/2023 23:19:22]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:19:22]
+  igameCrog used item Бинт
+[02/20/2023 23:19:22]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:19:23]
+  Чпок В Пупок picked up Бинт
+[02/20/2023 23:19:23]
+  Чпок В Пупок picked up Бинт
+[02/20/2023 23:19:24]
+  igameCrog used item Бинт
+[02/20/2023 23:19:29]
+  Outer wall repaired by Armanda Chiu
+[02/20/2023 23:19:34]
+  Armanda Chiu: Я теряю много крови!
+[02/20/2023 23:19:35]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:19:43]
+  Чпок В Пупок placed Кислородный баллон in Human
+[02/20/2023 23:19:45]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:19:49]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:19:49]
+  Jarvis Suarez equipped Гаечный ключ
+[02/20/2023 23:19:50]
+  Jarvis Suarez unequipped Гаечный ключ
+[02/20/2023 23:19:50]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:19:52]
+  Jarvis Suarez: У меня кровь!
+[02/20/2023 23:19:57]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:19:57]
+  Jarvis Suarez equipped Сварочный аппарат
+[02/20/2023 23:20:01]
+  Чпок В Пупок picked up Патрон револьвера
+[02/20/2023 23:20:01]
+  Чпок В Пупок picked up Патрон револьвера
+[02/20/2023 23:20:01]
+  Чпок В Пупок picked up Патрон револьвера
+[02/20/2023 23:20:01]
+  Чпок В Пупок picked up Патрон револьвера
+[02/20/2023 23:20:01]
+  Чпок В Пупок picked up Патрон револьвера
+[02/20/2023 23:20:01]
+  Чпок В Пупок picked up Патрон револьвера
+[02/20/2023 23:20:04]
+  Armanda Chiu: Мне нужен кислородный баллон!
+[02/20/2023 23:20:06]
+  Console command "godmode" executed by kynlan4ic.
+[02/20/2023 23:20:17]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/20/2023 23:20:21]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:20:23]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:20:24]
+  igameCrog opened Настраиваемый люк
+[02/20/2023 23:20:25]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:20:26]
+  Jarvis Suarez: У меня кровь!
+[02/20/2023 23:20:26]
+  igameCrog opened Настраиваемый люк
+[02/20/2023 23:20:27]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:20:28]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:20:28]
+  igameCrog opened Настраиваемый люк
+[02/20/2023 23:20:35]
+  igameCrog disconnected a wire from Настраиваемая дверь (toggle) to Кнопка (signal_out)
+[02/20/2023 23:20:35]
+  igameCrog connected a wire from Настраиваемая дверь (set_state) to Кнопка (signal_out)
+[02/20/2023 23:20:37]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:20:38]
+  igameCrog opened Настраиваемый люк
+[02/20/2023 23:20:44]
+  igameCrog disconnected a wire from Настраиваемая дверь (set_state) to Кнопка (signal_out)
+[02/20/2023 23:20:44]
+  igameCrog connected a wire from Настраиваемая дверь (toggle) to Кнопка (signal_out)
+[02/20/2023 23:20:46]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:20:46]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:20:48]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:20:48]
+  igameCrog opened Настраиваемый люк
+[02/20/2023 23:20:54]
+  igameCrog dropped Wire
+[02/20/2023 23:20:54]
+  igameCrog connected a wire to Настраиваемый люк (toggle)
+[02/20/2023 23:20:55]
+  Чпок В Пупок placed Патрон револьвера in Human
+[02/20/2023 23:20:55]
+  Чпок В Пупок placed Патрон револьвера in Human
+[02/20/2023 23:20:55]
+  Чпок В Пупок placed Патрон револьвера in Human
+[02/20/2023 23:20:55]
+  Чпок В Пупок placed Патрон револьвера in Human
+[02/20/2023 23:20:55]
+  Чпок В Пупок placed Патрон револьвера in Human
+[02/20/2023 23:20:55]
+  Чпок В Пупок placed Патрон револьвера in Human
+[02/20/2023 23:20:55]
+  Armanda Chiu has died (Cause of death: Укусы)
+[02/20/2023 23:20:59]
+  Jarvis Suarez: Как правильно – таламусы или таламы?
+[02/20/2023 23:20:59]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:21:00]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:21:02]
+  Чпок В Пупок started repairing Монитор сонара
+[02/20/2023 23:21:04]
+  igameCrog equipped Гаечный ключ
+[02/20/2023 23:21:06]
+  igameCrog started repairing Настраиваемый люк
+[02/20/2023 23:21:07]
+  kynlan4ic equipped Револьвер
+[02/20/2023 23:21:10]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[02/20/2023 23:21:11]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[02/20/2023 23:21:14]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:21:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:21:15]
+  Чпок В Пупок used Отвертка on Обшивка A 90 градусов.
+[02/20/2023 23:21:18]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:21:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3087)
+[02/20/2023 23:21:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3087)
+[02/20/2023 23:21:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3087)
+[02/20/2023 23:21:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3087)
+[02/20/2023 23:21:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3087)
+[02/20/2023 23:21:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3087)
+[02/20/2023 23:21:23]
+  Outer wall breached by Crawler
+[02/20/2023 23:21:23]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:21:24]
+  Mudraptor has died (Cause of death: Огнестрельная рана)
+[02/20/2023 23:21:24]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:21:25]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:21:26]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:21:27]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:21:27]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:21:29]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:21:30]
+  igameCrog opened Настраиваемый люк
+[02/20/2023 23:21:30]
+  igameCrog closed Настраиваемый люк
+[02/20/2023 23:21:35]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:21:37]
+  Outer wall repaired by Jarvis Suarez
+[02/20/2023 23:21:37]
+  Jarvis Suarez: Арсенал: все протечки устранены!
+[02/20/2023 23:21:38]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:21:40]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[02/20/2023 23:21:49]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:21:52]
+  Outer wall repaired by Jarvis Suarez
+[02/20/2023 23:21:52]
+  Jarvis Suarez: Медицинский отсек: протечек не осталось!
+[02/20/2023 23:21:53]
+  Inner wall repaired by Jarvis Suarez
+[02/20/2023 23:21:56]
+  Jarvis Suarez unequipped Сварочный аппарат
+[02/20/2023 23:21:56]
+  Jarvis Suarez equipped Гаечный ключ
+[02/20/2023 23:21:56]
+  Jarvis Suarez started repairing Дверь с окном и кнопками
+[02/20/2023 23:21:58]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 23:22:00]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[02/20/2023 23:22:03]
+  kynlan4ic equipped Подводный скутер
+[02/20/2023 23:22:09]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:22:13]
+  Mudraptor attacked by Чпок В Пупок. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[02/20/2023 23:22:13]
+  Чпок В Пупок used Гаечный ключ on Mudraptor.
+[02/20/2023 23:22:13]
+  Mudraptor attacked by Чпок В Пупок. Рваная рана: 0.5
+[02/20/2023 23:22:13]
+  Чпок В Пупок used Отвертка on Mudraptor.
+[02/20/2023 23:22:13]
+  Чпок В Пупок used Отвертка on Большая вертикальная внутренняя стена.
+[02/20/2023 23:22:14]
+  Mudraptor attacked by Чпок В Пупок. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[02/20/2023 23:22:14]
+  Чпок В Пупок used Гаечный ключ on Mudraptor.
+[02/20/2023 23:22:15]
+  Mudraptor attacked by Чпок В Пупок. Рваная рана: 5.0 Кровотечение: 2.0
+[02/20/2023 23:22:15]
+  Чпок В Пупок used Отвертка on Mudraptor.
+[02/20/2023 23:22:15]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:22:16]
+  Mudraptor attacked by Чпок В Пупок. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[02/20/2023 23:22:16]
+  Чпок В Пупок used Гаечный ключ on Mudraptor.
+[02/20/2023 23:22:16]
+  Чпок В Пупок used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/20/2023 23:22:16]
+  Чпок В Пупок used Отвертка on Большая горизонтальная внутренняя стена.
+[02/20/2023 23:22:18]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:22:18]
+  kynlan4ic closed Настраиваемый люк
+[02/20/2023 23:22:19]
+  kynlan4ic opened Настраиваемый люк
+[02/20/2023 23:22:28]
+  igameCrog used item Морфин
+[02/20/2023 23:22:37]
+  igameCrog used item Морфин
+[02/20/2023 23:22:40]
+  Inner wall breached by Crawler
+[02/20/2023 23:22:43]
+  Чпок В Пупок used item Бинт
+[02/20/2023 23:22:51]
+  Чпок В Пупок used item Бинт
+[02/20/2023 23:22:55]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:22:55]
+  Чпок В Пупок dropped Кислородный баллон
+[02/20/2023 23:22:55]
+  Чпок В Пупок placed Кислородный баллон in Водолазный скафандр (ID: 2891)
+[02/20/2023 23:23:06]
+  Чпок В Пупок used item Бинт
+[02/20/2023 23:23:13]
+  igameCrog used item Пакет с кровью
+[02/20/2023 23:23:15]
+  igameCrog used item Бинт
+[02/20/2023 23:23:17]
+  igameCrog used item Морфин
+[02/20/2023 23:23:23]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 2894)
+[02/20/2023 23:23:25]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 2894)
+[02/20/2023 23:23:27]
+  Jarvis Suarez has died (Cause of death: Укусы)
+[02/20/2023 23:23:46]
+  Чпок В Пупок picked up Подводный скутер
+[02/20/2023 23:23:48]
+  Чпок В Пупок equipped Подводный скутер
+[02/20/2023 23:23:53]
+  igameCrog started repairing Ядерный реактор
+[02/20/2023 23:24:00]
+  Чпок В Пупок equipped Топливный бак сварочного аппарата
+[02/20/2023 23:24:00]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:05]
+  Чпок В Пупок placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/20/2023 23:24:05]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:05]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:05]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:05]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:05]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:05]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:24:25]
+  igameCrog used item Пакет с кровью
+[02/20/2023 23:24:28]
+  igameCrog used item Морфин
+[02/20/2023 23:24:31]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:24:38]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:24:38]
+  igameCrog dropped Кислородный баллон
+[02/20/2023 23:24:38]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 2892)
+[02/20/2023 23:24:45]
+  igameCrog used item Морфин
+[02/20/2023 23:25:05]
+  Чпок В Пупок dropped Этанол
+[02/20/2023 23:25:15]
+  igameCrog picked up Топливный стержень
+[02/20/2023 23:25:21]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:25:21]
+  Чпок В Пупок dropped Топливный бак сварочного аппарата
+[02/20/2023 23:25:21]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2823)
+[02/20/2023 23:25:25]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 2223)
+[02/20/2023 23:25:28]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[02/20/2023 23:25:29]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[02/20/2023 23:25:32]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 2286)
+[02/20/2023 23:25:37]
+  igameCrog turned on Малый насос
+[02/20/2023 23:25:38]
+  igameCrog set the pumping speed of Малый насос to 20 %
+[02/20/2023 23:25:39]
+  igameCrog set the pumping speed of Малый насос to 0 %
+[02/20/2023 23:25:39]
+  Inner wall breached by Crawler
+[02/20/2023 23:25:39]
+  Inner wall breached by Crawler
+[02/20/2023 23:25:40]
+  igameCrog set the pumping speed of Малый насос to -30 %
+[02/20/2023 23:25:40]
+  igameCrog set the pumping speed of Малый насос to -50 %
+[02/20/2023 23:25:40]
+  igameCrog set the pumping speed of Малый насос to -60 %
+[02/20/2023 23:25:40]
+  igameCrog set the pumping speed of Малый насос to -70 %
+[02/20/2023 23:25:40]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[02/20/2023 23:25:40]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[02/20/2023 23:25:41]
+  kynlan4ic turned off Малый насос
+[02/20/2023 23:25:42]
+  kynlan4ic turned on Малый насос
+[02/20/2023 23:25:45]
+  Чпок В Пупок closed Настраиваемый люк
+[02/20/2023 23:25:48]
+  igameCrog started repairing Кабельная коробка
+[02/20/2023 23:25:49]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:50]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:50]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:50]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:50]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:51]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:52]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:52]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:52]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:52]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:52]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:52]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:53]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:53]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:53]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:53]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:53]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:54]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:54]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:54]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:54]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:54]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:54]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:25:55]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 23:25:56]
+  igameCrog dropped Wire
+[02/20/2023 23:25:56]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:25:57]
+  igameCrog dropped Wire
+[02/20/2023 23:25:57]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:25:59]
+  kynlan4ic turned off Насос
+[02/20/2023 23:26:00]
+  kynlan4ic turned on Насос
+[02/20/2023 23:26:01]
+  igameCrog dropped Wire
+[02/20/2023 23:26:01]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:26:05]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 23:26:16]
+  kynlan4ic picked up Подводный скутер
+[02/20/2023 23:26:17]
+  igameCrog disconnected a wire from Кабельная коробка (power)
+[02/20/2023 23:26:19]
+  igameCrog disconnected a wire from Кабельная коробка (power)
+[02/20/2023 23:26:19]
+  Чпок В Пупок used Отвертка on Обшивка A 0 градусов.
+[02/20/2023 23:26:20]
+  Чпок В Пупок used Гаечный ключ on Обшивка A 0 градусов.
+[02/20/2023 23:26:20]
+  igameCrog disconnected a wire from Кабельная коробка (power)
+[02/20/2023 23:26:21]
+  igameCrog picked up Красный провод
+[02/20/2023 23:26:30]
+  igameCrog dropped Кислородный баллон
+[02/20/2023 23:26:33]
+  igameCrog picked up Оранжевый провод
+[02/20/2023 23:26:35]
+  igameCrog picked up Красный провод
+[02/20/2023 23:26:36]
+  igameCrog equipped Красный провод
+[02/20/2023 23:26:37]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:26:41]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:26:55]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/20/2023 23:27:02]
+  igameCrog connected a wire from Монитор сонара (power_in) to Кабельная коробка (power)
+[02/20/2023 23:27:03]
+  igameCrog dropped Wire
+[02/20/2023 23:27:03]
+  igameCrog connected a wire to Монитор сонара (transducer_in)
+[02/20/2023 23:27:05]
+  igameCrog disconnected a wire from Монитор сонара (transducer_in)
+[02/20/2023 23:27:05]
+  igameCrog connected a wire to Монитор сонара (condition_out)
+[02/20/2023 23:27:17]
+  Чпок В Пупок started repairing Генератор кислорода
+[02/20/2023 23:27:29]
+  kynlan4ic adjusted reactor settings: Temperature: 5013, Fission rate: 30, Turbine output: 0, Autotemp ON
+[02/20/2023 23:27:33]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 23:27:36]
+  igameCrog turned off Насос
+[02/20/2023 23:27:37]
+  igameCrog turned on Насос
+[02/20/2023 23:27:42]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:27:42]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:27:43]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:27:44]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:27:44]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/20/2023 23:27:46]
+  igameCrog turned off Насос
+[02/20/2023 23:27:54]
+  igameCrog set the pumping speed of Малый насос to -80 %
+[02/20/2023 23:27:55]
+  igameCrog set the pumping speed of Малый насос to -50 %
+[02/20/2023 23:27:55]
+  igameCrog set the pumping speed of Малый насос to 90 %
+[02/20/2023 23:27:55]
+  igameCrog set the pumping speed of Малый насос to 100 %
+[02/20/2023 23:28:04]
+  igameCrog set the pumping speed of Малый насос to 40 %
+[02/20/2023 23:28:04]
+  igameCrog set the pumping speed of Малый насос to -80 %
+[02/20/2023 23:28:04]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[02/20/2023 23:28:04]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[02/20/2023 23:28:05]
+  igameCrog set the pumping speed of Малый насос to -80 %
+[02/20/2023 23:28:18]
+  Outer wall repaired by igameCrog
+[02/20/2023 23:28:19]
+  Outer wall repaired by igameCrog
+[02/20/2023 23:28:33]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:28:36]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[02/20/2023 23:28:45]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:28:47]
+  igameCrog equipped Красный провод
+[02/20/2023 23:28:50]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:28:53]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:28:53]
+  Чпок В Пупок dropped Топливный бак сварочного аппарата
+[02/20/2023 23:28:53]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2823)
+[02/20/2023 23:28:53]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:28:53]
+  Чпок В Пупок dropped Топливный бак сварочного аппарата
+[02/20/2023 23:28:53]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2823)
+[02/20/2023 23:28:56]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:28:56]
+  Чпок В Пупок dropped Топливный бак сварочного аппарата
+[02/20/2023 23:28:56]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2823)
+[02/20/2023 23:28:56]
+  igameCrog connected a wire from Малый насос (power_in) to Кабельная коробка (power)
+[02/20/2023 23:28:57]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:28:57]
+  Чпок В Пупок dropped Топливный бак сварочного аппарата
+[02/20/2023 23:28:57]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2823)
+[02/20/2023 23:29:05]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 23:29:06]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 2894)
+[02/20/2023 23:29:12]
+  Mudraptor has died (Cause of death: Травма от удара тупым предметом)
+[02/20/2023 23:29:13]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:29:20]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/20/2023 23:29:23]
+  igameCrog started repairing Кабельная коробка
+[02/20/2023 23:29:30]
+  igameCrog dropped Wire
+[02/20/2023 23:29:30]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:29:48]
+  igameCrog equipped Оранжевый провод
+[02/20/2023 23:29:57]
+  igameCrog connected a wire to Кабельная коробка (power)
+[02/20/2023 23:30:00]
+  igameCrog connected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[02/20/2023 23:30:03]
+  Информация о миссии:  - Маяк снова работает. Убедитесь, что передача не прерывается, и проведите подлодку к локации Укрепление Bramerton, чтобы получить награду.
+[02/20/2023 23:30:14]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:30:14]
+  kynlan4ic dropped Кислородный баллон
+[02/20/2023 23:30:14]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 2892)
+[02/20/2023 23:30:21]
+  Чпок В Пупок placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:30:24]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Генератор кислорода (ID: 2224)
+[02/20/2023 23:30:27]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/20/2023 23:30:32]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:30:33]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:30:34]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:30:53]
+  igameCrog set the pumping speed of Малый насос to -50 %
+[02/20/2023 23:30:53]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[02/20/2023 23:30:53]
+  igameCrog set the pumping speed of Малый насос to 40 %
+[02/20/2023 23:30:53]
+  igameCrog set the pumping speed of Малый насос to 100 %
+[02/20/2023 23:31:02]
+  igameCrog set the pumping speed of Малый насос to 20 %
+[02/20/2023 23:31:02]
+  igameCrog set the pumping speed of Малый насос to -60 %
+[02/20/2023 23:31:02]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[02/20/2023 23:31:02]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[02/20/2023 23:31:14]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 23:31:14]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:31:16]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:31:24]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 23:31:39]
+  igameCrog removed Топливный бак сварочного аппарата from Сварочный аппарат (ID: 2890)
+[02/20/2023 23:31:43]
+  igameCrog turned on Насос
+[02/20/2023 23:31:44]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:31:45]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:31:48]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:31:50]
+  Чпок В Пупок placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:31:54]
+  Чпок В Пупок placed Кислородный баллон in Водолазный скафандр (ID: 2891)
+[02/20/2023 23:31:57]
+  igameCrog used item Морфин
+[02/20/2023 23:32:03]
+  Чпок В Пупок placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:32:18]
+  igameCrog equipped Водолазный скафандр
+[02/20/2023 23:32:33]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 23:32:37]
+  igameCrog picked up Шкура грязевого раптора
+[02/20/2023 23:32:48]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 23:32:53]
+  igameCrog dropped Шкура грязевого раптора
+[02/20/2023 23:32:55]
+  igameCrog picked up Шкура грязевого раптора
+[02/20/2023 23:32:57]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:32:59]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 2892)
+[02/20/2023 23:33:32]
+  Crawler has died (Cause of death: Травма от удара тупым предметом)
+[02/20/2023 23:33:51]
+  Чпок В Пупок placed Кислородный баллон in Генератор кислорода (ID: 2224)
+[02/20/2023 23:34:19]
+  igameCrog unequipped Этанол
+[02/20/2023 23:34:28]
+  igameCrog used item Этанол
+[02/20/2023 23:34:38]
+  igameCrog placed Сварочный аппарат in Средний стальной шкаф (ID: 2286)
+[02/20/2023 23:34:39]
+  igameCrog placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2890)
+[02/20/2023 23:35:43]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 2309)
+[02/20/2023 23:35:50]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/20/2023 23:35:56]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 23:35:59]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 23:36:24]
+  Crawler has died (Cause of death: Ожог кислотой)
+[02/20/2023 23:36:43]
+  Crawler has died (Cause of death: Укусы)
+[02/20/2023 23:36:54]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 23:36:58]
+  igameCrog dropped Wire

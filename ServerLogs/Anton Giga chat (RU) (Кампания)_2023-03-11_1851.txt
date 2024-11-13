@@ -1,0 +1,1600 @@
+﻿[03/11/2023 18:39:35]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:35]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:35]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:35]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:35]
+  Inner wall breached by kynlan4ic
+[03/11/2023 18:39:35]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:35]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:35]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:35]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:35]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:35]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:36]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:36]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:36]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:36]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:36]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:39:38]
+  Супостат499 picked up Подводный скутер
+[03/11/2023 18:39:40]
+  Супостат499 placed Flamethrower in Рюкзак (ID: 6684)
+[03/11/2023 18:39:40]
+  Arron Gregory: igameCrog проходит лечение здесь: электрика!
+[03/11/2023 18:39:41]
+  Arron Gregory: Мне требуется бинт, экстракт взрывного граната, морфин или эластичный бинт!
+[03/11/2023 18:39:43]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:39:44]
+  Супостат499 picked up 'Beast' SSL
+[03/11/2023 18:39:44]
+  igameCrog disconnected a wire from Ядерный реактор (fuel_out) to Текстовый экран (set_text)
+[03/11/2023 18:39:44]
+  igameCrog connected a wire from Ядерный реактор (condition_out) to Текстовый экран (set_text)
+[03/11/2023 18:39:44]
+  kynlan4ic equipped Водолазный скафандр
+[03/11/2023 18:39:47]
+  kynlan4ic dropped Водолазный скафандр
+[03/11/2023 18:39:47]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 18:39:49]
+  kynlan4ic equipped Ящик с химикатами
+[03/11/2023 18:39:49]
+  Супостат499 equipped Подводный скутер
+[03/11/2023 18:39:50]
+  kynlan4ic dropped Ящик с химикатами
+[03/11/2023 18:39:53]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 18:39:54]
+  Arron Gregory: igameCrog чувствует себя хорошо!
+[03/11/2023 18:39:56]
+  Arron Gregory: Тебе доводилось видеть эти штуковины, которые охраняют руины?
+[03/11/2023 18:39:56]
+  igameCrog disconnected a wire from Ядерный реактор (condition_out) to Текстовый экран (set_text)
+[03/11/2023 18:39:56]
+  igameCrog connected a wire from Ядерный реактор (fuel_percentage_left) to Текстовый экран (set_text)
+[03/11/2023 18:39:57]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:40:01]
+  Lionel Mungo: Да, и я жалею, что не могу этого забыть.
+[03/11/2023 18:40:02]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:40:02]
+  kynlan4ic picked up Подводный скутер
+[03/11/2023 18:40:06]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:40:07]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 6684)
+[03/11/2023 18:40:07]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 6684)
+[03/11/2023 18:40:07]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 6708)
+[03/11/2023 18:40:09]
+  igameCrog disconnected a wire from Ядерный реактор (fuel_percentage_left) to Текстовый экран (set_text)
+[03/11/2023 18:40:09]
+  igameCrog connected a wire from Ядерный реактор (temperature_out) to Текстовый экран (set_text)
+[03/11/2023 18:40:09]
+  kynlan4ic picked up Лом
+[03/11/2023 18:40:11]
+  Супостат499 equipped Плазменный резак
+[03/11/2023 18:40:15]
+  Outer wall breached by Супостат499
+[03/11/2023 18:40:22]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 18:40:23]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 18:40:23]
+  Outer wall breached by Супостат499
+[03/11/2023 18:40:27]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/11/2023 18:40:29]
+  Inner wall breached by Mudraptor
+[03/11/2023 18:40:29]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/11/2023 18:40:31]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 18:40:31]
+  Супостат499 equipped Hatchet
+[03/11/2023 18:40:32]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 18:40:33]
+  Mudraptor attacked by Супостат499. Травма от удара тупым предметом: 13.0 Рваная рана: 22.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 18:40:33]
+  Супостат499 used Hatchet on Mudraptor.
+[03/11/2023 18:40:34]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 18:40:35]
+  Супостат499 used Hatchet on Большая горизонтальная внутренняя стена (обломки).
+[03/11/2023 18:40:35]
+  Mudraptor attacked by Супостат499. Травма от удара тупым предметом: 7.2 Рваная рана: 12.1 Кровотечение: 5.0 Оглушение: 0.2
+[03/11/2023 18:40:35]
+  Супостат499 used Hatchet on Mudraptor.
+[03/11/2023 18:40:35]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:40:37]
+  Mudraptor attacked by Супостат499. Травма от удара тупым предметом: 13.0 Рваная рана: 22.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 18:40:37]
+  Супостат499 used Hatchet on Mudraptor.
+[03/11/2023 18:40:37]
+  igameCrog disconnected a wire from Ядерный реактор (temperature_out) to Текстовый экран (set_text)
+[03/11/2023 18:40:37]
+  igameCrog connected a wire from Ядерный реактор (fuel_percentage_left) to Текстовый экран (set_text)
+[03/11/2023 18:40:37]
+  kynlan4ic equipped Подводный скутер
+[03/11/2023 18:40:39]
+  igameCrog equipped Коричневый провод
+[03/11/2023 18:40:40]
+  Mudraptor attacked by Супостат499. Травма от удара тупым предметом: 13.0 Рваная рана: 22.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 18:40:40]
+  Супостат499 used Hatchet on Mudraptor.
+[03/11/2023 18:40:40]
+  igameCrog equipped Коричневый провод
+[03/11/2023 18:40:42]
+  Супостат499 used Hatchet on Большая горизонтальная внутренняя стена (обломки).
+[03/11/2023 18:40:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:40:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6 Оглушение: 0.3
+[03/11/2023 18:40:44]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:40:44]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/11/2023 18:40:44]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:40:44]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3 Оглушение: 0.3
+[03/11/2023 18:40:44]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:40:48]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:40:48]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:40:50]
+  kynlan4ic used item Бинт
+[03/11/2023 18:40:51]
+  Супостат499 placed Blueprint (5.45x39 ammunition) in Рюкзак (ID: 6684)
+[03/11/2023 18:40:51]
+  kynlan4ic used item Бинт
+[03/11/2023 18:40:52]
+  kynlan4ic used item Бинт
+[03/11/2023 18:40:55]
+  kynlan4ic used item Бинт
+[03/11/2023 18:40:58]
+  kynlan4ic picked up Судовой журнал
+[03/11/2023 18:41:00]
+  Inner wall breached by Mudraptor_unarmored
+[03/11/2023 18:41:02]
+  kynlan4ic placed Судовой журнал in Хозяйственный шкаф (обломки) (ID: 5174)
+[03/11/2023 18:41:05]
+  kynlan4ic used item Экстракт взрывного граната
+[03/11/2023 18:41:10]
+  Mudraptor_unarmored attacked by Супостат499. Травма от удара тупым предметом: 19.5 Рваная рана: 33.0 Кровотечение: 15.0 Оглушение: 0.2
+[03/11/2023 18:41:10]
+  Супостат499 used Hatchet on Mudraptor_unarmored.
+[03/11/2023 18:41:12]
+  Outer wall breached by Супостат499
+[03/11/2023 18:41:12]
+  Супостат499 used Hatchet on Большая горизонтальная внутренняя стена (обломки).
+[03/11/2023 18:41:13]
+  igameCrog connected a wire to Ядерный реактор (load_value_out)
+[03/11/2023 18:41:13]
+  Mudraptor attacked by Супостат499. Травма от удара тупым предметом: 7.2 Рваная рана: 12.1 Кровотечение: 5.0 Оглушение: 0.2
+[03/11/2023 18:41:13]
+  Супостат499 used Hatchet on Mudraptor.
+[03/11/2023 18:41:14]
+  Супостат499 attacked by kynlan4ic.
+[03/11/2023 18:41:14]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:15]
+  Супостат499 equipped 'Beast' SSL
+[03/11/2023 18:41:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:41:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 1.6
+[03/11/2023 18:41:16]
+  Mudraptor has died (Cause of death: Огнестрельная рана)
+[03/11/2023 18:41:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:41:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:41:17]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/11/2023 18:41:18]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:41:18]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 18:41:23]
+  Супостат499 placed 30mm-FC Clip in 'Beast' SSL (ID: 6699)
+[03/11/2023 18:41:23]
+  kynlan4ic picked up Морфин
+[03/11/2023 18:41:25]
+  igameCrog connected a wire from Терминал (signal_in) to Ядерный реактор (load_value_out)
+[03/11/2023 18:41:25]
+  kynlan4ic used item Морфин
+[03/11/2023 18:41:29]
+  kynlan4ic picked up Хлам
+[03/11/2023 18:41:30]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 541)
+[03/11/2023 18:41:32]
+  kynlan4ic placed Хлам in Большой стальной шкаф (обломки) (ID: 5185)
+[03/11/2023 18:41:33]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:41:35]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:41:35]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:41:36]
+  kynlan4ic placed Экстракт взрывного граната in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:41:39]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:41:40]
+  kynlan4ic equipped Лом
+[03/11/2023 18:41:40]
+  Inner wall breached by Супостат499
+[03/11/2023 18:41:51]
+  igameCrog disconnected a wire from Терминал (signal_in) to Ядерный реактор (load_value_out)
+[03/11/2023 18:41:55]
+  Devin Maxwell equipped Military Mk-I Hardsuit (Bandit)
+[03/11/2023 18:42:00]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 18:42:00]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 18:42:01]
+  igameCrog unequipped Терминал
+[03/11/2023 18:42:01]
+  igameCrog detached Терминал from a wall
+[03/11/2023 18:42:07]
+  kynlan4ic grabbed Erik Huber's body and received 32 mk.
+[03/11/2023 18:42:11]
+  kynlan4ic picked up Удостоверение с места кораблекрушения
+[03/11/2023 18:42:12]
+  igameCrog disconnected a wire from Ядерный реактор (load_value_out)
+[03/11/2023 18:42:12]
+  igameCrog picked up Коричневый провод
+[03/11/2023 18:42:14]
+  Devin Maxwell equipped Military Mk-I Hardsuit (Mercenary)
+[03/11/2023 18:42:16]
+  Arron Gregory: igameCrog получает первую помощь здесь: реакторный отсек!
+[03/11/2023 18:42:17]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:42:17]
+  Arron Gregory: igameCrog нуждается в помощи! Срочно требуется бинт, экстракт взрывного граната, морфин или эластичный бинт!
+[03/11/2023 18:42:20]
+  Arron Gregory: igameCrog в полном порядке!
+[03/11/2023 18:42:22]
+  Супостат499 placed TOZ Shaitan in Рюкзак (ID: 6684)
+[03/11/2023 18:42:24]
+  Супостат499 grabbed Shin Fonte's body and received 24 mk.
+[03/11/2023 18:42:24]
+  igameCrog equipped Коричневый провод
+[03/11/2023 18:42:30]
+  kynlan4ic picked up Сигнальный огонь
+[03/11/2023 18:42:33]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:42:44]
+  kynlan4ic equipped Сигнальный огонь
+[03/11/2023 18:42:49]
+  Devin Maxwell equipped Водолазный скафандр
+[03/11/2023 18:42:53]
+  Супостат499 placed Blueprint (DVL-16 Vimpel) in Рюкзак (ID: 6684)
+[03/11/2023 18:42:56]
+  Супостат499 placed Blueprint (PDW-323E) in Рюкзак (ID: 6684)
+[03/11/2023 18:42:57]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:42:57]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 18:43:00]
+  Arron Gregory equipped Инопланетная кровь
+[03/11/2023 18:43:00]
+  Arron Gregory: kynlan4ic получает первую помощь здесь: нижняя задняя часть!
+[03/11/2023 18:43:01]
+  Arron Gregory: kynlan4ic нуждается в помощи! Срочно требуется пакет с кровью, физраствор, инопланетная кровь или деусицин!
+[03/11/2023 18:43:03]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:43:06]
+  Arron Gregory unequipped Бинт
+[03/11/2023 18:43:07]
+  igameCrog used item Бинт
+[03/11/2023 18:43:08]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:43:08]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:43:10]
+  Супостат499 placed Торий in Рюкзак (ID: 6684)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:14]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:17]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:43:17]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:43:19]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 18:43:20]
+  Супостат499 removed Топливный бак сварочного аппарата from Сварочный аппарат (ID: 6706)
+[03/11/2023 18:43:21]
+  Супостат499 dropped Сварочный аппарат
+[03/11/2023 18:43:23]
+  Супостат499 picked up Сварочный аппарат
+[03/11/2023 18:43:24]
+  igameCrog connected a wire to Ядерный реактор (power_value_out)
+[03/11/2023 18:43:25]
+  Супостат499 dropped Плазменный резак
+[03/11/2023 18:43:26]
+  Супостат499 picked up Плазменный резак
+[03/11/2023 18:43:30]
+  Супостат499 equipped Плазменный резак
+[03/11/2023 18:43:37]
+  igameCrog equipped Терминал
+[03/11/2023 18:43:41]
+  Супостат499 grabbed Elliana Colpitts's body and received 27 mk.
+[03/11/2023 18:43:43]
+  kynlan4ic placed Сигнальный огонь in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:43:43]
+  igameCrog attached Терминал to a wall
+[03/11/2023 18:43:45]
+  Супостат499 picked up Tactical bulletproof helmet
+[03/11/2023 18:43:49]
+  igameCrog connected a wire from Терминал (signal_in) to Ядерный реактор (power_value_out)
+[03/11/2023 18:43:51]
+  kynlan4ic picked up Удостоверение с места кораблекрушения
+[03/11/2023 18:43:51]
+  kynlan4ic dropped Удостоверение с места кораблекрушения
+[03/11/2023 18:43:51]
+  kynlan4ic placed Удостоверение с места кораблекрушения in Human
+[03/11/2023 18:44:01]
+  igameCrog connected a wire to Ядерный реактор (load_value_out)
+[03/11/2023 18:44:02]
+  Outer wall breached by Супостат499
+[03/11/2023 18:44:06]
+  kynlan4ic placed Морфин in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:44:13]
+  igameCrog connected a wire from Терминал (signal_in) to Ядерный реактор (load_value_out)
+[03/11/2023 18:44:16]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:44:16]
+  Супостат499 placed Хлам in Рюкзак (ID: 6684)
+[03/11/2023 18:44:22]
+  Супостат499 placed Отвертка in Большой стальной шкаф (обломки) (ID: 5182)
+[03/11/2023 18:44:23]
+  Супостат499 picked up Отвертка
+[03/11/2023 18:44:26]
+  kynlan4ic placed Топливный бак сварочного аппарата in Большой стальной шкаф (обломки) (ID: 5180)
+[03/11/2023 18:44:26]
+  kynlan4ic placed Топливный баллон из воспламенита in Сварочный аппарат (ID: 6667)
+[03/11/2023 18:44:35]
+  kynlan4ic grabbed Kim Nunez's body and received 25 mk.
+[03/11/2023 18:44:52]
+  kynlan4ic placed Морфин in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:44:54]
+  kynlan4ic placed Бинт in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:45:04]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:45:08]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 18:45:12]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:45:40]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 18:45:41]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 18:45:43]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 18:45:46]
+  Arron Gregory: Супостат499 проходит лечение здесь: нижняя задняя часть!
+[03/11/2023 18:45:47]
+  Arron Gregory: Мне требуется деусицин, экстракт взрывного граната, морфин или опиум!
+[03/11/2023 18:45:53]
+  Arron Gregory equipped Опиум
+[03/11/2023 18:45:57]
+  Arron Gregory: Супостат499 чувствует себя хорошо!
+[03/11/2023 18:45:58]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:46:02]
+  Devin Maxwell started repairing Ядерный реактор
+[03/11/2023 18:46:05]
+  kynlan4ic placed Кислородный баллон in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:46:06]
+  Arron Gregory equipped Опиум
+[03/11/2023 18:46:07]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 6647)
+[03/11/2023 18:46:09]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 6650)
+[03/11/2023 18:46:10]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:46:16]
+  kynlan4ic dropped Сигнальный огонь
+[03/11/2023 18:46:30]
+  Супостат499 placed Military Mk-II Hardsuit (Bandit) in Шкаф для подводного снаряжения (ID: 537)
+[03/11/2023 18:46:32]
+  kynlan4ic unequipped Сигнальный огонь
+[03/11/2023 18:46:34]
+  kynlan4ic equipped Сигнальный огонь
+[03/11/2023 18:46:37]
+  kynlan4ic placed Судовой журнал in Пояс инструментов (ID: 6650)
+[03/11/2023 18:46:42]
+  igameCrog picked up Схема на базе ППВМ
+[03/11/2023 18:46:46]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:46:47]
+  kynlan4ic placed Судовой журнал in Хозяйственный шкаф (обломки) (ID: 5174)
+[03/11/2023 18:46:49]
+  Devin Maxwell started repairing Навигационный терминал
+[03/11/2023 18:46:52]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:46:53]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 18:47:00]
+  igameCrog started fabricating Схема на базе ППВМ in Фабрикатор
+[03/11/2023 18:47:05]
+  igameCrog placed Схема на базе ППВМ in Фабрикатор (ID: 437)
+[03/11/2023 18:47:06]
+  igameCrog placed Схема на базе ППВМ in Фабрикатор (ID: 437)
+[03/11/2023 18:47:12]
+  Супостат499 placed Light ballistic helmet in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:47:17]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 18:47:28]
+  Супостат499 placed Blueprint (5.45x39 ammunition) in Деконструктор (ID: 436)
+[03/11/2023 18:47:30]
+  Супостат499 placed Blueprint (5.45x39 ammunition) in Рюкзак (ID: 6684)
+[03/11/2023 18:47:43]
+  kynlan4ic placed Судовой журнал in Пояс инструментов (ID: 6650)
+[03/11/2023 18:47:43]
+  Информация о миссии: Данные извлечены - Журнал с зашифрованными данными найден. Доставьте его в Apep, чтобы получить награду.
+[03/11/2023 18:47:47]
+  Супостат499 placed Blueprint (PDW-323E) in Деконструктор (ID: 436)
+[03/11/2023 18:47:47]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:47:49]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:47:49]
+  Супостат499 placed Blueprint (PDW-323E) in Рюкзак (ID: 6684)
+[03/11/2023 18:47:53]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:47:56]
+  Супостат499 placed Blueprint (PDW-323E) in Фабрикатор (ID: 437)
+[03/11/2023 18:47:58]
+  Супостат499 picked up Схема на базе ППВМ
+[03/11/2023 18:47:58]
+  Супостат499 picked up Схема на базе ППВМ
+[03/11/2023 18:48:00]
+  Супостат499 picked up Blueprint (PDW-323E)
+[03/11/2023 18:48:03]
+  Супостат499 placed Схема на базе ППВМ in Фабрикатор (ID: 437)
+[03/11/2023 18:48:03]
+  Супостат499 placed Схема на базе ППВМ in Фабрикатор (ID: 437)
+[03/11/2023 18:48:05]
+  kynlan4ic dropped Сигнальный огонь
+[03/11/2023 18:48:06]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 18:48:07]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 454)
+[03/11/2023 18:48:08]
+  kynlan4ic closed Дверь с кнопками
+[03/11/2023 18:48:08]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 18:48:10]
+  kynlan4ic dropped Удостоверение с места кораблекрушения
+[03/11/2023 18:48:14]
+  kynlan4ic picked up Удостоверение с места кораблекрушения
+[03/11/2023 18:48:18]
+  Супостат499 started fabricating Текстовый экран in Фабрикатор
+[03/11/2023 18:48:20]
+  kynlan4ic dropped Удостоверение с места кораблекрушения
+[03/11/2023 18:48:22]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 18:48:26]
+  Супостат499 picked up TOZ Shaitan
+[03/11/2023 18:48:28]
+  kynlan4ic placed Лом in Хозяйственный шкаф (ID: 690)
+[03/11/2023 18:48:29]
+  Супостат499 placed 12-Gauge Shell in TOZ Shaitan (ID: 6598)
+[03/11/2023 18:48:29]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 18:48:30]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 18:48:30]
+  Devin Maxwell started repairing Фабрикатор
+[03/11/2023 18:48:31]
+  Супостат499 equipped Blueprint (PDW-323E)
+[03/11/2023 18:48:31]
+  Супостат499 equipped TOZ Shaitan
+[03/11/2023 18:48:35]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 18:48:36]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 18:48:47]
+  kynlan4ic placed Судовой журнал in Хозяйственный шкаф (ID: 693)
+[03/11/2023 18:48:54]
+  Супостат499 placed Топливный стержень in Рюкзак (ID: 6684)
+[03/11/2023 18:48:57]
+  Супостат499 placed Топливный стержень in Рюкзак (ID: 6684)
+[03/11/2023 18:48:57]
+  Супостат499 removed Топливный стержень from Рюкзак (ID: 6684)
+[03/11/2023 18:48:57]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 409)
+[03/11/2023 18:48:59]
+  Супостат499 adjusted reactor settings: Temperature: 4523, Fission rate: 87, Turbine output: 100, Autotemp OFF
+[03/11/2023 18:49:00]
+  Супостат499 adjusted reactor settings: Temperature: 5540, Fission rate: 80, Turbine output: 100, Autotemp OFF
+[03/11/2023 18:49:01]
+  Супостат499 adjusted reactor settings: Temperature: 6307, Fission rate: 44, Turbine output: 100, Autotemp OFF
+[03/11/2023 18:49:02]
+  igameCrog picked up Текстовый экран
+[03/11/2023 18:49:02]
+  Супостат499 adjusted reactor settings: Temperature: 5307, Fission rate: 38, Turbine output: 100, Autotemp OFF
+[03/11/2023 18:49:03]
+  Супостат499 adjusted reactor settings: Temperature: 4307, Fission rate: 43, Turbine output: 100, Autotemp OFF
+[03/11/2023 18:49:04]
+  Супостат499 adjusted reactor settings: Temperature: 4047, Fission rate: 48, Turbine output: 100, Autotemp ON
+[03/11/2023 18:49:05]
+  igameCrog equipped Текстовый экран
+[03/11/2023 18:49:06]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:49:07]
+  Супостат499 removed Топливный стержень from Рюкзак (ID: 6684)
+[03/11/2023 18:49:08]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:49:10]
+  Супостат499 placed Топливный стержень in Рюкзак (ID: 6684)
+[03/11/2023 18:49:12]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:49:13]
+  Супостат499 placed Топливный стержень in Рюкзак (ID: 6684)
+[03/11/2023 18:49:13]
+  Супостат499 removed Топливный стержень from Рюкзак (ID: 6684)
+[03/11/2023 18:49:13]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 409)
+[03/11/2023 18:49:13]
+  Lionel Mungo equipped Топливный стержень
+[03/11/2023 18:49:15]
+  Супостат499 removed Топливный стержень from Рюкзак (ID: 6684)
+[03/11/2023 18:49:21]
+  Lionel Mungo equipped Топливный стержень
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:25]
+  Супостат499 placed Хлам in Деконструктор (ID: 436)
+[03/11/2023 18:49:26]
+  Супостат499 activated Деконструктор
+[03/11/2023 18:49:29]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 18:49:38]
+  igameCrog connected a wire to Текстовый экран (set_text)
+[03/11/2023 18:49:48]
+  igameCrog connected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 18:49:57]
+  igameCrog disconnected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 18:49:57]
+  igameCrog connected a wire from Терминал (signal_in) to Текстовый экран (set_text)
+[03/11/2023 18:49:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:49:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:09]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:50:10]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:50:12]
+  igameCrog disconnected a wire from Терминал (signal_in) to Текстовый экран (set_text)
+[03/11/2023 18:50:14]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:50:16]
+  igameCrog disconnected a wire from Текстовый экран (set_text)
+[03/11/2023 18:50:16]
+  igameCrog picked up Коричневый провод
+[03/11/2023 18:50:20]
+  Супостат499 placed Blueprint (PDW-323E) in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:50:22]
+  Супостат499 placed Blueprint (5.45x39 ammunition) in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:50:24]
+  Супостат499 placed Blueprint (DVL-16 Vimpel) in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:50:27]
+  Супостат499 placed 12-Gauge Shell in TOZ Shaitan (ID: 6598)
+[03/11/2023 18:50:30]
+  igameCrog unequipped Текстовый экран
+[03/11/2023 18:50:30]
+  igameCrog detached Текстовый экран from a wall
+[03/11/2023 18:50:32]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 6684)
+[03/11/2023 18:50:35]
+  igameCrog disconnected a wire from Терминал (signal_in) to Ядерный реактор (load_value_out)
+[03/11/2023 18:50:36]
+  igameCrog disconnected a wire from Терминал (signal_in) to Ядерный реактор (power_value_out)
+[03/11/2023 18:50:41]
+  Супостат499 placed Торий in Контейнер для хранения (ID: 1871)
+[03/11/2023 18:50:41]
+  igameCrog disconnected a wire from Ядерный реактор (load_value_out)
+[03/11/2023 18:50:41]
+  igameCrog picked up Коричневый провод
+[03/11/2023 18:50:44]
+  igameCrog disconnected a wire from Ядерный реактор (power_value_out)
+[03/11/2023 18:50:44]
+  igameCrog picked up Коричневый провод
+[03/11/2023 18:50:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:51]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/11/2023 18:50:51]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:53]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:53]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Outer wall breached by Bonethresher
+[03/11/2023 18:50:54]
+  Outer wall breached by Bonethresher
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  igameCrog unequipped Терминал
+[03/11/2023 18:50:54]
+  igameCrog detached Терминал from a wall
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:54]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:50:54]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  Lionel Mungo: Электрика: все протечки устранены!
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:55]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Devin Maxwell: Мне нужно подводное снаряжение!
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Lionel Mungo: Надо найти водолазный скафандр!
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/11/2023 18:50:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:56]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:57]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:57]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:58]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:58]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:50:59]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:50:59]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:01]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:02]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:02]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:03]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:04]
+  Outer wall breached by kynlan4ic
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:06]
+  Bonethresher has died (Cause of death: Рваная рана)
+[03/11/2023 18:51:06]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:51:06]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:51:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:06]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:51:06]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 0.9 Кровотечение: 0.1
+[03/11/2023 18:51:06]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8

@@ -1,0 +1,24 @@
+﻿[11/01/2022 21:56:17]
+  igameCrog connected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/01/2022 21:56:27]
+  igameCrog disconnected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:27]
+  igameCrog connected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:29]
+  igameCrog disconnected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:29]
+  igameCrog connected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:48]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 21:56:52]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 21:56:56]
+  Chance Hines equipped Отвертка
+[11/01/2022 21:56:57]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 21:56:57]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 21:56:57]
+  kynlan4ic docked Barsuk to Жилой аванпост Tyre
+[11/01/2022 21:56:57]
+  Ending the round...

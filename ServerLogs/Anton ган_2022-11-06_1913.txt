@@ -1,0 +1,694 @@
+﻿[11/06/2022 19:04:27]
+  igameCrog turned off Малый насос
+[11/06/2022 19:04:28]
+  igameCrog turned on Малый насос
+[11/06/2022 19:04:29]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[11/06/2022 19:04:29]
+  igameCrog set the pumping speed of Малый насос to -80 %
+[11/06/2022 19:04:29]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[11/06/2022 19:04:30]
+  igameCrog set the pumping speed of Малый насос to -60 %
+[11/06/2022 19:04:31]
+  igameCrog set the pumping speed of Малый насос to -30 %
+[11/06/2022 19:04:31]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[11/06/2022 19:04:31]
+  igameCrog set the pumping speed of Малый насос to -30 %
+[11/06/2022 19:04:31]
+  igameCrog set the pumping speed of Малый насос to -40 %
+[11/06/2022 19:04:42]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:04:44]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:04:53]
+  Darius Radice: Где кислородные баллоны?
+[11/06/2022 19:04:54]
+  Darius Radice: Почти все кислородные баллоны на подлодке пусты! Мы можем подключить пустые баллоны к генератору кислорода для заправки?
+[11/06/2022 19:05:03]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:05:04]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:05:15]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:05:17]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:05:17]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:05:18]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:05:18]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:05:19]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:05:19]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:05:20]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:05:22]
+  kynlan4ic placed Кислородный баллон in Human
+[11/06/2022 19:05:22]
+  igameCrog set the pumping speed of Малый насос to -60 %
+[11/06/2022 19:05:23]
+  igameCrog set the pumping speed of Малый насос to -70 %
+[11/06/2022 19:05:23]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[11/06/2022 19:05:24]
+  Darius Radice: Мне нужен кислород!
+[11/06/2022 19:05:25]
+  kynlan4ic placed Кислородный баллон in Human
+[11/06/2022 19:05:25]
+  igameCrog turned off Малый насос
+[11/06/2022 19:05:26]
+  Darius Radice: Не могу найти кислородные баллоны!
+[11/06/2022 19:05:26]
+  Harlan Aguilar: Надо найти водолазный скафандр!
+[11/06/2022 19:05:27]
+  Freeman Fleig: Мне нужно подводное снаряжение!
+[11/06/2022 19:05:27]
+  Freeman Fleig: Меняем кислородные баллоны!
+[11/06/2022 19:05:27]
+  Freeman Fleig: У меня этот кислородный баллон – последний.
+[11/06/2022 19:05:28]
+  kynlan4ic placed Кислородный баллон in Human
+[11/06/2022 19:05:28]
+  Adan Beltran: Меняем кислородные баллоны!
+[11/06/2022 19:05:28]
+  Adan Beltran: У меня этот кислородный баллон – последний.
+[11/06/2022 19:05:29]
+  Darius Radice: Мне нужно подводное снаряжение!
+[11/06/2022 19:05:29]
+  Harlan Aguilar: Меняем кислородные баллоны!
+[11/06/2022 19:05:29]
+  Harlan Aguilar: У меня этот кислородный баллон – последний.
+[11/06/2022 19:05:30]
+  Todd Parchman: Где кислородные баллоны?
+[11/06/2022 19:05:32]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:05:32]
+  igameCrog failed to repair Батарея
+[11/06/2022 19:05:32]
+  Adan Beltran: Надо найти водолазный скафандр!
+[11/06/2022 19:05:33]
+  Elliana Bergman has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:05:33]
+  Adan Beltran: Где кислородные баллоны?
+[11/06/2022 19:05:33]
+  Adan Beltran: Не могу найти кислородные баллоны!
+[11/06/2022 19:05:37]
+  igameCrog failed to repair Батарея
+[11/06/2022 19:05:43]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:05:43]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:05:46]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:05:47]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:05:47]
+  Darius Radice: Я теряю сознание!
+[11/06/2022 19:05:48]
+  rus7ak has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:05:50]
+  Todd Parchman opened Настраиваемая дверь
+[11/06/2022 19:05:50]
+  Todd Parchman closed Настраиваемая дверь
+[11/06/2022 19:05:50]
+  Todd Parchman closed Настраиваемая дверь
+[11/06/2022 19:05:50]
+  Todd Parchman opened Настраиваемая дверь
+[11/06/2022 19:05:51]
+  Todd Parchman closed Настраиваемая дверь
+[11/06/2022 19:05:51]
+  Todd Parchman opened Настраиваемая дверь
+[11/06/2022 19:05:51]
+  igameCrog started repairing Батарея
+[11/06/2022 19:05:53]
+  Adan Beltran: Я теряю сознание!
+[11/06/2022 19:05:53]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:53]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:54]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:54]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:54]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:54]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 19:05:55]
+  Todd Parchman equipped Кислородный баллон
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:55]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:55]
+  igameCrog started repairing Батарея
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:56]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Freeman Fleig: Мне нужен кислородный баллон!
+[11/06/2022 19:05:57]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran closed Настраиваемая дверь
+[11/06/2022 19:05:57]
+  Adan Beltran opened Настраиваемая дверь
+[11/06/2022 19:06:00]
+  kynlan4ic placed Кислородный баллон in Human
+[11/06/2022 19:06:01]
+  Todd Parchman unequipped Кислородный баллон
+[11/06/2022 19:06:01]
+  Todd Parchman equipped Отвертка
+[11/06/2022 19:06:01]
+  Todd Parchman: Надо найти водолазный скафандр!
+[11/06/2022 19:06:02]
+  Harlan Aguilar: Надо найти кислородный баллон!
+[11/06/2022 19:06:03]
+  Todd Parchman opened Настраиваемая дверь
+[11/06/2022 19:06:03]
+  Todd Parchman closed Настраиваемая дверь
+[11/06/2022 19:06:03]
+  Todd Parchman closed Настраиваемая дверь
+[11/06/2022 19:06:03]
+  Todd Parchman opened Настраиваемая дверь
+[11/06/2022 19:06:05]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:06:05]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:06:06]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:06:06]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:06:09]
+  Todd Parchman: Меняем кислородные баллоны!
+[11/06/2022 19:06:09]
+  Todd Parchman: У меня больше нет кислородных баллонов, кроме этого.
+[11/06/2022 19:06:11]
+  kynlan4ic placed Кислородный баллон in Human
+[11/06/2022 19:06:13]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:06:15]
+  Harlan Aguilar closed Настраиваемая дверь
+[11/06/2022 19:06:15]
+  Harlan Aguilar opened Настраиваемая дверь
+[11/06/2022 19:06:15]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 19:06:15]
+  Todd Parchman equipped Кислородный баллон
+[11/06/2022 19:06:17]
+  Harlan Aguilar closed Настраиваемая дверь
+[11/06/2022 19:06:17]
+  Harlan Aguilar opened Настраиваемая дверь
+[11/06/2022 19:06:18]
+  Harlan Aguilar: Надо найти водолазный скафандр!
+[11/06/2022 19:06:20]
+  Todd Parchman equipped Отвертка
+[11/06/2022 19:06:27]
+  Freeman Fleig: Мне нужен кислородный баллон!
+[11/06/2022 19:06:30]
+  Freeman Fleig: Не могу найти кислородные баллоны!
+[11/06/2022 19:06:32]
+  Harlan Aguilar: Не могу найти кислородные баллоны!
+[11/06/2022 19:06:32]
+  Harlan Aguilar: Надо найти кислородный баллон!
+[11/06/2022 19:06:33]
+  Freeman Fleig: Мне нужно подводное снаряжение!
+[11/06/2022 19:06:35]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 2501)
+[11/06/2022 19:06:36]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:06:36]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:06:37]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 19:06:39]
+  igameCrog picked up Водолазный скафандр
+[11/06/2022 19:06:41]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 19:06:41]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:06:42]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 2501)
+[11/06/2022 19:06:44]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3149)
+[11/06/2022 19:06:47]
+  Freeman Fleig: Почти все кислородные баллоны на подлодке пусты! Мы можем подключить пустые баллоны к генератору кислорода для заправки?
+[11/06/2022 19:06:48]
+  Harlan Aguilar: Почти все кислородные баллоны на подлодке пусты! Мы можем подключить пустые баллоны к генератору кислорода для заправки?
+[11/06/2022 19:06:48]
+  Harlan Aguilar: Мне нужно подводное снаряжение!
+[11/06/2022 19:06:49]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:06:50]
+  Freeman Fleig: Задыхаюсь.
+[11/06/2022 19:06:50]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:06:50]
+  Harlan Aguilar: Я теряю сознание!
+[11/06/2022 19:06:54]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:06:54]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 19:06:55]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:06:58]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:06:58]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:06:58]
+  Dispatching the respawn shuttle.
+[11/06/2022 19:06:58]
+  Respawning rus7ak (STEAM_1:0:605122191) as Врач
+[11/06/2022 19:06:58]
+  Respawning bot Elliana Bergman as Врач
+[11/06/2022 19:06:59]
+  Respawning bot Gerard Suarez as Офицер службы безопасности
+[11/06/2022 19:07:03]
+  rus7ak set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:07:05]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 2431)
+[11/06/2022 19:07:05]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 2431)
+[11/06/2022 19:07:06]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:07:06]
+  Darius Radice has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:07:10]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 3135)
+[11/06/2022 19:07:13]
+  Adan Beltran has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:07:15]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 19:07:26]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 19:07:43]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 19:07:59]
+  kynlan4ic equipped Вещмешок
+[11/06/2022 19:08:01]
+  kynlan4ic dropped Вещмешок
+[11/06/2022 19:08:05]
+  kynlan4ic picked up Топливный стержень
+[11/06/2022 19:08:05]
+  kynlan4ic picked up Топливный стержень
+[11/06/2022 19:08:07]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/06/2022 19:08:08]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/06/2022 19:08:11]
+  Freeman Fleig has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:08:13]
+  Harlan Aguilar has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:08:21]
+  kynlan4ic picked up Подводный скутер
+[11/06/2022 19:08:23]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:08:28]
+  Elliana Bergman: Ты не задумываешься о том, что же произошло с теми, кто построил эти руины?
+[11/06/2022 19:08:29]
+  igameCrog picked up Водолазный скафандр
+[11/06/2022 19:08:34]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:08:35]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:08:35]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:08:37]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:08:37]
+  kynlan4ic equipped Подводный скутер
+[11/06/2022 19:08:37]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:08:38]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:08:39]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:08:44]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:08:45]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:08:46]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:08:47]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:08:48]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:08:55]
+  igameCrog turned on Малый насос
+[11/06/2022 19:08:57]
+  Todd Parchman: Надо найти огнетушитель!
+[11/06/2022 19:08:58]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 19:08:58]
+  Todd Parchman equipped Огнетушитель
+[11/06/2022 19:09:03]
+  igameCrog started repairing Батарея
+[11/06/2022 19:09:04]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:09:05]
+  Todd Parchman: Надо найти кислородный баллон!
+[11/06/2022 19:09:05]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:09:07]
+  igameCrog started repairing Батарея
+[11/06/2022 19:09:09]
+  igameCrog started repairing Батарея
+[11/06/2022 19:09:12]
+  Todd Parchman: Почти все кислородные баллоны на подлодке пусты! Мы можем подключить пустые баллоны к генератору кислорода для заправки?
+[11/06/2022 19:09:19]
+  igameCrog failed to repair Батарея
+[11/06/2022 19:09:27]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:09:29]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:09:29]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:09:33]
+  igameCrog started repairing Батарея
+[11/06/2022 19:09:35]
+  Todd Parchman: Надо найти кислородный баллон!
+[11/06/2022 19:09:38]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:09:38]
+  igameCrog started repairing Батарея
+[11/06/2022 19:09:41]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:09:41]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:09:43]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:09:45]
+  Todd Parchman: Мне нужно подводное снаряжение!
+[11/06/2022 19:09:47]
+  Todd Parchman equipped Отвертка
+[11/06/2022 19:09:49]
+  kynlan4ic removed Кислородный баллон from Водолазный скафандр (ID: 3153)
+[11/06/2022 19:09:51]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 2501)
+[11/06/2022 19:09:52]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3153)
+[11/06/2022 19:09:54]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:09:57]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:09:59]
+  igameCrog picked up Водолазный скафандр
+[11/06/2022 19:10:00]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:10:02]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:10:05]
+  kynlan4ic picked up Топливный стержень
+[11/06/2022 19:10:07]
+  Todd Parchman: Задыхаюсь.
+[11/06/2022 19:10:08]
+  kynlan4ic equipped Топливный стержень
+[11/06/2022 19:10:08]
+  kynlan4ic picked up Топливный стержень
+[11/06/2022 19:10:08]
+  kynlan4ic equipped Топливный стержень
+[11/06/2022 19:10:08]
+  kynlan4ic picked up Топливный стержень
+[11/06/2022 19:10:10]
+  Todd Parchman: Где кислородные баллоны?
+[11/06/2022 19:10:11]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[11/06/2022 19:10:11]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[11/06/2022 19:10:12]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:10:12]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:10:13]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:10:15]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/06/2022 19:10:16]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 2501)
+[11/06/2022 19:10:23]
+  kynlan4ic adjusted reactor settings: Temperature: 5113, Fission rate: 16, Turbine output: 24, Autotemp OFF
+[11/06/2022 19:10:25]
+  kynlan4ic adjusted reactor settings: Temperature: 5228, Fission rate: 16, Turbine output: 25, Autotemp OFF
+[11/06/2022 19:10:26]
+  kynlan4ic adjusted reactor settings: Temperature: 5062, Fission rate: 14, Turbine output: 25, Autotemp OFF
+[11/06/2022 19:10:27]
+  kynlan4ic adjusted reactor settings: Temperature: 4232, Fission rate: 6, Turbine output: 25, Autotemp OFF
+[11/06/2022 19:10:28]
+  kynlan4ic adjusted reactor settings: Temperature: 3665, Fission rate: 20, Turbine output: 25, Autotemp OFF
+[11/06/2022 19:10:29]
+  kynlan4ic adjusted reactor settings: Temperature: 4665, Fission rate: 21, Turbine output: 25, Autotemp OFF
+[11/06/2022 19:10:30]
+  kynlan4ic adjusted reactor settings: Temperature: 5665, Fission rate: 24, Turbine output: 25, Autotemp OFF
+[11/06/2022 19:10:31]
+  igameCrog started repairing Батарея
+[11/06/2022 19:10:33]
+  rus7ak docked Venture to Remora
+[11/06/2022 19:10:34]
+  rus7ak undocked Venture from Remora
+[11/06/2022 19:10:36]
+  igameCrog started repairing Батарея
+[11/06/2022 19:10:38]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:10:38]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:10:38]
+  igameCrog started repairing Батарея
+[11/06/2022 19:10:40]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:10:45]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:10:52]
+  Reactor meltdown!
+[11/06/2022 19:10:52]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[11/06/2022 19:10:53]
+  igameCrog turned off Малый насос
+[11/06/2022 19:10:57]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:10:58]
+  igameCrog turned off Малый насос
+[11/06/2022 19:11:05]
+  igameCrog turned on Малый насос
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -60 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -50 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -40 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -30 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[11/06/2022 19:11:06]
+  igameCrog set the pumping speed of Малый насос to 0 %
+[11/06/2022 19:11:07]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[11/06/2022 19:11:07]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[11/06/2022 19:11:08]
+  igameCrog turned off Малый насос
+[11/06/2022 19:11:11]
+  igameCrog turned on Малый насос
+[11/06/2022 19:11:12]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[11/06/2022 19:11:12]
+  igameCrog set the pumping speed of Малый насос to -50 %
+[11/06/2022 19:11:12]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[11/06/2022 19:11:12]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[11/06/2022 19:11:12]
+  igameCrog set the pumping speed of Малый насос to -30 %
+[11/06/2022 19:11:13]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[11/06/2022 19:11:14]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[11/06/2022 19:11:18]
+  igameCrog turned off Малый насос
+[11/06/2022 19:11:22]
+  igameCrog turned on Малый насос
+[11/06/2022 19:11:23]
+  igameCrog set the pumping speed of Малый насос to -40 %
+[11/06/2022 19:11:23]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[11/06/2022 19:11:24]
+  igameCrog turned off Малый насос
+[11/06/2022 19:11:26]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:11:26]
+  igameCrog turned on Малый насос
+[11/06/2022 19:11:26]
+  Todd Parchman has died (Cause of death: Нехватка кислорода)
+[11/06/2022 19:11:27]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[11/06/2022 19:11:27]
+  igameCrog set the pumping speed of Малый насос to -70 %
+[11/06/2022 19:11:27]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[11/06/2022 19:11:27]
+  igameCrog turned off Малый насос
+[11/06/2022 19:11:28]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:11:31]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:11:40]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:11:41]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:11:50]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:11:51]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:11:58]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:12:02]
+  igameCrog turned on Малый насос
+[11/06/2022 19:12:14]
+  kynlan4ic equipped Дробовик
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:32]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:33]
+  rus7ak attacked by kynlan4ic. Огнестрельная рана: 3.6 Кровотечение: 4.5 Оглушение: 0.1
+[11/06/2022 19:12:42]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:12:49]
+  rus7ak has died (Cause of death: Огнестрельная рана)
+[11/06/2022 19:13:07]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:13:07]
+  Gerard Suarez: Надо найти водолазный скафандр!
+[11/06/2022 19:13:08]
+  Elliana Bergman: Надо найти водолазный скафандр!
+[11/06/2022 19:13:08]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:13:09]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:13:16]
+  kynlan4ic picked up Ручной сонар
+[11/06/2022 19:13:20]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:13:30]
+  kynlan4ic equipped Ручной сонар
+[11/06/2022 19:13:41]
+  Ending round (a traitor completed their mission)
+[11/06/2022 19:13:41]
+  Ending the round...

@@ -1,0 +1,376 @@
+﻿[03/11/2023 14:41:39]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:41:39]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:42:41]
+  kynlan4ic: Lionel Mungo, займись механическими приборами!
+[03/11/2023 14:42:42]
+  kynlan4ic: Devin Maxwell, займись поврежденными устройствами!
+[03/11/2023 14:42:42]
+  kynlan4ic: Devin Maxwell, займись электроприборами!
+[03/11/2023 14:42:42]
+  Lionel Mungo: Само собой!
+[03/11/2023 14:42:42]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:42:43]
+  Devin Maxwell: Принято.
+[03/11/2023 14:42:43]
+  Devin Maxwell: Так точно!
+[03/11/2023 14:42:44]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:42:46]
+  Lionel Mungo started repairing Малый насос
+[03/11/2023 14:42:48]
+  Devin Maxwell started repairing Ядерный реактор
+[03/11/2023 14:42:49]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:42:57]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:43:03]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:43:08]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:43:10]
+  kynlan4ic picked up Инопланетный пистолет
+[03/11/2023 14:43:17]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 216)
+[03/11/2023 14:43:17]
+  kynlan4ic removed Кислородный баллон from Плазменный резак (ID: 216)
+[03/11/2023 14:43:17]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 425)
+[03/11/2023 14:43:20]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:43:25]
+  kynlan4ic equipped Инопланетный пистолет
+[03/11/2023 14:43:27]
+  Hammerheadspawn attacked by kynlan4ic. Damage Vulnerability: 15.0 Оглушение: 0.6
+[03/11/2023 14:43:32]
+  kynlan4ic equipped Нож ныряльщика
+[03/11/2023 14:43:33]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:43:33]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:43:33]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:43:34]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:43:34]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:43:34]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:43:34]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:43:39]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:43:40]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:43:41]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:43:42]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:42]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:43]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:43]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:45]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:50]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:43:57]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:43:57]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:43:57]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:43:57]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:44:01]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:44:02]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:44:08]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:44:08]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:44:08]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:44:11]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:44:12]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:44:12]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:44:12]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:44:13]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:44:13]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:44:13]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:44:17]
+  Devin Maxwell started repairing Навигационный терминал
+[03/11/2023 14:44:17]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:44:20]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:44:21]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:44:22]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:44:24]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:44:30]
+  kynlan4ic placed Магазин для ПП in Защищенный стальной шкаф (ID: 707)
+[03/11/2023 14:44:31]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:44:32]
+  kynlan4ic placed Магазин для ПП in Пояс инструментов (ID: 7998)
+[03/11/2023 14:44:35]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:44:39]
+  kynlan4ic placed Инопланетный пистолет in Защищенный стальной шкаф (ID: 707)
+[03/11/2023 14:44:44]
+  kynlan4ic picked up Подводный скутер
+[03/11/2023 14:44:46]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:45:00]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:00]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:02]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:02]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:06]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:06]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:31]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:45:31]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:45:40]
+  kynlan4ic used item Морфин
+[03/11/2023 14:45:46]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:45:48]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:45:49]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:45:51]
+  kynlan4ic closed Дверь с кнопками
+[03/11/2023 14:45:51]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:45:53]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:45:58]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:45:58]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:45:58]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:45:58]
+  Lionel Mungo started repairing Насос
+[03/11/2023 14:46:05]
+  kynlan4ic closed Дверь с кнопками
+[03/11/2023 14:46:06]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:46:08]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:46:11]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:46:19]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:46:24]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:46:29]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:46:30]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:46:32]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:46:32]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:46:32]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:46:49]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:46:49]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:46:49]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:47:17]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:17]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:24]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:24]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:36]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:47:38]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:47:38]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:47:40]
+  kynlan4ic placed Кварц in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:40]
+  kynlan4ic placed Кварц in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:40]
+  kynlan4ic placed Кварц in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:41]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 14:47:45]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:47:45]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:47:51]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/11/2023 14:47:58]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:48:06]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:48:07]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:48:13]
+  kynlan4ic placed Магазин для ПП in Пояс инструментов (ID: 7998)
+[03/11/2023 14:48:13]
+  kynlan4ic removed Магазин для ПП from Пояс инструментов (ID: 7998)
+[03/11/2023 14:48:13]
+  kynlan4ic placed Магазин для ПП in Пистолет-пулемет (ID: 8018)
+[03/11/2023 14:48:13]
+  Lionel Mungo started repairing Двигатель
+[03/11/2023 14:48:17]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:48:40]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:48:54]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:48:59]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:49:04]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:49:43]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:49:46]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:49:51]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:49:54]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:49:57]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:49:58]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:50:01]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:50:03]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:50:05]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 470)
+[03/11/2023 14:50:06]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 470)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:21]
+  kynlan4ic placed Кварц in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:21]
+  kynlan4ic placed Кварц in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:21]
+  kynlan4ic placed Кварц in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:51:30]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:51:32]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:51:36]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:51:49]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:51:52]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:51:56]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 490 experience (4490 -> 4980)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 490 experience (3986 -> 4476)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 490 experience (3911 -> 4401)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 490 experience (2793 -> 3283)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 526 experience (4311 -> 4837)
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 343 experience (4980 -> 5323)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 343 experience (4476 -> 4819)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 343 experience (4401 -> 4744)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 343 experience (3283 -> 3626)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 368 experience (4837 -> 5205)
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 343 experience (5323 -> 5666)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 343 experience (4819 -> 5162)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 343 experience (4744 -> 5087)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 343 experience (3626 -> 3969)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 368 experience (5205 -> 5573)
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 215 experience (5666 -> 5881)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 279 experience (5162 -> 5441)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 215 experience (5087 -> 5302)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 215 experience (3969 -> 4184)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 231 experience (5573 -> 5804)
+[03/11/2023 14:52:11]
+  Ending the round...

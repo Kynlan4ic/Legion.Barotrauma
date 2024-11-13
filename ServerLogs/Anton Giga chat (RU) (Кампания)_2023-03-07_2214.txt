@@ -1,0 +1,1176 @@
+﻿[03/07/2023 21:52:34]
+  StreaK picked up Топливный бак сварочного аппарата
+[03/07/2023 21:52:34]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:52:34]
+  malenkay.old (as ???) placed Отвертка in Пояс инструментов (ID: 3696)
+[03/07/2023 21:52:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:36]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:52:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:37]
+  malenkay.old (as ???) placed Гаечный ключ in Пояс инструментов (ID: 3696)
+[03/07/2023 21:52:40]
+  igameCrog equipped Выключатель
+[03/07/2023 21:52:40]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:41]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:41]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:42]
+  Bennie Tootle: Надо найти водолазный скафандр!
+[03/07/2023 21:52:44]
+  igameCrog attached Выключатель to a wall
+[03/07/2023 21:52:44]
+  Colonel equipped Сварочный аппарат
+[03/07/2023 21:52:50]
+  malenkay.old (as ???) picked up Водолазный скафандр
+[03/07/2023 21:52:50]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:50]
+  igameCrog connected a wire to Выключатель (signal_out)
+[03/07/2023 21:52:50]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:52]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:52]
+  Outer wall repaired by Bennie Tootle
+[03/07/2023 21:52:52]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:52]
+  Bennie Tootle: Верхняя средняя часть: протечек не осталось!
+[03/07/2023 21:52:52]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:52:52]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:53]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:55]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:52:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:52:59]
+  Bennie Tootle unequipped Сварочный аппарат
+[03/07/2023 21:52:59]
+  Bennie Tootle equipped Сварочный аппарат
+[03/07/2023 21:53:00]
+  igameCrog connected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/07/2023 21:53:00]
+  vlad32 picked up Гаечный ключ
+[03/07/2023 21:53:00]
+  Bennie Tootle unequipped Сварочный аппарат
+[03/07/2023 21:53:00]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:53:01]
+  vlad32 picked up Отвертка
+[03/07/2023 21:53:01]
+  Colonel picked up Водолазный скафандр
+[03/07/2023 21:53:02]
+  vlad32 equipped Отвертка
+[03/07/2023 21:53:02]
+  vlad32 equipped Гаечный ключ
+[03/07/2023 21:53:02]
+  Outer wall breached by Crawler
+[03/07/2023 21:53:02]
+  Bennie Tootle started repairing Батарея
+[03/07/2023 21:53:05]
+  Colonel unequipped Сварочный аппарат
+[03/07/2023 21:53:05]
+  Colonel equipped Водолазный скафандр
+[03/07/2023 21:53:07]
+  Colonel placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[03/07/2023 21:53:08]
+  Outer wall breached by Crawler
+[03/07/2023 21:53:09]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:53:09]
+  Bennie Tootle equipped Сварочный аппарат
+[03/07/2023 21:53:10]
+  Outer wall breached by Crawler
+[03/07/2023 21:53:12]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/07/2023 21:53:12]
+  Супостат499 picked up Ящик с боеприпасами для магнитной пушки
+[03/07/2023 21:53:13]
+  StreaK picked up Топливный бак сварочного аппарата
+[03/07/2023 21:53:13]
+  StreaK dropped Топливный бак сварочного аппарата
+[03/07/2023 21:53:13]
+  StreaK placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3604)
+[03/07/2023 21:53:13]
+  Outer wall repaired by Bennie Tootle
+[03/07/2023 21:53:14]
+  Outer wall breached by Crawler
+[03/07/2023 21:53:16]
+  Outer wall repaired by StreaK
+[03/07/2023 21:53:16]
+  malenkay.old (as ???) equipped Сварочный аппарат
+[03/07/2023 21:53:17]
+  Супостат499 placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 146)
+[03/07/2023 21:53:19]
+  Colonel equipped Водолазный скафандр
+[03/07/2023 21:53:21]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:21]
+  Outer wall repaired by Bennie Tootle
+[03/07/2023 21:53:21]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:21]
+  Colonel placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 4)
+[03/07/2023 21:53:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:24]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:24]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:24]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:24]
+  Bennie Tootle unequipped Сварочный аппарат
+[03/07/2023 21:53:24]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:53:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:25]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:26]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:26]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:26]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:26]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:26]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 21:53:26]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:26]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:27]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:27]
+  Crawler has died (Cause of death: Рваная рана)
+[03/07/2023 21:53:27]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:27]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:28]
+  Outer wall breached by Crawler
+[03/07/2023 21:53:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:28]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:28]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:28]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:29]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:29]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:29]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:30]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:30]
+  Crawler has died (Cause of death: Рваная рана)
+[03/07/2023 21:53:30]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 21:53:30]
+  Информация о миссии: Цель уничтожена - Ползун уничтожен. Осталось получить награду на следующей станции.
+[03/07/2023 21:53:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 21:53:30]
+  Colonel equipped Водолазный скафандр
+[03/07/2023 21:53:34]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:53:34]
+  Bennie Tootle equipped Сварочный аппарат
+[03/07/2023 21:53:34]
+  Colonel placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 412)
+[03/07/2023 21:53:35]
+  Outer wall repaired by StreaK
+[03/07/2023 21:53:36]
+  Outer wall repaired by Bennie Tootle
+[03/07/2023 21:53:36]
+  Bennie Tootle: Медицинский отсек: все протечки устранены!
+[03/07/2023 21:53:38]
+  Bennie Tootle unequipped Сварочный аппарат
+[03/07/2023 21:53:38]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:53:40]
+  Супостат499 picked up Инопланетная кровь
+[03/07/2023 21:53:41]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 21:53:45]
+  Bennie Tootle started repairing Батарея
+[03/07/2023 21:53:47]
+  Супостат499 placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 21:53:49]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:49]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:50]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:53:50]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:50]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:51]
+  vlad32 placed Гаечный ключ in Защищенный стальной шкаф (ID: 303)
+[03/07/2023 21:53:51]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:51]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:52]
+  vlad32 placed Отвертка in Защищенный стальной шкаф (ID: 303)
+[03/07/2023 21:53:53]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:53]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:54]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:54]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:55]
+  Colonel placed Кислородный баллон in Пояс инструментов (ID: 3613)
+[03/07/2023 21:53:55]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:55]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:57]
+  Crawler attacked by malenkay.old (as ???). Рваная рана: 5.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/07/2023 21:53:57]
+  malenkay.old (as ???) used Шип шипостая on Crawler.
+[03/07/2023 21:53:59]
+  Colonel placed Кислородный баллон in Пояс инструментов (ID: 3613)
+[03/07/2023 21:54:02]
+  Супостат499 equipped Металлический ящик
+[03/07/2023 21:54:02]
+  StreaK placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 21:54:03]
+  malenkay.old (as ???) dropped Водолазный скафандр
+[03/07/2023 21:54:04]
+  Супостат499 dropped Металлический ящик
+[03/07/2023 21:54:04]
+  vlad32 picked up Аккумулятор
+[03/07/2023 21:54:05]
+  igameCrog equipped Металлический ящик
+[03/07/2023 21:54:07]
+  igameCrog dropped Металлический ящик
+[03/07/2023 21:54:08]
+  Супостат499 placed Инопланетная кровь in Аптечка (ID: 132)
+[03/07/2023 21:54:09]
+  Игрок кручусь в гробу присоединился к серверу.
+[03/07/2023 21:54:09]
+  Saving client permissions
+[03/07/2023 21:54:11]
+  igameCrog picked up Инопланетная кровь
+[03/07/2023 21:54:15]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 21:54:16]
+  vlad32 placed Аккумулятор in Батарея (ID: 576)
+[03/07/2023 21:54:17]
+  StreaK removed Кислородный баллон from Подводная маска (ID: 915)
+[03/07/2023 21:54:24]
+  malenkay.old (as ???) picked up Бейсболка
+[03/07/2023 21:54:29]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:54:29]
+  igameCrog disconnected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/07/2023 21:54:31]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 21:54:33]
+  igameCrog disconnected a wire from Выключатель (signal_out)
+[03/07/2023 21:54:33]
+  igameCrog picked up Коричневый провод
+[03/07/2023 21:54:35]
+  igameCrog connected a wire to Выключатель (signal_out)
+[03/07/2023 21:54:36]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:54:42]
+  Игрок ОБЖешник  присоединился к серверу.
+[03/07/2023 21:54:42]
+  Saving client permissions
+[03/07/2023 21:54:43]
+  igameCrog connected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/07/2023 21:54:46]
+  StreaK placed Кислородный баллон in Подводная маска (ID: 915)
+[03/07/2023 21:54:48]
+  Bennie Tootle equipped Гаечный ключ
+[03/07/2023 21:54:49]
+  Bennie Tootle started repairing Генератор кислорода
+[03/07/2023 21:54:53]
+  Bennie Tootle unequipped Гаечный ключ
+[03/07/2023 21:54:55]
+  Супостат499 picked up Водолазный скафандр
+[03/07/2023 21:54:55]
+  StreaK placed Подводная маска in Хозяйственный шкаф (ID: 449)
+[03/07/2023 21:54:56]
+  Супостат499 equipped Водолазный скафандр
+[03/07/2023 21:55:00]
+  Супостат499 picked up Кислородный баллон
+[03/07/2023 21:55:02]
+  Bennie Tootle equipped Гаечный ключ
+[03/07/2023 21:55:07]
+  malenkay.old (as ???) picked up Водолазный скафандр
+[03/07/2023 21:55:07]
+  StreaK dropped Кислородный баллон
+[03/07/2023 21:55:11]
+  Bennie Tootle started repairing Двигатель
+[03/07/2023 21:55:17]
+  Bennie Tootle unequipped Гаечный ключ
+[03/07/2023 21:55:17]
+  malenkay.old (as ???) placed Кислородный баллон in Водолазный скафандр (ID: 919)
+[03/07/2023 21:55:23]
+  Dispatching the respawn shuttle.
+[03/07/2023 21:55:23]
+  Respawning кручусь в гробу (STEAM_1:0:124546142) as Инженер
+[03/07/2023 21:55:24]
+  malenkay.old (as ???) placed Кислородный баллон in Подводная маска (ID: 3687)
+[03/07/2023 21:55:25]
+  кручусь в гробу set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:55:25]
+  StreaK picked up Кислородный баллон
+[03/07/2023 21:55:26]
+  StreaK picked up Кислородный баллон
+[03/07/2023 21:55:26]
+  Супостат499 picked up Подводный скутер
+[03/07/2023 21:55:26]
+  StreaK picked up Кислородный баллон
+[03/07/2023 21:55:28]
+  StreaK picked up Водолазный скафандр
+[03/07/2023 21:55:32]
+  StreaK picked up Подводный скутер
+[03/07/2023 21:55:42]
+  StreaK placed Отвертка in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 21:55:43]
+  StreaK placed Гаечный ключ in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 21:55:49]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:55:50]
+  Bennie Tootle started repairing Навигационный терминал
+[03/07/2023 21:55:54]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:56:01]
+  кручусь в гробу picked up Одноразовый водолазный скафандр
+[03/07/2023 21:56:24]
+  Игрок ОБЖешник  сменил имя на ОБЖешник.
+[03/07/2023 21:56:25]
+  vlad32 equipped Металлический ящик
+[03/07/2023 21:56:27]
+  vlad32 dropped Металлический ящик
+[03/07/2023 21:56:29]
+  Bennie Tootle equipped Кислородный баллон
+[03/07/2023 21:56:29]
+  Bennie Tootle equipped Сварочный аппарат
+[03/07/2023 21:56:29]
+  Bennie Tootle unequipped Сварочный аппарат
+[03/07/2023 21:56:33]
+  StreaK equipped Гидроксиапатит
+[03/07/2023 21:56:53]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:56:54]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 21:56:58]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:57:00]
+  кручусь в гробу docked Челнок R-170 to Dugong
+[03/07/2023 21:57:05]
+  The respawn shuttle is leaving.
+[03/07/2023 21:57:12]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:57:15]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 21:57:16]
+  кручусь в гробу dropped Одноразовый водолазный скафандр
+[03/07/2023 21:57:19]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:57:25]
+  kynlan4ic docked Dugong to Челнок R-170
+[03/07/2023 21:57:26]
+  Bennie Tootle: Мне холодно.
+[03/07/2023 21:57:27]
+  кручусь в гробу picked up Сварочный аппарат
+[03/07/2023 21:57:31]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 21:57:32]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 21:57:35]
+  кручусь в гробу equipped Сварочный аппарат
+[03/07/2023 21:57:36]
+  The respawn shuttle has left.
+[03/07/2023 21:57:37]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 21:57:46]
+  igameCrog dropped Металлический ящик
+[03/07/2023 21:57:47]
+  кручусь в гробу placed Топливный стержень in Средний стальной шкаф с окном (ID: 603)
+[03/07/2023 21:57:48]
+  Bennie Tootle equipped Кислородный баллон
+[03/07/2023 21:57:49]
+  кручусь в гробу equipped Отвертка
+[03/07/2023 21:58:00]
+  кручусь в гробу equipped Металлический ящик
+[03/07/2023 21:58:03]
+  кручусь в гробу dropped Металлический ящик
+[03/07/2023 21:58:25]
+  кручусь в гробу dropped Металлический ящик
+[03/07/2023 21:58:26]
+  Dispatching the respawn shuttle.
+[03/07/2023 21:58:26]
+  Respawning ОБЖешник (STEAM_1:0:721484170) as Инженер
+[03/07/2023 21:58:27]
+  ОБЖешник set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:58:31]
+  Супостат499 placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 21:58:32]
+  StreaK placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 21:58:33]
+  malenkay.old (as ???) placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 408)
+[03/07/2023 21:58:34]
+  StreaK picked up Гаечный ключ
+[03/07/2023 21:58:35]
+  StreaK picked up Отвертка
+[03/07/2023 21:58:36]
+  malenkay.old (as ???) placed Кислородный баллон in Пояс инструментов (ID: 3696)
+[03/07/2023 21:58:37]
+  igameCrog used item Морфин
+[03/07/2023 21:58:39]
+  Colonel placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 406)
+[03/07/2023 21:58:41]
+  StreaK picked up Кислородный баллон
+[03/07/2023 21:58:43]
+  StreaK dropped Водолазный скафандр
+[03/07/2023 21:58:49]
+  Супостат499 dropped Кислородный баллон
+[03/07/2023 21:58:50]
+  StreaK dropped Кислородный баллон
+[03/07/2023 21:58:50]
+  kynlan4ic docked Dugong to Newellstead
+[03/07/2023 21:58:50]
+  kynlan4ic has gained 155 experience (2457 -> 2612)
+[03/07/2023 21:58:50]
+  vlad32 has gained 155 experience (2438 -> 2593)
+[03/07/2023 21:58:50]
+  StreaK has gained 155 experience (909 -> 1064)
+[03/07/2023 21:58:50]
+  Colonel has gained 155 experience (909 -> 1064)
+[03/07/2023 21:58:50]
+  Супостат499 has gained 155 experience (459 -> 614)
+[03/07/2023 21:58:50]
+  igameCrog has gained 166 experience (1621 -> 1787)
+[03/07/2023 21:58:50]
+  malenkay.old (as ???) has gained 155 experience (0 -> 155)
+[03/07/2023 21:58:50]
+  кручусь в гробу has gained 155 experience (0 -> 155)
+[03/07/2023 21:58:50]
+  ОБЖешник has gained 155 experience (0 -> 155)
+[03/07/2023 21:58:50]
+  Bennie Tootle has gained 155 experience (909 -> 1064)
+[03/07/2023 21:58:50]
+  kynlan4ic has gained 133 experience (2612 -> 2745)
+[03/07/2023 21:58:50]
+  vlad32 has gained 116 experience (2593 -> 2709)
+[03/07/2023 21:58:50]
+  StreaK has gained 116 experience (1064 -> 1180)
+[03/07/2023 21:58:50]
+  Colonel has gained 116 experience (1064 -> 1180)
+[03/07/2023 21:58:50]
+  Супостат499 has gained 116 experience (614 -> 730)
+[03/07/2023 21:58:50]
+  igameCrog has gained 124 experience (1787 -> 1911)
+[03/07/2023 21:58:50]
+  malenkay.old (as ???) has gained 116 experience (155 -> 271)
+[03/07/2023 21:58:50]
+  кручусь в гробу has gained 116 experience (155 -> 271)
+[03/07/2023 21:58:50]
+  ОБЖешник has gained 116 experience (155 -> 271)
+[03/07/2023 21:58:50]
+  Bennie Tootle has gained 116 experience (1064 -> 1180)
+[03/07/2023 21:58:50]
+  Ending the round...
+[03/07/2023 21:58:51]
+  Round ended.
+[03/07/2023 21:58:53]
+  Starting a new round...
+[03/07/2023 21:59:02]
+  Game mode: Кампания
+[03/07/2023 21:59:02]
+  Submarine: Dugong
+[03/07/2023 21:59:02]
+  Level seed: Newellstead
+[03/07/2023 21:59:02]
+  Sanda Preston equipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Sanda Preston unequipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Sanda Preston equipped Отвертка
+[03/07/2023 21:59:02]
+  Fritz Graves equipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Fritz Graves unequipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Fritz Graves equipped Отвертка
+[03/07/2023 21:59:02]
+  Erik Pollard equipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Erik Pollard unequipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Erik Pollard equipped Отвертка
+[03/07/2023 21:59:02]
+  Alexia Huber equipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Alexia Huber unequipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Alexia Huber equipped Отвертка
+[03/07/2023 21:59:02]
+  Alexia Huber unequipped Отвертка
+[03/07/2023 21:59:02]
+  Alexia Huber equipped Лом
+[03/07/2023 21:59:02]
+  Barton Mason equipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Barton Mason unequipped Гаечный ключ
+[03/07/2023 21:59:02]
+  Barton Mason equipped Отвертка
+[03/07/2023 21:59:03]
+  Katherina Case equipped Лом
+[03/07/2023 21:59:03]
+  Elmer Rolfe equipped Гаечный ключ
+[03/07/2023 21:59:03]
+  Mikaela Angles equipped Лом
+[03/07/2023 21:59:03]
+  Jamey Tyson equipped Гаечный ключ
+[03/07/2023 21:59:03]
+  Bruno Huber equipped Гаечный ключ
+[03/07/2023 21:59:04]
+  Round started.
+[03/07/2023 21:59:04]
+  Barton Mason: Приветствую. Надеюсь, проблем от вас не будет.
+[03/07/2023 21:59:04]
+  Katherina Case unequipped Лом
+[03/07/2023 21:59:04]
+  Sanda Preston unequipped Отвертка
+[03/07/2023 21:59:04]
+  Bruno Huber unequipped Гаечный ключ
+[03/07/2023 21:59:04]
+  Jamey Tyson unequipped Гаечный ключ
+[03/07/2023 21:59:05]
+  Mikaela Angles unequipped Лом
+[03/07/2023 21:59:05]
+  Elmer Rolfe unequipped Гаечный ключ
+[03/07/2023 21:59:05]
+  Alexia Huber unequipped Лом
+[03/07/2023 21:59:09]
+  Colonel set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:15]
+  ОБЖешник set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:17]
+  malenkay.old set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:17]
+  StreaK set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:19]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:25]
+  кручусь в гробу set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:27]
+  StreaK placed Касситерит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:27]
+  StreaK placed Касситерит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:27]
+  StreaK placed Касситерит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:27]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:28]
+  StreaK placed Галена in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Галена in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Галена in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:28]
+  StreaK placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/07/2023 21:59:31]
+  ОБЖешник picked up Подводная маска
+[03/07/2023 21:59:33]
+  Barton Mason unequipped Отвертка
+[03/07/2023 21:59:38]
+  StreaK покидает сервер.
+[03/07/2023 21:59:43]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 21:59:50]
+  malenkay.old (as ???) picked up Водолазный скафандр
+[03/07/2023 21:59:52]
+  kynlan4ic purchased 3 item(s) for 288 кр.
+ - Контейнер для хранения x2
+ - Подводный скутер x2
+ - Гарпун x12
+[03/07/2023 21:59:54]
+  Terrance Mendel: Тот, кто проектировал это место, понятия не имел, что он делает.
+[03/07/2023 21:59:59]
+  Erik Pollard: Это точно. Совсем нет доступа для инвалидных колясок.
+[03/07/2023 22:00:01]
+  malenkay.old (as ???) dropped Водолазный скафандр
+[03/07/2023 22:00:03]
+  Супостат499 dropped Водолазный скафандр
+[03/07/2023 22:00:04]
+  malenkay.old покидает сервер.
+[03/07/2023 22:00:05]
+  Супостат499 picked up Водолазный скафандр
+[03/07/2023 22:00:08]
+  Супостат499 picked up Кислородный баллон
+[03/07/2023 22:00:08]
+  Супостат499 dropped Кислородный баллон
+[03/07/2023 22:00:08]
+  Супостат499 placed Кислородный баллон in Водолазный скафандр (ID: 4945)
+[03/07/2023 22:00:09]
+  Супостат499 dropped Водолазный скафандр
+[03/07/2023 22:00:10]
+  ОБЖешник picked up Сварочный аппарат
+[03/07/2023 22:00:12]
+  Супостат499 placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 405)
+[03/07/2023 22:00:14]
+  ОБЖешник picked up Опиум
+[03/07/2023 22:00:15]
+  Natalia Krall: Эй! Положи на место!
+[03/07/2023 22:00:15]
+  Adam Maynard equipped Шоковая дубинка
+[03/07/2023 22:00:24]
+  Adam Maynard unequipped Шоковая дубинка
+[03/07/2023 22:01:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 22:01:14]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 22:01:14]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 22:01:14]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 22:01:17]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 409)
+[03/07/2023 22:01:17]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 409)
+[03/07/2023 22:01:18]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 409)
+[03/07/2023 22:01:21]
+  kynlan4ic picked up Отвертка
+[03/07/2023 22:01:21]
+  kynlan4ic picked up Плазменный резак
+[03/07/2023 22:01:22]
+  kynlan4ic picked up Сварочный аппарат
+[03/07/2023 22:01:22]
+  vlad32 picked up Отвертка
+[03/07/2023 22:01:24]
+  vlad32 picked up Гаечный ключ
+[03/07/2023 22:01:24]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/07/2023 22:01:24]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/07/2023 22:01:26]
+  kynlan4ic picked up Гаечный ключ
+[03/07/2023 22:01:30]
+  igameCrog picked up Костюм медработника
+[03/07/2023 22:01:33]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 22:01:33]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 22:01:35]
+  igameCrog removed Подводная маска from Human
+[03/07/2023 22:01:36]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 141)
+[03/07/2023 22:01:36]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф (ID: 141)
+[03/07/2023 22:01:42]
+  kynlan4ic placed Гаечный ключ in Хозяйственный шкаф (ID: 648)
+[03/07/2023 22:01:42]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 648)
+[03/07/2023 22:01:43]
+  ОБЖешник equipped Гаечный ключ
+[03/07/2023 22:01:45]
+  malenkay.old attacked by ОБЖешник.
+[03/07/2023 22:01:45]
+  ОБЖешник used Гаечный ключ on malenkay.old.
+[03/07/2023 22:01:47]
+  malenkay.old attacked by ОБЖешник.
+[03/07/2023 22:01:47]
+  ОБЖешник used Гаечный ключ on malenkay.old.
+[03/07/2023 22:01:48]
+  malenkay.old attacked by ОБЖешник.
+[03/07/2023 22:01:48]
+  ОБЖешник used Гаечный ключ on malenkay.old.
+[03/07/2023 22:01:48]
+  vlad32 equipped Подводное ружье
+[03/07/2023 22:01:51]
+  StreaK attacked by ОБЖешник.
+[03/07/2023 22:01:51]
+  ОБЖешник used Гаечный ключ on StreaK.
+[03/07/2023 22:01:52]
+  StreaK attacked by ОБЖешник.
+[03/07/2023 22:01:52]
+  ОБЖешник used Гаечный ключ on StreaK.
+[03/07/2023 22:01:56]
+  ОБЖешник picked up Пояс инструментов
+[03/07/2023 22:01:56]
+  ОБЖешник dropped Пояс инструментов
+[03/07/2023 22:01:56]
+  ОБЖешник placed Пояс инструментов in Human
+[03/07/2023 22:01:59]
+  ОБЖешник picked up Удостоверение личности
+[03/07/2023 22:02:01]
+  kynlan4ic cancelled the fabrication of Аккумулятор in Торговый автомат
+[03/07/2023 22:02:02]
+  igameCrog picked up Плавательный пузырь
+[03/07/2023 22:02:05]
+  kynlan4ic picked up Аккумулятор
+[03/07/2023 22:02:10]
+  ОБЖешник unequipped Гаечный ключ
+[03/07/2023 22:02:10]
+  ОБЖешник equipped Металлический ящик
+[03/07/2023 22:02:10]
+  kynlan4ic placed Аккумулятор in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 22:02:13]
+  ОБЖешник dropped Металлический ящик
+[03/07/2023 22:02:22]
+  ОБЖешник picked up Трубка капитана
+[03/07/2023 22:02:32]
+  Fritz Graves unequipped Отвертка
+[03/07/2023 22:02:43]
+  SERVER: Purchased level 1 reactors.decreasefuelconsumption for 5985
+[03/07/2023 22:02:43]
+  Fritz Graves: Благодарю за покупку! Я начну работать на вашей подлодке незадолго до вашего отбытия.
+[03/07/2023 22:02:55]
+  кручусь в гробу picked up Комбинезон шахтера
+[03/07/2023 22:02:56]
+  кручусь в гробу dropped Комбинезон шахтера
+[03/07/2023 22:03:47]
+  kynlan4ic purchased 4 item(s) for 841 кр.
+ - Пакет с кровью x1
+ - Морфин x10
+ - Жидкий кислородит x2
+ - Галоперидол x2
+[03/07/2023 22:03:47]
+  Erik Pollard unequipped Отвертка
+[03/07/2023 22:04:02]
+  igameCrog picked up Шоковая дубинка
+[03/07/2023 22:04:03]
+  igameCrog picked up Шип шипостая
+[03/07/2023 22:04:10]
+  igameCrog placed Шип шипостая in Хозяйственный шкаф (ID: 449)
+[03/07/2023 22:04:12]
+  igameCrog placed Шоковая дубинка in Хозяйственный шкаф (ID: 449)
+[03/07/2023 22:04:16]
+  igameCrog placed Плавательный пузырь in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 22:04:21]
+  igameCrog placed Костюм медработника in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 22:04:36]
+  ОБЖешник picked up Топливный стержень
+[03/07/2023 22:04:36]
+  ОБЖешник picked up Топливный стержень
+[03/07/2023 22:04:36]
+  ОБЖешник picked up Топливный стержень
+[03/07/2023 22:04:36]
+  ОБЖешник picked up Топливный стержень
+[03/07/2023 22:04:36]
+  ОБЖешник picked up Топливный стержень
+[03/07/2023 22:04:38]
+  StreaK has died (Cause of death: Disconnected)
+[03/07/2023 22:04:39]
+  ОБЖешник placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 22:04:39]
+  ОБЖешник removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 22:04:40]
+  ОБЖешник removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 22:04:40]
+  kynlan4ic equipped Контейнер для хранения
+[03/07/2023 22:04:40]
+  kynlan4ic picked up Контейнер для хранения
+[03/07/2023 22:04:43]
+  ОБЖешник adjusted reactor settings: Temperature: 3805, Fission rate: 32, Turbine output: 11, Autotemp OFF
+[03/07/2023 22:04:44]
+  ОБЖешник adjusted reactor settings: Temperature: 3930, Fission rate: 31, Turbine output: 11, Autotemp OFF
+[03/07/2023 22:04:45]
+  ОБЖешник adjusted reactor settings: Temperature: 4293, Fission rate: 34, Turbine output: 11, Autotemp OFF
+[03/07/2023 22:04:46]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 665)
+[03/07/2023 22:04:46]
+  ОБЖешник adjusted reactor settings: Temperature: 4714, Fission rate: 39, Turbine output: 11, Autotemp OFF
+[03/07/2023 22:04:51]
+  ОБЖешник adjusted reactor settings: Temperature: 5157, Fission rate: 39, Turbine output: 14, Autotemp OFF
+[03/07/2023 22:04:52]
+  ОБЖешник adjusted reactor settings: Temperature: 4729, Fission rate: 39, Turbine output: 20, Autotemp OFF
+[03/07/2023 22:04:53]
+  ОБЖешник adjusted reactor settings: Temperature: 4223, Fission rate: 39, Turbine output: 26, Autotemp OFF
+[03/07/2023 22:04:54]
+  ОБЖешник adjusted reactor settings: Temperature: 3604, Fission rate: 39, Turbine output: 30, Autotemp OFF
+[03/07/2023 22:04:54]
+  кручусь в гробу opened Настраиваемый люк
+[03/07/2023 22:04:55]
+  ОБЖешник adjusted reactor settings: Temperature: 3278, Fission rate: 39, Turbine output: 32, Autotemp OFF
+[03/07/2023 22:04:56]
+  ОБЖешник adjusted reactor settings: Temperature: 3328, Fission rate: 39, Turbine output: 29, Autotemp OFF
+[03/07/2023 22:04:57]
+  ОБЖешник adjusted reactor settings: Temperature: 3252, Fission rate: 39, Turbine output: 30, Autotemp OFF
+[03/07/2023 22:04:58]
+  vlad32 equipped Контейнер для хранения
+[03/07/2023 22:04:58]
+  vlad32 picked up Контейнер для хранения
+[03/07/2023 22:05:00]
+  vlad32 picked up Алюминий
+[03/07/2023 22:05:00]
+  vlad32 picked up Алюминий
+[03/07/2023 22:05:00]
+  vlad32 picked up Алюминий
+[03/07/2023 22:05:00]
+  vlad32 picked up Алюминий
+[03/07/2023 22:05:00]
+  vlad32 picked up Алюминий
+[03/07/2023 22:05:00]
+  vlad32 picked up Алюминий
+[03/07/2023 22:05:02]
+  vlad32 placed Контейнер для хранения in Средний стальной шкаф (ID: 665)
+[03/07/2023 22:05:03]
+  vlad32 equipped Контейнер для хранения
+[03/07/2023 22:05:03]
+  vlad32 picked up Контейнер для хранения
+[03/07/2023 22:05:04]
+  malenkay.old has died (Cause of death: Disconnected)
+[03/07/2023 22:05:06]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 22:05:07]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 22:05:09]
+  vlad32 placed Контейнер для хранения in Средний стальной шкаф (ID: 665)
+[03/07/2023 22:05:26]
+  igameCrog purchased 1 item(s) for 530 кр.
+ - Экстракт каликса x1
+[03/07/2023 22:05:37]
+  igameCrog purchased 1 item(s) for 50 кр.
+ - Губная гармошка x1
+[03/07/2023 22:05:38]
+  ОБЖешник adjusted reactor settings: Temperature: 3176, Fission rate: 39, Turbine output: 32, Autotemp OFF
+[03/07/2023 22:05:39]
+  ОБЖешник adjusted reactor settings: Temperature: 2983, Fission rate: 39, Turbine output: 37, Autotemp OFF
+[03/07/2023 22:05:40]
+  ОБЖешник adjusted reactor settings: Temperature: 2665, Fission rate: 39, Turbine output: 39, Autotemp OFF
+[03/07/2023 22:05:41]
+  ОБЖешник adjusted reactor settings: Temperature: 2381, Fission rate: 39, Turbine output: 45, Autotemp OFF
+[03/07/2023 22:05:42]
+  ОБЖешник adjusted reactor settings: Temperature: 1951, Fission rate: 39, Turbine output: 45, Autotemp OFF
+[03/07/2023 22:05:43]
+  ОБЖешник adjusted reactor settings: Temperature: 1929, Fission rate: 39, Turbine output: 42, Autotemp OFF
+[03/07/2023 22:05:47]
+  Супостат499 equipped Металлический ящик
+[03/07/2023 22:05:49]
+  Супостат499 dropped Металлический ящик
+[03/07/2023 22:05:50]
+  кручусь в гробу покидает сервер.
+[03/07/2023 22:05:53]
+  ОБЖешник adjusted reactor settings: Temperature: 2039, Fission rate: 56, Turbine output: 41, Autotemp OFF
+[03/07/2023 22:05:53]
+  kynlan4ic purchased 1 item(s) for 366 кр.
+ - Фонарик x2
+[03/07/2023 22:05:54]
+  ОБЖешник adjusted reactor settings: Temperature: 3029, Fission rate: 56, Turbine output: 41, Autotemp OFF
+[03/07/2023 22:05:55]
+  ОБЖешник adjusted reactor settings: Temperature: 4046, Fission rate: 50, Turbine output: 41, Autotemp OFF
+[03/07/2023 22:05:56]
+  ОБЖешник adjusted reactor settings: Temperature: 4236, Fission rate: 53, Turbine output: 41, Autotemp OFF
+[03/07/2023 22:05:57]
+  ОБЖешник adjusted reactor settings: Temperature: 4351, Fission rate: 53, Turbine output: 42, Autotemp OFF
+[03/07/2023 22:05:58]
+  ОБЖешник adjusted reactor settings: Temperature: 4161, Fission rate: 53, Turbine output: 47, Autotemp OFF
+[03/07/2023 22:06:11]
+  ОБЖешник adjusted reactor settings: Temperature: 3890, Fission rate: 54, Turbine output: 47, Autotemp OFF
+[03/07/2023 22:06:12]
+  ОБЖешник adjusted reactor settings: Temperature: 4105, Fission rate: 56, Turbine output: 47, Autotemp OFF
+[03/07/2023 22:06:16]
+  ОБЖешник adjusted reactor settings: Temperature: 4321, Fission rate: 56, Turbine output: 47, Autotemp OFF
+[03/07/2023 22:06:17]
+  ОБЖешник adjusted reactor settings: Temperature: 4823, Fission rate: 100, Turbine output: 47, Autotemp OFF
+[03/07/2023 22:06:18]
+  ОБЖешник adjusted reactor settings: Temperature: 5823, Fission rate: 100, Turbine output: 47, Autotemp OFF
+[03/07/2023 22:06:19]
+  ОБЖешник adjusted reactor settings: Temperature: 5723, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[03/07/2023 22:06:22]
+  ОБЖешник adjusted reactor settings: Temperature: 5032, Fission rate: 100, Turbine output: 96, Autotemp OFF
+[03/07/2023 22:06:23]
+  ОБЖешник adjusted reactor settings: Temperature: 5654, Fission rate: 100, Turbine output: 56, Autotemp OFF
+[03/07/2023 22:06:24]
+  ОБЖешник adjusted reactor settings: Temperature: 6654, Fission rate: 100, Turbine output: 28, Autotemp OFF
+[03/07/2023 22:06:26]
+  vlad32 picked up Контейнер для хранения
+[03/07/2023 22:06:27]
+  vlad32 placed Контейнер для хранения in Средний стальной шкаф (ID: 665)
+[03/07/2023 22:06:28]
+  ОБЖешник adjusted reactor settings: Temperature: 10000, Fission rate: 100, Turbine output: 28, Autotemp OFF
+[03/07/2023 22:06:28]
+  vlad32 picked up Контейнер для хранения
+[03/07/2023 22:06:42]
+  Client "kynlan4ic" ended the round.
+[03/07/2023 22:06:43]
+  Ending the round...
+[03/07/2023 22:06:43]
+  Round ended.
+[03/07/2023 22:07:07]
+  Супостат499: https://discord.gg/kc6JcX5k https://discord.gg/kc6JcX5k
+[03/07/2023 22:07:09]
+  Супостат499: L
+[03/07/2023 22:07:11]
+  Супостат499: Дс
+[03/07/2023 22:07:12]
+  Супостат499: https://discord.gg/kc6JcX5k
+[03/07/2023 22:07:14]
+  Супостат499: https://discord.gg/kc6JcX5khttps://discord.gg/kc6JcX5khttps://discord.gg/kc6JcX5khttps://discord.gg/kc6JcX5khttps://discord.gg/kc6JcX5khttps://discord.gg/kc6JcX5khttps://discord.gg/kc6JcX5k
+[03/07/2023 22:07:16]
+  Супостат499: https://discord.gg/kc6JcX5k
+[03/07/2023 22:08:02]
+  ОБЖешник покидает сервер.
+[03/07/2023 22:08:09]
+  igameCrog: Я пошел
+[03/07/2023 22:08:13]
+  igameCrog покидает сервер.
+[03/07/2023 22:08:16]
+  Супостат499: https://discord.gg/kc6JcX5k
+[03/07/2023 22:08:42]
+  Игрок Blue moon присоединился к серверу.
+[03/07/2023 22:08:42]
+  Saving client permissions
+[03/07/2023 22:09:10]
+  Супостат499: https://discord.gg/kc6JcX5k
+[03/07/2023 22:09:12]
+  Супостат499: https://discord.gg/kc6JcX5k
+[03/07/2023 22:09:38]
+  Игрок Ренат Аргазмов присоединился к серверу.
+[03/07/2023 22:09:38]
+  Saving client permissions
+[03/07/2023 22:09:51]
+  Ренат Аргазмов: я вернулся
+[03/07/2023 22:09:57]
+  Супостат499: https://discord.gg/kc6JcX5k
+[03/07/2023 22:10:02]
+  Ренат Аргазмов: аааа
+[03/07/2023 22:10:10]
+  Ренат Аргазмов: понятно
+[03/07/2023 22:10:24]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:10:57]
+  Ренат Аргазмов: пока
+[03/07/2023 22:10:57]
+  Супостат499 покидает сервер.
+[03/07/2023 22:11:02]
+  kynlan4ic is ready to start the game.
+[03/07/2023 22:11:24]
+  Ренат Аргазмов: стойте
+[03/07/2023 22:11:29]
+  Ренат Аргазмов: давайте верблюд
+[03/07/2023 22:11:41]
+  Ренат Аргазмов: лодка верблюд
+[03/07/2023 22:11:49]
+  Colonel: https://discord.gg/kc6JcX5k
+[03/07/2023 22:12:04]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:12:04]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:12:05]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:12:05]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:12:05]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:12:05]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:12:05]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:12:05]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:12:06]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:12:06]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:12:06]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:12:07]
+  Ренат Аргазмов is ready to start the game.
+[03/07/2023 22:12:10]
+  Ренат Аргазмов: лодка верблюд
+[03/07/2023 22:12:16]
+  Ренат Аргазмов: это топчик
+[03/07/2023 22:12:30]
+  Ренат Аргазмов: ну лады
+[03/07/2023 22:12:35]
+  Ренат Аргазмов: давайте начинать
+[03/07/2023 22:12:55]
+  Blue moon is ready to start the game.
+[03/07/2023 22:13:34]
+  Starting a new round...
+[03/07/2023 22:13:35]
+  kynlan4ic is not ready to start the game.
+[03/07/2023 22:13:37]
+  Ренат Аргазмов is not ready to start the game.
+[03/07/2023 22:13:37]
+  Blue moon is not ready to start the game.
+[03/07/2023 22:13:47]
+  Game mode: Кампания
+[03/07/2023 22:13:47]
+  Submarine: Dugong
+[03/07/2023 22:13:47]
+  Level seed: Newellstead
+[03/07/2023 22:13:48]
+  Melba Sacks equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Melba Sacks unequipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Melba Sacks equipped Отвертка
+[03/07/2023 22:13:48]
+  David Delange equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  David Delange unequipped Гаечный ключ
+[03/07/2023 22:13:48]
+  David Delange equipped Отвертка
+[03/07/2023 22:13:48]
+  Kim Hillard equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Kim Hillard unequipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Kim Hillard equipped Отвертка
+[03/07/2023 22:13:48]
+  Julius Burke equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Julius Burke unequipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Julius Burke equipped Отвертка
+[03/07/2023 22:13:48]
+  Julius Burke unequipped Отвертка
+[03/07/2023 22:13:48]
+  Julius Burke equipped Лом
+[03/07/2023 22:13:48]
+  Darleen Frye equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Darleen Frye unequipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Darleen Frye equipped Отвертка
+[03/07/2023 22:13:48]
+  Tessie Gomez equipped Отвертка
+[03/07/2023 22:13:48]
+  Norman Harp equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Jacquline Chaney equipped Гаечный ключ
+[03/07/2023 22:13:48]
+  Barton Gonzales equipped Лом
+[03/07/2023 22:13:48]
+  Claire Wiley equipped Гаечный ключ
+[03/07/2023 22:13:49]
+  vlad32 equipped Контейнер для хранения
+[03/07/2023 22:13:49]
+  Round started.
+[03/07/2023 22:13:49]
+  Darleen Frye: Ух ты, у нас снова гости.
+[03/07/2023 22:13:50]
+  Norman Harp unequipped Гаечный ключ
+[03/07/2023 22:13:50]
+  Claire Wiley unequipped Гаечный ключ
+[03/07/2023 22:13:50]
+  Jacquline Chaney unequipped Гаечный ключ
+[03/07/2023 22:13:50]
+  Tessie Gomez unequipped Отвертка
+[03/07/2023 22:13:50]
+  Melba Sacks unequipped Отвертка
+[03/07/2023 22:13:50]
+  Julius Burke unequipped Лом
+[03/07/2023 22:13:50]
+  Barton Gonzales unequipped Лом
+[03/07/2023 22:14:01]
+  Colonel set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 22:14:03]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 22:14:10]
+  kynlan4ic equipped Огнетушитель
+[03/07/2023 22:14:10]
+  kynlan4ic picked up Огнетушитель
+[03/07/2023 22:14:15]
+  Ренат Аргазмов set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 22:14:17]
+  kynlan4ic adjusted reactor settings: Temperature: 9937, Fission rate: 100, Turbine output: 28, Autotemp OFF
+[03/07/2023 22:14:18]
+  kynlan4ic adjusted reactor settings: Temperature: 9444, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/07/2023 22:14:19]
+  kynlan4ic has died (Cause of death: Ожог)
+[03/07/2023 22:14:19]
+  Reactor meltdown!
+[03/07/2023 22:14:19]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[03/07/2023 22:14:22]
+  Blue moon set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 22:14:24]
+  Client "kynlan4ic" ended the round.
+[03/07/2023 22:14:24]
+  Ending the round...

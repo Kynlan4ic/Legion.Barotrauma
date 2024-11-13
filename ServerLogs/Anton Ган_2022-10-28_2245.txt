@@ -1,0 +1,1608 @@
+﻿[10/28/2022 22:09:30]
+  Starting the server...
+[10/28/2022 22:09:30]
+  Using SteamP2P networking.
+[10/28/2022 22:09:30]
+  Server started
+[10/28/2022 22:09:30]
+  Игрок kynlan4ic присоединился к серверу.
+[10/28/2022 22:09:30]
+  Saving client permissions
+[10/28/2022 22:09:30]
+  Saving client permissions
+[10/28/2022 22:11:50]
+  Игрок igameCrog присоединился к серверу.
+[10/28/2022 22:11:50]
+  Saving client permissions
+[10/28/2022 22:13:09]
+  Игрок Супостат присоединился к серверу.
+[10/28/2022 22:13:09]
+  Saving client permissions
+[10/28/2022 22:16:23]
+  Client "kynlan4ic" started the round.
+[10/28/2022 22:16:23]
+  Starting a new round...
+[10/28/2022 22:16:30]
+  Миссия: Добыча артефакта
+[10/28/2022 22:16:30]
+  Центр Set: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.
+[10/28/2022 22:16:30]
+  Game mode: Миссия
+[10/28/2022 22:16:30]
+  Submarine: Sardine
+[10/28/2022 22:16:30]
+  Level seed: Cq1w29ix
+[10/28/2022 22:16:30]
+  Mission: Добыча артефакта
+[10/28/2022 22:16:30]
+  Jarrod Ouellette equipped Сварочный аппарат
+[10/28/2022 22:16:31]
+  Joseph Carey equipped Пистолет-пулемет
+[10/28/2022 22:16:31]
+  Mikaela Case equipped Прототип паровой пушки
+[10/28/2022 22:16:31]
+  Chuck Nicolosi equipped Плазменный резак
+[10/28/2022 22:16:32]
+  Round started.
+[10/28/2022 22:16:34]
+  Fractalguardian equipped Гарпун стража
+[10/28/2022 22:16:34]
+  Fractalguardian equipped Гарпун стража
+[10/28/2022 22:16:39]
+  Orval Feinman: Спокойное море моряка ничему не научит.
+[10/28/2022 22:16:39]
+  Ivan Tyson: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:16:40]
+  Armanda Moses: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:16:42]
+  Ivan Tyson equipped Топливный стержень
+[10/28/2022 22:17:03]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:17:44]
+  igameCrog picked up Яйца велонацепса каликса
+[10/28/2022 22:17:47]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:52]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:17:53]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:17:55]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:18:00]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:18:05]
+  igameCrog picked up Пояс инструментов
+[10/28/2022 22:18:11]
+  igameCrog placed Шприц-пистолет in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:15]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:17]
+  igameCrog placed Бинт in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:22]
+  igameCrog picked up Антирад
+[10/28/2022 22:18:24]
+  igameCrog picked up Каликсанид
+[10/28/2022 22:18:30]
+  igameCrog placed Антирад in Форма врача (ID: 7407)
+[10/28/2022 22:18:32]
+  igameCrog placed Каликсанид in Форма врача (ID: 7407)
+[10/28/2022 22:18:35]
+  igameCrog placed Яйца велонацепса каликса in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:42]
+  Супостат is a traitor and the current goals are:
+- Ваша цель: Бредоген. Вы найдете ее здесь: Медицинский отсек. (В процессе)
+
+[10/28/2022 22:18:44]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:47]
+  Armanda Moses equipped Контейнер для хранения
+[10/28/2022 22:19:21]
+  igameCrog picked up Подводная маска
+[10/28/2022 22:19:24]
+  igameCrog picked up Ручной сонар
+[10/28/2022 22:19:24]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:19:28]
+  igameCrog placed Подводный скутер in Пояс инструментов (ID: 7456)
+[10/28/2022 22:20:14]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:14]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:18]
+  Inner wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:24]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:25]
+  Outer wall breached by Mudraptor
+[10/28/2022 22:20:26]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:27]
+  kynlan4ic: Ivan Tyson, займись протечками!
+[10/28/2022 22:20:27]
+  igameCrog picked up Водолазный скафандр
+[10/28/2022 22:20:28]
+  Ivan Tyson: Само собой!
+[10/28/2022 22:20:29]
+  Ivan Tyson: Надо найти водолазный скафандр!
+[10/28/2022 22:20:30]
+  kynlan4ic: Adam Ellison, защищай команду!
+[10/28/2022 22:20:30]
+  Adam Ellison equipped Шоковая дубинка
+[10/28/2022 22:20:30]
+  Adam Ellison: Надо найти водолазный скафандр!
+[10/28/2022 22:20:31]
+  Adam Ellison: Принято.
+[10/28/2022 22:20:33]
+  Adam Ellison unequipped Шоковая дубинка
+[10/28/2022 22:20:33]
+  Adam Ellison equipped Шоковая дубинка
+[10/28/2022 22:20:33]
+  Inner wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:34]
+  Inner wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:34]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:36]
+  Супостат picked up Водолазный скафандр
+[10/28/2022 22:20:38]
+  Armanda Moses equipped Гаечный ключ
+[10/28/2022 22:20:38]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:20:38]
+  Ivan Tyson: Я теряю много крови!
+[10/28/2022 22:20:39]
+  Jan Huber: Надо найти водолазный скафандр!
+[10/28/2022 22:20:39]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:39]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:40]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:40]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:40]
+  Armanda Moses: Надо найти водолазный скафандр!
+[10/28/2022 22:20:41]
+  Orval Feinman unequipped Гаечный ключ
+[10/28/2022 22:20:42]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:20:43]
+  Orval Feinman unequipped Гаечный ключ
+[10/28/2022 22:20:43]
+  Orval Feinman equipped Отвертка
+[10/28/2022 22:20:43]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:43]
+  Ivan Tyson equipped Отвертка
+[10/28/2022 22:20:43]
+  Orval Feinman: Надо найти водолазный скафандр!
+[10/28/2022 22:20:43]
+  Adam Ellison unequipped Шоковая дубинка
+[10/28/2022 22:20:43]
+  Adam Ellison equipped Нож ныряльщика
+[10/28/2022 22:20:44]
+  Adam Ellison: У меня кровь!
+[10/28/2022 22:20:44]
+  Adam Ellison unequipped Нож ныряльщика
+[10/28/2022 22:20:44]
+  Adam Ellison equipped Шоковая дубинка
+[10/28/2022 22:20:44]
+  Ivan Tyson unequipped Отвертка
+[10/28/2022 22:20:44]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:45]
+  Adam Ellison used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/28/2022 22:20:54]
+  kynlan4ic picked up Водолазный скафандр
+[10/28/2022 22:20:55]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:55]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:55]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:55]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:56]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:56]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:57]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:57]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:57]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:57]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:58]
+  Orval Feinman unequipped Отвертка
+[10/28/2022 22:20:58]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:20:58]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:58]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:59]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:59]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:59]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:59]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:21:02]
+  Armanda Moses unequipped Гаечный ключ
+[10/28/2022 22:21:02]
+  Armanda Moses equipped Гаечный ключ
+[10/28/2022 22:21:02]
+  Orval Feinman unequipped Гаечный ключ
+[10/28/2022 22:21:02]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:21:09]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:21:09]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:21:10]
+  Ivan Tyson: Помогите, я истекаю кровью!
+[10/28/2022 22:21:10]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:21:11]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:21:11]
+  Jan Huber: Мне нужно подводное снаряжение!
+[10/28/2022 22:21:12]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:21:12]
+  Armanda Moses: Мне нужно подводное снаряжение!
+[10/28/2022 22:21:14]
+  Orval Feinman: Мне нужно подводное снаряжение!
+[10/28/2022 22:21:19]
+  Adam Ellison has died (Cause of death: Укусы)
+[10/28/2022 22:21:19]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:21:21]
+  igameCrog equipped Подводный скутер
+[10/28/2022 22:21:23]
+  Orval Feinman: Балласт: высокий уровень давления!
+[10/28/2022 22:21:24]
+  Orval Feinman has died (Cause of death: Баротравма)
+[10/28/2022 22:21:24]
+  Armanda Moses has died (Cause of death: Баротравма)
+[10/28/2022 22:21:24]
+  Jan Huber has died (Cause of death: Баротравма)
+[10/28/2022 22:21:29]
+  kynlan4ic equipped Револьвер
+[10/28/2022 22:21:30]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 5.3199997 Кровотечение: 2.5 Оглушение: 0.3
+[10/28/2022 22:21:31]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:32]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:33]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:34]
+  Mudraptor_unarmored has died (Cause of death: Огнестрельная рана)
+[10/28/2022 22:21:34]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:35]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:21:37]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:44]
+  Ivan Tyson: Помогите, я истекаю кровью!
+[10/28/2022 22:21:48]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:21:48]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:21:50]
+  kynlan4ic equipped Кислородный баллон
+[10/28/2022 22:21:52]
+  kynlan4ic equipped Подводный скутер
+[10/28/2022 22:21:58]
+  igameCrog used item Пакет с кровью
+[10/28/2022 22:21:58]
+  igameCrog used item Пакет с кровью
+[10/28/2022 22:22:16]
+  igameCrog used item Яйца велонацепса каликса
+[10/28/2022 22:22:16]
+  Ivan Tyson: Помогите, я истекаю кровью!
+[10/28/2022 22:22:17]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/28/2022 22:22:21]
+  igameCrog used item Бинт
+[10/28/2022 22:22:25]
+  igameCrog used item Бинт
+[10/28/2022 22:22:27]
+  Dispatching the respawn shuttle.
+[10/28/2022 22:22:27]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/28/2022 22:22:27]
+  Respawning bot Armanda Moses as Помощник
+[10/28/2022 22:22:27]
+  Respawning bot Orval Feinman as Инженер
+[10/28/2022 22:22:28]
+  Respawning bot Adam Ellison as Офицер службы безопасности
+[10/28/2022 22:22:28]
+  Respawning bot Jan Huber as Врач
+[10/28/2022 22:22:30]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:22:36]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/28/2022 22:23:09]
+  Mudraptor_unarmored has died (Cause of death: Травма от удара тупым предметом)
+[10/28/2022 22:23:12]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:23:14]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:23:14]
+  Ivan Tyson: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/28/2022 22:23:27]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:23:31]
+  Orval Feinman: Мне нужно подводное снаряжение!
+[10/28/2022 22:23:34]
+  Jan Huber: Мне нужно подводное снаряжение!
+[10/28/2022 22:23:35]
+  Adam Ellison: Мне нужно подводное снаряжение!
+[10/28/2022 22:23:45]
+  Armanda Moses: Надо найти водолазный скафандр!
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:23:51]
+  kynlan4ic picked up Плазменный резак
+[10/28/2022 22:23:57]
+  kynlan4ic picked up Ручной сонар
+[10/28/2022 22:24:13]
+  kynlan4ic equipped Кислородный баллон
+[10/28/2022 22:24:16]
+  kynlan4ic equipped Подводный скутер
+[10/28/2022 22:24:42]
+  Ivan Tyson: Орудийный отсек: минус одна протечка!
+[10/28/2022 22:24:44]
+  Ivan Tyson: Орудийный отсек: протечек не осталось!
+[10/28/2022 22:25:00]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:01]
+  Inner wall repaired by Ivan Tyson
+[10/28/2022 22:25:01]
+  Ivan Tyson: Балласт: выполняю ремонт. Осталось несколько отверстий!
+[10/28/2022 22:25:15]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:15]
+  Ivan Tyson: Воздушный шлюз: минус одна протечка!
+[10/28/2022 22:25:24]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:27]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:28]
+  Ivan Tyson: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/28/2022 22:25:29]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:31]
+  Ivan Tyson: Меняем кислородные баллоны!
+[10/28/2022 22:25:33]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:25:33]
+  igameCrog dropped Кислородный баллон
+[10/28/2022 22:25:33]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 369)
+[10/28/2022 22:25:33]
+  Ivan Tyson has died (Cause of death: Баротравма)
+[10/28/2022 22:25:33]
+  igameCrog has died (Cause of death: Баротравма)
+[10/28/2022 22:27:01]
+  Armanda Moses: Если останусь в живых, подам в отставку!
+[10/28/2022 22:27:33]
+  The respawn shuttle is leaving.
+[10/28/2022 22:27:40]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/28/2022 22:27:51]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/28/2022 22:27:54]
+  Jan Huber opened Настраиваемая дверь
+[10/28/2022 22:27:57]
+  Jan Huber opened Настраиваемая дверь
+[10/28/2022 22:27:58]
+  Jan Huber opened Настраиваемая дверь
+[10/28/2022 22:28:01]
+  Orval Feinman opened Настраиваемая дверь
+[10/28/2022 22:28:01]
+  Orval Feinman opened Настраиваемая дверь
+[10/28/2022 22:28:02]
+  Orval Feinman opened Настраиваемая дверь
+[10/28/2022 22:28:04]
+  Orval Feinman has died (Cause of death: Unknown)
+[10/28/2022 22:28:04]
+  Adam Ellison has died (Cause of death: Unknown)
+[10/28/2022 22:28:04]
+  Jan Huber has died (Cause of death: Unknown)
+[10/28/2022 22:28:04]
+  The respawn shuttle has left.
+[10/28/2022 22:28:12]
+  Супостат has died (Cause of death: Внутренняя травма)
+[10/28/2022 22:28:14]
+  Dispatching the respawn shuttle.
+[10/28/2022 22:28:14]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/28/2022 22:28:14]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/28/2022 22:28:14]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/28/2022 22:28:15]
+  Respawning bot Armanda Moses as Помощник
+[10/28/2022 22:28:15]
+  Respawning bot Orval Feinman as Инженер
+[10/28/2022 22:28:15]
+  Respawning bot Adam Ellison as Офицер службы безопасности
+[10/28/2022 22:28:16]
+  Respawning bot Jan Huber as Врач
+[10/28/2022 22:28:18]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:28:19]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:28:19]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:28:22]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:28:26]
+  igameCrog picked up Подводная маска
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:30]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:28:32]
+  kynlan4ic picked up Плазменный резак
+[10/28/2022 22:28:32]
+  kynlan4ic picked up Ручной сонар
+[10/28/2022 22:28:33]
+  igameCrog placed Подводный скутер in Средний стальной шкаф (ID: 6973)
+[10/28/2022 22:28:34]
+  igameCrog picked up Гаечный ключ
+[10/28/2022 22:28:36]
+  igameCrog picked up Дементонитовый лом
+[10/28/2022 22:28:37]
+  igameCrog picked up Отвертка
+[10/28/2022 22:28:41]
+  igameCrog removed Плазменный резак from Средний стальной шкаф (ID: 6973)
+[10/28/2022 22:28:47]
+  kynlan4ic is a traitor and the current goals are:
+- Изучите печени членов экипажа. Найдите ту, что похожа на печень ползуна. (В процессе)
+
+[10/28/2022 22:28:47]
+  igameCrog equipped Плазменный резак
+[10/28/2022 22:28:55]
+  igameCrog picked up Пояс инструментов
+[10/28/2022 22:29:00]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:01]
+  igameCrog placed Дементонитовый лом in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:04]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:05]
+  igameCrog placed Морфин in Форма врача (ID: 7625)
+[10/28/2022 22:29:08]
+  igameCrog placed Бинт in Форма врача (ID: 7625)
+[10/28/2022 22:29:10]
+  igameCrog placed Шприц-пистолет in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:13]
+  Супостат picked up Подводный скутер
+[10/28/2022 22:29:13]
+  kynlan4ic equipped Револьвер
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  Супостат picked up Подводная маска
+[10/28/2022 22:29:17]
+  Супостат picked up Лом
+[10/28/2022 22:29:19]
+  Супостат picked up Закаленный лом
+[10/28/2022 22:29:43]
+  kynlan4ic docked Venture to Шахта Skadi's Cauldron
+[10/28/2022 22:30:01]
+  Ending round (submarine reached the end of the level)
+[10/28/2022 22:30:01]
+  Ending the round...
+[10/28/2022 22:30:03]
+  Round ended.
+[10/28/2022 22:30:36]
+  Супостат is ready to start the game.
+[10/28/2022 22:30:39]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:30:49]
+  igameCrog is ready to start the game.
+[10/28/2022 22:30:51]
+  Client "kynlan4ic" started the round.
+[10/28/2022 22:30:51]
+  Starting a new round...
+[10/28/2022 22:30:55]
+  Миссия: Разбор обломков
+[10/28/2022 22:30:55]
+  В точке «Центр Set» только что был получен сигнал бедствия с судна, которое считалось пропавшим вместе с находившимися на его борту особо секретными зашифрованными данными. Ваше приоритетное задание - найти журнал капитана и вернуть его.
+[10/28/2022 22:30:55]
+  Game mode: Миссия
+[10/28/2022 22:30:55]
+  Submarine: Sardine
+[10/28/2022 22:30:55]
+  Level seed: XYI
+[10/28/2022 22:30:55]
+  Mission: Разбор обломков
+[10/28/2022 22:30:56]
+  Pete Blakley equipped Отвертка
+[10/28/2022 22:30:56]
+  Katherina Avery equipped Лом
+[10/28/2022 22:30:56]
+  Sergei Basnett equipped Пистолет-пулемет
+[10/28/2022 22:30:57]
+  Round started.
+[10/28/2022 22:31:03]
+  Shelly Mungo: Слышишь?
+[10/28/2022 22:31:04]
+  Siena Mell: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:31:05]
+  Mckinley Breeki: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:31:05]
+  Devin Hutchinson: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:31:06]
+  Mckinley Breeki equipped Топливный стержень
+[10/28/2022 22:31:07]
+  Mckinley Breeki unequipped Топливный стержень
+[10/28/2022 22:31:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:31:21]
+  kynlan4ic picked up Водолазный скафандр
+[10/28/2022 22:31:22]
+  kynlan4ic equipped Водолазный скафандр
+[10/28/2022 22:31:24]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:31:26]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:31:26]
+  kynlan4ic picked up Дробовик
+[10/28/2022 22:31:29]
+  kynlan4ic placed Дробовик in Защищенный стальной шкаф (ID: 286)
+[10/28/2022 22:31:45]
+  igameCrog picked up Яйца велонацепса каликса
+[10/28/2022 22:31:46]
+  igameCrog picked up Серная кислота
+[10/28/2022 22:31:48]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:31:48]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:31:49]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:31:52]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:31:52]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:31:52]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Бинт
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:53]
+  igameCrog picked up Морфин
+[10/28/2022 22:31:57]
+  igameCrog placed Морфин in Аптечка (ID: 498)
+[10/28/2022 22:31:59]
+  igameCrog placed Бинт in Аптечка (ID: 498)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:01]
+  igameCrog placed Бинт in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:04]
+  igameCrog placed Морфин in Форма врача (ID: 4543)
+[10/28/2022 22:32:06]
+  igameCrog placed Пакет с кровью in Форма врача (ID: 4543)
+[10/28/2022 22:32:06]
+  igameCrog placed Пакет с кровью in Форма врача (ID: 4543)
+[10/28/2022 22:32:06]
+  igameCrog placed Пакет с кровью in Форма врача (ID: 4543)
+[10/28/2022 22:32:10]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:32:10]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:32:11]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:32:17]
+  igameCrog picked up Пояс инструментов
+[10/28/2022 22:32:18]
+  Супостат picked up Сигнальный огонь
+[10/28/2022 22:32:20]
+  Супостат picked up Подводный скутер
+[10/28/2022 22:32:20]
+  igameCrog picked up Гаечный ключ
+[10/28/2022 22:32:21]
+  igameCrog picked up Отвертка
+[10/28/2022 22:32:24]
+  Супостат picked up Сонарный маяк
+[10/28/2022 22:32:25]
+  igameCrog picked up Сварочный аппарат
+[10/28/2022 22:32:25]
+  igameCrog picked up Плазменный резак
+[10/28/2022 22:32:28]
+  Супостат picked up Фонарик
+[10/28/2022 22:32:28]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:29]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:30]
+  Супостат picked up Подводная маска
+[10/28/2022 22:32:32]
+  Супостат picked up Кислородный баллон
+[10/28/2022 22:32:33]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:33]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:33]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:33]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:33]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:33]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:33]
+  Супостат picked up Кислородный баллон
+[10/28/2022 22:32:35]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:37]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 4584)
+[10/28/2022 22:32:39]
+  Супостат picked up Кислородный баллон
+[10/28/2022 22:32:39]
+  igameCrog placed Шприц-пистолет in Пояс инструментов (ID: 4584)
+[10/28/2022 22:33:19]
+  igameCrog picked up Подводная маска
+[10/28/2022 22:33:20]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:33:21]
+  igameCrog picked up Ручной сонар
+[10/28/2022 22:33:43]
+  Outer wall breached by Tigerthresher
+[10/28/2022 22:33:44]
+  Супостат is a traitor and the current goals are:
+- Замените сварочное топливо на кислородные баллоны не менее чем в 70% сварочных аппаратов подлодки. (В процессе)
+
+[10/28/2022 22:33:45]
+  Outer wall breached by Bonethresher
+[10/28/2022 22:33:46]
+  Mckinley Breeki: Надо найти водолазный скафандр!
+[10/28/2022 22:33:47]
+  Shelly Mungo: Мне нужно подводное снаряжение!
+[10/28/2022 22:33:49]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:33:51]
+  Darleen Dollinger equipped Гаечный ключ
+[10/28/2022 22:33:52]
+  Mckinley Breeki equipped Гаечный ключ
+[10/28/2022 22:33:52]
+  Shelly Mungo equipped Шоковая дубинка
+[10/28/2022 22:33:53]
+  igameCrog picked up Водолазный скафандр
+[10/28/2022 22:33:53]
+  Valerie Navarro: Надо найти водолазный скафандр!
+[10/28/2022 22:33:53]
+  Shelly Mungo used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/28/2022 22:33:54]
+  Darleen Dollinger: Надо найти водолазный скафандр!
+[10/28/2022 22:33:54]
+  Outer wall breached by Bonethresher
+[10/28/2022 22:33:54]
+  kynlan4ic: Shelly Mungo, уничтожь врагов!
+[10/28/2022 22:33:55]
+  Mckinley Breeki: Помогите, я истекаю кровью!
+[10/28/2022 22:33:55]
+  Mckinley Breeki used Гаечный ключ on Shelly Mungo.
+[10/28/2022 22:33:55]
+  Devin Hutchinson equipped Гаечный ключ
+[10/28/2022 22:33:55]
+  Devin Hutchinson unequipped Гаечный ключ
+[10/28/2022 22:33:55]
+  Devin Hutchinson equipped Гаечный ключ
+[10/28/2022 22:33:55]
+  Shelly Mungo: Принято.
+[10/28/2022 22:33:55]
+  Darleen Dollinger: У меня кровь!
+[10/28/2022 22:33:56]
+  Siena Mell: Надо найти водолазный скафандр!
+[10/28/2022 22:33:57]
+  Devin Hutchinson: Мне нужно подводное снаряжение!
+[10/28/2022 22:33:58]
+  Outer wall breached by Bonethresher
+[10/28/2022 22:33:58]
+  Outer wall breached by Bonethresher
+[10/28/2022 22:34:02]
+  Shelly Mungo used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/28/2022 22:34:03]
+  igameCrog adjusted reactor settings: Temperature: 3200, Fission rate: 84, Turbine output: 95, Autotemp OFF
+[10/28/2022 22:34:05]
+  igameCrog adjusted reactor settings: Temperature: 3226, Fission rate: 84, Turbine output: 100, Autotemp OFF
+[10/28/2022 22:34:06]
+  igameCrog adjusted reactor settings: Temperature: 2935, Fission rate: 89, Turbine output: 100, Autotemp OFF
+[10/28/2022 22:34:08]
+  igameCrog adjusted reactor settings: Temperature: 2829, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/28/2022 22:34:09]
+  igameCrog adjusted reactor settings: Temperature: 2810, Fission rate: 98, Turbine output: 100, Autotemp OFF
+[10/28/2022 22:34:10]
+  Darleen Dollinger has died (Cause of death: Баротравма)
+[10/28/2022 22:34:10]
+  Mckinley Breeki has died (Cause of death: Укусы)
+[10/28/2022 22:34:11]
+  Valerie Navarro: Я теряю много крови!
+[10/28/2022 22:34:12]
+  Shelly Mungo used Шоковая дубинка (Аккумулятор) on Devin Hutchinson.
+[10/28/2022 22:34:12]
+  Devin Hutchinson: Помогите, я истекаю кровью!
+[10/28/2022 22:34:14]
+  Outer wall breached by Bonethresher
+[10/28/2022 22:34:16]
+  Shelly Mungo: Помогите, я истекаю кровью!
+[10/28/2022 22:34:17]
+  Outer wall breached by Bonethresher
+[10/28/2022 22:34:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:21]
+  Shelly Mungo used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/28/2022 22:34:21]
+  Outer wall breached by kynlan4ic
+[10/28/2022 22:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:21]
+  Shelly Mungo unequipped Шоковая дубинка
+[10/28/2022 22:34:21]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:21]
+  Darleen Dollinger attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.75 Оглушение: 0.025
+[10/28/2022 22:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:22]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:22]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:22]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:22]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:23]
+  Shelly Mungo used Нож ныряльщика on Valerie Navarro.
+[10/28/2022 22:34:23]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:23]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:23]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:24]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:24]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:24]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:25]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:25]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:25]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:25]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:26]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:26]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:26]
+  Siena Mell: Надо найти водолазный скафандр!
+[10/28/2022 22:34:26]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:26]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:27]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/28/2022 22:34:27]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:27]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:27]
+  Shelly Mungo unequipped Пистолет-пулемет
+[10/28/2022 22:34:27]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:27]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:27]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:27]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:27]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:27]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:28]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:28]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:28]
+  Shelly Mungo unequipped Пистолет-пулемет
+[10/28/2022 22:34:28]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:28]
+  Bonethresher has died (Cause of death: Рваная рана)
+[10/28/2022 22:34:28]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:29]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:29]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:32]
+  igameCrog picked up Сварочный аппарат
+[10/28/2022 22:34:33]
+  Shelly Mungo unequipped Пистолет-пулемет
+[10/28/2022 22:34:33]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:34]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:34]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:34]
+  Devin Hutchinson has died (Cause of death: Укусы)
+[10/28/2022 22:34:34]
+  igameCrog equipped Сварочный аппарат
+[10/28/2022 22:34:34]
+  Shelly Mungo unequipped Пистолет-пулемет
+[10/28/2022 22:34:34]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:35]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:35]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:37]
+  Shelly Mungo unequipped Пистолет-пулемет
+[10/28/2022 22:34:37]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:38]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:38]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:38]
+  Shelly Mungo unequipped Пистолет-пулемет
+[10/28/2022 22:34:38]
+  Shelly Mungo equipped Нож ныряльщика
+[10/28/2022 22:34:40]
+  Shelly Mungo unequipped Нож ныряльщика
+[10/28/2022 22:34:40]
+  Shelly Mungo equipped Пистолет-пулемет
+[10/28/2022 22:34:46]
+  Shelly Mungo has died (Cause of death: Укусы)
+[10/28/2022 22:34:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:52]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:53]
+  Siena Mell: Помогите, я истекаю кровью!
+[10/28/2022 22:34:53]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:54]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:54]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[10/28/2022 22:34:54]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:54]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:54]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:55]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:55]
+  Valerie Navarro has died (Cause of death: Укусы)
+[10/28/2022 22:34:55]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:55]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:55]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:34:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/28/2022 22:34:56]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/28/2022 22:35:08]
+  Siena Mell has died (Cause of death: Укусы)
+[10/28/2022 22:35:27]
+  igameCrog equipped Подводный скутер
+[10/28/2022 22:35:41]
+  Супостат has died (Cause of death: Укусы)
+[10/28/2022 22:35:50]
+  igameCrog used item Пакет с кровью
+[10/28/2022 22:35:51]
+  igameCrog used item Морфин
+[10/28/2022 22:35:51]
+  Dispatching the respawn shuttle.
+[10/28/2022 22:35:52]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/28/2022 22:35:52]
+  Respawning bot Darleen Dollinger as Инженер
+[10/28/2022 22:35:52]
+  Respawning bot Mckinley Breeki as Помощник
+[10/28/2022 22:35:52]
+  Respawning bot Shelly Mungo as Офицер службы безопасности
+[10/28/2022 22:35:53]
+  Respawning bot Siena Mell as Механик
+[10/28/2022 22:35:53]
+  Respawning bot Valerie Navarro as Врач
+[10/28/2022 22:35:53]
+  Respawning bot Devin Hutchinson as Инженер
+[10/28/2022 22:35:53]
+  igameCrog used item Бинт
+[10/28/2022 22:35:53]
+  igameCrog used item Бинт
+[10/28/2022 22:35:55]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/28/2022 22:35:57]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:36:30]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:36:32]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:36:33]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:36:39]
+  igameCrog closed Настраиваемая дверь
+[10/28/2022 22:36:44]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:36:53]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:36:56]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:37:04]
+  Outer wall breached by Tigerthresher
+[10/28/2022 22:37:08]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:37:11]
+  igameCrog has died (Cause of death: Кровопотеря)
+[10/28/2022 22:37:26]
+  Outer wall breached by Tigerthresher
+[10/28/2022 22:37:55]
+  The respawn shuttle is leaving.
+[10/28/2022 22:38:26]
+  Супостат has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  Darleen Dollinger has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  Mckinley Breeki has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  Shelly Mungo has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  Siena Mell has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  Valerie Navarro has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  Devin Hutchinson has died (Cause of death: Unknown)
+[10/28/2022 22:38:26]
+  The respawn shuttle has left.
+[10/28/2022 22:38:36]
+  Dispatching the respawn shuttle.
+[10/28/2022 22:38:36]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/28/2022 22:38:36]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/28/2022 22:38:37]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/28/2022 22:38:37]
+  Respawning bot Darleen Dollinger as Инженер
+[10/28/2022 22:38:37]
+  Respawning bot Mckinley Breeki as Помощник
+[10/28/2022 22:38:37]
+  Respawning bot Shelly Mungo as Офицер службы безопасности
+[10/28/2022 22:38:37]
+  Respawning bot Siena Mell as Механик
+[10/28/2022 22:38:38]
+  Respawning bot Valerie Navarro as Врач
+[10/28/2022 22:38:38]
+  Respawning bot Devin Hutchinson as Инженер
+[10/28/2022 22:38:39]
+  kynlan4ic is a traitor and the current goals are:
+- Изучите печени членов экипажа. Найдите ту, что похожа на печень ползуна. (В процессе)
+
+[10/28/2022 22:38:40]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:38:42]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:38:42]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:38:47]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:38:48]
+  kynlan4ic picked up Плазменный резак
+[10/28/2022 22:38:48]
+  kynlan4ic picked up Ручной сонар
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:39:05]
+  igameCrog picked up Подводная маска
+[10/28/2022 22:39:07]
+  igameCrog picked up Дементонитовый лом
+[10/28/2022 22:39:08]
+  igameCrog picked up Гаечный ключ
+[10/28/2022 22:39:09]
+  igameCrog picked up Отвертка
+[10/28/2022 22:39:09]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:39:23]
+  igameCrog picked up Пояс инструментов
+[10/28/2022 22:39:31]
+  igameCrog picked up Топливный стержень
+[10/28/2022 22:39:35]
+  igameCrog picked up Топливный стержень
+[10/28/2022 22:39:44]
+  igameCrog placed Удостоверение личности in Пояс инструментов (ID: 4760)
+[10/28/2022 22:39:47]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4760)
+[10/28/2022 22:39:47]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4760)
+[10/28/2022 22:39:49]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 4760)
+[10/28/2022 22:39:51]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 4760)
+[10/28/2022 22:39:52]
+  kynlan4ic docked Venture to Sardine
+[10/28/2022 22:39:54]
+  igameCrog placed Дементонитовый лом in Пояс инструментов (ID: 4760)
+[10/28/2022 22:39:56]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/28/2022 22:39:59]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/28/2022 22:39:59]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/28/2022 22:40:03]
+  Супостат picked up Одноразовый водолазный скафандр
+[10/28/2022 22:40:03]
+  Valerie Navarro: Как правильно – таламусы или таламы?
+[10/28/2022 22:40:07]
+  Devin Hutchinson: Надеюсь, их не будет больше одного сразу.
+[10/28/2022 22:40:17]
+  igameCrog placed Бинт in Форма врача (ID: 4736)
+[10/28/2022 22:40:19]
+  igameCrog placed Морфин in Форма врача (ID: 4736)
+[10/28/2022 22:40:26]
+  kynlan4ic equipped Револьвер
+[10/28/2022 22:40:27]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:40:28]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:40:29]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:40:30]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:40:31]
+  Inner wall breached by kynlan4ic
+[10/28/2022 22:40:31]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:40:32]
+  Супостат attacked by kynlan4ic. Огнестрельная рана: 8.33 Кровотечение: 11.156251 Оглушение: 0.3
+[10/28/2022 22:40:35]
+  igameCrog equipped Подводный скутер
+[10/28/2022 22:40:39]
+  Игрок Puutarhuri присоединился к серверу.
+[10/28/2022 22:40:39]
+  Saving client permissions
+[10/28/2022 22:40:43]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[10/28/2022 22:40:46]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:41:00]
+  Outer wall breached by Tigerthresher
+[10/28/2022 22:41:08]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:41:10]
+  igameCrog closed Настраиваемая дверь
+[10/28/2022 22:41:11]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:41:12]
+  igameCrog closed Настраиваемая дверь
+[10/28/2022 22:41:13]
+  igameCrog closed Настраиваемая дверь
+[10/28/2022 22:41:14]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:41:16]
+  igameCrog closed Настраиваемая дверь
+[10/28/2022 22:41:17]
+  igameCrog opened Настраиваемая дверь
+[10/28/2022 22:41:20]
+  igameCrog picked up Водолазный скафандр
+[10/28/2022 22:41:20]
+  igameCrog dropped Одноразовый водолазный скафандр
+[10/28/2022 22:41:24]
+  igameCrog unequipped Подводный скутер
+[10/28/2022 22:41:27]
+  Супостат has died (Cause of death: Кровопотеря)
+[10/28/2022 22:41:27]
+  igameCrog unequipped Подводный скутер
+[10/28/2022 22:41:27]
+  igameCrog equipped Вещмешок
+[10/28/2022 22:41:30]
+  igameCrog placed Кислородный баллон in Вещмешок (ID: 4528)
+[10/28/2022 22:41:30]
+  igameCrog placed Кислородный баллон in Вещмешок (ID: 4528)
+[10/28/2022 22:41:31]
+  igameCrog placed Кислородный баллон in Вещмешок (ID: 4528)
+[10/28/2022 22:41:53]
+  Игрок Nuclear_Crow присоединился к серверу.
+[10/28/2022 22:41:53]
+  Saving client permissions
+[10/28/2022 22:42:05]
+  Супостат покидает сервер.
+[10/28/2022 22:42:15]
+  igameCrog set the pumping speed of Малый насос to -80 %
+[10/28/2022 22:42:15]
+  igameCrog set the pumping speed of Малый насос to -60 %
+[10/28/2022 22:42:15]
+  igameCrog set the pumping speed of Малый насос to -50 %
+[10/28/2022 22:42:15]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[10/28/2022 22:42:15]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[10/28/2022 22:42:16]
+  igameCrog set the pumping speed of Малый насос to 0 %
+[10/28/2022 22:42:16]
+  igameCrog set the pumping speed of Малый насос to 20 %
+[10/28/2022 22:42:16]
+  igameCrog set the pumping speed of Малый насос to 40 %
+[10/28/2022 22:42:16]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[10/28/2022 22:42:16]
+  igameCrog set the pumping speed of Малый насос to -20 %
+[10/28/2022 22:42:17]
+  igameCrog set the pumping speed of Малый насос to 0 %
+[10/28/2022 22:42:17]
+  igameCrog set the pumping speed of Малый насос to 20 %
+[10/28/2022 22:42:17]
+  igameCrog set the pumping speed of Малый насос to 40 %
+[10/28/2022 22:42:17]
+  igameCrog set the pumping speed of Малый насос to 100 %
+[10/28/2022 22:42:29]
+  igameCrog set the pumping speed of Малый насос to 70 %
+[10/28/2022 22:42:29]
+  igameCrog set the pumping speed of Малый насос to -30 %
+[10/28/2022 22:42:29]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[10/28/2022 22:42:33]
+  igameCrog turned off Малый насос
+[10/28/2022 22:42:33]
+  igameCrog turned on Малый насос
+[10/28/2022 22:42:45]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:42:45]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:42:45]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:42:47]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:42:47]
+  igameCrog dropped Кислородный баллон
+[10/28/2022 22:42:47]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 390)
+[10/28/2022 22:43:03]
+  igameCrog picked up Отвертка
+[10/28/2022 22:43:06]
+  igameCrog picked up Гаечный ключ
+[10/28/2022 22:43:09]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:43:18]
+  igameCrog dropped Вещмешок
+[10/28/2022 22:43:21]
+  igameCrog equipped Отвертка
+[10/28/2022 22:43:22]
+  Outer wall breached by Tigerthresher
+[10/28/2022 22:43:23]
+  kynlan4ic closed Настраиваемая дверь
+[10/28/2022 22:43:23]
+  igameCrog started repairing Батарея
+[10/28/2022 22:43:24]
+  kynlan4ic opened Настраиваемая дверь
+[10/28/2022 22:43:26]
+  kynlan4ic equipped Подводный скутер
+[10/28/2022 22:43:26]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:43:27]
+  The respawn shuttle is leaving.
+[10/28/2022 22:43:31]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:43:33]
+  Inner wall breached by Tigerthresher
+[10/28/2022 22:43:35]
+  Outer wall breached by Tigerthresher
+[10/28/2022 22:43:40]
+  igameCrog started repairing Батарея
+[10/28/2022 22:43:43]
+  igameCrog started repairing Батарея
+[10/28/2022 22:43:46]
+  Puutarhuri was kicked because they were expecting a very old network event (25095 (created 10.1 s ago, 10.05 s older than last event sent to anyone) Events queued: 463, last sent to all: 25094
+[10/28/2022 22:43:46]
+  Игрок Puutarhuri отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[10/28/2022 22:43:57]
+  Darleen Dollinger has died (Cause of death: Unknown)
+[10/28/2022 22:43:57]
+  Mckinley Breeki has died (Cause of death: Unknown)
+[10/28/2022 22:43:57]
+  Shelly Mungo has died (Cause of death: Unknown)
+[10/28/2022 22:43:57]
+  Siena Mell has died (Cause of death: Unknown)
+[10/28/2022 22:43:57]
+  Valerie Navarro has died (Cause of death: Unknown)
+[10/28/2022 22:43:57]
+  Devin Hutchinson has died (Cause of death: Unknown)
+[10/28/2022 22:43:57]
+  The respawn shuttle has left.
+[10/28/2022 22:44:02]
+  Ending round (a traitor completed their mission)
+[10/28/2022 22:44:02]
+  Ending the round...
+[10/28/2022 22:44:03]
+  Round ended.
+[10/28/2022 22:44:41]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:44:41]
+  kynlan4ic is not ready to start the game.
+[10/28/2022 22:44:41]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:44:41]
+  kynlan4ic is not ready to start the game.
+[10/28/2022 22:44:42]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:44:42]
+  kynlan4ic is not ready to start the game.
+[10/28/2022 22:44:42]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:44:42]
+  kynlan4ic is not ready to start the game.
+[10/28/2022 22:44:42]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:44:43]
+  kynlan4ic is not ready to start the game.
+[10/28/2022 22:44:43]
+  kynlan4ic is ready to start the game.
+[10/28/2022 22:44:43]
+  Nuclear_Crow is ready to start the game.
+[10/28/2022 22:44:46]
+  Client "kynlan4ic" started the round.
+[10/28/2022 22:44:46]
+  Starting a new round...
+[10/28/2022 22:44:50]
+  Миссия: Разбор обломков
+[10/28/2022 22:44:50]
+  В точке «Центр Set» только что был получен сигнал бедствия с судна, которое считалось пропавшим вместе с находившимися на его борту особо секретными зашифрованными данными. Ваше приоритетное задание - найти журнал капитана и вернуть его.
+[10/28/2022 22:44:50]
+  Game mode: Миссия
+[10/28/2022 22:44:50]
+  Submarine: Sardine
+[10/28/2022 22:44:50]
+  Level seed: lQ7Vy7nL
+[10/28/2022 22:44:50]
+  Mission: Разбор обломков
+[10/28/2022 22:44:50]
+  Ivan Bradley equipped Сварочный аппарат
+[10/28/2022 22:44:50]
+  Rosina Feinberg equipped Сварочный аппарат
+[10/28/2022 22:44:50]
+  Ashly Blakley equipped Сварочный аппарат
+[10/28/2022 22:44:52]
+  Round started.
+[10/28/2022 22:44:57]
+  Bryce Case: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:44:58]
+  Ashly Stogner: Кто-нибудь еще помнит Землю?
+[10/28/2022 22:44:59]
+  Ashly Stogner: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:45:00]
+  Bryce Case equipped Топливный стержень
+[10/28/2022 22:45:02]
+  Ashly Stogner equipped Топливный стержень
+[10/28/2022 22:45:03]
+  Ashly Stogner unequipped Топливный стержень
+[10/28/2022 22:45:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:45:08]
+  Nuclear_Crow set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:45:17]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:45:17]
+  Nuclear_Crow equipped Гаечный ключ

@@ -1,0 +1,1600 @@
+﻿[03/11/2023 00:43:27]
+  igameCrog picked up Коричневый провод
+[03/11/2023 00:43:27]
+  kynlan4ic picked up Military Mk-I Hardsuit (Mercenary)
+[03/11/2023 00:43:27]
+  kynlan4ic dropped УЗК
+[03/11/2023 00:43:28]
+  kynlan4ic picked up УЗК
+[03/11/2023 00:43:28]
+  kynlan4ic dropped Military Mk-I Hardsuit (Mercenary)
+[03/11/2023 00:43:28]
+  Информация о миссии: Артефакт у вас - Артефакт у вас на борту. Выведите подлодку из пещеры, чтобы получить награду
+[03/11/2023 00:43:30]
+  igameCrog equipped Гаечный ключ
+[03/11/2023 00:43:34]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 567)
+[03/11/2023 00:43:35]
+  Супостат499 placed Military Mk-I Hardsuit (Bandit) in Шкаф для подводного снаряжения (ID: 567)
+[03/11/2023 00:43:36]
+  igameCrog unequipped Терминал
+[03/11/2023 00:43:36]
+  igameCrog detached Терминал from a wall
+[03/11/2023 00:43:37]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 488)
+[03/11/2023 00:43:45]
+  igameCrog equipped Терминал
+[03/11/2023 00:43:46]
+  kynlan4ic placed Инопланетный пистолет in Защищенный стальной шкаф (ID: 728)
+[03/11/2023 00:43:46]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:43:47]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:43:49]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/11/2023 00:43:51]
+  igameCrog attached Терминал to a wall
+[03/11/2023 00:43:53]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:43:54]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:43:58]
+  Супостат499 placed Осколок сернита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:43:58]
+  Супостат499 placed Осколок сернита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:43:58]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:43:59]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:44:00]
+  Супостат499 placed Физикориевый осколок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:00]
+  Супостат499 placed Физикориевый осколок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:01]
+  igameCrog connected a wire to Терминал (signal_out)
+[03/11/2023 00:44:02]
+  Darwin Brady started repairing Батарея
+[03/11/2023 00:44:02]
+  Супостат499 placed Скопление дементонита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:02]
+  Супостат499 placed Скопление дементонита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:03]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 00:44:04]
+  Супостат499 placed Воспламенитовый кристалл in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:04]
+  Супостат499 placed Воспламенитовый кристалл in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:05]
+  igameCrog connected a wire from Навигационный терминал (velocity_in) to Терминал (signal_out)
+[03/11/2023 00:44:05]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 00:44:06]
+  Супостат499 placed Инопланетный энергоблок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:06]
+  Супостат499 placed Инопланетный энергоблок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:07]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 00:44:08]
+  kynlan4ic placed Инопланетное украшение in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:08]
+  kynlan4ic placed Инопланетное украшение in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:08]
+  kynlan4ic placed Инопланетное украшение in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:09]
+  Супостат499 placed Инопланетное украшение in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:09]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:44:09]
+  kynlan4ic placed Инопланетное украшение in Пояс инструментов (ID: 7419)
+[03/11/2023 00:44:09]
+  kynlan4ic removed Инопланетная безделушка from Пояс инструментов (ID: 7419)
+[03/11/2023 00:44:09]
+  kynlan4ic placed Инопланетная безделушка in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:10]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:44:11]
+  kynlan4ic placed Скопление дементонита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:11]
+  kynlan4ic placed Скопление дементонита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:12]
+  igameCrog entered "0" on Терминал
+[03/11/2023 00:44:12]
+  Супостат499 placed Инопланетный сигнальный огонь in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:14]
+  kynlan4ic placed Инопланетная вещица in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:14]
+  kynlan4ic placed Инопланетная вещица in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:14]
+  kynlan4ic placed Инопланетная вещица in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:15]
+  Супостат499 placed Плавательный пузырь in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:15]
+  Супостат499 placed Плавательный пузырь in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:15]
+  Супостат499 placed Плавательный пузырь in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:17]
+  Супостат499 placed Инопланетная кровь in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:17]
+  Супостат499 placed Инопланетная кровь in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:44:21]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 7535)
+[03/11/2023 00:44:21]
+  kynlan4ic picked up Инопланетное украшение
+[03/11/2023 00:44:21]
+  kynlan4ic picked up Инопланетное украшение
+[03/11/2023 00:44:21]
+  kynlan4ic picked up Инопланетное украшение
+[03/11/2023 00:44:22]
+  kynlan4ic picked up Инопланетная безделушка
+[03/11/2023 00:44:22]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 7535)
+[03/11/2023 00:44:24]
+  kynlan4ic placed Инопланетное украшение in Деконструктор (ID: 471)
+[03/11/2023 00:44:24]
+  kynlan4ic placed Инопланетное украшение in Деконструктор (ID: 471)
+[03/11/2023 00:44:24]
+  kynlan4ic placed Инопланетное украшение in Деконструктор (ID: 471)
+[03/11/2023 00:44:25]
+  kynlan4ic placed Инопланетная безделушка in Деконструктор (ID: 471)
+[03/11/2023 00:44:29]
+  Супостат499 activated Деконструктор
+[03/11/2023 00:44:30]
+  kynlan4ic picked up Инопланетная вещица
+[03/11/2023 00:44:30]
+  kynlan4ic picked up Инопланетная вещица
+[03/11/2023 00:44:31]
+  kynlan4ic deactivated Деконструктор
+[03/11/2023 00:44:32]
+  kynlan4ic placed Инопланетная вещица in Деконструктор (ID: 471)
+[03/11/2023 00:44:32]
+  kynlan4ic placed Инопланетная вещица in Деконструктор (ID: 471)
+[03/11/2023 00:44:33]
+  kynlan4ic activated Деконструктор
+[03/11/2023 00:44:43]
+  igameCrog entered "10" on Терминал
+[03/11/2023 00:44:56]
+  igameCrog entered "50" on Терминал
+[03/11/2023 00:45:07]
+  Супостат499 started fabricating Схема на базе ППВМ in Фабрикатор
+[03/11/2023 00:45:11]
+  igameCrog equipped Медицинский кейс
+[03/11/2023 00:45:15]
+  igameCrog entered "100" on Терминал
+[03/11/2023 00:45:17]
+  Супостат499 picked up Схема на базе ППВМ
+[03/11/2023 00:45:17]
+  Супостат499 picked up Схема на базе ППВМ
+[03/11/2023 00:45:28]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:45:28]
+  Darwin Brady started repairing Батарея
+[03/11/2023 00:45:35]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:45:38]
+  Супостат499 picked up Водолазный скафандр
+[03/11/2023 00:45:41]
+  igameCrog equipped Коричневый провод
+[03/11/2023 00:45:43]
+  Darwin Brady equipped Кислородный баллон
+[03/11/2023 00:45:47]
+  igameCrog disconnected a wire from Терминал (signal_out) to Навигационный терминал (velocity_in)
+[03/11/2023 00:45:51]
+  igameCrog disconnected a wire from Навигационный терминал (velocity_in)
+[03/11/2023 00:45:51]
+  igameCrog picked up Коричневый провод
+[03/11/2023 00:45:56]
+  igameCrog equipped Коричневый провод
+[03/11/2023 00:45:59]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 00:45:59]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:46:00]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:46:01]
+  Супостат499 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 579)
+[03/11/2023 00:46:03]
+  Супостат499 equipped Military Mk-I Hardsuit
+[03/11/2023 00:46:03]
+  Супостат499 picked up Military Mk-I Hardsuit
+[03/11/2023 00:46:05]
+  Lionel Mungo started repairing Деконструктор
+[03/11/2023 00:46:09]
+  igameCrog connected a wire to Терминал (signal_out)
+[03/11/2023 00:46:11]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:46:11]
+  Devin Maxwell equipped Кислородный баллон
+[03/11/2023 00:46:12]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:46:14]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 00:46:17]
+  Супостат499 started fabricating Military Mk-II Hardsuit in Фабрикатор
+[03/11/2023 00:46:27]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:46:27]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:46:33]
+  Devin Maxwell equipped Водолазный скафандр
+[03/11/2023 00:46:40]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 00:46:43]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 00:46:43]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 00:46:43]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 444)
+[03/11/2023 00:46:47]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 00:46:50]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 00:46:50]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 00:46:50]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 444)
+[03/11/2023 00:46:52]
+  Супостат499 placed Топливный стержень in Средний стальной шкаф (ID: 467)
+[03/11/2023 00:46:52]
+  Супостат499 placed Топливный стержень in Средний стальной шкаф (ID: 467)
+[03/11/2023 00:46:55]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:46:56]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:46:57]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 00:46:58]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 00:47:01]
+  Супостат499 placed Контейнер для перевозки артефактов in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:47:04]
+  Darwin Brady started repairing Навигационный терминал
+[03/11/2023 00:47:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:04]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:05]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:05]
+  Devin Maxwell started repairing Навигационный терминал
+[03/11/2023 00:47:06]
+  Супостат499 picked up Физикориевый осколок
+[03/11/2023 00:47:06]
+  Супостат499 picked up Физикориевый осколок
+[03/11/2023 00:47:06]
+  Супостат499 picked up Физикориевый осколок
+[03/11/2023 00:47:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:06]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:06]
+  igameCrog connected a wire from Ядерный реактор (meltdown_warning) to Терминал (signal_out)
+[03/11/2023 00:47:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:06]
+  Супостат499 picked up Осколок кислородита
+[03/11/2023 00:47:06]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:07]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:07]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:47:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:08]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:47:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:08]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:09]
+  Супостат499 placed Физикориевый осколок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:47:09]
+  Супостат499 placed Физикориевый осколок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:47:09]
+  Супостат499 placed Физикориевый осколок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:47:09]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:11]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:11]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 00:47:11]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/11/2023 00:47:12]
+  Супостат499 placed Физикориевый осколок in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:47:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:15]
+  igameCrog disconnected a wire from Терминал (signal_out) to Ядерный реактор (meltdown_warning)
+[03/11/2023 00:47:15]
+  igameCrog connected a wire from Терминал (signal_in) to Ядерный реактор (meltdown_warning)
+[03/11/2023 00:47:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:17]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 00:47:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:20]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 00:47:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:47:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 00:47:21]
+  Супостат499 equipped Military Mk-II Hardsuit
+[03/11/2023 00:47:21]
+  Супостат499 picked up Military Mk-II Hardsuit
+[03/11/2023 00:47:27]
+  Супостат499 placed Кислородный баллон in Military Mk-II Hardsuit (ID: 1751)
+[03/11/2023 00:47:34]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:47:35]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:47:36]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 00:47:38]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 00:47:40]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 00:47:41]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:47:41]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:47:41]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 00:47:41]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 00:47:43]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7535)
+[03/11/2023 00:47:43]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7535)
+[03/11/2023 00:47:43]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7535)
+[03/11/2023 00:47:49]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:47:49]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:47:50]
+  Darwin Brady started repairing Монитор состояния
+[03/11/2023 00:47:50]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 00:47:53]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:47:53]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:48:17]
+  igameCrog started fabricating Схема на базе ППВМ in Фабрикатор
+[03/11/2023 00:48:23]
+  igameCrog picked up Схема на базе ППВМ
+[03/11/2023 00:48:24]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 00:48:25]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:48:25]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:48:26]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 00:48:29]
+  Devin Maxwell started repairing Фабрикатор
+[03/11/2023 00:48:30]
+  Lionel Mungo started repairing Фабрикатор
+[03/11/2023 00:48:31]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:48:36]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:48:36]
+  Devin Maxwell equipped Кислородный баллон
+[03/11/2023 00:48:37]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 00:48:38]
+  igameCrog started fabricating Текстовый экран in Фабрикатор
+[03/11/2023 00:48:40]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:48:40]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:48:40]
+  Outer wall breached by Crawler
+[03/11/2023 00:48:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:45]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:46]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:47]
+  Darwin Brady equipped Сварочный аппарат
+[03/11/2023 00:48:48]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:48]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:49]
+  Outer wall repaired by Darwin Brady
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:49]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 00:48:49]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:49]
+  Darwin Brady: Передний балласт: все протечки устранены!
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:50]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:50]
+  Супостат499 picked up Осколок сернита
+[03/11/2023 00:48:50]
+  Супостат499 picked up Осколок сернита
+[03/11/2023 00:48:50]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:52]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:52]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:52]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:52]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:52]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:53]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:54]
+  Супостат499 placed Осколок сернита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:48:54]
+  Супостат499 placed Осколок сернита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:54]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 00:48:54]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:54]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:55]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 00:48:56]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:56]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 00:48:56]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/11/2023 00:48:58]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 00:49:00]
+  Супостат499 equipped Водолазный скафандр
+[03/11/2023 00:49:00]
+  Супостат499 picked up Водолазный скафандр
+[03/11/2023 00:49:00]
+  Супостат499 dropped Military Mk-II Hardsuit
+[03/11/2023 00:49:00]
+  Супостат499 placed Military Mk-II Hardsuit in Шкаф для подводного снаряжения (ID: 573)
+[03/11/2023 00:49:01]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[03/11/2023 00:49:02]
+  Супостат499 dropped Водолазный скафандр
+[03/11/2023 00:49:02]
+  Darwin Brady unequipped Сварочный аппарат
+[03/11/2023 00:49:05]
+  Супостат499 picked up Fire Jumpsuit
+[03/11/2023 00:49:07]
+  Супостат499 placed Fire Jumpsuit in Рюкзак (ID: 7535)
+[03/11/2023 00:49:12]
+  Супостат499 picked up Fire Jumpsuit
+[03/11/2023 00:49:24]
+  igameCrog cancelled the fabrication of Текстовый экран in Фабрикатор
+[03/11/2023 00:49:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:49:33]
+  Супостат499 started fabricating Текстовый экран in Фабрикатор
+[03/11/2023 00:49:54]
+  Супостат499 picked up Military Mk-II Hardsuit
+[03/11/2023 00:49:59]
+  Супостат499 placed Fire Jumpsuit in Рюкзак (ID: 7535)
+[03/11/2023 00:50:00]
+  Devin Maxwell equipped Водолазный скафандр
+[03/11/2023 00:50:02]
+  igameCrog picked up Текстовый экран
+[03/11/2023 00:50:10]
+  igameCrog equipped Текстовый экран
+[03/11/2023 00:50:13]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 00:50:14]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:50:14]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:50:16]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 00:50:20]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:50:20]
+  igameCrog equipped Коричневый провод
+[03/11/2023 00:50:20]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:50:20]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 00:50:21]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 00:50:22]
+  igameCrog connected a wire to Терминал (signal_out)
+[03/11/2023 00:50:23]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 00:50:23]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:50:23]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:50:24]
+  Супостат499 equipped Гаечный ключ
+[03/11/2023 00:50:25]
+  Супостат499 equipped Hatchet
+[03/11/2023 00:50:27]
+  Darwin Brady started repairing Насос
+[03/11/2023 00:50:28]
+  igameCrog connected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:50:30]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 00:50:30]
+  Hammerheadspawn attacked by Супостат499. Травма от удара тупым предметом: 13.0 Рваная рана: 22.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 00:50:30]
+  Супостат499 used Hatchet on Hammerheadspawn.
+[03/11/2023 00:50:31]
+  Devin Maxwell started repairing Насос
+[03/11/2023 00:50:31]
+  Lionel Mungo started repairing Насос
+[03/11/2023 00:50:32]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:50:33]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:50:33]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 00:50:35]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 00:50:45]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 00:50:47]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 00:50:48]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 00:50:48]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 00:50:48]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 00:50:50]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 00:50:50]
+  igameCrog disconnected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:50:54]
+  Супостат499 placed Эсперит in Рюкзак (ID: 7535)
+[03/11/2023 00:50:54]
+  Супостат499 placed Эсперит in Рюкзак (ID: 7535)
+[03/11/2023 00:50:54]
+  Супостат499 placed Эсперит in Рюкзак (ID: 7535)
+[03/11/2023 00:50:56]
+  igameCrog disconnected a wire from Терминал (signal_out)
+[03/11/2023 00:50:56]
+  igameCrog picked up Коричневый провод
+[03/11/2023 00:51:06]
+  igameCrog unequipped Текстовый экран
+[03/11/2023 00:51:06]
+  igameCrog detached Текстовый экран from a wall
+[03/11/2023 00:51:07]
+  igameCrog equipped Текстовый экран
+[03/11/2023 00:51:10]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 00:51:17]
+  igameCrog entered "978" on Терминал
+[03/11/2023 00:51:18]
+  igameCrog equipped Коричневый провод
+[03/11/2023 00:51:23]
+  igameCrog connected a wire to Терминал (signal_out)
+[03/11/2023 00:51:25]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:51:28]
+  igameCrog connected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:51:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:51:37]
+  igameCrog set the value "LightColor" of the item "Текстовый экран" to "255,255,255,38".
+[03/11/2023 00:51:38]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 7535)
+[03/11/2023 00:51:38]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 7535)
+[03/11/2023 00:51:38]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 7556)
+[03/11/2023 00:51:44]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:51:45]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:51:46]
+  igameCrog disconnected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:51:47]
+  Darwin Brady started repairing Батарея
+[03/11/2023 00:51:48]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 00:51:50]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:51:51]
+  igameCrog disconnected a wire from Терминал (signal_out)
+[03/11/2023 00:51:51]
+  igameCrog picked up Коричневый провод
+[03/11/2023 00:51:51]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:51:55]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:51:55]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:51:55]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:51:58]
+  igameCrog unequipped Текстовый экран
+[03/11/2023 00:51:58]
+  igameCrog detached Текстовый экран from a wall
+[03/11/2023 00:52:00]
+  igameCrog equipped Текстовый экран
+[03/11/2023 00:52:06]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 00:52:08]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 00:52:13]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 00:52:13]
+  kynlan4ic attacked by igameCrog.
+[03/11/2023 00:52:13]
+  igameCrog used Гаечный ключ on kynlan4ic.
+[03/11/2023 00:52:15]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:52:15]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:52:16]
+  Darwin Brady failed to repair Кабельная коробка
+[03/11/2023 00:52:18]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 00:52:21]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:52:22]
+  Супостат499 picked up Водолазный скафандр
+[03/11/2023 00:52:22]
+  Супостат499 dropped Military Mk-II Hardsuit
+[03/11/2023 00:52:22]
+  Супостат499 placed Military Mk-II Hardsuit in Шкаф для подводного снаряжения (ID: 573)
+[03/11/2023 00:52:22]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:52:23]
+  Супостат499 dropped Водолазный скафандр
+[03/11/2023 00:52:25]
+  igameCrog connected a wire to Терминал (signal_out)
+[03/11/2023 00:52:33]
+  Супостат499 placed Осколок кислородита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:52:33]
+  Супостат499 placed Осколок кислородита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:52:33]
+  Супостат499 placed Осколок кислородита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:52:33]
+  Супостат499 placed Осколок кислородита in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:52:37]
+  igameCrog connected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:52:39]
+  Супостат499 placed Эсперит in Деконструктор (ID: 471)
+[03/11/2023 00:52:39]
+  Супостат499 placed Эсперит in Деконструктор (ID: 471)
+[03/11/2023 00:52:39]
+  Супостат499 placed Эсперит in Деконструктор (ID: 471)
+[03/11/2023 00:52:42]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:52:42]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:52:42]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:52:42]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:52:42]
+  igameCrog disconnected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:52:42]
+  igameCrog connected a wire from Текстовый экран (set_color) to Терминал (signal_out)
+[03/11/2023 00:52:43]
+  Супостат499 activated Деконструктор
+[03/11/2023 00:52:45]
+  igameCrog disconnected a wire from Текстовый экран (set_color) to Терминал (signal_out)
+[03/11/2023 00:52:47]
+  igameCrog connected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:52:51]
+  igameCrog disconnected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 00:52:51]
+  igameCrog connected a wire from Терминал (set_text_color) to Текстовый экран (set_text)
+[03/11/2023 00:52:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:53]
+  igameCrog disconnected a wire from Терминал (set_text_color) to Текстовый экран (set_text)
+[03/11/2023 00:52:53]
+  igameCrog connected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 00:52:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  Arron Gregory: Здесь ужасно тихо.
+[03/11/2023 00:52:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  igameCrog disconnected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 00:52:56]
+  igameCrog connected a wire from Терминал (clear_text) to Текстовый экран (set_text)
+[03/11/2023 00:52:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:52:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  igameCrog disconnected a wire from Терминал (clear_text) to Текстовый экран (set_text)
+[03/11/2023 00:52:57]
+  igameCrog connected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 00:52:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  Arron Gregory: У меня наушник, вообще, работает?
+[03/11/2023 00:52:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:57]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:52:58]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 00:52:58]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:58]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:52:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 00:53:01]
+  Devin Maxwell started repairing Деконструктор
+[03/11/2023 00:53:01]
+  Lionel Mungo started repairing Деконструктор
+[03/11/2023 00:53:01]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:53:03]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:53:04]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 00:53:06]
+  igameCrog disconnected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:53:06]
+  igameCrog connected a wire from Текстовый экран (set_color) to Терминал (signal_out)
+[03/11/2023 00:53:10]
+  igameCrog disconnected a wire from Осветительный компонент (set_state) to Компонент "Реле" (state_out)
+[03/11/2023 00:53:10]
+  igameCrog connected a wire from Осветительный компонент (set_color) to Компонент "Реле" (state_out)
+[03/11/2023 00:53:11]
+  igameCrog disconnected a wire from Осветительный компонент (set_color) to Компонент "Реле" (state_out)
+[03/11/2023 00:53:11]
+  igameCrog connected a wire from Осветительный компонент (set_state) to Компонент "Реле" (state_out)
+[03/11/2023 00:53:12]
+  igameCrog set the value "LightColor" of the item "Осветительный компонент" to "255,255,255,255".
+[03/11/2023 00:53:14]
+  igameCrog disconnected a wire from Текстовый экран (set_color) to Терминал (signal_out)
+[03/11/2023 00:53:14]
+  igameCrog connected a wire from Текстовый экран (set_text_color) to Терминал (signal_out)
+[03/11/2023 00:53:17]
+  igameCrog disconnected a wire from Текстовый экран (set_text_color) to Терминал (signal_out)
+[03/11/2023 00:53:17]
+  igameCrog connected a wire from Текстовый экран (set_text) to Терминал (signal_out)
+[03/11/2023 00:53:18]
+  Супостат499 picked up Свинец
+[03/11/2023 00:53:18]
+  Супостат499 picked up Свинец
+[03/11/2023 00:53:18]
+  Супостат499 picked up Свинец
+[03/11/2023 00:53:18]
+  Супостат499 picked up Железо
+[03/11/2023 00:53:18]
+  Супостат499 picked up Железо
+[03/11/2023 00:53:18]
+  Супостат499 picked up Железо
+[03/11/2023 00:53:18]
+  Супостат499 picked up Железо
+[03/11/2023 00:53:19]
+  Супостат499 picked up Фосфор
+[03/11/2023 00:53:19]
+  Супостат499 picked up Фосфор
+[03/11/2023 00:53:19]
+  Супостат499 picked up Фосфор
+[03/11/2023 00:53:19]
+  Супостат499 picked up Фосфор
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:19]
+  Супостат499 picked up Цинк
+[03/11/2023 00:53:22]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:22]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:22]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:22]
+  Супостат499 placed Железо in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:24]
+  Супостат499 placed Свинец in Контейнер для хранения (ID: 1303)
+[03/11/2023 00:53:24]
+  Супостат499 placed Свинец in Контейнер для хранения (ID: 1303)
+[03/11/2023 00:53:24]
+  Супостат499 placed Свинец in Контейнер для хранения (ID: 1303)
+[03/11/2023 00:53:26]
+  Супостат499 equipped Контейнер для хранения
+[03/11/2023 00:53:26]
+  Супостат499 picked up Контейнер для хранения
+[03/11/2023 00:53:29]
+  Супостат499 placed Свинец in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:29]
+  Супостат499 placed Свинец in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:29]
+  Супостат499 placed Свинец in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:31]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 473)
+[03/11/2023 00:53:34]
+  Супостат499 placed Фосфор in Контейнер для хранения (ID: 1397)
+[03/11/2023 00:53:34]
+  Супостат499 placed Фосфор in Контейнер для хранения (ID: 1397)
+[03/11/2023 00:53:34]
+  Супостат499 placed Фосфор in Контейнер для хранения (ID: 1397)
+[03/11/2023 00:53:34]
+  Супостат499 placed Фосфор in Контейнер для хранения (ID: 1397)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:36]
+  Супостат499 placed Цинк in Контейнер для хранения (ID: 221)
+[03/11/2023 00:53:37]
+  igameCrog entered "7" on Терминал
+[03/11/2023 00:53:39]
+  igameCrog entered "0" on Терминал
+[03/11/2023 00:53:49]
+  igameCrog disconnected a wire from Терминал (signal_out) to Текстовый экран (set_text)
+[03/11/2023 00:53:50]
+  igameCrog disconnected a wire from Терминал (signal_in) to Ядерный реактор (meltdown_warning)
+[03/11/2023 00:53:57]
+  igameCrog disconnected a wire from Текстовый экран (set_text)
+[03/11/2023 00:53:57]
+  igameCrog picked up Коричневый провод
+[03/11/2023 00:54:00]
+  Супостат499 picked up Military Mk-II Hardsuit
+[03/11/2023 00:54:00]
+  igameCrog connected a wire to Текстовый экран (set_text)
+[03/11/2023 00:54:05]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 00:54:05]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:54:05]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:54:11]
+  Devin Maxwell started repairing Двигатель
+[03/11/2023 00:54:11]
+  Lionel Mungo started repairing Двигатель
+[03/11/2023 00:54:12]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:54:12]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:54:13]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 00:54:14]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 00:54:15]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 00:54:19]
+  igameCrog connected a wire from Ядерный реактор (meltdown_warning) to Текстовый экран (set_text)
+[03/11/2023 00:54:22]
+  igameCrog disconnected a wire from Ядерный реактор (meltdown_warning)
+[03/11/2023 00:54:22]
+  igameCrog picked up Коричневый провод
+[03/11/2023 00:54:25]
+  Darwin Brady equipped Водолазный скафандр
+[03/11/2023 00:54:28]
+  Arron Gregory: igameCrog проходит лечение здесь: реакторный отсек!
+[03/11/2023 00:54:29]
+  Arron Gregory: igameCrog нуждается в помощи! Срочно требуется бинт или морфин!
+[03/11/2023 00:54:30]
+  Arron Gregory equipped Бинт
+[03/11/2023 00:54:44]
+  Arron Gregory equipped Бинт
+[03/11/2023 00:54:48]
+  igameCrog unequipped Терминал
+[03/11/2023 00:54:48]
+  igameCrog detached Терминал from a wall
+[03/11/2023 00:54:52]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 00:54:53]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:54:53]
+  Arron Gregory: igameCrog чувствует себя хорошо!
+[03/11/2023 00:54:53]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 00:54:56]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:54:56]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:54:57]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 00:54:59]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/11/2023 00:55:01]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 00:55:01]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:55:02]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 00:55:08]
+  Супостат499 placed Хризопраз in Рюкзак (ID: 7535)
+[03/11/2023 00:55:08]
+  Супостат499 placed Хризопраз in Рюкзак (ID: 7535)
+[03/11/2023 00:55:08]
+  Супостат499 placed Хризопраз in Рюкзак (ID: 7535)
+[03/11/2023 00:55:10]
+  Супостат499 placed Бавалин in Рюкзак (ID: 7535)
+[03/11/2023 00:55:10]
+  Супостат499 placed Бавалин in Рюкзак (ID: 7535)
+[03/11/2023 00:55:10]
+  Супостат499 placed Бавалин in Рюкзак (ID: 7535)
+[03/11/2023 00:55:10]
+  Супостат499 placed Бавалин in Рюкзак (ID: 7535)
+[03/11/2023 00:55:20]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:55:21]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:55:22]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 00:55:23]
+  igameCrog adjusted reactor settings: Temperature: 4984, Fission rate: 30, Turbine output: 45, Autotemp ON
+[03/11/2023 00:55:24]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 00:55:27]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:55:27]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:55:41]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:55:41]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:55:42]
+  Darwin Brady started repairing Навигационный терминал
+[03/11/2023 00:55:46]
+  Devin Maxwell started repairing Навигационный терминал
+[03/11/2023 00:55:47]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:55:48]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:55:48]
+  igameCrog adjusted reactor settings: Temperature: 5012, Fission rate: 29, Turbine output: 45, Autotemp ON
+[03/11/2023 00:56:00]
+  Супостат499 placed Галена in Рюкзак (ID: 7535)
+[03/11/2023 00:56:00]
+  Супостат499 placed Галена in Рюкзак (ID: 7535)
+[03/11/2023 00:56:00]
+  Супостат499 placed Галена in Рюкзак (ID: 7535)
+[03/11/2023 00:56:00]
+  Супостат499 placed Галена in Рюкзак (ID: 7535)
+[03/11/2023 00:56:05]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 00:56:05]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 00:56:13]
+  igameCrog adjusted reactor settings: Temperature: 5004, Fission rate: 30, Turbine output: 46, Autotemp ON
+[03/11/2023 00:56:16]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:56:17]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:56:18]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 00:56:22]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:56:26]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:56:26]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:56:26]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:56:32]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:56:32]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:56:32]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:56:37]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 00:56:39]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 00:56:44]
+  Супостат499 closed Дверь с кнопками
+[03/11/2023 00:56:44]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 00:56:58]
+  igameCrog adjusted reactor settings: Temperature: 5025, Fission rate: 35, Turbine output: 63, Autotemp OFF
+[03/11/2023 00:57:01]
+  igameCrog adjusted reactor settings: Temperature: 5063, Fission rate: 35, Turbine output: 66, Autotemp OFF
+[03/11/2023 00:57:02]
+  igameCrog adjusted reactor settings: Temperature: 4658, Fission rate: 35, Turbine output: 76, Autotemp OFF
+[03/11/2023 00:57:02]
+  Супостат499 placed Military Mk-II Hardsuit in Шкаф для подводного снаряжения (ID: 547)
+[03/11/2023 00:57:02]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 547)
+[03/11/2023 00:57:02]
+  Супостат499 picked up Водолазный скафандр
+[03/11/2023 00:57:03]
+  igameCrog adjusted reactor settings: Temperature: 4847, Fission rate: 35, Turbine output: 48, Autotemp OFF
+[03/11/2023 00:57:03]
+  Супостат499 dropped Водолазный скафандр
+[03/11/2023 00:57:04]
+  igameCrog adjusted reactor settings: Temperature: 5847, Fission rate: 35, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:05]
+  igameCrog adjusted reactor settings: Temperature: 5854, Fission rate: 29, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:06]
+  igameCrog adjusted reactor settings: Temperature: 4861, Fission rate: 24, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:07]
+  igameCrog adjusted reactor settings: Temperature: 3892, Fission rate: 30, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:08]
+  igameCrog adjusted reactor settings: Temperature: 4783, Fission rate: 34, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:09]
+  igameCrog adjusted reactor settings: Temperature: 5783, Fission rate: 38, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:09]
+  Супостат499 placed Лазулит in Рюкзак (ID: 7535)
+[03/11/2023 00:57:10]
+  igameCrog adjusted reactor settings: Temperature: 5986, Fission rate: 35, Turbine output: 55, Autotemp OFF
+[03/11/2023 00:57:12]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:57:12]
+  Супостат499 picked up Fire Jumpsuit
+[03/11/2023 00:57:12]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:57:13]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 00:57:14]
+  igameCrog adjusted reactor settings: Temperature: 5853, Fission rate: 35, Turbine output: 60, Autotemp OFF
+[03/11/2023 00:57:15]
+  igameCrog adjusted reactor settings: Temperature: 5398, Fission rate: 35, Turbine output: 64, Autotemp OFF
+[03/11/2023 00:57:16]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 00:57:17]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 00:57:17]
+  igameCrog adjusted reactor settings: Temperature: 4985, Fission rate: 35, Turbine output: 69, Autotemp OFF
+[03/11/2023 00:57:18]
+  igameCrog adjusted reactor settings: Temperature: 4653, Fission rate: 35, Turbine output: 72, Autotemp OFF
+[03/11/2023 00:57:19]
+  igameCrog adjusted reactor settings: Temperature: 4331, Fission rate: 35, Turbine output: 72, Autotemp OFF
+[03/11/2023 00:57:20]
+  igameCrog adjusted reactor settings: Temperature: 4180, Fission rate: 35, Turbine output: 76, Autotemp OFF
+[03/11/2023 00:57:21]
+  igameCrog adjusted reactor settings: Temperature: 3920, Fission rate: 35, Turbine output: 76, Autotemp OFF
+[03/11/2023 00:57:22]
+  Супостат499 placed Бавалин in Деконструктор (ID: 471)
+[03/11/2023 00:57:22]
+  Супостат499 placed Бавалин in Деконструктор (ID: 471)
+[03/11/2023 00:57:22]
+  Супостат499 placed Бавалин in Деконструктор (ID: 471)
+[03/11/2023 00:57:22]
+  Супостат499 placed Бавалин in Деконструктор (ID: 471)
+[03/11/2023 00:57:22]
+  igameCrog adjusted reactor settings: Temperature: 3516, Fission rate: 35, Turbine output: 82, Autotemp OFF
+[03/11/2023 00:57:23]
+  igameCrog adjusted reactor settings: Temperature: 2806, Fission rate: 35, Turbine output: 90, Autotemp OFF
+[03/11/2023 00:57:24]
+  igameCrog adjusted reactor settings: Temperature: 2384, Fission rate: 35, Turbine output: 96, Autotemp OFF
+[03/11/2023 00:57:25]
+  Супостат499 placed Галена in Деконструктор (ID: 471)
+[03/11/2023 00:57:25]
+  Супостат499 placed Галена in Деконструктор (ID: 471)
+[03/11/2023 00:57:25]
+  Супостат499 placed Галена in Деконструктор (ID: 471)
+[03/11/2023 00:57:25]
+  Супостат499 placed Галена in Деконструктор (ID: 471)
+[03/11/2023 00:57:25]
+  igameCrog adjusted reactor settings: Temperature: 1911, Fission rate: 35, Turbine output: 97, Autotemp OFF
+[03/11/2023 00:57:26]
+  igameCrog adjusted reactor settings: Temperature: 2297, Fission rate: 35, Turbine output: 84, Autotemp OFF
+[03/11/2023 00:57:27]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:57:27]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:57:27]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:57:27]
+  Супостат499 placed Лазулит in Деконструктор (ID: 471)
+[03/11/2023 00:57:27]
+  igameCrog adjusted reactor settings: Temperature: 2763, Fission rate: 35, Turbine output: 83, Autotemp OFF
+[03/11/2023 00:57:28]
+  igameCrog adjusted reactor settings: Temperature: 3508, Fission rate: 35, Turbine output: 72, Autotemp OFF
+[03/11/2023 00:57:29]
+  Супостат499 activated Деконструктор
+[03/11/2023 00:57:29]
+  igameCrog adjusted reactor settings: Temperature: 4023, Fission rate: 35, Turbine output: 72, Autotemp OFF
+[03/11/2023 00:57:30]
+  igameCrog adjusted reactor settings: Temperature: 3918, Fission rate: 35, Turbine output: 78, Autotemp OFF
+[03/11/2023 00:57:42]
+  kynlan4ic: Пункт управления: здесь протечка!
+[03/11/2023 00:57:44]
+  Darwin Brady equipped Сварочный аппарат
+[03/11/2023 00:57:44]
+  Outer wall repaired by Darwin Brady
+[03/11/2023 00:57:44]
+  Outer wall repaired by Darwin Brady
+[03/11/2023 00:57:45]
+  Darwin Brady: Моторный отсек: все протечки устранены!
+[03/11/2023 00:57:46]
+  Darwin Brady unequipped Сварочный аппарат
+[03/11/2023 00:57:56]
+  igameCrog adjusted reactor settings: Temperature: 3537, Fission rate: 35, Turbine output: 78, Autotemp OFF
+[03/11/2023 00:58:04]
+  igameCrog adjusted reactor settings: Temperature: 5224, Fission rate: 35, Turbine output: 78, Autotemp OFF
+[03/11/2023 00:58:15]
+  Darwin Brady equipped Отвертка
+[03/11/2023 00:58:15]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 00:58:16]
+  Darwin Brady started repairing Батарея
+[03/11/2023 00:58:16]
+  igameCrog adjusted reactor settings: Temperature: 4794, Fission rate: 35, Turbine output: 78, Autotemp OFF
+[03/11/2023 00:58:18]
+  Devin Maxwell started repairing Ядерный реактор
+[03/11/2023 00:58:19]
+  kynlan4ic docked Wellerman to Старательский аванпост Skaani

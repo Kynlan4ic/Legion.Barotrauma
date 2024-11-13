@@ -1,0 +1,594 @@
+﻿Barotrauma Client crash report (generated on 02/25/2023 20:48:41)
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+18B4B1F1463515508F0783BBFA6953EC
+
+Game version 0.21.6.0 (ReleaseWindows, branch release, revision 480a2279e0)
+Graphics mode: 1440x900 (BorderlessWindowed)
+VSync ON
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra, Dors, Umkhumbi, Uzurbator3000, SITE 18 SCP 3.5 FIXED DOORS 3.5, EK Matriarch Mk-VII, The Plague Rat, Super Plague Rat, Fat Fish, Bronze Age, Cast Iron, Nemesis, QF8, IHN Kalvair, Wellerman, Unnamed, Челнок R-155, CzechSaboteur, Челнок R-170, Гага дрын
+Level seed: Worm Cave
+Loaded submarine: Orca (68B15A84EF222CB3BF9929A0DEE7CA77)
+Selected screen: Barotrauma.GameScreen
+SteamManager initialized
+Client (Round hadn't been started)
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+    GPU name: NVIDIA GeForce GTX 1650
+    Display mode: {Width:1440 Height:900 Format:Color AspectRatio:1.6}
+    GPU status: Normal
+
+Exception: readStream was disconnected unexpectedly (System.Exception)
+Target site: Void CheckPipeConnected(System.String, System.IO.Pipes.AnonymousPipeServerStream)
+Stack trace: 
+   at Barotrauma.Networking.ChildServerRelay.CheckPipeConnected(String name, AnonymousPipeServerStream pipe) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 164
+   at Barotrauma.Networking.ChildServerRelay.UpdateRead() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 175
+
+Last debug messages:
+[02/25/2023 20:48:40] Error while reading a message from server. 
+Failed to find the end of the bit field: end of the message reached.
+   at Barotrauma.ReadOnlyBitField..ctor(IReadMessage inc) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\NetStructBitField.cs:line 101
+   at Barotrauma.Networking.SteamP2POwnerPeer.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\Primitives\Peers\SteamP2POwnerPeer.cs:line 225
+   at Barotrauma.Networking.GameClient.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\GameClient.cs:line 500
+[02/25/2023 20:48:14] vlad32
+[02/25/2023 20:48:14] igameCrog
+[02/25/2023 20:48:14] kynlan4ic
+[02/25/2023 20:48:13] vlad32
+[02/25/2023 20:48:13] igameCrog
+[02/25/2023 20:48:13] kynlan4ic
+[02/25/2023 20:47:17] Server running slowly (47 updates/s)!
+[02/25/2023 20:47:06] Server running slowly (56 updates/s)!
+[02/25/2023 20:46:56] Server running slowly (44 updates/s)!
+[02/25/2023 20:46:35] Server running slowly (58 updates/s)!
+[02/25/2023 20:46:14] Server running slowly (58 updates/s)!
+[02/25/2023 20:45:54] Server running slowly (58 updates/s)!
+[02/25/2023 20:45:13] Server running slowly (58 updates/s)!
+[02/25/2023 20:42:52] Server running slowly (57 updates/s)!
+[02/25/2023 20:34:37] Server running slowly (58 updates/s)!
+[02/25/2023 20:19:32] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock4").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 20:19:32] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock1").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 20:19:32] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock1").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 20:19:32] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock3").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 20:14:56] vlad32
+[02/25/2023 20:14:56] igameCrog
+[02/25/2023 20:14:56] kynlan4ic
+[02/25/2023 20:14:48] vlad32
+[02/25/2023 20:14:48] igameCrog
+[02/25/2023 20:14:48] kynlan4ic
+[02/25/2023 20:14:47] vlad32
+[02/25/2023 20:14:47] igameCrog
+[02/25/2023 20:14:47] kynlan4ic
+[02/25/2023 20:14:45] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 20:14:45] Task count: 0
+[02/25/2023 20:14:45] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[02/25/2023 20:14:41] Generating an outpost for the start of the level... (Location: Добывающий центр Worm Cave, level type: Outpost)
+[02/25/2023 20:14:41] Level identifier: outpostlevel
+[02/25/2023 20:14:23] vlad32
+[02/25/2023 20:14:23] igameCrog
+[02/25/2023 20:14:23] kynlan4ic
+[02/25/2023 20:14:22] vlad32
+[02/25/2023 20:14:22] igameCrog
+[02/25/2023 20:14:22] kynlan4ic
+[02/25/2023 20:14:21] vlad32
+[02/25/2023 20:14:21] igameCrog
+[02/25/2023 20:14:21] kynlan4ic
+[02/25/2023 20:14:21] vlad32
+[02/25/2023 20:14:21] igameCrog
+[02/25/2023 20:14:21] kynlan4ic
+[02/25/2023 20:14:20] vlad32
+[02/25/2023 20:14:20] igameCrog
+[02/25/2023 20:14:20] kynlan4ic
+[02/25/2023 20:14:20] vlad32
+[02/25/2023 20:14:20] igameCrog
+[02/25/2023 20:14:20] kynlan4ic
+[02/25/2023 20:14:20] vlad32
+[02/25/2023 20:14:20] igameCrog
+[02/25/2023 20:14:20] kynlan4ic
+[02/25/2023 20:08:13] Server running slowly (55 updates/s)!
+[02/25/2023 20:06:16] vlad32
+[02/25/2023 20:06:16] igameCrog
+[02/25/2023 20:06:16] kynlan4ic
+[02/25/2023 20:01:45] kynlan4ic's godmode off
+[02/25/2023 20:01:45] Server command: godmode
+[02/25/2023 20:01:45] godmode
+[02/25/2023 20:01:40] kynlan4ic's godmode on
+[02/25/2023 20:01:40] Server command: godmode
+[02/25/2023 20:01:40] godmode
+[02/25/2023 20:01:21] kynlan4ic's godmode off
+[02/25/2023 20:01:21] Server command: godmode
+[02/25/2023 20:01:21] godmode
+[02/25/2023 19:59:44] kynlan4ic's godmode on
+[02/25/2023 19:59:44] Server command: godmode
+[02/25/2023 19:59:44] godmode
+[02/25/2023 19:51:33] Server running slowly (54 updates/s)!
+[02/25/2023 19:33:21] Server running slowly (54 updates/s)!
+[02/25/2023 19:32:18] Mainsub godmode on
+[02/25/2023 19:32:18] Server command: godmode_mainsub
+[02/25/2023 19:32:18] godmode_mainsub
+[02/25/2023 19:32:09] Server command: enablecheats
+[02/25/2023 19:32:09] enablecheats
+[02/25/2023 19:32:00] vlad32
+[02/25/2023 19:32:00] igameCrog
+[02/25/2023 19:32:00] kynlan4ic
+[02/25/2023 19:31:59] vlad32
+[02/25/2023 19:31:59] igameCrog
+[02/25/2023 19:31:59] kynlan4ic
+[02/25/2023 19:31:49] vlad32
+[02/25/2023 19:31:48] igameCrog
+[02/25/2023 19:31:48] kynlan4ic
+[02/25/2023 19:31:48] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is creepingorange, client entity is lithium). Ignoring the message...
+[02/25/2023 19:31:47] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 19:31:46] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 19:31:42] Task count: 0
+[02/25/2023 19:31:42] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[02/25/2023 19:31:40] Server running slowly (52 updates/s)!
+[02/25/2023 19:31:31] Generating an outpost for the end of the level... (Location: Добывающий центр Worm Cave, level type: LocationConnection)
+[02/25/2023 19:31:30] Generating an outpost for the start of the level... (Location: Станция Thaw, level type: LocationConnection)
+[02/25/2023 19:31:29] Level identifier: ridgebasic
+[02/25/2023 19:31:12] vlad32
+[02/25/2023 19:31:12] igameCrog
+[02/25/2023 19:31:12] kynlan4ic
+[02/25/2023 19:31:12] vlad32
+[02/25/2023 19:31:12] igameCrog
+[02/25/2023 19:31:12] kynlan4ic
+[02/25/2023 19:31:12] vlad32
+[02/25/2023 19:31:12] igameCrog
+[02/25/2023 19:31:12] kynlan4ic
+[02/25/2023 19:31:10] vlad32
+[02/25/2023 19:31:10] igameCrog
+[02/25/2023 19:31:10] kynlan4ic
+[02/25/2023 19:31:10] vlad32
+[02/25/2023 19:31:10] igameCrog
+[02/25/2023 19:31:10] kynlan4ic
+[02/25/2023 19:31:10] vlad32
+[02/25/2023 19:31:10] igameCrog
+[02/25/2023 19:31:10] kynlan4ic
+[02/25/2023 19:31:09] vlad32
+[02/25/2023 19:31:09] igameCrog
+[02/25/2023 19:31:09] kynlan4ic
+[02/25/2023 19:31:09] vlad32
+[02/25/2023 19:31:09] igameCrog
+[02/25/2023 19:31:09] kynlan4ic
+[02/25/2023 19:31:09] vlad32
+[02/25/2023 19:31:09] igameCrog
+[02/25/2023 19:31:09] kynlan4ic
+[02/25/2023 19:31:08] vlad32
+[02/25/2023 19:31:08] igameCrog
+[02/25/2023 19:31:08] kynlan4ic
+[02/25/2023 19:18:57] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock4").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:18:57] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock1").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:18:57] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock1").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:18:57] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock3").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.SubmarineSelection.ChangePage(Int32 pageChangeDirection) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 700
+   at Barotrauma.SubmarineSelection.<UpdatePaging>b__52_0(GUIButton button, Object userData) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 259
+   at Barotrauma.GUIButton.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUIButton.cs:line 263
+   at Barotrauma.GUI.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 1259
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 907
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:12:06] Server running slowly (56 updates/s)!
+[02/25/2023 19:07:04] Server running slowly (56 updates/s)!
+[02/25/2023 19:04:53] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock4").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.CampaignUI.SelectTab(InteractionType tab, Identifier storeIdentifier) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Screens\CampaignUI.cs:line 551
+   at Barotrauma.CampaignMode.NPCInteractProjSpecific(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameSession\GameModes\CampaignMode.cs:line 319
+   at Barotrauma.CampaignMode.NPCInteract(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\GameSession\GameModes\CampaignMode.cs:line 818
+   at Barotrauma.Character.DoInteractionUpdate(Single deltaTime, Vector2 mouseSimPos) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 2903
+   at Barotrauma.Character.ControlLocalPlayer(Single deltaTime, Camera cam, Boolean moveCam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 381
+   at Barotrauma.Character.UpdateControlled(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 419
+   at Barotrauma.Character.Update(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3160
+   at Barotrauma.Character.UpdateAll(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3020
+   at Barotrauma.GameScreen.Update(Double deltaTime) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Screens\GameScreen.cs:line 192
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 882
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:04:53] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock1").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.CampaignUI.SelectTab(InteractionType tab, Identifier storeIdentifier) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Screens\CampaignUI.cs:line 551
+   at Barotrauma.CampaignMode.NPCInteractProjSpecific(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameSession\GameModes\CampaignMode.cs:line 319
+   at Barotrauma.CampaignMode.NPCInteract(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\GameSession\GameModes\CampaignMode.cs:line 818
+   at Barotrauma.Character.DoInteractionUpdate(Single deltaTime, Vector2 mouseSimPos) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 2903
+   at Barotrauma.Character.ControlLocalPlayer(Single deltaTime, Camera cam, Boolean moveCam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 381
+   at Barotrauma.Character.UpdateControlled(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 419
+   at Barotrauma.Character.Update(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3160
+   at Barotrauma.Character.UpdateAll(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3020
+   at Barotrauma.GameScreen.Update(Double deltaTime) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Screens\GameScreen.cs:line 192
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 882
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:04:53] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock1").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.CampaignUI.SelectTab(InteractionType tab, Identifier storeIdentifier) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Screens\CampaignUI.cs:line 551
+   at Barotrauma.CampaignMode.NPCInteractProjSpecific(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameSession\GameModes\CampaignMode.cs:line 319
+   at Barotrauma.CampaignMode.NPCInteract(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\GameSession\GameModes\CampaignMode.cs:line 818
+   at Barotrauma.Character.DoInteractionUpdate(Single deltaTime, Vector2 mouseSimPos) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 2903
+   at Barotrauma.Character.ControlLocalPlayer(Single deltaTime, Camera cam, Boolean moveCam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 381
+   at Barotrauma.Character.UpdateControlled(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 419
+   at Barotrauma.Character.Update(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3160
+   at Barotrauma.Character.UpdateAll(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3020
+   at Barotrauma.GameScreen.Update(Double deltaTime) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Screens\GameScreen.cs:line 192
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 882
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:04:53] Failed to find a matching MapEntityPrefab (name: "", identifier: "BGRock3").
+   at System.Environment.get_StackTrace()
+   at Barotrauma.MapEntityPrefab.Find(String name, Identifier identifier, Boolean showErrorMessages) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\MapEntityPrefab.cs:line 0
+   at Barotrauma.Structure.FindPrefab(String name, Identifier identifier) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Structure.cs:line 1586
+   at Barotrauma.SubmarineInfo.IsCrushDepthDefinedInStructures(Single& realWorldCrushDepth) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\SubmarineInfo.cs:line 546
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 271
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 256
+   at Barotrauma.SubmarineInfo.CreateSpecsWindow(GUIListBox parent, GUIFont font, Boolean includeTitle, Boolean includeClass, Boolean includeDescription, Boolean includeCrushDepth) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 169
+   at Barotrauma.SubmarineSelection.SelectSubmarine(SubmarineInfo info, Rectangle backgroundRect) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 618
+   at Barotrauma.SubmarineSelection.RefreshSubmarineDisplay(Boolean updateSubs, Boolean setTransferOptionToTrue) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\SubmarineSelection.cs:line 445
+   at Barotrauma.CampaignUI.SelectTab(InteractionType tab, Identifier storeIdentifier) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Screens\CampaignUI.cs:line 551
+   at Barotrauma.CampaignMode.NPCInteractProjSpecific(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameSession\GameModes\CampaignMode.cs:line 319
+   at Barotrauma.CampaignMode.NPCInteract(Character npc, Character interactor) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\GameSession\GameModes\CampaignMode.cs:line 818
+   at Barotrauma.Character.DoInteractionUpdate(Single deltaTime, Vector2 mouseSimPos) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 2903
+   at Barotrauma.Character.ControlLocalPlayer(Single deltaTime, Camera cam, Boolean moveCam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 381
+   at Barotrauma.Character.UpdateControlled(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Characters\Character.cs:line 419
+   at Barotrauma.Character.Update(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3160
+   at Barotrauma.Character.UpdateAll(Single deltaTime, Camera cam) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Characters\Character.cs:line 3020
+   at Barotrauma.GameScreen.Update(Double deltaTime) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Screens\GameScreen.cs:line 192
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 882
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[02/25/2023 19:02:11] Server running slowly (56 updates/s)!
+[02/25/2023 19:02:03] vlad32
+[02/25/2023 19:02:03] igameCrog
+[02/25/2023 19:02:03] kynlan4ic
+[02/25/2023 19:01:59] vlad32
+[02/25/2023 19:01:59] igameCrog
+[02/25/2023 19:01:59] kynlan4ic
+[02/25/2023 19:01:59] vlad32
+[02/25/2023 19:01:59] igameCrog
+[02/25/2023 19:01:58] kynlan4ic
+[02/25/2023 19:01:56] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 19:01:56] Task count: 0
+[02/25/2023 19:01:56] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[02/25/2023 19:01:52] Generating an outpost for the start of the level... (Location: Станция Thaw, level type: Outpost)
+[02/25/2023 19:01:52] Level identifier: outpostlevel
+[02/25/2023 19:01:05] igameCrog
+[02/25/2023 19:01:05] kynlan4ic
+[02/25/2023 19:01:04] Server running slowly (56 updates/s)!
+[02/25/2023 19:01:04] igameCrog
+[02/25/2023 19:01:04] kynlan4ic
+[02/25/2023 19:00:31] igameCrog
+[02/25/2023 19:00:31] kynlan4ic
+[02/25/2023 18:59:56] igameCrog
+[02/25/2023 18:59:56] kynlan4ic
+[02/25/2023 18:59:56] igameCrog
+[02/25/2023 18:59:56] kynlan4ic
+[02/25/2023 18:59:55] igameCrog
+[02/25/2023 18:59:55] kynlan4ic
+[02/25/2023 18:59:55] igameCrog
+[02/25/2023 18:59:55] kynlan4ic
+[02/25/2023 18:59:55] igameCrog
+[02/25/2023 18:59:55] kynlan4ic
+[02/25/2023 18:59:54] igameCrog
+[02/25/2023 18:59:54] kynlan4ic
+[02/25/2023 18:59:52] igameCrog
+[02/25/2023 18:59:52] kynlan4ic
+[02/25/2023 18:59:52] igameCrog
+[02/25/2023 18:59:52] kynlan4ic
+[02/25/2023 18:59:52] igameCrog
+[02/25/2023 18:59:52] kynlan4ic
+[02/25/2023 18:59:52] igameCrog
+[02/25/2023 18:59:52] kynlan4ic
+[02/25/2023 18:58:15] igameCrog
+[02/25/2023 18:58:15] kynlan4ic
+[02/25/2023 18:57:53] igameCrog
+[02/25/2023 18:57:53] kynlan4ic
+[02/25/2023 18:57:52] igameCrog
+[02/25/2023 18:57:52] kynlan4ic
+[02/25/2023 18:57:52] igameCrog
+[02/25/2023 18:57:52] kynlan4ic
+[02/25/2023 18:57:51] igameCrog
+[02/25/2023 18:57:51] kynlan4ic
+[02/25/2023 18:57:41] Server running slowly (56 updates/s)!
+[02/25/2023 18:57:21] igameCrog
+[02/25/2023 18:57:21] kynlan4ic
+[02/25/2023 18:56:54] igameCrog
+[02/25/2023 18:56:54] kynlan4ic
+[02/25/2023 18:56:51] igameCrog
+[02/25/2023 18:56:51] kynlan4ic
+[02/25/2023 18:56:51] igameCrog
+[02/25/2023 18:56:51] kynlan4ic
+[02/25/2023 18:56:51] igameCrog
+[02/25/2023 18:56:51] kynlan4ic
+[02/25/2023 18:56:09] igameCrog
+[02/25/2023 18:56:09] kynlan4ic
+[02/25/2023 18:55:43] igameCrog
+[02/25/2023 18:55:43] kynlan4ic
+[02/25/2023 18:55:42] igameCrog
+[02/25/2023 18:55:42] kynlan4ic
+[02/25/2023 18:55:42] igameCrog
+[02/25/2023 18:55:42] kynlan4ic
+[02/25/2023 18:55:42] igameCrog
+[02/25/2023 18:55:42] kynlan4ic
+[02/25/2023 18:54:12] igameCrog
+[02/25/2023 18:54:12] kynlan4ic
+[02/25/2023 18:44:23] Server running slowly (55 updates/s)!
+[02/25/2023 18:41:35] Server command: spawnitem combatdivingsuit inventory
+[02/25/2023 18:41:35] spawnitem combatdivingsuit inventory
+[02/25/2023 18:41:04] Server command: spawnitem combatdivingsuit inventory
+[02/25/2023 18:41:04] spawnitem combatdivingsuit inventory
+[02/25/2023 18:27:01] vlad32
+[02/25/2023 18:27:01] igameCrog
+[02/25/2023 18:27:01] kynlan4ic
+[02/25/2023 18:26:52] vlad32
+[02/25/2023 18:26:52] igameCrog
+[02/25/2023 18:26:52] kynlan4ic
+[02/25/2023 18:26:50] vlad32
+[02/25/2023 18:26:50] igameCrog
+[02/25/2023 18:26:49] kynlan4ic
+[02/25/2023 18:26:47] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 18:26:47] Task count: 0
+[02/25/2023 18:26:47] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[02/25/2023 18:26:44] Generating an outpost for the start of the level... (Location: Станция Thaw, level type: Outpost)
+[02/25/2023 18:26:44] Level identifier: outpostlevel
+[02/25/2023 18:26:29] vlad32
+[02/25/2023 18:26:29] igameCrog
+[02/25/2023 18:26:29] kynlan4ic
+[02/25/2023 18:26:27] vlad32
+[02/25/2023 18:26:27] igameCrog
+[02/25/2023 18:26:27] kynlan4ic
+[02/25/2023 18:26:27] Server running slowly (53 updates/s)!
+[02/25/2023 18:24:55] vlad32
+[02/25/2023 18:24:55] igameCrog
+[02/25/2023 18:24:55] kynlan4ic
+[02/25/2023 18:24:41] vlad32
+[02/25/2023 18:24:41] igameCrog
+[02/25/2023 18:24:41] kynlan4ic
+[02/25/2023 18:24:36] vlad32
+[02/25/2023 18:24:36] igameCrog
+[02/25/2023 18:24:36] kynlan4ic
+[02/25/2023 18:24:35] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 18:24:34] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 18:24:31] Task count: 0
+[02/25/2023 18:24:31] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[02/25/2023 18:24:25] Generating an outpost for the start of the level... (Location: Жилой аванпост Phineus Linea, level type: LocationConnection)
+[02/25/2023 18:24:25] Server running slowly (54 updates/s)!
+[02/25/2023 18:24:24] Generating an outpost for the end of the level... (Location: Станция Thaw, level type: LocationConnection)
+[02/25/2023 18:24:16] Level identifier: plateaubasic
+[02/25/2023 18:24:02] vlad32
+[02/25/2023 18:24:02] igameCrog
+[02/25/2023 18:24:02] kynlan4ic
+[02/25/2023 18:24:01] Server running slowly (52 updates/s)!
+[02/25/2023 18:24:00] vlad32
+[02/25/2023 18:24:00] igameCrog
+[02/25/2023 18:24:00] kynlan4ic
+[02/25/2023 18:24:00] vlad32
+[02/25/2023 18:24:00] igameCrog
+[02/25/2023 18:24:00] kynlan4ic
+[02/25/2023 18:21:09] Server running slowly (57 updates/s)!
+[02/25/2023 18:16:06] Server running slowly (57 updates/s)!
+[02/25/2023 18:11:03] Server running slowly (56 updates/s)!
+[02/25/2023 17:58:00] vlad32
+[02/25/2023 17:58:00] igameCrog
+[02/25/2023 17:58:00] kynlan4ic
+[02/25/2023 17:57:57] vlad32
+[02/25/2023 17:57:57] igameCrog
+[02/25/2023 17:57:57] kynlan4ic
+[02/25/2023 17:57:56] vlad32
+[02/25/2023 17:57:56] igameCrog
+[02/25/2023 17:57:55] kynlan4ic
+[02/25/2023 17:57:53] Received STARTGAMEFINALIZE packet. Round init status: Started
+[02/25/2023 17:57:53] Task count: 0
+[02/25/2023 17:57:53] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[02/25/2023 17:57:50] Generating an outpost for the start of the level... (Location: Станция Thaw, level type: Outpost)
+[02/25/2023 17:57:50] Level identifier: outpostlevel
+[02/25/2023 17:57:06] Server running slowly (56 updates/s)!
+[02/25/2023 17:57:00] vlad32
+[02/25/2023 17:57:00] igameCrog
+[02/25/2023 17:57:00] kynlan4ic
+[02/25/2023 17:57:00] vlad32
+[02/25/2023 17:57:00] igameCrog
+[02/25/2023 17:57:00] kynlan4ic
+[02/25/2023 17:56:59] vlad32
+[02/25/2023 17:56:59] igameCrog
+[02/25/2023 17:56:59] kynlan4ic
+[02/25/2023 17:56:45] vlad32
+[02/25/2023 17:56:45] igameCrog
+[02/25/2023 17:56:45] kynlan4ic
+[02/25/2023 17:55:42] vlad32
+[02/25/2023 17:55:42] Чпок В Пупок
+[02/25/2023 17:55:42] igameCrog
+[02/25/2023 17:55:42] kynlan4ic
+[02/25/2023 17:55:34] vlad32
+[02/25/2023 17:55:34] Чпок В Пупок

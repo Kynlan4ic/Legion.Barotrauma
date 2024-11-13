@@ -1,0 +1,1600 @@
+﻿[03/06/2023 20:52:20]
+  Starting the server...
+[03/06/2023 20:52:20]
+  Using SteamP2P networking.
+[03/06/2023 20:52:20]
+  Server started
+[03/06/2023 20:52:20]
+  Игрок kynlan4ic присоединился к серверу.
+[03/06/2023 20:52:20]
+  Saving client permissions
+[03/06/2023 20:52:20]
+  Saving client permissions
+[03/06/2023 20:52:21]
+  Gamemode changed to Кампания
+[03/06/2023 20:53:25]
+  Игрок vlad32 присоединился к серверу.
+[03/06/2023 20:53:25]
+  Saving client permissions
+[03/06/2023 20:53:32]
+  vlad32 is ready to start the game.
+[03/06/2023 20:54:58]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/06/2023 20:55:00]
+  kynlan4ic is ready to start the game.
+[03/06/2023 20:55:04]
+  Starting a new round...
+[03/06/2023 20:55:05]
+  kynlan4ic is not ready to start the game.
+[03/06/2023 20:55:09]
+  vlad32 is not ready to start the game.
+[03/06/2023 20:55:28]
+  Game mode: Кампания
+[03/06/2023 20:55:28]
+  Submarine: Orca
+[03/06/2023 20:55:28]
+  Level seed: Balagtan
+[03/06/2023 20:55:28]
+  Alton Rock equipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Alton Rock unequipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Alton Rock equipped Отвертка
+[03/06/2023 20:55:28]
+  Socorro Whitely equipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Socorro Whitely unequipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Socorro Whitely equipped Отвертка
+[03/06/2023 20:55:28]
+  Owen Avery equipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Owen Avery unequipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Owen Avery equipped Отвертка
+[03/06/2023 20:55:28]
+  Valerie Dudley equipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Valerie Dudley unequipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Valerie Dudley equipped Отвертка
+[03/06/2023 20:55:28]
+  Valerie Dudley unequipped Отвертка
+[03/06/2023 20:55:28]
+  Valerie Dudley equipped Лом
+[03/06/2023 20:55:28]
+  Walker Hedrick equipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Walker Hedrick unequipped Гаечный ключ
+[03/06/2023 20:55:28]
+  Walker Hedrick equipped Отвертка
+[03/06/2023 20:55:29]
+  Althea Petersen equipped Отвертка
+[03/06/2023 20:55:29]
+  Alton Gallagher equipped Отвертка
+[03/06/2023 20:55:30]
+  Lee Linares equipped Отвертка
+[03/06/2023 20:55:30]
+  Minh Stogner equipped Лом
+[03/06/2023 20:55:31]
+  Round started.
+[03/06/2023 20:55:32]
+  Walker Hedrick: Прежде мы с вами не встречались.
+[03/06/2023 20:55:32]
+  Alton Gallagher unequipped Отвертка
+[03/06/2023 20:55:32]
+  Alton Rock unequipped Отвертка
+[03/06/2023 20:55:33]
+  Althea Petersen unequipped Отвертка
+[03/06/2023 20:55:33]
+  Valerie Dudley unequipped Лом
+[03/06/2023 20:55:33]
+  Lee Linares unequipped Отвертка
+[03/06/2023 20:55:33]
+  Minh Stogner unequipped Лом
+[03/06/2023 20:55:57]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/06/2023 20:56:24]
+  kynlan4ic equipped Металлический ящик
+[03/06/2023 20:56:29]
+  Mitchel Smith: Какая у вас отличная подлодка!
+[03/06/2023 20:56:31]
+  kynlan4ic picked up Умелый моряк
+[03/06/2023 20:56:31]
+  kynlan4ic picked up Умелый моряк
+[03/06/2023 20:56:31]
+  kynlan4ic picked up Умелый моряк
+[03/06/2023 20:56:43]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/06/2023 20:56:43]
+  kynlan4ic dropped Металлический ящик
+[03/06/2023 20:56:45]
+  kynlan4ic equipped Умелый моряк
+[03/06/2023 20:56:58]
+  Carlton Craig: Мне жаль, vlad32, это все, что я могу сделать!
+[03/06/2023 20:56:59]
+  Carlton Craig: vlad32 проходит лечение здесь: верхняя задняя часть!
+[03/06/2023 20:57:09]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:10]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:12]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:19]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:20]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:21]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:21]
+  kynlan4ic equipped Умелый моряк
+[03/06/2023 20:57:22]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:23]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:23]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:24]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:25]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:26]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:26]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:29]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:31]
+  kynlan4ic equipped Умелый моряк
+[03/06/2023 20:57:33]
+  kynlan4ic used Умелый моряк on Minh Stogner.
+[03/06/2023 20:57:33]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:34]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:35]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:36]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:36]
+  kynlan4ic used Умелый моряк on Дверь с окном и кнопками.
+[03/06/2023 20:57:36]
+  kynlan4ic used Умелый моряк on Дверь с окном и кнопками.
+[03/06/2023 20:57:37]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:38]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:39]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:39]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:40]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:41]
+  kynlan4ic used Умелый моряк on vlad32.
+[03/06/2023 20:57:44]
+  kynlan4ic equipped Пистолет-пулемет
+[03/06/2023 20:57:59]
+  Walker Hedrick unequipped Отвертка
+[03/06/2023 20:58:30]
+  kynlan4ic equipped Подводное ружье
+[03/06/2023 20:58:33]
+  vlad32 equipped Пистолет-пулемет
+[03/06/2023 20:58:45]
+  vlad32 equipped Металлический ящик
+[03/06/2023 20:58:48]
+  vlad32 picked up Умелый моряк
+[03/06/2023 20:58:48]
+  vlad32 picked up Умелый моряк
+[03/06/2023 20:58:49]
+  vlad32 picked up Справочник моряка
+[03/06/2023 20:58:51]
+  vlad32 dropped Металлический ящик
+[03/06/2023 20:58:51]
+  vlad32 equipped Умелый моряк
+[03/06/2023 20:58:57]
+  vlad32 used Умелый моряк on Defensebot.
+[03/06/2023 20:58:57]
+  vlad32 used Умелый моряк on Defensebot.
+[03/06/2023 20:58:58]
+  kynlan4ic equipped Металлический ящик
+[03/06/2023 20:58:59]
+  kynlan4ic dropped Металлический ящик
+[03/06/2023 20:59:00]
+  vlad32 used Умелый моряк on Defensebot.
+[03/06/2023 20:59:00]
+  vlad32 used Умелый моряк on Defensebot.
+[03/06/2023 20:59:01]
+  vlad32 used Умелый моряк on kynlan4ic.
+[03/06/2023 20:59:02]
+  vlad32 equipped Умелый моряк
+[03/06/2023 20:59:03]
+  vlad32 used Умелый моряк on kynlan4ic.
+[03/06/2023 20:59:05]
+  vlad32 used Умелый моряк on kynlan4ic.
+[03/06/2023 20:59:10]
+  vlad32 used Умелый моряк on kynlan4ic.
+[03/06/2023 20:59:11]
+  vlad32 used Умелый моряк on kynlan4ic.
+[03/06/2023 20:59:12]
+  vlad32 used Умелый моряк on kynlan4ic.
+[03/06/2023 20:59:13]
+  vlad32 equipped Справочник моряка
+[03/06/2023 20:59:40]
+  kynlan4ic equipped Медконтейнер
+[03/06/2023 20:59:40]
+  vlad32 picked up Магазин для ПП
+[03/06/2023 20:59:40]
+  vlad32 dropped Магазин для ПП
+[03/06/2023 20:59:40]
+  vlad32 placed Магазин для ПП in Пистолет-пулемет (ID: 8258)
+[03/06/2023 20:59:44]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:44]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:44]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:44]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:46]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/06/2023 20:59:56]
+  kynlan4ic placed Медконтейнер in Деконструктор (ID: 210)
+[03/06/2023 20:59:57]
+  kynlan4ic activated Деконструктор
+[03/06/2023 21:01:00]
+  vlad32 equipped Ружье
+[03/06/2023 21:01:14]
+  kynlan4ic equipped Ящик со взрывчаткой
+[03/06/2023 21:01:15]
+  kynlan4ic dropped Ящик со взрывчаткой
+[03/06/2023 21:01:42]
+  vlad32 equipped Контейнер для хранения
+[03/06/2023 21:01:42]
+  vlad32 picked up Контейнер для хранения
+[03/06/2023 21:01:44]
+  vlad32 dropped Магазин для ПП
+[03/06/2023 21:01:45]
+  vlad32 picked up Резина
+[03/06/2023 21:01:46]
+  Deborah Lavey has gained the talent 'Дармоед'
+[03/06/2023 21:01:47]
+  vlad32 picked up Резина
+[03/06/2023 21:01:48]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/06/2023 21:01:51]
+  vlad32 equipped Водолазный скафандр
+[03/06/2023 21:01:51]
+  Deborah Lavey has gained the talent 'Бегство'
+[03/06/2023 21:01:52]
+  vlad32 dropped Водолазный скафандр
+[03/06/2023 21:01:59]
+  Carlton Craig has gained the talent 'Грязные дела'
+[03/06/2023 21:02:02]
+  vlad32 equipped Водолазный скафандр бездны
+[03/06/2023 21:02:04]
+  Bennie Castro has gained the talent 'Автоматчик'
+[03/06/2023 21:02:04]
+  vlad32 dropped Водолазный скафандр бездны
+[03/06/2023 21:02:05]
+  vlad32 equipped Боевой водолазный скафандр
+[03/06/2023 21:02:06]
+  Bennie Castro has gained the talent 'Спецназовец-ветеран'
+[03/06/2023 21:02:09]
+  vlad32 picked up Кислородный баллон
+[03/06/2023 21:02:13]
+  Claire Suarez has gained the talent 'Военачальник'
+[03/06/2023 21:02:13]
+  Claire Suarez has gained the talent 'Набор для умиротворения'
+[03/06/2023 21:02:17]
+  vlad32 started fabricating Гидрокостюм in Фабрикатор
+[03/06/2023 21:02:21]
+  Delbert Graves has gained the talent 'Убийца'
+[03/06/2023 21:02:39]
+  vlad32 placed Кислородный баллон in Гидрокостюм (ID: 5467)
+[03/06/2023 21:02:40]
+  vlad32 picked up Гидрокостюм
+[03/06/2023 21:02:42]
+  vlad32 dropped Костюм котельника
+[03/06/2023 21:02:44]
+  vlad32 picked up Костюм котельника
+[03/06/2023 21:02:45]
+  Console command "control "Delbert Graves"" executed by kynlan4ic.
+[03/06/2023 21:02:46]
+  Delbert Graves set the value "Channel" of the item "Наушники" to "0".
+[03/06/2023 21:02:46]
+  vlad32 dropped Гидрокостюм
+[03/06/2023 21:02:51]
+  Carlton Craig: Мне жаль, Delbert Graves, это все, что я могу сделать!
+[03/06/2023 21:02:52]
+  Carlton Craig: Delbert Graves получает первую помощь здесь: верхняя задняя часть!
+[03/06/2023 21:03:04]
+  Delbert Graves equipped ТП
+[03/06/2023 21:03:14]
+  vlad32: kynlan4ic, наполни кислородные баллоны!
+[03/06/2023 21:03:19]
+  kynlan4ic: kynlan4ic, забудь об орудиях!
+[03/06/2023 21:03:32]
+  vlad32: kynlan4ic, найди оружие!
+[03/06/2023 21:03:34]
+  kynlan4ic: kynlan4ic, забудь об оружии!
+[03/06/2023 21:03:45]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/06/2023 21:03:46]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/06/2023 21:03:52]
+  Client "kynlan4ic" ended the round.
+[03/06/2023 21:03:54]
+  Ending the round...
+[03/06/2023 21:03:55]
+  Round ended.
+[03/06/2023 21:03:58]
+  Starting a new round...
+[03/06/2023 21:04:25]
+  Rosina Klein equipped Гаечный ключ
+[03/06/2023 21:04:25]
+  Rosina Klein unequipped Гаечный ключ
+[03/06/2023 21:04:25]
+  Rosina Klein equipped Отвертка
+[03/06/2023 21:04:25]
+  Roberta Gomez equipped Гаечный ключ
+[03/06/2023 21:04:25]
+  Roberta Gomez unequipped Гаечный ключ
+[03/06/2023 21:04:25]
+  Roberta Gomez equipped Отвертка
+[03/06/2023 21:04:25]
+  Roberta Gomez unequipped Отвертка
+[03/06/2023 21:04:25]
+  Roberta Gomez equipped Лом
+[03/06/2023 21:04:25]
+  Миссия: Матка роя ползунов
+[03/06/2023 21:04:25]
+  Поступили сообщения о чрезвычайно крупном и агрессивном ползуне, нападающем на суда на маршруте Balagtan - Onga Linea. Тому, кто убьет это опасное создание, полагается достойная награда в размере 5,000 кред.
+[03/06/2023 21:04:25]
+  Миссия: Пиратское судно
+[03/06/2023 21:04:25]
+  Отыщите пиратское судно, терроризирующее эту область, и уничтожьте его команду. Отмеченные точки указывают, где судно видели в последнее время.
+[03/06/2023 21:04:25]
+  Миссия: Уничтожение роя
+[03/06/2023 21:04:25]
+  Большой рой монстров (Ползун) терроризирует суда, следующие по маршруту Balagtan - Onga Linea. Команде, способной нейтрализовать его, полагается достойная награда в размере 3,500 кред.
+[03/06/2023 21:04:25]
+  Миссия: Охотничьи угодья
+[03/06/2023 21:04:25]
+  На этом маршруте находятся охотничьи угодья какого-то чудовища из бездны. Пока оно не уничтожено, на прилегающих территориях не появятся новые аванпосты, а существующие могут стать покинутыми.
+[03/06/2023 21:04:27]
+  Game mode: Кампания
+[03/06/2023 21:04:27]
+  Submarine: Orca
+[03/06/2023 21:04:27]
+  Level seed: Onga LineaBalagtan
+[03/06/2023 21:04:27]
+  Mission: Матка роя ползунов
+[03/06/2023 21:04:27]
+  Mission: Пиратское судно
+[03/06/2023 21:04:27]
+  Mission: Уничтожение роя
+[03/06/2023 21:04:27]
+  Mission: Охотничьи угодья
+[03/06/2023 21:04:28]
+  Carmen Box equipped Отвертка
+[03/06/2023 21:04:28]
+  Barry Robertson equipped Плазменный резак
+[03/06/2023 21:04:28]
+  Alta Collins equipped Сварочный аппарат
+[03/06/2023 21:04:28]
+  Larissa Lawson equipped Сварочный аппарат
+[03/06/2023 21:04:30]
+  Round started.
+[03/06/2023 21:04:34]
+  Fractalguardian2 equipped Паровая пушка стража
+[03/06/2023 21:04:34]
+  Fractalguardian equipped Гарпун стража
+[03/06/2023 21:04:34]
+  Fractalguardian2 equipped Паровая пушка стража
+[03/06/2023 21:04:34]
+  Fractalguardian equipped Гарпун стража
+[03/06/2023 21:04:35]
+  Rosina Klein unequipped Отвертка
+[03/06/2023 21:04:35]
+  Roberta Gomez unequipped Лом
+[03/06/2023 21:04:40]
+  Nolan Preston: Winston Gonzales, встань за орудия!
+[03/06/2023 21:04:41]
+  Winston Gonzales: Принято.
+[03/06/2023 21:04:45]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/06/2023 21:05:06]
+  Nolan Preston: Winston Gonzales, займись оружием!
+[03/06/2023 21:05:07]
+  Winston Gonzales: Слушаюсь!
+[03/06/2023 21:05:10]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/06/2023 21:05:13]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[03/06/2023 21:05:17]
+  Nolan Preston: Winston Gonzales, встань за орудия!
+[03/06/2023 21:05:18]
+  Winston Gonzales: Принято.
+[03/06/2023 21:05:28]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/06/2023 21:05:30]
+  Donn Pearson: Внутрь.
+[03/06/2023 21:05:31]
+  Donn Pearson: Нырять глубже? Нет, нырять внутрь.
+[03/06/2023 21:05:34]
+  vlad32 adjusted reactor settings: Temperature: 4208, Fission rate: 61, Turbine output: 69, Autotemp ON
+[03/06/2023 21:05:46]
+  Carlton Craig: vlad32 проходит лечение здесь: пункт управления!
+[03/06/2023 21:05:57]
+  vlad32: Deborah Lavey, можешь возвращаться к своим делам!
+[03/06/2023 21:06:00]
+  Nolan Preston: Winston Gonzales, встань за орудия!
+[03/06/2023 21:06:01]
+  Winston Gonzales: Есть!
+[03/06/2023 21:06:05]
+  Sara Lyons equipped Отвертка
+[03/06/2023 21:06:06]
+  Dominick Mansfield equipped Отвертка
+[03/06/2023 21:06:06]
+  Nolan Preston: Johny Bailey, встань за орудия!
+[03/06/2023 21:06:07]
+  Johny Bailey: Вас понял!
+[03/06/2023 21:06:09]
+  Sara Lyons started repairing Кабельная коробка
+[03/06/2023 21:06:11]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/06/2023 21:06:11]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/06/2023 21:06:12]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/06/2023 21:06:15]
+  Sara Lyons started repairing Кабельная коробка
+[03/06/2023 21:06:16]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/06/2023 21:06:16]
+  vlad32 equipped Гидрокостюм
+[03/06/2023 21:06:17]
+  Sara Lyons unequipped Отвертка
+[03/06/2023 21:06:18]
+  Rowena Colpitts picked up Водолазный скафандр бездны
+[03/06/2023 21:06:20]
+  Rowena Colpitts placed Водолазный скафандр бездны in Шкаф для подводного снаряжения (ID: 81)
+[03/06/2023 21:06:21]
+  Rowena Colpitts picked up УЗК
+[03/06/2023 21:06:22]
+  Dominick Mansfield unequipped Отвертка
+[03/06/2023 21:06:27]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:06:28]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:06:32]
+  vlad32 opened Настраиваемая дверь с окном
+[03/06/2023 21:06:33]
+  vlad32 opened Настраиваемая дверь с окном
+[03/06/2023 21:06:33]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:06:35]
+  vlad32 opened Настраиваемая дверь с окном
+[03/06/2023 21:06:36]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:06:36]
+  vlad32 opened Настраиваемая дверь с окном
+[03/06/2023 21:06:37]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:06:38]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:06:38]
+  Carlton Craig: Надо найти водолазный скафандр!
+[03/06/2023 21:06:41]
+  vlad32 closed Настраиваемый люк
+[03/06/2023 21:06:42]
+  Rowena Colpitts equipped Плазменный резак
+[03/06/2023 21:06:44]
+  vlad32 picked up Плазменный резак
+[03/06/2023 21:06:45]
+  vlad32 equipped Плазменный резак
+[03/06/2023 21:07:10]
+  vlad32 equipped Подводный скутер
+[03/06/2023 21:07:11]
+  vlad32 equipped Абордажный топор
+[03/06/2023 21:07:18]
+  Rowena Colpitts attacked by vlad32.
+[03/06/2023 21:07:18]
+  vlad32 used Абордажный топор on Rowena Colpitts.
+[03/06/2023 21:07:22]
+  kynlan4ic: Deborah Lavey, займись поврежденными устройствами!
+[03/06/2023 21:07:23]
+  kynlan4ic: Deborah Lavey, заряди эти батареи!
+[03/06/2023 21:07:23]
+  Deborah Lavey: Вас понял!
+[03/06/2023 21:07:24]
+  Deborah Lavey: Есть!
+[03/06/2023 21:07:24]
+  kynlan4ic: Deborah Lavey, заряди эти батареи!
+[03/06/2023 21:07:25]
+  vlad32 opened Настраиваемый люк
+[03/06/2023 21:07:25]
+  Deborah Lavey: Есть!
+[03/06/2023 21:07:29]
+  vlad32 closed Настраиваемый люк
+[03/06/2023 21:07:38]
+  vlad32: Sara Lyons, наполни кислородные баллоны!
+[03/06/2023 21:07:39]
+  Sara Lyons: Так точно!
+[03/06/2023 21:07:48]
+  Rowena Colpitts opened Настраиваемый люк
+[03/06/2023 21:07:51]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/06/2023 21:07:52]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/06/2023 21:07:55]
+  Rowena Colpitts placed УЗК in Шкаф для подводного снаряжения (ID: 561)
+[03/06/2023 21:07:59]
+  vlad32 removed Боевой водолазный скафандр from Шкаф для подводного снаряжения (ID: 157)
+[03/06/2023 21:08:00]
+  vlad32 placed Гидрокостюм in Шкаф для подводного снаряжения (ID: 157)
+[03/06/2023 21:08:06]
+  Rowena Colpitts placed Хризопраз in Контейнер для хранения (ID: 3589)
+[03/06/2023 21:08:06]
+  Rowena Colpitts placed Хризопраз in Контейнер для хранения (ID: 3589)
+[03/06/2023 21:08:06]
+  Rowena Colpitts placed Хризопраз in Контейнер для хранения (ID: 3589)
+[03/06/2023 21:08:07]
+  Rowena Colpitts placed Брокит in Контейнер для хранения (ID: 2407)
+[03/06/2023 21:08:07]
+  Rowena Colpitts placed Брокит in Контейнер для хранения (ID: 2407)
+[03/06/2023 21:08:07]
+  Rowena Colpitts placed Брокит in Контейнер для хранения (ID: 2407)
+[03/06/2023 21:08:07]
+  Rowena Colpitts placed Брокит in Контейнер для хранения (ID: 2407)
+[03/06/2023 21:08:08]
+  Rowena Colpitts placed Амблигонит in Контейнер для хранения (ID: 3731)
+[03/06/2023 21:08:08]
+  Rowena Colpitts placed Амблигонит in Контейнер для хранения (ID: 3731)
+[03/06/2023 21:08:08]
+  Rowena Colpitts placed Амблигонит in Контейнер для хранения (ID: 3731)
+[03/06/2023 21:08:14]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/06/2023 21:08:15]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/06/2023 21:08:17]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 10503)
+[03/06/2023 21:08:30]
+  Claire Suarez: Неизвестная цель обнаружена!
+[03/06/2023 21:08:30]
+  Claire Suarez: Стреляю!
+[03/06/2023 21:08:30]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:42]
+  Claire Suarez: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/06/2023 21:08:45]
+  Claire Suarez equipped Ящик пробивных снарядов
+[03/06/2023 21:08:45]
+  Rowena Colpitts equipped Магазин для ПП
+[03/06/2023 21:08:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:52]
+  Delbert Graves: Стреляю!
+[03/06/2023 21:08:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:57]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:08:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:08:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:00]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:00]
+  Claire Suarez: И-и-и-и... Готово!
+[03/06/2023 21:09:00]
+  Delbert Graves: И-и-и-и... Готово!
+[03/06/2023 21:09:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:03]
+  Nolan Preston: Rosina Klein, займись ремонтом поврежденных систем!
+[03/06/2023 21:09:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:04]
+  Rosina Klein: Принято.
+[03/06/2023 21:09:04]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:04]
+  Rosina Klein equipped Отвертка
+[03/06/2023 21:09:05]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:06]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:06]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:06]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:06]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:06]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:07]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:07]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Nolan Preston: Roberta Gomez, займись поврежденными устройствами!
+[03/06/2023 21:09:08]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:08]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:09]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:09]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:09]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:09]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:09]
+  Roberta Gomez: Принято.
+[03/06/2023 21:09:09]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:09]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:10]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:10]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:10]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:10]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:10]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:10]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:10]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:11]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:11]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:11]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:12]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:13]
+  Dominick Mansfield equipped Отвертка
+[03/06/2023 21:09:13]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:13]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/06/2023 21:09:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:13]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:13]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:13]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:14]
+  Dominick Mansfield unequipped Отвертка
+[03/06/2023 21:09:14]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:14]
+  Rosina Klein unequipped Отвертка
+[03/06/2023 21:09:14]
+  Claire Suarez: Стреляю!
+[03/06/2023 21:09:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:14]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:15]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:15]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:16]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:17]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:17]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:17]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:17]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:18]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:18]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:18]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:18]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:18]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:18]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:18]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:19]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:19]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:19]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:19]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:19]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:20]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:20]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:20]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:20]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:20]
+  Claire Suarez: Кажется, есть попадание!
+[03/06/2023 21:09:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:21]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:21]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:21]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:22]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:22]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:22]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:22]
+  Claire Suarez: Враг уничтожен!
+[03/06/2023 21:09:24]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:25]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:25]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:25]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:25]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:25]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:25]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:26]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:26]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:26]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:26]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:26]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:26]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:26]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:26]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:26]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:27]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:27]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:27]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:27]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:27]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:27]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:28]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:28]
+  Molochbaby attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/06/2023 21:09:32]
+  vlad32 equipped Ящик физикориевых снарядов
+[03/06/2023 21:09:32]
+  vlad32 picked up Ящик физикориевых снарядов
+[03/06/2023 21:09:34]
+  vlad32 removed Ящик пробивных снарядов from Зарядник магнитной пушки (ID: 341)
+[03/06/2023 21:09:35]
+  vlad32 placed Ящик физикориевых снарядов in Зарядник магнитной пушки (ID: 341)
+[03/06/2023 21:09:37]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:37]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:37]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:38]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:38]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:38]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:38]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:38]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:39]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:39]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:39]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:39]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:39]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:39]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:39]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:39]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:39]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:40]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:40]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:40]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:40]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:40]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:40]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:41]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:41]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:41]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:41]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:41]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:41]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:41]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:41]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:41]
+  Molochbaby has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:41]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:41]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:42]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:42]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:42]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:42]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:43]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:43]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:43]
+  Molochbaby attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:44]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:44]
+  Claire Suarez: Неизвестная цель обнаружена!
+[03/06/2023 21:09:44]
+  Claire Suarez: Стреляю!
+[03/06/2023 21:09:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/06/2023 21:09:46]
+  Deborah Lavey equipped Отвертка
+[03/06/2023 21:09:46]
+  Dominick Mansfield equipped Отвертка
+[03/06/2023 21:09:46]
+  Rowena Colpitts equipped Ящик пробивных снарядов
+[03/06/2023 21:09:46]
+  Sara Lyons equipped Отвертка
+[03/06/2023 21:09:47]
+  Delbert Graves equipped Ящик пробивных снарядов
+[03/06/2023 21:09:48]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:48]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:48]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:48]
+  Sara Lyons started repairing Кабельная коробка
+[03/06/2023 21:09:48]
+  Mudraptor attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:48]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:49]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:49]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:49]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:49]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:49]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:50]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:50]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:50]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:50]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:50]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/06/2023 21:09:50]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:50]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:50]
+  Mudraptor attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:51]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:51]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:51]
+  Deborah Lavey unequipped Отвертка
+[03/06/2023 21:09:51]
+  Sara Lyons unequipped Отвертка
+[03/06/2023 21:09:51]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:52]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:52]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:52]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:53]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:53]
+  Mudraptor attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:53]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:53]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:53]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:53]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:53]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:54]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:54]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:54]
+  Dominick Mansfield unequipped Отвертка
+[03/06/2023 21:09:54]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:54]
+  Mudraptor attacked by vlad32. Рваная рана: 42.0 Кровотечение: 1.5
+[03/06/2023 21:09:54]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:54]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/06/2023 21:09:54]
+  Mudraptor attacked by vlad32. Рваная рана: 28.0 Кровотечение: 1.0
+[03/06/2023 21:09:54]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:54]
+  Mudraptor attacked by vlad32. Рваная рана: 42.0 Кровотечение: 1.5
+[03/06/2023 21:09:55]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:55]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:55]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:55]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:55]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:55]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:55]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:56]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:56]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:56]
+  Mudraptor attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:56]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:56]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:56]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:57]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:57]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:57]
+  Rowena Colpitts equipped Дробные боеприпасы для цепной пушки
+[03/06/2023 21:09:57]
+  Dominick Mansfield equipped Отвертка
+[03/06/2023 21:09:57]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:57]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:58]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:58]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:58]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:58]
+  Deborah Lavey equipped Отвертка
+[03/06/2023 21:09:58]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:58]
+  vlad32 launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:09:58]
+  Mudraptor_veteran attacked by vlad32. Рваная рана: 7.8 Кровотечение: 0.2
+[03/06/2023 21:09:59]
+  Deborah Lavey started repairing Кабельная коробка
+[03/06/2023 21:09:59]
+  Mudraptor attacked by vlad32. Рваная рана: 42.0 Кровотечение: 1.5
+[03/06/2023 21:10:02]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/06/2023 21:10:02]
+  Bennie Castro: Огонь!
+[03/06/2023 21:10:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:06]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/06/2023 21:10:06]
+  Mudraptor_veteran has died (Cause of death: Рваная рана)
+[03/06/2023 21:10:06]
+  Bennie Castro: Цель уничтожена!
+[03/06/2023 21:10:06]
+  Claire Suarez: Цель уничтожена!
+[03/06/2023 21:10:06]
+  Dominick Mansfield unequipped Отвертка
+[03/06/2023 21:10:14]
+  Deborah Lavey unequipped Отвертка
+[03/06/2023 21:10:15]
+  Dominick Mansfield: Загружаю в реактор дополнительное топливо!
+[03/06/2023 21:10:17]
+  Dominick Mansfield equipped Топливный стержень
+[03/06/2023 21:10:28]
+  vlad32 adjusted reactor settings: Temperature: 1350, Fission rate: 55, Turbine output: 73, Autotemp ON
+[03/06/2023 21:10:31]
+  Delbert Graves: Цель зафиксирована: ледяной шпиль!
+[03/06/2023 21:10:31]
+  Delbert Graves: Огонь!
+[03/06/2023 21:10:31]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:32]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:32]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:32]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:32]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:33]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:33]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:10:44]
+  Roberta Gomez equipped Отвертка
+[03/06/2023 21:10:45]
+  Rosina Klein equipped Отвертка
+[03/06/2023 21:10:52]
+  Rosina Klein unequipped Отвертка
+[03/06/2023 21:10:52]
+  Roberta Gomez unequipped Отвертка
+[03/06/2023 21:10:55]
+  Dominick Mansfield equipped Отвертка
+[03/06/2023 21:10:56]
+  Deborah Lavey equipped Отвертка
+[03/06/2023 21:11:00]
+  Deborah Lavey started repairing Навигационный терминал
+[03/06/2023 21:11:02]
+  Sara Lyons equipped Отвертка
+[03/06/2023 21:11:02]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/06/2023 21:11:03]
+  Sara Lyons unequipped Отвертка
+[03/06/2023 21:11:04]
+  Roberta Gomez equipped Отвертка
+[03/06/2023 21:11:04]
+  Dominick Mansfield started repairing Навигационный терминал
+[03/06/2023 21:11:04]
+  Deborah Lavey unequipped Отвертка
+[03/06/2023 21:11:04]
+  Rosina Klein equipped Отвертка
+[03/06/2023 21:11:09]
+  Dominick Mansfield unequipped Отвертка
+[03/06/2023 21:11:13]
+  Rosina Klein unequipped Отвертка
+[03/06/2023 21:11:13]
+  Roberta Gomez unequipped Отвертка
+[03/06/2023 21:11:59]
+  Deborah Lavey equipped Отвертка
+[03/06/2023 21:12:00]
+  Dominick Mansfield equipped Отвертка
+[03/06/2023 21:12:02]
+  Deborah Lavey started repairing Кабельная коробка
+[03/06/2023 21:12:06]
+  Deborah Lavey unequipped Отвертка
+[03/06/2023 21:12:13]
+  Dominick Mansfield unequipped Отвертка
+[03/06/2023 21:12:22]
+  Delbert Graves: У меня новая цель! Не могу понять, что это такое...
+[03/06/2023 21:12:22]
+  Delbert Graves: Стреляю!
+[03/06/2023 21:12:22]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:22]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:23]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:23]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:23]
+  Spineling has died (Cause of death: Рваная рана)
+[03/06/2023 21:12:23]
+  Delbert Graves: Враг уничтожен!
+[03/06/2023 21:12:23]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:24]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:24]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:24]
+  Spineling has died (Cause of death: Рваная рана)
+[03/06/2023 21:12:24]
+  Delbert Graves: И-и-и-и... Готово!
+[03/06/2023 21:12:24]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:25]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:25]
+  Spineling has died (Cause of death: Рваная рана)
+[03/06/2023 21:12:25]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:25]
+  Spineling has died (Cause of death: Рваная рана)
+[03/06/2023 21:12:25]
+  Delbert Graves: Кажется, есть попадание!
+[03/06/2023 21:12:26]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:26]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)
+[03/06/2023 21:12:26]
+  Delbert Graves launched Магнитная пушка (projectile: Физикориевый снаряд)

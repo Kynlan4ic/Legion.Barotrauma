@@ -1,0 +1,1604 @@
+﻿[03/05/2023 00:33:44]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:33:44]
+  Round started.
+[03/05/2023 00:33:44]
+  Doria Delange: Прежде мы с вами не встречались.
+[03/05/2023 00:33:45]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:33:45]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:33:45]
+  Cathleen Fleig unequipped Отвертка
+[03/05/2023 00:33:45]
+  Matt Mead unequipped Лом
+[03/05/2023 00:33:45]
+  Marcellus Brady unequipped Отвертка
+[03/05/2023 00:33:45]
+  Socorro Mcneil unequipped Отвертка
+[03/05/2023 00:33:46]
+  Tyler Kramer unequipped Лом
+[03/05/2023 00:33:55]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:34:29]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/05/2023 00:34:29]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:34:38]
+  Pete Ramos: Какая у вас отличная подлодка!
+[03/05/2023 00:35:12]
+  kynlan4ic equipped Гидрокостюм
+[03/05/2023 00:35:17]
+  kynlan4ic removed Водолазный скафандр бездны from Шкаф для подводного снаряжения (ID: 81)
+[03/05/2023 00:35:22]
+  kynlan4ic placed Гидрокостюм in Шкаф для подводного снаряжения (ID: 81)
+[03/05/2023 00:35:29]
+  kynlan4ic transferred 1500 mk to vlad32 from the bank.
+[03/05/2023 00:35:30]
+  Carlton Craig: vlad32 в полном порядке!
+[03/05/2023 00:35:34]
+  kynlan4ic equipped Ящик пробивных снарядов
+[03/05/2023 00:35:38]
+  kynlan4ic dropped Ящик пробивных снарядов
+[03/05/2023 00:35:41]
+  kynlan4ic equipped Дробные боеприпасы для цепной пушки
+[03/05/2023 00:35:44]
+  kynlan4ic dropped Дробные боеприпасы для цепной пушки
+[03/05/2023 00:35:45]
+  kynlan4ic equipped Ящик пробивных снарядов
+[03/05/2023 00:35:48]
+  kynlan4ic dropped Ящик пробивных снарядов
+[03/05/2023 00:35:50]
+  kynlan4ic equipped Ящик пробивных снарядов
+[03/05/2023 00:35:52]
+  kynlan4ic dropped Ящик пробивных снарядов
+[03/05/2023 00:35:53]
+  kynlan4ic equipped Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:36:00]
+  kynlan4ic dropped Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:36:09]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/05/2023 00:36:13]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/05/2023 00:36:14]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/05/2023 00:36:16]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/05/2023 00:36:22]
+  kynlan4ic equipped Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:36:26]
+  kynlan4ic placed Физикориевые боеприпасы для цепной пушки in Полка с боеприпасами (ID: 958)
+[03/05/2023 00:36:28]
+  Carlton Craig: У меня нет средств для лечения! vlad32 в беде!
+[03/05/2023 00:36:29]
+  kynlan4ic equipped Металлический ящик
+[03/05/2023 00:36:29]
+  Carlton Craig: vlad32 проходит лечение здесь: верхняя задняя часть!
+[03/05/2023 00:36:35]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 210)
+[03/05/2023 00:36:36]
+  kynlan4ic activated Деконструктор
+[03/05/2023 00:37:01]
+  Console command "control "Deborah Lavey"" executed by kynlan4ic.
+[03/05/2023 00:37:02]
+  Deborah Lavey set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:37:11]
+  Deborah Lavey has gained the talent 'Бегство'
+[03/05/2023 00:37:11]
+  Deborah Lavey has gained the talent 'Почтальон'
+[03/05/2023 00:37:14]
+  Doria Delange unequipped Отвертка
+[03/05/2023 00:37:20]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/05/2023 00:37:21]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:38:38]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/05/2023 00:38:40]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/05/2023 00:38:55]
+  kynlan4ic equipped Медконтейнер
+[03/05/2023 00:39:00]
+  kynlan4ic dropped Медконтейнер
+[03/05/2023 00:39:01]
+  kynlan4ic equipped Медконтейнер
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:04]
+  kynlan4ic placed Морфин in Аптечка (ID: 233)
+[03/05/2023 00:39:05]
+  kynlan4ic dropped Медконтейнер
+[03/05/2023 00:39:05]
+  vlad32 picked up Лейка
+[03/05/2023 00:39:06]
+  vlad32 equipped Лейка
+[03/05/2023 00:39:08]
+  kynlan4ic equipped Контейнер для хранения
+[03/05/2023 00:39:08]
+  kynlan4ic picked up Контейнер для хранения
+[03/05/2023 00:39:09]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 235)
+[03/05/2023 00:39:12]
+  vlad32 placed Лейка in Средний стальной шкаф (ID: 243)
+[03/05/2023 00:39:18]
+  kynlan4ic picked up Адреналин
+[03/05/2023 00:39:19]
+  kynlan4ic placed Адреналин in Аптечка (ID: 233)
+[03/05/2023 00:39:29]
+  kynlan4ic picked up Лейка
+[03/05/2023 00:39:30]
+  kynlan4ic equipped Лейка
+[03/05/2023 00:39:35]
+  kynlan4ic placed Лейка in Средний стальной шкаф (ID: 243)
+[03/05/2023 00:41:13]
+  Joe Tyson unequipped Отвертка
+[03/05/2023 00:41:44]
+  kynlan4ic picked up Морфин
+[03/05/2023 00:41:44]
+  kynlan4ic picked up Морфин
+[03/05/2023 00:42:05]
+  kynlan4ic placed Морфин in Human
+[03/05/2023 00:42:05]
+  kynlan4ic placed Морфин in Human
+[03/05/2023 00:42:06]
+  Murray Geist: Ты что делаешь? Положи на место!
+[03/05/2023 00:43:49]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:43:51]
+  Darleen Rivera: Верхняя задняя часть: здесь противник!
+[03/05/2023 00:43:51]
+  Jerrell Poole: Верхняя задняя часть: здесь противник!
+[03/05/2023 00:43:51]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:43:51]
+  Armanda Clothier equipped Пистолет-пулемет
+[03/05/2023 00:43:52]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:43:52]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:43:53]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:43:53]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:43:54]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:43:54]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:43:54]
+  Doria Delange equipped Револьвер
+[03/05/2023 00:43:54]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:43:54]
+  Bennie Castro equipped Нож ныряльщика
+[03/05/2023 00:43:54]
+  Claire Suarez equipped Нож ныряльщика
+[03/05/2023 00:43:55]
+  Zachary Mason equipped Револьвер
+[03/05/2023 00:43:55]
+  Cathleen Fleig equipped Револьвер
+[03/05/2023 00:43:55]
+  Joe Tyson equipped Револьвер
+[03/05/2023 00:43:55]
+  Dannette Mooney equipped Гаечный ключ
+[03/05/2023 00:43:55]
+  Socorro Mcneil equipped Отвертка
+[03/05/2023 00:43:55]
+  Marcellus Brady equipped Отвертка
+[03/05/2023 00:43:55]
+  Tyler Kramer equipped Лом
+[03/05/2023 00:43:55]
+  Matt Mead equipped Лом
+[03/05/2023 00:43:55]
+  Delbert Graves equipped ТП
+[03/05/2023 00:43:56]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:43:56]
+  Willy Rivera equipped Лом
+[03/05/2023 00:43:57]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:43:57]
+  Joe Tyson unequipped Револьвер
+[03/05/2023 00:43:57]
+  Socorro Mcneil unequipped Отвертка
+[03/05/2023 00:43:57]
+  Doria Delange unequipped Револьвер
+[03/05/2023 00:43:57]
+  Joe Tyson equipped Револьвер
+[03/05/2023 00:43:57]
+  Annette Nicolosi unequipped Отвертка
+[03/05/2023 00:43:57]
+  Annette Nicolosi equipped Гаечный ключ
+[03/05/2023 00:43:57]
+  Doria Delange equipped Револьвер
+[03/05/2023 00:43:57]
+  Arkadi Meza equipped Револьвер
+[03/05/2023 00:43:57]
+  Socorro Mcneil equipped Отвертка
+[03/05/2023 00:43:57]
+  Willy Rivera equipped Лом
+[03/05/2023 00:43:57]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:43:58]
+  Marcellus Brady unequipped Отвертка
+[03/05/2023 00:43:58]
+  Tyler Kramer unequipped Лом
+[03/05/2023 00:43:58]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:43:59]
+  Tyler Kramer equipped Лом
+[03/05/2023 00:43:59]
+  Marcellus Brady equipped Отвертка
+[03/05/2023 00:43:59]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:43:59]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:43:59]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:44:00]
+  Willy Rivera equipped Лом
+[03/05/2023 00:44:00]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:44:01]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:44:01]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[03/05/2023 00:44:02]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:44:04]
+  Armanda Clothier unequipped Пистолет-пулемет
+[03/05/2023 00:44:04]
+  Armanda Clothier equipped Пистолет-пулемет
+[03/05/2023 00:44:04]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:04]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:04]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:04]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:04]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:04]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:04]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:04]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:04]
+  Jerrell Poole: Верхняя задняя часть: здесь протечка!
+[03/05/2023 00:44:05]
+  Darleen Rivera: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 00:44:06]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:44:06]
+  Armanda Clothier unequipped Пистолет-пулемет
+[03/05/2023 00:44:06]
+  Armanda Clothier equipped Пистолет-пулемет
+[03/05/2023 00:44:06]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:06]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:06]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:06]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:06]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:06]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:06]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:06]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:08]
+  Armanda Clothier unequipped Пистолет-пулемет
+[03/05/2023 00:44:08]
+  Armanda Clothier equipped Пистолет-пулемет
+[03/05/2023 00:44:08]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:08]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:08]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:08]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:08]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:08]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:08]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:08]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:10]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:10]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:10]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:10]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:11]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:44:12]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:12]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:12]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:12]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:12]
+  Inner wall breached by Armanda Clothier
+[03/05/2023 00:44:13]
+  Armanda Clothier unequipped Пистолет-пулемет
+[03/05/2023 00:44:13]
+  Armanda Clothier equipped Пистолет-пулемет
+[03/05/2023 00:44:13]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:13]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:14]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:14]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:14]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:14]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:14]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:14]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:14]
+  Jerrell Poole has died (Cause of death: Укусы)
+[03/05/2023 00:44:15]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:15]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:15]
+  Zachary Mason unequipped Револьвер
+[03/05/2023 00:44:15]
+  Cathleen Fleig unequipped Револьвер
+[03/05/2023 00:44:15]
+  Joe Tyson unequipped Револьвер
+[03/05/2023 00:44:15]
+  Annette Nicolosi unequipped Гаечный ключ
+[03/05/2023 00:44:15]
+  Tyler Kramer unequipped Лом
+[03/05/2023 00:44:15]
+  Doria Delange unequipped Револьвер
+[03/05/2023 00:44:15]
+  Arkadi Meza unequipped Револьвер
+[03/05/2023 00:44:15]
+  Dannette Mooney unequipped Гаечный ключ
+[03/05/2023 00:44:15]
+  Socorro Mcneil unequipped Отвертка
+[03/05/2023 00:44:15]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:44:15]
+  Matt Mead unequipped Лом
+[03/05/2023 00:44:15]
+  Marcellus Brady unequipped Отвертка
+[03/05/2023 00:44:15]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:44:15]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:15]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:16]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:16]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:17]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:17]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:17]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:17]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:17]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:17]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:18]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:18]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:18]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:18]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:19]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:19]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:19]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[03/05/2023 00:44:19]
+  Armanda Clothier unequipped Пистолет-пулемет
+[03/05/2023 00:44:19]
+  Armanda Clothier equipped Шоковая дубинка
+[03/05/2023 00:44:19]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:19]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:19]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:19]
+  Inner wall breached by Crawlerhusk
+[03/05/2023 00:44:20]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:20]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:20]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:20]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:20]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:20]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:21]
+  Armanda Clothier unequipped Шоковая дубинка
+[03/05/2023 00:44:21]
+  Armanda Clothier equipped Шоковая дубинка
+[03/05/2023 00:44:21]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:21]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:21]
+  Darleen Rivera: Верхняя задняя часть: здесь срочно требуется медицинская помощь!
+[03/05/2023 00:44:21]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:44:22]
+  Armanda Clothier unequipped Шоковая дубинка
+[03/05/2023 00:44:22]
+  Armanda Clothier equipped Шоковая дубинка
+[03/05/2023 00:44:22]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:22]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:23]
+  Tyler Kramer equipped Сварочный аппарат
+[03/05/2023 00:44:24]
+  Pete Ramos: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 00:44:24]
+  Armanda Clothier: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 00:44:25]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:25]
+  Armanda Clothier unequipped Шоковая дубинка
+[03/05/2023 00:44:27]
+  Tyler Kramer unequipped Сварочный аппарат
+[03/05/2023 00:44:27]
+  Armanda Clothier equipped Шоковая дубинка
+[03/05/2023 00:44:27]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:44:28]
+  Pete Ramos equipped Электрошокер
+[03/05/2023 00:44:29]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:29]
+  Armanda Clothier: Верхняя задняя часть: у нас гости!
+[03/05/2023 00:44:30]
+  Claire Suarez: Ищу безопасное место!
+[03/05/2023 00:44:30]
+  Cathleen Fleig equipped Револьвер
+[03/05/2023 00:44:30]
+  Joe Tyson equipped Револьвер
+[03/05/2023 00:44:30]
+  Annette Nicolosi equipped Гаечный ключ
+[03/05/2023 00:44:30]
+  Dannette Mooney equipped Гаечный ключ
+[03/05/2023 00:44:30]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:30]
+  Socorro Mcneil equipped Отвертка
+[03/05/2023 00:44:30]
+  Matt Mead equipped Лом
+[03/05/2023 00:44:30]
+  Marcellus Brady equipped Отвертка
+[03/05/2023 00:44:30]
+  Arkadi Meza equipped Револьвер
+[03/05/2023 00:44:30]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:31]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:31]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:31]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:31]
+  Zachary Mason equipped Револьвер
+[03/05/2023 00:44:31]
+  Tyler Kramer equipped Лом
+[03/05/2023 00:44:31]
+  Doria Delange equipped Револьвер
+[03/05/2023 00:44:31]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:31]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:44:31]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[03/05/2023 00:44:32]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:44:32]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:32]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:32]
+  Willy Rivera equipped Лом
+[03/05/2023 00:44:33]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:33]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:33]
+  Doria Delange unequipped Револьвер
+[03/05/2023 00:44:33]
+  Arkadi Meza unequipped Револьвер
+[03/05/2023 00:44:33]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:33]
+  Pete Ramos unequipped Электрошокер
+[03/05/2023 00:44:33]
+  Pete Ramos equipped Шоковая дубинка
+[03/05/2023 00:44:33]
+  Doria Delange equipped Револьвер
+[03/05/2023 00:44:33]
+  Arkadi Meza equipped Револьвер
+[03/05/2023 00:44:33]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:33]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:34]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:34]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:34]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:35]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:44:35]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:44:36]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:36]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:36]
+  Annette Nicolosi unequipped Гаечный ключ
+[03/05/2023 00:44:36]
+  Annette Nicolosi equipped Отвертка
+[03/05/2023 00:44:36]
+  Dannette Mooney unequipped Гаечный ключ
+[03/05/2023 00:44:36]
+  Dannette Mooney equipped Отвертка
+[03/05/2023 00:44:36]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:36]
+  Armanda Clothier unequipped Шоковая дубинка
+[03/05/2023 00:44:36]
+  Armanda Clothier equipped Нож ныряльщика
+[03/05/2023 00:44:38]
+  Annette Nicolosi unequipped Отвертка
+[03/05/2023 00:44:38]
+  Annette Nicolosi equipped Гаечный ключ
+[03/05/2023 00:44:38]
+  Dannette Mooney unequipped Отвертка
+[03/05/2023 00:44:38]
+  Dannette Mooney equipped Гаечный ключ
+[03/05/2023 00:44:38]
+  Armanda Clothier unequipped Нож ныряльщика
+[03/05/2023 00:44:38]
+  Armanda Clothier equipped Шоковая дубинка
+[03/05/2023 00:44:39]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:39]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:39]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:39]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:40]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:40]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:41]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:41]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:42]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:42]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:42]
+  Darleen Rivera: Кажется, у меня жар.
+[03/05/2023 00:44:42]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:42]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:42]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:43]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:45]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:45]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:45]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:46]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:46]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:47]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:47]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:47]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:47]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:47]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:44:48]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Armanda Clothier.
+[03/05/2023 00:44:48]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:48]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:48]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:49]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:49]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:49]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:49]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:50]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:50]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:51]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:51]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:51]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:51]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:52]
+  Armanda Clothier used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:44:52]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:52]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:52]
+  Claire Suarez: Отвали от меня!
+[03/05/2023 00:44:52]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:52]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:52]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:52]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:53]
+  Zachary Mason unequipped Револьвер
+[03/05/2023 00:44:53]
+  Cathleen Fleig unequipped Револьвер
+[03/05/2023 00:44:53]
+  Joe Tyson unequipped Револьвер
+[03/05/2023 00:44:53]
+  Annette Nicolosi unequipped Гаечный ключ
+[03/05/2023 00:44:53]
+  Tyler Kramer unequipped Лом
+[03/05/2023 00:44:53]
+  Doria Delange unequipped Револьвер
+[03/05/2023 00:44:53]
+  Arkadi Meza unequipped Револьвер
+[03/05/2023 00:44:53]
+  Dannette Mooney unequipped Гаечный ключ
+[03/05/2023 00:44:53]
+  Socorro Mcneil unequipped Отвертка
+[03/05/2023 00:44:53]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:44:53]
+  Matt Mead unequipped Лом
+[03/05/2023 00:44:53]
+  Marcellus Brady unequipped Отвертка
+[03/05/2023 00:44:53]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:44:54]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:54]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:54]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:54]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:55]
+  vlad32 equipped Пистолет-пулемет
+[03/05/2023 00:44:55]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:55]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:56]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:56]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:56]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:56]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:57]
+  Zachary Mason equipped Револьвер
+[03/05/2023 00:44:57]
+  Tyler Kramer equipped Лом
+[03/05/2023 00:44:57]
+  Arkadi Meza equipped Револьвер
+[03/05/2023 00:44:57]
+  Willy Rivera equipped Лом
+[03/05/2023 00:44:57]
+  Marcellus Brady equipped Отвертка
+[03/05/2023 00:44:57]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:44:57]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:57]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:44:57]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:57]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:57]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:57]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:58]
+  Joe Tyson equipped Револьвер
+[03/05/2023 00:44:58]
+  Annette Nicolosi equipped Гаечный ключ
+[03/05/2023 00:44:58]
+  Dannette Mooney equipped Гаечный ключ
+[03/05/2023 00:44:58]
+  Marcellus Brady unequipped Отвертка
+[03/05/2023 00:44:58]
+  Cathleen Fleig equipped Револьвер
+[03/05/2023 00:44:58]
+  Socorro Mcneil equipped Отвертка
+[03/05/2023 00:44:59]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:44:59]
+  Marcellus Brady equipped Отвертка
+[03/05/2023 00:44:59]
+  Matt Mead equipped Лом
+[03/05/2023 00:44:59]
+  Socorro Mcneil unequipped Отвертка
+[03/05/2023 00:44:59]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:44:59]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:44:59]
+  Arkadi Meza unequipped Револьвер
+[03/05/2023 00:44:59]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:44:59]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:44:59]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:44:59]
+  Doria Delange equipped Револьвер
+[03/05/2023 00:44:59]
+  Arkadi Meza equipped Револьвер
+[03/05/2023 00:44:59]
+  Socorro Mcneil equipped Отвертка
+[03/05/2023 00:44:59]
+  Willy Rivera equipped Лом
+[03/05/2023 00:44:59]
+  Lorrie Kidd equipped Отвертка
+[03/05/2023 00:44:59]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:44:59]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:00]
+  Matt Mead unequipped Лом
+[03/05/2023 00:45:00]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:00]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:01]
+  Matt Mead equipped Лом
+[03/05/2023 00:45:01]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:01]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:01]
+  Armanda Clothier: Что-то в горле першит.
+[03/05/2023 00:45:01]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:45:01]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:02]
+  Rowena Colpitts: Мне нужно подводное снаряжение!
+[03/05/2023 00:45:02]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:02]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:02]
+  Doria Delange unequipped Револьвер
+[03/05/2023 00:45:02]
+  Doria Delange equipped Револьвер
+[03/05/2023 00:45:03]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:03]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:03]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:45:03]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:03]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:03]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:04]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:04]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:05]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:45:05]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:06]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:45:06]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:06]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:06]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:08]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:08]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:08]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:08]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:09]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:45:10]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:10]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:10]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:45:10]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:12]
+  Dominick Mansfield equipped Сварочный аппарат
+[03/05/2023 00:45:12]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:45:13]
+  Claire Suarez: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:13]
+  Dominick Mansfield: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:14]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:16]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:16]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1 Оглушение: 0.2
+[03/05/2023 00:45:16]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:17]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:17]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:45:17]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/05/2023 00:45:17]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1 Оглушение: 0.2
+[03/05/2023 00:45:17]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:19]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[03/05/2023 00:45:19]
+  Pete Ramos used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/05/2023 00:45:21]
+  Boyd Welden unequipped Револьвер
+[03/05/2023 00:45:21]
+  Boyd Welden equipped Револьвер
+[03/05/2023 00:45:21]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:22]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[03/05/2023 00:45:22]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:23]
+  Pete Ramos unequipped Шоковая дубинка
+[03/05/2023 00:45:23]
+  Pete Ramos equipped Шоковая дубинка
+[03/05/2023 00:45:23]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:23]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:23]
+  Dominick Mansfield unequipped Сварочный аппарат
+[03/05/2023 00:45:24]
+  Pete Ramos unequipped Шоковая дубинка
+[03/05/2023 00:45:24]
+  Pete Ramos equipped Шоковая дубинка
+[03/05/2023 00:45:24]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:24]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:25]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:45:26]
+  Pete Ramos unequipped Шоковая дубинка
+[03/05/2023 00:45:26]
+  Pete Ramos equipped Шоковая дубинка
+[03/05/2023 00:45:26]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:26]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:27]
+  Claire Suarez: Мне нужно подводное снаряжение!
+[03/05/2023 00:45:28]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:28]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:28]
+  Dominick Mansfield: Надо найти водолазный скафандр!
+[03/05/2023 00:45:29]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:29]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:29]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:29]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:30]
+  Zachary Mason unequipped Револьвер
+[03/05/2023 00:45:30]
+  Cathleen Fleig unequipped Револьвер
+[03/05/2023 00:45:30]
+  Joe Tyson unequipped Револьвер
+[03/05/2023 00:45:30]
+  Annette Nicolosi unequipped Гаечный ключ
+[03/05/2023 00:45:30]
+  Tyler Kramer unequipped Лом
+[03/05/2023 00:45:30]
+  Doria Delange unequipped Револьвер
+[03/05/2023 00:45:30]
+  Arkadi Meza unequipped Револьвер
+[03/05/2023 00:45:30]
+  Dannette Mooney unequipped Гаечный ключ
+[03/05/2023 00:45:30]
+  Socorro Mcneil unequipped Отвертка
+[03/05/2023 00:45:30]
+  Willy Rivera unequipped Лом
+[03/05/2023 00:45:30]
+  Matt Mead unequipped Лом
+[03/05/2023 00:45:30]
+  Marcellus Brady unequipped Отвертка
+[03/05/2023 00:45:30]
+  Lorrie Kidd unequipped Отвертка
+[03/05/2023 00:45:31]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:31]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:31]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:31]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:33]
+  kynlan4ic equipped Пистолет-пулемет
+[03/05/2023 00:45:33]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:33]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:45:33]
+  Claire Suarez used Нож ныряльщика on Crawlerhusk.
+[03/05/2023 00:45:34]
+  Claire Suarez: Отвали от меня!
+[03/05/2023 00:45:35]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:35]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/05/2023 00:45:35]
+  Sara Lyons equipped Сварочный аппарат
+[03/05/2023 00:45:35]
+  Deborah Lavey equipped Гаечный ключ
+[03/05/2023 00:45:35]
+  Deborah Lavey: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:35]
+  Rowena Colpitts: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:35]
+  Sara Lyons: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:36]
+  Carlton Craig equipped Сварочный аппарат
+[03/05/2023 00:45:36]
+  Dominick Mansfield equipped Сварочный аппарат
+[03/05/2023 00:45:36]
+  Carlton Craig: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:37]
+  Dominick Mansfield: Помогите мне!
+[03/05/2023 00:45:37]
+  Outer wall breached by kynlan4ic
+[03/05/2023 00:45:37]
+  Bennie Castro: Помогите мне!
+[03/05/2023 00:45:37]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:37]
+  Armanda Clothier: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 00:45:37]
+  Dominick Mansfield opened Настраиваемый люк
+[03/05/2023 00:45:38]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:45:43]
+  kynlan4ic equipped Подводное ружье
+[03/05/2023 00:45:44]
+  Murray Geist: Верхняя задняя часть: здесь протечка!
+[03/05/2023 00:45:44]
+  Pete Ramos: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 00:45:45]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[03/05/2023 00:45:46]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[03/05/2023 00:45:46]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:45:47]
+  Claire Suarez: Помогите, я истекаю кровью!
+[03/05/2023 00:45:48]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/05/2023 00:45:48]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[03/05/2023 00:45:48]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:45:50]
+  kynlan4ic picked up Гарпун
+[03/05/2023 00:45:52]
+  vlad32 equipped Ружье
+[03/05/2023 00:45:53]
+  kynlan4ic picked up Гарпун
+[03/05/2023 00:45:54]
+  Armanda Clothier: У меня что-то во рту...
+[03/05/2023 00:45:55]
+  Pete Ramos: Что-то в горле першит.
+[03/05/2023 00:45:56]
+  Deborah Lavey: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:56]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:45:56]
+  Matt Reynolds equipped Сварочный аппарат
+[03/05/2023 00:45:56]
+  Sara Lyons: А-А-А-А-А-А!
+[03/05/2023 00:45:56]
+  Rowena Colpitts: Эти проклятые создания тут повсюду!
+[03/05/2023 00:45:57]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:45:57]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 8203)
+[03/05/2023 00:45:57]
+  Socorro Mcneil equipped Сварочный аппарат
+[03/05/2023 00:45:58]
+  Dominick Mansfield: Помогите мне!
+[03/05/2023 00:45:58]
+  Bennie Castro: Помогите мне!
+[03/05/2023 00:45:59]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:45:59]
+  Darleen Rivera equipped Аккумулятор
+[03/05/2023 00:45:59]
+  Matt Reynolds unequipped Сварочный аппарат
+[03/05/2023 00:45:59]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:46:00]
+  Dominick Mansfield unequipped Сварочный аппарат
+[03/05/2023 00:46:00]
+  Deborah Lavey unequipped Гаечный ключ
+[03/05/2023 00:46:00]
+  Sara Lyons unequipped Сварочный аппарат
+[03/05/2023 00:46:01]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:46:01]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:46:02]
+  Claire Suarez: Надо найти водолазный скафандр!
+[03/05/2023 00:46:02]
+  Socorro Mcneil unequipped Сварочный аппарат
+[03/05/2023 00:46:02]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:46:02]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:46:04]
+  Dominick Mansfield equipped Сварочный аппарат
+[03/05/2023 00:46:04]
+  Carlton Craig: Отвали от меня!
+[03/05/2023 00:46:07]
+  Darleen Rivera: У меня что-то во рту...
+[03/05/2023 00:46:07]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:46:07]
+  Carlton Craig unequipped Сварочный аппарат
+[03/05/2023 00:46:07]
+  Dominick Mansfield unequipped Сварочный аппарат
+[03/05/2023 00:46:08]
+  Carlton Craig equipped Сварочный аппарат
+[03/05/2023 00:46:08]
+  Dominick Mansfield equipped Сварочный аппарат
+[03/05/2023 00:46:08]
+  Sara Lyons equipped Сварочный аппарат
+[03/05/2023 00:46:08]
+  Deborah Lavey equipped Гаечный ключ
+[03/05/2023 00:46:08]
+  Claire Suarez: Я чувствую жуткую слабость. Все тело болит.
+[03/05/2023 00:46:10]
+  Carlton Craig opened Настраиваемый люк
+[03/05/2023 00:46:16]
+  Sara Lyons: Отвали от меня!
+[03/05/2023 00:46:16]
+  Deborah Lavey: Ищу безопасное место!
+[03/05/2023 00:46:17]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:46:17]
+  Murray Geist equipped Шоковая дубинка
+[03/05/2023 00:46:17]
+  Rowena Colpitts: А-А-А-А-А-А!
+[03/05/2023 00:46:18]
+  Dominick Mansfield unequipped Сварочный аппарат
+[03/05/2023 00:46:18]
+  Murray Geist unequipped Шоковая дубинка
+[03/05/2023 00:46:18]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:46:19]
+  Bennie Castro: А-А-А-А-А-А!
+[03/05/2023 00:46:20]
+  Rowena Colpitts: Мне нужно подводное снаряжение!
+[03/05/2023 00:46:21]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[03/05/2023 00:46:21]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:46:21]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:46:23]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:46:23]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:46:23]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:46:27]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:46:27]
+  Rowena Colpitts: Невозможно добраться до течи: Верхняя задняя часть!
+[03/05/2023 00:46:28]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 8203)
+[03/05/2023 00:46:29]
+  Carlton Craig unequipped Сварочный аппарат
+[03/05/2023 00:46:29]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:46:29]
+  Deborah Lavey unequipped Гаечный ключ
+[03/05/2023 00:46:30]
+  Carlton Craig opened Настраиваемый люк
+[03/05/2023 00:46:30]
+  Sara Lyons unequipped Сварочный аппарат
+[03/05/2023 00:46:33]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:46:33]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:46:35]
+  Murray Geist: Верхняя задняя часть: поврежденные устройства!
+[03/05/2023 00:46:36]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/05/2023 00:46:38]
+  Sara Lyons: Мне нужно подводное снаряжение!
+[03/05/2023 00:46:38]
+  Carlton Craig: Мне нужно подводное снаряжение!
+[03/05/2023 00:46:40]
+  Carlton Craig: Невозможно добраться: kynlan4ic!
+[03/05/2023 00:46:44]
+  Claire Suarez: Мне нужно подводное снаряжение!
+[03/05/2023 00:46:52]
+  Darleen Rivera: Кажется, мне нужна плазма крови.
+[03/05/2023 00:46:53]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:46:53]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:46:57]
+  Delbert Graves: Надо найти водолазный скафандр!
+[03/05/2023 00:47:08]
+  Lorrie Kidd equipped Сварочный аппарат
+[03/05/2023 00:47:08]
+  Lorrie Kidd unequipped Сварочный аппарат
+[03/05/2023 00:47:09]
+  Pete Ramos: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 00:47:10]
+  Dominick Mansfield: Мне нужно подводное снаряжение!
+[03/05/2023 00:47:15]
+  Sara Lyons: Надо найти водолазный скафандр!
+[03/05/2023 00:47:19]
+  Pete Ramos: У меня что-то во рту...
+[03/05/2023 00:47:23]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:47:23]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:47:23]
+  Carlton Craig: Мне нужно подводное снаряжение!
+[03/05/2023 00:47:26]
+  Claire Suarez: Что-то в горле першит.
+[03/05/2023 00:47:29]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:47:36]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:47:36]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:47:49]
+  Pete Ramos unequipped Шоковая дубинка
+[03/05/2023 00:47:49]
+  Pete Ramos equipped Шоковая дубинка
+[03/05/2023 00:47:50]
+  Pete Ramos: Верхняя задняя часть: здесь срочно требуется медицинская помощь!
+[03/05/2023 00:47:53]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:47:53]
+  Murray Geist equipped Пистолет-пулемет
+[03/05/2023 00:47:53]
+  Murray Geist unequipped Пистолет-пулемет
+[03/05/2023 00:47:54]
+  Carlton Craig: Мне нужно подводное снаряжение!
+[03/05/2023 00:48:01]
+  Claire Suarez: Эти проклятые создания тут повсюду!
+[03/05/2023 00:48:01]
+  Claire Suarez: Надо найти водолазный скафандр!
+[03/05/2023 00:48:12]
+  Pete Ramos: Верхняя задняя часть: поврежденные устройства!
+[03/05/2023 00:48:12]
+  vlad32 picked up Гидрокостюм
+[03/05/2023 00:48:15]
+  Cathleen Fleig equipped Гаечный ключ
+[03/05/2023 00:48:16]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:48:16]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:48:17]
+  Matt Reynolds unequipped Револьвер
+[03/05/2023 00:48:17]
+  Matt Reynolds equipped Револьвер
+[03/05/2023 00:48:18]
+  Matt Reynolds: Верхняя задняя часть: кто-нибудь, срочно займитесь ремонтом техники!
+[03/05/2023 00:48:19]
+  Pete Ramos unequipped Шоковая дубинка
+[03/05/2023 00:48:19]
+  Pete Ramos equipped Шоковая дубинка
+[03/05/2023 00:48:22]
+  Cathleen Fleig unequipped Гаечный ключ
+[03/05/2023 00:48:24]
+  Joe Tyson equipped Гаечный ключ
+[03/05/2023 00:48:25]
+  Joe Tyson unequipped Гаечный ключ
+[03/05/2023 00:48:25]
+  Abe Castro equipped Сварочный аппарат
+[03/05/2023 00:48:26]
+  Murray Geist has died (Cause of death: Баротравма)
+[03/05/2023 00:48:26]
+  Claire Suarez has died (Cause of death: Баротравма)
+[03/05/2023 00:48:27]
+  Bennie Castro: Надо найти водолазный скафандр!
+[03/05/2023 00:48:31]
+  Delbert Graves: Мне нужно подводное снаряжение!
+[03/05/2023 00:48:31]
+  Client "kynlan4ic" ended the round.
+[03/05/2023 00:48:31]
+  Ending the round...
+[03/05/2023 00:48:33]
+  Round ended.
+[03/05/2023 00:48:45]
+  Starting a new round...
+[03/05/2023 00:49:07]
+  Game mode: Кампания
+[03/05/2023 00:49:07]
+  Submarine: Orca
+[03/05/2023 00:49:07]
+  Level seed: Balagtan
+[03/05/2023 00:49:07]
+  Jess Mulford equipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Jess Mulford unequipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Jess Mulford equipped Отвертка
+[03/05/2023 00:49:07]
+  Tawanda Maynard equipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Tawanda Maynard unequipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Tawanda Maynard equipped Отвертка
+[03/05/2023 00:49:07]
+  Rhonda Little equipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Rhonda Little unequipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Rhonda Little equipped Отвертка
+[03/05/2023 00:49:07]
+  Monte Harp equipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Monte Harp unequipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Monte Harp equipped Отвертка
+[03/05/2023 00:49:07]
+  Monte Harp unequipped Отвертка
+[03/05/2023 00:49:07]
+  Monte Harp equipped Лом
+[03/05/2023 00:49:07]
+  Boyd Lawrence equipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Boyd Lawrence unequipped Гаечный ключ
+[03/05/2023 00:49:07]
+  Boyd Lawrence equipped Отвертка
+[03/05/2023 00:49:08]
+  Lavinia Dimauro equipped Гаечный ключ
+[03/05/2023 00:49:08]
+  Barry Lyons equipped Гаечный ключ
+[03/05/2023 00:49:09]
+  Jarrod Carey equipped Гаечный ключ
+[03/05/2023 00:49:10]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:49:10]
+  Round started.
+[03/05/2023 00:49:10]
+  Boyd Lawrence: Привет! Добро пожаловать в наше скромное пристанище.
+[03/05/2023 00:49:10]
+  Jess Mulford unequipped Отвертка
+[03/05/2023 00:49:11]
+  Monte Harp unequipped Лом
+[03/05/2023 00:49:11]
+  Barry Lyons unequipped Гаечный ключ
+[03/05/2023 00:49:11]
+  Lavinia Dimauro unequipped Гаечный ключ
+[03/05/2023 00:49:11]
+  Jarrod Carey unequipped Гаечный ключ
+[03/05/2023 00:49:22]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:49:38]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/05/2023 00:49:44]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:49:52]
+  kynlan4ic transferred 1500 mk to vlad32 from the bank.
+[03/05/2023 00:50:02]
+  Gerard Thompkins: Привет!
+[03/05/2023 00:50:13]
+  kynlan4ic equipped Гидрокостюм
+[03/05/2023 00:50:14]
+  kynlan4ic dropped Гидрокостюм
+[03/05/2023 00:50:16]
+  kynlan4ic equipped Металлический ящик
+[03/05/2023 00:50:25]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 210)
+[03/05/2023 00:50:26]
+  kynlan4ic activated Деконструктор
+[03/05/2023 00:50:36]
+  kynlan4ic equipped Металлический ящик
+[03/05/2023 00:50:39]
+  kynlan4ic picked up Искусство подводной войны
+[03/05/2023 00:50:39]
+  kynlan4ic picked up Искусство подводной войны
+[03/05/2023 00:50:41]
+  kynlan4ic picked up Искусство подводной войны
+[03/05/2023 00:50:46]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 210)
+[03/05/2023 00:50:46]
+  kynlan4ic activated Деконструктор
+[03/05/2023 00:50:47]
+  kynlan4ic deactivated Деконструктор
+[03/05/2023 00:50:47]
+  kynlan4ic activated Деконструктор
+[03/05/2023 00:51:19]
+  kynlan4ic placed Искусство подводной войны in Human
+[03/05/2023 00:51:19]
+  kynlan4ic placed Искусство подводной войны in Human
+[03/05/2023 00:51:19]
+  kynlan4ic placed Искусство подводной войны in Human
+[03/05/2023 00:51:23]
+  vlad32 equipped Искусство подводной войны
+[03/05/2023 00:51:27]
+  vlad32 equipped Искусство подводной войны
+[03/05/2023 00:51:38]
+  vlad32 equipped Искусство подводной войны
+[03/05/2023 00:51:57]
+  Boyd Lawrence unequipped Отвертка
+[03/05/2023 00:52:45]
+  kynlan4ic purchased 3 item(s) for 2,700 кр.
+ - Умелый моряк x5
+ - Морфин x12
+ - Справочник моряка x1
+[03/05/2023 00:53:02]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/05/2023 00:53:03]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:53:19]
+  Console command "control "Delbert Graves"" executed by kynlan4ic.
+[03/05/2023 00:53:20]
+  Delbert Graves set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:53:38]
+  vlad32 purchased 1 item(s) for 220 кр.
+ - Еда для питомца x2
+[03/05/2023 00:53:55]
+  Console command "control "Claire Suarez"" executed by kynlan4ic.
+[03/05/2023 00:53:56]
+  Claire Suarez set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:54:01]
+  Carlton Craig: У меня нет средств для лечения! vlad32 в беде!
+[03/05/2023 00:54:02]
+  Carlton Craig: vlad32 получает первую помощь здесь: верхняя задняя часть!
+[03/05/2023 00:54:23]
+  Console command "control "Bennie Castro"" executed by kynlan4ic.
+[03/05/2023 00:54:24]
+  Bennie Castro set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:55:04]
+  Console command "control "Sara Lyons"" executed by kynlan4ic.
+[03/05/2023 00:55:05]
+  Sara Lyons set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:55:09]
+  Claire Suarez equipped Ящик физикориевых снарядов
+[03/05/2023 00:55:16]
+  Console command "control "Deborah Lavey"" executed by kynlan4ic.
+[03/05/2023 00:55:17]
+  Deborah Lavey set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:55:30]
+  vlad32 equipped Ружье
+[03/05/2023 00:55:30]
+  vlad32 equipped Пистолет-пулемет
+[03/05/2023 00:55:43]
+  Claire Suarez equipped Боеприпасы для цепной пушки
+[03/05/2023 00:55:49]
+  Delbert Graves equipped Ящик пробивных снарядов
+[03/05/2023 00:55:53]
+  Claire Suarez equipped Боеприпасы для цепной пушки
+[03/05/2023 00:56:09]
+  Console command "control "Dominick Mansfield"" executed by kynlan4ic.
+[03/05/2023 00:56:10]
+  Dominick Mansfield set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:56:31]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/05/2023 00:56:33]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:56:52]
+  Console command "control "Carlton Craig"" executed by kynlan4ic.
+[03/05/2023 00:56:54]
+  Carlton Craig set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:57:04]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/05/2023 00:57:06]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/05/2023 00:58:30]
+  Console command "spawn Crawlerhusk cursir" executed by kynlan4ic.
+[03/05/2023 00:58:47]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:58:47]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:58:48]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:58:49]
+  Console command "spawn Crawlerhusk cursor" executed by kynlan4ic.
+[03/05/2023 00:58:52]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:58:55]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:59:04]
+  kynlan4ic equipped Пистолет-пулемет
+[03/05/2023 00:59:06]
+  Gerard Thompkins: Верхняя задняя часть: кто-нибудь, срочно займитесь ремонтом техники!
+[03/05/2023 00:59:09]
+  Jess Mulford equipped Гаечный ключ
+[03/05/2023 00:59:11]
+  Iris Hebert: Нужны моряки? Опытные или салаги – любой каприз за ваши деньги!
+[03/05/2023 00:59:11]
+  Inner wall breached by Crawlerhusk
+[03/05/2023 00:59:14]
+  Inner wall breached by Crawlerhusk
+[03/05/2023 00:59:19]
+  Jess Mulford unequipped Гаечный ключ
+[03/05/2023 00:59:20]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:59:26]
+  Monte Harp equipped Сварочный аппарат
+[03/05/2023 00:59:28]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:59:30]
+  Outer wall breached by Crawlerhusk
+[03/05/2023 00:59:36]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:38]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:38]
+  Outer wall breached by vlad32
+[03/05/2023 00:59:39]
+  kynlan4ic attacked by vlad32.
+[03/05/2023 00:59:39]
+  kynlan4ic attacked by vlad32.
+[03/05/2023 00:59:39]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:39]
+  kynlan4ic attacked by vlad32.
+[03/05/2023 00:59:39]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:39]
+  kynlan4ic attacked by vlad32.
+[03/05/2023 00:59:39]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:39]
+  kynlan4ic attacked by vlad32.
+[03/05/2023 00:59:40]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:40]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:40]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[03/05/2023 00:59:40]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:40]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1 Оглушение: 0.2
+[03/05/2023 00:59:40]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:41]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:41]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1 Оглушение: 0.2
+[03/05/2023 00:59:41]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:45]
+  kynlan4ic placed Магазин для ПП in Пояс инструментов (ID: 8184)
+[03/05/2023 00:59:45]
+  kynlan4ic removed Магазин для ПП from Пояс инструментов (ID: 8184)
+[03/05/2023 00:59:45]
+  kynlan4ic placed Магазин для ПП in Пистолет-пулемет (ID: 8215)
+[03/05/2023 00:59:45]
+  Inner wall breached by vlad32
+[03/05/2023 00:59:46]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:47]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:47]
+  Outer wall breached by vlad32
+[03/05/2023 00:59:48]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[03/05/2023 00:59:48]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:48]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 12.7 Кровотечение: 21.1
+[03/05/2023 00:59:49]
+  kynlan4ic attacked by vlad32.
+[03/05/2023 01:00:18]
+  Monte Harp unequipped Сварочный аппарат
+[03/05/2023 01:00:20]
+  Summer Moses: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 01:00:25]
+  Katrina Chaney: Верхняя задняя часть: здесь пробит корпус!
+[03/05/2023 01:00:30]
+  vlad32 equipped Подводный скутер
+[03/05/2023 01:00:38]
+  vlad32 equipped Нож ныряльщика
+[03/05/2023 01:00:44]
+  Katrina Chaney: Верхняя задняя часть: у нас гости!
+[03/05/2023 01:00:45]
+  Stefany Gallagher equipped Электрошокер
+[03/05/2023 01:00:46]
+  Hal Castro equipped Электрошокер

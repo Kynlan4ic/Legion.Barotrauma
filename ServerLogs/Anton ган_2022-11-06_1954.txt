@@ -1,0 +1,704 @@
+﻿[11/06/2022 19:50:26]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,80".
+[11/06/2022 19:50:29]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 757)
+[11/06/2022 19:50:29]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:50:30]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:50:30]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:50:31]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,1,0,80".
+[11/06/2022 19:50:31]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:50:33]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,150,0,80".
+[11/06/2022 19:50:33]
+  Chance Hines started repairing Кабельная коробка
+[11/06/2022 19:50:33]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:50:34]
+  Fanny Preston started repairing Кабельная коробка
+[11/06/2022 19:50:35]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:50:35]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,150,0,80".
+[11/06/2022 19:50:35]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:50:35]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:50:37]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:50:38]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:50:39]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,150,251,80".
+[11/06/2022 19:50:40]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,150,255,80".
+[11/06/2022 19:50:43]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:50:43]
+  Fanny Preston equipped Гаечный ключ
+[11/06/2022 19:50:43]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:50:44]
+  Fanny Preston started repairing Генератор кислорода
+[11/06/2022 19:50:45]
+  Chance Hines started repairing Генератор кислорода
+[11/06/2022 19:50:46]
+  Fanny Preston unequipped Гаечный ключ
+[11/06/2022 19:50:48]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,150,251,80".
+[11/06/2022 19:50:48]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:50:50]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:50:53]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "166,150,251,80".
+[11/06/2022 19:50:55]
+  igameCrog equipped Плазменный резак
+[11/06/2022 19:51:04]
+  rus7ak equipped Сварочный аппарат
+[11/06/2022 19:51:22]
+  igameCrog unequipped Сварочный аппарат
+[11/06/2022 19:51:23]
+  rus7ak was kicked because they were expecting a very old network event (23388 (created 10.07 s ago, 10 s older than last event sent to anyone) Events queued: 276, last sent to all: 23387
+[11/06/2022 19:51:23]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[11/06/2022 19:51:24]
+  igameCrog dropped Вещмешок
+[11/06/2022 19:51:25]
+  igameCrog equipped Сварочный аппарат
+[11/06/2022 19:51:33]
+  Arron Krall: У меня новая цель! Не могу понять, что это такое...
+[11/06/2022 19:51:33]
+  Arron Krall: Огонь!
+[11/06/2022 19:51:34]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:34]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:35]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:35]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:35]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:35]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:36]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:36]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:37]
+  igameCrog placed Топливный стержень in Средний стальной шкаф с окном (ID: 900)
+[11/06/2022 19:51:38]
+  igameCrog placed Топливный стержень in Средний стальной шкаф с окном (ID: 900)
+[11/06/2022 19:51:38]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:38]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:38]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:39]
+  Outer wall breached by Crawlerhusk
+[11/06/2022 19:51:39]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:39]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:39]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:40]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:40]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:40]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:40]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:41]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:41]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:51:41]
+  Arron Krall: Враг уничтожен!
+[11/06/2022 19:51:41]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:41]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:42]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:42]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:42]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:42]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:43]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:43]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:43]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:43]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:44]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:44]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:44]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:45]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:45]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:45]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:45]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/06/2022 19:51:45]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:46]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:46]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:46]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:46]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:47]
+  Fanny Preston: Надо найти водолазный скафандр!
+[11/06/2022 19:51:47]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:47]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:47]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:51:47]
+  Arron Krall: И-и-и-и... Готово!
+[11/06/2022 19:51:47]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:48]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:48]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:48]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:49]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:49]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:50]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:50]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:50]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:51]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:51]
+  Stephane Palmieri equipped Дробовик
+[11/06/2022 19:51:51]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/06/2022 19:51:52]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:52]
+  Stephane Palmieri unequipped Дробовик
+[11/06/2022 19:51:52]
+  Stephane Palmieri equipped Дробовик
+[11/06/2022 19:51:52]
+  Stephane Palmieri: Невозможно добраться: Ползун!
+[11/06/2022 19:51:52]
+  Inner wall breached by Crawlerhusk
+[11/06/2022 19:51:52]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:52]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:53]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:53]
+  Fanny Preston equipped Сварочный аппарат
+[11/06/2022 19:51:53]
+  kynlan4ic picked up Подводное ружье
+[11/06/2022 19:51:53]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:54]
+  Outer wall breached by Crawlerhusk
+[11/06/2022 19:51:54]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:54]
+  Inner wall repaired by Fanny Preston
+[11/06/2022 19:51:54]
+  Fanny Preston: Моторный отсек: протечек не осталось!
+[11/06/2022 19:51:54]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:54]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:54]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:54]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:55]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:55]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:55]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:55]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:55]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:55]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:55]
+  kynlan4ic picked up Гарпун
+[11/06/2022 19:51:55]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:55]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:51:55]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:55]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:56]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:56]
+  Inner wall breached by Crawlerhusk
+[11/06/2022 19:51:56]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:56]
+  Crawlerhusk has died (Cause of death: Unknown)
+[11/06/2022 19:51:56]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:57]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:57]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:58]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:51:58]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:51:58]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:51:58]
+  Inner wall breached by Crawlerhusk
+[11/06/2022 19:51:58]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:59]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:51:59]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:51:59]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:00]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:00]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:01]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:01]
+  kynlan4ic equipped Подводное ружье
+[11/06/2022 19:52:01]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:01]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:02]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:02]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:52:02]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:52:03]
+  Tyson Kidd started repairing Кабельная коробка
+[11/06/2022 19:52:03]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:52:03]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:04]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:52:05]
+  Inner wall breached by Crawlerhusk
+[11/06/2022 19:52:05]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:06]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:52:06]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:52:06]
+  Priscilla Jones: Мне нужно подводное снаряжение!
+[11/06/2022 19:52:06]
+  Chance Hines equipped Сварочный аппарат
+[11/06/2022 19:52:06]
+  Jackie Petersen equipped Сварочный аппарат
+[11/06/2022 19:52:06]
+  Arron Krall equipped Гаечный ключ
+[11/06/2022 19:52:07]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:52:07]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:07]
+  Chance Hines unequipped Сварочный аппарат
+[11/06/2022 19:52:07]
+  Fanny Preston unequipped Сварочный аппарат
+[11/06/2022 19:52:07]
+  Jackie Petersen unequipped Сварочный аппарат
+[11/06/2022 19:52:07]
+  Arron Krall unequipped Гаечный ключ
+[11/06/2022 19:52:08]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:52:10]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:10]
+  Stephane Palmieri unequipped Дробовик
+[11/06/2022 19:52:10]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/06/2022 19:52:12]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:52:12]
+  Tyson Kidd equipped Гаечный ключ
+[11/06/2022 19:52:12]
+  Tyson Kidd: Надо найти водолазный скафандр!
+[11/06/2022 19:52:13]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:52:13]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:15]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:16]
+  Fanny Preston equipped Гаечный ключ
+[11/06/2022 19:52:17]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/06/2022 19:52:17]
+  Stephane Palmieri equipped Револьвер
+[11/06/2022 19:52:17]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/06/2022 19:52:17]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/06/2022 19:52:17]
+  Stephane Palmieri unequipped Револьвер
+[11/06/2022 19:52:17]
+  Stephane Palmieri equipped Револьвер
+[11/06/2022 19:52:17]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/06/2022 19:52:19]
+  Stephane Palmieri unequipped Револьвер
+[11/06/2022 19:52:19]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/06/2022 19:52:19]
+  Stephane Palmieri equipped Подводное ружье
+[11/06/2022 19:52:20]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/06/2022 19:52:20]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:52:20]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:52:21]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:52:21]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:52:22]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:52:22]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:52:22]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 240)
+[11/06/2022 19:52:23]
+  Fanny Preston unequipped Гаечный ключ
+[11/06/2022 19:52:23]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:52:24]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:52:24]
+  Saving client permissions
+[11/06/2022 19:52:26]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:52:26]
+  Stephane Palmieri unequipped Подводное ружье
+[11/06/2022 19:52:26]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/06/2022 19:52:26]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/06/2022 19:52:26]
+  Stephane Palmieri equipped Револьвер
+[11/06/2022 19:52:26]
+  Stephane Palmieri unequipped Револьвер
+[11/06/2022 19:52:26]
+  Stephane Palmieri equipped Револьвер
+[11/06/2022 19:52:26]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.3
+[11/06/2022 19:52:26]
+  Tyson Kidd unequipped Гаечный ключ
+[11/06/2022 19:52:26]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:52:26]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:52:26]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:52:27]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:52:27]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:52:27]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:52:27]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:52:27]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:52:27]
+  Tyson Kidd equipped Гаечный ключ
+[11/06/2022 19:52:29]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:52:29]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:52:29]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:52:29]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:52:29]
+  Chance Hines started repairing Суперконденсатор
+[11/06/2022 19:52:30]
+  Stephane Palmieri unequipped Револьвер
+[11/06/2022 19:52:30]
+  Priscilla Jones started repairing Суперконденсатор
+[11/06/2022 19:52:30]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:52:30]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:52:32]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:52:32]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:52:35]
+  Roslyn Fesler equipped Водолазный скафандр
+[11/06/2022 19:52:35]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:52:35]
+  Fanny Preston equipped Гаечный ключ
+[11/06/2022 19:52:35]
+  Fanny Preston: Мне нужно подводное снаряжение!
+[11/06/2022 19:52:38]
+  Chance Hines started repairing Двигатель
+[11/06/2022 19:52:45]
+  Roslyn Fesler equipped Глубинная приманка
+[11/06/2022 19:52:46]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:52:46]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:52:46]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:52:46]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:52:46]
+  Priscilla Jones started repairing Дверь с окном и кнопками
+[11/06/2022 19:52:50]
+  Fanny Preston unequipped Гаечный ключ
+[11/06/2022 19:52:50]
+  Fanny Preston equipped Гаечный ключ
+[11/06/2022 19:52:50]
+  Fanny Preston unequipped Гаечный ключ
+[11/06/2022 19:52:50]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:52:53]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:52:53]
+  Chance Hines equipped Сварочный аппарат
+[11/06/2022 19:52:55]
+  igameCrog used item Морфин
+[11/06/2022 19:52:55]
+  Arron Krall: У меня новая цель!
+[11/06/2022 19:52:56]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:52:56]
+  Arron Krall: Стреляю!
+[11/06/2022 19:52:56]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:57]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:57]
+  Outer wall repaired by Chance Hines
+[11/06/2022 19:52:57]
+  Tyson Kidd: Надо найти водолазный скафандр!
+[11/06/2022 19:52:58]
+  Outer wall breached by Crawlerhusk
+[11/06/2022 19:52:58]
+  Chance Hines: Моторный отсек: все протечки устранены!
+[11/06/2022 19:52:58]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:58]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:59]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:59]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:52:59]
+  Outer wall repaired by Chance Hines
+[11/06/2022 19:52:59]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:00]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:00]
+  Inner wall repaired by Chance Hines
+[11/06/2022 19:53:00]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:00]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:53:00]
+  Arron Krall: И-и-и-и... Готово!
+[11/06/2022 19:53:00]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:00]
+  Fanny Preston: Невозможно добраться до течи: Моторный отсек!
+[11/06/2022 19:53:00]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:01]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:01]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:01]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:02]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:02]
+  Inner wall repaired by Chance Hines
+[11/06/2022 19:53:02]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:53:02]
+  Fanny Preston equipped Сварочный аппарат
+[11/06/2022 19:53:02]
+  Arron Krall launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:53:02]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/06/2022 19:53:02]
+  Информация о миссии: Цель уничтожена - Рой уничтожен. Выведите подлодку из пещеры, чтобы получить награду.
+[11/06/2022 19:53:02]
+  Arron Krall: Цель уничтожена!
+[11/06/2022 19:53:02]
+  Inner wall repaired by Fanny Preston
+[11/06/2022 19:53:02]
+  Fanny Preston: Камера балласта A: протечек не осталось!
+[11/06/2022 19:53:07]
+  igameCrog used item Бинт
+[11/06/2022 19:53:13]
+  Chance Hines unequipped Сварочный аппарат
+[11/06/2022 19:53:13]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:53:13]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:53:13]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:53:14]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:53:15]
+  Chance Hines failed to repair Навигационный терминал
+[11/06/2022 19:53:16]
+  Tyson Kidd unequipped Гаечный ключ
+[11/06/2022 19:53:16]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:53:17]
+  Tyson Kidd failed to repair Навигационный терминал
+[11/06/2022 19:53:18]
+  Fanny Preston unequipped Сварочный аппарат
+[11/06/2022 19:53:18]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:53:19]
+  Fanny Preston started repairing Навигационный терминал
+[11/06/2022 19:53:20]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:53:20]
+  Priscilla Jones started repairing Навигационный терминал
+[11/06/2022 19:53:21]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:53:22]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:53:25]
+  Roslyn Fesler equipped Водолазный скафандр
+[11/06/2022 19:53:25]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:53:25]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:53:26]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:53:29]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:53:31]
+  igameCrog picked up Инопланетная кровь
+[11/06/2022 19:53:33]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:53:36]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:53:36]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:53:37]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:53:39]
+  igameCrog used item Инопланетная кровь
+[11/06/2022 19:53:49]
+  Fanny Preston equipped Гаечный ключ
+[11/06/2022 19:53:49]
+  Tyson Kidd equipped Гаечный ключ
+[11/06/2022 19:53:50]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:53:50]
+  Roslyn Fesler equipped Водолазный скафандр
+[11/06/2022 19:53:50]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:53:52]
+  Fanny Preston started repairing Насос
+[11/06/2022 19:53:54]
+  Tyson Kidd unequipped Гаечный ключ
+[11/06/2022 19:53:55]
+  Fanny Preston: Мне нужно подводное снаряжение!
+[11/06/2022 19:53:57]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:54:00]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:54:02]
+  Roslyn Fesler equipped Водолазный скафандр
+[11/06/2022 19:54:03]
+  Fanny Preston unequipped Гаечный ключ
+[11/06/2022 19:54:03]
+  Fanny Preston equipped Сварочный аппарат
+[11/06/2022 19:54:03]
+  Игрок rus7ak отключился от игры. Причина: Время истекло
+[11/06/2022 19:54:03]
+  Fanny Preston unequipped Сварочный аппарат
+[11/06/2022 19:54:06]
+  Tyson Kidd equipped Гаечный ключ
+[11/06/2022 19:54:06]
+  Tyson Kidd unequipped Гаечный ключ
+[11/06/2022 19:54:10]
+  Fanny Preston equipped Водолазный скафандр
+[11/06/2022 19:54:15]
+  Roslyn Fesler equipped Водолазный скафандр
+[11/06/2022 19:54:23]
+  Chance Hines equipped Водолазный скафандр
+[11/06/2022 19:54:39]
+  Roslyn Fesler equipped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:54:43]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:54:43]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:54:44]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:54:45]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:54:46]
+  Chance Hines started repairing Монитор состояния
+[11/06/2022 19:54:47]
+  Fanny Preston failed to repair Монитор состояния
+[11/06/2022 19:54:48]
+  kynlan4ic docked Dugong to Шахта Moytura
+[11/06/2022 19:54:48]
+  kynlan4ic has gained 115 experience (4324 -> 4439)
+[11/06/2022 19:54:48]
+  igameCrog has gained 115 experience (3574 -> 3689)
+[11/06/2022 19:54:48]
+  kynlan4ic has gained 361 experience (4439 -> 4800)
+[11/06/2022 19:54:48]
+  igameCrog has gained 361 experience (3689 -> 4050)
+[11/06/2022 19:54:48]
+  kynlan4ic has gained 113 experience (4800 -> 4913)
+[11/06/2022 19:54:48]
+  igameCrog has gained 113 experience (4050 -> 4163)
+[11/06/2022 19:54:48]
+  Ending the round...

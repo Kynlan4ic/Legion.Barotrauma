@@ -1,0 +1,1602 @@
+﻿[10/31/2022 22:27:12]
+  Starting the server...
+[10/31/2022 22:27:12]
+  Using SteamP2P networking.
+[10/31/2022 22:27:12]
+  Server started
+[10/31/2022 22:27:12]
+  Игрок kynlan4ic присоединился к серверу.
+[10/31/2022 22:27:12]
+  Saving client permissions
+[10/31/2022 22:27:12]
+  Saving client permissions
+[10/31/2022 22:27:38]
+  Игрок igameCrog присоединился к серверу.
+[10/31/2022 22:27:38]
+  Saving client permissions
+[10/31/2022 22:27:56]
+  igameCrog is ready to start the game.
+[10/31/2022 22:28:01]
+  kynlan4ic is ready to start the game.
+[10/31/2022 22:28:04]
+  Client "kynlan4ic" started the round.
+[10/31/2022 22:28:04]
+  Starting a new round...
+[10/31/2022 22:28:12]
+  Миссия: Разбор обломков
+[10/31/2022 22:28:12]
+  В точке «Центр Set» только что был получен сигнал бедствия с судна, которое считалось пропавшим вместе с находившимися на его борту особо секретными зашифрованными данными. Ваше приоритетное задание - найти журнал капитана и вернуть его.
+[10/31/2022 22:28:12]
+  Game mode: Миссия
+[10/31/2022 22:28:12]
+  Submarine: Sardine
+[10/31/2022 22:28:12]
+  Level seed: hA6P5UMA
+[10/31/2022 22:28:12]
+  Mission: Разбор обломков
+[10/31/2022 22:28:12]
+  Kristie Tyson equipped Сварочный аппарат
+[10/31/2022 22:28:12]
+  Edison Cobble equipped Сварочный аппарат
+[10/31/2022 22:28:12]
+  Melba Navarro equipped Плазменный резак
+[10/31/2022 22:28:12]
+  Rowena Hoffman equipped Сварочный аппарат
+[10/31/2022 22:28:14]
+  Round started.
+[10/31/2022 22:28:20]
+  Jutta Avery: Знаешь, мне на днях пришла отличная предпринимательская идея.
+[10/31/2022 22:28:23]
+  Omari Pollard: Загружаю в реактор дополнительное топливо!
+[10/31/2022 22:28:24]
+  Jess Shah: Загружаю в реактор дополнительное топливо!
+[10/31/2022 22:28:25]
+  Jutta Avery: Вот послушай. Мы станем богачами.
+[10/31/2022 22:28:26]
+  Jutta Avery: Загружаю в реактор дополнительное топливо!
+[10/31/2022 22:28:26]
+  Omari Pollard equipped Топливный стержень
+[10/31/2022 22:28:27]
+  Omari Pollard unequipped Топливный стержень
+[10/31/2022 22:28:29]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 22:28:29]
+  Jutta Avery: Что если кто-то начнет делать кислородные баллоны большего размера?
+[10/31/2022 22:28:34]
+  Jutta Avery: Чтобы воздуха хватало на час или даже на два?
+[10/31/2022 22:28:38]
+  Jutta Avery: Я, конечно, не эксперт, но, думаю, технически это выполнимо.
+[10/31/2022 22:28:43]
+  Omari Pollard: Даже не знаю... Я думаю, тут все не так просто. Иначе бы их уже давно начали производить.
+[10/31/2022 22:28:59]
+  kynlan4ic: Ashly Gomez, встань за орудия!
+[10/31/2022 22:29:00]
+  Ashly Gomez: Само собой!
+[10/31/2022 22:29:01]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 22:29:07]
+  kynlan4ic: Lora Hernandez, займись орудиями!
+[10/31/2022 22:29:07]
+  Lora Hernandez: Вас понял!
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Морфин
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:08]
+  igameCrog picked up Бинт
+[10/31/2022 22:29:10]
+  igameCrog placed Морфин in Аптечка (ID: 498)
+[10/31/2022 22:29:11]
+  igameCrog placed Бинт in Аптечка (ID: 498)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:12]
+  igameCrog placed Морфин in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:15]
+  igameCrog placed Бинт in Форма медика (ID: 4464)
+[10/31/2022 22:29:16]
+  kynlan4ic: Jess Shah, займись ремонтом поврежденных систем!
+[10/31/2022 22:29:17]
+  Jess Shah: Вас понял!
+[10/31/2022 22:29:18]
+  igameCrog picked up Серная кислота
+[10/31/2022 22:29:20]
+  igameCrog placed Серная кислота in Форма медика (ID: 4464)
+[10/31/2022 22:29:21]
+  kynlan4ic: Jess Shah, начинай устранять протечки!
+[10/31/2022 22:29:22]
+  Jess Shah: Есть!
+[10/31/2022 22:29:25]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 22:29:26]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 22:29:26]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 22:29:29]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 22:29:34]
+  kynlan4ic: Jutta Avery, отремонтируй электросистемы!
+[10/31/2022 22:29:35]
+  Jutta Avery: Есть!
+[10/31/2022 22:29:37]
+  kynlan4ic: Jess Shah, отремонтируй механические приборы!
+[10/31/2022 22:29:38]
+  Jess Shah: Принято.
+[10/31/2022 22:29:43]
+  kynlan4ic: Jess Shah, начинай устранять протечки!
+[10/31/2022 22:29:44]
+  Jess Shah: Слушаюсь!
+[10/31/2022 22:29:47]
+  kynlan4ic picked up Водолазный скафандр
+[10/31/2022 22:29:47]
+  igameCrog picked up Пояс инструментов
+[10/31/2022 22:29:49]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 375)
+[10/31/2022 22:29:50]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:29:50]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:29:50]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:29:52]
+  kynlan4ic picked up Водолазный скафандр
+[10/31/2022 22:29:53]
+  kynlan4ic equipped Водолазный скафандр
+[10/31/2022 22:30:03]
+  igameCrog picked up Топливный стержень
+[10/31/2022 22:30:03]
+  igameCrog picked up Топливный стержень
+[10/31/2022 22:30:03]
+  igameCrog picked up Топливный стержень
+[10/31/2022 22:30:03]
+  igameCrog picked up Топливный стержень
+[10/31/2022 22:30:03]
+  igameCrog picked up Топливный стержень
+[10/31/2022 22:30:05]
+  igameCrog picked up Сварочный аппарат
+[10/31/2022 22:30:08]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:08]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:08]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:08]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:08]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:10]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:12]
+  igameCrog picked up Отвертка
+[10/31/2022 22:30:13]
+  igameCrog picked up Гаечный ключ
+[10/31/2022 22:30:14]
+  Ashly Gomez: Неизвестная цель обнаружена!
+[10/31/2022 22:30:14]
+  igameCrog picked up Лом
+[10/31/2022 22:30:15]
+  Ashly Gomez: Огонь!
+[10/31/2022 22:30:15]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:15]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:15]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:16]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:16]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:16]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:17]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:17]
+  igameCrog placed Лом in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:17]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:18]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:30:19]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:21]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 4494)
+[10/31/2022 22:30:29]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:30:30]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:30:30]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:30:30]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:30:30]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:30:33]
+  Jess Shah: Надо найти водолазный скафандр!
+[10/31/2022 22:30:33]
+  Lora Hernandez: Мне нужно подводное снаряжение!
+[10/31/2022 22:30:38]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 275)
+[10/31/2022 22:30:40]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 275)
+[10/31/2022 22:30:42]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 275)
+[10/31/2022 22:30:50]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 67, Turbine output: 95, Autotemp OFF
+[10/31/2022 22:30:51]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 77, Turbine output: 95, Autotemp OFF
+[10/31/2022 22:30:53]
+  Jess Shah equipped Сварочный аппарат
+[10/31/2022 22:30:54]
+  igameCrog is a traitor and the current goals are:
+- Ваша цель: Бредоген. Вы найдете ее здесь: Медицинский отсек. (В процессе)
+
+[10/31/2022 22:30:59]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:30:59]
+  Ashly Gomez: Надо найти водолазный скафандр!
+[10/31/2022 22:30:59]
+  Jess Shah: Моторный отсек: минус одна протечка!
+[10/31/2022 22:31:01]
+  Jutta Avery equipped Контейнер для хранения
+[10/31/2022 22:31:01]
+  Jutta Avery: Надо найти водолазный скафандр!
+[10/31/2022 22:31:01]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:04]
+  Omari Pollard equipped Водолазный скафандр
+[10/31/2022 22:31:06]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:07]
+  Omari Pollard: Мне нужно подводное снаряжение!
+[10/31/2022 22:31:07]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:08]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:09]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:10]
+  Jess Shah: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/31/2022 22:31:10]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:11]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:11]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:11]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:12]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:13]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:16]
+  igameCrog picked up Подводный скутер
+[10/31/2022 22:31:17]
+  igameCrog picked up Подводная маска
+[10/31/2022 22:31:18]
+  Jutta Avery started repairing Суперконденсатор
+[10/31/2022 22:31:18]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:18]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:18]
+  igameCrog picked up Ручной сонар
+[10/31/2022 22:31:18]
+  Jess Shah: Моторный отсек: протечек не осталось!
+[10/31/2022 22:31:19]
+  Ashly Gomez: Огонь!
+[10/31/2022 22:31:19]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:20]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Inner wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Inner wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:31:20]
+  Jess Shah unequipped Сварочный аппарат
+[10/31/2022 22:31:21]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:21]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:22]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:23]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:23]
+  Jess Shah: Мне нужно подводное снаряжение!
+[10/31/2022 22:31:23]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:23]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:35]
+  igameCrog picked up Сварочный аппарат
+[10/31/2022 22:31:35]
+  Jutta Avery: Мне нужно подводное снаряжение!
+[10/31/2022 22:31:36]
+  igameCrog equipped Сварочный аппарат
+[10/31/2022 22:31:38]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:38]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:38]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:39]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:39]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:31:39]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:39]
+  Jess Shah equipped Сварочный аппарат
+[10/31/2022 22:31:39]
+  Outer wall repaired by Jess Shah
+[10/31/2022 22:31:39]
+  Inner wall repaired by Jess Shah
+[10/31/2022 22:31:39]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:40]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:40]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:40]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:40]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:40]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:31:49]
+  Ashly Gomez: Стреляю!
+[10/31/2022 22:31:49]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:50]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:50]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:50]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 22:31:50]
+  igameCrog dropped Водолазный скафандр
+[10/31/2022 22:31:50]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:51]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:51]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:51]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:51]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:52]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:52]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 22:31:52]
+  igameCrog dropped Водолазный скафандр
+[10/31/2022 22:31:52]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:52]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:53]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:31:57]
+  Omari Pollard has died (Cause of death: Ожог)
+[10/31/2022 22:32:01]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:01]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:01]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:01]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:03]
+  Jutta Avery has died (Cause of death: Ожог)
+[10/31/2022 22:32:03]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 22:32:03]
+  igameCrog dropped Водолазный скафандр
+[10/31/2022 22:32:08]
+  Williams Duplantier equipped Сварочный аппарат
+[10/31/2022 22:32:17]
+  Lora Hernandez has died (Cause of death: Ожог)
+[10/31/2022 22:32:17]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:18]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:18]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:18]
+  Jess Shah has died (Cause of death: Ожог)
+[10/31/2022 22:32:18]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:19]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:19]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:19]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:19]
+  Ashly Gomez: Огонь!
+[10/31/2022 22:32:19]
+  Ashly Gomez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:24]
+  igameCrog picked up Морфин
+[10/31/2022 22:32:24]
+  igameCrog picked up Бинт
+[10/31/2022 22:32:26]
+  kynlan4ic picked up Сварочный аппарат
+[10/31/2022 22:32:28]
+  Reactor meltdown!
+[10/31/2022 22:32:28]
+  igameCrog has lost more than 25 karma in the past minute.
+[10/31/2022 22:32:31]
+  Ashly Gomez: Надо найти водолазный скафандр!
+[10/31/2022 22:32:31]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:31]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:31]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:31]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:31]
+  Outer wall breached by Hammerheadgold
+[10/31/2022 22:32:36]
+  Williams Duplantier: Надо найти водолазный скафандр!
+[10/31/2022 22:32:36]
+  Williams Duplantier: Пункт управления: здесь поднимается давление!
+[10/31/2022 22:32:38]
+  Ashly Gomez has died (Cause of death: Баротравма)
+[10/31/2022 22:32:38]
+  Williams Duplantier has died (Cause of death: Баротравма)
+[10/31/2022 22:32:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:48]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/31/2022 22:32:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:48]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:48]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:32:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:49]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:49]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[10/31/2022 22:32:49]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/31/2022 22:32:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:49]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/31/2022 22:32:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:50]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:50]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:32:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:50]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:32:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:50]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:51]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:32:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:51]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 22:32:51]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:53]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:53]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/31/2022 22:32:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/31/2022 22:32:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:56]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:56]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:57]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 22:32:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:57]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:57]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:57]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 22:32:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:32:57]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:58]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:32:58]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 22:32:58]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:33:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:33:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:33:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:33:10]
+  kynlan4ic picked up Бинт
+[10/31/2022 22:33:14]
+  kynlan4ic picked up Топливный стержень
+[10/31/2022 22:33:37]
+  kynlan4ic equipped Сварочный аппарат
+[10/31/2022 22:33:41]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:33:43]
+  igameCrog picked up Плазменный резак
+[10/31/2022 22:33:43]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:33:49]
+  igameCrog removed Кислородный баллон from Плазменный резак (ID: 4488)
+[10/31/2022 22:33:58]
+  igameCrog placed Кислородный баллон in Плазменный резак (ID: 4488)
+[10/31/2022 22:34:01]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:34:06]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:34:09]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:34:09]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:34:09]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:34:11]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:34:13]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:34:16]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:34:17]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:34:20]
+  Inner wall repaired by igameCrog
+[10/31/2022 22:34:21]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:34:24]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:34:24]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:34:56]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4494)
+[10/31/2022 22:35:01]
+  kynlan4ic unequipped Сварочный аппарат
+[10/31/2022 22:35:01]
+  kynlan4ic equipped Медконтейнер
+[10/31/2022 22:35:04]
+  kynlan4ic placed Медконтейнер in Деконструктор (ID: 284)
+[10/31/2022 22:35:17]
+  igameCrog placed Кислородный баллон in Human
+[10/31/2022 22:35:37]
+  igameCrog placed Кислородный баллон in Human
+[10/31/2022 22:35:43]
+  kynlan4ic equipped Сварочный аппарат
+[10/31/2022 22:35:45]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:35:46]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:35:47]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:35:49]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:35:49]
+  Inner wall repaired by igameCrog
+[10/31/2022 22:35:55]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:35:57]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:35:57]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:36:00]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:36:00]
+  Inner wall repaired by igameCrog
+[10/31/2022 22:36:02]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:36:11]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:36:11]
+  kynlan4ic dropped Кислородный баллон
+[10/31/2022 22:36:11]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 376)
+[10/31/2022 22:36:19]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:36:22]
+  igameCrog equipped Подводный скутер
+[10/31/2022 22:36:34]
+  igameCrog equipped Плазменный резак
+[10/31/2022 22:36:37]
+  Outer wall breached by igameCrog
+[10/31/2022 22:36:38]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:36:39]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:36:40]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:36:41]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:36:42]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:36:44]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:37:13]
+  Inner wall repaired by kynlan4ic
+[10/31/2022 22:37:14]
+  Outer wall repaired by igameCrog
+[10/31/2022 22:37:18]
+  Outer wall repaired by kynlan4ic
+[10/31/2022 22:37:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:37:24]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4494)
+[10/31/2022 22:37:24]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 271)
+[10/31/2022 22:37:26]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4494)
+[10/31/2022 22:37:49]
+  kynlan4ic picked up Подводный скутер
+[10/31/2022 22:37:50]
+  kynlan4ic picked up Сигнальный огонь
+[10/31/2022 22:37:51]
+  kynlan4ic picked up Сигнальный огонь
+[10/31/2022 22:37:51]
+  kynlan4ic picked up Сигнальный огонь
+[10/31/2022 22:37:54]
+  kynlan4ic equipped Сигнальный огонь
+[10/31/2022 22:37:56]
+  kynlan4ic threw Сигнальный огонь
+[10/31/2022 22:38:03]
+  kynlan4ic equipped Сигнальный огонь
+[10/31/2022 22:38:11]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 275)
+[10/31/2022 22:38:12]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 275)
+[10/31/2022 22:38:13]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 275)
+[10/31/2022 22:38:14]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 275)
+[10/31/2022 22:38:17]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:38:17]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 275)
+[10/31/2022 22:38:29]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 4494)
+[10/31/2022 22:38:33]
+  igameCrog picked up Гаечный ключ
+[10/31/2022 22:38:34]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 4494)
+[10/31/2022 22:38:37]
+  igameCrog picked up Отвертка
+[10/31/2022 22:38:46]
+  igameCrog equipped Гаечный ключ
+[10/31/2022 22:38:50]
+  igameCrog equipped Отвертка
+[10/31/2022 22:38:53]
+  igameCrog started repairing Батарея
+[10/31/2022 22:39:14]
+  igameCrog started repairing Батарея
+[10/31/2022 22:39:32]
+  igameCrog started repairing Батарея
+[10/31/2022 22:39:32]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:39:33]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:39:33]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:39:48]
+  igameCrog started repairing Ядерный реактор
+[10/31/2022 22:39:49]
+  igameCrog adjusted reactor settings: Temperature: 383, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/31/2022 22:40:13]
+  igameCrog started repairing Ядерный реактор
+[10/31/2022 22:40:16]
+  igameCrog failed to repair Кабельная коробка
+[10/31/2022 22:40:17]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:40:37]
+  igameCrog failed to repair Кабельная коробка
+[10/31/2022 22:40:38]
+  igameCrog failed to repair Кабельная коробка
+[10/31/2022 22:40:39]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:40:44]
+  kynlan4ic equipped Револьвер
+[10/31/2022 22:41:00]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:41:02]
+  kynlan4ic equipped Трубка капитана
+[10/31/2022 22:41:02]
+  kynlan4ic dropped Сигнальный огонь
+[10/31/2022 22:41:03]
+  igameCrog failed to repair Кабельная коробка
+[10/31/2022 22:41:04]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:41:20]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:41:24]
+  igameCrog started repairing Батарея
+[10/31/2022 22:41:47]
+  igameCrog started repairing Батарея
+[10/31/2022 22:41:48]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:41:48]
+  kynlan4ic dropped Кислородный баллон
+[10/31/2022 22:41:48]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 376)
+[10/31/2022 22:41:52]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:41:53]
+  kynlan4ic unequipped Трубка капитана
+[10/31/2022 22:41:53]
+  kynlan4ic equipped Ящик с химикатами
+[10/31/2022 22:41:54]
+  kynlan4ic placed Ящик с химикатами in Деконструктор (ID: 284)
+[10/31/2022 22:41:56]
+  kynlan4ic equipped Металлический ящик
+[10/31/2022 22:41:58]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 284)
+[10/31/2022 22:42:11]
+  kynlan4ic equipped Бинт
+[10/31/2022 22:42:17]
+  kynlan4ic used item Бинт
+[10/31/2022 22:42:35]
+  igameCrog started repairing Ядерный реактор
+[10/31/2022 22:42:58]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4494)
+[10/31/2022 22:42:58]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4494)
+[10/31/2022 22:42:58]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 271)
+[10/31/2022 22:43:02]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/31/2022 22:43:16]
+  igameCrog started repairing Малый насос
+[10/31/2022 22:43:36]
+  igameCrog failed to repair Малый насос
+[10/31/2022 22:43:53]
+  igameCrog started repairing Фабрикатор
+[10/31/2022 22:44:09]
+  igameCrog started repairing Фабрикатор
+[10/31/2022 22:44:20]
+  igameCrog started repairing Монитор состояния
+[10/31/2022 22:44:33]
+  igameCrog started repairing Монитор состояния
+[10/31/2022 22:44:37]
+  igameCrog started repairing Навигационный терминал
+[10/31/2022 22:44:55]
+  igameCrog started repairing Малый насос
+[10/31/2022 22:45:11]
+  igameCrog started repairing Зарядник магнитной пушки
+[10/31/2022 22:45:15]
+  Игрок faamircate присоединился к серверу.
+[10/31/2022 22:45:15]
+  Saving client permissions
+[10/31/2022 22:45:21]
+  igameCrog started repairing Двигатель
+[10/31/2022 22:45:36]
+  igameCrog started repairing Двигатель
+[10/31/2022 22:45:39]
+  igameCrog started repairing Малый насос
+[10/31/2022 22:45:59]
+  igameCrog picked up Сварочный аппарат
+[10/31/2022 22:46:11]
+  Dispatching the respawn shuttle.
+[10/31/2022 22:46:11]
+  Respawning faamircate (STEAM_1:1:475154159) as Офицер службы безопасности
+[10/31/2022 22:46:11]
+  Respawning bot Ashly Gomez as Офицер службы безопасности
+[10/31/2022 22:46:11]
+  Respawning bot Jutta Avery as Инженер
+[10/31/2022 22:46:11]
+  Respawning bot Williams Duplantier as Врач
+[10/31/2022 22:46:11]
+  Respawning bot Omari Pollard as Помощник
+[10/31/2022 22:46:12]
+  The respawn shuttle is leaving.
+[10/31/2022 22:46:13]
+  faamircate set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 22:46:18]
+  Williams Duplantier equipped Водолазный скафандр
+[10/31/2022 22:46:21]
+  Jutta Avery equipped Гаечный ключ
+[10/31/2022 22:46:21]
+  Jutta Avery unequipped Гаечный ключ
+[10/31/2022 22:46:21]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:46:21]
+  Jutta Avery started repairing Суперконденсатор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  faamircate picked up Физраствор
+[10/31/2022 22:46:22]
+  igameCrog started repairing Малый насос
+[10/31/2022 22:46:23]
+  faamircate picked up Бинт
+[10/31/2022 22:46:24]
+  faamircate picked up Морфин
+[10/31/2022 22:46:34]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 282)
+[10/31/2022 22:46:35]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 282)
+[10/31/2022 22:46:42]
+  Jutta Avery started repairing Кабельная коробка
+[10/31/2022 22:46:42]
+  Mudraptor has died (Cause of death: Укусы)
+[10/31/2022 22:46:43]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 282)
+[10/31/2022 22:46:43]
+  The respawn shuttle has left.
+[10/31/2022 22:46:47]
+  igameCrog started repairing Насос
+[10/31/2022 22:46:48]
+  Omari Pollard equipped Сварочный аппарат
+[10/31/2022 22:46:48]
+  kynlan4ic picked up Ручной сонар
+[10/31/2022 22:46:51]
+  Outer wall repaired by Omari Pollard
+[10/31/2022 22:46:51]
+  Omari Pollard: Пункт управления: протечек не осталось!
+[10/31/2022 22:46:53]
+  Omari Pollard unequipped Сварочный аппарат
+[10/31/2022 22:46:53]
+  Jutta Avery unequipped Отвертка
+[10/31/2022 22:46:53]
+  Jutta Avery equipped Гаечный ключ
+[10/31/2022 22:46:54]
+  Jutta Avery unequipped Гаечный ключ
+[10/31/2022 22:47:00]
+  Omari Pollard equipped Кислородный баллон
+[10/31/2022 22:47:00]
+  Ashly Gomez equipped Сварочный аппарат
+[10/31/2022 22:47:00]
+  igameCrog dropped Водолазный скафандр
+[10/31/2022 22:47:00]
+  faamircate picked up Отвертка
+[10/31/2022 22:47:02]
+  faamircate picked up Гаечный ключ
+[10/31/2022 22:47:02]
+  igameCrog failed to repair Насос
+[10/31/2022 22:47:04]
+  Omari Pollard equipped Кислородный баллон
+[10/31/2022 22:47:05]
+  Ashly Gomez equipped Сигнальный огонь
+[10/31/2022 22:47:06]
+  faamircate equipped Гаечный ключ
+[10/31/2022 22:47:08]
+  faamircate equipped Отвертка
+[10/31/2022 22:47:08]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:47:08]
+  Omari Pollard equipped Кислородный баллон
+[10/31/2022 22:47:09]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 22:47:11]
+  Ashly Gomez equipped Топливный стержень
+[10/31/2022 22:47:11]
+  igameCrog failed to repair Насос
+[10/31/2022 22:47:11]
+  faamircate started repairing Батарея
+[10/31/2022 22:47:11]
+  Jutta Avery started repairing Кабельная коробка
+[10/31/2022 22:47:14]
+  kynlan4ic: Jutta Avery, займись ремонтом поврежденных систем!
+[10/31/2022 22:47:15]
+  Jutta Avery: Принято.
+[10/31/2022 22:47:16]
+  kynlan4ic: Omari Pollard, займись ремонтом поврежденных систем!
+[10/31/2022 22:47:16]
+  Ashly Gomez equipped Топливный стержень
+[10/31/2022 22:47:17]
+  igameCrog failed to repair Насос
+[10/31/2022 22:47:17]
+  Omari Pollard: Принято.
+[10/31/2022 22:47:17]
+  kynlan4ic: Jutta Avery, займись ремонтом поврежденных систем!
+[10/31/2022 22:47:17]
+  Omari Pollard equipped Гаечный ключ
+[10/31/2022 22:47:18]
+  Omari Pollard started repairing Деконструктор
+[10/31/2022 22:47:18]
+  Jutta Avery: Принято.
+[10/31/2022 22:47:20]
+  kynlan4ic: Jutta Avery, займись поврежденными устройствами!
+[10/31/2022 22:47:21]
+  Jutta Avery: Слушаюсь!
+[10/31/2022 22:47:27]
+  Ashly Gomez equipped Топливный стержень
+[10/31/2022 22:47:28]
+  faamircate started repairing Суперконденсатор
+[10/31/2022 22:47:31]
+  Jutta Avery started repairing Кабельная коробка
+[10/31/2022 22:47:33]
+  Ashly Gomez equipped Топливный стержень
+[10/31/2022 22:47:33]
+  Inner wall breached by Spineling
+[10/31/2022 22:47:33]
+  Inner wall breached by Spineling
+[10/31/2022 22:47:37]
+  Omari Pollard started repairing Зарядник магнитной пушки
+[10/31/2022 22:47:42]
+  igameCrog unequipped Отвертка
+[10/31/2022 22:47:42]
+  igameCrog unequipped Гаечный ключ
+[10/31/2022 22:47:42]
+  igameCrog equipped Сварочный аппарат
+[10/31/2022 22:47:43]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:43]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:45]
+  igameCrog dropped Сварочный аппарат
+[10/31/2022 22:47:46]
+  igameCrog equipped Вещмешок
+[10/31/2022 22:47:48]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:48]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:48]
+  Inner wall breached by Spineling
+[10/31/2022 22:47:49]
+  Jutta Avery unequipped Отвертка
+[10/31/2022 22:47:49]
+  Jutta Avery equipped Гаечный ключ
+[10/31/2022 22:47:50]
+  faamircate started repairing Зарядник магнитной пушки
+[10/31/2022 22:47:50]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:50]
+  Inner wall breached by Spineling
+[10/31/2022 22:47:50]
+  Inner wall breached by Spineling
+[10/31/2022 22:47:52]
+  Jutta Avery started repairing Зарядник магнитной пушки
+[10/31/2022 22:47:54]
+  igameCrog dropped Бинт
+[10/31/2022 22:47:55]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:56]
+  igameCrog dropped Морфин
+[10/31/2022 22:47:56]
+  Outer wall breached by Spineling
+[10/31/2022 22:47:56]
+  Omari Pollard started repairing Медицинский фабрикатор
+[10/31/2022 22:47:57]
+  igameCrog dropped Вещмешок
+[10/31/2022 22:47:59]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 22:47:59]
+  igameCrog dropped Водолазный скафандр
+[10/31/2022 22:48:01]
+  igameCrog equipped Вещмешок
+[10/31/2022 22:48:01]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 376)
+[10/31/2022 22:48:01]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:48:02]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 22:48:04]
+  Outer wall breached by Spineling
+[10/31/2022 22:48:04]
+  Inner wall breached by Spineling
+[10/31/2022 22:48:04]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:05]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:05]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:05]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:05]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:06]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:06]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:06]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:06]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:07]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:07]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:07]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:07]
+  Spineling_giant attacked by faamircate. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/31/2022 22:48:07]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:07]
+  Omari Pollard: Вы когда-нибудь чувствовали себя... плоским?
+[10/31/2022 22:48:08]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:08]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:08]
+  igameCrog dropped Вещмешок
+[10/31/2022 22:48:08]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:08]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:10]
+  Jutta Avery failed to repair Зарядник магнитной пушки
+[10/31/2022 22:48:14]
+  kynlan4ic placed Сварочный аппарат in Медицинский отсек (ID: 838)
+[10/31/2022 22:48:14]
+  Jutta Avery unequipped Гаечный ключ
+[10/31/2022 22:48:14]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:48:14]
+  Jutta Avery unequipped Отвертка
+[10/31/2022 22:48:14]
+  Jutta Avery equipped Гаечный ключ
+[10/31/2022 22:48:14]
+  igameCrog removed Плазменный резак from Пояс инструментов (ID: 4494)
+[10/31/2022 22:48:16]
+  kynlan4ic unequipped Плазменный резак
+[10/31/2022 22:48:18]
+  faamircate: Орудийный отсек: здесь протечка!
+[10/31/2022 22:48:20]
+  Inner wall breached by Spineling
+[10/31/2022 22:48:20]
+  Jutta Avery started repairing Одиночный вертикальный зарядник рельсотрона
+[10/31/2022 22:48:22]
+  Ashly Gomez: Помогите, я истекаю кровью!
+[10/31/2022 22:48:23]
+  kynlan4ic equipped Подводный скутер
+[10/31/2022 22:48:23]
+  faamircate: Орудийный отсек: здесь пробит корпус!
+[10/31/2022 22:48:28]
+  Inner wall repaired by Ashly Gomez
+[10/31/2022 22:48:28]
+  Outer wall breached by Spineling
+[10/31/2022 22:48:28]
+  Ashly Gomez: Орудийный отсек: все протечки устранены!
+[10/31/2022 22:48:28]
+  Outer wall repaired by Ashly Gomez
+[10/31/2022 22:48:29]
+  Inner wall repaired by Ashly Gomez
+[10/31/2022 22:48:34]
+  Outer wall repaired by Ashly Gomez
+[10/31/2022 22:48:34]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:35]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:35]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:35]
+  Omari Pollard started repairing Малый насос
+[10/31/2022 22:48:35]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:36]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:36]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:36]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:36]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:36]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:36]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:36]
+  Spineling has died (Cause of death: Рваная рана)
+[10/31/2022 22:48:36]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:36]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:37]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:37]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:37]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:37]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:37]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:37]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:37]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:48:37]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:38]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:48:38]
+  Jutta Avery unequipped Гаечный ключ
+[10/31/2022 22:48:38]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:48:40]
+  Jutta Avery started repairing Кабельная коробка
+[10/31/2022 22:48:41]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:48:42]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:48:42]
+  Inner wall repaired by Ashly Gomez
+[10/31/2022 22:48:42]
+  Ashly Gomez: Инженерный отсек: все протечки устранены!
+[10/31/2022 22:48:44]
+  Jutta Avery: Мне нужно подводное снаряжение!
+[10/31/2022 22:48:44]
+  Ashly Gomez: Мне нужно подводное снаряжение!
+[10/31/2022 22:48:44]
+  Omari Pollard: Надо найти водолазный скафандр!
+[10/31/2022 22:48:49]
+  Williams Duplantier: Надо найти водолазный скафандр!
+[10/31/2022 22:48:53]
+  Williams Duplantier: Надо найти кислородный баллон!
+[10/31/2022 22:48:54]
+  Omari Pollard: Мне нужен кислород!
+[10/31/2022 22:48:54]
+  Ashly Gomez: Помогите, я истекаю кровью!
+[10/31/2022 22:48:54]
+  Jutta Avery unequipped Отвертка
+[10/31/2022 22:48:54]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:48:54]
+  Jutta Avery unequipped Отвертка
+[10/31/2022 22:48:54]
+  Jutta Avery equipped Гаечный ключ
+[10/31/2022 22:48:54]
+  Omari Pollard unequipped Кислородный баллон
+[10/31/2022 22:48:55]
+  kynlan4ic has died (Cause of death: Рваная рана)
+[10/31/2022 22:48:57]
+  Williams Duplantier equipped Кислородный баллон
+[10/31/2022 22:48:57]
+  Ashly Gomez: Надо найти кислородный баллон!
+[10/31/2022 22:49:00]
+  Outer wall repaired by Ashly Gomez
+[10/31/2022 22:49:00]
+  Ashly Gomez: Медицинский отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/31/2022 22:49:01]
+  Outer wall repaired by Ashly Gomez
+[10/31/2022 22:49:01]
+  Williams Duplantier equipped Кислородный баллон
+[10/31/2022 22:49:02]
+  faamircate picked up Водолазный скафандр
+[10/31/2022 22:49:02]
+  igameCrog equipped Гаечный ключ
+[10/31/2022 22:49:03]
+  Ashly Gomez: Медицинский отсек: все протечки устранены!
+[10/31/2022 22:49:04]
+  igameCrog equipped Отвертка
+[10/31/2022 22:49:05]
+  Dispatching the respawn shuttle.
+[10/31/2022 22:49:05]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/31/2022 22:49:05]
+  Respawning bot Ashly Gomez as Офицер службы безопасности
+[10/31/2022 22:49:05]
+  Respawning bot Jutta Avery as Инженер
+[10/31/2022 22:49:05]
+  Respawning bot Williams Duplantier as Врач
+[10/31/2022 22:49:05]
+  Respawning bot Omari Pollard as Помощник
+[10/31/2022 22:49:05]
+  The respawn shuttle is leaving.
+[10/31/2022 22:49:06]
+  Omari Pollard: Мне нужно подводное снаряжение!
+[10/31/2022 22:49:06]
+  Ashly Gomez: Мне нужно подводное снаряжение!
+[10/31/2022 22:49:06]
+  Jutta Avery: Надо найти водолазный скафандр!
+[10/31/2022 22:49:06]
+  Williams Duplantier: Надо найти водолазный скафандр!
+[10/31/2022 22:49:07]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 22:49:07]
+  Outer wall repaired by Ashly Gomez
+[10/31/2022 22:49:08]
+  igameCrog started repairing Кабельная коробка
+[10/31/2022 22:49:09]
+  Outer wall breached by Spineling
+[10/31/2022 22:49:09]
+  Outer wall breached by Spineling
+[10/31/2022 22:49:10]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:10]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:10]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:10]
+  Williams Duplantier: Где кислородные баллоны?
+[10/31/2022 22:49:10]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:11]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:11]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:11]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:11]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:11]
+  Spineling has died (Cause of death: Рваная рана)
+[10/31/2022 22:49:11]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:11]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:11]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:12]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:12]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:12]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:12]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:13]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:13]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:13]
+  Spineling has died (Cause of death: Рваная рана)
+[10/31/2022 22:49:13]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:13]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:14]
+  igameCrog failed to repair Кабельная коробка
+[10/31/2022 22:49:14]
+  Jutta Avery: Мне нужен кислород!
+[10/31/2022 22:49:14]
+  Ashly Gomez unequipped Сварочный аппарат
+[10/31/2022 22:49:14]
+  Ashly Gomez equipped Топливный бак сварочного аппарата
+[10/31/2022 22:49:14]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Outer wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Inner wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Inner wall breached by Spineling_giant
+[10/31/2022 22:49:14]
+  Inner wall breached by Spineling_giant
+[10/31/2022 22:49:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:15]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:17]
+  Ashly Gomez: Надо найти кислородный баллон!
+[10/31/2022 22:49:18]
+  Omari Pollard started repairing Генератор кислорода
+[10/31/2022 22:49:18]
+  Jutta Avery failed to repair Генератор кислорода
+[10/31/2022 22:49:19]
+  Outer wall breached by Spineling
+[10/31/2022 22:49:19]
+  igameCrog failed to repair Кабельная коробка
+[10/31/2022 22:49:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:20]
+  Outer wall breached by Spineling
+[10/31/2022 22:49:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:20]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:21]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:21]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:21]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:21]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:22]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:22]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:22]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:22]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:22]
+  Jutta Avery unequipped Кислородный баллон
+[10/31/2022 22:49:22]
+  Jutta Avery started repairing Генератор кислорода
+[10/31/2022 22:49:23]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:23]
+  Williams Duplantier: Я теряю много крови!
+[10/31/2022 22:49:23]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:23]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:23]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:23]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:23]
+  Omari Pollard started repairing Малый насос
+[10/31/2022 22:49:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:24]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:24]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:24]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:25]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:25]
+  Williams Duplantier: Меняем кислородные баллоны!
+[10/31/2022 22:49:25]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:26]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:26]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:26]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:26]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:26]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:26]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:26]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:27]
+  Spineling has died (Cause of death: Рваная рана)
+[10/31/2022 22:49:27]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:27]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:27]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:27]
+  Jutta Avery equipped Кислородный баллон
+[10/31/2022 22:49:27]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:27]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:27]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:27]
+  Ashly Gomez equipped Сварочный аппарат
+[10/31/2022 22:49:27]
+  Spineling attacked by faamircate. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 22:49:27]
+  Outer wall repaired by Ashly Gomez
+[10/31/2022 22:49:28]
+  faamircate launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 22:49:28]
+  Ashly Gomez: Орудийный отсек: протечек не осталось!
+[10/31/2022 22:49:29]
+  igameCrog started repairing Медицинский фабрикатор
+[10/31/2022 22:49:30]
+  igameCrog failed to repair Медицинский фабрикатор
+[10/31/2022 22:49:32]
+  Jutta Avery equipped Топливный бак сварочного аппарата
+[10/31/2022 22:49:32]
+  Ashly Gomez equipped Кислородный баллон
+[10/31/2022 22:49:33]
+  Jutta Avery unequipped Гаечный ключ
+[10/31/2022 22:49:33]
+  Jutta Avery equipped Отвертка
+[10/31/2022 22:49:36]
+  Williams Duplantier: Мне нужно подводное снаряжение!
+[10/31/2022 22:49:37]
+  The respawn shuttle has left.
+[10/31/2022 22:49:37]
+  Omari Pollard unequipped Гаечный ключ
+[10/31/2022 22:49:37]
+  Omari Pollard equipped Отвертка
+[10/31/2022 22:49:38]
+  Jutta Avery: Невозможно добраться: Батарея!
+[10/31/2022 22:49:38]
+  Jutta Avery unequipped Отвертка
+[10/31/2022 22:49:38]
+  Jutta Avery equipped Гаечный ключ
+[10/31/2022 22:49:38]
+  Jutta Avery: Мне нужно подводное снаряжение!
+[10/31/2022 22:49:39]
+  Omari Pollard: Надо найти водолазный скафандр!
+[10/31/2022 22:49:42]
+  faamircate picked up Сварочный аппарат
+[10/31/2022 22:49:43]
+  Omari Pollard: Мне нужно подводное снаряжение!
+[10/31/2022 22:49:43]
+  Omari Pollard unequipped Отвертка
+[10/31/2022 22:49:43]
+  Omari Pollard equipped Гаечный ключ
+[10/31/2022 22:49:43]
+  faamircate equipped Сварочный аппарат
+[10/31/2022 22:49:44]
+  Omari Pollard unequipped Гаечный ключ
+[10/31/2022 22:49:44]
+  Omari Pollard equipped Отвертка
+[10/31/2022 22:49:44]
+  Jutta Avery started repairing Люк с кнопками

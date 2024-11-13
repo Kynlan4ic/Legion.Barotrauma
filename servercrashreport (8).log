@@ -1,0 +1,56 @@
+﻿Barotrauma Dedicated Server crash report (generated on 03/13/2023 18:45:44)
+
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+
+Game version 0.21.6.0 (ReleaseWindows, branch release, revision 480a2279e0)
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra, Dors, Umkhumbi, Uzurbator3000, SITE 18 SCP 3.5 FIXED DOORS 3.5, EK Matriarch Mk-VII, The Plague Rat, Super Plague Rat, Fat Fish, Bronze Age, Cast Iron, Nemesis, QF8, IHN Kalvair, Wellerman, Unnamed, Челнок R-155, CzechSaboteur, Челнок R-170, Гага дрын, The Deep Manatee, Gato Revamped, Wyvern, Shiftless, TR-56, EK | Armory, Improved Husks, EK | Gunnery, DynamicEuropa, ADV Beacon Stations, Stations from beyond, Backpacks, 32x Stack, SFB with DE, Beacons Extended, Combat Overhaul Redux(COR)
+Level seed: Riville
+Loaded submarine: Wellerman (9A314A377949F1F0C82D2A38805E3570)
+Selected screen: Barotrauma.GameScreen
+Server (Round had started)
+
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+
+
+Exception: Pipe is broken. (System.IO.IOException)
+Target site: Void WriteCore(System.ReadOnlySpan`1[System.Byte])
+Stack trace: 
+   at System.IO.Pipes.PipeStream.WriteCore(ReadOnlySpan`1 buffer)
+   at Barotrauma.Networking.ChildServerRelay.<UpdateWrite>g__writeMsg|27_0(WriteStatus writeStatus, Byte[] msg) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 265
+   at Barotrauma.Networking.ChildServerRelay.UpdateWrite() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 281
+   at System.Threading.Thread.StartCallback()
+
+
+Last debug messages:
+   03/13/2023 18:45:43 - [03/13/2023 18:45:43]
+  Saving banlist
+   03/13/2023 18:45:43 - WARNING: Running slowly (58 updates/s)!
+   03/13/2023 18:45:09 - [03/13/2023 18:45:09]
+  Arron Gregory: Devin Maxwell нуждается в помощи! Срочно требуется экстракт взрывного граната, опиум, морфин или фентанил!
+   03/13/2023 18:45:08 - [03/13/2023 18:45:08]
+  Arron Gregory: Мне жаль, Devin Maxwell, это все, что я могу сделать!
+   03/13/2023 18:45:08 - [03/13/2023 18:45:08]
+  Arron Gregory: Devin Maxwell получает первую помощь здесь: реакторный отсек!
+   03/13/2023 18:45:05 - [03/13/2023 18:45:05]
+  Arron Gregory: Мне требуется экстракт взрывного граната, опиум, морфин или фентанил!
+   03/13/2023 18:45:04 - [03/13/2023 18:45:04]
+  Arron Gregory: vlad32 проходит лечение здесь: орудийный отсек!
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Noriko Meals unequipped PDW-323E
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Adan Dollinger unequipped AEK-22 Special
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Roland Dimauro unequipped M21 Light
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Lola Terry unequipped A219-E
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Bertram Geist unequipped M21 Light
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Terrance Dews unequipped M4-29 Assault rifle
+   03/13/2023 18:45:03 - [03/13/2023 18:45:03]
+  Kenna Donovan unequipped AEK-22 Special

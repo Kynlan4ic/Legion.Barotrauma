@@ -1,0 +1,1602 @@
+﻿[11/06/2022 18:14:52]
+  Saving client permissions
+[11/06/2022 18:14:52]
+  Saving client permissions
+[11/06/2022 18:15:21]
+  kynlan4ic changed PlayStyle to Casual
+[11/06/2022 18:15:21]
+  kynlan4ic changed LosMode to Transparent
+[11/06/2022 18:15:21]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/06/2022 18:15:21]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/06/2022 18:25:26]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 18:25:26]
+  Saving client permissions
+[11/06/2022 18:25:36]
+  Игрок igameCrog присоединился к серверу.
+[11/06/2022 18:25:36]
+  Saving client permissions
+[11/06/2022 18:27:34]
+  igameCrog is ready to start the game.
+[11/06/2022 18:27:35]
+  Client "kynlan4ic" started the round.
+[11/06/2022 18:27:35]
+  Starting a new round...
+[11/06/2022 18:27:50]
+  Game mode: Песочница
+[11/06/2022 18:27:50]
+  Submarine: Remora
+[11/06/2022 18:27:50]
+  Level seed: Zig Hai
+[11/06/2022 18:27:50]
+  Round started.
+[11/06/2022 18:27:50]
+  Fiona Feinman: Тебе доводилось видеть эти штуковины, которые охраняют руины?
+[11/06/2022 18:27:52]
+  Adan Beltran: Да, в институте.
+[11/06/2022 18:27:54]
+  Adan Beltran: Говорят, они неорганические - это скорее машина, чем животное.
+[11/06/2022 18:27:55]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 18:27:58]
+  Fiona Feinman: Крови у них точно нет.
+[11/06/2022 18:27:59]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 18:28:04]
+  kynlan4ic equipped Ящик с химикатами
+[11/06/2022 18:28:07]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/06/2022 18:28:07]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/06/2022 18:28:07]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/06/2022 18:28:07]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/06/2022 18:28:07]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/06/2022 18:28:08]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:28:08]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Морфин
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:08]
+  igameCrog picked up Бинт
+[11/06/2022 18:28:09]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:28:09]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:28:10]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 18:28:11]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[11/06/2022 18:28:11]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:28:11]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:28:13]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:28:13]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:28:16]
+  igameCrog placed Бинт in Аптечка (ID: 195)
+[11/06/2022 18:28:22]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:32]
+  kynlan4ic picked up Патрон для дробовика
+[11/06/2022 18:28:34]
+  kynlan4ic picked up Дробовик
+[11/06/2022 18:28:38]
+  kynlan4ic picked up Бинт
+[11/06/2022 18:28:38]
+  kynlan4ic picked up Бинт
+[11/06/2022 18:28:38]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:28:53]
+  igameCrog picked up Удостоверение личности
+[11/06/2022 18:28:54]
+  igameCrog picked up Пояс инструментов
+[11/06/2022 18:28:56]
+  igameCrog picked up Гаечный ключ
+[11/06/2022 18:28:56]
+  igameCrog picked up Отвертка
+[11/06/2022 18:28:57]
+  igameCrog picked up Сварочный аппарат
+[11/06/2022 18:28:57]
+  igameCrog picked up Плазменный резак
+[11/06/2022 18:29:02]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 3448)
+[11/06/2022 18:29:03]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 3448)
+[11/06/2022 18:29:05]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 3448)
+[11/06/2022 18:29:05]
+  Disconnecting client rus7ak. Syncing the client with the server took too long.
+[11/06/2022 18:29:05]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 18:29:06]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 3448)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:09]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:10]
+  igameCrog placed Бинт in Форма врача (ID: 3411)
+[11/06/2022 18:29:19]
+  igameCrog picked up Каликсанид
+[11/06/2022 18:29:34]
+  igameCrog picked up Антибиотики широкого спектра
+[11/06/2022 18:29:34]
+  igameCrog picked up Антибиотики широкого спектра
+[11/06/2022 18:29:39]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 3448)
+[11/06/2022 18:29:39]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 3448)
+[11/06/2022 18:29:40]
+  igameCrog placed Каликсанид in Форма врача (ID: 3411)
+[11/06/2022 18:30:07]
+  igameCrog placed Удостоверение личности in Human
+[11/06/2022 18:30:09]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 18:30:09]
+  Saving client permissions
+[11/06/2022 18:30:15]
+  kynlan4ic is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[11/06/2022 18:30:26]
+  igameCrog picked up Удостоверение личности
+[11/06/2022 18:30:30]
+  igameCrog picked up Подводная маска
+[11/06/2022 18:30:31]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:30:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:30:42]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:30:42]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:30:47]
+  igameCrog picked up Красный провод
+[11/06/2022 18:30:48]
+  igameCrog picked up Оранжевый провод
+[11/06/2022 18:30:48]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:30:48]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:30:50]
+  igameCrog picked up Сварочный аппарат
+[11/06/2022 18:30:51]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:30:51]
+  igameCrog placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 670)
+[11/06/2022 18:30:53]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:30:53]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/06/2022 18:30:53]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/06/2022 18:30:53]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/06/2022 18:30:53]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/06/2022 18:30:54]
+  igameCrog placed Сварочный аппарат in Средний стальной шкаф (ID: 670)
+[11/06/2022 18:30:54]
+  kynlan4ic activated Деконструктор
+[11/06/2022 18:30:56]
+  igameCrog picked up Лом
+[11/06/2022 18:31:04]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:31:23]
+  Disconnecting client rus7ak. Syncing the client with the server took too long.
+[11/06/2022 18:31:23]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 18:31:28]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:31:29]
+  kynlan4ic activated Деконструктор
+[11/06/2022 18:31:33]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:31:33]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:31:35]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:31:42]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:31:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:32:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:05]
+  igameCrog placed Лом in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:05]
+  igameCrog removed Сварочный аппарат from Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:05]
+  igameCrog picked up Сварочный аппарат
+[11/06/2022 18:32:12]
+  igameCrog picked up Отвертка
+[11/06/2022 18:32:14]
+  igameCrog placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:14]
+  igameCrog placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:14]
+  igameCrog placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:14]
+  igameCrog placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:17]
+  igameCrog placed Оранжевый провод in Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:17]
+  igameCrog removed Гаечный ключ from Пояс инструментов (ID: 3448)
+[11/06/2022 18:32:17]
+  igameCrog picked up Гаечный ключ
+[11/06/2022 18:32:18]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 18:32:18]
+  Saving client permissions
+[11/06/2022 18:32:32]
+  igameCrog equipped Отвертка
+[11/06/2022 18:33:12]
+  rus7ak has died (Cause of death: Disconnected)
+[11/06/2022 18:33:15]
+  Disconnecting client rus7ak. Syncing the client with the server took too long.
+[11/06/2022 18:33:15]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 18:33:25]
+  igameCrog disconnected a wire from Дверь с окном и кнопками (set_state) to Компонент «И» (signal_out)
+[11/06/2022 18:33:25]
+  igameCrog connected a wire from Дверь с окном и кнопками (toggle) to Компонент «И» (signal_out)
+[11/06/2022 18:33:29]
+  igameCrog disconnected a wire from Дверь с окном и кнопками (toggle) to Компонент «И» (signal_out)
+[11/06/2022 18:33:29]
+  igameCrog connected a wire from Дверь с окном и кнопками (state_out) to Компонент «И» (signal_out)
+[11/06/2022 18:33:34]
+  igameCrog disconnected a wire from Дверь с окном и кнопками (state_out) to Компонент «И» (signal_out)
+[11/06/2022 18:33:34]
+  igameCrog connected a wire from Дверь с окном и кнопками (condition_out) to Компонент «И» (signal_out)
+[11/06/2022 18:33:51]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 18:33:51]
+  Saving client permissions
+[11/06/2022 18:33:54]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:34:02]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:34:06]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:34:06]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:34:07]
+  igameCrog disconnected a wire from Перископ (trigger_out) to Двойная магнитная пушка (trigger_in)
+[11/06/2022 18:34:07]
+  igameCrog connected a wire from Перископ (position_out) to Двойная магнитная пушка (trigger_in)
+[11/06/2022 18:34:09]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:09]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:09]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:09]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:09]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:09]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:10]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:34:19]
+  kynlan4ic picked up Пояс инструментов
+[11/06/2022 18:34:22]
+  igameCrog disconnected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/06/2022 18:34:22]
+  igameCrog connected a wire from Генератор кислорода (condition_out) to Кабельная коробка (power)
+[11/06/2022 18:34:38]
+  kynlan4ic activated Деконструктор
+[11/06/2022 18:34:39]
+  igameCrog failed to repair Кабельная коробка
+[11/06/2022 18:34:41]
+  Disconnecting client rus7ak. Syncing the client with the server took too long.
+[11/06/2022 18:34:41]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 18:34:45]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:34:55]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:34:57]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:34:59]
+  igameCrog failed to repair Кабельная коробка
+[11/06/2022 18:35:03]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 18:35:03]
+  Saving client permissions
+[11/06/2022 18:35:05]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:35:05]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:35:06]
+  kynlan4ic activated Деконструктор
+[11/06/2022 18:35:16]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:35:17]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:35:25]
+  kynlan4ic dropped Подводная маска
+[11/06/2022 18:35:27]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:35:29]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:35:30]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:35:31]
+  kynlan4ic activated Деконструктор
+[11/06/2022 18:35:39]
+  Dispatching the respawn shuttle.
+[11/06/2022 18:35:39]
+  Respawning rus7ak (STEAM_1:0:605122191) as Инженер
+[11/06/2022 18:35:43]
+  rus7ak set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 18:35:45]
+  Elliana Bergman equipped Резина
+[11/06/2022 18:35:52]
+  Elliana Bergman: igameCrog получает первую помощь здесь: верхняя средняя часть!
+[11/06/2022 18:35:53]
+  Elliana Bergman: igameCrog в полном порядке!
+[11/06/2022 18:35:56]
+  Adan Beltran equipped Кислородный баллон
+[11/06/2022 18:36:10]
+  kynlan4ic picked up Подводный скутер
+[11/06/2022 18:36:13]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:36:15]
+  kynlan4ic equipped Водолазный скафандр
+[11/06/2022 18:36:16]
+  Adan Beltran equipped Резина
+[11/06/2022 18:36:16]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:36:17]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:36:17]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:36:17]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:36:19]
+  Jeanene Holter equipped Резина
+[11/06/2022 18:36:20]
+  kynlan4ic picked up Плазменный резак
+[11/06/2022 18:36:20]
+  Fiona Feinman: Мне нужно подводное снаряжение!
+[11/06/2022 18:36:21]
+  Gerard Suarez: Надо найти водолазный скафандр!
+[11/06/2022 18:36:22]
+  kynlan4ic placed Плазменный резак in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:24]
+  kynlan4ic placed Подводный скутер in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:28]
+  kynlan4ic placed Яйца велонацепса каликса in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:28]
+  kynlan4ic placed Яйца велонацепса каликса in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:28]
+  kynlan4ic placed Яйца велонацепса каликса in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:28]
+  kynlan4ic placed Яйца велонацепса каликса in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:28]
+  kynlan4ic placed Яйца велонацепса каликса in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:30]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:30]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:30]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:36:30]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:37:02]
+  igameCrog undocked RemoraDrone from Remora
+[11/06/2022 18:37:07]
+  kynlan4ic picked up Клоунская маска
+[11/06/2022 18:37:09]
+  kynlan4ic picked up Клоунский костюм
+[11/06/2022 18:37:09]
+  rus7ak picked up Подводная маска
+[11/06/2022 18:37:15]
+  Todd Parchman: Надо найти водолазный скафандр!
+[11/06/2022 18:37:16]
+  Elliana Bergman: Надо найти водолазный скафандр!
+[11/06/2022 18:37:16]
+  Fiona Feinman: Мне нужно подводное снаряжение!
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:20]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:37:25]
+  Harlan Aguilar: Здесь ужасно тихо.
+[11/06/2022 18:37:27]
+  Harlan Aguilar: У меня наушник, вообще, работает?
+[11/06/2022 18:37:30]
+  Darius Radice: Слышу тебя четко и ясно.
+[11/06/2022 18:37:37]
+  kynlan4ic dropped Клоунский костюм
+[11/06/2022 18:37:38]
+  kynlan4ic dropped Клоунская маска
+[11/06/2022 18:38:00]
+  Freeman Fleig: Мне нужно подводное снаряжение!
+[11/06/2022 18:38:05]
+  Fiona Feinman: Надо найти водолазный скафандр!
+[11/06/2022 18:38:06]
+  igameCrog docked RemoraDrone to Remora
+[11/06/2022 18:38:12]
+  kynlan4ic removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 5)
+[11/06/2022 18:38:14]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:38:14]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:38:14]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:38:16]
+  kynlan4ic dropped Водолазный скафандр
+[11/06/2022 18:38:16]
+  Freeman Fleig equipped Водолазный скафандр
+[11/06/2022 18:38:16]
+  igameCrog disconnected a wire from Генератор кислорода (condition_out) to Кабельная коробка (power)
+[11/06/2022 18:38:16]
+  igameCrog connected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/06/2022 18:38:16]
+  Todd Parchman failed to repair Монитор состояния
+[11/06/2022 18:38:17]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:38:19]
+  kynlan4ic dropped Водолазный скафандр
+[11/06/2022 18:38:21]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:38:22]
+  Freeman Fleig equipped Водолазный скафандр
+[11/06/2022 18:38:23]
+  Freeman Fleig closed Настраиваемая дверь
+[11/06/2022 18:38:23]
+  Freeman Fleig opened Настраиваемая дверь
+[11/06/2022 18:38:23]
+  kynlan4ic equipped Водолазный скафандр
+[11/06/2022 18:38:24]
+  Freeman Fleig closed Настраиваемая дверь
+[11/06/2022 18:38:24]
+  Freeman Fleig opened Настраиваемая дверь
+[11/06/2022 18:38:25]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:38:36]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:38:43]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:38:46]
+  Todd Parchman started repairing Монитор состояния
+[11/06/2022 18:38:49]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:49]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:49]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:49]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:56]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:56]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:57]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:57]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:57]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:38:57]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:39:03]
+  igameCrog disconnected a wire from Перископ (position_out) to Двойная магнитная пушка (trigger_in)
+[11/06/2022 18:39:03]
+  igameCrog connected a wire from Перископ (trigger_out) to Двойная магнитная пушка (trigger_in)
+[11/06/2022 18:39:04]
+  Rupert Moses: Загружаю в реактор дополнительное топливо!
+[11/06/2022 18:39:04]
+  Harlan Aguilar: Загружаю в реактор дополнительное топливо!
+[11/06/2022 18:39:06]
+  Harlan Aguilar equipped Топливный стержень
+[11/06/2022 18:39:07]
+  Darius Radice: Загружаю в реактор дополнительное топливо!
+[11/06/2022 18:39:07]
+  Jeanene Holter: Загружаю в реактор дополнительное топливо!
+[11/06/2022 18:39:08]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:39:09]
+  Darius Radice equipped Топливный стержень
+[11/06/2022 18:39:10]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:39:12]
+  Harlan Aguilar equipped Топливный стержень
+[11/06/2022 18:39:12]
+  Darius Radice unequipped Топливный стержень
+[11/06/2022 18:39:17]
+  kynlan4ic adjusted reactor settings: Temperature: 2046, Fission rate: 48, Turbine output: 53, Autotemp OFF
+[11/06/2022 18:39:18]
+  kynlan4ic adjusted reactor settings: Temperature: 2188, Fission rate: 48, Turbine output: 56, Autotemp OFF
+[11/06/2022 18:39:19]
+  igameCrog disconnected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/06/2022 18:39:19]
+  igameCrog connected a wire from Генератор кислорода (condition_out) to Кабельная коробка (power)
+[11/06/2022 18:39:19]
+  kynlan4ic adjusted reactor settings: Temperature: 1412, Fission rate: 50, Turbine output: 100, Autotemp OFF
+[11/06/2022 18:39:20]
+  kynlan4ic adjusted reactor settings: Temperature: 612, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[11/06/2022 18:39:24]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:39:26]
+  Todd Parchman: Кабельная коробка не поддается починке!
+[11/06/2022 18:39:27]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:39:28]
+  kynlan4ic adjusted reactor settings: Temperature: 2798, Fission rate: 98, Turbine output: 100, Autotemp OFF
+[11/06/2022 18:39:29]
+  kynlan4ic adjusted reactor settings: Temperature: 2315, Fission rate: 0, Turbine output: 100, Autotemp OFF
+[11/06/2022 18:39:30]
+  kynlan4ic picked up Топливный стержень
+[11/06/2022 18:39:32]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[11/06/2022 18:39:33]
+  rus7ak docked Venture to Remora
+[11/06/2022 18:39:33]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:39:43]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:39:48]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:40:06]
+  kynlan4ic picked up Гаечный ключ
+[11/06/2022 18:40:06]
+  rus7ak equipped Отвертка
+[11/06/2022 18:40:07]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:40:12]
+  kynlan4ic dropped Водолазный скафандр
+[11/06/2022 18:40:14]
+  kynlan4ic equipped Гаечный ключ
+[11/06/2022 18:40:16]
+  kynlan4ic failed to sabotage Генератор кислорода
+[11/06/2022 18:40:28]
+  kynlan4ic failed to sabotage Генератор кислорода
+[11/06/2022 18:40:33]
+  Todd Parchman failed to repair Кабельная коробка
+[11/06/2022 18:40:33]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:40:36]
+  The respawn shuttle is leaving.
+[11/06/2022 18:40:38]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:40:49]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:41:02]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:41:07]
+  The respawn shuttle has left.
+[11/06/2022 18:41:11]
+  igameCrog started repairing Ядерный реактор
+[11/06/2022 18:41:20]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:41:22]
+  igameCrog picked up Топливный стержень
+[11/06/2022 18:41:25]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/06/2022 18:41:25]
+  rus7ak started repairing Кабельная коробка
+[11/06/2022 18:41:27]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 99, Autotemp ON
+[11/06/2022 18:41:32]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:41:49]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:41:59]
+  Todd Parchman: Кабельная коробка не поддается починке!
+[11/06/2022 18:42:01]
+  Todd Parchman failed to repair Кабельная коробка
+[11/06/2022 18:42:04]
+  Adan Beltran: Мне нужно подводное снаряжение!
+[11/06/2022 18:42:05]
+  Fiona Feinman: Надо найти водолазный скафандр!
+[11/06/2022 18:42:10]
+  Elliana Bergman: Пытаюсь найти огнетушитель!
+[11/06/2022 18:42:13]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:42:14]
+  Elliana Bergman equipped Огнетушитель
+[11/06/2022 18:42:14]
+  Elliana Bergman: Надо найти водолазный скафандр!
+[11/06/2022 18:42:17]
+  rus7ak has died (Cause of death: Ожог)
+[11/06/2022 18:42:21]
+  Adan Beltran equipped Водолазный скафандр
+[11/06/2022 18:42:22]
+  Fiona Feinman equipped Водолазный скафандр
+[11/06/2022 18:42:25]
+  Jeanene Holter: Надо найти водолазный скафандр!
+[11/06/2022 18:42:25]
+  Rupert Moses: Мне нужно подводное снаряжение!
+[11/06/2022 18:42:26]
+  Darius Radice: Надо найти водолазный скафандр!
+[11/06/2022 18:42:28]
+  igameCrog unequipped Отвертка
+[11/06/2022 18:42:28]
+  igameCrog equipped Водолазный скафандр
+[11/06/2022 18:42:31]
+  Fiona Feinman: Мне нужен кислород!
+[11/06/2022 18:42:36]
+  Harlan Aguilar: Надо найти водолазный скафандр!
+[11/06/2022 18:42:36]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:42:41]
+  Fiona Feinman (as ???) equipped Кислородный баллон
+[11/06/2022 18:42:45]
+  Elliana Bergman: Мне нужно подводное снаряжение!
+[11/06/2022 18:42:51]
+  igameCrog equipped Отвертка
+[11/06/2022 18:42:56]
+  Jeanene Holter: Я теряю сознание!
+[11/06/2022 18:42:57]
+  Rupert Moses: Нечем дышать!
+[11/06/2022 18:43:01]
+  Rupert Moses: Мне нужно подводное снаряжение!
+[11/06/2022 18:43:14]
+  igameCrog disconnected a wire from Генератор кислорода (condition_out) to Кабельная коробка (power)
+[11/06/2022 18:43:14]
+  igameCrog connected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/06/2022 18:43:24]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:43:27]
+  Dispatching the respawn shuttle.
+[11/06/2022 18:43:27]
+  Respawning rus7ak (STEAM_1:0:605122191) as Офицер службы безопасности
+[11/06/2022 18:43:28]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:43:29]
+  Rupert Moses: Нечем дышать!
+[11/06/2022 18:43:30]
+  rus7ak set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 18:43:30]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:43:31]
+  Fiona Feinman: Надо найти водолазный скафандр!
+[11/06/2022 18:43:31]
+  Jeanene Holter: Задыхаюсь.
+[11/06/2022 18:43:37]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:43:38]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:43:47]
+  Darius Radice: Надо найти водолазный скафандр!
+[11/06/2022 18:43:47]
+  Todd Parchman: Надо найти водолазный скафандр!
+[11/06/2022 18:43:49]
+  Fiona Feinman: Я теряю сознание!
+[11/06/2022 18:43:50]
+  Elliana Bergman closed Настраиваемая дверь
+[11/06/2022 18:43:50]
+  Elliana Bergman opened Настраиваемая дверь
+[11/06/2022 18:43:52]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 839)
+[11/06/2022 18:43:53]
+  Elliana Bergman closed Настраиваемая дверь
+[11/06/2022 18:43:53]
+  Elliana Bergman opened Настраиваемая дверь
+[11/06/2022 18:44:01]
+  kynlan4ic dropped Водолазный скафандр
+[11/06/2022 18:44:05]
+  Darius Radice equipped Водолазный скафандр
+[11/06/2022 18:44:10]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:44:13]
+  kynlan4ic equipped Водолазный скафандр
+[11/06/2022 18:44:15]
+  Freeman Fleig: Надо найти водолазный скафандр!
+[11/06/2022 18:44:15]
+  Harlan Aguilar: Мне нужно подводное снаряжение!
+[11/06/2022 18:44:19]
+  Elliana Bergman: Надо найти водолазный скафандр!
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:21]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:44:26]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:44:28]
+  rus7ak picked up Подводная маска
+[11/06/2022 18:44:32]
+  Elliana Bergman: Fiona Feinman получает первую помощь здесь: верхняя средняя часть!
+[11/06/2022 18:44:34]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:44:38]
+  igameCrog adjusted reactor settings: Temperature: 4995, Fission rate: 31, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:39]
+  igameCrog adjusted reactor settings: Temperature: 5011, Fission rate: 31, Turbine output: 2, Autotemp OFF
+[11/06/2022 18:44:39]
+  kynlan4ic started sabotaging Генератор кислорода
+[11/06/2022 18:44:40]
+  igameCrog adjusted reactor settings: Temperature: 4438, Fission rate: 31, Turbine output: 23, Autotemp OFF
+[11/06/2022 18:44:41]
+  igameCrog adjusted reactor settings: Temperature: 3517, Fission rate: 31, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:42]
+  igameCrog adjusted reactor settings: Temperature: 4476, Fission rate: 31, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:43]
+  igameCrog adjusted reactor settings: Temperature: 4821, Fission rate: 31, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:44]
+  igameCrog adjusted reactor settings: Temperature: 5120, Fission rate: 65, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:45]
+  igameCrog adjusted reactor settings: Temperature: 6120, Fission rate: 66, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:46]
+  igameCrog adjusted reactor settings: Temperature: 7119, Fission rate: 50, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:47]
+  igameCrog adjusted reactor settings: Temperature: 7895, Fission rate: 38, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:48]
+  igameCrog adjusted reactor settings: Temperature: 7128, Fission rate: 42, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:48]
+  Rupert Moses has died (Cause of death: Нехватка кислорода)
+[11/06/2022 18:44:48]
+  Jeanene Holter has died (Cause of death: Нехватка кислорода)
+[11/06/2022 18:44:53]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:44:55]
+  igameCrog adjusted reactor settings: Temperature: 6776, Fission rate: 52, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:56]
+  igameCrog adjusted reactor settings: Temperature: 6893, Fission rate: 38, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:44:57]
+  igameCrog adjusted reactor settings: Temperature: 6900, Fission rate: 46, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:45:01]
+  igameCrog equipped Огнетушитель
+[11/06/2022 18:45:01]
+  igameCrog picked up Огнетушитель
+[11/06/2022 18:45:02]
+  Gerard Suarez: Мне нужен кислородный баллон!
+[11/06/2022 18:45:07]
+  Elliana Bergman: Надо найти огнетушитель!
+[11/06/2022 18:45:11]
+  kynlan4ic picked up Подводная маска
+[11/06/2022 18:45:12]
+  Gerard Suarez: Надо найти водолазный скафандр!
+[11/06/2022 18:45:13]
+  Fiona Feinman has died (Cause of death: Нехватка кислорода)
+[11/06/2022 18:45:14]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:45:16]
+  igameCrog adjusted reactor settings: Temperature: 7403, Fission rate: 44, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:45:17]
+  igameCrog adjusted reactor settings: Temperature: 6931, Fission rate: 39, Turbine output: 0, Autotemp OFF
+[11/06/2022 18:45:18]
+  igameCrog adjusted reactor settings: Temperature: 6456, Fission rate: 37, Turbine output: 0, Autotemp ON
+[11/06/2022 18:45:20]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 104)
+[11/06/2022 18:45:20]
+  kynlan4ic activated Деконструктор
+[11/06/2022 18:45:31]
+  Gerard Suarez: Нечем дышать!
+[11/06/2022 18:45:33]
+  igameCrog placed Огнетушитель in Стойка огнетушителя (ID: 735)
+[11/06/2022 18:45:39]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:45:39]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:46:00]
+  Adan Beltran equipped Кислородный баллон
+[11/06/2022 18:46:03]
+  rus7ak docked Venture to Remora
+[11/06/2022 18:46:09]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:46:12]
+  Todd Parchman started repairing Навигационный терминал
+[11/06/2022 18:46:36]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:46:43]
+  Darius Radice equipped Резина
+[11/06/2022 18:46:47]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:46:49]
+  Darius Radice equipped Резина
+[11/06/2022 18:46:49]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:46:49]
+  The respawn shuttle is leaving.
+[11/06/2022 18:46:50]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:46:51]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 847)
+[11/06/2022 18:46:51]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 847)
+[11/06/2022 18:46:52]
+  Gerard Suarez has died (Cause of death: Нехватка кислорода)
+[11/06/2022 18:46:54]
+  Darius Radice equipped Резина
+[11/06/2022 18:47:00]
+  Darius Radice equipped Кислородный баллон
+[11/06/2022 18:47:05]
+  igameCrog equipped Гаечный ключ
+[11/06/2022 18:47:10]
+  Elliana Bergman equipped Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:15]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3448)
+[11/06/2022 18:47:15]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:15]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:15]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:15]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:15]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:15]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:17]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:47:17]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:47:18]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 18:47:18]
+  igameCrog dropped Кислородный баллон
+[11/06/2022 18:47:18]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 3135)
+[11/06/2022 18:47:20]
+  Darius Radice equipped Кислородный баллон
+[11/06/2022 18:47:20]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:47:21]
+  The respawn shuttle has left.
+[11/06/2022 18:47:25]
+  igameCrog picked up Подводная маска
+[11/06/2022 18:47:27]
+  Adan Beltran: Меняем кислородные баллоны!
+[11/06/2022 18:47:28]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:47:30]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:47:31]
+  Harlan Aguilar equipped Кислородный баллон
+[11/06/2022 18:47:31]
+  Darius Radice equipped Кислородный баллон
+[11/06/2022 18:47:32]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:47:32]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:47:32]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:47:32]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3402)
+[11/06/2022 18:47:34]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:47:34]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:47:34]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:47:34]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:47:35]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 504)
+[11/06/2022 18:47:36]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:47:38]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:47:38]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:47:40]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:47:40]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:47:41]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:47:41]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:47:41]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:47:43]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:44]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:44]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:46]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:47]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:47]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:49]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:49]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:49]
+  Darius Radice: Мне нужен кислородный баллон!
+[11/06/2022 18:47:49]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:49]
+  Darius Radice: Мне довелось на днях увидеть ползуна. Жуткие твари.
+[11/06/2022 18:47:51]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:47:54]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:47:54]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:47:57]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:47:57]
+  Darius Radice equipped Кислородный баллон
+[11/06/2022 18:48:02]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:48:02]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:06]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:07]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:07]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:13]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:48:16]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:48:18]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:48:18]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:48:22]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:48:22]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:48:22]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:48:24]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:48:24]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:48:27]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:48:32]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:48:32]
+  Elliana Bergman equipped Водолазный скафандр
+[11/06/2022 18:48:32]
+  Elliana Bergman: Мне нужен кислородный баллон!
+[11/06/2022 18:48:33]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:33]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:34]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:48:36]
+  Elliana Bergman: Мне нужно подводное снаряжение!
+[11/06/2022 18:48:39]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:48:39]
+  igameCrog: Хозяйственный блок: поврежденные устройства!
+[11/06/2022 18:48:41]
+  Elliana Bergman equipped Кислородный баллон
+[11/06/2022 18:48:43]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:48:43]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:43]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3153)
+[11/06/2022 18:48:44]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:44]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:45]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:48:45]
+  igameCrog: Хозяйственный блок: кто-нибудь, срочно займитесь ремонтом техники!
+[11/06/2022 18:48:46]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:48:47]
+  Todd Parchman: Мне нужен кислородный баллон!
+[11/06/2022 18:48:49]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:48:49]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:48:51]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:48:55]
+  Todd Parchman equipped Кислородный баллон
+[11/06/2022 18:48:59]
+  igameCrog: Верхняя средняя часть: кто-нибудь, срочно займитесь ремонтом техники!
+[11/06/2022 18:49:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:11]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:12]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:13]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:14]
+  Harlan Aguilar: Меняем кислородные баллоны!
+[11/06/2022 18:49:14]
+  kynlan4ic equipped Кислородный баллон
+[11/06/2022 18:49:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:15]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:16]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:17]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:49:17]
+  Darius Radice equipped Кислородный баллон
+[11/06/2022 18:49:18]
+  Freeman Fleig: Где кислородные баллоны?
+[11/06/2022 18:49:19]
+  Freeman Fleig unequipped Кислородный баллон
+[11/06/2022 18:49:22]
+  Darius Radice equipped Кислородный баллон
+[11/06/2022 18:49:43]
+  kynlan4ic: Adan Beltran, начинай устранять протечки!
+[11/06/2022 18:49:44]
+  Adan Beltran: Вас понял!
+[11/06/2022 18:49:45]
+  kynlan4ic: Harlan Aguilar, начинай устранять протечки!
+[11/06/2022 18:49:46]
+  Harlan Aguilar: Так точно!
+[11/06/2022 18:49:47]
+  igameCrog picked up Этанол
+[11/06/2022 18:49:47]
+  igameCrog picked up Этанол
+[11/06/2022 18:49:49]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:49:49]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:49:53]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:49:58]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:49:59]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:49:59]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:49:59]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:49:59]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:49:59]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:49:59]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:50:00]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:50:02]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:50:04]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:50:05]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:50:05]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:50:06]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:50:06]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:50:07]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:50:07]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:50:13]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 18:50:13]
+  Outer wall breached by igameCrog
+[11/06/2022 18:50:30]
+  igameCrog unequipped Отвертка
+[11/06/2022 18:50:34]
+  igameCrog dropped Отвертка
+[11/06/2022 18:50:41]
+  Adan Beltran: Мне нужен кислородный баллон!
+[11/06/2022 18:50:41]
+  Adan Beltran unequipped Кислородный баллон
+[11/06/2022 18:50:45]
+  Adan Beltran equipped Кислородный баллон
+[11/06/2022 18:50:47]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:50:47]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 18:50:47]
+  rus7ak placed Кислородный баллон in Подводная маска (ID: 3534)
+[11/06/2022 18:51:05]
+  igameCrog failed to repair Генератор кислорода
+[11/06/2022 18:51:05]
+  igameCrog started repairing Генератор кислорода
+[11/06/2022 18:51:20]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:51:22]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 18:51:22]
+  igameCrog started repairing Генератор кислорода
+[11/06/2022 18:51:23]
+  kynlan4ic unequipped Кислородный баллон
+[11/06/2022 18:51:24]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:51:24]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:51:25]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:51:28]
+  Darius Radice equipped Водолазный скафандр
+[11/06/2022 18:51:28]
+  Harlan Aguilar equipped Водолазный скафандр
+[11/06/2022 18:51:32]
+  Adan Beltran equipped Водолазный скафандр
+[11/06/2022 18:51:32]
+  Darius Radice equipped Водолазный скафандр
+[11/06/2022 18:51:33]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:51:34]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:51:34]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 18:51:35]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:51:36]
+  Darius Radice equipped Водолазный скафандр
+[11/06/2022 18:51:37]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 18:51:38]
+  igameCrog removed Кислородный баллон from Подводная маска (ID: 3135)
+[11/06/2022 18:51:40]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 18:51:40]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 18:51:42]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 18:51:42]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 3135)
+[11/06/2022 18:51:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:51:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:51:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:51:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 18:52:05]
+  igameCrog used item Морфин
+[11/06/2022 18:52:07]
+  igameCrog dropped Удостоверение личности
+[11/06/2022 18:52:09]
+  igameCrog picked up Удостоверение личности
+[11/06/2022 18:52:22]
+  igameCrog used item Этанол
+[11/06/2022 18:52:32]
+  igameCrog used item Этанол
+[11/06/2022 18:53:37]
+  kynlan4ic used item Яйца велонацепса каликса
+[11/06/2022 18:53:50]
+  kynlan4ic: мкм
+[11/06/2022 18:54:10]
+  rus7ak equipped Кислородный баллон
+[11/06/2022 18:54:29]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 1)
+[11/06/2022 18:54:35]
+  rus7ak placed Кислородный баллон in Подводная маска (ID: 3534)
+[11/06/2022 18:54:35]
+  rus7ak removed Кислородный баллон from Подводная маска (ID: 3534)
+[11/06/2022 18:54:35]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:42]
+  igameCrog picked up Морфин
+[11/06/2022 18:54:46]
+  igameCrog used item Морфин
+[11/06/2022 18:54:59]
+  igameCrog used item Морфин
+[11/06/2022 18:55:00]
+  igameCrog used item Морфин
+[11/06/2022 18:55:00]
+  igameCrog used item Морфин
+[11/06/2022 18:55:00]
+  igameCrog used item Морфин
+[11/06/2022 18:55:18]
+  Todd Parchman equipped Отвертка
+[11/06/2022 18:55:19]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 18:55:27]
+  rus7ak equipped Вещмешок
+[11/06/2022 18:55:30]
+  kynlan4ic equipped Отвертка
+[11/06/2022 18:55:33]
+  Todd Parchman unequipped Отвертка
+[11/06/2022 18:55:33]
+  kynlan4ic disconnected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/06/2022 18:55:50]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:56:50]
+  igameCrog used item Морфин
+[11/06/2022 18:56:50]
+  igameCrog used item Морфин
+[11/06/2022 18:56:50]
+  igameCrog used item Каликсанид
+[11/06/2022 18:57:09]
+  rus7ak picked up Топливный стержень
+[11/06/2022 18:57:30]
+  rus7ak picked up Пояс инструментов
+[11/06/2022 18:57:34]
+  kynlan4ic dropped Водолазный скафандр
+[11/06/2022 18:57:37]
+  rus7ak dropped Вещмешок
+[11/06/2022 18:57:41]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 18:57:43]
+  Freeman Fleig: Надо найти водолазный скафандр!
+[11/06/2022 18:57:44]
+  Adan Beltran: Надо найти водолазный скафандр!
+[11/06/2022 18:57:44]
+  Harlan Aguilar: Мне нужно подводное снаряжение!
+[11/06/2022 18:57:52]
+  igameCrog picked up Топливный стержень
+[11/06/2022 18:57:55]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/06/2022 18:58:27]
+  rus7ak picked up Водолазный скафандр
+[11/06/2022 18:58:42]
+  igameCrog failed to repair Кабельная коробка
+[11/06/2022 18:58:52]
+  rus7ak closed Настраиваемая дверь
+[11/06/2022 18:58:52]
+  rus7ak opened Настраиваемая дверь
+[11/06/2022 18:58:54]
+  igameCrog failed to repair Кабельная коробка
+[11/06/2022 18:58:59]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:59:10]
+  Adan Beltran equipped Водолазный скафандр
+[11/06/2022 18:59:10]
+  igameCrog started repairing Кабельная коробка
+[11/06/2022 18:59:11]
+  Freeman Fleig equipped Водолазный скафандр
+[11/06/2022 18:59:15]
+  Freeman Fleig equipped Водолазный скафандр
+[11/06/2022 18:59:15]
+  rus7ak opened Настраиваемый люк
+[11/06/2022 18:59:25]
+  rus7ak closed Настраиваемый люк
+[11/06/2022 18:59:31]
+  rus7ak equipped Нож ныряльщика
+[11/06/2022 18:59:42]
+  igameCrog picked up Водолазный скафандр
+[11/06/2022 18:59:42]
+  Freeman Fleig: Надо найти водолазный скафандр!
+[11/06/2022 18:59:42]
+  Adan Beltran: Мне нужно подводное снаряжение!
+[11/06/2022 18:59:43]
+  Harlan Aguilar: Надо найти водолазный скафандр!
+[11/06/2022 18:59:46]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:59:46]
+  igameCrog placed Морфин in Форма врача (ID: 3411)
+[11/06/2022 18:59:52]
+  Harlan Aguilar equipped Водолазный скафандр
+[11/06/2022 18:59:57]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:00:01]
+  Adan Beltran: Можно я сложу все свои проблемы в приманку?
+[11/06/2022 19:00:04]
+  Freeman Fleig equipped Водолазный скафандр
+[11/06/2022 19:00:09]
+  rus7ak opened Настраиваемый люк
+[11/06/2022 19:00:11]
+  Harlan Aguilar equipped Водолазный скафандр
+[11/06/2022 19:00:14]
+  rus7ak closed Настраиваемый люк
+[11/06/2022 19:00:20]
+  rus7ak closed Настраиваемая дверь
+[11/06/2022 19:00:20]
+  rus7ak opened Настраиваемая дверь
+[11/06/2022 19:00:25]
+  igameCrog equipped Водолазный скафандр
+[11/06/2022 19:00:26]
+  Todd Parchman: Мне нужно подводное снаряжение!
+[11/06/2022 19:00:26]
+  Adan Beltran: Мне нужно подводное снаряжение!
+[11/06/2022 19:00:38]
+  Adan Beltran equipped Водолазный скафандр
+[11/06/2022 19:00:39]
+  Todd Parchman equipped Отвертка
+[11/06/2022 19:00:40]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3448)
+[11/06/2022 19:00:49]
+  Elliana Bergman: Надо найти водолазный скафандр!
+[11/06/2022 19:00:52]
+  Freeman Fleig: Мне нужно подводное снаряжение!
+[11/06/2022 19:00:53]
+  Harlan Aguilar: Надо найти водолазный скафандр!
+[11/06/2022 19:01:07]
+  rus7ak dropped Водолазный скафандр
+[11/06/2022 19:01:09]
+  Darius Radice: Мне нужно подводное снаряжение!
+[11/06/2022 19:01:21]
+  Todd Parchman started repairing Монитор состояния
+[11/06/2022 19:01:30]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 19:01:30]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 19:01:30]
+  rus7ak placed Кислородный баллон in Подводная маска (ID: 3534)
+[11/06/2022 19:01:58]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:01:58]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:02:00]
+  Todd Parchman started repairing Ядерный реактор
+[11/06/2022 19:02:10]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:02:10]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:02:11]
+  igameCrog opened Настраиваемый люк
+[11/06/2022 19:02:16]
+  igameCrog closed Настраиваемый люк
+[11/06/2022 19:02:26]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 19:02:26]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 19:02:26]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 19:02:26]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 19:02:26]
+  rus7ak dropped Кислородный баллон
+[11/06/2022 19:02:27]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:02:28]
+  igameCrog closed Настраиваемая дверь
+[11/06/2022 19:02:33]
+  igameCrog opened Настраиваемая дверь
+[11/06/2022 19:02:37]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 19:02:38]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:02:38]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:02:41]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:02:46]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:02:55]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:02:55]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:02:55]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:02:57]
+  Elliana Bergman: Мне нужно подводное снаряжение!
+[11/06/2022 19:03:00]
+  igameCrog failed to repair Батарея
+[11/06/2022 19:03:01]
+  igameCrog started repairing Батарея
+[11/06/2022 19:03:02]
+  Darius Radice: Мне нужно подводное снаряжение!
+[11/06/2022 19:03:05]
+  rus7ak picked up Сварочный аппарат
+[11/06/2022 19:03:09]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:03:11]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:03:13]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:03:14]
+  igameCrog started repairing Батарея
+[11/06/2022 19:03:15]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:03:16]
+  Todd Parchman started repairing Кабельная коробка
+[11/06/2022 19:03:17]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:03:32]
+  igameCrog started repairing Батарея
+[11/06/2022 19:03:36]
+  igameCrog started repairing Батарея
+[11/06/2022 19:03:47]
+  Elliana Bergman: Мне нужно подводное снаряжение!
+[11/06/2022 19:03:53]
+  igameCrog started repairing Батарея
+[11/06/2022 19:03:55]
+  igameCrog started repairing Батарея
+[11/06/2022 19:04:11]
+  Elliana Bergman: Нечем дышать!
+[11/06/2022 19:04:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:04:14]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:04:14]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3153)
+[11/06/2022 19:04:16]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:04:27]
+  igameCrog turned off Малый насос
+[11/06/2022 19:04:28]
+  igameCrog turned on Малый насос
+[11/06/2022 19:04:29]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[11/06/2022 19:04:29]
+  igameCrog set the pumping speed of Малый насос to -80 %

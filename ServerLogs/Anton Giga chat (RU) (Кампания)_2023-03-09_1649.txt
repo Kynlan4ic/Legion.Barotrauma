@@ -1,0 +1,1600 @@
+﻿[03/09/2023 16:32:47]
+  Drago equipped Металлический ящик
+[03/09/2023 16:32:47]
+  Drago picked up Металлический ящик
+[03/09/2023 16:32:59]
+  Leucocyte has died (Cause of death: Внутренняя травма)
+[03/09/2023 16:32:59]
+  kynlan4ic placed Наушники in Деконструктор (ID: 627)
+[03/09/2023 16:33:01]
+  Leucocyte has died (Cause of death: Внутренняя травма)
+[03/09/2023 16:33:01]
+  kynlan4ic placed Костюм котельника in Деконструктор (ID: 627)
+[03/09/2023 16:33:02]
+  kynlan4ic placed Бейсболка in Деконструктор (ID: 627)
+[03/09/2023 16:33:02]
+  kynlan4ic activated Деконструктор
+[03/09/2023 16:33:04]
+  kynlan4ic deactivated Деконструктор
+[03/09/2023 16:33:05]
+  kynlan4ic placed Гаечный ключ in Деконструктор (ID: 627)
+[03/09/2023 16:33:06]
+  kynlan4ic activated Деконструктор
+[03/09/2023 16:33:07]
+  Drago picked up Водолазный скафандр
+[03/09/2023 16:33:07]
+  Drago dropped Водолазный скафандр
+[03/09/2023 16:33:08]
+  Leucocyte has died (Cause of death: Ожог)
+[03/09/2023 16:33:08]
+  Drago picked up Водолазный скафандр
+[03/09/2023 16:33:08]
+  Drago dropped Водолазный скафандр
+[03/09/2023 16:33:08]
+  kynlan4ic equipped Металлический ящик
+[03/09/2023 16:33:08]
+  kynlan4ic picked up Металлический ящик
+[03/09/2023 16:33:10]
+  kynlan4ic picked up Железо
+[03/09/2023 16:33:10]
+  kynlan4ic picked up Железо
+[03/09/2023 16:33:12]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 627)
+[03/09/2023 16:33:14]
+  kynlan4ic placed Железо in Фабрикатор (ID: 628)
+[03/09/2023 16:33:14]
+  kynlan4ic placed Железо in Фабрикатор (ID: 628)
+[03/09/2023 16:33:17]
+  Drago dropped Металлический ящик
+[03/09/2023 16:33:17]
+  Leucocyte has died (Cause of death: Ожог)
+[03/09/2023 16:33:18]
+  Leucocyte has died (Cause of death: Ожог)
+[03/09/2023 16:33:21]
+  Faxemelian placed Кислородный баллон in Пояс инструментов (ID: 5273)
+[03/09/2023 16:33:21]
+  Faxemelian removed Кислородный баллон from Пояс инструментов (ID: 5273)
+[03/09/2023 16:33:21]
+  Faxemelian placed Кислородный баллон in Водолазный скафандр (ID: 63)
+[03/09/2023 16:33:27]
+  Leucocyte has died (Cause of death: Внутренняя травма)
+[03/09/2023 16:33:33]
+  Faxemelian used item Анапарализатор
+[03/09/2023 16:33:35]
+  Faxemelian used item Морфин
+[03/09/2023 16:33:37]
+  Drago placed Анапарализатор in Металлический ящик (ID: 536)
+[03/09/2023 16:33:38]
+  Leucocyte has died (Cause of death: Внутренняя травма)
+[03/09/2023 16:33:38]
+  Drago placed Морфин in Металлический ящик (ID: 536)
+[03/09/2023 16:33:38]
+  Drago placed Морфин in Металлический ящик (ID: 536)
+[03/09/2023 16:33:41]
+  Drago placed Метамфетамин in Металлический ящик (ID: 536)
+[03/09/2023 16:33:41]
+  Drago placed Антидот бредогена in Металлический ящик (ID: 536)
+[03/09/2023 16:33:43]
+  Drago placed Эластин in Металлический ящик (ID: 536)
+[03/09/2023 16:33:44]
+  Drago placed Бинт in Металлический ящик (ID: 536)
+[03/09/2023 16:33:44]
+  Drago placed Бинт in Металлический ящик (ID: 536)
+[03/09/2023 16:33:44]
+  Drago placed Фентанил in Металлический ящик (ID: 536)
+[03/09/2023 16:33:44]
+  Drago placed Фентанил in Металлический ящик (ID: 536)
+[03/09/2023 16:33:45]
+  Drago placed Антирад in Металлический ящик (ID: 536)
+[03/09/2023 16:33:51]
+  Drago placed Бинт in Металлический ящик (ID: 536)
+[03/09/2023 16:33:51]
+  Drago placed Бинт in Металлический ящик (ID: 536)
+[03/09/2023 16:33:51]
+  Drago placed Фентанил in Металлический ящик (ID: 536)
+[03/09/2023 16:33:52]
+  Drago placed Морфин in Металлический ящик (ID: 536)
+[03/09/2023 16:33:52]
+  Drago placed Анапарализатор in Металлический ящик (ID: 536)
+[03/09/2023 16:33:52]
+  Drago placed Анапарализатор in Металлический ящик (ID: 536)
+[03/09/2023 16:33:53]
+  Drago placed Антибиотики широкого спектра in Металлический ящик (ID: 536)
+[03/09/2023 16:33:53]
+  Waltuh placed Лом in Хозяйственный шкаф (ID: 1109)
+[03/09/2023 16:33:56]
+  Drago placed Подводная маска in Металлический ящик (ID: 536)
+[03/09/2023 16:33:58]
+  Drago placed Экстракт каликса in Металлический ящик (ID: 536)
+[03/09/2023 16:33:59]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:33:59]
+  Dispatching the respawn shuttle.
+[03/09/2023 16:33:59]
+  Respawning Evochka1488 (STEAM_1:0:448434472) as Инженер
+[03/09/2023 16:34:00]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:34:01]
+  Evochka1488 set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:34:05]
+  Drago dropped Металлический ящик
+[03/09/2023 16:34:19]
+  kynlan4ic equipped Металлический ящик
+[03/09/2023 16:34:20]
+  Drago picked up Кислородный баллон
+[03/09/2023 16:34:20]
+  Drago dropped Кислородный баллон
+[03/09/2023 16:34:20]
+  Drago placed Кислородный баллон in Плазменный резак (ID: 26)
+[03/09/2023 16:34:21]
+  Faxemelian equipped Отвертка
+[03/09/2023 16:34:22]
+  Waltuh placed Кислородный баллон in Плазменный резак (ID: 5258)
+[03/09/2023 16:34:22]
+  Waltuh removed Кислородный баллон from Плазменный резак (ID: 5258)
+[03/09/2023 16:34:22]
+  Waltuh placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 16:34:23]
+  Faxemelian used Гаечный ключ on Орган выработки клеток.
+[03/09/2023 16:34:23]
+  Faxemelian used Отвертка on Орган выработки клеток.
+[03/09/2023 16:34:24]
+  Faxemelian used Гаечный ключ on Орган выработки клеток.
+[03/09/2023 16:34:24]
+  Faxemelian used Отвертка on Орган выработки клеток.
+[03/09/2023 16:34:25]
+  Drago grabbed Ben Suarez's body and received 18 mk.
+[03/09/2023 16:34:25]
+  Faxemelian used Гаечный ключ on Орган выработки клеток.
+[03/09/2023 16:34:32]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 638)
+[03/09/2023 16:34:32]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 638)
+[03/09/2023 16:34:33]
+  kynlan4ic placed Железо in Большой стальной шкаф (ID: 638)
+[03/09/2023 16:34:36]
+  kynlan4ic placed Хлам in Деконструктор (ID: 627)
+[03/09/2023 16:34:36]
+  kynlan4ic placed Хлам in Деконструктор (ID: 627)
+[03/09/2023 16:34:36]
+  kynlan4ic placed Хлам in Деконструктор (ID: 627)
+[03/09/2023 16:34:40]
+  kynlan4ic placed Отвертка in Деконструктор (ID: 627)
+[03/09/2023 16:34:41]
+  kynlan4ic placed Гаечный ключ in Деконструктор (ID: 627)
+[03/09/2023 16:34:41]
+  Drago placed Подводный скутер in Металлический ящик (ID: 536)
+[03/09/2023 16:34:45]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 16:34:47]
+  Waltuh adjusted reactor settings: Temperature: 4993, Fission rate: 25, Turbine output: 32, Autotemp ON
+[03/09/2023 16:34:48]
+  Evochka1488 docked Челнок R-170 to Camel
+[03/09/2023 16:34:51]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 16:34:55]
+  The respawn shuttle is leaving.
+[03/09/2023 16:34:57]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:34:57]
+  kynlan4ic placed Адреналиновая железа in Аптечка (ID: 647)
+[03/09/2023 16:34:58]
+  kynlan4ic placed Инопланетная кровь in Аптечка (ID: 647)
+[03/09/2023 16:35:01]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:35:02]
+  Faxemelian placed Кислородный баллон in Пояс инструментов (ID: 5273)
+[03/09/2023 16:35:03]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:35:03]
+  Drago dropped Металлический ящик
+[03/09/2023 16:35:04]
+  Drago picked up Удостоверение с места кораблекрушения
+[03/09/2023 16:35:05]
+  Faxemelian placed Кислородный баллон in Плазменный резак (ID: 5278)
+[03/09/2023 16:35:07]
+  kynlan4ic placed Кислородный баллон in Хозяйственный шкаф (ID: 582)
+[03/09/2023 16:35:07]
+  kynlan4ic placed Кислородный баллон in Хозяйственный шкаф (ID: 582)
+[03/09/2023 16:35:07]
+  kynlan4ic placed Кислородный баллон in Хозяйственный шкаф (ID: 582)
+[03/09/2023 16:35:08]
+  Drago placed Магазин для ПП in Пояс инструментов (ID: 468)
+[03/09/2023 16:35:08]
+  Drago placed Магазин для ПП in Пояс инструментов (ID: 468)
+[03/09/2023 16:35:09]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 16:35:09]
+  Faxemelian dropped Кислородный баллон
+[03/09/2023 16:35:09]
+  Faxemelian placed Кислородный баллон in Плазменный резак (ID: 5278)
+[03/09/2023 16:35:10]
+  Drago placed Пистолет-пулемет in Пояс инструментов (ID: 468)
+[03/09/2023 16:35:11]
+  Faxemelian placed Кислородный баллон in Пояс инструментов (ID: 5273)
+[03/09/2023 16:35:14]
+  Evochka1488: Зиг хайль
+[03/09/2023 16:35:15]
+  kynlan4ic placed Ториевый топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 16:35:15]
+  kynlan4ic placed Ториевый топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 16:35:16]
+  Drago placed Одежда помощника in Защищенный стальной шкаф (обломки) (ID: 3745)
+[03/09/2023 16:35:16]
+  Drago removed Патрон для дробовика from Защищенный стальной шкаф (обломки) (ID: 3745)
+[03/09/2023 16:35:16]
+  Drago removed Патрон для дробовика from Защищенный стальной шкаф (обломки) (ID: 3745)
+[03/09/2023 16:35:16]
+  Drago picked up Патрон для дробовика
+[03/09/2023 16:35:16]
+  Drago picked up Патрон для дробовика
+[03/09/2023 16:35:17]
+  Waltuh started repairing Батарея
+[03/09/2023 16:35:20]
+  Drago placed Патрон для дробовика in Металлический ящик (ID: 536)
+[03/09/2023 16:35:20]
+  Drago placed Патрон для дробовика in Металлический ящик (ID: 536)
+[03/09/2023 16:35:21]
+  kynlan4ic dropped Металлический ящик
+[03/09/2023 16:35:22]
+  Waltuh started repairing Батарея
+[03/09/2023 16:35:24]
+  Evochka1488 picked up Топливный стержень
+[03/09/2023 16:35:25]
+  Drago placed Кислородный баллон in Металлический ящик (ID: 536)
+[03/09/2023 16:35:26]
+  Evochka1488 picked up Топливный стержень
+[03/09/2023 16:35:26]
+  Evochka1488 picked up Топливный стержень
+[03/09/2023 16:35:26]
+  Evochka1488 picked up Топливный стержень
+[03/09/2023 16:35:26]
+  Evochka1488 picked up Топливный стержень
+[03/09/2023 16:35:26]
+  Evochka1488 picked up Топливный стержень
+[03/09/2023 16:35:27]
+  The respawn shuttle has left.
+[03/09/2023 16:35:31]
+  Drago picked up Дробовик
+[03/09/2023 16:35:36]
+  kynlan4ic dropped Металлический ящик
+[03/09/2023 16:35:36]
+  Faxemelian used item Анапарализатор
+[03/09/2023 16:35:51]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:35:53]
+  Drago placed Титан in Металлический ящик (ID: 536)
+[03/09/2023 16:35:56]
+  Outer wall breached by Tigerthresher
+[03/09/2023 16:35:56]
+  kynlan4ic picked up Водолазный скафандр
+[03/09/2023 16:35:56]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:35:58]
+  Evochka1488 picked up Водолазный скафандр
+[03/09/2023 16:35:59]
+  Игрок StreaK присоединился к серверу.
+[03/09/2023 16:35:59]
+  Saving client permissions
+[03/09/2023 16:36:00]
+  Faxemelian picked up Анапарализатор
+[03/09/2023 16:36:01]
+  Drago dropped Металлический ящик
+[03/09/2023 16:36:02]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:02]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:03]
+  Evochka1488 dropped Водолазный скафандр
+[03/09/2023 16:36:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:03]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 18.0 Кровотечение: 2.0
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 18.0 Кровотечение: 2.0
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:36:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:05]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:36:05]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:36:05]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:36:08]
+  Faxemelian grabbed Delbert Ellison's body and received 81 mk.
+[03/09/2023 16:36:10]
+  Evochka1488 picked up Боевой водолазный скафандр
+[03/09/2023 16:36:11]
+  Waltuh picked up Водолазный скафандр
+[03/09/2023 16:36:12]
+  Faxemelian picked up Удостоверение с места кораблекрушения
+[03/09/2023 16:36:16]
+  Outer wall breached by Tigerthresher
+[03/09/2023 16:36:17]
+  Inner wall breached by Tigerthresher
+[03/09/2023 16:36:18]
+  Leucocyte attacked by Drago. Рваная рана: 10.0 Кровотечение: 10.0
+[03/09/2023 16:36:18]
+  Drago used Нож ныряльщика on Leucocyte.
+[03/09/2023 16:36:18]
+  Drago used Нож ныряльщика on Обшивка A 0 градусов (обломки).
+[03/09/2023 16:36:18]
+  Leucocyte has died (Cause of death: Внутренняя травма)
+[03/09/2023 16:36:18]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:22]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:27]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:28]
+  Outer wall repaired by Waltuh
+[03/09/2023 16:36:30]
+  Faxemelian placed Информационный экран сканера здоровья in Пояс инструментов (ID: 5273)
+[03/09/2023 16:36:32]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:32]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:32]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:32]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:34]
+  Evochka1488 picked up Лом
+[03/09/2023 16:36:35]
+  Evochka1488 picked up Аккордеон
+[03/09/2023 16:36:36]
+  Evochka1488 equipped Топливный стержень
+[03/09/2023 16:36:36]
+  Waltuh equipped Плазменный резак
+[03/09/2023 16:36:37]
+  kynlan4ic has died (Cause of death: Укусы)
+[03/09/2023 16:36:37]
+  Evochka1488 equipped Лом
+[03/09/2023 16:36:37]
+  Outer wall breached by Tigerthresher
+[03/09/2023 16:36:38]
+  Evochka1488 equipped Аккордеон
+[03/09/2023 16:36:42]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:43]
+  Waltuh equipped Подводный скутер
+[03/09/2023 16:36:44]
+  Inner wall breached by Tigerthresher
+[03/09/2023 16:36:46]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:36:47]
+  Inner wall breached by Tigerthresher
+[03/09/2023 16:36:56]
+  Outer wall breached by Tigerthresher
+[03/09/2023 16:36:57]
+  Drago dropped Дробовик
+[03/09/2023 16:36:58]
+  Waltuh has died (Cause of death: Укусы)
+[03/09/2023 16:36:59]
+  Faxemelian dropped Плазменный резак
+[03/09/2023 16:37:00]
+  Drago dropped Металлический ящик
+[03/09/2023 16:37:01]
+  Drago picked up Пистолет-пулемет
+[03/09/2023 16:37:03]
+  Faxemelian equipped Дробовик
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:04]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:05]
+  Drago equipped Пистолет-пулемет
+[03/09/2023 16:37:06]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:07]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:37:07]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:37:08]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:08]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:09]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:09]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:09]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:09]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/09/2023 16:37:09]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:14]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:14]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:16]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:16]
+  Tigerthresher attacked by Faxemelian. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[03/09/2023 16:37:16]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:16]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:16]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:37:20]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:20]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/09/2023 16:37:20]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:20]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:21]
+  Faxemelian dropped Дробовик
+[03/09/2023 16:37:21]
+  kynlan4ic: ХХХ
+[03/09/2023 16:37:22]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:23]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:24]
+  Tigerthresher attacked by Faxemelian. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:24]
+  Faxemelian used Гаечный ключ on Tigerthresher.
+[03/09/2023 16:37:24]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:24]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:25]
+  Tigerthresher attacked by Faxemelian. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:25]
+  Faxemelian used Гаечный ключ on Tigerthresher.
+[03/09/2023 16:37:25]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:25]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:26]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:27]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:27]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:27]
+  Tigerthresher attacked by Drago. Огнестрельная рана: 17.9 Кровотечение: 17.9
+[03/09/2023 16:37:30]
+  kynlan4ic: Меня только щас за всё время убили
+[03/09/2023 16:37:31]
+  Tigerthresher attacked by Drago. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:31]
+  Drago used Шоковая дубинка(Аккумулятор) on Tigerthresher.
+[03/09/2023 16:37:31]
+  Drago used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:32]
+  Tigerthresher attacked by Drago. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/09/2023 16:37:32]
+  Drago used Нож ныряльщика on Tigerthresher.
+[03/09/2023 16:37:32]
+  kynlan4ic: )))
+[03/09/2023 16:37:33]
+  Drago used Шоковая дубинка(Аккумулятор) on Обшивка A 0 градусов.
+[03/09/2023 16:37:33]
+  Drago used Нож ныряльщика on Обшивка A 0 градусов.
+[03/09/2023 16:37:33]
+  Tigerthresher attacked by Drago. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/09/2023 16:37:33]
+  Drago used Нож ныряльщика on Tigerthresher.
+[03/09/2023 16:37:34]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:34]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:34]
+  Tigerthresher attacked by Faxemelian. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:34]
+  Faxemelian used Гаечный ключ on Tigerthresher.
+[03/09/2023 16:37:34]
+  Drago used Шоковая дубинка(Аккумулятор) on Обшивка A 0 градусов.
+[03/09/2023 16:37:34]
+  Tigerthresher attacked by Drago. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:34]
+  Drago used Шоковая дубинка(Аккумулятор) on Tigerthresher.
+[03/09/2023 16:37:34]
+  Drago used Нож ныряльщика on Обшивка A 0 градусов.
+[03/09/2023 16:37:34]
+  Tigerthresher attacked by Drago. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/09/2023 16:37:34]
+  Drago used Нож ныряльщика on Tigerthresher.
+[03/09/2023 16:37:35]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:35]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:35]
+  Tigerthresher attacked by Faxemelian. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:35]
+  Faxemelian used Гаечный ключ on Tigerthresher.
+[03/09/2023 16:37:36]
+  Drago used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:36]
+  Tigerthresher attacked by Drago. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:36]
+  Drago used Шоковая дубинка(Аккумулятор) on Tigerthresher.
+[03/09/2023 16:37:36]
+  Tigerthresher attacked by Drago. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/09/2023 16:37:36]
+  Drago used Нож ныряльщика on Tigerthresher.
+[03/09/2023 16:37:36]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:36]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:37]
+  Tigerthresher attacked by Faxemelian. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:37]
+  Faxemelian used Гаечный ключ on Tigerthresher.
+[03/09/2023 16:37:37]
+  Tigerthresher attacked by Drago. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:37]
+  Drago used Шоковая дубинка(Аккумулятор) on Tigerthresher.
+[03/09/2023 16:37:37]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:37]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:37]
+  Drago used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:38]
+  Tigerthresher attacked by Faxemelian. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:38]
+  Faxemelian used Гаечный ключ on Tigerthresher.
+[03/09/2023 16:37:38]
+  Drago used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:38]
+  Tigerthresher attacked by Drago. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[03/09/2023 16:37:38]
+  Drago used Шоковая дубинка(Аккумулятор) on Tigerthresher.
+[03/09/2023 16:37:39]
+  Faxemelian used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:39]
+  Evochka1488 attacked by Drago.
+[03/09/2023 16:37:39]
+  Drago used Шоковая дубинка(Аккумулятор) on Evochka1488.
+[03/09/2023 16:37:39]
+  Drago used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:40]
+  Drago used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:41]
+  Evochka1488 attacked by Drago.
+[03/09/2023 16:37:41]
+  Drago used Шоковая дубинка(Аккумулятор) on Evochka1488.
+[03/09/2023 16:37:41]
+  Drago used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:41]
+  Inner wall breached by Evochka1488
+[03/09/2023 16:37:41]
+  Evochka1488 used Лом on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:41]
+  Dispatching the respawn shuttle.
+[03/09/2023 16:37:41]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[03/09/2023 16:37:41]
+  Respawning Waltuh (STEAM_1:0:207971231) as Помощник
+[03/09/2023 16:37:41]
+  Respawning StreaK (STEAM_1:1:607263841) as Механик
+[03/09/2023 16:37:41]
+  Evochka1488 attacked by Drago.
+[03/09/2023 16:37:41]
+  Drago used Нож ныряльщика on Evochka1488.
+[03/09/2023 16:37:41]
+  Tigerthresher attacked by Faxemelian. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:37:41]
+  Faxemelian used Отвертка on Tigerthresher.
+[03/09/2023 16:37:42]
+  Drago used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:37:42]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/09/2023 16:37:43]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:37:43]
+  Waltuh set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:37:43]
+  Drago attacked by Faxemelian.
+[03/09/2023 16:37:43]
+  Faxemelian used Отвертка on Drago.
+[03/09/2023 16:37:43]
+  Waltuh equipped Отвертка
+[03/09/2023 16:37:43]
+  Waltuh equipped Гаечный ключ
+[03/09/2023 16:37:44]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:37:44]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:37:46]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 16:37:46]
+  Drago used item Физраствор
+[03/09/2023 16:37:46]
+  StreaK unequipped Подводный скутер
+[03/09/2023 16:37:47]
+  StreaK picked up Водолазный скафандр
+[03/09/2023 16:37:47]
+  StreaK dropped Подводный скутер
+[03/09/2023 16:37:49]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 16:37:49]
+  Waltuh dropped Одноразовый водолазный скафандр
+[03/09/2023 16:37:52]
+  Drago picked up Кислородный баллон
+[03/09/2023 16:37:52]
+  Drago dropped Кислородный баллон
+[03/09/2023 16:37:52]
+  Drago placed Кислородный баллон in Водолазный скафандр (ID: 23)
+[03/09/2023 16:37:52]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 16:37:52]
+  Waltuh dropped Одноразовый водолазный скафандр
+[03/09/2023 16:37:57]
+  Evochka1488 picked up Топливный бак сварочного аппарата
+[03/09/2023 16:37:57]
+  Drago used item Бинт
+[03/09/2023 16:37:58]
+  Waltuh picked up Подводный скутер
+[03/09/2023 16:37:58]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:58]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:58]
+  Waltuh picked up Кислородный баллон
+[03/09/2023 16:37:58]
+  Waltuh picked up Кислородный баллон
+[03/09/2023 16:37:58]
+  Waltuh picked up Кислородный баллон
+[03/09/2023 16:37:58]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:58]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:58]
+  Bonethresher attacked by Faxemelian. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:37:58]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Bonethresher attacked by Faxemelian. Рваная рана: 18.0 Кровотечение: 2.0
+[03/09/2023 16:37:59]
+  Waltuh picked up Подводная маска
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Bonethresher attacked by Faxemelian. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Bonethresher attacked by Faxemelian. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Bonethresher attacked by Faxemelian. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 16:37:59]
+  Waltuh picked up Плазменный резак
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Bonethresher attacked by Faxemelian. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:37:59]
+  Waltuh picked up Ручной сонар
+[03/09/2023 16:38:00]
+  Faxemelian launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 16:38:00]
+  Waltuh picked up Лом
+[03/09/2023 16:38:01]
+  Waltuh equipped Подводный скутер
+[03/09/2023 16:38:02]
+  Drago used item Бинт
+[03/09/2023 16:38:03]
+  Evochka1488 equipped Контейнер для хранения
+[03/09/2023 16:38:03]
+  Evochka1488 picked up Контейнер для хранения
+[03/09/2023 16:38:05]
+  Evochka1488 placed Контейнер для хранения in Большой стальной шкаф (ID: 638)
+[03/09/2023 16:38:06]
+  StreaK equipped Гаечный ключ
+[03/09/2023 16:38:06]
+  StreaK equipped Отвертка
+[03/09/2023 16:38:06]
+  Evochka1488 equipped Контейнер для хранения
+[03/09/2023 16:38:06]
+  Evochka1488 picked up Контейнер для хранения
+[03/09/2023 16:38:07]
+  Drago placed Магазин для ПП in Пояс инструментов (ID: 468)
+[03/09/2023 16:38:07]
+  Drago removed Магазин для ПП from Пояс инструментов (ID: 468)
+[03/09/2023 16:38:07]
+  Drago placed Магазин для ПП in Пистолет-пулемет (ID: 5114)
+[03/09/2023 16:38:08]
+  Evochka1488 placed Контейнер для хранения in Большой стальной шкаф (ID: 638)
+[03/09/2023 16:38:09]
+  StreaK started repairing Навигационный терминал
+[03/09/2023 16:38:10]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:38:10]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:38:10]
+  Inner wall breached by Bonethresher
+[03/09/2023 16:38:10]
+  Inner wall breached by Bonethresher
+[03/09/2023 16:38:10]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:38:10]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:38:11]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[03/09/2023 16:38:17]
+  The respawn shuttle is leaving.
+[03/09/2023 16:38:20]
+  Drago used item Бинт
+[03/09/2023 16:38:36]
+  Bonethresher attacked by Waltuh. Травма от удара тупым предметом: 0.4 Оглушение: 0.2
+[03/09/2023 16:38:36]
+  Waltuh used Гаечный ключ on Bonethresher.
+[03/09/2023 16:38:36]
+  Bonethresher attacked by Waltuh. Рваная рана: 5.0 Кровотечение: 2.0
+[03/09/2023 16:38:36]
+  Waltuh used Отвертка on Bonethresher.
+[03/09/2023 16:38:37]
+  StreaK used item Бинт
+[03/09/2023 16:38:37]
+  kynlan4ic has died (Cause of death: Укусы)
+[03/09/2023 16:38:42]
+  Waltuh has died (Cause of death: Укусы)
+[03/09/2023 16:38:44]
+  Evochka1488 picked up Ториевый топливный стержень
+[03/09/2023 16:38:44]
+  Evochka1488 picked up Ториевый топливный стержень
+[03/09/2023 16:38:45]
+  Drago used item Бинт
+[03/09/2023 16:38:47]
+  Drago used item Физраствор
+[03/09/2023 16:38:48]
+  The respawn shuttle has left.
+[03/09/2023 16:38:50]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:38:50]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:38:50]
+  kynlan4ic: Зря
+[03/09/2023 16:38:56]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:39:00]
+  Evochka1488: я
+[03/09/2023 16:39:00]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:39:01]
+  Drago used item Бинт
+[03/09/2023 16:39:06]
+  StreaK removed Водолазный скафандр from Human
+[03/09/2023 16:39:12]
+  Evochka1488 equipped Отвертка
+[03/09/2023 16:39:13]
+  Evochka1488 equipped Гаечный ключ
+[03/09/2023 16:39:15]
+  Evochka1488 started repairing Ядерный реактор
+[03/09/2023 16:39:27]
+  Drago placed Плазменный резак in Пояс инструментов (ID: 468)
+[03/09/2023 16:39:27]
+  Drago removed Сварочный аппарат from Пояс инструментов (ID: 468)
+[03/09/2023 16:39:27]
+  Drago picked up Сварочный аппарат
+[03/09/2023 16:39:28]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:39:36]
+  Faxemelian has died (Cause of death: Кровопотеря)
+[03/09/2023 16:39:38]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:39:39]
+  Dispatching the respawn shuttle.
+[03/09/2023 16:39:39]
+  Respawning Waltuh (STEAM_1:0:207971231) as Помощник
+[03/09/2023 16:39:40]
+  Waltuh set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:39:47]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 16:39:47]
+  Bonethresher attacked by Waltuh. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 16:39:47]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:39:47]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:39:47]
+  Outer wall breached by Bonethresher
+[03/09/2023 16:39:50]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:39:51]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 16:39:52]
+  Evochka1488 started repairing Батарея
+[03/09/2023 16:39:57]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 16:39:57]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 16:39:58]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 16:39:58]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 16:40:04]
+  The respawn shuttle is leaving.
+[03/09/2023 16:40:13]
+  StreaK picked up Физраствор
+[03/09/2023 16:40:13]
+  StreaK picked up Физраствор
+[03/09/2023 16:40:13]
+  StreaK picked up Физраствор
+[03/09/2023 16:40:13]
+  StreaK picked up Физраствор
+[03/09/2023 16:40:13]
+  StreaK picked up Стабилоцин
+[03/09/2023 16:40:13]
+  StreaK picked up Стабилоцин
+[03/09/2023 16:40:13]
+  StreaK picked up Стабилоцин
+[03/09/2023 16:40:13]
+  StreaK picked up Стабилоцин
+[03/09/2023 16:40:16]
+  Evochka1488 placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 704)
+[03/09/2023 16:40:16]
+  Evochka1488 removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 704)
+[03/09/2023 16:40:16]
+  Evochka1488 placed Кислородный баллон in Боевой водолазный скафандр (ID: 1709)
+[03/09/2023 16:40:17]
+  Waltuh equipped Гаечный ключ
+[03/09/2023 16:40:18]
+  Evochka1488 picked up Кислородный баллон
+[03/09/2023 16:40:18]
+  Waltuh equipped Отвертка
+[03/09/2023 16:40:22]
+  Evochka1488 failed to repair Медицинский фабрикатор
+[03/09/2023 16:40:23]
+  Evochka1488 started repairing Медицинский фабрикатор
+[03/09/2023 16:40:35]
+  The respawn shuttle has left.
+[03/09/2023 16:40:36]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:40:44]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:40:47]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 16:40:48]
+  Drago: Пункт управления: здесь пробит корпус!
+[03/09/2023 16:40:53]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:41:04]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:41:07]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:41:13]
+  Waltuh dropped Одноразовый водолазный скафандр
+[03/09/2023 16:41:18]
+  Waltuh has died (Cause of death: Баротравма)
+[03/09/2023 16:41:23]
+  Drago placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:41:23]
+  Drago removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:41:23]
+  Drago placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 1717)
+[03/09/2023 16:41:25]
+  Dispatching the respawn shuttle.
+[03/09/2023 16:41:25]
+  Respawning Waltuh (STEAM_1:0:207971231) as Помощник
+[03/09/2023 16:41:25]
+  Respawning Faxemelian (STEAM_1:1:505581397) as Механик
+[03/09/2023 16:41:27]
+  Faxemelian set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:41:27]
+  Waltuh set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:41:29]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 16:41:30]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:41:41]
+  StreaK equipped Вещмешок
+[03/09/2023 16:41:46]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:41:48]
+  StreaK dropped Вещмешок
+[03/09/2023 16:41:53]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:41:53]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:41:53]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:41:53]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:41:53]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:41:53]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:41:55]
+  Outer wall repaired by Drago
+[03/09/2023 16:41:56]
+  StreaK dropped Вещмешок
+[03/09/2023 16:42:07]
+  Evochka1488 started repairing Ядерный реактор
+[03/09/2023 16:42:10]
+  Outer wall repaired by Drago
+[03/09/2023 16:42:12]
+  StreaK equipped Вещмешок
+[03/09/2023 16:42:13]
+  StreaK unequipped Сварочный аппарат
+[03/09/2023 16:42:17]
+  StreaK dropped Вещмешок
+[03/09/2023 16:42:20]
+  Faxemelian docked Челнок R-170 to Camel
+[03/09/2023 16:42:22]
+  StreaK equipped Сварочный аппарат
+[03/09/2023 16:42:25]
+  Faxemelian picked up Одноразовый водолазный скафандр
+[03/09/2023 16:42:27]
+  Outer wall repaired by Drago
+[03/09/2023 16:42:27]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:42:28]
+  Outer wall repaired by StreaK
+[03/09/2023 16:42:29]
+  The respawn shuttle is leaving.
+[03/09/2023 16:42:30]
+  Waltuh equipped Отвертка
+[03/09/2023 16:42:30]
+  Waltuh equipped Гаечный ключ
+[03/09/2023 16:42:30]
+  Faxemelian equipped Сварочный аппарат
+[03/09/2023 16:42:32]
+  Waltuh started repairing Настраиваемый люк
+[03/09/2023 16:42:34]
+  Evochka1488 started repairing Батарея
+[03/09/2023 16:42:37]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:42:37]
+  StreaK dropped Кислородный баллон
+[03/09/2023 16:42:37]
+  StreaK placed Кислородный баллон in Водолазный скафандр (ID: 454)
+[03/09/2023 16:42:41]
+  Outer wall repaired by StreaK
+[03/09/2023 16:42:43]
+  Evochka1488 started repairing Батарея
+[03/09/2023 16:42:47]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:42:47]
+  Waltuh started repairing Настраиваемый люк
+[03/09/2023 16:42:48]
+  Evochka1488 started repairing Большой двигатель
+[03/09/2023 16:42:53]
+  Outer wall repaired by StreaK
+[03/09/2023 16:42:56]
+  Waltuh started repairing Дверь с кнопками
+[03/09/2023 16:42:57]
+  Inner wall repaired by StreaK
+[03/09/2023 16:43:01]
+  The respawn shuttle has left.
+[03/09/2023 16:43:02]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:43:03]
+  Drago picked up Кислородный баллон
+[03/09/2023 16:43:03]
+  Drago dropped Кислородный баллон
+[03/09/2023 16:43:03]
+  Drago placed Кислородный баллон in Водолазный скафандр (ID: 23)
+[03/09/2023 16:43:06]
+  Drago equipped Подводный скутер
+[03/09/2023 16:43:08]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:43:10]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:43:11]
+  Waltuh started repairing Дверь с кнопками
+[03/09/2023 16:43:11]
+  Drago picked up Кислородный баллон
+[03/09/2023 16:43:11]
+  Drago dropped Кислородный баллон
+[03/09/2023 16:43:11]
+  Drago placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 710)
+[03/09/2023 16:43:13]
+  Drago picked up Кислородный баллон
+[03/09/2023 16:43:13]
+  Drago dropped Кислородный баллон
+[03/09/2023 16:43:13]
+  Drago placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 710)
+[03/09/2023 16:43:13]
+  Evochka1488 used Отвертка on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:43:14]
+  Evochka1488 used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[03/09/2023 16:43:14]
+  Inner wall repaired by StreaK
+[03/09/2023 16:43:14]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:43:16]
+  Drago placed Кислородный баллон in Пояс инструментов (ID: 468)
+[03/09/2023 16:43:16]
+  Drago placed Кислородный баллон in Пояс инструментов (ID: 468)
+[03/09/2023 16:43:21]
+  Waltuh started repairing Малый насос
+[03/09/2023 16:43:25]
+  Inner wall repaired by StreaK
+[03/09/2023 16:43:27]
+  Faxemelian unequipped Сварочный аппарат
+[03/09/2023 16:43:27]
+  Faxemelian equipped Вещмешок
+[03/09/2023 16:43:30]
+  Faxemelian picked up Отвертка
+[03/09/2023 16:43:33]
+  Inner wall repaired by StreaK
+[03/09/2023 16:43:34]
+  Waltuh started repairing Малый насос
+[03/09/2023 16:43:35]
+  Faxemelian dropped Отвертка
+[03/09/2023 16:43:35]
+  Drago dropped Металлический ящик
+[03/09/2023 16:43:39]
+  Evochka1488 started repairing Дверь с окном и кнопками
+[03/09/2023 16:43:40]
+  Waltuh failed to repair Малый насос
+[03/09/2023 16:43:42]
+  Faxemelian picked up Анапарализатор
+[03/09/2023 16:43:43]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 16:43:45]
+  Faxemelian placed Пояс инструментов in Вещмешок (ID: 161)
+[03/09/2023 16:43:45]
+  Faxemelian removed Пояс инструментов from Вещмешок (ID: 161)
+[03/09/2023 16:43:45]
+  Faxemelian picked up Пояс инструментов
+[03/09/2023 16:43:46]
+  Waltuh started repairing Малый насос
+[03/09/2023 16:43:53]
+  Evochka1488 failed to repair Большой двигатель
+[03/09/2023 16:43:53]
+  StreaK started repairing Деконструктор
+[03/09/2023 16:43:55]
+  Faxemelian removed Фонарик from Вещмешок (ID: 161)
+[03/09/2023 16:43:56]
+  Waltuh failed to repair Малый насос
+[03/09/2023 16:43:57]
+  Faxemelian removed Топливный бак сварочного аппарата from Вещмешок (ID: 161)
+[03/09/2023 16:43:59]
+  Faxemelian removed Гаечный ключ from Вещмешок (ID: 161)
+[03/09/2023 16:43:59]
+  Drago picked up Патрон для дробовика
+[03/09/2023 16:43:59]
+  Drago picked up Патрон для дробовика
+[03/09/2023 16:44:00]
+  Faxemelian removed Пояс инструментов from Вещмешок (ID: 161)
+[03/09/2023 16:44:00]
+  Faxemelian removed Костюм котельника from Вещмешок (ID: 161)
+[03/09/2023 16:44:01]
+  Faxemelian dropped Вещмешок
+[03/09/2023 16:44:06]
+  Drago used item Морфин
+[03/09/2023 16:44:09]
+  Evochka1488 started repairing Большой двигатель
+[03/09/2023 16:44:11]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:44:12]
+  StreaK started repairing Фабрикатор
+[03/09/2023 16:44:16]
+  Drago picked up Анапарализатор
+[03/09/2023 16:44:18]
+  Evochka1488 started repairing Малый насос
+[03/09/2023 16:44:20]
+  Drago dropped Металлический ящик
+[03/09/2023 16:44:33]
+  Faxemelian equipped Сварочный аппарат
+[03/09/2023 16:44:34]
+  Faxemelian equipped Плазменный резак
+[03/09/2023 16:44:35]
+  Waltuh started repairing Люк с кнопками
+[03/09/2023 16:44:37]
+  StreaK placed Кислородный баллон in Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:44:40]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:44:51]
+  Waltuh started repairing Люк с кнопками
+[03/09/2023 16:45:00]
+  StreaK started repairing Малый насос
+[03/09/2023 16:45:04]
+  Waltuh started repairing Навигационный терминал
+[03/09/2023 16:45:05]
+  Faxemelian equipped Отвертка
+[03/09/2023 16:45:05]
+  Faxemelian equipped Гаечный ключ
+[03/09/2023 16:45:06]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:07]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:08]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:08]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:09]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:09]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:10]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:11]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:12]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:12]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:13]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:13]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:14]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:15]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:16]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:16]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:17]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:17]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:18]
+  Waltuh started repairing Навигационный терминал
+[03/09/2023 16:45:18]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:18]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:19]
+  Evochka1488 picked up Кислородный баллон
+[03/09/2023 16:45:19]
+  Evochka1488 dropped Кислородный баллон
+[03/09/2023 16:45:19]
+  Evochka1488 placed Кислородный баллон in Боевой водолазный скафандр (ID: 1709)
+[03/09/2023 16:45:19]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:20]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:21]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:21]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:22]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:22]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:23]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:23]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:24]
+  Waltuh unequipped Отвертка
+[03/09/2023 16:45:24]
+  Waltuh unequipped Гаечный ключ
+[03/09/2023 16:45:24]
+  Waltuh equipped Вещмешок
+[03/09/2023 16:45:24]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:25]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:25]
+  Evochka1488 started repairing Монитор состояния
+[03/09/2023 16:45:26]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:26]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:27]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:27]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:27]
+  Waltuh picked up Плазменный резак
+[03/09/2023 16:45:28]
+  Waltuh picked up Ручной сонар
+[03/09/2023 16:45:28]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:28]
+  Waltuh picked up Отвертка
+[03/09/2023 16:45:28]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:29]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:29]
+  Waltuh picked up Гаечный ключ
+[03/09/2023 16:45:30]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:31]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:31]
+  Waltuh placed Гаечный ключ in Вещмешок (ID: 5115)
+[03/09/2023 16:45:31]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:31]
+  Waltuh placed Отвертка in Вещмешок (ID: 5115)
+[03/09/2023 16:45:32]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:32]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:33]
+  Outer wall repaired by StreaK
+[03/09/2023 16:45:33]
+  Waltuh picked up Клоунская маска
+[03/09/2023 16:45:33]
+  Evochka1488 started repairing Монитор состояния
+[03/09/2023 16:45:33]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:34]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:34]
+  Waltuh picked up Велосипедный гудок
+[03/09/2023 16:45:34]
+  Waltuh picked up Информационный экран сканера здоровья
+[03/09/2023 16:45:35]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:35]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:36]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:36]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:37]
+  Waltuh placed Информационный экран сканера здоровья in Вещмешок (ID: 5115)
+[03/09/2023 16:45:37]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:37]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:38]
+  Evochka1488 picked up Плазменный резак
+[03/09/2023 16:45:38]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:39]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:40]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:40]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:40]
+  Waltuh picked up Информационный экран сканера здоровья
+[03/09/2023 16:45:41]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:41]
+  Evochka1488 started repairing Суперконденсатор
+[03/09/2023 16:45:41]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:42]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:42]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:43]
+  Waltuh picked up Подводная маска
+[03/09/2023 16:45:43]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:44]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:45]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:45]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:45]
+  Waltuh picked up Пояс инструментов
+[03/09/2023 16:45:46]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:46]
+  Faxemelian used Отвертка on Мозг Таламуса.
+[03/09/2023 16:45:47]
+  Waltuh picked up Сварочный аппарат
+[03/09/2023 16:45:47]
+  Faxemelian used Гаечный ключ on Мозг Таламуса.
+[03/09/2023 16:45:47]
+  Leucocyte has died (Cause of death: Unknown)
+[03/09/2023 16:45:47]
+  Leucocyte has died (Cause of death: Unknown)
+[03/09/2023 16:45:48]
+  Waltuh picked up Клоунский костюм
+[03/09/2023 16:45:52]
+  Drago equipped Ящик пробивных снарядов
+[03/09/2023 16:45:52]
+  Drago picked up Ящик пробивных снарядов
+[03/09/2023 16:45:56]
+  StreaK placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:45:56]
+  Evochka1488 started repairing Зарядник для цепной пушки
+[03/09/2023 16:45:58]
+  Waltuh placed Гаечный ключ in Вещмешок (ID: 5115)
+[03/09/2023 16:45:58]
+  Waltuh removed Шприц-пистолет from Вещмешок (ID: 5115)
+[03/09/2023 16:45:58]
+  Waltuh picked up Шприц-пистолет
+[03/09/2023 16:45:59]
+  StreaK placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 5276)
+[03/09/2023 16:46:02]
+  Waltuh placed Шприц-пистолет in Вещмешок (ID: 5115)
+[03/09/2023 16:46:02]
+  Waltuh removed Гаечный ключ from Вещмешок (ID: 5115)
+[03/09/2023 16:46:02]
+  Waltuh picked up Гаечный ключ
+[03/09/2023 16:46:05]
+  Evochka1488: я карыто чиню
+[03/09/2023 16:46:06]
+  Outer wall repaired by StreaK
+[03/09/2023 16:46:11]
+  Waltuh placed Клоунский костюм in Хозяйственный шкаф (ID: 582)
+[03/09/2023 16:46:12]
+  Waltuh placed Клоунская маска in Хозяйственный шкаф (ID: 582)
+[03/09/2023 16:46:13]
+  Faxemelian picked up Топливный стержень
+[03/09/2023 16:46:14]
+  Faxemelian picked up Грозовиевый топливный стержень
+[03/09/2023 16:46:15]
+  Evochka1488 started repairing Зарядник магнитной пушки
+[03/09/2023 16:46:20]
+  Waltuh picked up Шприц-пистолет
+[03/09/2023 16:46:30]
+  Drago dropped Ящик пробивных снарядов
+[03/09/2023 16:46:31]
+  Waltuh activated Деконструктор
+[03/09/2023 16:46:33]
+  Waltuh deactivated Деконструктор
+[03/09/2023 16:46:34]
+  Waltuh activated Деконструктор
+[03/09/2023 16:46:35]
+  Faxemelian picked up Магний
+[03/09/2023 16:46:35]
+  Faxemelian picked up Магний
+[03/09/2023 16:46:35]
+  Faxemelian picked up Медь
+[03/09/2023 16:46:37]
+  Outer wall repaired by StreaK
+[03/09/2023 16:46:38]
+  Faxemelian placed Медь in Пояс инструментов (ID: 5273)
+[03/09/2023 16:46:39]
+  Waltuh placed Отвертка in Вещмешок (ID: 5115)
+[03/09/2023 16:46:39]
+  Waltuh placed Подводный скутер in Вещмешок (ID: 5115)
+[03/09/2023 16:46:40]
+  Evochka1488 started repairing Насос
+[03/09/2023 16:46:41]
+  Outer wall repaired by StreaK
+[03/09/2023 16:46:42]
+  Waltuh picked up Отвертка
+[03/09/2023 16:46:45]
+  Evochka1488: Передний балласт: здесь пробит корпус!
+[03/09/2023 16:46:45]
+  Waltuh deactivated Деконструктор
+[03/09/2023 16:46:49]
+  Waltuh picked up Подводный скутер
+[03/09/2023 16:46:51]
+  Waltuh placed Вещмешок in Деконструктор (ID: 627)
+[03/09/2023 16:46:51]
+  Waltuh activated Деконструктор
+[03/09/2023 16:46:54]
+  Waltuh deactivated Деконструктор
+[03/09/2023 16:46:55]
+  Waltuh picked up Вещмешок
+[03/09/2023 16:46:56]
+  Waltuh activated Деконструктор
+[03/09/2023 16:46:56]
+  Inner wall repaired by StreaK
+[03/09/2023 16:46:57]
+  Waltuh deactivated Деконструктор
+[03/09/2023 16:46:57]
+  Drago equipped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:46:57]
+  Drago picked up Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:46:59]
+  Waltuh placed Одежда помощника in Деконструктор (ID: 627)
+[03/09/2023 16:46:59]
+  Waltuh activated Деконструктор
+[03/09/2023 16:47:02]
+  Inner wall repaired by StreaK
+[03/09/2023 16:47:03]
+  Waltuh dropped Одноразовый водолазный скафандр
+[03/09/2023 16:47:04]
+  kynlan4ic: Национал-ебланы?
+[03/09/2023 16:47:06]
+  Faxemelian equipped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:47:06]
+  Faxemelian picked up Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:47:08]
+  StreaK failed to repair Медицинский фабрикатор
+[03/09/2023 16:47:09]
+  StreaK started repairing Медицинский фабрикатор
+[03/09/2023 16:47:13]
+  Evochka1488 dropped Боевой водолазный скафандр
+[03/09/2023 16:47:16]
+  kynlan4ic: Ладно
+[03/09/2023 16:47:24]
+  Waltuh deactivated Деконструктор
+[03/09/2023 16:47:26]
+  Waltuh placed Хлам in Деконструктор (ID: 627)
+[03/09/2023 16:47:26]
+  Waltuh placed Хлам in Деконструктор (ID: 627)
+[03/09/2023 16:47:26]
+  Waltuh placed Хлам in Деконструктор (ID: 627)
+[03/09/2023 16:47:26]
+  kynlan4ic: Доживу мёртвым
+[03/09/2023 16:47:28]
+  Waltuh placed Гаечный ключ in Деконструктор (ID: 627)
+[03/09/2023 16:47:29]
+  Evochka1488: а нах два стержня в реакторе
+[03/09/2023 16:47:30]
+  Waltuh placed Отвертка in Деконструктор (ID: 627)
+[03/09/2023 16:47:30]
+  Waltuh activated Деконструктор
+[03/09/2023 16:47:36]
+  Waltuh placed Наушники in Деконструктор (ID: 627)
+[03/09/2023 16:47:38]
+  Waltuh placed Вещмешок in Деконструктор (ID: 627)
+[03/09/2023 16:47:40]
+  StreaK started repairing Генератор кислорода
+[03/09/2023 16:47:41]
+  Waltuh removed Вещмешок from Деконструктор (ID: 627)
+[03/09/2023 16:47:42]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:47:46]
+  Drago dropped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:47:48]
+  Faxemelian dropped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:47:49]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:47:51]
+  Waltuh deactivated Деконструктор
+[03/09/2023 16:47:52]
+  Waltuh placed Наушники in Деконструктор (ID: 627)
+[03/09/2023 16:47:53]
+  Waltuh activated Деконструктор
+[03/09/2023 16:47:55]
+  StreaK failed to repair Батарея
+[03/09/2023 16:47:55]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:47:57]
+  StreaK started repairing Батарея
+[03/09/2023 16:47:57]
+  Waltuh dropped Вещмешок
+[03/09/2023 16:47:59]
+  Waltuh equipped Гаечный ключ
+[03/09/2023 16:47:59]
+  Waltuh equipped Отвертка
+[03/09/2023 16:48:00]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:48:02]
+  Drago dropped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 16:48:06]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:48:07]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:48:09]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:48:13]
+  StreaK placed Кислородный баллон in Пояс инструментов (ID: 5435)
+[03/09/2023 16:48:13]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:48:16]
+  Drago placed Сварочный аппарат in Средний стальной шкаф (ID: 1445)
+[03/09/2023 16:48:16]
+  StreaK picked up Кислородный баллон
+[03/09/2023 16:48:16]
+  StreaK dropped Кислородный баллон
+[03/09/2023 16:48:16]
+  StreaK placed Кислородный баллон in Водолазный скафандр (ID: 454)
+[03/09/2023 16:48:17]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 16:48:19]
+  StreaK placed Кислородный баллон in Пояс инструментов (ID: 5435)
+[03/09/2023 16:48:22]
+  Evochka1488 picked up Боевой водолазный скафандр
+[03/09/2023 16:48:24]
+  Faxemelian picked up Топливный бак сварочного аппарата
+[03/09/2023 16:48:25]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:48:28]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:48:30]
+  Drago equipped Вещмешок
+[03/09/2023 16:48:30]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 16:48:32]
+  Faxemelian equipped Металлический ящик
+[03/09/2023 16:48:32]
+  Faxemelian picked up Металлический ящик
+[03/09/2023 16:48:33]
+  Evochka1488 started repairing Кабельная коробка
+[03/09/2023 16:48:35]
+  Faxemelian placed Медь in Металлический ящик (ID: 1655)
+[03/09/2023 16:48:36]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:48:37]
+  Faxemelian placed Инопланетная кровь in Деконструктор (ID: 627)
+[03/09/2023 16:48:37]
+  Faxemelian placed Инопланетная кровь in Деконструктор (ID: 627)
+[03/09/2023 16:48:37]
+  Faxemelian placed Инопланетная кровь in Деконструктор (ID: 627)
+[03/09/2023 16:48:38]
+  Faxemelian placed Инопланетная кровь in Металлический ящик (ID: 1655)
+[03/09/2023 16:48:38]
+  Faxemelian placed Инопланетная кровь in Металлический ящик (ID: 1655)
+[03/09/2023 16:48:38]
+  Faxemelian placed Инопланетная кровь in Металлический ящик (ID: 1655)
+[03/09/2023 16:48:41]
+  Faxemelian placed Адреналиновая железа in Деконструктор (ID: 627)
+[03/09/2023 16:48:41]
+  Faxemelian placed Адреналиновая железа in Деконструктор (ID: 627)
+[03/09/2023 16:48:42]
+  Waltuh started repairing Малый насос
+[03/09/2023 16:48:42]
+  Faxemelian activated Деконструктор
+[03/09/2023 16:48:47]
+  Drago dropped Водолазный скафандр
+[03/09/2023 16:48:49]
+  Waltuh started repairing Малый насос
+[03/09/2023 16:48:49]
+  Faxemelian placed Клоунский костюм in Металлический ящик (ID: 1655)
+[03/09/2023 16:48:49]
+  Drago dropped Подводная маска
+[03/09/2023 16:48:52]
+  Faxemelian placed Бейсболка in Пояс инструментов (ID: 5273)
+[03/09/2023 16:48:52]
+  Faxemelian removed Информационный экран сканера здоровья from Пояс инструментов (ID: 5273)
+[03/09/2023 16:48:52]
+  Faxemelian picked up Информационный экран сканера здоровья
+[03/09/2023 16:48:53]
+  Drago placed Револьвер in Большой стальной шкаф (ID: 1241)
+[03/09/2023 16:48:55]
+  Drago placed Пояс инструментов in Большой стальной шкаф (ID: 1241)
+[03/09/2023 16:48:56]
+  Faxemelian placed Бейсболка in Деконструктор (ID: 627)
+[03/09/2023 16:48:56]
+  Faxemelian deactivated Деконструктор
+[03/09/2023 16:48:57]
+  Faxemelian placed Бейсболка in Деконструктор (ID: 627)
+[03/09/2023 16:48:57]
+  Faxemelian activated Деконструктор
+[03/09/2023 16:49:00]
+  Faxemelian placed Кислородный баллон in Металлический ящик (ID: 1655)
+[03/09/2023 16:49:00]
+  Faxemelian placed Кислородный баллон in Металлический ящик (ID: 1655)
+[03/09/2023 16:49:02]
+  Waltuh started repairing Деконструктор
+[03/09/2023 16:49:03]
+  Drago placed Подводная маска in Хозяйственный шкаф (ID: 1442)
+[03/09/2023 16:49:03]
+  Faxemelian dropped Металлический ящик

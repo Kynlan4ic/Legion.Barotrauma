@@ -1,0 +1,624 @@
+﻿[10/20/2022 18:29:19]
+  Арти Дулитл: Ух ты, у нас снова гости.
+[10/20/2022 18:29:38]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:29:49]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:33:30]
+  Client "kynlan4ic" ended the round.
+[10/20/2022 18:33:30]
+  Ending the round...
+[10/20/2022 18:33:30]
+  Round ended.
+[10/20/2022 18:33:33]
+  Starting a new round...
+[10/20/2022 18:33:35]
+  Maurice Jones equipped Отвертка
+[10/20/2022 18:33:35]
+  Emerald Banks equipped Гаечный ключ
+[10/20/2022 18:33:35]
+  Миссия: Пассажирские перевозки
+[10/20/2022 18:33:35]
+  Нескольких пассажиров нужно отвезти в точку Tara. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[10/20/2022 18:33:36]
+  Game mode: Кампания
+[10/20/2022 18:33:36]
+  Submarine: Barsuk
+[10/20/2022 18:33:36]
+  Level seed: BastTara
+[10/20/2022 18:33:36]
+  Mission: Пассажирские перевозки
+[10/20/2022 18:33:36]
+  Round started.
+[10/20/2022 18:33:37]
+  Emerald Banks unequipped Гаечный ключ
+[10/20/2022 18:33:37]
+  Maurice Jones unequipped Отвертка
+[10/20/2022 18:33:45]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:33:55]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:34:25]
+  kynlan4ic: Я проложу курс к месту назначения!
+[10/20/2022 18:34:36]
+  Vasili Castro: Внутрь.
+[10/20/2022 18:34:37]
+  Vasili Castro: Нырять глубже? Нет, нырять внутрь.
+[10/20/2022 18:34:40]
+  Jackie Molina: Что за каша у тебя в голове?
+[10/20/2022 18:36:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:37:32]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:36]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:43]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:37:48]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:48]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:37:55]
+  Marcy Ordway: Мне нужно подводное снаряжение!
+[10/20/2022 18:37:58]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:59]
+  Marcel Freeman: Надо найти водолазный скафандр!
+[10/20/2022 18:38:03]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:38:04]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:06]
+  Jackie Molina equipped Сварочный аппарат
+[10/20/2022 18:38:06]
+  Jackie Molina: Мне нужно подводное снаряжение!
+[10/20/2022 18:38:07]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:38:09]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:38:11]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:38:12]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:38:12]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 18:38:13]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:38:13]
+  Marcel Freeman: Реакторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 18:38:14]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:38:14]
+  Marcel Freeman: Реакторный отсек: протечек не осталось!
+[10/20/2022 18:38:16]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:38:19]
+  Socorro Cortese equipped Сварочный аппарат
+[10/20/2022 18:38:21]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:38:21]
+  Socorro Cortese: Отсек генератора кислорода: все протечки устранены!
+[10/20/2022 18:38:24]
+  Jackie Molina unequipped Сварочный аппарат
+[10/20/2022 18:38:25]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:26]
+  Socorro Cortese unequipped Сварочный аппарат
+[10/20/2022 18:38:29]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:35]
+  Marcel Freeman equipped Водолазный скафандр
+[10/20/2022 18:38:36]
+  Outer wall repaired by Marcy Ordway
+[10/20/2022 18:38:39]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:46]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:48]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[10/20/2022 18:38:49]
+  kynlan4ic: Marcel Freeman, начинай устранять протечки!
+[10/20/2022 18:38:49]
+  Outer wall repaired by Marcy Ordway
+[10/20/2022 18:38:50]
+  Marcy Ordway: Пункт управления: минус одна протечка!
+[10/20/2022 18:38:50]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:38:50]
+  Marcel Freeman: Вас понял!
+[10/20/2022 18:38:54]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:38:55]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:38:56]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:38:56]
+  Outer wall repaired by Marcy Ordway
+[10/20/2022 18:38:57]
+  Marcy Ordway: Пункт управления: все протечки устранены!
+[10/20/2022 18:38:57]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:38:58]
+  Marcel Freeman closed Настраиваемая дверь
+[10/20/2022 18:39:04]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:39:05]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:39:06]
+  Marcel Freeman: Пункт управления: протечек не осталось!
+[10/20/2022 18:39:06]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:39:06]
+  Marcel Freeman: Мне нужно подводное снаряжение!
+[10/20/2022 18:39:09]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:39:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:39:12]
+  Marcel Freeman opened Настраиваемая дверь
+[10/20/2022 18:39:13]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:39:13]
+  Marcel Freeman equipped Гаечный ключ
+[10/20/2022 18:39:14]
+  Tommie Cortese equipped Шоковая дубинка
+[10/20/2022 18:39:14]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:39:14]
+  Marcel Freeman unequipped Гаечный ключ
+[10/20/2022 18:39:14]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:39:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:39:15]
+  Jackie Molina equipped Сварочный аппарат
+[10/20/2022 18:39:15]
+  Joy Molina equipped Гаечный ключ
+[10/20/2022 18:39:15]
+  Vasili Castro equipped Шоковая дубинка
+[10/20/2022 18:39:16]
+  Jackie Molina unequipped Сварочный аппарат
+[10/20/2022 18:39:16]
+  Socorro Cortese equipped Сварочный аппарат
+[10/20/2022 18:39:16]
+  Jackie Molina equipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Socorro Cortese unequipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:17]
+  Maurice Jones equipped Отвертка
+[10/20/2022 18:39:17]
+  Kizzie Sunderland equipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Joy Molina unequipped Гаечный ключ
+[10/20/2022 18:39:17]
+  Vasili Castro unequipped Шоковая дубинка
+[10/20/2022 18:39:17]
+  Socorro Cortese equipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Joy Molina equipped Гаечный ключ
+[10/20/2022 18:39:17]
+  Vasili Castro equipped Шоковая дубинка
+[10/20/2022 18:39:18]
+  Marcel Freeman: Я теряю много крови!
+[10/20/2022 18:39:19]
+  Tommie Cortese: У меня кровь!
+[10/20/2022 18:39:19]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:19]
+  Kizzie Sunderland unequipped Сварочный аппарат
+[10/20/2022 18:39:20]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Tommie Cortese.
+[10/20/2022 18:39:20]
+  Kizzie Sunderland equipped Сварочный аппарат
+[10/20/2022 18:39:21]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:22]
+  Emerald Banks equipped Гаечный ключ
+[10/20/2022 18:39:22]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:22]
+  kynlan4ic equipped Револьвер
+[10/20/2022 18:39:22]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Vasili Castro.
+[10/20/2022 18:39:23]
+  Tommie Cortese unequipped Шоковая дубинка
+[10/20/2022 18:39:23]
+  Tommie Cortese equipped Нож ныряльщика
+[10/20/2022 18:39:23]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:24]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:39:24]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:24]
+  Joy Molina unequipped Гаечный ключ
+[10/20/2022 18:39:24]
+  Joy Molina equipped Отвертка
+[10/20/2022 18:39:25]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:25]
+  Vasili Castro unequipped Шоковая дубинка
+[10/20/2022 18:39:25]
+  Vasili Castro equipped Нож ныряльщика
+[10/20/2022 18:39:25]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:26]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:26]
+  Vasili Castro: У меня кровь!
+[10/20/2022 18:39:26]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:26]
+  Jackie Molina unequipped Сварочный аппарат
+[10/20/2022 18:39:27]
+  Maurice Jones unequipped Отвертка
+[10/20/2022 18:39:27]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:27]
+  Vasili Castro used Нож ныряльщика on Tommie Cortese.
+[10/20/2022 18:39:28]
+  Vasili Castro used Нож ныряльщика on Tommie Cortese.
+[10/20/2022 18:39:29]
+  Inner wall breached by Vasili Castro
+[10/20/2022 18:39:29]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:39:29]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:29]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:30]
+  Kizzie Sunderland unequipped Сварочный аппарат
+[10/20/2022 18:39:30]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:31]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:31]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:32]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:32]
+  Emerald Banks unequipped Гаечный ключ
+[10/20/2022 18:39:32]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:33]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:33]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:34]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:34]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/20/2022 18:39:34]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:34]
+  Tommie Cortese unequipped Нож ныряльщика
+[10/20/2022 18:39:34]
+  Vasili Castro unequipped Нож ныряльщика
+[10/20/2022 18:39:38]
+  Tommie Cortese equipped Аккумулятор
+[10/20/2022 18:39:44]
+  Vasili Castro equipped Аккумулятор
+[10/20/2022 18:39:44]
+  Joy Molina unequipped Отвертка
+[10/20/2022 18:39:45]
+  Fritz Dollinger: Tommie Cortese проходит лечение здесь: реакторный отсек!
+[10/20/2022 18:39:46]
+  Joy Molina closed Настраиваемая дверь
+[10/20/2022 18:39:46]
+  Socorro Cortese: Tommie Cortese получает первую помощь здесь: реакторный отсек!
+[10/20/2022 18:39:47]
+  kynlan4ic: Пункт управления: здесь срочно требуется медицинская помощь!
+[10/20/2022 18:39:49]
+  Socorro Cortese: Vasili Castro получает первую помощь здесь: реакторный отсек!
+[10/20/2022 18:39:49]
+  Socorro Cortese: Tommie Cortese нуждается в помощи! Срочно требуется физраствор, бинт, стабилоцин или налоксон!
+[10/20/2022 18:39:51]
+  Tommie Cortese: Помогите, я истекаю кровью!
+[10/20/2022 18:39:52]
+  Socorro Cortese: Мне требуется физраствор, бинт, стабилоцин или налоксон!
+[10/20/2022 18:39:52]
+  Marcel Freeman: Помогите, я истекаю кровью!
+[10/20/2022 18:39:53]
+  Fritz Dollinger: Tommie Cortese в полном порядке!
+[10/20/2022 18:39:53]
+  Socorro Cortese unequipped Сварочный аппарат
+[10/20/2022 18:39:53]
+  Socorro Cortese equipped Стабилоцин
+[10/20/2022 18:39:55]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:40:01]
+  Vasili Castro: Помогите, я истекаю кровью!
+[10/20/2022 18:40:01]
+  Socorro Cortese unequipped Стабилоцин
+[10/20/2022 18:40:01]
+  Socorro Cortese equipped Физраствор
+[10/20/2022 18:40:13]
+  Socorro Cortese equipped Бинт
+[10/20/2022 18:40:18]
+  Socorro Cortese: Vasili Castro чувствует себя хорошо!
+[10/20/2022 18:40:34]
+  Vasili Castro: Я теряю много крови!
+[10/20/2022 18:41:05]
+  Vasili Castro: Помогите, я истекаю кровью!
+[10/20/2022 18:41:10]
+  kynlan4ic docked Barsuk to Tara
+[10/20/2022 18:41:10]
+  kynlan4ic has gained 99 experience (0 -> 99)
+[10/20/2022 18:41:10]
+  igameCrog has gained 99 experience (0 -> 99)
+[10/20/2022 18:41:11]
+  Ending the round...
+[10/20/2022 18:41:11]
+  Round ended.
+[10/20/2022 18:41:14]
+  Starting a new round...
+[10/20/2022 18:41:16]
+  Game mode: Кампания
+[10/20/2022 18:41:16]
+  Submarine: Barsuk
+[10/20/2022 18:41:16]
+  Level seed: Tara
+[10/20/2022 18:41:17]
+  David Linares equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  David Linares unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  David Linares equipped Отвертка
+[10/20/2022 18:41:17]
+  Katrina Aker equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Katrina Aker unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Katrina Aker equipped Отвертка
+[10/20/2022 18:41:17]
+  Danielle Southworth equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Danielle Southworth unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Danielle Southworth equipped Отвертка
+[10/20/2022 18:41:17]
+  Zandra Rosewood equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Zandra Rosewood unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Zandra Rosewood equipped Отвертка
+[10/20/2022 18:41:17]
+  Zandra Rosewood unequipped Отвертка
+[10/20/2022 18:41:17]
+  Zandra Rosewood equipped Лом
+[10/20/2022 18:41:17]
+  Karyn Parker equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Karyn Parker unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Karyn Parker equipped Отвертка
+[10/20/2022 18:41:17]
+  Cecille Mansfield equipped Лом
+[10/20/2022 18:41:17]
+  Hobert Preston equipped Гаечный ключ
+[10/20/2022 18:41:18]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:41:18]
+  Round started.
+[10/20/2022 18:41:18]
+  Hobert Preston unequipped Гаечный ключ
+[10/20/2022 18:41:19]
+  Zandra Rosewood unequipped Лом
+[10/20/2022 18:41:19]
+  Cecille Mansfield unequipped Лом
+[10/20/2022 18:41:19]
+  David Linares unequipped Отвертка
+[10/20/2022 18:41:23]
+  Vasili Castro: Помогите, я истекаю кровью!
+[10/20/2022 18:41:27]
+  Austin Poole: Всем привет! Похоже, у вас был тяжелый рейс.
+[10/20/2022 18:41:27]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:41:37]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:42:11]
+  kynlan4ic: Marcy Ordway, займись электроприборами!
+[10/20/2022 18:42:12]
+  Marcy Ordway: Принято.
+[10/20/2022 18:42:17]
+  Austin Poole: Я думаю, молохи очень дружелюбные и просто хотят пообниматься с симпатичными подлодками.
+[10/20/2022 18:42:25]
+  kynlan4ic: Marcy Ordway, убедись, что все батареи заряжены!
+[10/20/2022 18:42:26]
+  Marcy Ordway: Принято.
+[10/20/2022 18:42:46]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 18:42:51]
+  kynlan4ic closed Настраиваемая дверь
+[10/20/2022 18:46:35]
+  kynlan4ic picked up Взрывной гранат
+[10/20/2022 18:47:40]
+  Client "kynlan4ic" ended the round.
+[10/20/2022 18:47:41]
+  Ending the round...
+[10/20/2022 18:47:41]
+  Round ended.
+[10/20/2022 18:47:43]
+  Starting a new round...
+[10/20/2022 18:47:46]
+  Миссия: Взрывной груз
+[10/20/2022 18:47:46]
+  Местный торговец оружием предлагает 800 кред. за доставку груза взрывчатки его клиенту в точке Аванпост Bast.
+[10/20/2022 18:47:46]
+  Game mode: Кампания
+[10/20/2022 18:47:46]
+  Submarine: Barsuk
+[10/20/2022 18:47:46]
+  Level seed: BastTara
+[10/20/2022 18:47:46]
+  Mission: Взрывной груз
+[10/20/2022 18:47:47]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:47:47]
+  Round started.
+[10/20/2022 18:47:53]
+  Marcy Ordway equipped Отвертка
+[10/20/2022 18:47:55]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:47:56]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:48:05]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:48:09]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:48:23]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:48:26]
+  kynlan4ic: Я проложу курс к месту назначения!
+[10/20/2022 18:48:37]
+  Joy Molina: Мне скучно!
+[10/20/2022 18:48:40]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:48:59]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:49:09]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:49:21]
+  Marcy Ordway started repairing Монитор состояния
+[10/20/2022 18:49:25]
+  Marcy Ordway unequipped Отвертка
+[10/20/2022 18:51:08]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:51:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:09]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:09]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:10]
+  Marcel Freeman: Надо найти водолазный скафандр!
+[10/20/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  Marcel Freeman opened Настраиваемая дверь
+[10/20/2022 18:51:14]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:15]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/20/2022 18:51:15]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:15]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:51:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:16]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:18]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:52:40]
+  Marcy Ordway equipped Отвертка
+[10/20/2022 18:52:41]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:52:45]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:52:54]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:52:58]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:53:07]
+  Marcy Ordway started repairing Навигационный терминал
+[10/20/2022 18:53:16]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:53:20]
+  Marcy Ordway unequipped Отвертка
+[10/20/2022 18:53:31]
+  kynlan4ic: Marcy Ordway, заряди реактор!
+[10/20/2022 18:53:32]
+  Marcy Ordway: Так точно!
+[10/20/2022 18:53:35]
+  Marcy Ordway: Загружаю в реактор дополнительное топливо!
+[10/20/2022 18:53:38]
+  Joy Molina equipped Топливный стержень
+[10/20/2022 18:54:02]
+  igameCrog adjusted reactor settings: Temperature: 3094, Fission rate: 69, Turbine output: 79, Autotemp OFF
+[10/20/2022 18:54:03]
+  igameCrog adjusted reactor settings: Temperature: 3093, Fission rate: 69, Turbine output: 78, Autotemp ON
+[10/20/2022 18:54:04]
+  igameCrog adjusted reactor settings: Temperature: 3111, Fission rate: 68, Turbine output: 77, Autotemp ON
+[10/20/2022 18:54:08]
+  igameCrog adjusted reactor settings: Temperature: 3398, Fission rate: 64, Turbine output: 72, Autotemp OFF
+[10/20/2022 18:54:09]
+  igameCrog adjusted reactor settings: Temperature: 3202, Fission rate: 65, Turbine output: 72, Autotemp ON
+[10/20/2022 18:54:46]
+  kynlan4ic docked Barsuk to Аванпост Bast
+[10/20/2022 18:54:46]
+  kynlan4ic has gained 72 experience (99 -> 171)
+[10/20/2022 18:54:46]
+  igameCrog has gained 72 experience (99 -> 171)
+[10/20/2022 18:54:46]
+  Ending the round...

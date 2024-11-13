@@ -1,0 +1,842 @@
+﻿[03/10/2023 19:19:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:06]
+  Супостат499 adjusted reactor settings: Temperature: 3543, Fission rate: 69, Turbine output: 84, Autotemp OFF
+[03/10/2023 19:19:07]
+  Супостат499 adjusted reactor settings: Temperature: 2871, Fission rate: 69, Turbine output: 78, Autotemp OFF
+[03/10/2023 19:19:08]
+  Супостат499 adjusted reactor settings: Temperature: 3189, Fission rate: 69, Turbine output: 77, Autotemp OFF
+[03/10/2023 19:19:09]
+  Супостат499 adjusted reactor settings: Temperature: 3682, Fission rate: 69, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:19:09]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 19:19:10]
+  Darwin Brady equipped Отвертка
+[03/10/2023 19:19:10]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 19:19:10]
+  Супостат499 adjusted reactor settings: Temperature: 4140, Fission rate: 69, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:19:11]
+  Супостат499 adjusted reactor settings: Temperature: 4809, Fission rate: 69, Turbine output: 54, Autotemp OFF
+[03/10/2023 19:19:12]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 19:19:12]
+  Супостат499 adjusted reactor settings: Temperature: 4649, Fission rate: 69, Turbine output: 56, Autotemp OFF
+[03/10/2023 19:19:13]
+  Супостат499 adjusted reactor settings: Temperature: 4403, Fission rate: 69, Turbine output: 56, Autotemp OFF
+[03/10/2023 19:19:14]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 19:19:14]
+  Супостат499 adjusted reactor settings: Temperature: 5066, Fission rate: 69, Turbine output: 61, Autotemp OFF
+[03/10/2023 19:19:15]
+  Супостат499 adjusted reactor settings: Temperature: 4813, Fission rate: 69, Turbine output: 63, Autotemp OFF
+[03/10/2023 19:19:16]
+  Супостат499 adjusted reactor settings: Temperature: 4771, Fission rate: 69, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:19:17]
+  Супостат499 adjusted reactor settings: Temperature: 4613, Fission rate: 69, Turbine output: 66, Autotemp OFF
+[03/10/2023 19:19:19]
+  Супостат499 adjusted reactor settings: Temperature: 4520, Fission rate: 69, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:19:20]
+  Супостат499 adjusted reactor settings: Temperature: 4330, Fission rate: 69, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:19:21]
+  Супостат499 adjusted reactor settings: Temperature: 4335, Fission rate: 69, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:19:22]
+  Супостат499 adjusted reactor settings: Temperature: 4141, Fission rate: 69, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:19:23]
+  Супостат499 adjusted reactor settings: Temperature: 4198, Fission rate: 69, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:19:24]
+  Супостат499 adjusted reactor settings: Temperature: 4859, Fission rate: 69, Turbine output: 54, Autotemp OFF
+[03/10/2023 19:19:25]
+  Супостат499 adjusted reactor settings: Temperature: 5576, Fission rate: 69, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:26]
+  Супостат499 adjusted reactor settings: Temperature: 4949, Fission rate: 49, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:27]
+  Супостат499 adjusted reactor settings: Temperature: 3963, Fission rate: 54, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:28]
+  Супостат499 adjusted reactor settings: Temperature: 3647, Fission rate: 53, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:30]
+  Супостат499 adjusted reactor settings: Temperature: 3459, Fission rate: 55, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:31]
+  Супостат499 adjusted reactor settings: Temperature: 3995, Fission rate: 60, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:32]
+  Супостат499 adjusted reactor settings: Temperature: 3667, Fission rate: 56, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:33]
+  Супостат499 adjusted reactor settings: Temperature: 3872, Fission rate: 57, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:34]
+  Супостат499 adjusted reactor settings: Temperature: 4065, Fission rate: 58, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:35]
+  Супостат499 adjusted reactor settings: Temperature: 4146, Fission rate: 58, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:19:36]
+  Супостат499 adjusted reactor settings: Temperature: 4440, Fission rate: 61, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:19:37]
+  Супостат499 adjusted reactor settings: Temperature: 3453, Fission rate: 61, Turbine output: 79, Autotemp OFF
+[03/10/2023 19:19:38]
+  Супостат499 adjusted reactor settings: Temperature: 2453, Fission rate: 61, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:19:39]
+  Супостат499 adjusted reactor settings: Temperature: 3123, Fission rate: 61, Turbine output: 63, Autotemp OFF
+[03/10/2023 19:19:40]
+  Супостат499 adjusted reactor settings: Temperature: 3762, Fission rate: 69, Turbine output: 63, Autotemp OFF
+[03/10/2023 19:19:41]
+  Супостат499 adjusted reactor settings: Temperature: 4612, Fission rate: 69, Turbine output: 46, Autotemp OFF
+[03/10/2023 19:19:42]
+  Супостат499 adjusted reactor settings: Temperature: 4981, Fission rate: 69, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:19:43]
+  Супостат499 adjusted reactor settings: Temperature: 5301, Fission rate: 69, Turbine output: 55, Autotemp OFF
+[03/10/2023 19:19:48]
+  kynlan4ic changed the salary of Супостат499 to 10%.
+[03/10/2023 19:19:52]
+  Супостат499 adjusted reactor settings: Temperature: 5599, Fission rate: 69, Turbine output: 38, Autotemp OFF
+[03/10/2023 19:19:53]
+  Супостат499 adjusted reactor settings: Temperature: 6206, Fission rate: 69, Turbine output: 55, Autotemp OFF
+[03/10/2023 19:19:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:54]
+  Супостат499 adjusted reactor settings: Temperature: 5807, Fission rate: 69, Turbine output: 56, Autotemp OFF
+[03/10/2023 19:19:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:19:55]
+  Супостат499 adjusted reactor settings: Temperature: 5286, Fission rate: 69, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:19:56]
+  Супостат499 adjusted reactor settings: Temperature: 4574, Fission rate: 69, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:19:57]
+  Супостат499 adjusted reactor settings: Temperature: 4527, Fission rate: 72, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:19:58]
+  Супостат499 adjusted reactor settings: Temperature: 4551, Fission rate: 72, Turbine output: 54, Autotemp OFF
+[03/10/2023 19:19:59]
+  Супостат499 adjusted reactor settings: Temperature: 5461, Fission rate: 72, Turbine output: 62, Autotemp OFF
+[03/10/2023 19:20:00]
+  Супостат499 adjusted reactor settings: Temperature: 5297, Fission rate: 72, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:20:01]
+  Супостат499 adjusted reactor settings: Temperature: 4708, Fission rate: 72, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:20:02]
+  Супостат499 adjusted reactor settings: Temperature: 4664, Fission rate: 72, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:20:11]
+  Супостат499 adjusted reactor settings: Temperature: 4799, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:20:12]
+  Супостат499 adjusted reactor settings: Temperature: 4612, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:20:25]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 19:20:25]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 19:20:30]
+  Darwin Brady failed to repair Двигатель
+[03/10/2023 19:20:31]
+  Devin Maxwell failed to repair Двигатель
+[03/10/2023 19:20:35]
+  Darwin Brady started repairing Двигатель
+[03/10/2023 19:20:35]
+  Devin Maxwell started repairing Двигатель
+[03/10/2023 19:20:36]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 19:20:38]
+  Супостат499 adjusted reactor settings: Temperature: 4502, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:20:39]
+  Darwin Brady: Горелка, горелка для сварки... Куда ты пропала, когда так нужна?
+[03/10/2023 19:20:39]
+  Супостат499 adjusted reactor settings: Temperature: 4542, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:20:40]
+  Супостат499 adjusted reactor settings: Temperature: 4503, Fission rate: 71, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:20:41]
+  kynlan4ic: Пункт управления: здесь протечка!
+[03/10/2023 19:20:41]
+  Супостат499 adjusted reactor settings: Temperature: 4394, Fission rate: 71, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:20:42]
+  Супостат499 adjusted reactor settings: Temperature: 4582, Fission rate: 71, Turbine output: 68, Autotemp OFF
+[03/10/2023 19:20:43]
+  Супостат499 adjusted reactor settings: Temperature: 4373, Fission rate: 71, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:20:44]
+  Супостат499 adjusted reactor settings: Temperature: 3541, Fission rate: 70, Turbine output: 82, Autotemp ON
+[03/10/2023 19:20:45]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 19:20:45]
+  Devin Maxwell equipped Сварочный аппарат
+[03/10/2023 19:20:46]
+  Супостат499 equipped Сварочный аппарат
+[03/10/2023 19:20:46]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/10/2023 19:20:57]
+  Супостат499 adjusted reactor settings: Temperature: 3448, Fission rate: 65, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:00]
+  Супостат499 adjusted reactor settings: Temperature: 3570, Fission rate: 65, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:01]
+  Супостат499 adjusted reactor settings: Temperature: 3403, Fission rate: 65, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:21:02]
+  Супостат499 adjusted reactor settings: Temperature: 3152, Fission rate: 65, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:21:03]
+  Супостат499 adjusted reactor settings: Temperature: 3923, Fission rate: 65, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:21:04]
+  Супостат499 adjusted reactor settings: Temperature: 4638, Fission rate: 65, Turbine output: 51, Autotemp OFF
+[03/10/2023 19:21:05]
+  Супостат499 adjusted reactor settings: Temperature: 4883, Fission rate: 60, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:21:06]
+  Супостат499 adjusted reactor settings: Temperature: 4221, Fission rate: 56, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:21:07]
+  Супостат499 adjusted reactor settings: Temperature: 3789, Fission rate: 56, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:21:08]
+  Супостат499 adjusted reactor settings: Temperature: 2839, Fission rate: 56, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:09]
+  Супостат499 adjusted reactor settings: Temperature: 2827, Fission rate: 64, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:10]
+  Супостат499 adjusted reactor settings: Temperature: 3269, Fission rate: 64, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:21:11]
+  Супостат499 adjusted reactor settings: Temperature: 3199, Fission rate: 64, Turbine output: 87, Autotemp OFF
+[03/10/2023 19:21:12]
+  Супостат499 adjusted reactor settings: Temperature: 2199, Fission rate: 64, Turbine output: 90, Autotemp OFF
+[03/10/2023 19:21:13]
+  Супостат499 adjusted reactor settings: Temperature: 1581, Fission rate: 65, Turbine output: 91, Autotemp OFF
+[03/10/2023 19:21:14]
+  Супостат499 adjusted reactor settings: Temperature: 2195, Fission rate: 100, Turbine output: 91, Autotemp OFF
+[03/10/2023 19:21:15]
+  Супостат499 adjusted reactor settings: Temperature: 3195, Fission rate: 100, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:16]
+  Супостат499 adjusted reactor settings: Temperature: 4195, Fission rate: 100, Turbine output: 57, Autotemp OFF
+[03/10/2023 19:21:17]
+  Супостат499 adjusted reactor settings: Temperature: 5195, Fission rate: 100, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:21:18]
+  Супостат499 adjusted reactor settings: Temperature: 5162, Fission rate: 100, Turbine output: 79, Autotemp OFF
+[03/10/2023 19:21:19]
+  Супостат499 adjusted reactor settings: Temperature: 5157, Fission rate: 100, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:21:20]
+  Супостат499 adjusted reactor settings: Temperature: 5646, Fission rate: 76, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:21:21]
+  Супостат499 adjusted reactor settings: Temperature: 5259, Fission rate: 72, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:21:22]
+  Супостат499 adjusted reactor settings: Temperature: 5131, Fission rate: 71, Turbine output: 63, Autotemp OFF
+[03/10/2023 19:21:23]
+  Супостат499 adjusted reactor settings: Temperature: 4771, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:24]
+  Супостат499 adjusted reactor settings: Temperature: 4773, Fission rate: 71, Turbine output: 66, Autotemp OFF
+[03/10/2023 19:21:25]
+  Супостат499 adjusted reactor settings: Temperature: 4713, Fission rate: 71, Turbine output: 68, Autotemp OFF
+[03/10/2023 19:21:27]
+  Супостат499 adjusted reactor settings: Temperature: 4634, Fission rate: 71, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:21:28]
+  Супостат499 adjusted reactor settings: Temperature: 4361, Fission rate: 71, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:21:29]
+  Супостат499 adjusted reactor settings: Temperature: 4055, Fission rate: 71, Turbine output: 85, Autotemp OFF
+[03/10/2023 19:21:30]
+  Супостат499 adjusted reactor settings: Temperature: 3265, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:21:31]
+  Супостат499 adjusted reactor settings: Temperature: 4256, Fission rate: 71, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:21:32]
+  Супостат499 adjusted reactor settings: Temperature: 5256, Fission rate: 54, Turbine output: 49, Autotemp OFF
+[03/10/2023 19:21:34]
+  Супостат499 adjusted reactor settings: Temperature: 4236, Fission rate: 54, Turbine output: 54, Autotemp OFF
+[03/10/2023 19:21:35]
+  Супостат499 adjusted reactor settings: Temperature: 3390, Fission rate: 54, Turbine output: 90, Autotemp OFF
+[03/10/2023 19:21:36]
+  Супостат499 adjusted reactor settings: Temperature: 2390, Fission rate: 72, Turbine output: 90, Autotemp OFF
+[03/10/2023 19:21:37]
+  Супостат499 adjusted reactor settings: Temperature: 2459, Fission rate: 72, Turbine output: 57, Autotemp OFF
+[03/10/2023 19:21:38]
+  Супостат499 adjusted reactor settings: Temperature: 3459, Fission rate: 72, Turbine output: 47, Autotemp OFF
+[03/10/2023 19:21:39]
+  Супостат499 adjusted reactor settings: Temperature: 4576, Fission rate: 54, Turbine output: 47, Autotemp OFF
+[03/10/2023 19:21:40]
+  Супостат499 adjusted reactor settings: Temperature: 4810, Fission rate: 57, Turbine output: 47, Autotemp OFF
+[03/10/2023 19:21:41]
+  Супостат499 adjusted reactor settings: Temperature: 4606, Fission rate: 57, Turbine output: 47, Autotemp OFF
+[03/10/2023 19:21:42]
+  Супостат499 adjusted reactor settings: Temperature: 4539, Fission rate: 57, Turbine output: 48, Autotemp OFF
+[03/10/2023 19:21:43]
+  Супостат499 adjusted reactor settings: Temperature: 4475, Fission rate: 57, Turbine output: 48, Autotemp OFF
+[03/10/2023 19:21:44]
+  Супостат499 adjusted reactor settings: Temperature: 4305, Fission rate: 57, Turbine output: 51, Autotemp OFF
+[03/10/2023 19:21:45]
+  Супостат499 adjusted reactor settings: Temperature: 3561, Fission rate: 57, Turbine output: 62, Autotemp OFF
+[03/10/2023 19:21:46]
+  Супостат499 adjusted reactor settings: Temperature: 3086, Fission rate: 57, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:21:47]
+  Супостат499 adjusted reactor settings: Temperature: 3367, Fission rate: 57, Turbine output: 58, Autotemp OFF
+[03/10/2023 19:21:48]
+  Супостат499 adjusted reactor settings: Temperature: 3278, Fission rate: 57, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:21:48]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 19:21:48]
+  Darwin Brady equipped Отвертка
+[03/10/2023 19:21:50]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 19:21:51]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 19:21:54]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 19:21:54]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 19:21:55]
+  Супостат499 adjusted reactor settings: Temperature: 3145, Fission rate: 57, Turbine output: 54, Autotemp OFF
+[03/10/2023 19:21:56]
+  Супостат499 adjusted reactor settings: Temperature: 3873, Fission rate: 57, Turbine output: 42, Autotemp OFF
+[03/10/2023 19:21:57]
+  Супостат499 adjusted reactor settings: Temperature: 4720, Fission rate: 57, Turbine output: 42, Autotemp OFF
+[03/10/2023 19:21:58]
+  Супостат499 adjusted reactor settings: Temperature: 4838, Fission rate: 57, Turbine output: 43, Autotemp OFF
+[03/10/2023 19:21:59]
+  Супостат499 adjusted reactor settings: Temperature: 4894, Fission rate: 59, Turbine output: 45, Autotemp ON
+[03/10/2023 19:22:30]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 19:22:30]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 19:22:32]
+  Devin Maxwell started repairing Генератор кислорода
+[03/10/2023 19:22:33]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 19:22:36]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 19:22:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:22:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:06]
+  Супостат499 adjusted reactor settings: Temperature: 2882, Fission rate: 56, Turbine output: 63, Autotemp OFF
+[03/10/2023 19:23:07]
+  Супостат499 adjusted reactor settings: Temperature: 2795, Fission rate: 56, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:23:08]
+  Супостат499 adjusted reactor settings: Temperature: 3086, Fission rate: 56, Turbine output: 47, Autotemp OFF
+[03/10/2023 19:23:09]
+  Супостат499 adjusted reactor settings: Temperature: 3874, Fission rate: 56, Turbine output: 49, Autotemp OFF
+[03/10/2023 19:23:10]
+  Супостат499 adjusted reactor settings: Temperature: 3981, Fission rate: 56, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:23:11]
+  Супостат499 adjusted reactor settings: Temperature: 4231, Fission rate: 56, Turbine output: 45, Autotemp OFF
+[03/10/2023 19:23:12]
+  Супостат499 adjusted reactor settings: Temperature: 4032, Fission rate: 56, Turbine output: 54, Autotemp OFF
+[03/10/2023 19:23:13]
+  Супостат499 adjusted reactor settings: Temperature: 4107, Fission rate: 56, Turbine output: 43, Autotemp OFF
+[03/10/2023 19:23:14]
+  Супостат499 adjusted reactor settings: Temperature: 3957, Fission rate: 56, Turbine output: 52, Autotemp OFF
+[03/10/2023 19:23:15]
+  Супостат499 adjusted reactor settings: Temperature: 3872, Fission rate: 56, Turbine output: 53, Autotemp OFF
+[03/10/2023 19:23:16]
+  Супостат499 adjusted reactor settings: Temperature: 3837, Fission rate: 56, Turbine output: 51, Autotemp OFF
+[03/10/2023 19:23:18]
+  Супостат499 adjusted reactor settings: Temperature: 3884, Fission rate: 56, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:23:27]
+  Супостат499 adjusted reactor settings: Temperature: 3976, Fission rate: 56, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:23:31]
+  Супостат499 adjusted reactor settings: Temperature: 6025, Fission rate: 53, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:23:32]
+  Супостат499 adjusted reactor settings: Temperature: 5618, Fission rate: 48, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:23:33]
+  Супостат499 adjusted reactor settings: Temperature: 4891, Fission rate: 49, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:23:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:37]
+  Супостат499 adjusted reactor settings: Temperature: 4484, Fission rate: 49, Turbine output: 56, Autotemp OFF
+[03/10/2023 19:23:38]
+  Супостат499 adjusted reactor settings: Temperature: 3760, Fission rate: 49, Turbine output: 77, Autotemp OFF
+[03/10/2023 19:23:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:39]
+  Супостат499 adjusted reactor settings: Temperature: 3218, Fission rate: 49, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:23:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:40]
+  Супостат499 adjusted reactor settings: Temperature: 3217, Fission rate: 50, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:23:41]
+  Супостат499 adjusted reactor settings: Temperature: 3519, Fission rate: 56, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:23:42]
+  Супостат499 adjusted reactor settings: Temperature: 3823, Fission rate: 56, Turbine output: 60, Autotemp OFF
+[03/10/2023 19:23:43]
+  Супостат499 adjusted reactor settings: Temperature: 4257, Fission rate: 56, Turbine output: 52, Autotemp OFF
+[03/10/2023 19:23:44]
+  Супостат499 adjusted reactor settings: Temperature: 4411, Fission rate: 56, Turbine output: 52, Autotemp OFF
+[03/10/2023 19:23:45]
+  Супостат499 adjusted reactor settings: Temperature: 4141, Fission rate: 56, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:23:46]
+  Супостат499 adjusted reactor settings: Temperature: 3141, Fission rate: 56, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:23:47]
+  Супостат499 adjusted reactor settings: Temperature: 2207, Fission rate: 56, Turbine output: 86, Autotemp OFF
+[03/10/2023 19:23:48]
+  Супостат499 adjusted reactor settings: Temperature: 2306, Fission rate: 56, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:23:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:49]
+  Супостат499 adjusted reactor settings: Temperature: 2313, Fission rate: 56, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:23:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:50]
+  Супостат499 adjusted reactor settings: Temperature: 3115, Fission rate: 56, Turbine output: 56, Autotemp OFF
+[03/10/2023 19:23:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:23:51]
+  Супостат499 adjusted reactor settings: Temperature: 2944, Fission rate: 56, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:23:52]
+  Супостат499 adjusted reactor settings: Temperature: 2377, Fission rate: 56, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:23:53]
+  Супостат499 adjusted reactor settings: Temperature: 2173, Fission rate: 76, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:23:54]
+  Супостат499 adjusted reactor settings: Temperature: 3373, Fission rate: 76, Turbine output: 75, Autotemp OFF
+[03/10/2023 19:23:55]
+  Супостат499 adjusted reactor settings: Temperature: 4373, Fission rate: 76, Turbine output: 92, Autotemp OFF
+[03/10/2023 19:23:56]
+  Супостат499 adjusted reactor settings: Temperature: 3673, Fission rate: 76, Turbine output: 92, Autotemp OFF
+[03/10/2023 19:23:57]
+  Супостат499 adjusted reactor settings: Temperature: 3108, Fission rate: 76, Turbine output: 94, Autotemp OFF
+[03/10/2023 19:23:58]
+  Супостат499 adjusted reactor settings: Temperature: 4055, Fission rate: 76, Turbine output: 77, Autotemp OFF
+[03/10/2023 19:23:59]
+  Супостат499 adjusted reactor settings: Temperature: 4242, Fission rate: 76, Turbine output: 79, Autotemp OFF
+[03/10/2023 19:24:00]
+  Супостат499 adjusted reactor settings: Temperature: 4041, Fission rate: 76, Turbine output: 87, Autotemp OFF
+[03/10/2023 19:24:01]
+  Супостат499 adjusted reactor settings: Temperature: 4564, Fission rate: 76, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:24:02]
+  Супостат499 adjusted reactor settings: Temperature: 5550, Fission rate: 76, Turbine output: 40, Autotemp OFF
+[03/10/2023 19:24:03]
+  Devin Maxwell: Мне нужно подводное снаряжение!
+[03/10/2023 19:24:03]
+  Супостат499 adjusted reactor settings: Temperature: 6550, Fission rate: 59, Turbine output: 40, Autotemp OFF
+[03/10/2023 19:24:03]
+  Darwin Brady: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[03/10/2023 19:24:04]
+  Супостат499 adjusted reactor settings: Temperature: 5721, Fission rate: 59, Turbine output: 46, Autotemp OFF
+[03/10/2023 19:24:05]
+  Супостат499 adjusted reactor settings: Temperature: 5013, Fission rate: 59, Turbine output: 49, Autotemp OFF
+[03/10/2023 19:24:06]
+  Супостат499 adjusted reactor settings: Temperature: 4512, Fission rate: 59, Turbine output: 86, Autotemp OFF
+[03/10/2023 19:24:07]
+  Супостат499 adjusted reactor settings: Temperature: 3512, Fission rate: 76, Turbine output: 81, Autotemp OFF
+[03/10/2023 19:24:08]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[03/10/2023 19:24:08]
+  Супостат499 adjusted reactor settings: Temperature: 3510, Fission rate: 76, Turbine output: 81, Autotemp OFF
+[03/10/2023 19:24:09]
+  Супостат499 adjusted reactor settings: Temperature: 4339, Fission rate: 76, Turbine output: 66, Autotemp OFF
+[03/10/2023 19:24:10]
+  Супостат499 adjusted reactor settings: Temperature: 4306, Fission rate: 76, Turbine output: 98, Autotemp OFF
+[03/10/2023 19:24:10]
+  Devin Maxwell equipped Сварочный аппарат
+[03/10/2023 19:24:11]
+  Супостат499 adjusted reactor settings: Temperature: 3651, Fission rate: 76, Turbine output: 76, Autotemp OFF
+[03/10/2023 19:24:12]
+  Супостат499 adjusted reactor settings: Temperature: 4194, Fission rate: 76, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:13]
+  Супостат499 adjusted reactor settings: Temperature: 3700, Fission rate: 76, Turbine output: 84, Autotemp OFF
+[03/10/2023 19:24:14]
+  Супостат499 adjusted reactor settings: Temperature: 4165, Fission rate: 76, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:24:15]
+  Супостат499 adjusted reactor settings: Temperature: 4726, Fission rate: 76, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:16]
+  Супостат499 adjusted reactor settings: Temperature: 4923, Fission rate: 76, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:24:16]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/10/2023 19:24:17]
+  Супостат499 adjusted reactor settings: Temperature: 5090, Fission rate: 76, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:24:18]
+  Супостат499 adjusted reactor settings: Temperature: 5055, Fission rate: 76, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:19]
+  Супостат499 adjusted reactor settings: Temperature: 4482, Fission rate: 76, Turbine output: 83, Autotemp OFF
+[03/10/2023 19:24:20]
+  Супостат499 adjusted reactor settings: Temperature: 4180, Fission rate: 76, Turbine output: 94, Autotemp OFF
+[03/10/2023 19:24:21]
+  Супостат499 adjusted reactor settings: Temperature: 4349, Fission rate: 76, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:24:22]
+  Супостат499 adjusted reactor settings: Temperature: 4754, Fission rate: 76, Turbine output: 78, Autotemp OFF
+[03/10/2023 19:24:23]
+  Супостат499 adjusted reactor settings: Temperature: 4742, Fission rate: 76, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:24:24]
+  Супостат499 adjusted reactor settings: Temperature: 4923, Fission rate: 76, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:25]
+  Супостат499 adjusted reactor settings: Temperature: 5119, Fission rate: 76, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:24:30]
+  Супостат499 adjusted reactor settings: Temperature: 5330, Fission rate: 75, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:24:31]
+  Супостат499 adjusted reactor settings: Temperature: 5093, Fission rate: 70, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:24:32]
+  Супостат499 adjusted reactor settings: Temperature: 4588, Fission rate: 69, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:24:32]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 19:24:33]
+  Супостат499 adjusted reactor settings: Temperature: 4177, Fission rate: 69, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:24:33]
+  Darwin Brady equipped Отвертка
+[03/10/2023 19:24:34]
+  Супостат499 adjusted reactor settings: Temperature: 3742, Fission rate: 69, Turbine output: 76, Autotemp OFF
+[03/10/2023 19:24:34]
+  Devin Maxwell failed to repair Кабельная коробка
+[03/10/2023 19:24:35]
+  Супостат499 adjusted reactor settings: Temperature: 3549, Fission rate: 69, Turbine output: 68, Autotemp OFF
+[03/10/2023 19:24:35]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 19:24:36]
+  Супостат499 adjusted reactor settings: Temperature: 4028, Fission rate: 69, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:24:37]
+  Супостат499 adjusted reactor settings: Temperature: 4373, Fission rate: 72, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:24:38]
+  Супостат499 adjusted reactor settings: Temperature: 4147, Fission rate: 72, Turbine output: 68, Autotemp OFF
+[03/10/2023 19:24:39]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 19:24:39]
+  Супостат499 adjusted reactor settings: Temperature: 4157, Fission rate: 72, Turbine output: 87, Autotemp OFF
+[03/10/2023 19:24:40]
+  Супостат499 adjusted reactor settings: Temperature: 3622, Fission rate: 72, Turbine output: 79, Autotemp OFF
+[03/10/2023 19:24:40]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 19:24:40]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 19:24:41]
+  Супостат499 adjusted reactor settings: Temperature: 3777, Fission rate: 72, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:42]
+  Супостат499 adjusted reactor settings: Temperature: 3865, Fission rate: 72, Turbine output: 77, Autotemp OFF
+[03/10/2023 19:24:43]
+  Супостат499 adjusted reactor settings: Temperature: 4154, Fission rate: 72, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:44]
+  Супостат499 adjusted reactor settings: Temperature: 3936, Fission rate: 72, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:24:44]
+  Игрок igameCrog присоединился к серверу.
+[03/10/2023 19:24:44]
+  Saving client permissions
+[03/10/2023 19:24:45]
+  Супостат499 adjusted reactor settings: Temperature: 4345, Fission rate: 72, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:24:49]
+  Супостат499 adjusted reactor settings: Temperature: 4834, Fission rate: 71, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:24:50]
+  Супостат499 adjusted reactor settings: Temperature: 5101, Fission rate: 71, Turbine output: 87, Autotemp OFF
+[03/10/2023 19:24:51]
+  igameCrog покидает сервер.
+[03/10/2023 19:24:51]
+  Супостат499 adjusted reactor settings: Temperature: 4091, Fission rate: 71, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:24:52]
+  Супостат499 adjusted reactor settings: Temperature: 4427, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:24:53]
+  Супостат499 adjusted reactor settings: Temperature: 3917, Fission rate: 71, Turbine output: 65, Autotemp OFF
+[03/10/2023 19:24:54]
+  Супостат499 adjusted reactor settings: Temperature: 4250, Fission rate: 71, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:55]
+  Супостат499 adjusted reactor settings: Temperature: 4333, Fission rate: 71, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:24:56]
+  Супостат499 adjusted reactor settings: Temperature: 4416, Fission rate: 71, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:24:58]
+  Супостат499 adjusted reactor settings: Temperature: 4243, Fission rate: 71, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:24:59]
+  Супостат499 adjusted reactor settings: Temperature: 4325, Fission rate: 71, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:25:08]
+  Супостат499 adjusted reactor settings: Temperature: 4501, Fission rate: 71, Turbine output: 69, Autotemp ON
+[03/10/2023 19:25:15]
+  Супостат499 adjusted reactor settings: Temperature: 3421, Fission rate: 68, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:25:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:16]
+  Супостат499 adjusted reactor settings: Temperature: 3567, Fission rate: 68, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:25:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:17]
+  Супостат499 adjusted reactor settings: Temperature: 4500, Fission rate: 68, Turbine output: 61, Autotemp OFF
+[03/10/2023 19:25:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 19:25:18]
+  Супостат499 adjusted reactor settings: Temperature: 4700, Fission rate: 67, Turbine output: 61, Autotemp OFF
+[03/10/2023 19:25:19]
+  Супостат499 adjusted reactor settings: Temperature: 3923, Fission rate: 67, Turbine output: 86, Autotemp OFF
+[03/10/2023 19:25:20]
+  Супостат499 adjusted reactor settings: Temperature: 3738, Fission rate: 67, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:25:21]
+  Супостат499 adjusted reactor settings: Temperature: 3030, Fission rate: 67, Turbine output: 85, Autotemp OFF
+[03/10/2023 19:25:22]
+  Супостат499 adjusted reactor settings: Temperature: 3056, Fission rate: 84, Turbine output: 85, Autotemp OFF
+[03/10/2023 19:25:23]
+  Супостат499 adjusted reactor settings: Temperature: 3932, Fission rate: 84, Turbine output: 83, Autotemp OFF
+[03/10/2023 19:25:24]
+  Супостат499 adjusted reactor settings: Temperature: 4434, Fission rate: 84, Turbine output: 79, Autotemp OFF
+[03/10/2023 19:25:25]
+  Супостат499 adjusted reactor settings: Temperature: 5036, Fission rate: 84, Turbine output: 44, Autotemp OFF
+[03/10/2023 19:25:26]
+  Супостат499 adjusted reactor settings: Temperature: 6036, Fission rate: 67, Turbine output: 44, Autotemp OFF
+[03/10/2023 19:25:27]
+  Супостат499 adjusted reactor settings: Temperature: 6506, Fission rate: 67, Turbine output: 43, Autotemp OFF
+[03/10/2023 19:25:28]
+  Супостат499 adjusted reactor settings: Temperature: 5972, Fission rate: 67, Turbine output: 53, Autotemp OFF
+[03/10/2023 19:25:29]
+  Супостат499 adjusted reactor settings: Temperature: 5646, Fission rate: 67, Turbine output: 50, Autotemp OFF
+[03/10/2023 19:25:30]
+  Супостат499 adjusted reactor settings: Temperature: 5681, Fission rate: 67, Turbine output: 51, Autotemp OFF
+[03/10/2023 19:25:31]
+  Супостат499 adjusted reactor settings: Temperature: 5246, Fission rate: 67, Turbine output: 62, Autotemp OFF
+[03/10/2023 19:25:32]
+  Супостат499 adjusted reactor settings: Temperature: 4520, Fission rate: 67, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:25:33]
+  Супостат499 adjusted reactor settings: Temperature: 4241, Fission rate: 67, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:25:34]
+  Супостат499 adjusted reactor settings: Temperature: 3709, Fission rate: 67, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:25:35]
+  Супостат499 adjusted reactor settings: Temperature: 3831, Fission rate: 69, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:25:36]
+  Супостат499 adjusted reactor settings: Temperature: 3700, Fission rate: 70, Turbine output: 85, Autotemp OFF
+[03/10/2023 19:25:37]
+  Супостат499 adjusted reactor settings: Temperature: 3291, Fission rate: 70, Turbine output: 98, Autotemp OFF
+[03/10/2023 19:25:38]
+  Супостат499 adjusted reactor settings: Temperature: 3714, Fission rate: 70, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:25:39]
+  Супостат499 adjusted reactor settings: Temperature: 3859, Fission rate: 70, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:25:40]
+  Супостат499 adjusted reactor settings: Temperature: 3925, Fission rate: 70, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:25:41]
+  Супостат499 adjusted reactor settings: Temperature: 3911, Fission rate: 70, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:25:42]
+  Супостат499 adjusted reactor settings: Temperature: 3091, Fission rate: 70, Turbine output: 93, Autotemp OFF
+[03/10/2023 19:25:43]
+  Супостат499 adjusted reactor settings: Temperature: 2694, Fission rate: 70, Turbine output: 87, Autotemp OFF
+[03/10/2023 19:25:44]
+  Супостат499 adjusted reactor settings: Temperature: 2827, Fission rate: 70, Turbine output: 94, Autotemp OFF
+[03/10/2023 19:25:45]
+  Супостат499 adjusted reactor settings: Temperature: 2695, Fission rate: 70, Turbine output: 84, Autotemp OFF
+[03/10/2023 19:25:46]
+  Супостат499 adjusted reactor settings: Temperature: 3018, Fission rate: 70, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:25:47]
+  Супостат499 adjusted reactor settings: Temperature: 3062, Fission rate: 70, Turbine output: 83, Autotemp OFF
+[03/10/2023 19:25:48]
+  Супостат499 adjusted reactor settings: Temperature: 3097, Fission rate: 70, Turbine output: 83, Autotemp OFF
+[03/10/2023 19:25:49]
+  Супостат499 adjusted reactor settings: Temperature: 3106, Fission rate: 70, Turbine output: 81, Autotemp OFF
+[03/10/2023 19:25:50]
+  Супостат499 adjusted reactor settings: Temperature: 3092, Fission rate: 70, Turbine output: 76, Autotemp OFF
+[03/10/2023 19:25:51]
+  Супостат499 adjusted reactor settings: Temperature: 3442, Fission rate: 70, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:25:52]
+  Супостат499 adjusted reactor settings: Temperature: 4087, Fission rate: 70, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:25:53]
+  Супостат499 adjusted reactor settings: Temperature: 4093, Fission rate: 70, Turbine output: 68, Autotemp OFF
+[03/10/2023 19:25:54]
+  Супостат499 adjusted reactor settings: Temperature: 4010, Fission rate: 70, Turbine output: 79, Autotemp OFF
+[03/10/2023 19:25:54]
+  Darwin Brady equipped Отвертка
+[03/10/2023 19:25:55]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 19:25:55]
+  Супостат499 adjusted reactor settings: Temperature: 3128, Fission rate: 70, Turbine output: 90, Autotemp OFF
+[03/10/2023 19:25:55]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 19:25:56]
+  Супостат499 adjusted reactor settings: Temperature: 2515, Fission rate: 70, Turbine output: 90, Autotemp OFF
+[03/10/2023 19:25:56]
+  Darwin Brady failed to repair Кабельная коробка
+[03/10/2023 19:25:57]
+  Супостат499 adjusted reactor settings: Temperature: 2322, Fission rate: 69, Turbine output: 88, Autotemp OFF
+[03/10/2023 19:25:58]
+  Супостат499 adjusted reactor settings: Temperature: 2517, Fission rate: 69, Turbine output: 68, Autotemp OFF
+[03/10/2023 19:25:58]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 19:25:59]
+  Супостат499 adjusted reactor settings: Temperature: 3271, Fission rate: 69, Turbine output: 78, Autotemp OFF
+[03/10/2023 19:26:00]
+  Супостат499 adjusted reactor settings: Temperature: 4130, Fission rate: 69, Turbine output: 64, Autotemp OFF
+[03/10/2023 19:26:01]
+  Супостат499 adjusted reactor settings: Temperature: 4221, Fission rate: 69, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:26:02]
+  Супостат499 adjusted reactor settings: Temperature: 4197, Fission rate: 69, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:26:03]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 19:26:08]
+  Супостат499 adjusted reactor settings: Temperature: 4188, Fission rate: 69, Turbine output: 69, Autotemp OFF
+[03/10/2023 19:26:09]
+  Супостат499 adjusted reactor settings: Temperature: 4595, Fission rate: 69, Turbine output: 61, Autotemp OFF
+[03/10/2023 19:26:09]
+  Devin Maxwell started repairing Навигационный терминал
+[03/10/2023 19:26:11]
+  Супостат499 adjusted reactor settings: Temperature: 4991, Fission rate: 69, Turbine output: 61, Autotemp OFF
+[03/10/2023 19:26:12]
+  Супостат499 adjusted reactor settings: Temperature: 4756, Fission rate: 65, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:26:13]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 19:26:13]
+  Супостат499 adjusted reactor settings: Temperature: 3865, Fission rate: 65, Turbine output: 76, Autotemp OFF
+[03/10/2023 19:26:13]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 19:26:14]
+  Супостат499 adjusted reactor settings: Temperature: 3542, Fission rate: 65, Turbine output: 67, Autotemp OFF
+[03/10/2023 19:26:15]
+  Супостат499 adjusted reactor settings: Temperature: 2990, Fission rate: 65, Turbine output: 89, Autotemp OFF
+[03/10/2023 19:26:16]
+  Супостат499 adjusted reactor settings: Temperature: 1990, Fission rate: 65, Turbine output: 94, Autotemp OFF
+[03/10/2023 19:26:17]
+  Супостат499 adjusted reactor settings: Temperature: 1453, Fission rate: 65, Turbine output: 89, Autotemp OFF
+[03/10/2023 19:26:18]
+  Супостат499 adjusted reactor settings: Temperature: 2398, Fission rate: 83, Turbine output: 89, Autotemp OFF
+[03/10/2023 19:26:19]
+  Супостат499 adjusted reactor settings: Temperature: 3398, Fission rate: 82, Turbine output: 84, Autotemp OFF
+[03/10/2023 19:26:20]
+  Супостат499 adjusted reactor settings: Temperature: 4338, Fission rate: 82, Turbine output: 73, Autotemp OFF
+[03/10/2023 19:26:21]
+  Супостат499 adjusted reactor settings: Temperature: 5305, Fission rate: 82, Turbine output: 56, Autotemp OFF
+[03/10/2023 19:26:22]
+  Супостат499 adjusted reactor settings: Temperature: 5439, Fission rate: 82, Turbine output: 84, Autotemp OFF
+[03/10/2023 19:26:23]
+  Супостат499 adjusted reactor settings: Temperature: 5163, Fission rate: 82, Turbine output: 70, Autotemp OFF
+[03/10/2023 19:26:24]
+  Супостат499 adjusted reactor settings: Temperature: 5527, Fission rate: 82, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:25]
+  Супостат499 adjusted reactor settings: Temperature: 5603, Fission rate: 82, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:26]
+  Супостат499 adjusted reactor settings: Temperature: 5585, Fission rate: 78, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:27]
+  Супостат499 adjusted reactor settings: Temperature: 5461, Fission rate: 77, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:28]
+  Супостат499 adjusted reactor settings: Temperature: 5126, Fission rate: 72, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:29]
+  Супостат499 adjusted reactor settings: Temperature: 4309, Fission rate: 63, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:30]
+  Супостат499 adjusted reactor settings: Temperature: 4056, Fission rate: 71, Turbine output: 71, Autotemp OFF
+[03/10/2023 19:26:30]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 19:26:31]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 19:26:31]
+  Супостат499 adjusted reactor settings: Temperature: 3949, Fission rate: 71, Turbine output: 72, Autotemp OFF
+[03/10/2023 19:26:32]
+  Супостат499 adjusted reactor settings: Temperature: 3861, Fission rate: 71, Turbine output: 78, Autotemp OFF
+[03/10/2023 19:26:33]
+  Супостат499 adjusted reactor settings: Temperature: 3397, Fission rate: 71, Turbine output: 83, Autotemp OFF
+[03/10/2023 19:26:34]
+  Darwin Brady failed to repair Насос
+[03/10/2023 19:26:34]
+  Супостат499 adjusted reactor settings: Temperature: 3423, Fission rate: 71, Turbine output: 74, Autotemp OFF
+[03/10/2023 19:26:35]
+  Супостат499 adjusted reactor settings: Temperature: 3302, Fission rate: 71, Turbine output: 87, Autotemp OFF
+[03/10/2023 19:26:36]
+  Супостат499 adjusted reactor settings: Temperature: 3045, Fission rate: 71, Turbine output: 84, Autotemp OFF
+[03/10/2023 19:26:37]
+  kynlan4ic docked Dugong to Станция Serac
+[03/10/2023 19:26:37]
+  kynlan4ic has gained 53 experience (1621 -> 1674)
+[03/10/2023 19:26:37]
+  Супостат499 has gained 53 experience (990 -> 1043)
+[03/10/2023 19:26:37]
+  Darwin Brady has gained 53 experience (1621 -> 1674)
+[03/10/2023 19:26:37]
+  Devin Maxwell has gained 60 experience (990 -> 1050)
+[03/10/2023 19:26:37]
+  Arron Gregory has gained 56 experience (1231 -> 1287)
+[03/10/2023 19:26:37]
+  kynlan4ic has gained 23 experience (1674 -> 1697)
+[03/10/2023 19:26:37]
+  Супостат499 has gained 23 experience (1043 -> 1066)
+[03/10/2023 19:26:37]
+  Darwin Brady has gained 23 experience (1674 -> 1697)
+[03/10/2023 19:26:37]
+  Devin Maxwell has gained 26 experience (1050 -> 1076)
+[03/10/2023 19:26:37]
+  Arron Gregory has gained 24 experience (1287 -> 1311)
+[03/10/2023 19:26:37]
+  Ending the round...

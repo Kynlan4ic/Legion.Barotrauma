@@ -1,0 +1,169 @@
+﻿[02/18/2023 14:08:02]
+  Starting the server...
+[02/18/2023 14:08:02]
+  Using SteamP2P networking.
+[02/18/2023 14:08:02]
+  Server started
+[02/18/2023 14:08:02]
+  Игрок kynlan4ic присоединился к серверу.
+[02/18/2023 14:08:02]
+  Saving client permissions
+[02/18/2023 14:08:02]
+  Saving client permissions
+[02/18/2023 14:08:02]
+  Gamemode changed to Кампания
+[02/18/2023 14:08:19]
+  Игрок vlad32 присоединился к серверу.
+[02/18/2023 14:08:19]
+  Saving client permissions
+[02/18/2023 14:08:31]
+  vlad32 is ready to start the game.
+[02/18/2023 14:09:16]
+  Starting a new round...
+[02/18/2023 14:09:18]
+  vlad32 is not ready to start the game.
+[02/18/2023 14:09:25]
+  Game mode: Кампания
+[02/18/2023 14:09:25]
+  Submarine: Barsuk
+[02/18/2023 14:09:25]
+  Level seed: Argiope Linea
+[02/18/2023 14:09:25]
+  Doria Mooney equipped Гаечный ключ
+[02/18/2023 14:09:25]
+  Doria Mooney unequipped Гаечный ключ
+[02/18/2023 14:09:25]
+  Doria Mooney equipped Отвертка
+[02/18/2023 14:09:26]
+  Antony Gay equipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Antony Gay unequipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Antony Gay equipped Отвертка
+[02/18/2023 14:09:26]
+  Bill Beltran equipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Bill Beltran unequipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Bill Beltran equipped Отвертка
+[02/18/2023 14:09:26]
+  Barbra Hefner equipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Barbra Hefner unequipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Barbra Hefner equipped Отвертка
+[02/18/2023 14:09:26]
+  Barbra Hefner unequipped Отвертка
+[02/18/2023 14:09:26]
+  Barbra Hefner equipped Лом
+[02/18/2023 14:09:26]
+  Creola Gould equipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Creola Gould unequipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Creola Gould equipped Отвертка
+[02/18/2023 14:09:26]
+  Bertram Nicolosi equipped Отвертка
+[02/18/2023 14:09:26]
+  Jan Craig equipped Отвертка
+[02/18/2023 14:09:26]
+  Bill Linares equipped Гаечный ключ
+[02/18/2023 14:09:26]
+  Round started.
+[02/18/2023 14:09:27]
+  Erica Blakley: Приветствую. Надеюсь, проблем от вас не будет.
+[02/18/2023 14:09:27]
+  Jan Craig unequipped Отвертка
+[02/18/2023 14:09:27]
+  Bertram Nicolosi unequipped Отвертка
+[02/18/2023 14:09:27]
+  Barbra Hefner unequipped Лом
+[02/18/2023 14:09:27]
+  Doria Mooney unequipped Отвертка
+[02/18/2023 14:09:28]
+  Bill Linares unequipped Гаечный ключ
+[02/18/2023 14:09:36]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:09:41]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:10:17]
+  Arron Hurley: Поскорей бы вернуться домой и откупорить бутылочку «Старого Кадма».
+[02/18/2023 14:10:22]
+  Bill Beltran: Сейчас не время горевать по дому. Впереди у нас еще долгий путь.
+[02/18/2023 14:10:31]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:11:48]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 14:11:54]
+  Bill Beltran unequipped Отвертка
+[02/18/2023 14:12:03]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 14:12:07]
+  vlad32 dropped Клоунский костюм
+[02/18/2023 14:12:11]
+  vlad32 picked up Клоунский костюм
+[02/18/2023 14:12:23]
+  vlad32 dropped Клоунский костюм
+[02/18/2023 14:12:24]
+  vlad32 picked up Клоунский костюм
+[02/18/2023 14:12:37]
+  kynlan4ic purchased 3 item(s) for 558 кр.
+ - Аккумулятор x1
+ - Сварочный аппарат x2
+ - Ториевый топливный стержень x1
+[02/18/2023 14:14:12]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 14:14:14]
+  vlad32 equipped Плазменный резак
+[02/18/2023 14:14:42]
+  kynlan4ic: Richard Hajek, уничтожь врагов!
+[02/18/2023 14:14:43]
+  Richard Hajek: Слушаюсь!
+[02/18/2023 14:14:45]
+  kynlan4ic: Richard Hajek, спасибо за устранение всех пришельцев!
+[02/18/2023 14:14:49]
+  kynlan4ic: vlad32, окажи первую помощь всем, кому потребуется!
+[02/18/2023 14:14:50]
+  kynlan4ic: vlad32, спасибо за медпомощь!
+[02/18/2023 14:14:58]
+  kynlan4ic: Elliana Marquez, помоги тем, кто попал в беду!
+[02/18/2023 14:14:59]
+  Elliana Marquez: Принято.
+[02/18/2023 14:15:18]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 14:15:19]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 14:15:20]
+  vlad32 equipped Подводный скутер
+[02/18/2023 14:15:20]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 14:15:23]
+  vlad32 equipped Отвертка
+[02/18/2023 14:15:26]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:29]
+  kynlan4ic placed Инопланетная кровь in Аптечка (ID: 3)
+[02/18/2023 14:15:35]
+  vlad32 dropped Велосипедный гудок
+[02/18/2023 14:15:36]
+  vlad32 placed Велосипедный гудок in Металлический ящик (ID: 852)
+[02/18/2023 14:15:52]
+  Elliana Marquez: vlad32 получает первую помощь здесь: верхняя задняя часть!
+[02/18/2023 14:15:52]
+  Elliana Marquez: vlad32 чувствует себя хорошо!
+[02/18/2023 14:16:16]
+  kynlan4ic purchased 2 item(s) for 50 кр.
+ - Гаечный ключ x2
+ - Отвертка x2
+[02/18/2023 14:17:26]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 14:17:26]
+  Ending the round...

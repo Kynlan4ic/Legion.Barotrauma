@@ -1,0 +1,1600 @@
+﻿[10/20/2022 15:52:31]
+  Saving client permissions
+[10/20/2022 15:52:31]
+  Saving client permissions
+[10/20/2022 15:54:44]
+  Игрок iliya_kind присоединился к серверу.
+[10/20/2022 15:54:44]
+  Saving client permissions
+[10/20/2022 15:56:19]
+  iliya_kind is ready to start the game.
+[10/20/2022 15:56:21]
+  kynlan4ic changed PlayStyle to Casual
+[10/20/2022 15:56:21]
+  kynlan4ic changed LosMode to Transparent
+[10/20/2022 15:56:21]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/20/2022 15:56:21]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/20/2022 15:56:24]
+  Client "kynlan4ic" started the round.
+[10/20/2022 15:56:24]
+  Starting a new round...
+[10/20/2022 15:56:37]
+  Game mode: Песочница
+[10/20/2022 15:56:37]
+  Submarine: Dugong
+[10/20/2022 15:56:37]
+  Level seed: FE36bCdR
+[10/20/2022 15:56:37]
+  Round started.
+[10/20/2022 15:56:37]
+  Macey Sexton: Мне холодно.
+[10/20/2022 15:56:43]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 15:56:49]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 15:56:52]
+  iliya_kind equipped Нож ныряльщика
+[10/20/2022 15:57:11]
+  iliya_kind picked up Подводная маска
+[10/20/2022 15:57:17]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 15:57:23]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 409)
+[10/20/2022 15:58:04]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 15:58:06]
+  iliya_kind picked up Полицейский шлем
+[10/20/2022 15:58:06]
+  iliya_kind placed Полицейский шлем in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:09]
+  iliya_kind picked up Полицейский шлем
+[10/20/2022 15:58:12]
+  iliya_kind picked up Бронежилет
+[10/20/2022 15:58:16]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:16]
+  iliya_kind removed Пистолет-пулемет from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:16]
+  iliya_kind picked up Пистолет-пулемет
+[10/20/2022 15:58:19]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:19]
+  iliya_kind removed Дробовик from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:19]
+  iliya_kind picked up Дробовик
+[10/20/2022 15:58:26]
+  iliya_kind placed Подводная маска in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:26]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 15:58:26]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 15:58:28]
+  iliya_kind picked up Подводная маска
+[10/20/2022 15:59:05]
+  iliya_kind equipped Дробовик
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/20/2022 15:59:23]
+  iliya_kind picked up Гарпун
+[10/20/2022 15:59:23]
+  iliya_kind picked up Гарпун
+[10/20/2022 15:59:23]
+  iliya_kind picked up Гарпун
+[10/20/2022 15:59:23]
+  iliya_kind picked up Гарпун
+[10/20/2022 15:59:23]
+  iliya_kind picked up Гарпун
+[10/20/2022 15:59:24]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 15:59:24]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 15:59:24]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 15:59:24]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 15:59:24]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 15:59:24]
+  iliya_kind picked up Патрон для дробовика
+[10/20/2022 15:59:24]
+  iliya_kind picked up Магазин для ПП
+[10/20/2022 16:00:53]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:00:53]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:02:06]
+  iliya_kind dropped Бронежилет
+[10/20/2022 16:03:34]
+  iliya_kind equipped Пистолет-пулемет
+[10/20/2022 16:03:35]
+  iliya_kind equipped Подводное ружье
+[10/20/2022 16:03:46]
+  iliya_kind picked up Револьвер
+[10/20/2022 16:03:59]
+  iliya_kind placed Полицейский шлем in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:03:59]
+  iliya_kind removed Шлем стрелка from Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:03:59]
+  iliya_kind picked up Шлем стрелка
+[10/20/2022 16:04:13]
+  iliya_kind equipped Револьвер
+[10/20/2022 16:04:48]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:06:31]
+  kynlan4ic attacked by iliya_kind. Рваная рана: 4 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 16:06:31]
+  iliya_kind used Нож ныряльщика on kynlan4ic.
+[10/20/2022 16:06:52]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 16:06:53]
+  kynlan4ic picked up Водолазный скафандр
+[10/20/2022 16:07:00]
+  iliya_kind equipped Водолазный скафандр
+[10/20/2022 16:07:20]
+  Roberta Simpson: Иногда мне кажется, что мы просто марионетки на ниточках.
+[10/20/2022 16:07:25]
+  Roberta Simpson: Пляшем и умираем на потеху неведомой сущности, притаившейся где-то за занавесом.
+[10/20/2022 16:07:58]
+  Игрок Супостат присоединился к серверу.
+[10/20/2022 16:07:58]
+  Saving client permissions
+[10/20/2022 16:08:17]
+  Freeman Stalvey equipped Отвертка
+[10/20/2022 16:08:24]
+  Freeman Stalvey started repairing Монитор состояния
+[10/20/2022 16:08:36]
+  Freeman Stalvey unequipped Отвертка
+[10/20/2022 16:09:05]
+  kynlan4ic equipped Водолазный скафандр
+[10/20/2022 16:09:22]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 407)
+[10/20/2022 16:09:35]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[10/20/2022 16:09:45]
+  Dispatching the respawn shuttle.
+[10/20/2022 16:09:45]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/20/2022 16:09:48]
+  Disconnecting client Супостат. Syncing the client with the server took too long.
+[10/20/2022 16:09:48]
+  Игрок Супостат отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[10/20/2022 16:10:10]
+  Игрок Супостат присоединился к серверу.
+[10/20/2022 16:10:10]
+  Saving client permissions
+[10/20/2022 16:10:14]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 16:10:48]
+  kynlan4ic docked Dugong to Hemulen
+[10/20/2022 16:11:13]
+  kynlan4ic equipped Револьвер
+[10/20/2022 16:11:43]
+  Супостат picked up Подводная маска
+[10/20/2022 16:11:49]
+  Супостат picked up Плазменный резак
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:53]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:11:54]
+  kynlan4ic closed Настраиваемый люк
+[10/20/2022 16:11:55]
+  kynlan4ic undocked Dugong from Hemulen
+[10/20/2022 16:12:01]
+  Супостат picked up Подводный скутер
+[10/20/2022 16:12:04]
+  Neal Heuer: Загружаю в реактор дополнительное топливо!
+[10/20/2022 16:12:04]
+  Freeman Stalvey: Загружаю в реактор дополнительное топливо!
+[10/20/2022 16:12:05]
+  Neal Heuer equipped Топливный стержень
+[10/20/2022 16:12:05]
+  Neal Heuer unequipped Топливный стержень
+[10/20/2022 16:12:07]
+  Freeman Stalvey equipped Отвертка
+[10/20/2022 16:12:08]
+  Roberta Simpson equipped Топливный стержень
+[10/20/2022 16:12:09]
+  Freeman Stalvey started repairing Кабельная коробка
+[10/20/2022 16:12:10]
+  kynlan4ic: Freeman Stalvey, заряди реактор!
+[10/20/2022 16:12:11]
+  Freeman Stalvey: Само собой!
+[10/20/2022 16:12:12]
+  kynlan4ic: Macey Sexton, займись поврежденными устройствами!
+[10/20/2022 16:12:12]
+  Freeman Stalvey unequipped Отвертка
+[10/20/2022 16:12:13]
+  Macey Sexton: Слушаюсь!
+[10/20/2022 16:12:14]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:12:16]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:12:22]
+  kynlan4ic docked Dugong to Hemulen
+[10/20/2022 16:12:29]
+  Macey Sexton failed to repair Кабельная коробка
+[10/20/2022 16:12:33]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:12:33]
+  Macey Sexton equipped Гаечный ключ
+[10/20/2022 16:12:37]
+  Macey Sexton started repairing Генератор кислорода
+[10/20/2022 16:12:44]
+  Macey Sexton unequipped Гаечный ключ
+[10/20/2022 16:12:44]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:12:45]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:12:47]
+  kynlan4ic closed Настраиваемый люк
+[10/20/2022 16:12:47]
+  kynlan4ic undocked Dugong from Hemulen
+[10/20/2022 16:12:52]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:12:58]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:13:04]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:13:10]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:13:19]
+  Macey Sexton started repairing Навигационный терминал
+[10/20/2022 16:13:35]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:13:41]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:13:54]
+  Супостат opened Настраиваемая дверь с окном
+[10/20/2022 16:13:56]
+  Супостат closed Настраиваемая дверь с окном
+[10/20/2022 16:14:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:02]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:14:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:04]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:14:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:04]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:14:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:05]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:14:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:06]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:11]
+  Inner wall breached by kynlan4ic
+[10/20/2022 16:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:14:36]
+  Супостат picked up Одноразовый водолазный скафандр
+[10/20/2022 16:14:45]
+  Супостат opened Настраиваемая дверь с окном
+[10/20/2022 16:14:49]
+  The respawn shuttle is leaving.
+[10/20/2022 16:14:50]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 16:14:59]
+  Супостат equipped Подводный скутер
+[10/20/2022 16:15:04]
+  Игрок igameCrog присоединился к серверу.
+[10/20/2022 16:15:04]
+  Saving client permissions
+[10/20/2022 16:15:20]
+  The respawn shuttle has left.
+[10/20/2022 16:15:24]
+  Супостат equipped Плазменный резак
+[10/20/2022 16:15:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:15:59]
+  Dispatching the respawn shuttle.
+[10/20/2022 16:15:59]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 16:16:01]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 16:16:05]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:16:06]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:16:09]
+  igameCrog removed Одноразовый водолазный скафандр from Шкаф для подводного снаряжения (ID: 3603)
+[10/20/2022 16:16:13]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 16:16:19]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:16:19]
+  Macey Sexton equipped Гаечный ключ
+[10/20/2022 16:16:28]
+  Macey Sexton started repairing Двигатель
+[10/20/2022 16:16:31]
+  Macey Sexton unequipped Гаечный ключ
+[10/20/2022 16:16:31]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:16:34]
+  Macey Sexton started repairing Монитор состояния
+[10/20/2022 16:16:40]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:17:02]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 407)
+[10/20/2022 16:17:07]
+  Супостат set the pumping speed of Малый насос to -90 %
+[10/20/2022 16:17:08]
+  Супостат set the pumping speed of Малый насос to -70 %
+[10/20/2022 16:17:08]
+  Супостат set the pumping speed of Малый насос to -40 %
+[10/20/2022 16:17:09]
+  Супостат set the pumping speed of Малый насос to -70 %
+[10/20/2022 16:17:09]
+  Супостат set the pumping speed of Малый насос to -90 %
+[10/20/2022 16:17:09]
+  Супостат set the pumping speed of Малый насос to -100 %
+[10/20/2022 16:17:10]
+  Супостат set the pumping speed of Малый насос to -90 %
+[10/20/2022 16:17:10]
+  Супостат set the pumping speed of Малый насос to -80 %
+[10/20/2022 16:17:10]
+  Супостат set the pumping speed of Малый насос to -90 %
+[10/20/2022 16:17:10]
+  Neal Heuer: Вы когда-нибудь чувствовали себя... плоским?
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -80 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -70 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -60 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -40 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -30 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -20 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to -10 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 0 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 10 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 20 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 40 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 70 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 80 %
+[10/20/2022 16:17:11]
+  Супостат set the pumping speed of Малый насос to 90 %
+[10/20/2022 16:17:12]
+  Супостат set the pumping speed of Малый насос to 100 %
+[10/20/2022 16:17:13]
+  Супостат set the pumping speed of Малый насос to 90 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 100 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 80 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 70 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 60 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 40 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 30 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 20 %
+[10/20/2022 16:17:14]
+  Супостат set the pumping speed of Малый насос to 10 %
+[10/20/2022 16:17:15]
+  Супостат set the pumping speed of Малый насос to 0 %
+[10/20/2022 16:17:20]
+  Супостат set the pumping speed of Малый насос to 10 %
+[10/20/2022 16:17:20]
+  Супостат set the pumping speed of Малый насос to 40 %
+[10/20/2022 16:17:20]
+  Супостат set the pumping speed of Малый насос to 60 %
+[10/20/2022 16:17:20]
+  Супостат set the pumping speed of Малый насос to 100 %
+[10/20/2022 16:17:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:28]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:29]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:29]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:30]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:30]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:30]
+  igameCrog picked up Ручной сонар
+[10/20/2022 16:17:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:31]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:36]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:36]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:37]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:37]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:17:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:17:43]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:17:47]
+  Macey Sexton failed to repair Ядерный реактор
+[10/20/2022 16:17:51]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:17:53]
+  igameCrog picked up Закаленный лом
+[10/20/2022 16:17:55]
+  igameCrog picked up Подводная маска
+[10/20/2022 16:17:57]
+  igameCrog picked up Плазменный резак
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:00]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:18:01]
+  igameCrog picked up Аккумулятор
+[10/20/2022 16:18:03]
+  igameCrog picked up Подводный скутер
+[10/20/2022 16:18:04]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:18:04]
+  Macey Sexton failed to repair Ядерный реактор
+[10/20/2022 16:18:11]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:18:11]
+  Супостат equipped Кислородный баллон
+[10/20/2022 16:18:12]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 16:18:20]
+  Macey Sexton failed to repair Кабельная коробка
+[10/20/2022 16:18:20]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:18:30]
+  Супостат set the pumping speed of Насос to 10 %
+[10/20/2022 16:18:30]
+  Супостат set the pumping speed of Насос to 50 %
+[10/20/2022 16:18:30]
+  Супостат set the pumping speed of Насос to 100 %
+[10/20/2022 16:18:39]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:18:57]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:19:05]
+  Супостат dropped Одноразовый водолазный скафандр
+[10/20/2022 16:19:08]
+  Macey Sexton failed to repair Кабельная коробка
+[10/20/2022 16:19:12]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:19:16]
+  Супостат equipped Отвертка
+[10/20/2022 16:19:17]
+  Супостат equipped Гаечный ключ
+[10/20/2022 16:19:21]
+  iliya_kind placed Патрон для дробовика in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:19:21]
+  iliya_kind placed Патрон для дробовика in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:19:21]
+  iliya_kind placed Патрон для дробовика in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:19:21]
+  iliya_kind placed Патрон для дробовика in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:19:21]
+  iliya_kind placed Патрон для дробовика in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:19:21]
+  iliya_kind placed Патрон для дробовика in Защищенный стальной шкаф (ID: 304)
+[10/20/2022 16:19:23]
+  iliya_kind picked up Электрошокер
+[10/20/2022 16:19:23]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 16:19:26]
+  Macey Sexton started repairing Суперконденсатор
+[10/20/2022 16:19:27]
+  igameCrog dropped Закаленный лом
+[10/20/2022 16:19:31]
+  Macey Sexton started repairing Суперконденсатор
+[10/20/2022 16:19:35]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:19:35]
+  Macey Sexton equipped Гаечный ключ
+[10/20/2022 16:19:39]
+  Macey Sexton started repairing Насос
+[10/20/2022 16:19:41]
+  The respawn shuttle is leaving.
+[10/20/2022 16:19:43]
+  Macey Sexton unequipped Гаечный ключ
+[10/20/2022 16:19:45]
+  Супостат set the recharge speed of Батарея to 60 %
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind removed Фонарик from Средний стальной шкаф с окном (ID: 131)
+[10/20/2022 16:19:46]
+  iliya_kind picked up Фонарик
+[10/20/2022 16:19:48]
+  Супостат set the recharge speed of Батарея to 70 %
+[10/20/2022 16:19:48]
+  Супостат set the recharge speed of Батарея to 80 %
+[10/20/2022 16:19:48]
+  Супостат set the recharge speed of Батарея to 90 %
+[10/20/2022 16:19:48]
+  Супостат set the recharge speed of Батарея to 100 %
+[10/20/2022 16:19:49]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:19:53]
+  Macey Sexton started repairing Ядерный реактор
+[10/20/2022 16:19:55]
+  iliya_kind equipped Фонарик
+[10/20/2022 16:20:01]
+  Macey Sexton failed to repair Кабельная коробка
+[10/20/2022 16:20:03]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:20:03]
+  Супостат dropped Кислородный баллон
+[10/20/2022 16:20:03]
+  Супостат placed Кислородный баллон in Подводная маска (ID: 3988)
+[10/20/2022 16:20:06]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:20:13]
+  igameCrog has died (Cause of death: Unknown)
+[10/20/2022 16:20:13]
+  The respawn shuttle has left.
+[10/20/2022 16:20:19]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:19]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:19]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:20]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:20]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:20]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:20]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:23]
+  Dispatching the respawn shuttle.
+[10/20/2022 16:20:23]
+  Respawning igameCrog (STEAM_1:0:584229539) as Офицер службы безопасности
+[10/20/2022 16:20:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:24]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:24]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:24]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:25]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:25]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 16:20:25]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:27]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:27]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:28]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:28]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:28]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:28]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:29]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:29]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:29]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:29]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:31]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:31]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:32]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:32]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:33]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:33]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:33]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:34]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:34]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:34]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:35]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:35]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:35]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:36]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:36]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:36]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:36]
+  Outer wall breached by Moloch
+[10/20/2022 16:20:36]
+  Outer wall breached by Moloch
+[10/20/2022 16:20:36]
+  Outer wall breached by Moloch
+[10/20/2022 16:20:36]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:37]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:39]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:39]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:39]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:40]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:40]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:40]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:41]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  Moloch attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:20:42]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:20:42]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:42]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:20:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:43]
+  Moloch attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:20:43]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:43]
+  Moloch attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/20/2022 16:20:43]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:43]
+  Moloch attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/20/2022 16:20:44]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:45]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:45]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:45]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:46]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:46]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:46]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:46]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:47]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:47]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:47]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:48]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:48]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:48]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:49]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:49]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:49]
+  Супостат placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[10/20/2022 16:20:49]
+  Супостат removed Сварочный аппарат from Средний стальной шкаф (ID: 141)
+[10/20/2022 16:20:49]
+  Супостат picked up Сварочный аппарат
+[10/20/2022 16:20:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:53]
+  Супостат placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[10/20/2022 16:20:53]
+  Супостат removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[10/20/2022 16:20:53]
+  Супостат placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3606)
+[10/20/2022 16:20:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:53]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:20:54]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:20:54]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:20:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:57]
+  Outer wall breached by kynlan4ic
+[10/20/2022 16:20:57]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 16:20:57]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 16:20:57]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 16:20:57]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 16:20:57]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 16:20:57]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:57]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:58]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:58]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:58]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:59]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:59]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:59]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:20:59]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:00]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:00]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:00]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:00]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:01]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:01]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:01]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:01]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:02]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:08]
+  iliya_kind set the recharge speed of Суперконденсатор to 30 %
+[10/20/2022 16:21:08]
+  iliya_kind set the recharge speed of Суперконденсатор to 40 %
+[10/20/2022 16:21:09]
+  iliya_kind set the recharge speed of Суперконденсатор to 50 %
+[10/20/2022 16:21:09]
+  iliya_kind set the recharge speed of Суперконденсатор to 60 %
+[10/20/2022 16:21:10]
+  iliya_kind set the recharge speed of Суперконденсатор to 50 %
+[10/20/2022 16:21:10]
+  iliya_kind set the recharge speed of Суперконденсатор to 40 %
+[10/20/2022 16:21:10]
+  iliya_kind set the recharge speed of Суперконденсатор to 30 %
+[10/20/2022 16:21:10]
+  iliya_kind set the recharge speed of Суперконденсатор to 20 %
+[10/20/2022 16:21:11]
+  iliya_kind set the recharge speed of Суперконденсатор to 30 %
+[10/20/2022 16:21:36]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:21:37]
+  Macey Sexton started repairing Кабельная коробка
+[10/20/2022 16:21:40]
+  Супостат equipped Кислородный баллон
+[10/20/2022 16:21:41]
+  Супостат equipped Сварочный аппарат
+[10/20/2022 16:21:43]
+  kynlan4ic picked up Водолазный скафандр
+[10/20/2022 16:21:43]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:21:43]
+  Macey Sexton equipped Гаечный ключ
+[10/20/2022 16:21:44]
+  Супостат has died (Cause of death: Баротравма)
+[10/20/2022 16:21:51]
+  Macey Sexton started repairing Насос
+[10/20/2022 16:21:53]
+  Outer wall breached by Moloch
+[10/20/2022 16:21:53]
+  Outer wall breached by Moloch
+[10/20/2022 16:21:53]
+  Outer wall breached by Moloch
+[10/20/2022 16:21:53]
+  Outer wall breached by Moloch
+[10/20/2022 16:21:53]
+  Outer wall breached by Moloch
+[10/20/2022 16:21:53]
+  Outer wall breached by Moloch
+[10/20/2022 16:21:54]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:55]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:55]
+  Macey Sexton: Мне нужно подводное снаряжение!
+[10/20/2022 16:21:55]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:55]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:21:59]
+  Margaret Buckley: Мне нужно подводное снаряжение!
+[10/20/2022 16:22:00]
+  Roberta Simpson: Надо найти водолазный скафандр!
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Inner wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:04]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:06]
+  Neal Heuer: Мне нужно подводное снаряжение!
+[10/20/2022 16:22:13]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 16:22:15]
+  Roberta Simpson equipped Сварочный аппарат
+[10/20/2022 16:22:15]
+  Outer wall repaired by Roberta Simpson
+[10/20/2022 16:22:17]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:20]
+  Roberta Simpson: Пункт управления: минус одна протечка!
+[10/20/2022 16:22:23]
+  Macey Sexton started repairing Двигатель
+[10/20/2022 16:22:26]
+  Margaret Buckley equipped Сварочный аппарат
+[10/20/2022 16:22:27]
+  Outer wall repaired by Margaret Buckley
+[10/20/2022 16:22:27]
+  Margaret Buckley: Пункт управления: минус одна протечка!
+[10/20/2022 16:22:28]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/20/2022 16:22:28]
+  iliya_kind equipped Водолазный скафандр
+[10/20/2022 16:22:28]
+  Margaret Buckley unequipped Сварочный аппарат
+[10/20/2022 16:22:29]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/20/2022 16:22:30]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:31]
+  igameCrog picked up Подводная маска
+[10/20/2022 16:22:33]
+  igameCrog picked up Подводная маска
+[10/20/2022 16:22:36]
+  Macey Sexton unequipped Гаечный ключ
+[10/20/2022 16:22:36]
+  Macey Sexton equipped Отвертка
+[10/20/2022 16:22:38]
+  Neal Heuer equipped Сварочный аппарат
+[10/20/2022 16:22:38]
+  Neal Heuer: Мне нужно подводное снаряжение!
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:39]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 16:22:40]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 11.2 Кровотечение: 18.75 Оглушение: 0.3
+[10/20/2022 16:22:41]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 11.2 Кровотечение: 18.75 Оглушение: 0.3
+[10/20/2022 16:22:42]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:42]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:42]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:42]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:42]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:42]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:45]
+  Roberta Simpson: Моторный отсек: протечек не осталось!
+[10/20/2022 16:22:47]
+  Macey Sexton started repairing Суперконденсатор
+[10/20/2022 16:22:47]
+  igameCrog picked up Дементонитовый лом
+[10/20/2022 16:22:50]
+  Roberta Simpson: Камера балласта A: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 16:22:50]
+  igameCrog picked up Плазменный резак
+[10/20/2022 16:22:53]
+  Neal Heuer unequipped Сварочный аппарат
+[10/20/2022 16:22:54]
+  Margaret Buckley: Мне нужно подводное снаряжение!
+[10/20/2022 16:22:54]
+  Macey Sexton started repairing Суперконденсатор
+[10/20/2022 16:22:56]
+  Outer wall breached by Moloch
+[10/20/2022 16:22:57]
+  Macey Sexton failed to repair Суперконденсатор
+[10/20/2022 16:23:01]
+  Roberta Simpson unequipped Сварочный аппарат
+[10/20/2022 16:23:03]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/20/2022 16:23:03]
+  igameCrog has died (Cause of death: Баротравма)
+[10/20/2022 16:23:05]
+  Neal Heuer equipped Сварочный аппарат
+[10/20/2022 16:23:06]
+  The respawn shuttle is leaving.
+[10/20/2022 16:23:12]
+  Margaret Buckley equipped Сварочный аппарат
+[10/20/2022 16:23:12]
+  Outer wall repaired by Margaret Buckley
+[10/20/2022 16:23:13]
+  Macey Sexton started repairing Навигационный терминал
+[10/20/2022 16:23:13]
+  Margaret Buckley: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 16:23:15]
+  Margaret Buckley unequipped Сварочный аппарат
+[10/20/2022 16:23:19]
+  Macey Sexton unequipped Отвертка
+[10/20/2022 16:23:19]
+  Macey Sexton equipped Гаечный ключ
+[10/20/2022 16:23:19]
+  Neal Heuer unequipped Сварочный аппарат
+[10/20/2022 16:23:23]
+  Inner wall breached by Moloch
+[10/20/2022 16:23:23]
+  Outer wall breached by Moloch
+[10/20/2022 16:23:23]
+  Outer wall breached by Moloch
+[10/20/2022 16:23:29]
+  Macey Sexton started repairing Двигатель
+[10/20/2022 16:23:29]
+  Roberta Simpson equipped Сварочный аппарат
+[10/20/2022 16:23:35]
+  kynlan4ic: Macey Sexton, начинай устранять протечки!
+[10/20/2022 16:23:36]
+  Macey Sexton: Слушаюсь!
+[10/20/2022 16:23:37]
+  kynlan4ic: Roberta Simpson, начинай устранять протечки!
+[10/20/2022 16:23:37]
+  The respawn shuttle has left.
+[10/20/2022 16:23:38]
+  Macey Sexton unequipped Гаечный ключ
+[10/20/2022 16:23:38]
+  Macey Sexton equipped Сварочный аппарат
+[10/20/2022 16:23:38]
+  Roberta Simpson: Вас понял!
+[10/20/2022 16:23:39]
+  kynlan4ic: Margaret Buckley, займись протечками!
+[10/20/2022 16:23:40]
+  Margaret Buckley: Слушаюсь!
+[10/20/2022 16:23:45]
+  iliya_kind equipped Водолазный скафандр
+[10/20/2022 16:23:45]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 16:23:45]
+  iliya_kind dropped Водолазный скафандр
+[10/20/2022 16:23:45]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[10/20/2022 16:23:48]
+  Dispatching the respawn shuttle.
+[10/20/2022 16:23:48]
+  Respawning Супостат (STEAM_1:0:500890532) as Механик
+[10/20/2022 16:23:48]
+  Respawning igameCrog (STEAM_1:0:584229539) as Инженер
+[10/20/2022 16:23:50]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 16:23:50]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 16:23:51]
+  Neal Heuer: Надо найти водолазный скафандр!
+[10/20/2022 16:23:58]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 16:23:59]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[10/20/2022 16:24:00]
+  Margaret Buckley equipped Сварочный аппарат
+[10/20/2022 16:24:01]
+  Inner wall repaired by Margaret Buckley
+[10/20/2022 16:24:01]
+  Margaret Buckley: Моторный отсек: минус одна протечка!
+[10/20/2022 16:24:04]
+  Neal Heuer equipped Сварочный аппарат
+[10/20/2022 16:24:05]
+  Outer wall repaired by Neal Heuer
+[10/20/2022 16:24:05]
+  Neal Heuer: Пункт управления: протечек не осталось!
+[10/20/2022 16:24:08]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 16:24:09]
+  igameCrog picked up Плазменный резак
+[10/20/2022 16:24:10]
+  Neal Heuer unequipped Сварочный аппарат
+[10/20/2022 16:24:10]
+  igameCrog picked up Подводная маска
+[10/20/2022 16:24:12]
+  Супостат picked up Подводная маска
+[10/20/2022 16:24:13]
+  igameCrog picked up Лом
+[10/20/2022 16:24:16]
+  Супостат placed Бейсболка in Средний стальной шкаф с окном (ID: 3102)
+[10/20/2022 16:24:16]
+  igameCrog placed Плазменный резак in Средний стальной шкаф с окном (ID: 3102)
+[10/20/2022 16:24:16]
+  igameCrog removed Бейсболка from Средний стальной шкаф с окном (ID: 3102)
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:19]
+  Супостат picked up Кислородный баллон
+[10/20/2022 16:24:20]
+  Outer wall breached by Moloch
+[10/20/2022 16:24:20]
+  Outer wall breached by Moloch
+[10/20/2022 16:24:20]
+  Outer wall breached by Moloch
+[10/20/2022 16:24:21]
+  Outer wall repaired by Macey Sexton
+[10/20/2022 16:24:23]
+  Супостат picked up Подводный скутер
+[10/20/2022 16:24:29]
+  iliya_kind equipped Морфин
+[10/20/2022 16:24:29]
+  iliya_kind picked up Морфин
+[10/20/2022 16:24:32]
+  Outer wall breached by Moloch
+[10/20/2022 16:24:32]
+  Inner wall breached by Moloch
+[10/20/2022 16:24:32]
+  Inner wall breached by Moloch
+[10/20/2022 16:24:32]
+  Inner wall breached by Moloch
+[10/20/2022 16:24:32]
+  Outer wall breached by Moloch
+[10/20/2022 16:24:45]
+  Outer wall repaired by Roberta Simpson
+[10/20/2022 16:24:45]
+  Roberta Simpson: Верхняя средняя часть: все протечки устранены!
+[10/20/2022 16:24:49]
+  Outer wall repaired by Margaret Buckley
+[10/20/2022 16:24:49]
+  Outer wall breached by Moloch
+[10/20/2022 16:24:52]
+  igameCrog placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 3603)
+[10/20/2022 16:24:54]
+  kynlan4ic picked up Сварочный аппарат
+[10/20/2022 16:24:56]
+  Neal Heuer equipped Сварочный аппарат
+[10/20/2022 16:24:56]
+  kynlan4ic equipped Сварочный аппарат
+[10/20/2022 16:24:59]
+  iliya_kind used Морфин on Margaret Buckley.
+[10/20/2022 16:24:59]
+  Outer wall repaired by Margaret Buckley
+[10/20/2022 16:24:59]
+  Margaret Buckley: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 16:24:59]
+  Outer wall repaired by Roberta Simpson
+[10/20/2022 16:25:00]
+  Roberta Simpson: Воздушный шлюз: протечек не осталось!
+[10/20/2022 16:25:00]
+  Neal Heuer unequipped Сварочный аппарат
+[10/20/2022 16:25:00]
+  Outer wall repaired by kynlan4ic
+[10/20/2022 16:25:02]
+  Outer wall breached by Moloch
+[10/20/2022 16:25:09]
+  Outer wall repaired by Margaret Buckley
+[10/20/2022 16:25:09]
+  Margaret Buckley: Моторный отсек: минус одна протечка!
+[10/20/2022 16:25:10]
+  igameCrog picked up Подводный скутер
+[10/20/2022 16:25:11]
+  Inner wall repaired by Macey Sexton
+[10/20/2022 16:25:11]
+  Macey Sexton: Воздушный шлюз: протечек не осталось!
+[10/20/2022 16:25:12]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:12]
+  Outer wall repaired by Roberta Simpson
+[10/20/2022 16:25:12]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:12]
+  Roberta Simpson: Пункт управления: протечек не осталось!
+[10/20/2022 16:25:12]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:12]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:13]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:13]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:13]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:13]
+  Inner wall repaired by Margaret Buckley
+[10/20/2022 16:25:13]
+  Margaret Buckley: Камера балласта A: протечек не осталось!
+[10/20/2022 16:25:13]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:13]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:13]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:13]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:14]
+  Inner wall repaired by Margaret Buckley
+[10/20/2022 16:25:14]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:14]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:14]
+  Outer wall repaired by Macey Sexton
+[10/20/2022 16:25:14]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:14]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:14]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:14]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:14]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:14]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:15]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:15]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:15]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:15]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:15]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:15]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:15]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:15]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:16]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:16]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:16]
+  igameCrog placed Подводный скутер in Средний стальной шкаф с окном (ID: 3102)
+[10/20/2022 16:25:16]
+  igameCrog removed Подводный скутер from Средний стальной шкаф с окном (ID: 3102)
+[10/20/2022 16:25:16]
+  igameCrog picked up Подводный скутер
+[10/20/2022 16:25:16]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:16]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:16]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:16]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:16]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:16]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:17]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:17]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:17]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:17]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:17]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:17]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:17]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:17]
+  Outer wall breached by Moloch
+[10/20/2022 16:25:18]
+  igameCrog picked up Подводный скутер
+[10/20/2022 16:25:20]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:20]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:21]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:21]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:21]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:21]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:21]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:22]
+  Moloch attacked by iliya_kind. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 16:25:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:22]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:22]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:22]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:23]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:23]
+  igameCrog placed Подводный скутер in Хозяйственный шкаф (ID: 3287)
+[10/20/2022 16:25:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:23]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:23]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:23]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:24]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:29]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:29]
+  Moloch attacked by iliya_kind. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/20/2022 16:25:29]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:29]
+  Moloch attacked by iliya_kind. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/20/2022 16:25:29]
+  Outer wall repaired by Macey Sexton
+[10/20/2022 16:25:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:30]
+  Macey Sexton: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 16:25:30]
+  Moloch attacked by iliya_kind. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/20/2022 16:25:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:30]
+  Moloch attacked by iliya_kind. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/20/2022 16:25:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 16:25:30]
+  Moloch attacked by iliya_kind. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/20/2022 16:25:30]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)

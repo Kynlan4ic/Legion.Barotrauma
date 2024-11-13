@@ -1,0 +1,1266 @@
+﻿[11/01/2022 15:08:39]
+  Starting the server...
+[11/01/2022 15:08:39]
+  Using SteamP2P networking.
+[11/01/2022 15:08:40]
+  Server started
+[11/01/2022 15:08:40]
+  Игрок kynlan4ic присоединился к серверу.
+[11/01/2022 15:08:40]
+  Saving client permissions
+[11/01/2022 15:08:40]
+  Saving client permissions
+[11/01/2022 15:09:04]
+  Игрок igameCrog присоединился к серверу.
+[11/01/2022 15:09:04]
+  Saving client permissions
+[11/01/2022 15:12:11]
+  Игрок Супостат присоединился к серверу.
+[11/01/2022 15:12:11]
+  Saving client permissions
+[11/01/2022 15:13:21]
+  Супостат покидает сервер.
+[11/01/2022 15:13:49]
+  Client "kynlan4ic" started the round.
+[11/01/2022 15:13:49]
+  Starting a new round...
+[11/01/2022 15:13:54]
+  Миссия: Активировать маяк
+[11/01/2022 15:13:54]
+  Маяк на маршруте Центр Set - Шахта Skadi's Cauldron не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[11/01/2022 15:13:54]
+  Game mode: Миссия
+[11/01/2022 15:13:54]
+  Submarine: Sardine
+[11/01/2022 15:13:54]
+  Level seed: Ml2jj8JZ
+[11/01/2022 15:13:54]
+  Mission: Активировать маяк
+[11/01/2022 15:13:56]
+  Round started.
+[11/01/2022 15:13:57]
+  Roy Ouellette equipped Гаечный ключ
+[11/01/2022 15:13:57]
+  Cuck Ellison equipped Лом
+[11/01/2022 15:13:58]
+  Roy Ouellette unequipped Гаечный ключ
+[11/01/2022 15:13:58]
+  Cuck Ellison unequipped Лом
+[11/01/2022 15:14:01]
+  Neal Box: Загружаю в реактор дополнительное топливо!
+[11/01/2022 15:14:02]
+  Roselle Box: Земля в иллюминаторе, Земля в иллюминаторе...
+[11/01/2022 15:14:03]
+  Renata Parks: Загружаю в реактор дополнительное топливо!
+[11/01/2022 15:14:04]
+  Roselle Box: Загружаю в реактор дополнительное топливо!
+[11/01/2022 15:14:04]
+  Neal Box equipped Топливный стержень
+[11/01/2022 15:14:05]
+  Neal Box unequipped Топливный стержень
+[11/01/2022 15:14:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 15:14:06]
+  Roselle Box: Земля в иллюминаторе видна...
+[11/01/2022 15:14:09]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:09]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:10]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:11]
+  kynlan4ic picked up Водолазный скафандр
+[11/01/2022 15:14:12]
+  kynlan4ic equipped Водолазный скафандр
+[11/01/2022 15:14:17]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 15:14:24]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:14:24]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:14:24]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:14:24]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:14:24]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:14:31]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:32]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:33]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:34]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:14:35]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:15:20]
+  kynlan4ic: Sebastian Bushman, займись оружием!
+[11/01/2022 15:15:21]
+  Sebastian Bushman: Есть!
+[11/01/2022 15:15:32]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:32]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:32]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:32]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:15:32]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:15:32]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:32]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:33]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:15:33]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:35]
+  kynlan4ic: Sebastian Bushman, встань за орудия!
+[11/01/2022 15:15:36]
+  Sebastian Bushman: Надо найти водолазный скафандр!
+[11/01/2022 15:15:36]
+  Sebastian Bushman: Само собой!
+[11/01/2022 15:15:45]
+  Roselle Box: Мне нужно подводное снаряжение!
+[11/01/2022 15:15:47]
+  Neal Box: Надо найти водолазный скафандр!
+[11/01/2022 15:15:47]
+  Donn Riddle: Мне нужно подводное снаряжение!
+[11/01/2022 15:15:48]
+  Arron Bartolomeo: Надо найти водолазный скафандр!
+[11/01/2022 15:15:48]
+  Sebastian Bushman: У меня новая цель! Не могу понять, что это такое...
+[11/01/2022 15:15:48]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:48]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:15:48]
+  Sebastian Bushman: Огонь!
+[11/01/2022 15:15:49]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:49]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:49]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:49]
+  Renata Parks: Мне нужно подводное снаряжение!
+[11/01/2022 15:15:49]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:52]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:52]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:52]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:52]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:15:52]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:52]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:15:52]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:53]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:15:57]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:57]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:57]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:57]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:57]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:15:58]
+  kynlan4ic equipped Снаряд рельсотрона
+[11/01/2022 15:15:58]
+  kynlan4ic picked up Снаряд рельсотрона
+[11/01/2022 15:16:00]
+  Roselle Box equipped Сварочный аппарат
+[11/01/2022 15:16:02]
+  kynlan4ic dropped Снаряд рельсотрона
+[11/01/2022 15:16:05]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:05]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:05]
+  Arron Bartolomeo: Инженерный отсек: высокий уровень давления!
+[11/01/2022 15:16:06]
+  igameCrog has died (Cause of death: Баротравма)
+[11/01/2022 15:16:06]
+  Renata Parks has died (Cause of death: Баротравма)
+[11/01/2022 15:16:06]
+  Arron Bartolomeo has died (Cause of death: Баротравма)
+[11/01/2022 15:16:07]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:07]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:08]
+  kynlan4ic placed Снаряд рельсотрона in Одиночный вертикальный зарядник рельсотрона (ID: 290)
+[11/01/2022 15:16:09]
+  Roselle Box: Орудийный отсек: минус одна протечка!
+[11/01/2022 15:16:11]
+  Outer wall repaired by Roselle Box
+[11/01/2022 15:16:11]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/01/2022 15:16:11]
+  Roselle Box: Орудийный отсек: протечек не осталось!
+[11/01/2022 15:16:12]
+  Hammerhead attacked by kynlan4ic. Повреждение глубоких тканей: 187.5 Оглушение: 15
+[11/01/2022 15:16:15]
+  kynlan4ic equipped Снаряд рельсотрона
+[11/01/2022 15:16:15]
+  kynlan4ic picked up Снаряд рельсотрона
+[11/01/2022 15:16:16]
+  Dispatching the respawn shuttle.
+[11/01/2022 15:16:16]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[11/01/2022 15:16:17]
+  Respawning bot Renata Parks as Механик
+[11/01/2022 15:16:17]
+  Respawning bot Arron Bartolomeo as Инженер
+[11/01/2022 15:16:17]
+  kynlan4ic placed Снаряд рельсотрона in Одиночный вертикальный зарядник рельсотрона (ID: 290)
+[11/01/2022 15:16:18]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:16:18]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:18]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:16:18]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:16:18]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:18]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:16:18]
+  Donn Riddle equipped Сварочный аппарат
+[11/01/2022 15:16:18]
+  Donn Riddle: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[11/01/2022 15:16:19]
+  Outer wall repaired by Donn Riddle
+[11/01/2022 15:16:19]
+  Donn Riddle: Пункт управления: все протечки устранены!
+[11/01/2022 15:16:20]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:21]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 15:16:24]
+  Cuck Ellison equipped Сварочный аппарат
+[11/01/2022 15:16:25]
+  Outer wall repaired by Roselle Box
+[11/01/2022 15:16:25]
+  Roselle Box: Орудийный отсек: минус одна протечка!
+[11/01/2022 15:16:25]
+  Outer wall repaired by Roselle Box
+[11/01/2022 15:16:26]
+  Inner wall repaired by Roselle Box
+[11/01/2022 15:16:27]
+  Outer wall repaired by Donn Riddle
+[11/01/2022 15:16:28]
+  Roselle Box unequipped Сварочный аппарат
+[11/01/2022 15:16:28]
+  Donn Riddle unequipped Сварочный аппарат
+[11/01/2022 15:16:28]
+  Donn Riddle equipped Сварочный аппарат
+[11/01/2022 15:16:29]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:29]
+  Inner wall breached by Hammerhead
+[11/01/2022 15:16:30]
+  Outer wall repaired by Cuck Ellison
+[11/01/2022 15:16:31]
+  kynlan4ic: Sebastian Bushman, займись орудиями!
+[11/01/2022 15:16:31]
+  Outer wall repaired by Donn Riddle
+[11/01/2022 15:16:31]
+  Donn Riddle: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/01/2022 15:16:32]
+  Sebastian Bushman: Так точно!
+[11/01/2022 15:16:34]
+  Cuck Ellison unequipped Сварочный аппарат
+[11/01/2022 15:16:35]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/01/2022 15:16:35]
+  Hammerhead has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 15:16:35]
+  Hammerhead attacked by kynlan4ic. Повреждение глубоких тканей: 187.5 Оглушение: 15
+[11/01/2022 15:16:40]
+  Roselle Box equipped Сварочный аппарат
+[11/01/2022 15:16:40]
+  Outer wall repaired by Roselle Box
+[11/01/2022 15:16:40]
+  Roselle Box: Воздушный шлюз: все протечки устранены!
+[11/01/2022 15:16:41]
+  kynlan4ic equipped Снаряд рельсотрона
+[11/01/2022 15:16:41]
+  kynlan4ic picked up Снаряд рельсотрона
+[11/01/2022 15:16:42]
+  Roselle Box unequipped Сварочный аппарат
+[11/01/2022 15:16:43]
+  kynlan4ic placed Снаряд рельсотрона in Одиночный вертикальный зарядник рельсотрона (ID: 290)
+[11/01/2022 15:16:43]
+  Sebastian Bushman: Новая цель обнаружена!
+[11/01/2022 15:16:44]
+  Sebastian Bushman: Стреляю!
+[11/01/2022 15:16:44]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:45]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:45]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:45]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:50]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:51]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:52]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:52]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:52]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:53]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:53]
+  Outer wall breached by Hammerhead
+[11/01/2022 15:16:53]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:53]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:54]
+  igameCrog is a traitor and the current goals are:
+- Саботируйте цель Двигатель, чтобы ее исправность была не выше 10%. (В процессе)
+
+[11/01/2022 15:16:54]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:54]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:54]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:55]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:55]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:55]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:55]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:56]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:56]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:56]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:56]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:57]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:57]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:16:59]
+  Neal Box equipped Сварочный аппарат
+[11/01/2022 15:17:01]
+  Roselle Box equipped Сварочный аппарат
+[11/01/2022 15:17:01]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:17:02]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:17:02]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:17:02]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:17:02]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:17:03]
+  Sebastian Bushman launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 15:17:03]
+  Hammerhead has died (Cause of death: Рваная рана)
+[11/01/2022 15:17:03]
+  Sebastian Bushman: Кажется, есть попадание!
+[11/01/2022 15:17:07]
+  Outer wall repaired by Neal Box
+[11/01/2022 15:17:07]
+  Neal Box: Балласт: минус одна протечка!
+[11/01/2022 15:17:11]
+  Roselle Box: Балласт: минус одна протечка!
+[11/01/2022 15:17:11]
+  Neal Box unequipped Сварочный аппарат
+[11/01/2022 15:17:13]
+  Outer wall repaired by Roselle Box
+[11/01/2022 15:17:14]
+  Sebastian Bushman: Новая цель обнаружена!
+[11/01/2022 15:17:22]
+  kynlan4ic picked up Сварочный аппарат
+[11/01/2022 15:17:22]
+  Outer wall repaired by Donn Riddle
+[11/01/2022 15:17:23]
+  Inner wall repaired by Roselle Box
+[11/01/2022 15:17:23]
+  Roselle Box: Орудийный отсек: минус одна протечка!
+[11/01/2022 15:17:23]
+  Donn Riddle: Медицинский отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/01/2022 15:17:28]
+  Donn Riddle: Медицинский отсек: все протечки устранены!
+[11/01/2022 15:17:32]
+  Inner wall repaired by Roselle Box
+[11/01/2022 15:17:33]
+  Inner wall repaired by Roselle Box
+[11/01/2022 15:17:33]
+  Roselle Box: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/01/2022 15:17:33]
+  Inner wall repaired by Roselle Box
+[11/01/2022 15:17:33]
+  Outer wall repaired by Roselle Box
+[11/01/2022 15:17:34]
+  Roselle Box: Орудийный отсек: все протечки устранены!
+[11/01/2022 15:17:34]
+  Donn Riddle: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/01/2022 15:17:41]
+  Outer wall repaired by Donn Riddle
+[11/01/2022 15:17:42]
+  Inner wall repaired by Roselle Box
+[11/01/2022 15:17:43]
+  Roselle Box unequipped Сварочный аппарат
+[11/01/2022 15:17:43]
+  Roselle Box equipped Отвертка
+[11/01/2022 15:17:44]
+  Donn Riddle unequipped Сварочный аппарат
+[11/01/2022 15:17:46]
+  Neal Box equipped Сварочный аппарат
+[11/01/2022 15:17:47]
+  Outer wall repaired by Neal Box
+[11/01/2022 15:17:47]
+  Neal Box: Орудийный отсек: протечек не осталось!
+[11/01/2022 15:17:47]
+  Roselle Box started repairing Суперконденсатор
+[11/01/2022 15:17:48]
+  Sebastian Bushman: Мне нужно подводное снаряжение!
+[11/01/2022 15:17:49]
+  Donn Riddle equipped Сварочный аппарат
+[11/01/2022 15:17:52]
+  Outer wall repaired by Neal Box
+[11/01/2022 15:17:58]
+  Donn Riddle unequipped Сварочный аппарат
+[11/01/2022 15:17:58]
+  Roselle Box started repairing Суперконденсатор
+[11/01/2022 15:17:59]
+  Neal Box unequipped Сварочный аппарат
+[11/01/2022 15:18:02]
+  Roselle Box unequipped Отвертка
+[11/01/2022 15:18:02]
+  Roselle Box equipped Сварочный аппарат
+[11/01/2022 15:18:06]
+  kynlan4ic picked up Шоковая дубинка
+[11/01/2022 15:18:09]
+  Roselle Box unequipped Сварочный аппарат
+[11/01/2022 15:18:09]
+  Roselle Box equipped Отвертка
+[11/01/2022 15:18:10]
+  Roselle Box started repairing Суперконденсатор
+[11/01/2022 15:18:17]
+  kynlan4ic equipped Сварочный аппарат
+[11/01/2022 15:18:19]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 15:18:22]
+  Roselle Box started repairing Батарея
+[11/01/2022 15:18:26]
+  kynlan4ic: Roselle Box, займись ремонтом поврежденных систем!
+[11/01/2022 15:18:27]
+  Roselle Box: Вас понял!
+[11/01/2022 15:18:28]
+  Roselle Box unequipped Отвертка
+[11/01/2022 15:18:28]
+  Roselle Box equipped Гаечный ключ
+[11/01/2022 15:18:28]
+  kynlan4ic: Neal Box, займись поврежденными устройствами!
+[11/01/2022 15:18:29]
+  Neal Box: Есть!
+[11/01/2022 15:18:30]
+  Neal Box equipped Гаечный ключ
+[11/01/2022 15:18:30]
+  Roselle Box started repairing Двигатель
+[11/01/2022 15:18:35]
+  kynlan4ic picked up Подводный скутер
+[11/01/2022 15:18:35]
+  Neal Box started repairing Двигатель
+[11/01/2022 15:18:36]
+  Roselle Box unequipped Гаечный ключ
+[11/01/2022 15:18:36]
+  Roselle Box equipped Отвертка
+[11/01/2022 15:18:37]
+  kynlan4ic picked up Сигнальный огонь
+[11/01/2022 15:18:37]
+  kynlan4ic picked up Сигнальный огонь
+[11/01/2022 15:18:38]
+  Roselle Box started repairing Ядерный реактор
+[11/01/2022 15:18:45]
+  kynlan4ic picked up Пистолет-пулемет
+[11/01/2022 15:18:49]
+  Roselle Box started repairing Батарея
+[11/01/2022 15:18:51]
+  Neal Box started repairing Фабрикатор
+[11/01/2022 15:18:59]
+  Roselle Box started repairing Навигационный терминал
+[11/01/2022 15:19:03]
+  Neal Box started repairing Деконструктор
+[11/01/2022 15:19:05]
+  kynlan4ic equipped Подводный скутер
+[11/01/2022 15:19:09]
+  Roselle Box unequipped Отвертка
+[11/01/2022 15:19:09]
+  Roselle Box equipped Гаечный ключ
+[11/01/2022 15:19:11]
+  Roselle Box failed to repair Медицинский фабрикатор
+[11/01/2022 15:19:15]
+  Roselle Box failed to repair Медицинский фабрикатор
+[11/01/2022 15:19:16]
+  Neal Box failed to repair Медицинский фабрикатор
+[11/01/2022 15:19:19]
+  Roselle Box failed to repair Медицинский фабрикатор
+[11/01/2022 15:19:20]
+  Neal Box started repairing Медицинский фабрикатор
+[11/01/2022 15:19:21]
+  kynlan4ic opened Настраиваемый люк
+[11/01/2022 15:19:23]
+  Roselle Box unequipped Гаечный ключ
+[11/01/2022 15:19:23]
+  Roselle Box equipped Отвертка
+[11/01/2022 15:19:26]
+  kynlan4ic closed Настраиваемый люк
+[11/01/2022 15:19:28]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 15:19:30]
+  Neal Box unequipped Гаечный ключ
+[11/01/2022 15:19:34]
+  Roselle Box unequipped Отвертка
+[11/01/2022 15:19:36]
+  kynlan4ic opened Настраиваемый люк
+[11/01/2022 15:19:37]
+  Neal Box equipped Водолазный скафандр
+[11/01/2022 15:19:37]
+  kynlan4ic closed Настраиваемый люк
+[11/01/2022 15:19:43]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 15:20:11]
+  Neal Box equipped Отвертка
+[11/01/2022 15:20:11]
+  Neal Box started repairing Монитор состояния
+[11/01/2022 15:20:12]
+  kynlan4ic removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 2689)
+[11/01/2022 15:20:12]
+  igameCrog picked up Одноразовый водолазный скафандр
+[11/01/2022 15:20:14]
+  kynlan4ic removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 2685)
+[11/01/2022 15:20:15]
+  kynlan4ic removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 2682)
+[11/01/2022 15:20:16]
+  igameCrog picked up Подводный скутер
+[11/01/2022 15:20:16]
+  Neal Box unequipped Отвертка
+[11/01/2022 15:20:17]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:20:17]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:20:17]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:20:17]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:20:17]
+  kynlan4ic unequipped Подводный скутер
+[11/01/2022 15:20:17]
+  kynlan4ic equipped Водолазный скафандр
+[11/01/2022 15:20:19]
+  igameCrog picked up Отвертка
+[11/01/2022 15:20:20]
+  igameCrog picked up Гаечный ключ
+[11/01/2022 15:20:20]
+  kynlan4ic dropped Водолазный скафандр
+[11/01/2022 15:20:22]
+  igameCrog picked up Дементонитовый лом
+[11/01/2022 15:20:26]
+  igameCrog picked up Плазменный резак
+[11/01/2022 15:20:27]
+  kynlan4ic equipped Водолазный скафандр
+[11/01/2022 15:20:29]
+  kynlan4ic dropped Водолазный скафандр
+[11/01/2022 15:20:30]
+  kynlan4ic equipped Револьвер
+[11/01/2022 15:20:32]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 15:20:33]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 15:20:35]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 15:20:36]
+  Roy Ouellette attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:20:37]
+  Roy Ouellette equipped Нож ныряльщика
+[11/01/2022 15:20:38]
+  Roy Ouellette attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:20:39]
+  Roy Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:20:40]
+  Roy Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:20:42]
+  Neal Box equipped Отвертка
+[11/01/2022 15:20:43]
+  Roselle Box equipped Отвертка
+[11/01/2022 15:20:44]
+  Cuck Ellison attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:20:44]
+  Cuck Ellison equipped Револьвер
+[11/01/2022 15:20:45]
+  Roy Ouellette attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:20:45]
+  Roselle Box started repairing Кабельная коробка
+[11/01/2022 15:20:46]
+  Inner wall breached by Cuck Ellison
+[11/01/2022 15:20:46]
+  Neal Box unequipped Отвертка
+[11/01/2022 15:20:48]
+  Inner wall breached by kynlan4ic
+[11/01/2022 15:20:49]
+  Roselle Box unequipped Отвертка
+[11/01/2022 15:20:54]
+  Cuck Ellison unequipped Револьвер
+[11/01/2022 15:20:54]
+  Cuck Ellison equipped Лом
+[11/01/2022 15:20:54]
+  Roy Ouellette attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:20:56]
+  kynlan4ic equipped Шоковая дубинка
+[11/01/2022 15:20:56]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:20:58]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:20:58]
+  igameCrog removed Плавательный пузырь from Hammerhead
+[11/01/2022 15:20:59]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:01]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:03]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:04]
+  Roy Ouellette attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 15:21:04]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Roy Ouellette.
+[11/01/2022 15:21:04]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:05]
+  Roy Ouellette attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 15:21:05]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Roy Ouellette.
+[11/01/2022 15:21:05]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:06]
+  Cuck Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 15:21:06]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Cuck Ellison.
+[11/01/2022 15:21:07]
+  igameCrog equipped Плавательный пузырь
+[11/01/2022 15:21:08]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:09]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:09]
+  Roy Ouellette has died (Cause of death: Огнестрельная рана)
+[11/01/2022 15:21:10]
+  Roy Ouellette attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 15:21:10]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Roy Ouellette.
+[11/01/2022 15:21:11]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:12]
+  Cuck Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 15:21:12]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Cuck Ellison.
+[11/01/2022 15:21:12]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 15:21:13]
+  Cuck Ellison used Лом on kynlan4ic.
+[11/01/2022 15:21:13]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 15:21:15]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 15:21:17]
+  Cuck Ellison unequipped Лом
+[11/01/2022 15:21:17]
+  Cuck Ellison equipped Нож ныряльщика
+[11/01/2022 15:21:17]
+  kynlan4ic has died (Cause of death: Кровопотеря)
+[11/01/2022 15:21:19]
+  igameCrog placed Плавательный пузырь in Хозяйственный шкаф (ID: 3280)
+[11/01/2022 15:21:21]
+  Cuck Ellison equipped Лом
+[11/01/2022 15:21:22]
+  Cuck Ellison unequipped Лом
+[11/01/2022 15:21:32]
+  Cuck Ellison equipped Морфин
+[11/01/2022 15:21:38]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 15:21:40]
+  igameCrog equipped Кислородный баллон
+[11/01/2022 15:21:41]
+  igameCrog equipped Подводный скутер
+[11/01/2022 15:22:00]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 15:22:14]
+  Neal Box equipped Отвертка
+[11/01/2022 15:22:15]
+  Roselle Box equipped Отвертка
+[11/01/2022 15:22:17]
+  Neal Box failed to repair Кабельная коробка
+[11/01/2022 15:22:19]
+  Roselle Box started repairing Кабельная коробка
+[11/01/2022 15:22:23]
+  Roselle Box unequipped Отвертка
+[11/01/2022 15:22:23]
+  Neal Box unequipped Отвертка
+[11/01/2022 15:22:24]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 15:22:34]
+  Console command "spawn Latcher outside" executed by kynlan4ic.
+[11/01/2022 15:22:38]
+  Console command "spawn Latcher outside" executed by kynlan4ic.
+[11/01/2022 15:23:17]
+  The respawn shuttle is leaving.
+[11/01/2022 15:23:29]
+  igameCrog equipped Плазменный резак
+[11/01/2022 15:23:33]
+  Roselle Box equipped Гаечный ключ
+[11/01/2022 15:23:34]
+  Neal Box equipped Гаечный ключ
+[11/01/2022 15:23:47]
+  Renata Parks has died (Cause of death: Unknown)
+[11/01/2022 15:23:47]
+  Arron Bartolomeo has died (Cause of death: Unknown)
+[11/01/2022 15:23:47]
+  The respawn shuttle has left.
+[11/01/2022 15:23:52]
+  Ending round (a traitor completed their mission)
+[11/01/2022 15:23:52]
+  Ending the round...
+[11/01/2022 15:23:53]
+  Round ended.
+[11/01/2022 15:24:54]
+  Client "kynlan4ic" started the round.
+[11/01/2022 15:24:54]
+  Starting a new round...
+[11/01/2022 15:24:57]
+  Barry Pool equipped Гаечный ключ
+[11/01/2022 15:24:57]
+  Marissa Ouellette equipped Гаечный ключ
+[11/01/2022 15:24:57]
+  Cara Cork equipped Лом
+[11/01/2022 15:24:57]
+  Миссия: Убийство на аванпосте
+[11/01/2022 15:24:57]
+  Недавно пропала связь с аванпостом Центр Set, и стало известно, что группа отъявленных преступников объявила его своей базой. За голову их предводителя назначено вознаграждение – устраните его и получите награду.
+[11/01/2022 15:24:57]
+  Game mode: Миссия
+[11/01/2022 15:24:57]
+  Submarine: Sardine
+[11/01/2022 15:24:57]
+  Level seed: Dfafawr7
+[11/01/2022 15:24:57]
+  Mission: Убийство на аванпосте
+[11/01/2022 15:24:58]
+  Round started.
+[11/01/2022 15:24:59]
+  Barry Pool unequipped Гаечный ключ
+[11/01/2022 15:24:59]
+  Cara Cork unequipped Лом
+[11/01/2022 15:25:00]
+  Marissa Ouellette unequipped Гаечный ключ
+[11/01/2022 15:25:03]
+  Virgilio Dollinger: Веди ее по морю, веди ее на дно...
+[11/01/2022 15:25:04]
+  Carmen Castillo: Загружаю в реактор дополнительное топливо!
+[11/01/2022 15:25:05]
+  Virgilio Dollinger: Загружаю в реактор дополнительное топливо!
+[11/01/2022 15:25:05]
+  Merrill Swanson: Загружаю в реактор дополнительное топливо!
+[11/01/2022 15:25:06]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 15:25:06]
+  Carmen Castillo equipped Топливный стержень
+[11/01/2022 15:25:07]
+  Virgilio Dollinger: Веди ее туда, где рыбы спят давно!
+[11/01/2022 15:25:07]
+  Carmen Castillo unequipped Топливный стержень
+[11/01/2022 15:25:10]
+  Virgilio Dollinger: Проклятое давленье сотней острых игл...
+[11/01/2022 15:25:12]
+  kynlan4ic picked up Водолазный скафандр
+[11/01/2022 15:25:13]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:14]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:14]
+  Virgilio Dollinger: Рвет тебя на части, как Акулий тигр!
+[11/01/2022 15:25:14]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:16]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 15:25:18]
+  Merrill Swanson: На Земле же моряки поют песни! Чем мы хуже!
+[11/01/2022 15:25:18]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:18]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:19]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:19]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:20]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 15:25:28]
+  kynlan4ic picked up Подводный скутер
+[11/01/2022 15:25:29]
+  kynlan4ic picked up Ручной сонар
+[11/01/2022 15:25:30]
+  kynlan4ic picked up Сигнальный огонь
+[11/01/2022 15:25:30]
+  kynlan4ic picked up Сигнальный огонь
+[11/01/2022 15:25:36]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:25:36]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:25:36]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:25:36]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:25:36]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:25:43]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:25:43]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:25:44]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 15:26:06]
+  kynlan4ic picked up Нож ныряльщика
+[11/01/2022 15:26:07]
+  kynlan4ic picked up Осколочная граната
+[11/01/2022 15:26:07]
+  kynlan4ic picked up Осколочная граната
+[11/01/2022 15:26:11]
+  kynlan4ic placed Форма мятежника in Защищенный стальной шкаф (ID: 286)
+[11/01/2022 15:26:12]
+  kynlan4ic picked up Бронежилет
+[11/01/2022 15:26:14]
+  kynlan4ic placed Бронежилет in Защищенный стальной шкаф (ID: 286)
+[11/01/2022 15:26:15]
+  kynlan4ic picked up Форма мятежника
+[11/01/2022 15:26:22]
+  kynlan4ic placed Форма мятежника in Защищенный стальной шкаф (ID: 286)
+[11/01/2022 15:26:23]
+  kynlan4ic picked up Бронежилет
+[11/01/2022 15:26:25]
+  kynlan4ic picked up Форма мятежника
+[11/01/2022 15:26:26]
+  kynlan4ic placed Бронежилет in Защищенный стальной шкаф (ID: 286)
+[11/01/2022 15:26:31]
+  kynlan4ic picked up Дробовик
+[11/01/2022 15:26:59]
+  kynlan4ic equipped Дробовик
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:00]
+  Jarrod Rhymer attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:16]
+  kynlan4ic placed Сигнальный огонь in Human
+[11/01/2022 15:27:16]
+  kynlan4ic placed Сигнальный огонь in Human
+[11/01/2022 15:27:18]
+  kynlan4ic picked up Патрон револьвера
+[11/01/2022 15:27:18]
+  kynlan4ic picked up Патрон револьвера
+[11/01/2022 15:27:18]
+  kynlan4ic picked up Патрон револьвера
+[11/01/2022 15:27:18]
+  kynlan4ic picked up Патрон револьвера
+[11/01/2022 15:27:18]
+  kynlan4ic picked up Патрон револьвера
+[11/01/2022 15:27:18]
+  kynlan4ic picked up Патрон револьвера
+[11/01/2022 15:27:29]
+  Kristie Mosley equipped Лом
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:31]
+  Kristie Mosley attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:27:32]
+  Marissa Ouellette equipped Нож ныряльщика
+[11/01/2022 15:27:33]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:35]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:36]
+  kynlan4ic equipped Топливный стержень
+[11/01/2022 15:27:36]
+  kynlan4ic equipped Нож ныряльщика
+[11/01/2022 15:27:37]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:39]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:39]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:40]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:40]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:40]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:42]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:42]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:44]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:44]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:44]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:45]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:46]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:47]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:47]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:49]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:49]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:49]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:50]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:51]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:51]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:52]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:52]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:52]
+  Marissa Ouellette used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:27:53]
+  Marissa Ouellette attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[11/01/2022 15:27:53]
+  kynlan4ic used Нож ныряльщика on Marissa Ouellette.
+[11/01/2022 15:27:57]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:27:57]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 15:27:59]
+  kynlan4ic equipped ЭМ-граната
+[11/01/2022 15:27:59]
+  kynlan4ic picked up ЭМ-граната
+[11/01/2022 15:28:02]
+  kynlan4ic equipped Трубка капитана
+[11/01/2022 15:28:03]
+  Jarrod Rhymer has died (Cause of death: Кровопотеря)
+[11/01/2022 15:28:04]
+  kynlan4ic equipped Револьвер
+[11/01/2022 15:28:09]
+  kynlan4ic threw ЭМ-граната
+[11/01/2022 15:28:23]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 1933)
+[11/01/2022 15:28:23]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 1933)
+[11/01/2022 15:28:23]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 1933)
+[11/01/2022 15:28:26]
+  Marissa Ouellette has died (Cause of death: Кровопотеря)
+[11/01/2022 15:28:30]
+  Kristie Mosley has died (Cause of death: Кровопотеря)
+[11/01/2022 15:28:46]
+  kynlan4ic: Инженерный отсек: здесь срочно требуется медицинская помощь!
+[11/01/2022 15:28:50]
+  Nick Hefner: kynlan4ic проходит лечение здесь: инженерный отсек!
+[11/01/2022 15:28:53]
+  Nick Hefner equipped Стабилоцин
+[11/01/2022 15:28:55]
+  Nick Hefner: kynlan4ic нуждается в помощи! Срочно требуется физраствор, пакет с кровью, антибиотический клей или эластичный бинт!
+[11/01/2022 15:28:58]
+  kynlan4ic: Nick Hefner, помоги тем, кто попал в беду!
+[11/01/2022 15:28:59]
+  Nick Hefner: Есть!
+[11/01/2022 15:29:03]
+  Nick Hefner equipped Пакет с кровью
+[11/01/2022 15:29:18]
+  Nick Hefner: kynlan4ic в полном порядке!
+[11/01/2022 15:30:11]
+  kynlan4ic removed Кислородный баллон from Водолазный скафандр (ID: 271)
+[11/01/2022 15:30:13]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 271)
+[11/01/2022 15:30:46]
+  Nick Hefner equipped Кислородный баллон
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:53]
+  Cecille Gallagher attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/01/2022 15:30:54]
+  Barry Pool equipped Нож ныряльщика
+[11/01/2022 15:30:54]
+  Larissa Phillips equipped Дробовик
+[11/01/2022 15:30:54]
+  Cecille Gallagher equipped Лом
+[11/01/2022 15:30:56]
+  Barry Pool used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:30:58]
+  Cecille Gallagher used Лом on Barry Pool.
+[11/01/2022 15:31:10]
+  Cecille Gallagher opened Настраиваемый люк
+[11/01/2022 15:31:13]
+  Barry Pool used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:14]
+  kynlan4ic: Barton Weaver, защищай команду!
+[11/01/2022 15:31:14]
+  Barton Weaver equipped Шоковая дубинка
+[11/01/2022 15:31:15]
+  Barton Weaver: Само собой!
+[11/01/2022 15:31:16]
+  Barton Weaver used Шоковая дубинка (Аккумулятор) on Cecille Gallagher.
+[11/01/2022 15:31:18]
+  Barry Pool used Нож ныряльщика on Cecille Gallagher.
+[11/01/2022 15:31:19]
+  Cecille Ulrich equipped Гаечный ключ
+[11/01/2022 15:31:19]
+  Carmen Castillo equipped Гаечный ключ
+[11/01/2022 15:31:20]
+  Cecille Ulrich unequipped Гаечный ключ
+[11/01/2022 15:31:20]
+  Merrill Swanson equipped Гаечный ключ
+[11/01/2022 15:31:20]
+  Cecille Ulrich equipped Гаечный ключ
+[11/01/2022 15:31:21]
+  Barry Pool attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:31:21]
+  Merrill Swanson unequipped Гаечный ключ
+[11/01/2022 15:31:21]
+  Cecille Ulrich unequipped Гаечный ключ
+[11/01/2022 15:31:21]
+  Cecille Ulrich equipped Сварочный аппарат
+[11/01/2022 15:31:21]
+  Virgilio Dollinger equipped Сварочный аппарат
+[11/01/2022 15:31:22]
+  Merrill Swanson equipped Гаечный ключ
+[11/01/2022 15:31:22]
+  Virgilio Dollinger unequipped Сварочный аппарат
+[11/01/2022 15:31:22]
+  Barton Weaver: Помогите, я истекаю кровью!
+[11/01/2022 15:31:22]
+  Barton Weaver used Шоковая дубинка (Аккумулятор) on Larissa Phillips.
+[11/01/2022 15:31:22]
+  Virgilio Dollinger equipped Сварочный аппарат
+[11/01/2022 15:31:23]
+  Virgilio Dollinger unequipped Сварочный аппарат
+[11/01/2022 15:31:23]
+  Merrill Swanson unequipped Гаечный ключ
+[11/01/2022 15:31:23]
+  Merrill Swanson equipped Гаечный ключ
+[11/01/2022 15:31:23]
+  Virgilio Dollinger equipped Сварочный аппарат
+[11/01/2022 15:31:24]
+  Barry Pool used Нож ныряльщика on Barton Weaver.
+[11/01/2022 15:31:25]
+  Larissa Phillips unequipped Дробовик
+[11/01/2022 15:31:25]
+  Larissa Phillips equipped Нож ныряльщика
+[11/01/2022 15:31:26]
+  Virgilio Dollinger unequipped Сварочный аппарат
+[11/01/2022 15:31:26]
+  Larissa Phillips used Нож ныряльщика on Barton Weaver.
+[11/01/2022 15:31:26]
+  Barry Pool used Нож ныряльщика on Barton Weaver.
+[11/01/2022 15:31:26]
+  Nick Hefner: Отвали от меня!
+[11/01/2022 15:31:26]
+  Virgilio Dollinger equipped Сварочный аппарат
+[11/01/2022 15:31:27]
+  Barry Pool used Нож ныряльщика on Larissa Phillips.
+[11/01/2022 15:31:27]
+  Larissa Phillips used Нож ныряльщика on Barry Pool.
+[11/01/2022 15:31:27]
+  Inner wall breached by Barry Pool
+[11/01/2022 15:31:27]
+  Carmen Castillo used Гаечный ключ on Barry Pool.
+[11/01/2022 15:31:31]
+  Larissa Phillips used Нож ныряльщика on Merrill Swanson.
+[11/01/2022 15:31:31]
+  Cecille Ulrich unequipped Сварочный аппарат
+[11/01/2022 15:31:31]
+  Cecille Ulrich equipped Гаечный ключ
+[11/01/2022 15:31:31]
+  Barry Pool attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:31:32]
+  Cecille Ulrich unequipped Гаечный ключ
+[11/01/2022 15:31:32]
+  Cecille Ulrich equipped Сварочный аппарат
+[11/01/2022 15:31:32]
+  Merrill Swanson: У меня кровь!
+[11/01/2022 15:31:33]
+  Merrill Swanson used Гаечный ключ on Larissa Phillips.
+[11/01/2022 15:31:35]
+  Larissa Phillips attacked by kynlan4ic. Огнестрельная рана: 11.2 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:31:37]
+  Larissa Phillips attacked by kynlan4ic. Огнестрельная рана: 11.2 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:31:38]
+  Larissa Phillips used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:39]
+  Larissa Phillips attacked by kynlan4ic. Огнестрельная рана: 11.2 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:31:40]
+  Larissa Phillips attacked by kynlan4ic. Огнестрельная рана: 11.2 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 15:31:41]
+  Cecille Ulrich unequipped Сварочный аппарат
+[11/01/2022 15:31:41]
+  Carmen Castillo unequipped Гаечный ключ
+[11/01/2022 15:31:41]
+  Virgilio Dollinger unequipped Сварочный аппарат
+[11/01/2022 15:31:41]
+  Merrill Swanson unequipped Гаечный ключ
+[11/01/2022 15:31:41]
+  Larissa Phillips used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:43]
+  Nick Hefner: Merrill Swanson получает первую помощь здесь: отсек генератора кислорода!
+[11/01/2022 15:31:44]
+  Nick Hefner: Merrill Swanson нуждается в помощи! Срочно требуется антибиотический клей, эластичный бинт или бинт!
+[11/01/2022 15:31:45]
+  Nick Hefner: Barton Weaver проходит лечение здесь: инженерный отсек!
+[11/01/2022 15:31:46]
+  Nick Hefner: Мне требуется физраствор, пакет с кровью, опиум или морфин!
+[11/01/2022 15:31:47]
+  Larissa Phillips used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:48]
+  Larissa Phillips used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:49]
+  Outer wall breached by Larissa Phillips
+[11/01/2022 15:31:49]
+  Larissa Phillips used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:50]
+  Larissa Phillips used Нож ныряльщика on kynlan4ic.
+[11/01/2022 15:31:50]
+  kynlan4ic equipped Подводный скутер
+[11/01/2022 15:31:52]
+  Barton Weaver has died (Cause of death: Кровопотеря)
+[11/01/2022 15:31:52]
+  Nick Hefner equipped Опиум
+[11/01/2022 15:31:56]
+  Nick Hefner unequipped Опиум
+[11/01/2022 15:32:01]
+  Larissa Phillips has died (Cause of death: Баротравма)
+[11/01/2022 15:32:01]
+  Информация о миссии: Главарь бандитов убит - Главарь преступников устранен. Отплывите от аванпоста, чтобы завершить задание.
+[11/01/2022 15:32:03]
+  Cecille Gallagher has died (Cause of death: Кровопотеря)
+[11/01/2022 15:32:04]
+  Merrill Swanson: Я теряю много крови!
+[11/01/2022 15:32:05]
+  Nick Hefner: Надо найти водолазный скафандр!
+[11/01/2022 15:32:08]
+  Nick Hefner: kynlan4ic получает первую помощь здесь: отсек генератора кислорода!
+[11/01/2022 15:32:11]
+  Nick Hefner: kynlan4ic нуждается в помощи! Срочно требуется физраствор, пакет с кровью, антибиотический клей или эластичный бинт!
+[11/01/2022 15:32:13]
+  Cecille Ulrich equipped Сварочный аппарат
+[11/01/2022 15:32:13]
+  Outer wall repaired by Cecille Ulrich
+[11/01/2022 15:32:14]
+  Cecille Ulrich: Воздушный шлюз: протечек не осталось!
+[11/01/2022 15:32:14]
+  Cecille Ulrich unequipped Сварочный аппарат
+[11/01/2022 15:32:17]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 519)
+[11/01/2022 15:32:19]
+  kynlan4ic placed Ручной сонар in Средний стальной шкаф с окном (ID: 519)
+[11/01/2022 15:32:22]
+  Nick Hefner: Merrill Swanson в полном порядке!
+[11/01/2022 15:32:23]
+  Merrill Swanson equipped Шоковая дубинка
+[11/01/2022 15:32:23]
+  kynlan4ic picked up Сигнальный огонь
+[11/01/2022 15:32:24]
+  kynlan4ic picked up Сигнальный огонь
+[11/01/2022 15:32:24]
+  Barry Pool has died (Cause of death: Кровопотеря)
+[11/01/2022 15:32:31]
+  Nick Hefner equipped Водолазный скафандр
+[11/01/2022 15:32:33]
+  Virgilio Dollinger equipped Лом
+[11/01/2022 15:33:10]
+  kynlan4ic closed Настраиваемый люк
+[11/01/2022 15:33:10]
+  kynlan4ic undocked Sardine from Аванпост Telephassa Linea
+[11/01/2022 15:33:10]
+  Ending the round...

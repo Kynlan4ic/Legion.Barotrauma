@@ -1,0 +1,1604 @@
+﻿[10/31/2022 23:10:15]
+  Saving client permissions
+[10/31/2022 23:10:15]
+  Saving client permissions
+[10/31/2022 23:10:35]
+  Игрок igameCrog присоединился к серверу.
+[10/31/2022 23:10:35]
+  Saving client permissions
+[10/31/2022 23:10:38]
+  kynlan4ic is ready to start the game.
+[10/31/2022 23:10:52]
+  Console command "enablecheats" executed by kynlan4ic.
+[10/31/2022 23:11:05]
+  igameCrog is ready to start the game.
+[10/31/2022 23:11:12]
+  Client "kynlan4ic" started the round.
+[10/31/2022 23:11:12]
+  Starting a new round...
+[10/31/2022 23:11:40]
+  Миссия: Добыча артефакта
+[10/31/2022 23:11:40]
+  Центр Set: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.
+[10/31/2022 23:11:40]
+  Game mode: Миссия
+[10/31/2022 23:11:40]
+  Submarine: Sardine
+[10/31/2022 23:11:40]
+  Level seed: 5NpLt7kM
+[10/31/2022 23:11:40]
+  Mission: Добыча артефакта
+[10/31/2022 23:11:40]
+  Maybell Graves equipped Сварочный аппарат
+[10/31/2022 23:11:40]
+  Jaida Lucas equipped Гаечный ключ
+[10/31/2022 23:11:40]
+  Irwin Basnett equipped Отвертка
+[10/31/2022 23:11:40]
+  Round started.
+[10/31/2022 23:11:41]
+  Fractalguardian equipped Гарпун стража
+[10/31/2022 23:11:41]
+  Danielle Krall: Загружаю в реактор дополнительное топливо!
+[10/31/2022 23:11:41]
+  Masako Saunders: У тебя не бывает такого, что кажется, будто вся эта луна против нас?
+[10/31/2022 23:11:41]
+  Danielle Krall equipped Топливный стержень
+[10/31/2022 23:11:41]
+  Mariela Craig: Загружаю в реактор дополнительное топливо!
+[10/31/2022 23:11:41]
+  Austin Parchman: Загружаю в реактор дополнительное топливо!
+[10/31/2022 23:11:48]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 23:12:00]
+  kynlan4ic picked up Водолазный скафандр
+[10/31/2022 23:12:02]
+  kynlan4ic equipped Водолазный скафандр
+[10/31/2022 23:12:03]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 23:12:15]
+  igameCrog picked up Яйца велонацепса каликса
+[10/31/2022 23:12:15]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:12:16]
+  igameCrog picked up Серная кислота
+[10/31/2022 23:12:16]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:12:17]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:12:18]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:12:19]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  igameCrog picked up Морфин
+[10/31/2022 23:12:19]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:20]
+  igameCrog picked up Бинт
+[10/31/2022 23:12:21]
+  igameCrog placed Бинт in Аптечка (ID: 498)
+[10/31/2022 23:12:22]
+  igameCrog placed Морфин in Аптечка (ID: 498)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:24]
+  igameCrog placed Бинт in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:26]
+  igameCrog placed Морфин in Форма врача (ID: 7396)
+[10/31/2022 23:12:27]
+  igameCrog placed Яйца велонацепса каликса in Форма врача (ID: 7396)
+[10/31/2022 23:12:38]
+  igameCrog used item Яйца велонацепса каликса
+[10/31/2022 23:12:43]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:12:44]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:12:44]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:12:54]
+  Игрок return присоединился к серверу.
+[10/31/2022 23:12:54]
+  Saving client permissions
+[10/31/2022 23:13:36]
+  Dispatching the respawn shuttle.
+[10/31/2022 23:13:36]
+  Respawning return (STEAM_1:1:25879856) as Помощник
+[10/31/2022 23:13:37]
+  return set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 23:13:44]
+  igameCrog is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[10/31/2022 23:14:48]
+  kynlan4ic picked up Подводный скутер
+[10/31/2022 23:14:56]
+  return docked Venture to Sardine
+[10/31/2022 23:14:59]
+  return picked up Одноразовый водолазный скафандр
+[10/31/2022 23:15:02]
+  return picked up Дементонитовый лом
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Кислородный баллон
+[10/31/2022 23:15:06]
+  return picked up Плазменный резак
+[10/31/2022 23:15:07]
+  return picked up Ручной сонар
+[10/31/2022 23:15:08]
+  return picked up Подводная маска
+[10/31/2022 23:15:08]
+  return picked up Подводный скутер
+[10/31/2022 23:15:09]
+  return picked up Подводная маска
+[10/31/2022 23:15:10]
+  return picked up Закаленный лом
+[10/31/2022 23:15:24]
+  return equipped Подводный скутер
+[10/31/2022 23:15:24]
+  return picked up Подводный скутер
+[10/31/2022 23:15:35]
+  return equipped Дементонитовый лом
+[10/31/2022 23:15:37]
+  The respawn shuttle is leaving.
+[10/31/2022 23:15:38]
+  return dropped Дементонитовый лом
+[10/31/2022 23:15:42]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:15:43]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:15:43]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:15:44]
+  Austin Parchman equipped Дементонитовый лом
+[10/31/2022 23:15:44]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 378)
+[10/31/2022 23:15:44]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 378)
+[10/31/2022 23:15:44]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 378)
+[10/31/2022 23:15:46]
+  igameCrog picked up Каликсанид
+[10/31/2022 23:15:47]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 385)
+[10/31/2022 23:15:47]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 385)
+[10/31/2022 23:15:47]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 385)
+[10/31/2022 23:15:51]
+  igameCrog placed Каликсанид in Форма врача (ID: 7396)
+[10/31/2022 23:16:02]
+  kynlan4ic equipped Револьвер
+[10/31/2022 23:16:03]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[10/31/2022 23:16:05]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[10/31/2022 23:16:06]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[10/31/2022 23:16:06]
+  Austin Parchman attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[10/31/2022 23:16:07]
+  Austin Parchman equipped Сварочный аппарат
+[10/31/2022 23:16:07]
+  Austin Parchman: Прекрати!
+[10/31/2022 23:16:08]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[10/31/2022 23:16:09]
+  The respawn shuttle has left.
+[10/31/2022 23:16:10]
+  Austin Parchman: Помогите, я истекаю кровью!
+[10/31/2022 23:16:11]
+  Masako Saunders equipped Шоковая дубинка
+[10/31/2022 23:16:12]
+  igameCrog used item Каликсанид
+[10/31/2022 23:16:12]
+  Masako Saunders used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/31/2022 23:16:13]
+  return equipped Закаленный лом
+[10/31/2022 23:16:15]
+  kynlan4ic attacked by return. Травма от удара тупым предметом: 5.8999996 Лучевая болезнь: 0.75 Оглушение: 0.6
+[10/31/2022 23:16:15]
+  return used Закаленный лом on kynlan4ic.
+[10/31/2022 23:16:16]
+  Masako Saunders used Шоковая дубинка (Аккумулятор) on return.
+[10/31/2022 23:16:17]
+  Austin Parchman unequipped Сварочный аппарат
+[10/31/2022 23:16:21]
+  Masako Saunders unequipped Шоковая дубинка
+[10/31/2022 23:16:22]
+  kynlan4ic attacked by return. Травма от удара тупым предметом: 5.8999996 Лучевая болезнь: 0.75 Оглушение: 0.6
+[10/31/2022 23:16:22]
+  return used Закаленный лом on kynlan4ic.
+[10/31/2022 23:16:29]
+  Socorro Phoenix: Austin Parchman проходит лечение здесь: инженерный отсек!
+[10/31/2022 23:16:31]
+  Socorro Phoenix: Austin Parchman чувствует себя хорошо!
+[10/31/2022 23:16:32]
+  return unequipped Закаленный лом
+[10/31/2022 23:16:32]
+  return equipped Медконтейнер
+[10/31/2022 23:16:33]
+  return dropped Медконтейнер
+[10/31/2022 23:16:35]
+  return equipped Закаленный лом
+[10/31/2022 23:16:41]
+  Socorro Phoenix equipped Бинт
+[10/31/2022 23:16:41]
+  Socorro Phoenix: igameCrog проходит лечение здесь: пункт управления!
+[10/31/2022 23:16:42]
+  Socorro Phoenix: igameCrog нуждается в помощи! Срочно требуется инопланетная кровь, физраствор, пакет с кровью или опиум!
+[10/31/2022 23:16:42]
+  kynlan4ic attacked by return. Травма от удара тупым предметом: 5.8999996 Лучевая болезнь: 0.75 Оглушение: 0.6
+[10/31/2022 23:16:42]
+  return used Закаленный лом on kynlan4ic.
+[10/31/2022 23:16:43]
+  kynlan4ic dropped Водолазный скафандр
+[10/31/2022 23:16:44]
+  Socorro Phoenix equipped Бинт
+[10/31/2022 23:16:48]
+  Socorro Phoenix equipped Пакет с кровью
+[10/31/2022 23:16:51]
+  return picked up Водолазный скафандр
+[10/31/2022 23:16:51]
+  return dropped Одноразовый водолазный скафандр
+[10/31/2022 23:16:53]
+  Socorro Phoenix equipped Морфин
+[10/31/2022 23:16:59]
+  Socorro Phoenix equipped Налоксон
+[10/31/2022 23:17:00]
+  return equipped Подводный скутер
+[10/31/2022 23:17:02]
+  kynlan4ic equipped Подводный скутер
+[10/31/2022 23:17:03]
+  Socorro Phoenix equipped Бинт
+[10/31/2022 23:17:04]
+  igameCrog picked up Пакет с кровью
+[10/31/2022 23:17:05]
+  Socorro Phoenix: igameCrog чувствует себя хорошо!
+[10/31/2022 23:17:14]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:17:15]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:17:15]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:18:10]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/31/2022 23:18:20]
+  Dispatching the respawn shuttle.
+[10/31/2022 23:18:20]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/31/2022 23:18:22]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 23:18:38]
+  Outer wall breached by Mudraptor
+[10/31/2022 23:18:43]
+  igameCrog picked up Водолазный скафандр
+[10/31/2022 23:18:47]
+  Outer wall breached by Mudraptor
+[10/31/2022 23:18:54]
+  Inner wall breached by Mudraptor
+[10/31/2022 23:18:54]
+  Austin Parchman equipped Гаечный ключ
+[10/31/2022 23:18:56]
+  Austin Parchman used Гаечный ключ on igameCrog.
+[10/31/2022 23:18:57]
+  Outer wall breached by Mudraptor
+[10/31/2022 23:18:57]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:18:58]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:18:58]
+  Masako Saunders equipped Шоковая дубинка
+[10/31/2022 23:18:59]
+  Austin Parchman unequipped Гаечный ключ
+[10/31/2022 23:18:59]
+  Austin Parchman equipped Сварочный аппарат
+[10/31/2022 23:18:59]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:18:59]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:18:59]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:18:59]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:18:59]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:19:00]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:19:00]
+  Outer wall breached by Mudraptor
+[10/31/2022 23:19:00]
+  Masako Saunders unequipped Шоковая дубинка
+[10/31/2022 23:19:00]
+  Masako Saunders equipped Шоковая дубинка
+[10/31/2022 23:19:00]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:19:01]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:19:01]
+  Austin Parchman: Надо найти водолазный скафандр!
+[10/31/2022 23:19:01]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:19:02]
+  Austin Parchman: Я теряю много крови!
+[10/31/2022 23:19:04]
+  Masako Saunders used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/31/2022 23:19:04]
+  Inner wall breached by Mudraptor
+[10/31/2022 23:19:04]
+  Austin Parchman unequipped Сварочный аппарат
+[10/31/2022 23:19:04]
+  Austin Parchman equipped Гаечный ключ
+[10/31/2022 23:19:05]
+  Austin Parchman unequipped Гаечный ключ
+[10/31/2022 23:19:05]
+  Austin Parchman equipped Сварочный аппарат
+[10/31/2022 23:19:05]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:19:05]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:19:05]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:19:05]
+  Danielle Krall equipped Отвертка
+[10/31/2022 23:19:06]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:19:06]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:19:06]
+  Danielle Krall unequipped Отвертка
+[10/31/2022 23:19:06]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:19:07]
+  Masako Saunders used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/31/2022 23:19:08]
+  Masako Saunders: У меня кровь!
+[10/31/2022 23:19:09]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:19:09]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:19:09]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:19:09]
+  Danielle Krall equipped Отвертка
+[10/31/2022 23:19:09]
+  Masako Saunders unequipped Шоковая дубинка
+[10/31/2022 23:19:09]
+  Masako Saunders equipped Нож ныряльщика
+[10/31/2022 23:19:10]
+  Danielle Krall unequipped Отвертка
+[10/31/2022 23:19:11]
+  Masako Saunders: Надо найти водолазный скафандр!
+[10/31/2022 23:19:11]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:19:12]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:19:14]
+  Outer wall breached by Mudraptor
+[10/31/2022 23:19:16]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:19:19]
+  Masako Saunders unequipped Нож ныряльщика
+[10/31/2022 23:19:19]
+  Masako Saunders equipped Пистолет-пулемет
+[10/31/2022 23:19:19]
+  Murray Santistevan: Надо найти водолазный скафандр!
+[10/31/2022 23:19:23]
+  Mariela Craig: Надо найти водолазный скафандр!
+[10/31/2022 23:19:24]
+  Socorro Phoenix: Мне нужно подводное снаряжение!
+[10/31/2022 23:19:24]
+  Danielle Krall: Мне нужно подводное снаряжение!
+[10/31/2022 23:19:25]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:19:31]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:19:31]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:19:32]
+  Austin Parchman unequipped Сварочный аппарат
+[10/31/2022 23:19:34]
+  Danielle Krall equipped Отвертка
+[10/31/2022 23:19:36]
+  Masako Saunders unequipped Пистолет-пулемет
+[10/31/2022 23:19:36]
+  Masako Saunders equipped Нож ныряльщика
+[10/31/2022 23:19:37]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:19:39]
+  kynlan4ic has died (Cause of death: Огнестрельная рана)
+[10/31/2022 23:19:39]
+  Masako Saunders used Нож ныряльщика on kynlan4ic.
+[10/31/2022 23:19:39]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:19:39]
+  Masako Saunders unequipped Нож ныряльщика
+[10/31/2022 23:19:39]
+  Danielle Krall unequipped Отвертка
+[10/31/2022 23:19:41]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:41]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:42]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:42]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:43]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:43]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:44]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:44]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:44]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:44]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:44]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:44]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:45]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:45]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:45]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:45]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:45]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:45]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:46]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:46]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:46]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:46]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:46]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:46]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:46]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:46]
+  Austin Parchman equipped Магазин для ПП
+[10/31/2022 23:19:46]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:47]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:47]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:47]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:47]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:47]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:47]
+  Mudraptor attacked by return. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/31/2022 23:19:47]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:47]
+  Mudraptor has died (Cause of death: Рваная рана)
+[10/31/2022 23:19:47]
+  Mudraptor attacked by return. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/31/2022 23:19:47]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:48]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:48]
+  return launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/31/2022 23:19:48]
+  Mudraptor attacked by return. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/31/2022 23:19:51]
+  Murray Santistevan: Мне нужно подводное снаряжение!
+[10/31/2022 23:19:51]
+  igameCrog used item Морфин
+[10/31/2022 23:19:54]
+  Mariela Craig: Надо найти водолазный скафандр!
+[10/31/2022 23:19:55]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:20:01]
+  kynlan4ic docked Venture to Sardine
+[10/31/2022 23:20:03]
+  Masako Saunders equipped Сварочный аппарат
+[10/31/2022 23:20:03]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:20:04]
+  Austin Parchman equipped Сварочный аппарат
+[10/31/2022 23:20:04]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:20:04]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/31/2022 23:20:05]
+  Outer wall repaired by Austin Parchman
+[10/31/2022 23:20:05]
+  Austin Parchman: Отсек генератора кислорода: все протечки устранены!
+[10/31/2022 23:20:07]
+  kynlan4ic picked up Подводный скутер
+[10/31/2022 23:20:07]
+  Austin Parchman unequipped Сварочный аппарат
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Плазменный резак
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:20:09]
+  Masako Saunders: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/31/2022 23:20:09]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:20:10]
+  Outer wall repaired by Masako Saunders
+[10/31/2022 23:20:10]
+  Masako Saunders: Орудийный отсек: протечек не осталось!
+[10/31/2022 23:20:11]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:20:11]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:20:11]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:20:12]
+  Outer wall repaired by Masako Saunders
+[10/31/2022 23:20:12]
+  Inner wall repaired by Masako Saunders
+[10/31/2022 23:20:13]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:20:20]
+  Austin Parchman: Кажется, у меня жар.
+[10/31/2022 23:20:20]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:20:20]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:20:21]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/31/2022 23:20:23]
+  Masako Saunders unequipped Сварочный аппарат
+[10/31/2022 23:20:23]
+  Socorro Phoenix: return проходит лечение здесь: отсек генератора кислорода!
+[10/31/2022 23:20:24]
+  Socorro Phoenix: return нуждается в помощи! Срочно требуется опиум или морфин!
+[10/31/2022 23:20:25]
+  Socorro Phoenix equipped Опиум
+[10/31/2022 23:20:27]
+  Socorro Phoenix: return в полном порядке!
+[10/31/2022 23:20:28]
+  Masako Saunders: Кажется, у меня жар.
+[10/31/2022 23:20:33]
+  Masako Saunders equipped Нож ныряльщика
+[10/31/2022 23:20:33]
+  Masako Saunders unequipped Нож ныряльщика
+[10/31/2022 23:20:34]
+  Masako Saunders: Надо найти водолазный скафандр!
+[10/31/2022 23:20:34]
+  kynlan4ic closed Настраиваемый люк
+[10/31/2022 23:20:35]
+  kynlan4ic undocked Venture from Sardine
+[10/31/2022 23:20:35]
+  Danielle Krall: Мне нужно подводное снаряжение!
+[10/31/2022 23:20:35]
+  Murray Santistevan: Мне нужно подводное снаряжение!
+[10/31/2022 23:20:36]
+  Socorro Phoenix: Надо найти водолазный скафандр!
+[10/31/2022 23:20:36]
+  Austin Parchman: Мне нужно подводное снаряжение!
+[10/31/2022 23:20:40]
+  return покидает сервер.
+[10/31/2022 23:20:47]
+  Socorro Phoenix equipped Аккумулятор
+[10/31/2022 23:20:50]
+  Murray Santistevan equipped Водолазный скафандр
+[10/31/2022 23:20:57]
+  Socorro Phoenix equipped Водолазный скафандр
+[10/31/2022 23:21:18]
+  igameCrog used item Морфин
+[10/31/2022 23:21:19]
+  igameCrog used item Морфин
+[10/31/2022 23:21:22]
+  igameCrog used item Морфин
+[10/31/2022 23:21:35]
+  igameCrog used item Морфин
+[10/31/2022 23:21:39]
+  igameCrog used item Морфин
+[10/31/2022 23:21:42]
+  Austin Parchman: У меня что-то во рту...
+[10/31/2022 23:21:42]
+  Inner wall breached by Tigerthresher
+[10/31/2022 23:21:43]
+  igameCrog used item Морфин
+[10/31/2022 23:21:49]
+  Masako Saunders: У меня что-то во рту...
+[10/31/2022 23:21:50]
+  Outer wall breached by Tigerthresher
+[10/31/2022 23:22:40]
+  igameCrog picked up Подводная маска
+[10/31/2022 23:22:44]
+  igameCrog picked up Дементонитовый лом
+[10/31/2022 23:22:45]
+  igameCrog picked up Отвертка
+[10/31/2022 23:22:45]
+  igameCrog picked up Гаечный ключ
+[10/31/2022 23:22:47]
+  Inner wall breached by Tigerthresher
+[10/31/2022 23:22:48]
+  kynlan4ic picked up Закаленный лом
+[10/31/2022 23:22:52]
+  Inner wall breached by Tigerthresher
+[10/31/2022 23:22:52]
+  kynlan4ic equipped Закаленный лом
+[10/31/2022 23:22:54]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 7.3749995 Лучевая болезнь: 0.75 Оглушение: 0.6
+[10/31/2022 23:22:54]
+  kynlan4ic used Закаленный лом on igameCrog.
+[10/31/2022 23:22:56]
+  Murray Santistevan equipped Отвертка
+[10/31/2022 23:22:56]
+  Murray Santistevan started repairing Батарея
+[10/31/2022 23:23:02]
+  kynlan4ic picked up Лом
+[10/31/2022 23:23:09]
+  igameCrog used item Морфин
+[10/31/2022 23:23:11]
+  igameCrog used item Бинт
+[10/31/2022 23:23:13]
+  Murray Santistevan started repairing Батарея
+[10/31/2022 23:23:13]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:13]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:13]
+  igameCrog used item Бинт
+[10/31/2022 23:23:15]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:15]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:17]
+  igameCrog equipped Дементонитовый лом
+[10/31/2022 23:23:19]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:19]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:23]
+  Austin Parchman equipped Топливный стержень
+[10/31/2022 23:23:24]
+  Mariela Craig: Загружаю в реактор дополнительное топливо!
+[10/31/2022 23:23:25]
+  return has died (Cause of death: Нехватка кислорода)
+[10/31/2022 23:23:26]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:26]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:28]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:28]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:29]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:29]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:31]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:31]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:32]
+  Tigerthresher has died (Cause of death: Травма от удара тупым предметом)
+[10/31/2022 23:23:32]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 20 Лучевая болезнь: 1 Оглушение: 0.6
+[10/31/2022 23:23:32]
+  kynlan4ic used Закаленный лом on Tigerthresher.
+[10/31/2022 23:23:33]
+  Murray Santistevan started repairing Навигационный терминал
+[10/31/2022 23:23:36]
+  Socorro Phoenix equipped Закаленный лом
+[10/31/2022 23:23:42]
+  kynlan4ic picked up Инопланетная кровь
+[10/31/2022 23:23:44]
+  Murray Santistevan unequipped Отвертка
+[10/31/2022 23:23:49]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/31/2022 23:24:08]
+  igameCrog placed Кислородный баллон in Human
+[10/31/2022 23:24:08]
+  igameCrog removed Кислородный баллон from Human
+[10/31/2022 23:24:08]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 271)
+[10/31/2022 23:24:30]
+  kynlan4ic: ХМ
+[10/31/2022 23:24:36]
+  kynlan4ic: ББ
+[10/31/2022 23:24:45]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:24:45]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:24:49]
+  Socorro Phoenix: Мне нужно подводное снаряжение!
+[10/31/2022 23:24:49]
+  Murray Santistevan: Мне нужно подводное снаряжение!
+[10/31/2022 23:24:50]
+  Danielle Krall: Мне нужно подводное снаряжение!
+[10/31/2022 23:24:55]
+  Danielle Krall: Меняем кислородные баллоны!
+[10/31/2022 23:24:55]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:24:55]
+  Inner wall breached by Bonethresher
+[10/31/2022 23:24:55]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:24:55]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:24:59]
+  Austin Parchman has died (Cause of death: Внутренняя травма)
+[10/31/2022 23:25:00]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:01]
+  igameCrog has died (Cause of death: Внутренняя травма)
+[10/31/2022 23:25:05]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:25:05]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:07]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:07]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:07]
+  Mariela Craig: Надо найти водолазный скафандр!
+[10/31/2022 23:25:10]
+  Masako Saunders has died (Cause of death: Внутренняя травма)
+[10/31/2022 23:25:11]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:15]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:16]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:25:17]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:17]
+  Inner wall breached by Bonethresher
+[10/31/2022 23:25:21]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:21]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:21]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:22]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:25:25]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:29]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:29]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:31]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:32]
+  Murray Santistevan unequipped Гаечный ключ
+[10/31/2022 23:25:35]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:35]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:35]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:36]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:36]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:36]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:36]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:36]
+  Murray Santistevan equipped Гаечный ключ
+[10/31/2022 23:25:36]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:39]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:39]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:40]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:40]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:41]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:41]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:25:41]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:25:41]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:42]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:42]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:25:42]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:42]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:43]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:25:43]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:44]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:44]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:47]
+  Mariela Craig: У меня кровь!
+[10/31/2022 23:25:47]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:47]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:25:48]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:25:48]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:49]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:49]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:25:49]
+  The respawn shuttle is leaving.
+[10/31/2022 23:25:50]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:25:50]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:50]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:50]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:50]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:50]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:51]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:51]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:25:51]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:25:51]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:51]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:51]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:52]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:52]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:52]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:53]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:53]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:25:53]
+  Danielle Krall: Я теряю много крови!
+[10/31/2022 23:25:53]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:25:53]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:25:54]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:25:54]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:25:54]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:25:54]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:25:55]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:58]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:59]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:25:59]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:25:59]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:02]
+  Mariela Craig used Гаечный ключ on return.
+[10/31/2022 23:26:03]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:03]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:08]
+  Игрок Fantomchek присоединился к серверу.
+[10/31/2022 23:26:08]
+  Saving client permissions
+[10/31/2022 23:26:09]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:09]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:09]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:09]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:12]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/31/2022 23:26:15]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:15]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:15]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:15]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:16]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:16]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:16]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:16]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:18]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:18]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:19]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:19]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:20]
+  The respawn shuttle has left.
+[10/31/2022 23:26:20]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:20]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:21]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:21]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:22]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:22]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:22]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:22]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:23]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:23]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:24]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:24]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:25]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:25]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:26]
+  Socorro Phoenix: Я теряю много крови!
+[10/31/2022 23:26:26]
+  Danielle Krall: У меня кровь!
+[10/31/2022 23:26:27]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:27]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:27]
+  Mariela Craig: Что-то в горле першит.
+[10/31/2022 23:26:28]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:28]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:29]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:29]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:29]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:29]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:30]
+  Dispatching the respawn shuttle.
+[10/31/2022 23:26:30]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/31/2022 23:26:30]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/31/2022 23:26:30]
+  Murray Santistevan: Помогите, я истекаю кровью!
+[10/31/2022 23:26:31]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:31]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:31]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:31]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:31]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:31]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:31]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:31]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:32]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 23:26:32]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:32]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:32]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/31/2022 23:26:33]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:33]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:33]
+  Mariela Craig: У меня кровь!
+[10/31/2022 23:26:34]
+  Murray Santistevan: Я чувствую жуткую слабость. Все тело болит.
+[10/31/2022 23:26:36]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:36]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:38]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/31/2022 23:26:39]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:39]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:39]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:39]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:40]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/31/2022 23:26:40]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:40]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:40]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:40]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:40]
+  Socorro Phoenix: Я чувствую жуткую слабость. Все тело болит.
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:41]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:26:42]
+  kynlan4ic picked up Дементонитовый лом
+[10/31/2022 23:26:44]
+  kynlan4ic picked up Плазменный резак
+[10/31/2022 23:26:44]
+  kynlan4ic picked up Подводный скутер
+[10/31/2022 23:26:46]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:46]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:46]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:46]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:46]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:46]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:47]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:47]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:48]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:26:48]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:26:48]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:26:48]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:26:50]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:26:50]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:26:51]
+  kynlan4ic is a traitor and the current goals are:
+- Изучите печени членов экипажа. Найдите ту, что похожа на печень ползуна. (В процессе)
+
+[10/31/2022 23:26:51]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:26:51]
+  igameCrog picked up Кислородный баллон
+[10/31/2022 23:26:53]
+  igameCrog picked up Подводная маска
+[10/31/2022 23:26:54]
+  igameCrog picked up Подводный скутер
+[10/31/2022 23:26:54]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:54]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:55]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:55]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:55]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:26:55]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:26:56]
+  igameCrog picked up Отвертка
+[10/31/2022 23:26:56]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:26:56]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:26:56]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:56]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:56]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:56]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:57]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:26:57]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:26:58]
+  igameCrog picked up Закаленный лом
+[10/31/2022 23:26:58]
+  Danielle Krall used Гаечный ключ on Murray Santistevan.
+[10/31/2022 23:26:59]
+  igameCrog picked up Гаечный ключ
+[10/31/2022 23:26:59]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:26:59]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:26:59]
+  kynlan4ic picked up Подводная маска
+[10/31/2022 23:26:59]
+  Danielle Krall: У меня кровь!
+[10/31/2022 23:26:59]
+  kynlan4ic picked up Подводная маска
+[10/31/2022 23:27:00]
+  kynlan4ic picked up Подводная маска
+[10/31/2022 23:27:00]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:01]
+  Danielle Krall: Кажется, у меня жар.
+[10/31/2022 23:27:01]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:01]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:01]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:27:02]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:02]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:02]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:02]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:02]
+  Socorro Phoenix: Я теряю много крови!
+[10/31/2022 23:27:03]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:27:03]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:03]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:04]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:04]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:04]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:04]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:04]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:04]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:04]
+  Murray Santistevan: Я теряю много крови!
+[10/31/2022 23:27:04]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:05]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:05]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:05]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:05]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:05]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:27:05]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:27:06]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:06]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:07]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:27:08]
+  kynlan4ic picked up Кислородный баллон
+[10/31/2022 23:27:08]
+  Mariela Craig: Помогите, я истекаю кровью!
+[10/31/2022 23:27:09]
+  kynlan4ic placed Подводная маска in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:27:09]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:09]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:09]
+  kynlan4ic placed Подводная маска in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:27:09]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:09]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:09]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:10]
+  kynlan4ic placed Подводная маска in Средний стальной шкаф (ID: 6976)
+[10/31/2022 23:27:14]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:14]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:15]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:15]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:15]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:15]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:15]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:15]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:15]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:16]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:16]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:16]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:16]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:16]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:16]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:16]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:16]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:17]
+  igameCrog removed Одноразовый водолазный скафандр from Шкаф для подводного снаряжения (ID: 6694)
+[10/31/2022 23:27:18]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:18]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:18]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:18]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:18]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:19]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:19]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:19]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:19]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:20]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:20]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:21]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:21]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:21]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:21]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:21]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:21]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:24]
+  Danielle Krall used Гаечный ключ on return.
+[10/31/2022 23:27:24]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:24]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:25]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:25]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:25]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:25]
+  igameCrog equipped Одноразовый водолазный скафандр
+[10/31/2022 23:27:27]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:27]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:28]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:28]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:28]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:28]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:29]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:29]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:29]
+  kynlan4ic docked Venture to Sardine
+[10/31/2022 23:27:29]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:27:29]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:27:30]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:27:30]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:27:31]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:31]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:33]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:33]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:33]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:34]
+  Socorro Phoenix: Отвали от меня!
+[10/31/2022 23:27:35]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:35]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:35]
+  Danielle Krall: Я теряю много крови!
+[10/31/2022 23:27:36]
+  Mariela Craig: У меня что-то во рту...
+[10/31/2022 23:27:36]
+  Mariela Craig: Отвали от меня!
+[10/31/2022 23:27:36]
+  Murray Santistevan: У меня что-то во рту...
+[10/31/2022 23:27:37]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:37]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:38]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:38]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:42]
+  Mariela Craig: У меня кровь!
+[10/31/2022 23:27:42]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:42]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:42]
+  Murray Santistevan used Гаечный ключ on Masako Saunders.
+[10/31/2022 23:27:42]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:44]
+  Murray Santistevan: У меня кровь!
+[10/31/2022 23:27:46]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:47]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:47]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:47]
+  Murray Santistevan used Гаечный ключ on Socorro Phoenix.
+[10/31/2022 23:27:48]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:48]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:50]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:50]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:50]
+  Murray Santistevan used Гаечный ключ on Austin Parchman.
+[10/31/2022 23:27:52]
+  Inner wall breached by Bonethresher
+[10/31/2022 23:27:52]
+  Outer wall breached by Bonethresher
+[10/31/2022 23:27:52]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:52]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:53]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:53]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:55]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:55]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:58]
+  igameCrog closed Настраиваемый люк
+[10/31/2022 23:27:58]
+  Socorro Phoenix: У меня кровь!
+[10/31/2022 23:27:58]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:27:58]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:27:58]
+  igameCrog undocked Venture from Sardine
+[10/31/2022 23:27:58]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:27:58]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:27:59]
+  Murray Santistevan used Гаечный ключ on Masako Saunders.
+[10/31/2022 23:28:00]
+  Socorro Phoenix: У меня что-то во рту...
+[10/31/2022 23:28:00]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:28:00]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:28:01]
+  Murray Santistevan used Гаечный ключ on Danielle Krall.
+[10/31/2022 23:28:01]
+  Mariela Craig used Гаечный ключ on return.
+[10/31/2022 23:28:01]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:28:01]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:28:02]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:28:02]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:28:02]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:28:02]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:28:04]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:28:04]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:28:05]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:28:05]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:28:06]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:28:06]
+  Danielle Krall equipped Сварочный аппарат
+[10/31/2022 23:28:06]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:28:06]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:28:09]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:28:09]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:28:10]
+  Danielle Krall unequipped Сварочный аппарат
+[10/31/2022 23:28:10]
+  Danielle Krall equipped Гаечный ключ
+[10/31/2022 23:28:10]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:28:10]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:28:10]
+  Danielle Krall: У меня кровь!
+[10/31/2022 23:28:11]
+  Mariela Craig unequipped Сварочный аппарат
+[10/31/2022 23:28:11]
+  Mariela Craig equipped Гаечный ключ
+[10/31/2022 23:28:11]
+  Danielle Krall: У меня что-то во рту...
+[10/31/2022 23:28:11]
+  Mariela Craig unequipped Гаечный ключ
+[10/31/2022 23:28:11]
+  Mariela Craig equipped Сварочный аппарат
+[10/31/2022 23:28:12]
+  Danielle Krall unequipped Гаечный ключ
+[10/31/2022 23:28:12]
+  Danielle Krall equipped Сварочный аппарат

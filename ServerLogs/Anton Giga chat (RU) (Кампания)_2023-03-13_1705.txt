@@ -1,0 +1,1600 @@
+﻿[03/13/2023 16:44:28]
+  Saving client permissions
+[03/13/2023 16:44:28]
+  Saving client permissions
+[03/13/2023 16:45:27]
+  Gamemode changed to Кампания
+[03/13/2023 16:46:04]
+  kynlan4ic changed PlayStyle to Serious
+[03/13/2023 16:46:04]
+  kynlan4ic changed LosMode to Transparent
+[03/13/2023 16:46:04]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/13/2023 16:46:04]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/13/2023 16:46:04]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/13/2023 16:51:43]
+  Игрок vlad32 присоединился к серверу.
+[03/13/2023 16:51:43]
+  Saving client permissions
+[03/13/2023 16:52:01]
+  vlad32 is ready to start the game.
+[03/13/2023 16:52:42]
+  Starting a new round...
+[03/13/2023 16:52:46]
+  vlad32 is not ready to start the game.
+[03/13/2023 16:53:57]
+  Lora Ramos equipped ТП
+[03/13/2023 16:53:57]
+  Creola Castro equipped Гаечный ключ
+[03/13/2023 16:53:57]
+  Creola Castro unequipped Гаечный ключ
+[03/13/2023 16:53:57]
+  Creola Castro equipped Отвертка
+[03/13/2023 16:53:57]
+  Trudie Rangel equipped Гаечный ключ
+[03/13/2023 16:53:57]
+  Trudie Rangel unequipped Гаечный ключ
+[03/13/2023 16:53:57]
+  Trudie Rangel equipped Отвертка
+[03/13/2023 16:53:57]
+  Cleopatra Castillo equipped Гаечный ключ
+[03/13/2023 16:53:57]
+  Cleopatra Castillo unequipped Гаечный ключ
+[03/13/2023 16:53:57]
+  Cleopatra Castillo equipped Отвертка
+[03/13/2023 16:53:59]
+  Cleopatra Castillo unequipped Отвертка
+[03/13/2023 16:53:59]
+  Cleopatra Castillo equipped Лом
+[03/13/2023 16:53:59]
+  Cinda Phillips equipped Гаечный ключ
+[03/13/2023 16:53:59]
+  Cinda Phillips unequipped Гаечный ключ
+[03/13/2023 16:53:59]
+  Cinda Phillips equipped Отвертка
+[03/13/2023 16:53:59]
+  Cinda Phillips unequipped Отвертка
+[03/13/2023 16:53:59]
+  Cinda Phillips equipped Лом
+[03/13/2023 16:53:59]
+  Миссия: Разбор обломков
+[03/13/2023 16:53:59]
+  В точке "Bast" только что был получен сигнал бедствия с судна, которое считалось пропавшим вместе с находившимися на его борту особо секретными зашифрованными данными. Ваше приоритетное задание - найти журнал капитана и вернуть его.
+[03/13/2023 16:53:59]
+  Миссия: Heavy Pirate Vessel
+[03/13/2023 16:53:59]
+  Seek out the pirate vessel that has been terrorizing this area and eliminate its crew, but keep in mind these pirates managed to strengthen their hull so you either pack heavy firepower or aim for the doors and hatches! The marked locations show where the ship has last been sighted.
+[03/13/2023 16:53:59]
+  Game mode: Кампания
+[03/13/2023 16:53:59]
+  Submarine: Wellerman
+[03/13/2023 16:53:59]
+  Level seed: BastKerlescan Fossa
+[03/13/2023 16:53:59]
+  Mission: Разбор обломков
+[03/13/2023 16:53:59]
+  Mission: Heavy Pirate Vessel
+[03/13/2023 16:53:59]
+  Carie Beltran equipped Отвертка
+[03/13/2023 16:53:59]
+  Sophie House equipped Лом
+[03/13/2023 16:53:59]
+  Mitrofan Whitely equipped Сварочный аппарат
+[03/13/2023 16:54:01]
+  Julianne Mead equipped Сварочный аппарат
+[03/13/2023 16:54:01]
+  Round started.
+[03/13/2023 16:54:01]
+  Cinda Phillips unequipped Лом
+[03/13/2023 16:54:01]
+  Creola Castro unequipped Отвертка
+[03/13/2023 16:54:01]
+  Cleopatra Castillo unequipped Лом
+[03/13/2023 16:54:01]
+  Trudie Rangel unequipped Отвертка
+[03/13/2023 16:54:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 16:54:17]
+  Beaulah Duplantier: Слышишь?
+[03/13/2023 16:54:17]
+  Wilford Proctor: Что?
+[03/13/2023 16:54:18]
+  Beaulah Duplantier: Как будто что-то скребется когтями по корпусу.
+[03/13/2023 16:54:22]
+  Beaulah Duplantier: Наверное, воображение разыгралось.
+[03/13/2023 16:54:34]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/13/2023 16:54:42]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 16:54:55]
+  vlad32 equipped Металлический ящик
+[03/13/2023 16:54:57]
+  vlad32 dropped Металлический ящик
+[03/13/2023 16:54:57]
+  vlad32 equipped Металлический ящик
+[03/13/2023 16:55:00]
+  vlad32 dropped Металлический ящик
+[03/13/2023 16:55:14]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:55:15]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 16:55:17]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:55:18]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 16:55:22]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:55:25]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 16:55:25]
+  vlad32 equipped Металлический ящик
+[03/13/2023 16:55:28]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:55:28]
+  kynlan4ic picked up Металлический ящик
+[03/13/2023 16:55:28]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 404)
+[03/13/2023 16:55:29]
+  vlad32 dropped Металлический ящик
+[03/13/2023 16:55:32]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:55:33]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:55:34]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:55:36]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:55:36]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:55:38]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:55:40]
+  vlad32 equipped Металлический ящик
+[03/13/2023 16:55:40]
+  vlad32 picked up Металлический ящик
+[03/13/2023 16:55:40]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:55:40]
+  kynlan4ic picked up Металлический ящик
+[03/13/2023 16:55:41]
+  vlad32 placed Металлический ящик in Стеллаж для ящиков (ID: 326)
+[03/13/2023 16:55:42]
+  vlad32 equipped Защищенный металлический ящик
+[03/13/2023 16:55:42]
+  vlad32 picked up Защищенный металлический ящик
+[03/13/2023 16:55:43]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 402)
+[03/13/2023 16:55:44]
+  vlad32 placed Защищенный металлический ящик in Стеллаж для ящиков (ID: 326)
+[03/13/2023 16:55:44]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:55:44]
+  kynlan4ic picked up Металлический ящик
+[03/13/2023 16:55:44]
+  kynlan4ic removed Защищенный металлический ящик from Стеллаж для ящиков (ID: 326)
+[03/13/2023 16:55:45]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 326)
+[03/13/2023 16:55:47]
+  kynlan4ic equipped Защищенный металлический ящик
+[03/13/2023 16:55:47]
+  vlad32 equipped Металлический ящик
+[03/13/2023 16:55:47]
+  vlad32 picked up Металлический ящик
+[03/13/2023 16:55:48]
+  Inner wall breached by Spineling
+[03/13/2023 16:55:48]
+  kynlan4ic dropped Защищенный металлический ящик
+[03/13/2023 16:55:49]
+  Outer wall breached by Spineling
+[03/13/2023 16:55:50]
+  vlad32 placed Металлический ящик in Стеллаж для ящиков (ID: 402)
+[03/13/2023 16:55:50]
+  Inner wall breached by Spineling
+[03/13/2023 16:55:50]
+  Inner wall breached by Spineling
+[03/13/2023 16:55:52]
+  Inner wall breached by Spineling
+[03/13/2023 16:55:52]
+  Lionel Mungo equipped Гаечный ключ
+[03/13/2023 16:55:52]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 16:55:52]
+  Inner wall breached by Spineling
+[03/13/2023 16:55:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:56]
+  Devin Maxwell started repairing Сливной клапан
+[03/13/2023 16:55:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:56]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:55:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:57]
+  Lionel Mungo started repairing Сливной клапан
+[03/13/2023 16:55:57]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:55:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:57]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:55:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:59]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:55:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:55:59]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:55:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:55:59]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:00]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:00]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:00]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:00]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:00]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:00]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:00]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:00]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:01]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:02]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:02]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:56:02]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:02]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:02]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:02]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 16:56:02]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 16:56:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:03]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:03]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:04]
+  Outer wall repaired by Devin Maxwell
+[03/13/2023 16:56:04]
+  Inner wall repaired by Devin Maxwell
+[03/13/2023 16:56:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:05]
+  Devin Maxwell: Орудийный отсек: все протечки устранены!
+[03/13/2023 16:56:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:05]
+  Outer wall breached by Spineling
+[03/13/2023 16:56:05]
+  Inner wall breached by Spineling
+[03/13/2023 16:56:05]
+  Outer wall breached by Spineling
+[03/13/2023 16:56:05]
+  Inner wall repaired by Devin Maxwell
+[03/13/2023 16:56:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:07]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 16:56:07]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 16:56:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:08]
+  Outer wall breached by Spineling
+[03/13/2023 16:56:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:09]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:10]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:10]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:10]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:11]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:11]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:11]
+  Outer wall breached by Spineling
+[03/13/2023 16:56:11]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:12]
+  Arron Gregory equipped Сварочный аппарат
+[03/13/2023 16:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:12]
+  Devin Maxwell started repairing Настраиваемая дверь
+[03/13/2023 16:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:12]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:56:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:12]
+  Inner wall repaired by Arron Gregory
+[03/13/2023 16:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:13]
+  Arron Gregory: Орудийный отсек: протечек не осталось!
+[03/13/2023 16:56:13]
+  Outer wall breached by Spineling
+[03/13/2023 16:56:13]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:13]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:14]
+  Lionel Mungo started repairing Настраиваемая дверь
+[03/13/2023 16:56:14]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:14]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:14]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  Spineling attacked by vlad32. Рваная рана: 24.0 Кровотечение: 4.0
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:15]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:16]
+  Devin Maxwell started repairing Дверь с кнопками
+[03/13/2023 16:56:17]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:17]
+  Lionel Mungo started repairing Дверь с кнопками
+[03/13/2023 16:56:17]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 436)
+[03/13/2023 16:56:17]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:56:17]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:18]
+  Devin Maxwell started repairing Настраиваемый люк
+[03/13/2023 16:56:18]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:56:18]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:56:20]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 436)
+[03/13/2023 16:56:20]
+  Lionel Mungo started repairing Настраиваемый люк
+[03/13/2023 16:56:21]
+  Arron Gregory: vlad32 проходит лечение здесь: орудийный отсек!
+[03/13/2023 16:56:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:23]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:56:23]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:23]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 16:56:23]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 16:56:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:24]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:24]
+  Outer wall breached by Spineling
+[03/13/2023 16:56:24]
+  Inner wall breached by Spineling
+[03/13/2023 16:56:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:26]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:26]
+  Arron Gregory: Мне требуется экстракт взрывного граната, опиум, морфин или фентанил!
+[03/13/2023 16:56:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:27]
+  Lionel Mungo unequipped Гаечный ключ
+[03/13/2023 16:56:27]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 16:56:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:28]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:28]
+  Lionel Mungo: Багажный отсек: все протечки устранены!
+[03/13/2023 16:56:28]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:28]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:29]
+  Outer wall repaired by Devin Maxwell
+[03/13/2023 16:56:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:29]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:29]
+  Devin Maxwell: Передний балласт: выполняю ремонт. Осталось несколько отверстий!
+[03/13/2023 16:56:29]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:29]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:30]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:30]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:30]
+  Arron Gregory unequipped Сварочный аппарат
+[03/13/2023 16:56:30]
+  Arron Gregory equipped Бинт
+[03/13/2023 16:56:30]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:30]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:30]
+  Inner wall repaired by Devin Maxwell
+[03/13/2023 16:56:30]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:30]
+  Devin Maxwell: Пункт управления: протечек не осталось!
+[03/13/2023 16:56:30]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:30]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:30]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:56:30]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:56:31]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:31]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:31]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:31]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 16:56:31]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:32]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:32]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:32]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:32]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:33]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:33]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 16:56:34]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:34]
+  Spineling attacked by vlad32. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 16:56:36]
+  Outer wall repaired by Devin Maxwell
+[03/13/2023 16:56:38]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 16:56:38]
+  Lionel Mungo equipped Гаечный ключ
+[03/13/2023 16:56:38]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 16:56:38]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 16:56:39]
+  Devin Maxwell started repairing Дверь с кнопками
+[03/13/2023 16:56:41]
+  Devin Maxwell: У меня кровь!
+[03/13/2023 16:56:41]
+  Lionel Mungo started repairing Настраиваемая дверь
+[03/13/2023 16:56:44]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 16:56:44]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 16:56:44]
+  Outer wall repaired by Devin Maxwell
+[03/13/2023 16:56:44]
+  Devin Maxwell: Стыковочный порт: протечек не осталось!
+[03/13/2023 16:56:46]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[03/13/2023 16:56:47]
+  Arron Gregory equipped Бинт
+[03/13/2023 16:56:50]
+  Lionel Mungo unequipped Гаечный ключ
+[03/13/2023 16:56:50]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 16:56:50]
+  Lionel Mungo: Пункт управления: все протечки устранены!
+[03/13/2023 16:56:50]
+  Inner wall repaired by Lionel Mungo
+[03/13/2023 16:56:52]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 16:56:53]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 16:56:57]
+  Inner wall breached by Spineling
+[03/13/2023 16:56:58]
+  Arron Gregory: Devin Maxwell получает первую помощь здесь: передний балласт!
+[03/13/2023 16:56:59]
+  Arron Gregory: Devin Maxwell нуждается в помощи! Срочно требуется экстракт взрывного граната, опиум, морфин или фентанил!
+[03/13/2023 16:57:00]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 16:57:01]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 16:57:02]
+  vlad32: Пункт управления: здесь пробит корпус!
+[03/13/2023 16:57:03]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 16:57:03]
+  Inner wall repaired by Lionel Mungo
+[03/13/2023 16:57:03]
+  Lionel Mungo: Багажный отсек: все протечки устранены!
+[03/13/2023 16:57:05]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 16:57:06]
+  Arron Gregory: Мне жаль, vlad32, это все, что я могу сделать!
+[03/13/2023 16:57:06]
+  Outer wall breached by Spineling
+[03/13/2023 16:57:08]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 16:57:09]
+  Outer wall repaired by Lionel Mungo
+[03/13/2023 16:57:11]
+  Arron Gregory: Помогите, я истекаю кровью!
+[03/13/2023 16:57:11]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 16:57:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:14]
+  Arron Gregory equipped Бинт
+[03/13/2023 16:57:16]
+  Devin Maxwell: Я теряю много крови!
+[03/13/2023 16:57:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:22]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 16:57:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/13/2023 16:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 16:57:24]
+  Arron Gregory: vlad32 проходит лечение здесь: орудийный отсек!
+[03/13/2023 16:57:25]
+  Devin Maxwell equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 16:57:26]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 16:57:26]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 16:57:27]
+  kynlan4ic equipped Сварочный аппарат
+[03/13/2023 16:57:31]
+  Arron Gregory equipped Бинт
+[03/13/2023 16:57:44]
+  vlad32 picked up Кейс для патронов
+[03/13/2023 16:57:44]
+  kynlan4ic dropped Кнопка
+[03/13/2023 16:57:46]
+  vlad32 placed Кейс для патронов in Большой стальной шкаф (ID: 428)
+[03/13/2023 16:57:50]
+  Arron Gregory: Мне требуется экстракт взрывного граната, опиум, морфин или фентанил!
+[03/13/2023 16:57:51]
+  Arron Gregory: У меня нет средств для лечения! vlad32 в беде!
+[03/13/2023 16:58:53]
+  vlad32 equipped TCC-38 Carbine
+[03/13/2023 16:59:10]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:59:10]
+  kynlan4ic picked up Металлический ящик
+[03/13/2023 16:59:11]
+  kynlan4ic picked up Flak Jacket
+[03/13/2023 16:59:14]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 402)
+[03/13/2023 16:59:17]
+  kynlan4ic dropped Flak Jacket
+[03/13/2023 16:59:19]
+  vlad32 picked up Flak Jacket
+[03/13/2023 16:59:22]
+  Beaulah Duplantier: Creola Castro, займись поврежденными устройствами!
+[03/13/2023 16:59:23]
+  Creola Castro: Слушаюсь!
+[03/13/2023 16:59:23]
+  Creola Castro equipped Отвертка
+[03/13/2023 16:59:26]
+  kynlan4ic picked up Металлический ящик
+[03/13/2023 16:59:27]
+  vlad32 equipped Тяжёлый ящик
+[03/13/2023 16:59:27]
+  Beaulah Duplantier: Trudie Rangel, займись ремонтом поврежденных систем!
+[03/13/2023 16:59:28]
+  Trudie Rangel: Так точно!
+[03/13/2023 16:59:29]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 402)
+[03/13/2023 16:59:31]
+  kynlan4ic picked up Металлический ящик
+[03/13/2023 16:59:31]
+  vlad32 dropped Тяжёлый ящик
+[03/13/2023 16:59:32]
+  Creola Castro unequipped Отвертка
+[03/13/2023 16:59:32]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 326)
+[03/13/2023 16:59:33]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 16:59:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  kynlan4ic picked up Медаль
+[03/13/2023 16:59:38]
+  vlad32 picked up Double-barrel Shotgun
+[03/13/2023 16:59:38]
+  vlad32 equipped Double-barrel Shotgun
+[03/13/2023 16:59:41]
+  vlad32 placed Double-barrel Shotgun in Средний стальной шкаф (ID: 607)
+[03/13/2023 16:59:44]
+  vlad32 equipped Металлический ящик
+[03/13/2023 16:59:45]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 426)
+[03/13/2023 16:59:46]
+  vlad32 dropped Металлический ящик
+[03/13/2023 16:59:46]
+  kynlan4ic activated Деконструктор
+[03/13/2023 16:59:48]
+  kynlan4ic equipped Медаль
+[03/13/2023 16:59:53]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 16:59:53]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 16:59:53]
+  vlad32 has gained 550 experience (1621 -> 2171)
+[03/13/2023 16:59:53]
+  kynlan4ic equipped Медаль
+[03/13/2023 16:59:54]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 16:59:54]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 16:59:54]
+  vlad32 has gained 550 experience (2171 -> 2721)
+[03/13/2023 16:59:57]
+  kynlan4ic equipped Медаль
+[03/13/2023 16:59:59]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 16:59:59]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 16:59:59]
+  vlad32 has gained 550 experience (2721 -> 3271)
+[03/13/2023 16:59:59]
+  kynlan4ic equipped Медаль
+[03/13/2023 17:00:00]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 17:00:00]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 17:00:00]
+  vlad32 has gained 550 experience (3271 -> 3821)
+[03/13/2023 17:00:00]
+  kynlan4ic equipped Медаль
+[03/13/2023 17:00:03]
+  kynlan4ic dropped Медаль
+[03/13/2023 17:00:03]
+  kynlan4ic dropped Медаль
+[03/13/2023 17:00:03]
+  kynlan4ic dropped Медаль
+[03/13/2023 17:00:03]
+  kynlan4ic dropped Медаль
+[03/13/2023 17:00:03]
+  kynlan4ic dropped Медаль
+[03/13/2023 17:00:03]
+  kynlan4ic dropped Медаль
+[03/13/2023 17:00:12]
+  Arron Gregory equipped Медаль
+[03/13/2023 17:00:12]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 17:00:13]
+  vlad32 equipped Медаль
+[03/13/2023 17:00:15]
+  Arron Gregory equipped Сварочный аппарат
+[03/13/2023 17:00:15]
+  Devin Maxwell started repairing Монитор состояния
+[03/13/2023 17:00:15]
+  Arron Gregory unequipped Сварочный аппарат
+[03/13/2023 17:00:17]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 17:00:17]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 17:00:17]
+  kynlan4ic has gained 550 experience (8895 -> 9445)
+[03/13/2023 17:00:17]
+  vlad32 equipped Медаль
+[03/13/2023 17:00:19]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 17:00:20]
+  Trudie Rangel equipped Отвертка
+[03/13/2023 17:00:20]
+  Creola Castro equipped Отвертка
+[03/13/2023 17:00:20]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 17:00:20]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 17:00:20]
+  kynlan4ic has gained 550 experience (9445 -> 9995)
+[03/13/2023 17:00:20]
+  vlad32 equipped Медаль
+[03/13/2023 17:00:22]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 17:00:22]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 17:00:22]
+  kynlan4ic has gained 550 experience (9995 -> 10545)
+[03/13/2023 17:00:22]
+  vlad32 equipped Медаль
+[03/13/2023 17:00:23]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 17:00:23]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 17:00:23]
+  kynlan4ic has gained 550 experience (10545 -> 11095)
+[03/13/2023 17:00:23]
+  vlad32 equipped Медаль
+[03/13/2023 17:00:24]
+  Creola Castro unequipped Отвертка
+[03/13/2023 17:00:24]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 17:00:24]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 17:00:24]
+  kynlan4ic has gained 550 experience (11095 -> 11645)
+[03/13/2023 17:00:25]
+  Trudie Rangel unequipped Отвертка
+[03/13/2023 17:00:44]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 17:00:47]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 17:00:48]
+  Trudie Rangel equipped Гаечный ключ
+[03/13/2023 17:00:48]
+  Creola Castro equipped Гаечный ключ
+[03/13/2023 17:00:51]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 17:00:54]
+  Creola Castro unequipped Гаечный ключ
+[03/13/2023 17:00:57]
+  Trudie Rangel unequipped Гаечный ключ
+[03/13/2023 17:00:58]
+  kynlan4ic has gained the talent 'Оружейник'
+[03/13/2023 17:01:30]
+  vlad32 has gained the talent 'Эксперт по боеприпасам'
+[03/13/2023 17:01:34]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 17:01:37]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 17:01:40]
+  Lionel Mungo equipped Гаечный ключ
+[03/13/2023 17:01:41]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 17:01:41]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 17:01:46]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/13/2023 17:01:47]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/13/2023 17:01:47]
+  vlad32 equipped Ящик с химикатами
+[03/13/2023 17:01:49]
+  vlad32 dropped Ящик с химикатами
+[03/13/2023 17:01:50]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 17:01:50]
+  Lionel Mungo unequipped Гаечный ключ
+[03/13/2023 17:01:56]
+  kynlan4ic picked up Медаль
+[03/13/2023 17:01:58]
+  Trudie Rangel equipped Отвертка
+[03/13/2023 17:01:59]
+  Creola Castro equipped Отвертка
+[03/13/2023 17:02:00]
+  Trudie Rangel failed to repair Кабельная коробка
+[03/13/2023 17:02:03]
+  kynlan4ic equipped Медаль
+[03/13/2023 17:02:05]
+  Creola Castro unequipped Отвертка
+[03/13/2023 17:02:05]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 17:02:05]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 17:02:05]
+  vlad32 has gained 550 experience (3821 -> 4371)
+[03/13/2023 17:02:11]
+  Trudie Rangel unequipped Отвертка
+[03/13/2023 17:02:11]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 17:02:13]
+  Devin Maxwell started repairing Навигационный терминал
+[03/13/2023 17:02:16]
+  Trudie Rangel equipped Бинт
+[03/13/2023 17:02:16]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 17:02:20]
+  Trudie Rangel equipped Антибиотический клей
+[03/13/2023 17:02:31]
+  vlad32 equipped Металлический ящик
+[03/13/2023 17:02:32]
+  vlad32 dropped Металлический ящик
+[03/13/2023 17:02:32]
+  Trudie Rangel equipped Фентанил
+[03/13/2023 17:02:38]
+  Trudie Rangel has died (Cause of death: Передозировка опиатами)
+[03/13/2023 17:02:39]
+  Creola Castro equipped Отвертка
+[03/13/2023 17:02:41]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[03/13/2023 17:02:41]
+  Beaulah Duplantier: Cleopatra Castillo, займись поврежденными устройствами!
+[03/13/2023 17:02:42]
+  Cleopatra Castillo: Так точно!
+[03/13/2023 17:02:42]
+  Cleopatra Castillo equipped Отвертка
+[03/13/2023 17:02:44]
+  Creola Castro failed to repair Кабельная коробка
+[03/13/2023 17:02:52]
+  Cleopatra Castillo unequipped Отвертка
+[03/13/2023 17:02:55]
+  Creola Castro unequipped Отвертка
+[03/13/2023 17:03:04]
+  Creola Castro equipped Опиум
+[03/13/2023 17:03:09]
+  Creola Castro equipped Бинт
+[03/13/2023 17:03:32]
+  Beaulah Duplantier: Слушаюсь!
+[03/13/2023 17:03:38]
+  Creola Castro equipped Отвертка
+[03/13/2023 17:03:38]
+  Cleopatra Castillo equipped Отвертка
+[03/13/2023 17:03:43]
+  Creola Castro unequipped Отвертка
+[03/13/2023 17:03:45]
+  Cleopatra Castillo unequipped Отвертка
+[03/13/2023 17:04:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 17:04:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 17:04:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 17:04:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  Lora Ramos: Вы когда-нибудь чувствовали себя... плоским?
+[03/13/2023 17:04:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 17:04:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:21]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 17:04:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:22]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:24]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:24]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:24]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:24]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:24]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:24]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 17:04:25]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:25]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:26]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:26]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:26]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:29]
+  kynlan4ic removed Боеприпасы для цепной пушки from Зарядник для цепной пушки (ID: 437)
+[03/13/2023 17:04:30]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/13/2023 17:04:31]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/13/2023 17:04:31]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/13/2023 17:04:33]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/13/2023 17:04:35]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/13/2023 17:04:35]
+  kynlan4ic picked up Боеприпасы для цепной пушки
+[03/13/2023 17:04:36]
+  kynlan4ic placed Боеприпасы для цепной пушки in Зарядник для цепной пушки (ID: 437)
+[03/13/2023 17:04:36]
+  vlad32 equipped Боеприпасы для цепной пушки
+[03/13/2023 17:04:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:38]
+  vlad32 dropped Боеприпасы для цепной пушки
+[03/13/2023 17:04:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:38]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  Hammerhead has died (Cause of death: Рваная рана)
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:40]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead has died (Cause of death: Рваная рана)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/13/2023 17:04:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/13/2023 17:04:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/13/2023 17:04:47]
+  Cleopatra Castillo equipped Отвертка
+[03/13/2023 17:04:49]
+  Creola Castro equipped Отвертка
+[03/13/2023 17:04:52]
+  Creola Castro unequipped Отвертка
+[03/13/2023 17:04:55]
+  Cleopatra Castillo unequipped Отвертка
+[03/13/2023 17:04:59]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 17:05:02]
+  Devin Maxwell started repairing Кабельная коробка

@@ -1,0 +1,1600 @@
+﻿[03/11/2023 14:41:39]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:41:39]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:42:41]
+  kynlan4ic: Lionel Mungo, займись механическими приборами!
+[03/11/2023 14:42:42]
+  kynlan4ic: Devin Maxwell, займись поврежденными устройствами!
+[03/11/2023 14:42:42]
+  kynlan4ic: Devin Maxwell, займись электроприборами!
+[03/11/2023 14:42:42]
+  Lionel Mungo: Само собой!
+[03/11/2023 14:42:42]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:42:43]
+  Devin Maxwell: Принято.
+[03/11/2023 14:42:43]
+  Devin Maxwell: Так точно!
+[03/11/2023 14:42:44]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:42:46]
+  Lionel Mungo started repairing Малый насос
+[03/11/2023 14:42:48]
+  Devin Maxwell started repairing Ядерный реактор
+[03/11/2023 14:42:49]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:42:57]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:43:03]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:43:08]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:43:10]
+  kynlan4ic picked up Инопланетный пистолет
+[03/11/2023 14:43:17]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 216)
+[03/11/2023 14:43:17]
+  kynlan4ic removed Кислородный баллон from Плазменный резак (ID: 216)
+[03/11/2023 14:43:17]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 425)
+[03/11/2023 14:43:20]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:43:25]
+  kynlan4ic equipped Инопланетный пистолет
+[03/11/2023 14:43:27]
+  Hammerheadspawn attacked by kynlan4ic. Damage Vulnerability: 15.0 Оглушение: 0.6
+[03/11/2023 14:43:32]
+  kynlan4ic equipped Нож ныряльщика
+[03/11/2023 14:43:33]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:43:33]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:43:33]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:43:34]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:43:34]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:43:34]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:43:34]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:43:39]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:43:40]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:43:41]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:43:42]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:42]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:43]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:43]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:45]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:43:50]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:43:57]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:43:57]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:43:57]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:43:57]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:44:01]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:44:02]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:44:08]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:44:08]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:44:08]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:44:11]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:44:12]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:44:12]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:44:12]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:44:13]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:44:13]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:44:13]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:44:17]
+  Devin Maxwell started repairing Навигационный терминал
+[03/11/2023 14:44:17]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:44:20]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:44:21]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:44:22]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:44:24]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:44:30]
+  kynlan4ic placed Магазин для ПП in Защищенный стальной шкаф (ID: 707)
+[03/11/2023 14:44:31]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:44:32]
+  kynlan4ic placed Магазин для ПП in Пояс инструментов (ID: 7998)
+[03/11/2023 14:44:35]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:44:39]
+  kynlan4ic placed Инопланетный пистолет in Защищенный стальной шкаф (ID: 707)
+[03/11/2023 14:44:44]
+  kynlan4ic picked up Подводный скутер
+[03/11/2023 14:44:46]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:45:00]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:00]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:00]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:02]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:02]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:06]
+  Hammerheadspawn has died (Cause of death: Огнестрельная рана)
+[03/11/2023 14:45:06]
+  Hammerheadspawn attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 14:45:31]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:45:31]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:45:40]
+  kynlan4ic used item Морфин
+[03/11/2023 14:45:46]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:45:48]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:45:49]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[03/11/2023 14:45:51]
+  kynlan4ic closed Дверь с кнопками
+[03/11/2023 14:45:51]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:45:53]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:45:56]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:45:58]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:45:58]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:45:58]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:45:58]
+  Lionel Mungo started repairing Насос
+[03/11/2023 14:46:05]
+  kynlan4ic closed Дверь с кнопками
+[03/11/2023 14:46:06]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:46:08]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:46:11]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:46:19]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/11/2023 14:46:24]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:46:29]
+  Hammerheadspawn has died (Cause of death: Нехватка кислорода)
+[03/11/2023 14:46:30]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:46:32]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:46:32]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:46:32]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:46:49]
+  Hammerheadspawn has died (Cause of death: Рваная рана)
+[03/11/2023 14:46:49]
+  Hammerheadspawn attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/11/2023 14:46:49]
+  kynlan4ic used Нож ныряльщика on Hammerheadspawn.
+[03/11/2023 14:47:17]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:17]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:24]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:24]
+  kynlan4ic placed Гидроксиапатит in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:36]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:47:38]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:47:38]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:47:40]
+  kynlan4ic placed Кварц in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:40]
+  kynlan4ic placed Кварц in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:40]
+  kynlan4ic placed Кварц in Пояс инструментов (ID: 7998)
+[03/11/2023 14:47:41]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 14:47:45]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:47:45]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:47:51]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/11/2023 14:47:58]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:48:06]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:48:07]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:48:13]
+  kynlan4ic placed Магазин для ПП in Пояс инструментов (ID: 7998)
+[03/11/2023 14:48:13]
+  kynlan4ic removed Магазин для ПП from Пояс инструментов (ID: 7998)
+[03/11/2023 14:48:13]
+  kynlan4ic placed Магазин для ПП in Пистолет-пулемет (ID: 8018)
+[03/11/2023 14:48:13]
+  Lionel Mungo started repairing Двигатель
+[03/11/2023 14:48:17]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:48:40]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 14:48:54]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:48:59]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:49:04]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:49:43]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:49:46]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:49:51]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:49:54]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:49:57]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:49:58]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:50:01]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 14:50:03]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:50:05]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 470)
+[03/11/2023 14:50:06]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 470)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:15]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:17]
+  kynlan4ic placed Станнит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:19]
+  kynlan4ic placed Гидроксиапатит in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:21]
+  kynlan4ic placed Кварц in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:21]
+  kynlan4ic placed Кварц in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:50:21]
+  kynlan4ic placed Кварц in Большой стальной шкаф (ID: 455)
+[03/11/2023 14:51:30]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:51:32]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:51:36]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:51:49]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:51:52]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:51:56]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 490 experience (4490 -> 4980)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 490 experience (3986 -> 4476)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 490 experience (3911 -> 4401)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 490 experience (2793 -> 3283)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 526 experience (4311 -> 4837)
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 343 experience (4980 -> 5323)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 343 experience (4476 -> 4819)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 343 experience (4401 -> 4744)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 343 experience (3283 -> 3626)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 368 experience (4837 -> 5205)
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 343 experience (5323 -> 5666)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 343 experience (4819 -> 5162)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 343 experience (4744 -> 5087)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 343 experience (3626 -> 3969)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 368 experience (5205 -> 5573)
+[03/11/2023 14:52:10]
+  kynlan4ic has gained 215 experience (5666 -> 5881)
+[03/11/2023 14:52:10]
+  Супостат499 has gained 279 experience (5162 -> 5441)
+[03/11/2023 14:52:10]
+  Devin Maxwell has gained 215 experience (5087 -> 5302)
+[03/11/2023 14:52:10]
+  Lionel Mungo has gained 215 experience (3969 -> 4184)
+[03/11/2023 14:52:10]
+  Arron Gregory has gained 231 experience (5573 -> 5804)
+[03/11/2023 14:52:11]
+  Ending the round...
+[03/11/2023 14:52:12]
+  Round ended.
+[03/11/2023 14:52:15]
+  Starting a new round...
+[03/11/2023 14:52:36]
+  Миссия: Активировать маяк
+[03/11/2023 14:52:36]
+  Бортовая навигационная система показывает, что здесь неподалеку должен быть старый, не работающий маяк. Если он снова заработает, другим судам будет гораздо проще проходить по этому маршруту, и здесь появятся новые колонии.
+[03/11/2023 14:52:37]
+  Game mode: Кампания
+[03/11/2023 14:52:37]
+  Submarine: Wellerman
+[03/11/2023 14:52:37]
+  Level seed: PaaruKermario Fossa
+[03/11/2023 14:52:37]
+  Mission: Активировать маяк
+[03/11/2023 14:52:38]
+  Round started.
+[03/11/2023 14:52:46]
+  Arron Gregory: У меня нет средств для лечения! Супостат499 в беде!
+[03/11/2023 14:52:46]
+  Arron Gregory: Супостат499 получает первую помощь здесь: реакторный отсек!
+[03/11/2023 14:52:47]
+  Arron Gregory: Супостат499 нуждается в помощи! Срочно требуется морфин, жидкий тоник или опиум!
+[03/11/2023 14:52:57]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/11/2023 14:53:36]
+  Lionel Mungo: Как здесь паршиво!
+[03/11/2023 14:53:38]
+  Lionel Mungo: Я хочу домой!
+[03/11/2023 14:53:52]
+  kynlan4ic has gained the talent 'Учебка'
+[03/11/2023 14:54:12]
+  kynlan4ic placed .38 round in R-23 Revolver (ID: 4633)
+[03/11/2023 14:55:28]
+  Outer wall breached by Spineling
+[03/11/2023 14:55:28]
+  Inner wall breached by Spineling
+[03/11/2023 14:55:30]
+  Inner wall breached by Spineling
+[03/11/2023 14:55:32]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:55:32]
+  Outer wall breached by Spineling
+[03/11/2023 14:55:32]
+  Inner wall breached by Spineling
+[03/11/2023 14:55:32]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:55:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:35]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:36]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:37]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:37]
+  Lionel Mungo started repairing Люк с кнопками
+[03/11/2023 14:55:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:38]
+  Inner wall breached by Spineling
+[03/11/2023 14:55:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:38]
+  Outer wall breached by Spineling
+[03/11/2023 14:55:38]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 14:55:38]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:42]
+  Outer wall breached by Spineling
+[03/11/2023 14:55:45]
+  Lionel Mungo: Помогите, я истекаю кровью!
+[03/11/2023 14:55:45]
+  Lionel Mungo started repairing Люк с кнопками
+[03/11/2023 14:55:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:46]
+  Inner wall breached by Spineling
+[03/11/2023 14:55:46]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:46]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/11/2023 14:55:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:48]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:48]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:49]
+  Arron Gregory: Lionel Mungo проходит лечение здесь: реакторный отсек!
+[03/11/2023 14:55:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:50]
+  Arron Gregory equipped Бинт
+[03/11/2023 14:55:50]
+  Arron Gregory: Мне требуется морфин, жидкий тоник, опиум или бинт!
+[03/11/2023 14:55:50]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:55:50]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:55:50]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:55:52]
+  Arron Gregory: Мне жаль, Супостат499, это все, что я могу сделать!
+[03/11/2023 14:55:53]
+  Arron Gregory: Супостат499 проходит лечение здесь: реакторный отсек!
+[03/11/2023 14:55:54]
+  Arron Gregory: Супостат499 нуждается в помощи! Срочно требуется морфин, жидкий тоник или опиум!
+[03/11/2023 14:55:54]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:55:54]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:55:54]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 14:55:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:55]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 14:55:55]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/11/2023 14:55:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:55:56]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:55:56]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:55:56]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/11/2023 14:55:56]
+  Lionel Mungo: Багажный отсек: выполняю ремонт. Осталось несколько отверстий!
+[03/11/2023 14:55:58]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:56:03]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:56:03]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:56:03]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:56:03]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:56:03]
+  Arron Gregory unequipped Бинт
+[03/11/2023 14:56:03]
+  Arron Gregory equipped Сварочный аппарат
+[03/11/2023 14:56:03]
+  Inner wall repaired by Arron Gregory
+[03/11/2023 14:56:04]
+  Arron Gregory: Реакторный отсек: протечек не осталось!
+[03/11/2023 14:56:04]
+  Lionel Mungo started repairing Сливной клапан
+[03/11/2023 14:56:09]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:56:09]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:56:09]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:56:10]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:56:10]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:56:10]
+  Arron Gregory unequipped Сварочный аппарат
+[03/11/2023 14:56:10]
+  Inner wall repaired by Devin Maxwell
+[03/11/2023 14:56:11]
+  Devin Maxwell: Пункт управления: все протечки устранены!
+[03/11/2023 14:56:15]
+  Lionel Mungo: Помогите, я истекаю кровью!
+[03/11/2023 14:56:17]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:56:17]
+  Lionel Mungo: Багажный отсек: все протечки устранены!
+[03/11/2023 14:56:18]
+  Outer wall breached by Spineling
+[03/11/2023 14:56:18]
+  Outer wall breached by Spineling
+[03/11/2023 14:56:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:19]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:56:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:25]
+  Outer wall breached by Spineling
+[03/11/2023 14:56:27]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:56:27]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 14:56:29]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:56:29]
+  Outer wall breached by Spineling
+[03/11/2023 14:56:31]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:56:31]
+  Devin Maxwell: Моторный отсек: протечек не осталось!
+[03/11/2023 14:56:34]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:56:34]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:56:34]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:56:34]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:56:35]
+  Lionel Mungo started repairing Дверь с кнопками
+[03/11/2023 14:56:39]
+  Lionel Mungo started repairing Настраиваемая дверь
+[03/11/2023 14:56:44]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:56:44]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:56:44]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:56:44]
+  Inner wall breached by Spineling
+[03/11/2023 14:56:45]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:56:45]
+  Devin Maxwell: Воздушный шлюз: протечек не осталось!
+[03/11/2023 14:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:46]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:56:46]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:46]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:56:50]
+  Lionel Mungo started repairing Люк с кнопками
+[03/11/2023 14:56:51]
+  Lionel Mungo: Помогите, я истекаю кровью!
+[03/11/2023 14:56:51]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:56:51]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:56:52]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:56:53]
+  Супостат499 has gained the talent 'Заземление'
+[03/11/2023 14:56:55]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:56:55]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:56:56]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:56:57]
+  Outer wall breached by Spineling
+[03/11/2023 14:56:57]
+  Inner wall breached by Spineling
+[03/11/2023 14:56:57]
+  Inner wall breached by Spineling
+[03/11/2023 14:56:58]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:56:59]
+  Inner wall repaired by Devin Maxwell
+[03/11/2023 14:56:59]
+  Devin Maxwell: Воздушный шлюз: протечек не осталось!
+[03/11/2023 14:57:01]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:57:01]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:57:01]
+  Lionel Mungo: Багажный отсек: все протечки устранены!
+[03/11/2023 14:57:02]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 14:57:02]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:57:03]
+  Inner wall breached by Spineling
+[03/11/2023 14:57:03]
+  Inner wall breached by Spineling
+[03/11/2023 14:57:03]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:57:05]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:09]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:09]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:10]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:57:10]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:57:10]
+  Devin Maxwell: Передний балласт: протечек не осталось!
+[03/11/2023 14:57:11]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:57:11]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:57:13]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 460)
+[03/11/2023 14:57:14]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 460)
+[03/11/2023 14:57:14]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:57:14]
+  Lionel Mungo: Багажный отсек: все протечки устранены!
+[03/11/2023 14:57:15]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:57:18]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:18]
+  Inner wall breached by Spineling
+[03/11/2023 14:57:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:57:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:57:19]
+  Devin Maxwell: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[03/11/2023 14:57:19]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:57:21]
+  Lionel Mungo: Помогите, я истекаю кровью!
+[03/11/2023 14:57:23]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 14:57:24]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:57:25]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:57:25]
+  Lionel Mungo: Багажный отсек: протечек не осталось!
+[03/11/2023 14:57:26]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:57:37]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 14:57:37]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:57:44]
+  Devin Maxwell started repairing Настраиваемая дверь
+[03/11/2023 14:57:46]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:46]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:47]
+  Lionel Mungo started repairing Дверь с кнопками
+[03/11/2023 14:57:51]
+  Inner wall breached by Spineling
+[03/11/2023 14:57:52]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:57:52]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:57:56]
+  Inner wall breached by Spineling
+[03/11/2023 14:57:56]
+  Outer wall breached by Spineling
+[03/11/2023 14:57:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:57:59]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:58:02]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 14:58:05]
+  Lionel Mungo started repairing Дверь с кнопками
+[03/11/2023 14:58:06]
+  Lionel Mungo: Дверь с кнопками не поддается починке!
+[03/11/2023 14:58:07]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:58:07]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 14:58:08]
+  Lionel Mungo started repairing Настраиваемая дверь
+[03/11/2023 14:58:11]
+  Lionel Mungo: У меня кровь!
+[03/11/2023 14:58:14]
+  Devin Maxwell started repairing Дверь с кнопками
+[03/11/2023 14:58:18]
+  Arron Gregory: У меня кровь!
+[03/11/2023 14:58:19]
+  Devin Maxwell started repairing Настраиваемая дверь
+[03/11/2023 14:58:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:58:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:23]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/11/2023 14:58:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:24]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:58:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:24]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:58:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:24]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 14:58:24]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:58:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:25]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 14:58:26]
+  Arron Gregory equipped Бинт
+[03/11/2023 14:58:27]
+  Lionel Mungo: Мне нужно подводное снаряжение!
+[03/11/2023 14:58:33]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 14:58:33]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:58:34]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:58:36]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:58:36]
+  Arron Gregory: kynlan4ic проходит лечение здесь: орудийный отсек!
+[03/11/2023 14:58:37]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:58:37]
+  Arron Gregory: Мне требуется морфин, жидкий тоник, опиум или бинт!
+[03/11/2023 14:58:38]
+  Супостат499 placed Loading Kit in Большой стальной шкаф (ID: 450)
+[03/11/2023 14:58:38]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:58:39]
+  kynlan4ic equipped Extended Coilgun Ammunition Box
+[03/11/2023 14:58:40]
+  Arron Gregory equipped Бинт
+[03/11/2023 14:58:40]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 14:58:40]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:58:41]
+  Супостат499 started fabricating Ящик с боеприпасами для магнитной пушки in Фабрикатор
+[03/11/2023 14:58:41]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 14:58:41]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 14:58:41]
+  Lionel Mungo: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[03/11/2023 14:58:41]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 14:58:41]
+  Lionel Mungo: Моторный отсек: протечек не осталось!
+[03/11/2023 14:58:41]
+  kynlan4ic placed Extended Coilgun Ammunition Box in Зарядник магнитной пушки (ID: 458)
+[03/11/2023 14:58:42]
+  Inner wall repaired by Lionel Mungo
+[03/11/2023 14:58:44]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 1937)
+[03/11/2023 14:58:44]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 1937)
+[03/11/2023 14:58:44]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 1937)
+[03/11/2023 14:58:44]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 1937)
+[03/11/2023 14:58:45]
+  Lionel Mungo: Помогите, я истекаю кровью!
+[03/11/2023 14:58:45]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:58:45]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 14:58:47]
+  Inner wall repaired by Devin Maxwell
+[03/11/2023 14:58:47]
+  Devin Maxwell: Передний балласт: выполняю ремонт. Осталось несколько отверстий!
+[03/11/2023 14:58:51]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 14:58:51]
+  Devin Maxwell: Передний балласт: протечек не осталось!
+[03/11/2023 14:58:51]
+  Arron Gregory: У меня нет средств для лечения! kynlan4ic в беде!
+[03/11/2023 14:58:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:54]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 14:58:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:57]
+  Супостат499 placed Гидроксиапатит in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:58:58]
+  Arron Gregory: Супостат499 получает первую помощь здесь: инженерный отсек!
+[03/11/2023 14:58:59]
+  Arron Gregory: Супостат499 нуждается в помощи! Срочно требуется морфин, жидкий тоник или опиум!
+[03/11/2023 14:59:00]
+  Супостат499 placed Кварц in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:59:00]
+  Супостат499 placed Кварц in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:59:00]
+  Супостат499 placed Кварц in Контейнер для хранения (ID: 2118)
+[03/11/2023 14:59:02]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:59:02]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 14:59:02]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 14:59:04]
+  Arron Gregory: Lionel Mungo проходит лечение здесь: орудийный отсек!
+[03/11/2023 14:59:05]
+  Arron Gregory: Мне требуется морфин, жидкий тоник, опиум или бинт!
+[03/11/2023 14:59:06]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:59:06]
+  Супостат499 picked up Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:59:09]
+  Супостат499 started fabricating Ящик с боеприпасами для магнитной пушки in Фабрикатор
+[03/11/2023 14:59:09]
+  Arron Gregory equipped Бинт
+[03/11/2023 14:59:17]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:59:18]
+  Супостат499 placed Ящик с боеприпасами для магнитной пушки in Полка с боеприпасами (ID: 676)
+[03/11/2023 14:59:18]
+  Супостат499 removed Боеприпасы для цепной пушки from Полка с боеприпасами (ID: 676)
+[03/11/2023 14:59:20]
+  Arron Gregory: Мне жаль, Lionel Mungo, это все, что я могу сделать!
+[03/11/2023 14:59:20]
+  Lionel Mungo: Я теряю много крови!
+[03/11/2023 14:59:23]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:59:24]
+  Lionel Mungo equipped Боеприпасы для цепной пушки
+[03/11/2023 14:59:26]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:59:26]
+  Супостат499 picked up Ящик с боеприпасами для магнитной пушки
+[03/11/2023 14:59:27]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:59:28]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/11/2023 14:59:30]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 14:59:31]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 14:59:31]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/11/2023 14:59:32]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/11/2023 14:59:32]
+  kynlan4ic picked up Боеприпасы для цепной пушки
+[03/11/2023 14:59:34]
+  Супостат499 placed Ящик с боеприпасами для магнитной пушки in Полка с боеприпасами (ID: 676)
+[03/11/2023 14:59:34]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 14:59:35]
+  kynlan4ic placed Боеприпасы для цепной пушки in Зарядник для цепной пушки (ID: 459)
+[03/11/2023 14:59:35]
+  kynlan4ic removed Боеприпасы для цепной пушки from Зарядник для цепной пушки (ID: 459)
+[03/11/2023 14:59:35]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/11/2023 14:59:35]
+  kynlan4ic picked up Боеприпасы для цепной пушки
+[03/11/2023 14:59:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:38]
+  Супостат499 picked up Military Mk-II Hardsuit
+[03/11/2023 14:59:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:39]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:48]
+  Супостат499 placed Фонарик in Большой стальной шкаф (ID: 450)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:51]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 14:59:54]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/11/2023 14:59:56]
+  Супостат499 removed Кислородный баллон from Fire Helmet (ID: 4658)
+[03/11/2023 15:00:01]
+  Devin Maxwell equipped Кислородный баллон
+[03/11/2023 15:00:02]
+  Супостат499 equipped Контейнер для хранения
+[03/11/2023 15:00:02]
+  Супостат499 picked up Контейнер для хранения
+[03/11/2023 15:00:05]
+  Супостат499 equipped Контейнер для хранения
+[03/11/2023 15:00:05]
+  Супостат499 picked up Контейнер для хранения
+[03/11/2023 15:00:06]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 15:00:06]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 15:00:06]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 15:00:06]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 15:00:06]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:00:06]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:00:08]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:09]
+  Супостат499 equipped Контейнер для хранения
+[03/11/2023 15:00:09]
+  Супостат499 picked up Контейнер для хранения
+[03/11/2023 15:00:11]
+  Супостат499 placed Станнит in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:11]
+  Супостат499 placed Станнит in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:11]
+  Супостат499 placed Станнит in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:11]
+  Супостат499 placed Станнит in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:13]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:15]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:00:15]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:00:15]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:00:15]
+  Супостат499 placed Станнит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:00:17]
+  Супостат499 placed Станнит in Деконструктор (ID: 448)
+[03/11/2023 15:00:17]
+  Супостат499 placed Станнит in Деконструктор (ID: 448)
+[03/11/2023 15:00:17]
+  Супостат499 placed Станнит in Деконструктор (ID: 448)
+[03/11/2023 15:00:17]
+  Супостат499 placed Станнит in Деконструктор (ID: 448)
+[03/11/2023 15:00:17]
+  kynlan4ic picked up Подводный скутер
+[03/11/2023 15:00:19]
+  Супостат499 placed Урановая руда in Деконструктор (ID: 448)
+[03/11/2023 15:00:19]
+  Супостат499 placed Урановая руда in Деконструктор (ID: 448)
+[03/11/2023 15:00:19]
+  Супостат499 placed Урановая руда in Деконструктор (ID: 448)
+[03/11/2023 15:00:19]
+  kynlan4ic picked up Ручной сонар
+[03/11/2023 15:00:20]
+  Супостат499 placed Трифилин in Деконструктор (ID: 448)
+[03/11/2023 15:00:20]
+  Супостат499 placed Трифилин in Деконструктор (ID: 448)
+[03/11/2023 15:00:20]
+  Супостат499 placed Трифилин in Деконструктор (ID: 448)
+[03/11/2023 15:00:21]
+  Супостат499 activated Деконструктор
+[03/11/2023 15:00:22]
+  kynlan4ic picked up Сигнальный огонь
+[03/11/2023 15:00:23]
+  Супостат499 placed Контейнер для хранения in Большой стальной шкаф (ID: 450)
+[03/11/2023 15:00:33]
+  kynlan4ic equipped Сигнальный огонь
+[03/11/2023 15:00:35]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 15:00:37]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 15:00:39]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:00:40]
+  kynlan4ic equipped Ручной сонар
+[03/11/2023 15:00:40]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:00:43]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:00:43]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:00:45]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 15:00:46]
+  Супостат499 equipped Подводный скутер
+[03/11/2023 15:00:47]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 15:01:07]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:01:09]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 15:01:13]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:01:18]
+  kynlan4ic equipped Подводный скутер
+[03/11/2023 15:01:28]
+  Супостат499 equipped Плазменный резак
+[03/11/2023 15:01:54]
+  kynlan4ic dropped Сигнальный огонь
+[03/11/2023 15:01:57]
+  kynlan4ic unequipped Сигнальный огонь
+[03/11/2023 15:02:00]
+  kynlan4ic equipped Сигнальный огонь
+[03/11/2023 15:02:27]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:02:27]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 4661)
+[03/11/2023 15:02:27]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 4695)
+[03/11/2023 15:03:40]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:03:46]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 15:03:50]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:03:56]
+  Супостат499 unequipped Плазменный резак
+[03/11/2023 15:03:56]
+  Супостат499 equipped Эсперит
+[03/11/2023 15:03:56]
+  Супостат499 equipped Эсперит
+[03/11/2023 15:04:00]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:04:00]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 4661)
+[03/11/2023 15:04:00]
+  Супостат499 placed Кислородный баллон in Military Mk-II Hardsuit (ID: 4718)
+[03/11/2023 15:04:06]
+  Супостат499 placed Эсперит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:08]
+  Супостат499 placed Эсперит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:10]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:04:10]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:04:10]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:04:10]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:04:10]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:04:12]
+  Супостат499 placed Галена in Рюкзак (ID: 4661)
+[03/11/2023 15:04:12]
+  Супостат499 placed Галена in Рюкзак (ID: 4661)
+[03/11/2023 15:04:12]
+  Супостат499 placed Галена in Рюкзак (ID: 4661)
+[03/11/2023 15:04:12]
+  Супостат499 placed Галена in Рюкзак (ID: 4661)
+[03/11/2023 15:04:14]
+  Супостат499 placed Бавалин in Рюкзак (ID: 4661)
+[03/11/2023 15:04:14]
+  Супостат499 placed Бавалин in Рюкзак (ID: 4661)
+[03/11/2023 15:04:14]
+  Супостат499 placed Бавалин in Рюкзак (ID: 4661)
+[03/11/2023 15:04:15]
+  Супостат499 placed Хризопраз in Рюкзак (ID: 4661)
+[03/11/2023 15:04:15]
+  Супостат499 placed Хризопраз in Рюкзак (ID: 4661)
+[03/11/2023 15:04:15]
+  Супостат499 placed Хризопраз in Рюкзак (ID: 4661)
+[03/11/2023 15:04:19]
+  Супостат499 placed Эсперит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:19]
+  Супостат499 placed Эсперит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:22]
+  Супостат499 equipped Плазменный резак
+[03/11/2023 15:04:25]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:04:28]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 15:04:32]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:04:48]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:04:53]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 15:04:56]
+  Супостат499 placed Графит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:56]
+  Супостат499 placed Графит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:56]
+  Супостат499 placed Графит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:57]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:04:58]
+  Супостат499 placed Халькопирит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:58]
+  Супостат499 placed Халькопирит in Рюкзак (ID: 4661)
+[03/11/2023 15:04:58]
+  Супостат499 placed Халькопирит in Рюкзак (ID: 4661)
+[03/11/2023 15:05:00]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:05:03]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 15:05:07]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:05:58]
+  kynlan4ic used item Морфин
+[03/11/2023 15:06:11]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:06:16]
+  Devin Maxwell started repairing Навигационный терминал
+[03/11/2023 15:06:20]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:07:01]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:07:01]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 4661)
+[03/11/2023 15:07:01]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 4695)
+[03/11/2023 15:07:10]
+  Супостат499 placed Кислородный баллон in Human
+[03/11/2023 15:07:14]
+  Супостат499 placed Кислородный баллон in Пояс инструментов (ID: 4623)
+[03/11/2023 15:07:17]
+  Супостат499 placed Кислородный баллон in Пояс инструментов (ID: 4623)
+[03/11/2023 15:07:30]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:07:32]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 15:07:36]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:07:37]
+  kynlan4ic dropped Сигнальный огонь
+[03/11/2023 15:07:40]
+  Супостат499 placed Бавалин in Рюкзак (ID: 4661)
+[03/11/2023 15:07:40]
+  Супостат499 placed Бавалин in Рюкзак (ID: 4661)
+[03/11/2023 15:07:40]
+  Супостат499 placed Бавалин in Рюкзак (ID: 4661)
+[03/11/2023 15:07:43]
+  Devin Maxwell: Как правильно – таламусы или таламы?
+[03/11/2023 15:07:43]
+  Супостат499 placed Полигалит in Рюкзак (ID: 4661)
+[03/11/2023 15:07:43]
+  Супостат499 placed Полигалит in Рюкзак (ID: 4661)
+[03/11/2023 15:07:43]
+  Супостат499 placed Полигалит in Рюкзак (ID: 4661)
+[03/11/2023 15:07:51]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 15:07:52]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 15:07:54]
+  Супостат499 equipped Сварочный аппарат
+[03/11/2023 15:07:58]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 15:07:58]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:07:59]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/11/2023 15:08:01]
+  Devin Maxwell started repairing Ядерный реактор
+[03/11/2023 15:08:02]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 15:08:09]
+  kynlan4ic removed Баллон с кислородитом from УЗК (ID: 4620)
+[03/11/2023 15:08:09]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:08:10]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 4620)
+[03/11/2023 15:08:14]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:08:14]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 15:08:18]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:08:20]
+  kynlan4ic picked up Кислородный баллон
+[03/11/2023 15:08:21]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 4620)
+[03/11/2023 15:08:32]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 4695)
+[03/11/2023 15:08:32]
+  Супостат499 removed Кислородный баллон from Плазменный резак (ID: 4695)
+[03/11/2023 15:08:32]
+  Супостат499 placed Кислородный баллон in Military Mk-II Hardsuit (ID: 4718)
+[03/11/2023 15:09:19]
+  kynlan4ic equipped Сварочный аппарат
+[03/11/2023 15:09:26]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 15:09:29]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 15:09:36]
+  Супостат499 placed Подводный скутер in Большой стальной шкаф (ID: 466)
+[03/11/2023 15:09:39]
+  kynlan4ic dropped Кислородный баллон
+[03/11/2023 15:09:40]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:09:40]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:09:40]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:09:44]
+  Супостат499 placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 560)
+[03/11/2023 15:09:46]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:09:48]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:09:48]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:09:48]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 4620)
+[03/11/2023 15:09:48]
+  kynlan4ic removed Кислородный баллон from УЗК (ID: 4620)
+[03/11/2023 15:09:48]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 420)
+[03/11/2023 15:09:50]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:09:51]
+  Супостат499 picked up Кислородный баллон
+[03/11/2023 15:09:52]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:09:52]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:09:52]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:09:52]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:09:52]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 4661)
+[03/11/2023 15:09:55]
+  kynlan4ic placed Аккумулятор in Ручной сонар (ID: 268)
+[03/11/2023 15:09:55]
+  kynlan4ic removed Аккумулятор from Ручной сонар (ID: 268)
+[03/11/2023 15:09:55]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 447)
+[03/11/2023 15:09:56]
+  kynlan4ic placed Аккумулятор in Подводный скутер (ID: 2001)
+[03/11/2023 15:09:56]
+  kynlan4ic removed Аккумулятор from Подводный скутер (ID: 2001)
+[03/11/2023 15:09:56]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 447)
+[03/11/2023 15:10:02]
+  kynlan4ic placed Ручной сонар in Большой стальной шкаф (ID: 465)
+[03/11/2023 15:10:02]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 465)
+[03/11/2023 15:10:05]
+  kynlan4ic picked up Плазменный резак
+[03/11/2023 15:10:07]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 213)
+[03/11/2023 15:10:07]
+  kynlan4ic removed Кислородный баллон from Плазменный резак (ID: 213)
+[03/11/2023 15:10:07]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 420)
+[03/11/2023 15:10:09]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 465)
+[03/11/2023 15:10:10]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:10:11]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 15:10:11]
+  Devin Maxwell started repairing Батарея
+[03/11/2023 15:10:13]
+  Супостат499 dropped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 15:10:13]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 15:10:14]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 15:10:15]
+  Супостат499 dropped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 15:10:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:29]
+  Супостат499 picked up Контейнер для хранения
+[03/11/2023 15:10:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:32]
+  Супостат499 placed Бавалин in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:32]
+  Супостат499 placed Бавалин in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:32]
+  Супостат499 placed Бавалин in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:35]
+  Супостат499 placed Эсперит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:35]
+  Супостат499 placed Эсперит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:35]
+  Супостат499 placed Эсперит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:35]
+  Супостат499 placed Эсперит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:37]
+  Супостат499 placed Железная руда in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:40]
+  Супостат499 placed Галена in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:40]
+  Супостат499 placed Галена in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:40]
+  Супостат499 placed Галена in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:40]
+  Супостат499 placed Галена in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:42]
+  Супостат499 placed Полигалит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:42]
+  Супостат499 placed Полигалит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:42]
+  Супостат499 placed Полигалит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:44]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 15:10:45]
+  Супостат499 placed Графит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:45]
+  Супостат499 placed Графит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:45]
+  Супостат499 placed Графит in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:46]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 15:10:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:47]
+  Супостат499 placed Хризопраз in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:47]
+  Супостат499 placed Хризопраз in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:47]
+  Супостат499 placed Хризопраз in Контейнер для хранения (ID: 2118)
+[03/11/2023 15:10:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 15:10:50]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:10:50]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:10:50]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:10:50]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)
+[03/11/2023 15:10:50]
+  Супостат499 placed Железная руда in Рюкзак (ID: 4661)

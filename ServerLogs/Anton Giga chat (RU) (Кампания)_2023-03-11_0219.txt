@@ -1,0 +1,670 @@
+﻿[03/11/2023 02:10:16]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 02:10:21]
+  Colonel closed Дверь с кнопками
+[03/11/2023 02:10:22]
+  Colonel opened Настраиваемая дверь
+[03/11/2023 02:10:24]
+  Супостат499 equipped Подводный скутер
+[03/11/2023 02:10:27]
+  Супостат499 closed Дверь с кнопками
+[03/11/2023 02:10:27]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 02:10:29]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 02:10:33]
+  Супостат499 equipped Плазменный резак
+[03/11/2023 02:10:33]
+  Outer wall breached by Супостат499
+[03/11/2023 02:10:37]
+  Супостат499 equipped Отвертка
+[03/11/2023 02:10:37]
+  Супостат499 equipped Сварочный аппарат
+[03/11/2023 02:10:41]
+  Colonel equipped Плазменный резак
+[03/11/2023 02:10:41]
+  Outer wall breached by Colonel
+[03/11/2023 02:10:52]
+  Colonel picked up Одноразовый водолазный скафандр
+[03/11/2023 02:10:52]
+  Colonel dropped Водолазный скафандр
+[03/11/2023 02:10:57]
+  Colonel picked up Водолазный скафандр
+[03/11/2023 02:10:57]
+  Colonel dropped Одноразовый водолазный скафандр
+[03/11/2023 02:10:59]
+  Outer wall repaired by Супостат499
+[03/11/2023 02:11:03]
+  Colonel placed Кислородный баллон in Пояс инструментов (ID: 5966)
+[03/11/2023 02:11:03]
+  Outer wall repaired by Супостат499
+[03/11/2023 02:11:09]
+  Colonel placed Аккумулятор in Подводный скутер (ID: 5973)
+[03/11/2023 02:11:12]
+  kynlan4ic picked up Отвертка
+[03/11/2023 02:11:12]
+  kynlan4ic picked up Отвертка
+[03/11/2023 02:11:12]
+  kynlan4ic picked up Комбинезон инженера
+[03/11/2023 02:11:14]
+  Colonel placed Аккумулятор in Пояс инструментов (ID: 5966)
+[03/11/2023 02:11:16]
+  Outer wall repaired by Супостат499
+[03/11/2023 02:11:24]
+  Супостат499 equipped Гаечный ключ
+[03/11/2023 02:11:26]
+  Супостат499 started repairing Кабельная коробка
+[03/11/2023 02:11:29]
+  kynlan4ic equipped Сварочный аппарат
+[03/11/2023 02:11:36]
+  Outer wall repaired by kynlan4ic
+[03/11/2023 02:11:39]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 02:11:43]
+  Colonel started repairing Монитор сонара
+[03/11/2023 02:11:47]
+  kynlan4ic placed Отвертка in Деконструктор (ID: 460)
+[03/11/2023 02:11:47]
+  kynlan4ic placed Отвертка in Деконструктор (ID: 460)
+[03/11/2023 02:11:47]
+  kynlan4ic placed Комбинезон инженера in Деконструктор (ID: 460)
+[03/11/2023 02:11:48]
+  Colonel started repairing Монитор сонара
+[03/11/2023 02:11:48]
+  kynlan4ic activated Деконструктор
+[03/11/2023 02:11:53]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 02:11:54]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 02:11:55]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:11:56]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 02:11:59]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 02:12:00]
+  Супостат499 picked up Подводный скутер
+[03/11/2023 02:12:02]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 02:12:02]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:12:02]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 02:12:03]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/11/2023 02:12:05]
+  Супостат499 picked up Ручной сонар
+[03/11/2023 02:12:06]
+  Супостат499 picked up Сонарный маяк
+[03/11/2023 02:12:09]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 02:12:10]
+  Супостат499 placed Аккумулятор in Рюкзак (ID: 5930)
+[03/11/2023 02:12:10]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 02:12:13]
+  Супостат499 placed Аккумулятор in Рюкзак (ID: 5930)
+[03/11/2023 02:12:15]
+  Супостат499 placed Ручной сонар in Большой стальной шкаф (ID: 5114)
+[03/11/2023 02:12:16]
+  Супостат499 placed Сонарный маяк in Большой стальной шкаф (ID: 5114)
+[03/11/2023 02:12:35]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 5184)
+[03/11/2023 02:12:36]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/11/2023 02:12:38]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[03/11/2023 02:12:40]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:12:42]
+  Супостат499 adjusted reactor settings: Temperature: 2110, Fission rate: 16, Turbine output: 5, Autotemp OFF
+[03/11/2023 02:12:43]
+  Супостат499 adjusted reactor settings: Temperature: 1966, Fission rate: 13, Turbine output: 5, Autotemp OFF
+[03/11/2023 02:12:43]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 02:12:44]
+  Супостат499 adjusted reactor settings: Temperature: 2616, Fission rate: 46, Turbine output: 5, Autotemp OFF
+[03/11/2023 02:12:45]
+  Супостат499 adjusted reactor settings: Temperature: 3633, Fission rate: 46, Turbine output: 15, Autotemp OFF
+[03/11/2023 02:12:46]
+  Супостат499 adjusted reactor settings: Temperature: 4650, Fission rate: 35, Turbine output: 15, Autotemp OFF
+[03/11/2023 02:12:47]
+  Супостат499 adjusted reactor settings: Temperature: 4690, Fission rate: 36, Turbine output: 14, Autotemp ON
+[03/11/2023 02:12:50]
+  kynlan4ic picked up Костюм начальника снабжения
+[03/11/2023 02:12:50]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:12:50]
+  kynlan4ic picked up Костюм бригадира
+[03/11/2023 02:12:51]
+  Colonel failed to repair Ядерный реактор
+[03/11/2023 02:12:56]
+  Информация о миссии:  - Маяк снова работает.
+[03/11/2023 02:12:58]
+  Colonel started repairing Ядерный реактор
+[03/11/2023 02:13:00]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:03]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:13:03]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 02:13:05]
+  Colonel failed to repair Ядерный реактор
+[03/11/2023 02:13:06]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 02:13:10]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:12]
+  Супостат499 opened Настраиваемая дверь
+[03/11/2023 02:13:14]
+  Супостат499 closed Настраиваемая дверь
+[03/11/2023 02:13:17]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:13:17]
+  Darwin Brady equipped Сварочный аппарат
+[03/11/2023 02:13:18]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 02:13:19]
+  Супостат499 placed Подводный скутер in Большой стальной шкаф (ID: 478)
+[03/11/2023 02:13:19]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 02:13:21]
+  Darwin Brady unequipped Сварочный аппарат
+[03/11/2023 02:13:21]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:13:21]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 02:13:22]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 02:13:22]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:22]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 02:13:23]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 02:13:24]
+  Lionel Mungo: Пункт управления: протечек не осталось!
+[03/11/2023 02:13:24]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:24]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:25]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 02:13:25]
+  Darwin Brady failed to repair Батарея
+[03/11/2023 02:13:27]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 02:13:27]
+  Lionel Mungo: Пункт управления: минус одна протечка!
+[03/11/2023 02:13:28]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:29]
+  kynlan4ic placed Костюм начальника снабжения in Деконструктор (ID: 460)
+[03/11/2023 02:13:29]
+  kynlan4ic placed Костюм бригадира in Деконструктор (ID: 460)
+[03/11/2023 02:13:30]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 02:13:30]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 02:13:30]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:13:30]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 02:13:30]
+  kynlan4ic activated Деконструктор
+[03/11/2023 02:13:33]
+  Darwin Brady started repairing Двигатель
+[03/11/2023 02:13:35]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 556)
+[03/11/2023 02:13:37]
+  Lionel Mungo started repairing Двигатель
+[03/11/2023 02:13:37]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 02:13:37]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:13:38]
+  Супостат499 placed Military Mk-II Hardsuit in Шкаф для подводного снаряжения (ID: 556)
+[03/11/2023 02:13:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:38]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:38]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:38]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:39]
+  Arron Gregory equipped Сварочный аппарат
+[03/11/2023 02:13:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:40]
+  Darwin Brady started repairing Батарея
+[03/11/2023 02:13:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:41]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:41]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:44]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/11/2023 02:13:45]
+  Arron Gregory unequipped Сварочный аппарат
+[03/11/2023 02:13:45]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:47]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[03/11/2023 02:13:47]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 02:13:47]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 02:13:47]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 02:13:48]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 02:13:48]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:48]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:48]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:49]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:49]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:49]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:49]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:49]
+  Darwin Brady failed to repair Батарея
+[03/11/2023 02:13:49]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:49]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 02:13:49]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:49]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:49]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 472)
+[03/11/2023 02:13:50]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:50]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 472)
+[03/11/2023 02:13:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:52]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:52]
+  Outer wall breached by Crawler
+[03/11/2023 02:13:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:53]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:53]
+  Colonel equipped Подводный скутер
+[03/11/2023 02:13:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:54]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:54]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:55]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:55]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:55]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:56]
+  Darwin Brady failed to repair Батарея
+[03/11/2023 02:13:56]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 02:13:56]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 02:13:56]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:57]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:13:57]
+  Crawler attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 02:14:02]
+  Colonel opened Настраиваемая дверь
+[03/11/2023 02:14:03]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 02:14:04]
+  Colonel closed Настраиваемая дверь
+[03/11/2023 02:14:05]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 02:14:05]
+  Darwin Brady started repairing Монитор состояния
+[03/11/2023 02:14:05]
+  Arron Gregory: Darwin Brady получает первую помощь здесь: орудийный отсек!
+[03/11/2023 02:14:05]
+  Lionel Mungo: Передний балласт: протечек не осталось!
+[03/11/2023 02:14:06]
+  Arron Gregory: Мне требуется бинт или морфин!
+[03/11/2023 02:14:07]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 02:14:09]
+  Outer wall breached by Crawler
+[03/11/2023 02:14:11]
+  Arron Gregory equipped Бинт
+[03/11/2023 02:14:11]
+  Arron Gregory: Colonel проходит лечение здесь: нижняя задняя часть!
+[03/11/2023 02:14:12]
+  Arron Gregory: Colonel нуждается в помощи! Срочно требуется морфин или бинт!
+[03/11/2023 02:14:14]
+  Arron Gregory equipped Бинт
+[03/11/2023 02:14:17]
+  kynlan4ic closed Дверь с кнопками
+[03/11/2023 02:14:17]
+  Darwin Brady started repairing Батарея
+[03/11/2023 02:14:17]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 02:14:17]
+  Arron Gregory equipped Морфин
+[03/11/2023 02:14:19]
+  Arron Gregory: Colonel чувствует себя хорошо!
+[03/11/2023 02:14:20]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:21]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:21]
+  Lionel Mungo equipped Сварочный аппарат
+[03/11/2023 02:14:21]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 02:14:22]
+  Lionel Mungo: Моторный отсек: все протечки устранены!
+[03/11/2023 02:14:22]
+  Arron Gregory equipped Бинт
+[03/11/2023 02:14:22]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 02:14:24]
+  kynlan4ic placed Магазин для ПП in Пояс инструментов (ID: 5893)
+[03/11/2023 02:14:24]
+  kynlan4ic removed Магазин для ПП from Пояс инструментов (ID: 5893)
+[03/11/2023 02:14:24]
+  kynlan4ic placed Магазин для ПП in Пистолет-пулемет (ID: 5914)
+[03/11/2023 02:14:24]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:24]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:25]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:25]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[03/11/2023 02:14:25]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:25]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:25]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/11/2023 02:14:27]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:14:28]
+  Arron Gregory equipped Бинт
+[03/11/2023 02:14:28]
+  kynlan4ic picked up Инопланетная кровь
+[03/11/2023 02:14:31]
+  kynlan4ic used item Инопланетная кровь
+[03/11/2023 02:14:32]
+  Devin Maxwell: Внутрь.
+[03/11/2023 02:14:33]
+  Devin Maxwell: Нырять глубже? Нет, нырять внутрь.
+[03/11/2023 02:14:35]
+  Arron Gregory: Darwin Brady чувствует себя хорошо!
+[03/11/2023 02:14:35]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 02:14:37]
+  Arron Gregory: Мне нужно подводное снаряжение!
+[03/11/2023 02:14:41]
+  Darwin Brady equipped Топливный бак сварочного аппарата
+[03/11/2023 02:14:42]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:14:42]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:14:42]
+  Darwin Brady equipped Сварочный аппарат
+[03/11/2023 02:14:42]
+  Darwin Brady unequipped Сварочный аппарат
+[03/11/2023 02:14:42]
+  Darwin Brady equipped Гаечный ключ
+[03/11/2023 02:14:42]
+  Darwin Brady unequipped Гаечный ключ
+[03/11/2023 02:14:42]
+  kynlan4ic picked up Бинт
+[03/11/2023 02:14:46]
+  kynlan4ic used item Бинт
+[03/11/2023 02:14:47]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 02:14:48]
+  Arron Gregory equipped Морфин
+[03/11/2023 02:14:48]
+  Arron Gregory: kynlan4ic проходит лечение здесь: нижняя задняя часть!
+[03/11/2023 02:14:49]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 02:14:49]
+  Arron Gregory: Мне требуется морфин!
+[03/11/2023 02:14:50]
+  Arron Gregory: kynlan4ic в полном порядке!
+[03/11/2023 02:14:51]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 02:14:51]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 02:14:51]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 433)
+[03/11/2023 02:14:51]
+  kynlan4ic picked up Морфин
+[03/11/2023 02:14:53]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 02:14:53]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 02:14:53]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 433)
+[03/11/2023 02:14:56]
+  kynlan4ic placed Морфин in Аптечка (ID: 492)
+[03/11/2023 02:14:57]
+  Супостат499 placed Топливный стержень in Средний стальной шкаф (ID: 456)
+[03/11/2023 02:14:58]
+  Супостат499 placed Топливный стержень in Средний стальной шкаф (ID: 456)
+[03/11/2023 02:14:58]
+  kynlan4ic placed Морфин in Renegade Combat Undershirt (ID: 5879)
+[03/11/2023 02:15:04]
+  Супостат499 equipped Military Mk-II Hardsuit
+[03/11/2023 02:15:04]
+  Супостат499 picked up Military Mk-II Hardsuit
+[03/11/2023 02:15:13]
+  Супостат499 placed Military Mk-II Hardsuit in Шкаф для подводного снаряжения (ID: 556)
+[03/11/2023 02:15:19]
+  Colonel placed Кислородный баллон in Пояс инструментов (ID: 5966)
+[03/11/2023 02:15:19]
+  Colonel removed Кислородный баллон from Пояс инструментов (ID: 5966)
+[03/11/2023 02:15:19]
+  Colonel placed Кислородный баллон in Водолазный скафандр (ID: 1571)
+[03/11/2023 02:15:20]
+  Arron Gregory: У меня нет средств для лечения! Colonel в беде!
+[03/11/2023 02:15:21]
+  Arron Gregory: Colonel проходит лечение здесь: верхняя средняя часть!
+[03/11/2023 02:15:39]
+  Darwin Brady equipped Отвертка
+[03/11/2023 02:15:42]
+  Darwin Brady started repairing Кабельная коробка
+[03/11/2023 02:15:51]
+  Darwin Brady started repairing Навигационный терминал
+[03/11/2023 02:15:58]
+  Darwin Brady unequipped Отвертка
+[03/11/2023 02:15:59]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 02:15:59]
+  Супостат499 picked up Сигара
+[03/11/2023 02:16:00]
+  kynlan4ic docked Wellerman to Kerlescan Fossa
+[03/11/2023 02:16:00]
+  kynlan4ic has gained 214 experience (4276 -> 4490)
+[03/11/2023 02:16:00]
+  Супостат499 has gained 278 experience (3708 -> 3986)
+[03/11/2023 02:16:00]
+  Colonel has gained 214 experience (1515 -> 1729)
+[03/11/2023 02:16:00]
+  Arron Gregory has gained 230 experience (4081 -> 4311)
+[03/11/2023 02:16:00]
+  Lionel Mungo has gained 214 experience (2579 -> 2793)
+[03/11/2023 02:16:00]
+  Devin Maxwell has gained 214 experience (3697 -> 3911)
+[03/11/2023 02:16:00]
+  Darwin Brady has gained 214 experience (4276 -> 4490)
+[03/11/2023 02:16:00]
+  Ending the round...
+[03/11/2023 02:16:01]
+  Round ended.
+[03/11/2023 02:16:04]
+  Starting a new round...
+[03/11/2023 02:16:18]
+  Game mode: Кампания
+[03/11/2023 02:16:18]
+  Submarine: Wellerman
+[03/11/2023 02:16:18]
+  Level seed: Kerlescan Fossa
+[03/11/2023 02:16:18]
+  Jarrod Hinton equipped Гаечный ключ
+[03/11/2023 02:16:18]
+  Jarrod Hinton unequipped Гаечный ключ
+[03/11/2023 02:16:18]
+  Jarrod Hinton equipped Отвертка
+[03/11/2023 02:16:18]
+  Jarrod Hinton unequipped Отвертка
+[03/11/2023 02:16:18]
+  Jarrod Hinton equipped Лом
+[03/11/2023 02:16:18]
+  Lynn Reynolds equipped Гаечный ключ
+[03/11/2023 02:16:18]
+  Lynn Reynolds unequipped Гаечный ключ
+[03/11/2023 02:16:18]
+  Lynn Reynolds equipped Отвертка
+[03/11/2023 02:16:18]
+  Murray Ellison equipped Гаечный ключ
+[03/11/2023 02:16:18]
+  Murray Ellison unequipped Гаечный ключ
+[03/11/2023 02:16:18]
+  Murray Ellison equipped Отвертка
+[03/11/2023 02:16:20]
+  Round started.
+[03/11/2023 02:16:20]
+  Stevie Swanger equipped Нож ныряльщика
+[03/11/2023 02:16:21]
+  Lynn Reynolds: Верхняя задняя часть: поврежденные устройства!
+[03/11/2023 02:16:21]
+  Stevie Swanger unequipped Нож ныряльщика
+[03/11/2023 02:16:21]
+  Jarrod Hinton unequipped Лом
+[03/11/2023 02:16:24]
+  Colonel set the value "Channel" of the item "Наушники" to "0".
+[03/11/2023 02:16:25]
+  Jarrod Hinton equipped Отвертка
+[03/11/2023 02:16:40]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/11/2023 02:16:49]
+  Mafalda Williams: Приветствую. Надеюсь, проблем от вас не будет.
+[03/11/2023 02:16:52]
+  Jarrod Hinton unequipped Отвертка
+[03/11/2023 02:16:58]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/11/2023 02:17:20]
+  Randall Monroe: Пробовал ползуштет?
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:22]
+  kynlan4ic placed Патрон револьвера in Хозяйственный шкаф (ID: 713)
+[03/11/2023 02:17:30]
+  Murray Ellison unequipped Отвертка
+[03/11/2023 02:17:54]
+  Colonel dropped Водолазный скафандр
+[03/11/2023 02:18:35]
+  Lynn Reynolds unequipped Отвертка
+[03/11/2023 02:18:49]
+  SERVER: Purchased level 1 weapons.turretincreaserotationlowskill for 4703
+[03/11/2023 02:18:49]
+  Lynn Reynolds: Благодарю за покупку! Я начну работать на вашей подлодке незадолго до вашего отбытия.
+[03/11/2023 02:18:58]
+  SERVER: Purchased level 2 deconstructors.decreasedeconstructiontime for 4703
+[03/11/2023 02:19:07]
+  kynlan4ic equipped Пистолет-пулемет
+[03/11/2023 02:19:27]
+  Супостат499 equipped Ящик с химикатами
+[03/11/2023 02:19:28]
+  Супостат499 dropped Ящик с химикатами
+[03/11/2023 02:19:40]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 450)
+[03/11/2023 02:19:40]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 450)
+[03/11/2023 02:19:40]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 450)
+[03/11/2023 02:19:40]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 450)
+[03/11/2023 02:19:44]
+  Client "kynlan4ic" ended the round.
+[03/11/2023 02:19:45]
+  Ending the round...

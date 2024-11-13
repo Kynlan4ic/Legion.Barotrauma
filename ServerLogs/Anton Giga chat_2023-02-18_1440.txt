@@ -1,0 +1,1615 @@
+﻿[02/18/2023 14:08:02]
+  Saving client permissions
+[02/18/2023 14:08:02]
+  Saving client permissions
+[02/18/2023 14:08:02]
+  Gamemode changed to Кампания
+[02/18/2023 14:08:19]
+  Игрок vlad32 присоединился к серверу.
+[02/18/2023 14:08:19]
+  Saving client permissions
+[02/18/2023 14:08:31]
+  vlad32 is ready to start the game.
+[02/18/2023 14:09:16]
+  Starting a new round...
+[02/18/2023 14:09:18]
+  vlad32 is not ready to start the game.
+[02/18/2023 14:09:27]
+  Game mode: Кампания
+[02/18/2023 14:09:27]
+  Submarine: Barsuk
+[02/18/2023 14:09:27]
+  Level seed: Argiope Linea
+[02/18/2023 14:09:27]
+  Doria Mooney equipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Doria Mooney unequipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Doria Mooney equipped Отвертка
+[02/18/2023 14:09:27]
+  Antony Gay equipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Antony Gay unequipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Antony Gay equipped Отвертка
+[02/18/2023 14:09:27]
+  Bill Beltran equipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Bill Beltran unequipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Bill Beltran equipped Отвертка
+[02/18/2023 14:09:27]
+  Barbra Hefner equipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Barbra Hefner unequipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Barbra Hefner equipped Отвертка
+[02/18/2023 14:09:27]
+  Barbra Hefner unequipped Отвертка
+[02/18/2023 14:09:27]
+  Barbra Hefner equipped Лом
+[02/18/2023 14:09:27]
+  Creola Gould equipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Creola Gould unequipped Гаечный ключ
+[02/18/2023 14:09:27]
+  Creola Gould equipped Отвертка
+[02/18/2023 14:09:29]
+  Bertram Nicolosi equipped Отвертка
+[02/18/2023 14:09:29]
+  Jan Craig equipped Отвертка
+[02/18/2023 14:09:29]
+  Bill Linares equipped Гаечный ключ
+[02/18/2023 14:09:29]
+  Round started.
+[02/18/2023 14:09:29]
+  Erica Blakley: Приветствую. Надеюсь, проблем от вас не будет.
+[02/18/2023 14:09:29]
+  Jan Craig unequipped Отвертка
+[02/18/2023 14:09:29]
+  Bertram Nicolosi unequipped Отвертка
+[02/18/2023 14:09:29]
+  Barbra Hefner unequipped Лом
+[02/18/2023 14:09:29]
+  Doria Mooney unequipped Отвертка
+[02/18/2023 14:09:29]
+  Bill Linares unequipped Гаечный ключ
+[02/18/2023 14:09:36]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:09:41]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:10:17]
+  Arron Hurley: Поскорей бы вернуться домой и откупорить бутылочку «Старого Кадма».
+[02/18/2023 14:10:22]
+  Bill Beltran: Сейчас не время горевать по дому. Впереди у нас еще долгий путь.
+[02/18/2023 14:10:31]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:11:48]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 14:11:54]
+  Bill Beltran unequipped Отвертка
+[02/18/2023 14:12:03]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 14:12:07]
+  vlad32 dropped Клоунский костюм
+[02/18/2023 14:12:11]
+  vlad32 picked up Клоунский костюм
+[02/18/2023 14:12:23]
+  vlad32 dropped Клоунский костюм
+[02/18/2023 14:12:24]
+  vlad32 picked up Клоунский костюм
+[02/18/2023 14:12:37]
+  kynlan4ic purchased 3 item(s) for 558 кр.
+ - Аккумулятор x1
+ - Сварочный аппарат x2
+ - Ториевый топливный стержень x1
+[02/18/2023 14:14:12]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 14:14:14]
+  vlad32 equipped Плазменный резак
+[02/18/2023 14:14:42]
+  kynlan4ic: Richard Hajek, уничтожь врагов!
+[02/18/2023 14:14:43]
+  Richard Hajek: Слушаюсь!
+[02/18/2023 14:14:45]
+  kynlan4ic: Richard Hajek, спасибо за устранение всех пришельцев!
+[02/18/2023 14:14:49]
+  kynlan4ic: vlad32, окажи первую помощь всем, кому потребуется!
+[02/18/2023 14:14:50]
+  kynlan4ic: vlad32, спасибо за медпомощь!
+[02/18/2023 14:14:58]
+  kynlan4ic: Elliana Marquez, помоги тем, кто попал в беду!
+[02/18/2023 14:14:59]
+  Elliana Marquez: Принято.
+[02/18/2023 14:15:18]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 14:15:19]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 14:15:20]
+  vlad32 equipped Подводный скутер
+[02/18/2023 14:15:20]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 14:15:23]
+  vlad32 equipped Отвертка
+[02/18/2023 14:15:26]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:26]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:15:29]
+  kynlan4ic placed Инопланетная кровь in Аптечка (ID: 3)
+[02/18/2023 14:15:35]
+  vlad32 dropped Велосипедный гудок
+[02/18/2023 14:15:36]
+  vlad32 placed Велосипедный гудок in Металлический ящик (ID: 852)
+[02/18/2023 14:15:52]
+  Elliana Marquez: vlad32 получает первую помощь здесь: верхняя задняя часть!
+[02/18/2023 14:15:52]
+  Elliana Marquez: vlad32 чувствует себя хорошо!
+[02/18/2023 14:16:16]
+  kynlan4ic purchased 2 item(s) for 50 кр.
+ - Гаечный ключ x2
+ - Отвертка x2
+[02/18/2023 14:17:26]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 14:17:27]
+  Ending the round...
+[02/18/2023 14:17:27]
+  Round ended.
+[02/18/2023 14:17:29]
+  Starting a new round...
+[02/18/2023 14:17:32]
+  Миссия: Биологическая угроза
+[02/18/2023 14:17:32]
+  Местные исследователи предлагают 1,000 кред. за доставку груза яиц трупного паразита в точку Аванпост St. May.
+[02/18/2023 14:17:32]
+  Миссия: Уничтожение молотоглавов
+[02/18/2023 14:17:32]
+  Крайне свирепые молотоглавы терроризируют суда, плавающие по маршруту Шахта Argiope Linea - Аванпост St. May. Тому, кто истребит этих опасных созданий, полагается достойная награда в размере 1,000 кред.
+[02/18/2023 14:17:32]
+  Game mode: Кампания
+[02/18/2023 14:17:32]
+  Submarine: Barsuk
+[02/18/2023 14:17:32]
+  Level seed: Argiope LineaSt. May
+[02/18/2023 14:17:32]
+  Mission: Биологическая угроза
+[02/18/2023 14:17:32]
+  Mission: Уничтожение молотоглавов
+[02/18/2023 14:17:32]
+  Round started.
+[02/18/2023 14:17:36]
+  Ashley Gallagher equipped Велосипедный гудок
+[02/18/2023 14:17:39]
+  Ashley Gallagher equipped Велосипедный гудок
+[02/18/2023 14:17:40]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:17:45]
+  Ashley Gallagher equipped Аккумулятор
+[02/18/2023 14:17:46]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:17:49]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:17:58]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:17:58]
+  kynlan4ic placed Аккумулятор in Шоковая дубинка (ID: 2667)
+[02/18/2023 14:18:05]
+  Ashley Gallagher equipped Ториевый топливный стержень
+[02/18/2023 14:18:12]
+  Ashley Gallagher equipped Гаечный ключ
+[02/18/2023 14:18:18]
+  vlad32 picked up Наручники
+[02/18/2023 14:18:20]
+  Ashley Gallagher equipped Гаечный ключ
+[02/18/2023 14:18:22]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 14:18:27]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:18:28]
+  Ashley Gallagher: Я скучаю по солнцу.
+[02/18/2023 14:18:33]
+  vlad32 set the recharge speed of Суперконденсатор to 60 %
+[02/18/2023 14:18:33]
+  vlad32 set the recharge speed of Суперконденсатор to 90 %
+[02/18/2023 14:18:33]
+  vlad32 set the recharge speed of Суперконденсатор to 100 %
+[02/18/2023 14:18:33]
+  vlad32 set the recharge speed of Суперконденсатор to 90 %
+[02/18/2023 14:18:33]
+  vlad32 set the recharge speed of Суперконденсатор to 50 %
+[02/18/2023 14:18:34]
+  vlad32 set the recharge speed of Суперконденсатор to 40 %
+[02/18/2023 14:18:34]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:18:37]
+  vlad32 set the recharge speed of Суперконденсатор to 50 %
+[02/18/2023 14:18:54]
+  Richard Hajek: Неизвестная цель обнаружена!
+[02/18/2023 14:18:55]
+  Richard Hajek: Стреляю!
+[02/18/2023 14:18:57]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:18:57]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:18:57]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:18:57]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:18:57]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:18:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:18:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:18:59]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:18:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:18:59]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:18:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:18:59]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:01]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:01]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:03]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:07]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:19:07]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:08]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:08]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:08]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:08]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:08]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:08]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:09]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:09]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:09]
+  Hammerhead_m attacked by vlad32. Рваная рана: 2.9 Кровотечение: 0.2
+[02/18/2023 14:19:09]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:09]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:09]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:09]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:09]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:09]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:10]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:19:10]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:19:10]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:10]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:10]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:10]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:19:10]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:11]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:12]
+  Elliana Marquez: Надо найти водолазный скафандр!
+[02/18/2023 14:19:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:12]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:14]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:14]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:14]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:15]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:18]
+  kynlan4ic: Ashley Gallagher, займись протечками!
+[02/18/2023 14:19:19]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:19:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:19]
+  Ashley Gallagher: Так точно!
+[02/18/2023 14:19:20]
+  Ashley Gallagher: Надо найти водолазный скафандр!
+[02/18/2023 14:19:24]
+  kynlan4ic: vlad32, займись протечками!
+[02/18/2023 14:19:26]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:19:28]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 14:19:29]
+  Elliana Marquez equipped Морфин
+[02/18/2023 14:19:30]
+  Elliana Marquez: kynlan4ic проходит лечение здесь: пункт управления!
+[02/18/2023 14:19:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:30]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:30]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:19:30]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:19:30]
+  Outer wall breached by Hammerhead_m
+[02/18/2023 14:19:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:31]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:31]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:19:31]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:31]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:31]
+  Elliana Marquez: kynlan4ic нуждается в помощи! Срочно требуется морфин или опиум!
+[02/18/2023 14:19:31]
+  Ashley Gallagher: Стыковочный порт: минус одна протечка!
+[02/18/2023 14:19:31]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:31]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:31]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:31]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:32]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:33]
+  Elliana Marquez: kynlan4ic чувствует себя хорошо!
+[02/18/2023 14:19:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:34]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:34]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:35]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:35]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:36]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:36]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:36]
+  Hammerhead_m has died (Cause of death: Рваная рана)
+[02/18/2023 14:19:36]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:36]
+  Информация о миссии: Цели уничтожены - Молотоглавы убиты. Выведите подлодку из пещеры, чтобы получить награду.
+[02/18/2023 14:19:36]
+  Richard Hajek: И-и-и-и... Готово!
+[02/18/2023 14:19:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:36]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:37]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:37]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:19:37]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:37]
+  Hammerhead_m attacked by vlad32. Рваная рана: 8.3
+[02/18/2023 14:19:37]
+  Hammerhead_m attacked by vlad32. Рваная рана: 11.3 Кровотечение: 0.8
+[02/18/2023 14:19:38]
+  Hammerhead_m attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:19:39]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:19:42]
+  Elliana Marquez equipped Сварочный аппарат
+[02/18/2023 14:19:44]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:19:45]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:19:46]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:19:49]
+  Outer wall repaired by Elliana Marquez
+[02/18/2023 14:19:50]
+  Elliana Marquez: Багажный отсек: все протечки устранены!
+[02/18/2023 14:19:53]
+  vlad32 equipped Плазменный резак
+[02/18/2023 14:19:53]
+  kynlan4ic picked up Подводная маска
+[02/18/2023 14:20:04]
+  Inner wall repaired by Elliana Marquez
+[02/18/2023 14:20:04]
+  Elliana Marquez: Балласт: минус одна протечка!
+[02/18/2023 14:20:08]
+  Elliana Marquez unequipped Сварочный аппарат
+[02/18/2023 14:20:13]
+  Elliana Marquez equipped Водолазный скафандр
+[02/18/2023 14:20:13]
+  Inner wall repaired by Ashley Gallagher
+[02/18/2023 14:20:16]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 14:20:16]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:20:16]
+  Ashley Gallagher equipped Гаечный ключ
+[02/18/2023 14:20:16]
+  Ashley Gallagher: Мне нужно подводное снаряжение!
+[02/18/2023 14:20:18]
+  Elliana Marquez equipped Сварочный аппарат
+[02/18/2023 14:20:18]
+  Outer wall repaired by Elliana Marquez
+[02/18/2023 14:20:23]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/18/2023 14:20:23]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:20:24]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:20:24]
+  Ashley Gallagher equipped Гаечный ключ
+[02/18/2023 14:20:24]
+  Ashley Gallagher started repairing Двигатель
+[02/18/2023 14:20:28]
+  Elliana Marquez: Стыковочный порт: протечек не осталось!
+[02/18/2023 14:20:29]
+  vlad32 removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 85)
+[02/18/2023 14:20:34]
+  vlad32 equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:20:34]
+  vlad32 picked up Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:20:36]
+  vlad32 placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 85)
+[02/18/2023 14:20:36]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/18/2023 14:20:40]
+  Ashley Gallagher equipped Водолазный скафандр
+[02/18/2023 14:20:41]
+  Elliana Marquez unequipped Сварочный аппарат
+[02/18/2023 14:20:42]
+  vlad32 removed Велосипедный гудок from Средний стальной шкаф (ID: 39)
+[02/18/2023 14:20:43]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:20:43]
+  vlad32 removed Велосипедный гудок from Средний стальной шкаф (ID: 39)
+[02/18/2023 14:20:47]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:20:47]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:20:47]
+  vlad32 dropped Клоунская маска
+[02/18/2023 14:20:49]
+  vlad32 dropped Подводная маска
+[02/18/2023 14:20:49]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:20:49]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:20:54]
+  vlad32 picked up Подводная маска
+[02/18/2023 14:20:54]
+  vlad32 removed Клоунская маска from Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 14:20:59]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:20:59]
+  Ashley Gallagher equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:21:00]
+  vlad32 equipped Металлический ящик
+[02/18/2023 14:21:02]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:21:03]
+  vlad32 dropped Металлический ящик
+[02/18/2023 14:21:05]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:21:18]
+  vlad32 equipped Подводный скутер
+[02/18/2023 14:21:41]
+  vlad32 dropped Подводный скутер
+[02/18/2023 14:21:44]
+  kynlan4ic unequipped Подводный скутер
+[02/18/2023 14:22:05]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:22:09]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 14:22:33]
+  vlad32 removed Топливный стержень from Средний стальной шкаф (ID: 39)
+[02/18/2023 14:22:37]
+  Ashley Gallagher equipped Топливный стержень
+[02/18/2023 14:22:43]
+  vlad32 used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:22:44]
+  vlad32 used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:22:46]
+  vlad32 equipped Отвертка
+[02/18/2023 14:23:10]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 14:23:12]
+  vlad32 opened Настраиваемая дверь
+[02/18/2023 14:23:13]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:23:15]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:23:18]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[02/18/2023 14:23:20]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 14:23:22]
+  vlad32 dropped Водолазный скафандр
+[02/18/2023 14:24:04]
+  Richard Hajek: Новая цель: ледяной шпиль!
+[02/18/2023 14:24:04]
+  Richard Hajek: Стреляю!
+[02/18/2023 14:24:06]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:24:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:11]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:24:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:12]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:20]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:24:43]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:24:45]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:24:50]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:24:59]
+  kynlan4ic docked Barsuk to Аванпост St. May
+[02/18/2023 14:24:59]
+  kynlan4ic has gained 91 experience (226 -> 317)
+[02/18/2023 14:24:59]
+  vlad32 has gained 91 experience (226 -> 317)
+[02/18/2023 14:24:59]
+  Elliana Marquez has gained 91 experience (226 -> 317)
+[02/18/2023 14:24:59]
+  Ashley Gallagher has gained 91 experience (226 -> 317)
+[02/18/2023 14:24:59]
+  Richard Hajek has gained 91 experience (226 -> 317)
+[02/18/2023 14:24:59]
+  kynlan4ic has gained 91 experience (317 -> 408)
+[02/18/2023 14:24:59]
+  vlad32 has gained 91 experience (317 -> 408)
+[02/18/2023 14:24:59]
+  Elliana Marquez has gained 91 experience (317 -> 408)
+[02/18/2023 14:24:59]
+  Ashley Gallagher has gained 91 experience (317 -> 408)
+[02/18/2023 14:24:59]
+  Richard Hajek has gained 91 experience (317 -> 408)
+[02/18/2023 14:24:59]
+  Ending the round...
+[02/18/2023 14:24:59]
+  Round ended.
+[02/18/2023 14:25:02]
+  Starting a new round...
+[02/18/2023 14:25:05]
+  Game mode: Кампания
+[02/18/2023 14:25:05]
+  Submarine: Barsuk
+[02/18/2023 14:25:05]
+  Level seed: St. May
+[02/18/2023 14:25:05]
+  Gregor Shah equipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Gregor Shah unequipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Gregor Shah equipped Отвертка
+[02/18/2023 14:25:05]
+  Iris Pollard equipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Iris Pollard unequipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Iris Pollard equipped Отвертка
+[02/18/2023 14:25:05]
+  Janie Chapman equipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Janie Chapman unequipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Janie Chapman equipped Отвертка
+[02/18/2023 14:25:05]
+  Mitchel Lee equipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Mitchel Lee unequipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Mitchel Lee equipped Отвертка
+[02/18/2023 14:25:05]
+  Mitchel Lee unequipped Отвертка
+[02/18/2023 14:25:05]
+  Mitchel Lee equipped Лом
+[02/18/2023 14:25:05]
+  Creola Parker equipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Creola Parker unequipped Гаечный ключ
+[02/18/2023 14:25:05]
+  Creola Parker equipped Отвертка
+[02/18/2023 14:25:05]
+  Sherita Phoenix equipped Отвертка
+[02/18/2023 14:25:05]
+  Astrid Bradley equipped Отвертка
+[02/18/2023 14:25:05]
+  Round started.
+[02/18/2023 14:25:05]
+  Eldridge Hardy equipped Лом
+[02/18/2023 14:25:05]
+  Synthia Boman equipped Лом
+[02/18/2023 14:25:05]
+  Gregor Shah unequipped Отвертка
+[02/18/2023 14:25:05]
+  Eldridge Hardy unequipped Лом
+[02/18/2023 14:25:05]
+  Synthia Boman unequipped Лом
+[02/18/2023 14:25:05]
+  Astrid Bradley unequipped Отвертка
+[02/18/2023 14:25:06]
+  Mitchel Lee unequipped Лом
+[02/18/2023 14:25:06]
+  Sherita Phoenix unequipped Отвертка
+[02/18/2023 14:25:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:25:12]
+  Gregor Shah: Я с вас глаз не спущу.
+[02/18/2023 14:25:17]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:25:24]
+  Iris Pollard unequipped Отвертка
+[02/18/2023 14:25:47]
+  Eldridge Hardy equipped Лом
+[02/18/2023 14:25:47]
+  Synthia Boman equipped Лом
+[02/18/2023 14:25:52]
+  Keven Collins: Здесь все время холодно и сыро. Ненавижу это.
+[02/18/2023 14:26:02]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:02]
+  Synthia Boman used Лом on Eldridge Hardy.
+[02/18/2023 14:26:03]
+  Larita Sykes equipped Электрошокер
+[02/18/2023 14:26:04]
+  kynlan4ic picked up Отвертка
+[02/18/2023 14:26:04]
+  Ashley Gallagher: А-А-А-А-А-А!
+[02/18/2023 14:26:05]
+  Larita Sykes unequipped Электрошокер
+[02/18/2023 14:26:05]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:26:05]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:26:06]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:26:06]
+  Larita Sykes equipped Электрошокер
+[02/18/2023 14:26:07]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Synthia Boman.
+[02/18/2023 14:26:07]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:26:08]
+  kynlan4ic equipped Отвертка
+[02/18/2023 14:26:08]
+  Larita Sykes unequipped Электрошокер
+[02/18/2023 14:26:08]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:26:10]
+  Elliana Marquez: Мне жаль, vlad32, это все, что я могу сделать!
+[02/18/2023 14:26:10]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:26:10]
+  Larita Sykes equipped Электрошокер
+[02/18/2023 14:26:11]
+  Elliana Marquez: vlad32 получает первую помощь здесь: верхняя задняя часть!
+[02/18/2023 14:26:12]
+  Larita Sykes unequipped Электрошокер
+[02/18/2023 14:26:12]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:26:13]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Synthia Boman.
+[02/18/2023 14:26:13]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:26:14]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "222,255,177,241".
+[02/18/2023 14:26:14]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:26:14]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Richard Hajek.
+[02/18/2023 14:26:14]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:15]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Synthia Boman.
+[02/18/2023 14:26:15]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:26:17]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 14:26:18]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:20]
+  Larita Sykes equipped Аккумулятор
+[02/18/2023 14:26:20]
+  Elliana Marquez: Помогите мне!
+[02/18/2023 14:26:22]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,166,177,229".
+[02/18/2023 14:26:26]
+  vlad32 picked up Лом
+[02/18/2023 14:26:26]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:27]
+  vlad32 equipped Лом
+[02/18/2023 14:26:27]
+  Synthia Boman equipped Отвертка
+[02/18/2023 14:26:28]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:29]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:26:33]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:34]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "177,177,222,255".
+[02/18/2023 14:26:39]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:41]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "177,177,222,255".
+[02/18/2023 14:26:45]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:26:45]
+  Eldridge Hardy used Лом on Synthia Boman.
+[02/18/2023 14:26:46]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:46]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:26:47]
+  Elliana Marquez: Ищу безопасное место!
+[02/18/2023 14:26:47]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:47]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:26:47]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:26:48]
+  Eldridge Hardy used Лом on Большая вертикальная внутренняя стена.
+[02/18/2023 14:26:48]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:26:49]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:26:49]
+  Synthia Boman attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:49]
+  vlad32 used Лом on Synthia Boman.
+[02/18/2023 14:26:49]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:26:50]
+  Eldridge Hardy used Лом on Synthia Boman.
+[02/18/2023 14:26:50]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:50]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:26:50]
+  vlad32 used Лом on Большая вертикальная внутренняя стена.
+[02/18/2023 14:26:50]
+  Eldridge Hardy used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:26:51]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:26:51]
+  Synthia Boman used Отвертка on Eldridge Hardy.
+[02/18/2023 14:26:52]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:52]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:26:53]
+  Synthia Boman attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:53]
+  vlad32 used Лом on Synthia Boman.
+[02/18/2023 14:26:53]
+  Eldridge Hardy used Лом on Synthia Boman.
+[02/18/2023 14:26:54]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:26:54]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:26:56]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:26:57]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Astrid Bradley.
+[02/18/2023 14:26:57]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:26:58]
+  kynlan4ic equipped Револьвер
+[02/18/2023 14:26:59]
+  kynlan4ic equipped Шоковая дубинка
+[02/18/2023 14:27:01]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:01]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Synthia Boman.
+[02/18/2023 14:27:02]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:02]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Larita Sykes.
+[02/18/2023 14:27:05]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:27:05]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:27:21]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:21]
+  Synthia Boman used Отвертка on Eldridge Hardy.
+[02/18/2023 14:27:23]
+  vlad32 equipped Плазменный резак
+[02/18/2023 14:27:25]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:27:26]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:26]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:27:26]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:27:28]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:28]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Lenny Buckley.
+[02/18/2023 14:27:32]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:33]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:33]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Eldridge Hardy.
+[02/18/2023 14:27:33]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:33]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Larita Sykes.
+[02/18/2023 14:27:34]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:27:36]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:27:37]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:27:41]
+  Eldridge Hardy used Лом on Synthia Boman.
+[02/18/2023 14:27:42]
+  Eldridge Hardy used Лом on Brian Schmitt.
+[02/18/2023 14:27:43]
+  Eldridge Hardy used Лом on Synthia Boman.
+[02/18/2023 14:27:43]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:43]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:43]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:27:44]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:27:44]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:27:45]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:45]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:45]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:27:45]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:27:45]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:27:45]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:27:46]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:27:46]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:46]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:27:47]
+  Synthia Boman attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:47]
+  vlad32 used Лом on Synthia Boman.
+[02/18/2023 14:27:47]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:48]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:27:48]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:48]
+  Synthia Boman attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:48]
+  vlad32 used Лом on Synthia Boman.
+[02/18/2023 14:27:48]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:27:48]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:48]
+  Larita Sykes equipped Шоковая дубинка
+[02/18/2023 14:27:48]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:27:49]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:27:49]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:49]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:49]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:27:51]
+  Synthia Boman attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:51]
+  vlad32 used Лом on Synthia Boman.
+[02/18/2023 14:27:51]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:52]
+  Synthia Boman attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:52]
+  vlad32 used Лом on Synthia Boman.
+[02/18/2023 14:27:53]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:53]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:27:53]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:27:54]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:54]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Eldridge Hardy.
+[02/18/2023 14:27:54]
+  Synthia Boman used Отвертка on Lenny Buckley.
+[02/18/2023 14:27:54]
+  kynlan4ic equipped Подводное ружье
+[02/18/2023 14:27:55]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:55]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Synthia Boman.
+[02/18/2023 14:27:55]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:55]
+  Lenny Buckley used Шоковая дубинка(Аккумулятор) on Larita Sykes.
+[02/18/2023 14:27:57]
+  Eldridge Hardy used Лом on vlad32.
+[02/18/2023 14:27:57]
+  Synthia Boman used Отвертка on vlad32.
+[02/18/2023 14:27:58]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/18/2023 14:27:58]
+  Larita Sykes used Шоковая дубинка(Аккумулятор) on Synthia Boman.
+[02/18/2023 14:27:58]
+  Lenny Buckley unequipped Отвертка
+[02/18/2023 14:27:58]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:27:58]
+  Lenny Buckley equipped Шоковая дубинка
+[02/18/2023 14:27:58]
+  Lenny Buckley unequipped Шоковая дубинка
+[02/18/2023 14:27:58]
+  Larita Sykes unequipped Шоковая дубинка
+[02/18/2023 14:27:59]
+  Eldridge Hardy attacked by kynlan4ic. Рваная рана: 16.6 Кровотечение: 26.3 Оглушение: 0.5
+[02/18/2023 14:28:01]
+  Eldridge Hardy attacked by kynlan4ic. Рваная рана: 16.6 Кровотечение: 26.3 Оглушение: 0.5
+[02/18/2023 14:28:03]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:28:03]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:28:08]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:28:09]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:28:09]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:28:10]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:28:10]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:28:12]
+  Eldridge Hardy attacked by vlad32. Травма от удара тупым предметом: 5.0 Оглушение: 0.5
+[02/18/2023 14:28:12]
+  vlad32 used Лом on Eldridge Hardy.
+[02/18/2023 14:28:17]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:28:19]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2264)
+[02/18/2023 14:28:19]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2264)
+[02/18/2023 14:28:19]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2264)
+[02/18/2023 14:28:35]
+  Eldridge Hardy has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 14:29:17]
+  kynlan4ic purchased 10 item(s) for 966 кр.
+ - Морфин x2
+ - Адреналин x1
+ - Бинт x1
+ - Антибиотики широкого спектра x2
+ - Галоперидол x2
+ - Налоксон x1
+ - Стабилоцин x1
+ - Пакет с кровью x1
+ - Опиум x1
+ - Эластичный бинт x1
+[02/18/2023 14:29:47]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "209,255,210,251".
+[02/18/2023 14:30:01]
+  Synthia Boman has died (Cause of death: Нехватка кислорода)
+[02/18/2023 14:30:20]
+  Dannette Thompkins equipped Аккумулятор
+[02/18/2023 14:30:25]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 14:30:34]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 14:30:52]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,246".
+[02/18/2023 14:30:53]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,246".
+[02/18/2023 14:30:58]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,249".
+[02/18/2023 14:31:00]
+  Dannette Thompkins equipped Аккумулятор
+[02/18/2023 14:31:09]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,248".
+[02/18/2023 14:31:16]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "173,166,177,231".
+[02/18/2023 14:31:23]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,66,0,247".
+[02/18/2023 14:31:29]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "177,177,222,252".
+[02/18/2023 14:31:37]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "173,166,177,255".
+[02/18/2023 14:31:52]
+  kynlan4ic equipped Трубка капитана
+[02/18/2023 14:32:09]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,250".
+[02/18/2023 14:33:08]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 14:33:09]
+  Ending the round...
+[02/18/2023 14:33:09]
+  Round ended.
+[02/18/2023 14:33:11]
+  Starting a new round...
+[02/18/2023 14:33:14]
+  Миссия: Добыча минералов (Урановая руда)
+[02/18/2023 14:33:15]
+  Говорят, где-то между точками Аванпост St. May и Укрепление Sermilik есть Урановая руда, целые залежи. Привезите оттуда ресурс (Урановая руда), 4 - этого будет достаточно. Ваша доля - 25%.
+[02/18/2023 14:33:15]
+  Миссия: Не кантовать
+[02/18/2023 14:33:15]
+  Местные исследователи предлагают 1,400 кред. за доставку крупной партии нитроглицерина. Пункт назначения: Укрепление Sermilik.
+[02/18/2023 14:33:15]
+  Game mode: Кампания
+[02/18/2023 14:33:15]
+  Submarine: Barsuk
+[02/18/2023 14:33:15]
+  Level seed: St. MaySermilik
+[02/18/2023 14:33:15]
+  Mission: Добыча минералов ([resourcename1])
+[02/18/2023 14:33:15]
+  Mission: Не кантовать
+[02/18/2023 14:33:15]
+  kynlan4ic equipped Трубка капитана
+[02/18/2023 14:33:15]
+  Round started.
+[02/18/2023 14:33:19]
+  Elliana Marquez: vlad32 получает первую помощь здесь: реакторный отсек!
+[02/18/2023 14:33:22]
+  Ashley Gallagher equipped Морфин
+[02/18/2023 14:33:22]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:33:27]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:33:33]
+  kynlan4ic placed Отвертка in Средний стальной шкаф (ID: 39)
+[02/18/2023 14:33:35]
+  Ashley Gallagher equipped Адреналин
+[02/18/2023 14:33:47]
+  Ashley Gallagher equipped Бинт
+[02/18/2023 14:33:58]
+  Ashley Gallagher equipped Антибиотики широкого спектра
+[02/18/2023 14:34:11]
+  Ashley Gallagher: Слышишь, как поют люди-крабы?
+[02/18/2023 14:34:13]
+  Ashley Gallagher equipped Галоперидол
+[02/18/2023 14:34:19]
+  Elliana Marquez: vlad32 получает первую помощь здесь: орудийный отсек!
+[02/18/2023 14:34:27]
+  Ashley Gallagher equipped Налоксон
+[02/18/2023 14:34:39]
+  Ashley Gallagher equipped Стабилоцин
+[02/18/2023 14:34:41]
+  Richard Hajek: Новая цель: ледяной шпиль!
+[02/18/2023 14:34:47]
+  Richard Hajek: У меня новая цель! Не могу понять, что это такое...
+[02/18/2023 14:34:47]
+  Richard Hajek: Стреляю!
+[02/18/2023 14:34:48]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:34:49]
+  Outer wall breached by Crawler
+[02/18/2023 14:34:52]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:52]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:52]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:52]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:52]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:52]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:52]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:52]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:53]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:53]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:53]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:53]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:53]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:53]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:53]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:54]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:54]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:54]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:54]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:55]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:55]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 14:34:55]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:55]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:55]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:55]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:55]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:56]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:34:56]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:56]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:56]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:56]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:56]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:56]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:56]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:57]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:57]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:57]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:57]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:58]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:58]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:58]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:58]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:34:58]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:58]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:34:59]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:35:08]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:35:08]
+  Ashley Gallagher equipped Пакет с кровью
+[02/18/2023 14:35:12]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:35:14]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 14:35:15]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:35:17]
+  kynlan4ic equipped Подводное ружье
+[02/18/2023 14:35:20]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 14:35:20]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 14:35:20]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:35:20]
+  Ashley Gallagher equipped Опиум
+[02/18/2023 14:35:21]
+  Elliana Marquez: vlad32 получает первую помощь здесь: орудийный отсек!
+[02/18/2023 14:35:24]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:35:28]
+  Inner wall breached by kynlan4ic
+[02/18/2023 14:35:32]
+  Inner wall repaired by Ashley Gallagher
+[02/18/2023 14:35:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:35:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:35:36]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:35:37]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:35:40]
+  Crawler attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/18/2023 14:35:44]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 14:35:44]
+  Crawler attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/18/2023 14:35:48]
+  Elliana Marquez: kynlan4ic получает первую помощь здесь: стыковочный порт!
+[02/18/2023 14:35:48]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:35:50]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:35:50]
+  Ashley Gallagher equipped Эластичный бинт
+[02/18/2023 14:35:51]
+  Elliana Marquez: Мне требуется морфин или опиум!
+[02/18/2023 14:35:55]
+  Elliana Marquez equipped Опиум
+[02/18/2023 14:35:55]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:35:55]
+  kynlan4ic picked up Гарпун
+[02/18/2023 14:35:57]
+  kynlan4ic picked up Инопланетная кровь
+[02/18/2023 14:35:59]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2626)
+[02/18/2023 14:35:59]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2626)
+[02/18/2023 14:36:00]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2626)
+[02/18/2023 14:36:00]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2626)
+[02/18/2023 14:36:01]
+  Elliana Marquez: kynlan4ic чувствует себя хорошо!
+[02/18/2023 14:36:05]
+  Ashley Gallagher closed Настраиваемая дверь
+[02/18/2023 14:36:07]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:36:07]
+  kynlan4ic placed Фонарик in Подводное ружье (ID: 2626)
+[02/18/2023 14:36:09]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:36:12]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 95)
+[02/18/2023 14:36:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:17]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:17]
+  Elliana Marquez equipped Морфин
+[02/18/2023 14:36:17]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:17]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:17]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:19]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:20]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:20]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:20]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:20]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:32]
+  Outer wall breached by Crawler
+[02/18/2023 14:36:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:32]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 14:36:32]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:32]
+  Richard Hajek: Прицел на ледяной шпиль!
+[02/18/2023 14:36:32]
+  Richard Hajek: Огонь!
+[02/18/2023 14:36:32]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:32]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:33]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:36:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:34]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:39]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 14:36:46]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:47]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:47]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:49]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:49]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:50]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:36:50]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:51]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:36:51]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:36:52]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:36:58]
+  Ashley Gallagher started repairing Монитор состояния
+[02/18/2023 14:36:58]
+  vlad32 equipped Лом
+[02/18/2023 14:36:59]
+  vlad32 equipped Отвертка
+[02/18/2023 14:37:02]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:38:34]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:38:37]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:38:42]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:38:53]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:38:54]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:38:56]
+  kynlan4ic picked up Подводный скутер
+[02/18/2023 14:38:58]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:38:59]
+  kynlan4ic picked up Плазменный резак
+[02/18/2023 14:39:01]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 14:39:02]
+  kynlan4ic picked up Плазменный резак
+[02/18/2023 14:39:03]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:39:04]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:39:04]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:39:04]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 14:39:06]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 14:39:07]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 14:39:08]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:39:09]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 14:39:12]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:39:14]
+  kynlan4ic equipped Плазменный резак
+[02/18/2023 14:39:15]
+  vlad32 opened Настраиваемая дверь
+[02/18/2023 14:39:15]
+  vlad32 closed Настраиваемая дверь
+[02/18/2023 14:39:15]
+  vlad32 opened Настраиваемая дверь
+[02/18/2023 14:39:16]
+  vlad32 closed Настраиваемая дверь
+[02/18/2023 14:39:27]
+  vlad32 equipped Плазменный резак
+[02/18/2023 14:39:37]
+  kynlan4ic unequipped Плазменный резак
+[02/18/2023 14:39:37]
+  kynlan4ic equipped Урановая руда
+[02/18/2023 14:39:38]
+  kynlan4ic equipped Урановая руда
+[02/18/2023 14:39:48]
+  vlad32 (as Rupert Weaver) equipped Урановая руда
+[02/18/2023 14:39:52]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:39:53]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:39:56]
+  Информация о миссии: Минералы добыты - Вы добыли достаточно ресурса (Урановая руда). Доставьте его на аванпост и получите награду.
+[02/18/2023 14:39:57]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 14:39:57]
+  Ashley Gallagher: Загружаю в реактор дополнительное топливо!
+[02/18/2023 14:39:58]
+  Elliana Marquez: Загружаю в реактор дополнительное топливо!
+[02/18/2023 14:40:01]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 95)
+[02/18/2023 14:40:01]
+  vlad32 (as Rupert Weaver) dropped Водолазный скафандр
+[02/18/2023 14:40:02]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:40:02]
+  Elliana Marquez equipped Топливный стержень

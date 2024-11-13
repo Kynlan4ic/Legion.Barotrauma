@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Unnamed" modversion="1.0.1" corepackage="False" gameversion="0.19.14.0">
+  <Submarine file="%ModDir%/Unnamed.sub" />
+</contentpackage>

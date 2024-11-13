@@ -1,0 +1,402 @@
+﻿[02/25/2023 17:51:14]
+  Sara Lyons unequipped Отвертка
+[02/25/2023 17:51:18]
+  igameCrog placed Грозовиевый аккумулятор in Средний стальной шкаф с окном (ID: 916)
+[02/25/2023 17:51:18]
+  igameCrog placed Грозовиевый аккумулятор in Средний стальной шкаф с окном (ID: 916)
+[02/25/2023 17:51:20]
+  vlad32 turned off Насос
+[02/25/2023 17:51:20]
+  igameCrog placed Ториевый топливный стержень in Средний стальной шкаф с окном (ID: 916)
+[02/25/2023 17:51:20]
+  igameCrog placed Ториевый топливный стержень in Средний стальной шкаф с окном (ID: 916)
+[02/25/2023 17:51:21]
+  igameCrog placed Провод in Средний стальной шкаф с окном (ID: 916)
+[02/25/2023 17:51:23]
+  igameCrog dropped Металлический ящик
+[02/25/2023 17:51:25]
+  vlad32 started repairing Насос
+[02/25/2023 17:51:26]
+  igameCrog equipped Ящик пробивных снарядов
+[02/25/2023 17:51:29]
+  igameCrog dropped Ящик пробивных снарядов
+[02/25/2023 17:51:31]
+  igameCrog equipped Медконтейнер
+[02/25/2023 17:51:36]
+  vlad32 started repairing Насос
+[02/25/2023 17:51:38]
+  igameCrog dropped Медконтейнер
+[02/25/2023 17:51:38]
+  vlad32 turned on Насос
+[02/25/2023 17:51:39]
+  vlad32 set the pumping speed of Насос to -30 %
+[02/25/2023 17:51:39]
+  vlad32 set the pumping speed of Насос to -80 %
+[02/25/2023 17:51:39]
+  vlad32 set the pumping speed of Насос to -100 %
+[02/25/2023 17:51:52]
+  Чпок В Пупок placed Гаечный ключ in Средний стальной шкаф (обломки) (ID: 4515)
+[02/25/2023 17:51:52]
+  Чпок В Пупок removed Гаечный ключ from Средний стальной шкаф (обломки) (ID: 4515)
+[02/25/2023 17:51:52]
+  Чпок В Пупок picked up Гаечный ключ
+[02/25/2023 17:51:54]
+  vlad32 started repairing Генератор кислорода (обломки)
+[02/25/2023 17:52:01]
+  igameCrog dropped Водолазный скафандр
+[02/25/2023 17:52:13]
+  vlad32 started repairing Генератор кислорода (обломки)
+[02/25/2023 17:52:14]
+  Чпок В Пупок placed Кислородный баллон in Пояс инструментов (ID: 5639)
+[02/25/2023 17:52:25]
+  vlad32 placed Лом in Средний стальной шкаф (обломки) (ID: 4515)
+[02/25/2023 17:52:27]
+  vlad32 placed Лом in Пояс инструментов (ID: 5690)
+[02/25/2023 17:52:31]
+  vlad32 placed Гаечный ключ in Пояс инструментов (ID: 5690)
+[02/25/2023 17:52:32]
+  vlad32 placed Гаечный ключ in Средний стальной шкаф (обломки) (ID: 4515)
+[02/25/2023 17:52:33]
+  vlad32 placed Гаечный ключ in Пояс инструментов (ID: 5690)
+[02/25/2023 17:52:35]
+  vlad32 placed Отвертка in Средний стальной шкаф (обломки) (ID: 4515)
+[02/25/2023 17:52:36]
+  vlad32 placed Отвертка in Пояс инструментов (ID: 5690)
+[02/25/2023 17:52:42]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[02/25/2023 17:52:43]
+  vlad32 adjusted reactor settings: Temperature: 166, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[02/25/2023 17:52:44]
+  vlad32 adjusted reactor settings: Temperature: 1183, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[02/25/2023 17:52:57]
+  kynlan4ic equipped Медконтейнер
+[02/25/2023 17:52:58]
+  kynlan4ic dropped Медконтейнер
+[02/25/2023 17:53:22]
+  igameCrog equipped Контейнер для хранения
+[02/25/2023 17:53:22]
+  igameCrog picked up Контейнер для хранения
+[02/25/2023 17:53:25]
+  Чпок В Пупок opened Настраиваемая дверь с окном
+[02/25/2023 17:53:26]
+  Чпок В Пупок opened Настраиваемая дверь с окном
+[02/25/2023 17:53:29]
+  Чпок В Пупок closed Настраиваемая дверь с окном
+[02/25/2023 17:53:34]
+  vlad32 opened Настраиваемый люк
+[02/25/2023 17:53:34]
+  igameCrog placed Контейнер для хранения in Средний стальной шкаф с окном (ID: 916)
+[02/25/2023 17:53:34]
+  vlad32 closed Настраиваемый люк
+[02/25/2023 17:53:36]
+  vlad32 opened Настраиваемый люк
+[02/25/2023 17:53:37]
+  vlad32 closed Настраиваемый люк
+[02/25/2023 17:53:38]
+  igameCrog equipped Медконтейнер
+[02/25/2023 17:53:38]
+  igameCrog picked up Медконтейнер
+[02/25/2023 17:53:39]
+  vlad32 opened Настраиваемая дверь с окном
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  Outer wall breached by kynlan4ic
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:41]
+  Чпок В Пупок dropped Водолазный скафандр
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:42]
+  vlad32 closed Настраиваемая дверь с окном
+[02/25/2023 17:53:42]
+  Husk attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  Inner wall breached by kynlan4ic
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  Inner wall breached by kynlan4ic
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:45]
+  vlad32 dropped Водолазный скафандр бездны
+[02/25/2023 17:53:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:46]
+  Inner wall breached by kynlan4ic
+[02/25/2023 17:53:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:47]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  Inner wall breached by kynlan4ic
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:48]
+  Inner wall breached by kynlan4ic
+[02/25/2023 17:53:48]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  Coleman Harp attacked by kynlan4ic. Рваная рана: 5.7 Кровотечение: 1.5
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  Outer wall breached by kynlan4ic
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  Coleman Harp attacked by kynlan4ic. Рваная рана: 5.7 Кровотечение: 1.5
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:49]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:50]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:53:55]
+  igameCrog removed Шприц-пистолет from Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:53:55]
+  vlad32 removed 40-мм граната from Пояс инструментов (ID: 5690)
+[02/25/2023 17:53:56]
+  igameCrog placed Генетический материал (Охотник) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:53:57]
+  vlad32 picked up 40-мм граната
+[02/25/2023 17:53:57]
+  igameCrog placed Генетический материал (Хаск) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:53:58]
+  igameCrog placed Генетический материал (Молотоглав-матриарх) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:53:58]
+  igameCrog placed Генетический материал (Охотник) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:53:59]
+  igameCrog placed Генетический материал (Проныра) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:54:00]
+  igameCrog placed Генетический материал (Ползун) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:54:02]
+  igameCrog picked up Генетический материал (Молотоглав)
+[02/25/2023 17:54:04]
+  igameCrog picked up Стабилоцин
+[02/25/2023 17:54:04]
+  igameCrog picked up Стабилоцин
+[02/25/2023 17:54:04]
+  igameCrog picked up Стабилоцин
+[02/25/2023 17:54:04]
+  igameCrog picked up Стабилоцин
+[02/25/2023 17:54:12]
+  igameCrog dropped Медконтейнер
+[02/25/2023 17:54:15]
+  igameCrog picked up Контейнер для хранения
+[02/25/2023 17:54:18]
+  Carlton Craig equipped Шприц-пистолет
+[02/25/2023 17:54:18]
+  Чпок В Пупок launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:54:18]
+  Чпок В Пупок launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:54:18]
+  Чпок В Пупок launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/25/2023 17:54:20]
+  Sara Lyons equipped Отвертка
+[02/25/2023 17:54:20]
+  Dominick Mansfield equipped Отвертка
+[02/25/2023 17:54:21]
+  Neal Bradley equipped Отвертка
+[02/25/2023 17:54:21]
+  igameCrog placed Генетический материал (Молотоглав-матриарх) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:22]
+  igameCrog placed Генетический материал (Ползун) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:22]
+  Rowena Colpitts started repairing Кабельная коробка
+[02/25/2023 17:54:22]
+  vlad32 placed 40-мм граната in Средний стальной шкаф с окном (ID: 921)
+[02/25/2023 17:54:23]
+  igameCrog placed Генетический материал (Проныра) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:23]
+  igameCrog placed Генетический материал (Хаск) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:24]
+  igameCrog placed Генетический материал (Охотник) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:24]
+  igameCrog placed Генетический материал (Охотник) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:26]
+  igameCrog placed Стабилоцин in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:26]
+  igameCrog placed Стабилоцин in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:26]
+  igameCrog placed Стабилоцин in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:26]
+  igameCrog placed Стабилоцин in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:27]
+  igameCrog placed Генетический материал (Молотоглав) in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:54:27]
+  Neal Bradley unequipped Отвертка
+[02/25/2023 17:54:30]
+  igameCrog placed Генетический материал (Молотоглав) in Контейнер для хранения (ID: 5451)
+[02/25/2023 17:54:31]
+  Sara Lyons unequipped Отвертка
+[02/25/2023 17:54:34]
+  Dominick Mansfield unequipped Отвертка
+[02/25/2023 17:54:39]
+  Чпок В Пупок launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/25/2023 17:54:56]
+  igameCrog picked up Яйцо ползуна
+[02/25/2023 17:54:59]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 262)
+[02/25/2023 17:55:02]
+  igameCrog placed Яйцо ползуна in Хозяйственный шкаф (ID: 334)
+[02/25/2023 17:55:07]
+  kynlan4ic docked Orca to Станция Thaw
+[02/25/2023 17:55:07]
+  kynlan4ic has gained 314 experience (10939 -> 11253)
+[02/25/2023 17:55:07]
+  igameCrog has gained 337 experience (4471 -> 4808)
+[02/25/2023 17:55:07]
+  Чпок В Пупок has gained 314 experience (4144 -> 4458)
+[02/25/2023 17:55:07]
+  vlad32 has gained 314 experience (9499 -> 9813)
+[02/25/2023 17:55:07]
+  Neal Bradley has gained 314 experience (4620 -> 4934)
+[02/25/2023 17:55:07]
+  Claire Suarez has gained 314 experience (4620 -> 4934)
+[02/25/2023 17:55:07]
+  Dominick Mansfield has gained 314 experience (4620 -> 4934)
+[02/25/2023 17:55:07]
+  Delbert Graves has gained 314 experience (4620 -> 4934)
+[02/25/2023 17:55:07]
+  Rowena Colpitts has gained 314 experience (4620 -> 4934)
+[02/25/2023 17:55:07]
+  Carlton Craig has gained 314 experience (7247 -> 7561)
+[02/25/2023 17:55:07]
+  Bennie Castro has gained 314 experience (4620 -> 4934)
+[02/25/2023 17:55:07]
+  Sara Lyons has gained 314 experience (1268 -> 1582)
+[02/25/2023 17:55:07]
+  kynlan4ic has gained 349 experience (11253 -> 11602)
+[02/25/2023 17:55:07]
+  igameCrog has gained 431 experience (4808 -> 5239)
+[02/25/2023 17:55:07]
+  Чпок В Пупок has gained 349 experience (4458 -> 4807)
+[02/25/2023 17:55:07]
+  vlad32 has gained 349 experience (9813 -> 10162)
+[02/25/2023 17:55:07]
+  Neal Bradley has gained 349 experience (4934 -> 5283)
+[02/25/2023 17:55:07]
+  Claire Suarez has gained 349 experience (4934 -> 5283)
+[02/25/2023 17:55:07]
+  Dominick Mansfield has gained 349 experience (4934 -> 5283)
+[02/25/2023 17:55:07]
+  Delbert Graves has gained 349 experience (4934 -> 5283)
+[02/25/2023 17:55:07]
+  Rowena Colpitts has gained 349 experience (4934 -> 5283)
+[02/25/2023 17:55:07]
+  Carlton Craig has gained 349 experience (7561 -> 7910)
+[02/25/2023 17:55:07]
+  Bennie Castro has gained 349 experience (4934 -> 5283)
+[02/25/2023 17:55:07]
+  Sara Lyons has gained 349 experience (1582 -> 1931)
+[02/25/2023 17:55:07]
+  Ending the round...

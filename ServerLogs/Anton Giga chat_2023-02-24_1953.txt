@@ -1,0 +1,16 @@
+﻿[02/24/2023 19:51:53]
+  Starting the server...
+[02/24/2023 19:51:53]
+  Using SteamP2P networking.
+[02/24/2023 19:51:53]
+  Server started
+[02/24/2023 19:51:54]
+  Игрок kynlan4ic присоединился к серверу.
+[02/24/2023 19:51:54]
+  Saving client permissions
+[02/24/2023 19:51:54]
+  Saving client permissions
+[02/24/2023 19:53:02]
+  Saving banlist
+[02/24/2023 19:53:02]
+  Shutting down the server...

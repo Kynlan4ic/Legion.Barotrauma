@@ -1,0 +1,18 @@
+﻿[11/01/2022 22:39:32]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/01/2022 22:39:33]
+  kynlan4ic placed Фуражка мятежника in Большой стальной шкаф (ID: 114)
+[11/01/2022 22:39:34]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Компонент «Задержки» (signal_out)
+[11/01/2022 22:39:34]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «Задержки» (signal_out)
+[11/01/2022 22:39:34]
+  kynlan4ic picked up Фуражка мятежника
+[11/01/2022 22:39:40]
+  kynlan4ic equipped Металлический ящик
+[11/01/2022 22:39:42]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 82)
+[11/01/2022 22:40:12]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 22:40:12]
+  Ending the round...

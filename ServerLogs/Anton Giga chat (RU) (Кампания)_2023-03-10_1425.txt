@@ -1,0 +1,1600 @@
+﻿[03/10/2023 13:59:10]
+  Starting the server...
+[03/10/2023 13:59:10]
+  Using SteamP2P networking.
+[03/10/2023 13:59:10]
+  Server started
+[03/10/2023 13:59:10]
+  Игрок kynlan4ic присоединился к серверу.
+[03/10/2023 13:59:10]
+  Saving client permissions
+[03/10/2023 13:59:10]
+  Saving client permissions
+[03/10/2023 13:59:11]
+  Gamemode changed to Кампания
+[03/10/2023 13:59:22]
+  Gamemode changed to Песочница
+[03/10/2023 13:59:24]
+  Gamemode changed to Миссия
+[03/10/2023 13:59:24]
+  Gamemode changed to Песочница
+[03/10/2023 13:59:31]
+  Gamemode changed to Миссия
+[03/10/2023 13:59:32]
+  Gamemode changed to Песочница
+[03/10/2023 13:59:33]
+  Gamemode changed to Миссия
+[03/10/2023 14:01:19]
+  Игрок Супостат499 присоединился к серверу.
+[03/10/2023 14:01:19]
+  Saving client permissions
+[03/10/2023 14:01:56]
+  kynlan4ic changed PlayStyle to Serious
+[03/10/2023 14:01:56]
+  kynlan4ic changed LosMode to Transparent
+[03/10/2023 14:01:56]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/10/2023 14:01:56]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/10/2023 14:01:56]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/10/2023 14:02:23]
+  kynlan4ic changed PlayStyle to Serious
+[03/10/2023 14:02:23]
+  kynlan4ic changed LosMode to Transparent
+[03/10/2023 14:02:23]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/10/2023 14:02:23]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/10/2023 14:02:23]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/10/2023 14:02:38]
+  kynlan4ic is ready to start the game.
+[03/10/2023 14:02:59]
+  Client "kynlan4ic" started the round.
+[03/10/2023 14:02:59]
+  Starting a new round...
+[03/10/2023 14:03:04]
+  Миссия: Добыча артефакта
+[03/10/2023 14:03:04]
+  Исследовательский центр Milda: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.
+[03/10/2023 14:03:04]
+  Game mode: Миссия
+[03/10/2023 14:03:04]
+  Submarine: Barsuk
+[03/10/2023 14:03:04]
+  Level seed: mtAfYaWg
+[03/10/2023 14:03:04]
+  Mission: Добыча артефакта
+[03/10/2023 14:03:05]
+  Round started.
+[03/10/2023 14:03:07]
+  Fractalguardian2 equipped Паровая пушка стража
+[03/10/2023 14:03:07]
+  Fractalguardian equipped Гарпун стража
+[03/10/2023 14:03:28]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 14:03:46]
+  kynlan4ic picked up Сварочный аппарат
+[03/10/2023 14:03:59]
+  kynlan4ic picked up Ружье
+[03/10/2023 14:04:03]
+  kynlan4ic picked up Бронежилет
+[03/10/2023 14:04:04]
+  kynlan4ic picked up Пистолет-пулемет
+[03/10/2023 14:04:04]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 14:04:08]
+  kynlan4ic equipped Пистолет-пулемет
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:17]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:18]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:04:27]
+  Супостат499 picked up Подводная маска
+[03/10/2023 14:04:32]
+  Супостат499 picked up Сварочный аппарат
+[03/10/2023 14:04:33]
+  kynlan4ic equipped Сварочный аппарат
+[03/10/2023 14:04:34]
+  kynlan4ic equipped Ружье
+[03/10/2023 14:04:36]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 14:04:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:04:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:05:03]
+  Супостат499 adjusted reactor settings: Temperature: 4510, Fission rate: 55, Turbine output: 43, Autotemp OFF
+[03/10/2023 14:05:04]
+  Супостат499 adjusted reactor settings: Temperature: 4571, Fission rate: 55, Turbine output: 42, Autotemp OFF
+[03/10/2023 14:05:05]
+  Супостат499 adjusted reactor settings: Temperature: 3895, Fission rate: 55, Turbine output: 87, Autotemp OFF
+[03/10/2023 14:05:06]
+  Супостат499 adjusted reactor settings: Temperature: 2895, Fission rate: 55, Turbine output: 79, Autotemp OFF
+[03/10/2023 14:05:07]
+  Супостат499 adjusted reactor settings: Temperature: 1895, Fission rate: 55, Turbine output: 70, Autotemp OFF
+[03/10/2023 14:05:08]
+  kynlan4ic adjusted reactor settings: Temperature: 2128, Fission rate: 58, Turbine output: 76, Autotemp ON
+[03/10/2023 14:05:10]
+  kynlan4ic adjusted reactor settings: Temperature: 4411, Fission rate: 61, Turbine output: 72, Autotemp OFF
+[03/10/2023 14:05:12]
+  kynlan4ic adjusted reactor settings: Temperature: 4576, Fission rate: 61, Turbine output: 72, Autotemp OFF
+[03/10/2023 14:05:13]
+  kynlan4ic adjusted reactor settings: Temperature: 4804, Fission rate: 61, Turbine output: 65, Autotemp OFF
+[03/10/2023 14:05:14]
+  kynlan4ic adjusted reactor settings: Temperature: 5079, Fission rate: 61, Turbine output: 64, Autotemp OFF
+[03/10/2023 14:05:15]
+  kynlan4ic adjusted reactor settings: Temperature: 5173, Fission rate: 61, Turbine output: 62, Autotemp OFF
+[03/10/2023 14:05:16]
+  kynlan4ic adjusted reactor settings: Temperature: 5784, Fission rate: 61, Turbine output: 33, Autotemp OFF
+[03/10/2023 14:05:17]
+  kynlan4ic adjusted reactor settings: Temperature: 6784, Fission rate: 61, Turbine output: 100, Autotemp OFF
+[03/10/2023 14:05:18]
+  kynlan4ic adjusted reactor settings: Temperature: 6065, Fission rate: 61, Turbine output: 78, Autotemp OFF
+[03/10/2023 14:05:19]
+  kynlan4ic adjusted reactor settings: Temperature: 5067, Fission rate: 61, Turbine output: 68, Autotemp OFF
+[03/10/2023 14:05:20]
+  kynlan4ic adjusted reactor settings: Temperature: 4519, Fission rate: 61, Turbine output: 63, Autotemp OFF
+[03/10/2023 14:05:21]
+  kynlan4ic adjusted reactor settings: Temperature: 4701, Fission rate: 61, Turbine output: 62, Autotemp OFF
+[03/10/2023 14:05:34]
+  Супостат499 picked up Кислородный баллон
+[03/10/2023 14:05:42]
+  kynlan4ic adjusted reactor settings: Temperature: 3513, Fission rate: 61, Turbine output: 62, Autotemp OFF
+[03/10/2023 14:05:52]
+  kynlan4ic picked up Пуленепробиваемый шлем
+[03/10/2023 14:06:05]
+  Супостат499 picked up Патрон револьвера
+[03/10/2023 14:06:05]
+  Супостат499 picked up Патрон револьвера
+[03/10/2023 14:06:05]
+  Супостат499 picked up Патрон револьвера
+[03/10/2023 14:06:05]
+  Супостат499 picked up Патрон револьвера
+[03/10/2023 14:06:05]
+  Супостат499 picked up Патрон револьвера
+[03/10/2023 14:06:05]
+  Супостат499 picked up Патрон револьвера
+[03/10/2023 14:06:16]
+  kynlan4ic adjusted reactor settings: Temperature: 3513, Fission rate: 61, Turbine output: 62, Autotemp OFF
+[03/10/2023 14:06:28]
+  kynlan4ic adjusted reactor settings: Temperature: 4792, Fission rate: 61, Turbine output: 64, Autotemp OFF
+[03/10/2023 14:06:29]
+  kynlan4ic adjusted reactor settings: Temperature: 4425, Fission rate: 61, Turbine output: 68, Autotemp OFF
+[03/10/2023 14:06:30]
+  kynlan4ic adjusted reactor settings: Temperature: 4182, Fission rate: 61, Turbine output: 67, Autotemp OFF
+[03/10/2023 14:06:31]
+  kynlan4ic adjusted reactor settings: Temperature: 3873, Fission rate: 61, Turbine output: 71, Autotemp OFF
+[03/10/2023 14:06:32]
+  kynlan4ic adjusted reactor settings: Temperature: 3695, Fission rate: 61, Turbine output: 69, Autotemp OFF
+[03/10/2023 14:06:38]
+  Outer wall breached by Spineling_giant
+[03/10/2023 14:06:38]
+  Outer wall breached by Spineling_giant
+[03/10/2023 14:06:42]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:42]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:43]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:06:43]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:43]
+  Inner wall breached by Spineling
+[03/10/2023 14:06:44]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:44]
+  Inner wall breached by Spineling
+[03/10/2023 14:06:45]
+  Inner wall breached by Spineling
+[03/10/2023 14:06:45]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:46]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:46]
+  Inner wall breached by Spineling
+[03/10/2023 14:06:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:48]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/10/2023 14:06:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:48]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:49]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:49]
+  Spineling attacked by Супостат499. Повреждение глубоких тканей: 40.0 Оглушение: 0.5
+[03/10/2023 14:06:49]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[03/10/2023 14:06:49]
+  Супостат499 launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:06:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:49]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:50]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5
+[03/10/2023 14:06:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:50]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:50]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:51]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/10/2023 14:06:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:51]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:51]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:52]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5
+[03/10/2023 14:06:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:52]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:52]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:52]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5
+[03/10/2023 14:06:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:53]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:06:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:06:53]
+  Outer wall breached by Spineling_giant
+[03/10/2023 14:06:53]
+  Inner wall breached by Spineling_giant
+[03/10/2023 14:06:54]
+  Inner wall breached by Spineling_giant
+[03/10/2023 14:06:54]
+  Inner wall breached by Spineling_giant
+[03/10/2023 14:06:54]
+  Outer wall breached by Spineling_giant
+[03/10/2023 14:06:58]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:58]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:58]
+  Outer wall breached by Spineling
+[03/10/2023 14:06:59]
+  Супостат499 picked up Водолазный скафандр
+[03/10/2023 14:07:02]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:02]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:07]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:07]
+  kynlan4ic picked up Водолазный скафандр
+[03/10/2023 14:07:10]
+  Inner wall breached by Spineling
+[03/10/2023 14:07:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:12]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:12]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:13]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:13]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:14]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:15]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:15]
+  Spineling_giant attacked by kynlan4ic. Повреждение глубоких тканей: 60.0 Оглушение: 0.5
+[03/10/2023 14:07:15]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:07:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:15]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:16]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:16]
+  Spineling_giant attacked by kynlan4ic. Повреждение глубоких тканей: 40.0 Оглушение: 0.5
+[03/10/2023 14:07:16]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:07:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:17]
+  Spineling has died (Cause of death: Рваная рана)
+[03/10/2023 14:07:17]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:18]
+  Spineling_giant attacked by kynlan4ic. Повреждение глубоких тканей: 60.0 Оглушение: 0.5
+[03/10/2023 14:07:18]
+  Spineling_giant has died (Cause of death: Рваная рана)
+[03/10/2023 14:07:18]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:07:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:19]
+  Spineling_giant attacked by kynlan4ic. Повреждение глубоких тканей: 40.0 Оглушение: 0.5
+[03/10/2023 14:07:19]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:07:20]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:20]
+  Outer wall breached by Spineling
+[03/10/2023 14:07:20]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:20]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:21]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:21]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:21]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:21]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[03/10/2023 14:07:21]
+  Spineling attacked by kynlan4ic. Повреждение глубоких тканей: 40.0 Оглушение: 0.5
+[03/10/2023 14:07:21]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:07:21]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:22]
+  Spineling has died (Cause of death: Рваная рана)
+[03/10/2023 14:07:22]
+  Spineling attacked by Супостат499. Рваная рана: 30.0 Кровотечение: 2.0
+[03/10/2023 14:07:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:22]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:22]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:22]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:23]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:24]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:27]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:28]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:28]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:30]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:30]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:34]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:35]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:35]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:35]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:35]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:36]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:36]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:38]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:38]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:40]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:41]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:41]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  kynlan4ic placed Морфин in Аптечка (ID: 3)
+[03/10/2023 14:07:42]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:07:42]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:43]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:07:50]
+  Spineling_giant attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/10/2023 14:07:51]
+  Spineling_giant attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/10/2023 14:07:51]
+  Spineling_giant attacked by kynlan4ic. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/10/2023 14:07:52]
+  Супостат499 adjusted reactor settings: Temperature: 2807, Fission rate: 60, Turbine output: 69, Autotemp ON
+[03/10/2023 14:07:58]
+  Outer wall breached by Spineling
+[03/10/2023 14:08:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:02]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:02]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:08:05]
+  kynlan4ic set the recharge speed of Суперконденсатор to 40 %
+[03/10/2023 14:08:05]
+  kynlan4ic set the recharge speed of Суперконденсатор to 50 %
+[03/10/2023 14:08:12]
+  kynlan4ic picked up Подводная маска
+[03/10/2023 14:08:14]
+  kynlan4ic placed Подводная маска in Хозяйственный шкаф (ID: 613)
+[03/10/2023 14:08:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:16]
+  Spineling has died (Cause of death: Рваная рана)
+[03/10/2023 14:08:16]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:08:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:16]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:08:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:08:17]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:08:18]
+  kynlan4ic picked up Отвертка
+[03/10/2023 14:08:19]
+  kynlan4ic equipped Отвертка
+[03/10/2023 14:08:21]
+  Супостат499 equipped Сварочный аппарат
+[03/10/2023 14:08:24]
+  kynlan4ic failed to repair Суперконденсатор
+[03/10/2023 14:08:29]
+  kynlan4ic failed to repair Суперконденсатор
+[03/10/2023 14:08:34]
+  kynlan4ic failed to repair Суперконденсатор
+[03/10/2023 14:08:39]
+  kynlan4ic failed to repair Суперконденсатор
+[03/10/2023 14:08:43]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:08:47]
+  kynlan4ic failed to repair Суперконденсатор
+[03/10/2023 14:08:53]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:08:54]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:08:58]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 614)
+[03/10/2023 14:08:59]
+  Outer wall breached by Spineling
+[03/10/2023 14:08:59]
+  Outer wall breached by Spineling
+[03/10/2023 14:09:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:07]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:09:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:08]
+  Spineling has died (Cause of death: Рваная рана)
+[03/10/2023 14:09:08]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:09:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:09:09]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:09:11]
+  Inner wall repaired by Супостат499
+[03/10/2023 14:09:26]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:09:32]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:09:33]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:09:33]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:09:39]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:09:46]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:09:56]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:10:06]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:10:08]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:10:11]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:19]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:22]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:10:22]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:25]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:32]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:38]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:42]
+  Inner wall repaired by Супостат499
+[03/10/2023 14:10:50]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:10:56]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:11:04]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 14:11:19]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:11:21]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:11:33]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 39)
+[03/10/2023 14:11:35]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 5309)
+[03/10/2023 14:11:42]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 14:11:42]
+  Супостат499 dropped Топливный бак сварочного аппарата
+[03/10/2023 14:11:42]
+  Супостат499 placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 5238)
+[03/10/2023 14:11:43]
+  Inner wall repaired by kynlan4ic
+[03/10/2023 14:11:48]
+  Супостат499 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 95)
+[03/10/2023 14:11:54]
+  kynlan4ic picked up Гаечный ключ
+[03/10/2023 14:12:00]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 14:12:05]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 14:12:07]
+  kynlan4ic equipped Гаечный ключ
+[03/10/2023 14:12:08]
+  kynlan4ic started repairing Настраиваемая дверь
+[03/10/2023 14:12:24]
+  kynlan4ic started repairing Настраиваемая дверь
+[03/10/2023 14:12:25]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 14:12:29]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 92)
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:37]
+  kynlan4ic picked up Бинт
+[03/10/2023 14:12:38]
+  Супостат499 placed Топливный бак сварочного аппарата in Аптечка (ID: 3)
+[03/10/2023 14:12:44]
+  kynlan4ic used item Бинт
+[03/10/2023 14:12:45]
+  kynlan4ic used item Бинт
+[03/10/2023 14:12:46]
+  kynlan4ic used item Бинт
+[03/10/2023 14:12:48]
+  kynlan4ic used item Бинт
+[03/10/2023 14:12:50]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:12:50]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:12:50]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:12:50]
+  kynlan4ic placed Бинт in Аптечка (ID: 3)
+[03/10/2023 14:12:52]
+  kynlan4ic picked up Морфин
+[03/10/2023 14:12:53]
+  kynlan4ic used item Морфин
+[03/10/2023 14:12:55]
+  Супостат499 adjusted reactor settings: Temperature: 4670, Fission rate: 44, Turbine output: 23, Autotemp OFF
+[03/10/2023 14:12:56]
+  Супостат499 adjusted reactor settings: Temperature: 4738, Fission rate: 44, Turbine output: 24, Autotemp OFF
+[03/10/2023 14:12:57]
+  Супостат499 adjusted reactor settings: Temperature: 5362, Fission rate: 44, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:12:58]
+  Супостат499 adjusted reactor settings: Temperature: 6162, Fission rate: 44, Turbine output: 60, Autotemp OFF
+[03/10/2023 14:12:59]
+  Супостат499 adjusted reactor settings: Temperature: 5161, Fission rate: 44, Turbine output: 44, Autotemp OFF
+[03/10/2023 14:13:00]
+  Супостат499 adjusted reactor settings: Temperature: 4161, Fission rate: 44, Turbine output: 42, Autotemp ON
+[03/10/2023 14:13:00]
+  kynlan4ic picked up Отвертка
+[03/10/2023 14:13:04]
+  kynlan4ic started repairing Суперконденсатор
+[03/10/2023 14:13:13]
+  Супостат499 adjusted reactor settings: Temperature: 5005, Fission rate: 41, Turbine output: 16, Autotemp OFF
+[03/10/2023 14:13:14]
+  Супостат499 adjusted reactor settings: Temperature: 5177, Fission rate: 41, Turbine output: 8, Autotemp OFF
+[03/10/2023 14:13:15]
+  Супостат499 adjusted reactor settings: Temperature: 5913, Fission rate: 33, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:13:16]
+  Супостат499 adjusted reactor settings: Temperature: 5122, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:13:17]
+  Супостат499 adjusted reactor settings: Temperature: 3322, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:13:18]
+  Супостат499 adjusted reactor settings: Temperature: 2322, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:13:21]
+  Супостат499 adjusted reactor settings: Temperature: 17, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:13:24]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:13:40]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:13:56]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:14:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:05]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.9
+[03/10/2023 14:14:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:06]
+  Watcher attacked by kynlan4ic. Рваная рана: 4.2 Кровотечение: 1.0
+[03/10/2023 14:14:06]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.9
+[03/10/2023 14:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:06]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:06]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:07]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:07]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:07]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:08]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:08]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:08]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:08]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:09]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:09]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:09]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:10]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:10]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:10]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.9
+[03/10/2023 14:14:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:11]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:11]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:11]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:12]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:14]
+  Супостат499 launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:14:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:14]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:15]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:15]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.0
+[03/10/2023 14:14:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:15]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.0
+[03/10/2023 14:14:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:16]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.0
+[03/10/2023 14:14:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:16]
+  Bonethresher attacked by Супостат499. Повреждение глубоких тканей: 40.0 Оглушение: 0.5
+[03/10/2023 14:14:16]
+  Супостат499 launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:14:16]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:16]
+  Outer wall breached by Bonethresher
+[03/10/2023 14:14:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:17]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:18]
+  Bonethresher attacked by Супостат499. Повреждение глубоких тканей: 40.0 Оглушение: 0.5
+[03/10/2023 14:14:18]
+  Outer wall breached by Супостат499
+[03/10/2023 14:14:18]
+  Bonethresher has died (Cause of death: Ожог)
+[03/10/2023 14:14:18]
+  Супостат499 launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[03/10/2023 14:14:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:22]
+  kynlan4ic started repairing Ядерный реактор
+[03/10/2023 14:14:26]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:14:27]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:14:30]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 1, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:14:31]
+  Супостат499 adjusted reactor settings: Temperature: 564, Fission rate: 34, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:14:32]
+  Супостат499 adjusted reactor settings: Temperature: 1581, Fission rate: 34, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:14:33]
+  Супостат499 adjusted reactor settings: Temperature: 2581, Fission rate: 52, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:14:34]
+  Супостат499 adjusted reactor settings: Temperature: 3581, Fission rate: 54, Turbine output: 0, Autotemp OFF
+[03/10/2023 14:14:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:37]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:38]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:14:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:14:42]
+  kynlan4ic adjusted reactor settings: Temperature: 8720, Fission rate: 54, Turbine output: 0, Autotemp ON
+[03/10/2023 14:14:46]
+  Супостат499 equipped Револьвер
+[03/10/2023 14:14:47]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:14:47]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:14:54]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:14:54]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:14:55]
+  Inner wall breached by Супостат499
+[03/10/2023 14:14:55]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:14:57]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/10/2023 14:14:59]
+  Супостат499 placed Патрон револьвера in Револьвер (ID: 5522)
+[03/10/2023 14:14:59]
+  Супостат499 placed Патрон револьвера in Револьвер (ID: 5522)
+[03/10/2023 14:14:59]
+  Супостат499 placed Патрон револьвера in Револьвер (ID: 5522)
+[03/10/2023 14:14:59]
+  Супостат499 placed Патрон револьвера in Револьвер (ID: 5522)
+[03/10/2023 14:14:59]
+  Супостат499 placed Патрон револьвера in Револьвер (ID: 5522)
+[03/10/2023 14:14:59]
+  Супостат499 placed Патрон револьвера in Револьвер (ID: 5522)
+[03/10/2023 14:15:00]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:15:01]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:15:14]
+  kynlan4ic has died (Cause of death: Укусы)
+[03/10/2023 14:15:16]
+  Inner wall breached by Tigerthresher
+[03/10/2023 14:15:20]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:15:20]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:15:20]
+  Inner wall breached by Tigerthresher
+[03/10/2023 14:15:21]
+  Tigerthresher attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/10/2023 14:15:23]
+  Inner wall breached by Tigerthresher
+[03/10/2023 14:15:25]
+  Inner wall breached by Tigerthresher
+[03/10/2023 14:15:32]
+  Супостат499 has died (Cause of death: Укусы)
+[03/10/2023 14:15:36]
+  Inner wall breached by Tigerthresher
+[03/10/2023 14:15:54]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:15:55]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/10/2023 14:16:04]
+  Dispatching the respawn shuttle.
+[03/10/2023 14:16:04]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Офицер службы безопасности
+[03/10/2023 14:16:04]
+  Respawning Супостат499 (STEAM_1:0:500890532) as Капитан
+[03/10/2023 14:16:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 14:16:06]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 14:16:10]
+  kynlan4ic picked up Подводный скутер
+[03/10/2023 14:16:10]
+  Супостат499 picked up Плазменный резак
+[03/10/2023 14:16:12]
+  Супостат499 picked up Кислородный баллон
+[03/10/2023 14:16:12]
+  Супостат499 picked up Кислородный баллон
+[03/10/2023 14:16:12]
+  Супостат499 picked up Кислородный баллон
+[03/10/2023 14:16:27]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:16:34]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:16:49]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:16:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:52]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:53]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.9
+[03/10/2023 14:16:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:54]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:54]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:55]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:56]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:56]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:56]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:16:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:57]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:58]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:58]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:59]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:16:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:16:59]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:00]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:00]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:00]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:01]
+  Watcher has died (Cause of death: Рваная рана)
+[03/10/2023 14:17:01]
+  Watcher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:01]
+  Outer wall breached by kynlan4ic
+[03/10/2023 14:17:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:01]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:02]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:02]
+  Outer wall breached by kynlan4ic
+[03/10/2023 14:17:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:03]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:04]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:05]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:05]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:06]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:07]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:07]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:08]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:08]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:08]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.0
+[03/10/2023 14:17:09]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:14]
+  Outer wall breached by Tigerthresher
+[03/10/2023 14:17:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:24]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:25]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:25]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/10/2023 14:17:25]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:25]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:26]
+  Outer wall breached by kynlan4ic
+[03/10/2023 14:17:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:28]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:39]
+  kynlan4ic set the recharge speed of Суперконденсатор to 20 %
+[03/10/2023 14:17:39]
+  kynlan4ic set the recharge speed of Суперконденсатор to 80 %
+[03/10/2023 14:17:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:45]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:46]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:46]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:47]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:47]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/10/2023 14:17:47]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 14:17:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 14:17:48]
+  Outer wall breached by kynlan4ic
+[03/10/2023 14:17:58]
+  kynlan4ic set the recharge speed of Суперконденсатор to 70 %
+[03/10/2023 14:17:58]
+  kynlan4ic set the recharge speed of Суперконденсатор to 30 %
+[03/10/2023 14:17:58]
+  kynlan4ic set the recharge speed of Суперконденсатор to 10 %
+[03/10/2023 14:17:58]
+  kynlan4ic set the recharge speed of Суперконденсатор to 0 %
+[03/10/2023 14:18:16]
+  kynlan4ic set the recharge speed of Суперконденсатор to 10 %
+[03/10/2023 14:18:16]
+  kynlan4ic set the recharge speed of Суперконденсатор to 20 %
+[03/10/2023 14:18:16]
+  kynlan4ic set the recharge speed of Суперконденсатор to 50 %
+[03/10/2023 14:18:17]
+  kynlan4ic set the recharge speed of Суперконденсатор to 100 %
+[03/10/2023 14:18:21]
+  kynlan4ic set the recharge speed of Суперконденсатор to 60 %
+[03/10/2023 14:18:22]
+  kynlan4ic set the recharge speed of Суперконденсатор to 40 %
+[03/10/2023 14:18:22]
+  kynlan4ic set the recharge speed of Суперконденсатор to 10 %
+[03/10/2023 14:18:22]
+  kynlan4ic set the recharge speed of Суперконденсатор to 0 %
+[03/10/2023 14:18:24]
+  Супостат499 docked Челнок R-170 to Barsuk
+[03/10/2023 14:18:27]
+  Супостат499 picked up Одноразовый водолазный скафандр
+[03/10/2023 14:18:32]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[03/10/2023 14:18:34]
+  kynlan4ic picked up Лом
+[03/10/2023 14:18:35]
+  kynlan4ic picked up Ручной сонар
+[03/10/2023 14:18:41]
+  The respawn shuttle is leaving.
+[03/10/2023 14:18:42]
+  Супостат499 picked up Подводное ружье
+[03/10/2023 14:18:44]
+  Супостат499 picked up Огнемет
+[03/10/2023 14:18:48]
+  Супостат499 placed Фуражка ветерана in Защищенный стальной шкаф (ID: 482)
+[03/10/2023 14:18:48]
+  Супостат499 removed Шлем стрелка from Защищенный стальной шкаф (ID: 482)
+[03/10/2023 14:18:48]
+  Супостат499 picked up Шлем стрелка
+[03/10/2023 14:18:49]
+  Супостат499 picked up Фуражка ветерана
+[03/10/2023 14:18:50]
+  kynlan4ic equipped Вещмешок
+[03/10/2023 14:18:53]
+  kynlan4ic dropped Вещмешок
+[03/10/2023 14:18:54]
+  Супостат499 picked up Гарпун
+[03/10/2023 14:18:54]
+  Супостат499 picked up Гарпун
+[03/10/2023 14:18:54]
+  Супостат499 picked up Гарпун
+[03/10/2023 14:18:54]
+  Супостат499 picked up Гарпун
+[03/10/2023 14:18:54]
+  Супостат499 picked up Гарпун
+[03/10/2023 14:18:54]
+  kynlan4ic unequipped Ружье
+[03/10/2023 14:18:57]
+  kynlan4ic dropped Подводный скутер
+[03/10/2023 14:19:01]
+  kynlan4ic placed Лом in Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:03]
+  kynlan4ic placed Ручной сонар in Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:03]
+  kynlan4ic removed Сигнальный огонь from Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:03]
+  kynlan4ic removed Сигнальный огонь from Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:03]
+  kynlan4ic removed Сигнальный огонь from Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:03]
+  kynlan4ic picked up Сигнальный огонь
+[03/10/2023 14:19:03]
+  kynlan4ic picked up Сигнальный огонь
+[03/10/2023 14:19:03]
+  kynlan4ic picked up Сигнальный огонь
+[03/10/2023 14:19:05]
+  kynlan4ic equipped Сигнальный огонь
+[03/10/2023 14:19:07]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 14:19:07]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 14:19:07]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 14:19:07]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[03/10/2023 14:19:12]
+  kynlan4ic dropped Сигнальный огонь
+[03/10/2023 14:19:13]
+  The respawn shuttle has left.
+[03/10/2023 14:19:15]
+  kynlan4ic removed Фонарик from Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:18]
+  kynlan4ic placed Сигнальный огонь in Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:18]
+  kynlan4ic placed Сигнальный огонь in Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:19:22]
+  kynlan4ic unequipped Сварочный аппарат
+[03/10/2023 14:19:28]
+  kynlan4ic unequipped Отвертка
+[03/10/2023 14:19:30]
+  Супостат499 picked up Сварочный аппарат
+[03/10/2023 14:19:31]
+  Супостат499 equipped Сварочный аппарат
+[03/10/2023 14:19:32]
+  kynlan4ic picked up Пистолет-пулемет
+[03/10/2023 14:19:32]
+  kynlan4ic picked up Сварочный аппарат
+[03/10/2023 14:19:33]
+  kynlan4ic dropped Вещмешок
+[03/10/2023 14:19:35]
+  Inner wall repaired by Супостат499
+[03/10/2023 14:19:41]
+  kynlan4ic equipped Водолазный скафандр
+[03/10/2023 14:19:41]
+  kynlan4ic picked up Водолазный скафандр
+[03/10/2023 14:19:42]
+  Inner wall repaired by Супостат499
+[03/10/2023 14:19:42]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[03/10/2023 14:19:48]
+  kynlan4ic equipped Сварочный аппарат
+[03/10/2023 14:19:59]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:20:00]
+  Супостат499 placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 95)
+[03/10/2023 14:20:00]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 95)
+[03/10/2023 14:20:00]
+  Супостат499 picked up Водолазный скафандр
+[03/10/2023 14:20:04]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:20:09]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:20:10]
+  Outer wall repaired by kynlan4ic
+[03/10/2023 14:20:18]
+  Inner wall repaired by kynlan4ic
+[03/10/2023 14:20:23]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:20:36]
+  kynlan4ic adjusted reactor settings: Temperature: 4995, Fission rate: 0, Turbine output: 0, Autotemp ON
+[03/10/2023 14:20:39]
+  kynlan4ic equipped Отвертка
+[03/10/2023 14:20:40]
+  kynlan4ic started repairing Ядерный реактор
+[03/10/2023 14:20:55]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:20:56]
+  kynlan4ic started repairing Ядерный реактор
+[03/10/2023 14:20:58]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:20:58]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:20:59]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:21:14]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:21:16]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:21:19]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:21:21]
+  Outer wall repaired by Супостат499
+[03/10/2023 14:21:29]
+  kynlan4ic unequipped Отвертка
+[03/10/2023 14:21:34]
+  kynlan4ic dropped Вещмешок
+[03/10/2023 14:21:37]
+  Супостат499 unequipped Сварочный аппарат
+[03/10/2023 14:21:37]
+  Супостат499 equipped Вещмешок
+[03/10/2023 14:21:39]
+  kynlan4ic equipped Отвертка
+[03/10/2023 14:21:40]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:21:51]
+  Супостат499 placed Шлем стрелка in Вещмешок (ID: 5252)
+[03/10/2023 14:21:54]
+  Супостат499 picked up Гаечный ключ
+[03/10/2023 14:21:54]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:21:57]
+  Супостат499 dropped Вещмешок
+[03/10/2023 14:22:02]
+  Супостат499 equipped Гаечный ключ
+[03/10/2023 14:22:05]
+  Супостат499 started repairing Настраиваемый люк
+[03/10/2023 14:22:23]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:22:28]
+  kynlan4ic turned off Насос
+[03/10/2023 14:22:29]
+  kynlan4ic turned on Насос
+[03/10/2023 14:22:31]
+  Супостат499 started repairing Настраиваемая дверь
+[03/10/2023 14:22:52]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 14:23:00]
+  Супостат499 started repairing Дверь с кнопками
+[03/10/2023 14:23:04]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[03/10/2023 14:23:25]
+  Супостат499 started repairing Дверь с окном и кнопками
+[03/10/2023 14:23:38]
+  kynlan4ic started repairing Навигационный терминал
+[03/10/2023 14:24:03]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 14:24:11]
+  Супостат499 placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 91)
+[03/10/2023 14:24:11]
+  Супостат499 removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 91)
+[03/10/2023 14:24:11]
+  Супостат499 placed Кислородный баллон in Водолазный скафандр (ID: 5301)
+[03/10/2023 14:24:18]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[03/10/2023 14:24:21]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:24:32]
+  kynlan4ic started repairing Кабельная коробка
+[03/10/2023 14:24:33]
+  Супостат499 started repairing Дверь с окном и кнопками
+[03/10/2023 14:24:57]
+  Супостат499 started repairing Зарядник импульсного лазера
+[03/10/2023 14:24:57]
+  kynlan4ic placed Фонарик in Ружье (ID: 5310)
+[03/10/2023 14:25:05]
+  kynlan4ic placed Фонарик in Пистолет-пулемет (ID: 5317)
+[03/10/2023 14:25:10]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф с окном (ID: 87)
+[03/10/2023 14:25:17]
+  kynlan4ic picked up Инопланетная кровь
+[03/10/2023 14:25:18]
+  Супостат499 started repairing Зарядник магнитной пушки
+[03/10/2023 14:25:24]
+  kynlan4ic placed Инопланетная кровь in Аптечка (ID: 3)
+[03/10/2023 14:25:25]
+  kynlan4ic picked up Инопланетная кровь
+[03/10/2023 14:25:27]
+  kynlan4ic placed Инопланетная кровь in Аптечка (ID: 3)
+[03/10/2023 14:25:32]
+  Супостат499 dropped Водолазный скафандр
+[03/10/2023 14:25:32]
+  kynlan4ic started repairing Суперконденсатор

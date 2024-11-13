@@ -1,0 +1,1600 @@
+﻿[10/21/2022 20:45:39]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3577)
+[10/21/2022 20:45:41]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 20:45:45]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3577)
+[10/21/2022 20:45:47]
+  Супостат started repairing Ядерный реактор
+[10/21/2022 20:45:48]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:46:00]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:46:06]
+  igameCrog picked up Гаечный ключ
+[10/21/2022 20:46:08]
+  igameCrog removed Топливный бак сварочного аппарата from Сварочный аппарат (ID: 3849)
+[10/21/2022 20:46:09]
+  igameCrog dropped Сварочный аппарат
+[10/21/2022 20:46:12]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:46:15]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:22]
+  Супостат adjusted reactor settings: Temperature: 5039, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 20:46:24]
+  Супостат adjusted reactor settings: Temperature: 3504, Fission rate: 5, Turbine output: 0, Autotemp ON
+[10/21/2022 20:46:29]
+  Anton Mason started repairing Кабельная коробка
+[10/21/2022 20:46:40]
+  igameCrog dropped Вещмешок
+[10/21/2022 20:46:43]
+  Супостат started repairing Кабельная коробка
+[10/21/2022 20:46:48]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:46:52]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:46:53]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:47:05]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 165)
+[10/21/2022 20:47:09]
+  Glenda Hedrick: Как здесь паршиво!
+[10/21/2022 20:47:10]
+  igameCrog picked up Сварочный аппарат
+[10/21/2022 20:47:11]
+  Glenda Hedrick: Я хочу домой!
+[10/21/2022 20:47:12]
+  igameCrog equipped Сварочный аппарат
+[10/21/2022 20:47:13]
+  Супостат started repairing Кабельная коробка
+[10/21/2022 20:47:16]
+  Glenda Hedrick: Где кислородные баллоны?
+[10/21/2022 20:47:17]
+  Darleen Mcneil: Надо найти водолазный скафандр!
+[10/21/2022 20:47:17]
+  Mikaela Ouellette: Надо найти водолазный скафандр!
+[10/21/2022 20:47:23]
+  Glenda Hedrick: Мне нужно подводное снаряжение!
+[10/21/2022 20:47:26]
+  Супостат started repairing Ядерный реактор
+[10/21/2022 20:47:35]
+  Супостат picked up Кислородный баллон
+[10/21/2022 20:47:35]
+  Супостат dropped Кислородный баллон
+[10/21/2022 20:47:35]
+  Супостат placed Кислородный баллон in Подводная маска (ID: 3557)
+[10/21/2022 20:47:58]
+  igameCrog used item Морфин
+[10/21/2022 20:48:09]
+  Anton Mason equipped Кислородный баллон
+[10/21/2022 20:48:09]
+  Anton Mason: Надо найти водолазный скафандр!
+[10/21/2022 20:48:13]
+  Супостат has died (Cause of death: Ожог)
+[10/21/2022 20:48:20]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:48:21]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:48:34]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:48:40]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:48:40]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:48:40]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:48:43]
+  igameCrog picked up Антидот морбузина
+[10/21/2022 20:48:43]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:48:46]
+  igameCrog used item Галоперидол
+[10/21/2022 20:48:53]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:48:53]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:48:56]
+  Anton Mason failed to repair Малый насос
+[10/21/2022 20:49:13]
+  The respawn shuttle is leaving.
+[10/21/2022 20:49:14]
+  Anton Mason started repairing Малый насос
+[10/21/2022 20:49:25]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:49:39]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:49:43]
+  Darleen Mcneil has died (Cause of death: Unknown)
+[10/21/2022 20:49:43]
+  Glenda Hedrick has died (Cause of death: Unknown)
+[10/21/2022 20:49:43]
+  Mikaela Ouellette has died (Cause of death: Unknown)
+[10/21/2022 20:49:43]
+  The respawn shuttle has left.
+[10/21/2022 20:49:49]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:49:49]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:49:49]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:49:49]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:49:51]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 20:49:51]
+  kynlan4ic dropped Кислородный баллон
+[10/21/2022 20:49:51]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3580)
+[10/21/2022 20:49:55]
+  Dispatching the respawn shuttle.
+[10/21/2022 20:49:55]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/21/2022 20:49:55]
+  Respawning bot Darleen Mcneil as Механик
+[10/21/2022 20:49:55]
+  Respawning bot Glenda Hedrick as Инженер
+[10/21/2022 20:49:55]
+  Respawning bot Mikaela Ouellette as Инженер
+[10/21/2022 20:49:58]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 20:49:58]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:50:24]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:50:36]
+  Anton Mason failed to repair Малый насос
+[10/21/2022 20:50:40]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:50:40]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:50:52]
+  Anton Mason started repairing Ядерный реактор
+[10/21/2022 20:50:59]
+  igameCrog adjusted reactor settings: Temperature: 5038, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 20:51:07]
+  igameCrog equipped Гаечный ключ
+[10/21/2022 20:51:13]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:51:17]
+  igameCrog started repairing Батарея
+[10/21/2022 20:51:29]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:51:30]
+  igameCrog started repairing Батарея
+[10/21/2022 20:51:36]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:51:36]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:51:36]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:51:36]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:51:43]
+  igameCrog started repairing Суперконденсатор
+[10/21/2022 20:51:54]
+  igameCrog started repairing Суперконденсатор
+[10/21/2022 20:51:59]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:51:59]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3883)
+[10/21/2022 20:51:59]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3577)
+[10/21/2022 20:52:03]
+  Супостат docked Hemulen to Dugong
+[10/21/2022 20:52:07]
+  igameCrog started repairing Ядерный реактор
+[10/21/2022 20:52:12]
+  igameCrog started repairing Ядерный реактор
+[10/21/2022 20:52:15]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 20:52:23]
+  Супостат picked up Подводная маска
+[10/21/2022 20:52:26]
+  Супостат picked up Плазменный резак
+[10/21/2022 20:52:38]
+  kynlan4ic closed Настраиваемый люк
+[10/21/2022 20:52:38]
+  kynlan4ic undocked Hemulen from Dugong
+[10/21/2022 20:53:33]
+  kynlan4ic docked Hemulen to Шахта Skadi's Cauldron
+[10/21/2022 20:53:33]
+  Anton Mason equipped Топливный бак сварочного аппарата
+[10/21/2022 20:53:37]
+  Anton Mason equipped Сварочный аппарат
+[10/21/2022 20:53:41]
+  Супостат picked up Одноразовый водолазный скафандр
+[10/21/2022 20:53:49]
+  Ending round (submarine reached the end of the level)
+[10/21/2022 20:53:49]
+  Ending the round...
+[10/21/2022 20:53:49]
+  Round ended.
+[10/21/2022 20:56:41]
+  Игрок iliya_kind присоединился к серверу.
+[10/21/2022 20:56:41]
+  Saving client permissions
+[10/21/2022 20:57:37]
+  kynlan4ic changed PlayStyle to Casual
+[10/21/2022 20:57:37]
+  kynlan4ic changed LosMode to Transparent
+[10/21/2022 20:57:37]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/21/2022 20:57:37]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/21/2022 20:59:00]
+  Client "kynlan4ic" started the round.
+[10/21/2022 20:59:00]
+  Starting a new round...
+[10/21/2022 20:59:12]
+  Миссия: Активировать маяк
+[10/21/2022 20:59:12]
+  Маяк на маршруте Центр Set - Шахта Skadi's Cauldron не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[10/21/2022 20:59:12]
+  Game mode: Миссия
+[10/21/2022 20:59:12]
+  Submarine: Dugong
+[10/21/2022 20:59:12]
+  Level seed: mo2euV0e
+[10/21/2022 20:59:12]
+  Mission: Активировать маяк
+[10/21/2022 20:59:12]
+  Round started.
+[10/21/2022 20:59:12]
+  Keven Tate: Кто-нибудь еще помнит Землю?
+[10/21/2022 20:59:15]
+  Alexia Mulford: Я, конечно, стар, но не настолько.
+[10/21/2022 20:59:17]
+  Milton Dews equipped Огнетушитель
+[10/21/2022 20:59:17]
+  Milton Dews: Мне нужен огнетушитель!
+[10/21/2022 20:59:17]
+  Messiah Gould: Мне нужен огнетушитель!
+[10/21/2022 20:59:18]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 20:59:20]
+  Keven Tate: Пытаюсь найти огнетушитель!
+[10/21/2022 20:59:24]
+  Keven Tate equipped Огнетушитель
+[10/21/2022 20:59:25]
+  Messiah Gould has died (Cause of death: Ожог)
+[10/21/2022 20:59:27]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 20:59:28]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 20:59:30]
+  Janee Hefner: Пытаюсь найти огнетушитель!
+[10/21/2022 20:59:30]
+  Dorthy Escobar: Пытаюсь найти огнетушитель!
+[10/21/2022 20:59:31]
+  Keven Tate equipped Морфин
+[10/21/2022 20:59:35]
+  Tera Maynard equipped Морфин
+[10/21/2022 20:59:35]
+  Keven Tate equipped Экстракт взрывного граната
+[10/21/2022 20:59:35]
+  Lindy Blackwell equipped Морфин
+[10/21/2022 20:59:35]
+  Dorthy Escobar equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 20:59:36]
+  Edgar Dorado equipped Бинт
+[10/21/2022 20:59:37]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 20:59:39]
+  Lindy Blackwell equipped Экстракт взрывного граната
+[10/21/2022 20:59:39]
+  Todd Schmitt equipped Ящик шрапнельных снарядов малого рассеивания
+[10/21/2022 20:59:40]
+  Darwin Bradley equipped Ящик шрапнельных снарядов широкого рассеивания
+[10/21/2022 20:59:40]
+  Супостат equipped Гаечный ключ
+[10/21/2022 20:59:40]
+  Супостат equipped Отвертка
+[10/21/2022 20:59:41]
+  Edgar Dorado equipped Ящик пробивных снарядов
+[10/21/2022 20:59:43]
+  Tera Maynard equipped Бинт
+[10/21/2022 20:59:44]
+  Dorthy Escobar equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:44]
+  igameCrog picked up Морфин
+[10/21/2022 20:59:46]
+  Alexia Mulford equipped "Грязная" бомба
+[10/21/2022 20:59:47]
+  Keven Tate equipped Ящик пробивных снарядов
+[10/21/2022 20:59:49]
+  Todd Schmitt equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 20:59:51]
+  Darrin Mansfield equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 20:59:54]
+  Dorthy Escobar equipped Ящик пробивных снарядов
+[10/21/2022 21:00:04]
+  Darwin Bradley equipped Ядерная глубинная бомба
+[10/21/2022 21:00:08]
+  igameCrog picked up Каликсанид
+[10/21/2022 21:00:19]
+  kynlan4ic equipped Ящик шрапнельных снарядов малого рассеивания
+[10/21/2022 21:00:19]
+  Darwin Bradley equipped "Грязная" бомба
+[10/21/2022 21:00:22]
+  kynlan4ic dropped Ящик шрапнельных снарядов малого рассеивания
+[10/21/2022 21:00:35]
+  Darwin Bradley equipped Абордажный топор
+[10/21/2022 21:00:38]
+  igameCrog picked up "Грязная" бомба
+[10/21/2022 21:00:50]
+  igameCrog picked up Морфин
+[10/21/2022 21:00:56]
+  Супостат placed Топливный стержень in Ядерный реактор (ID: 161)
+[10/21/2022 21:01:02]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:01:05]
+  igameCrog equipped Ядерная глубинная бомба
+[10/21/2022 21:01:05]
+  Todd Schmitt equipped Абордажный топор
+[10/21/2022 21:01:20]
+  igameCrog dropped Ядерная глубинная бомба
+[10/21/2022 21:01:32]
+  kynlan4ic: Milton Dews, заряди реактор!
+[10/21/2022 21:01:33]
+  Milton Dews: Вас понял!
+[10/21/2022 21:01:57]
+  Супостат placed Топливный стержень in Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат removed Топливный стержень from Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат removed Топливный стержень from Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат removed Топливный стержень from Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат removed Топливный стержень from Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат removed Топливный стержень from Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат removed Топливный стержень from Средний стальной шкаф с окном (ID: 604)
+[10/21/2022 21:01:57]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:01:57]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:01:57]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:01:57]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:01:57]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:01:57]
+  Супостат picked up Топливный стержень
+[10/21/2022 21:02:12]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:02:12]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:02:12]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:02:12]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:02:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/21/2022 21:02:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:18]
+  Tera Maynard: Мне нужно подводное снаряжение!
+[10/21/2022 21:02:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:18]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:20]
+  igameCrog picked up Водолазный скафандр
+[10/21/2022 21:02:24]
+  Darrin Mansfield equipped Боевой водолазный скафандр
+[10/21/2022 21:02:26]
+  Milton Dews: Надо найти водолазный скафандр!
+[10/21/2022 21:02:26]
+  kynlan4ic: Darrin Mansfield, начинай устранять протечки!
+[10/21/2022 21:02:26]
+  Edgar Dorado: Мне нужно подводное снаряжение!
+[10/21/2022 21:02:27]
+  Darrin Mansfield: Принято.
+[10/21/2022 21:02:28]
+  Darrin Mansfield: Надо найти водолазный скафандр!
+[10/21/2022 21:02:28]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:02:28]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:02:28]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:02:29]
+  Janee Hefner: Мне нужно подводное снаряжение!
+[10/21/2022 21:02:29]
+  Keven Tate: Мне нужно подводное снаряжение!
+[10/21/2022 21:02:31]
+  Keven Tate: Меняем кислородные баллоны!
+[10/21/2022 21:02:32]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:02:34]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:02:34]
+  Todd Schmitt: Надо найти водолазный скафандр!
+[10/21/2022 21:02:34]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:02:35]
+  kynlan4ic: Dorthy Escobar, займись оружием!
+[10/21/2022 21:02:35]
+  Milton Dews: Надо найти кислородный баллон!
+[10/21/2022 21:02:36]
+  Dorthy Escobar: Есть!
+[10/21/2022 21:02:37]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:02:37]
+  Inner wall breached by Hammerheadgold
+[10/21/2022 21:02:37]
+  Dorthy Escobar: У меня новая цель! Не могу понять, что это такое...
+[10/21/2022 21:02:38]
+  Dorthy Escobar: Стреляю!
+[10/21/2022 21:02:38]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:38]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:38]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:38]
+  Edgar Dorado equipped "Грязная" бомба
+[10/21/2022 21:02:39]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:39]
+  Janee Hefner: Мне нужен кислородный баллон!
+[10/21/2022 21:02:40]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:02:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:43]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:44]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:44]
+  igameCrog picked up Подводная маска
+[10/21/2022 21:02:45]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:02:45]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:02:47]
+  Tera Maynard equipped Водолазный скафандр
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:51]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:02:53]
+  Супостат equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 21:02:54]
+  igameCrog dropped "Грязная" бомба
+[10/21/2022 21:02:56]
+  Lindy Blackwell equipped Водолазный скафандр
+[10/21/2022 21:02:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:57]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:57]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/21/2022 21:02:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:58]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:02:58]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:58]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:58]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:02:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:58]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:02:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:59]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:02:59]
+  Alexia Mulford equipped "Грязная" бомба
+[10/21/2022 21:02:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:02:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:02:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:00]
+  Janee Hefner equipped Гидрокостюм
+[10/21/2022 21:03:00]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:01]
+  Супостат dropped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 21:03:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:02]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:02]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:03:02]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:03:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:04]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:03:04]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:03:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:04]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:03:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:04]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:03:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:05]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:03:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:03:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:10]
+  Todd Schmitt: Надо найти водолазный скафандр!
+[10/21/2022 21:03:10]
+  Dorthy Escobar: Надо найти водолазный скафандр!
+[10/21/2022 21:03:10]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:03:12]
+  Edgar Dorado: Мне нужно подводное снаряжение!
+[10/21/2022 21:03:14]
+  kynlan4ic picked up Гидрокостюм
+[10/21/2022 21:03:15]
+  Alexia Mulford: Надо найти водолазный скафандр!
+[10/21/2022 21:03:15]
+  Darwin Bradley: Мне нужно подводное снаряжение!
+[10/21/2022 21:03:16]
+  Edgar Dorado: Меняем кислородные баллоны!
+[10/21/2022 21:03:16]
+  Edgar Dorado equipped Водолазный скафандр
+[10/21/2022 21:03:17]
+  Keven Tate: Камера балласта A: минус одна протечка!
+[10/21/2022 21:03:17]
+  Супостат picked up Водолазный скафандр бездны
+[10/21/2022 21:03:20]
+  Janee Hefner: Мне нужно подводное снаряжение!
+[10/21/2022 21:03:21]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:03:22]
+  igameCrog equipped Кислородный баллон
+[10/21/2022 21:03:22]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:03:23]
+  Darrin Mansfield: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 21:03:24]
+  Tera Maynard equipped Кислородный баллон
+[10/21/2022 21:03:25]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:03:27]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:03:32]
+  Keven Tate: Камера балласта B: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 21:03:32]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:03:32]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:03:33]
+  Супостат equipped Ящик шрапнельных снарядов широкого рассеивания
+[10/21/2022 21:03:34]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:03:35]
+  Lindy Blackwell: Надо найти водолазный скафандр!
+[10/21/2022 21:03:36]
+  Супостат picked up Боевой водолазный скафандр
+[10/21/2022 21:03:36]
+  Супостат dropped Водолазный скафандр бездны
+[10/21/2022 21:03:37]
+  Tera Maynard: Мне нужно подводное снаряжение!
+[10/21/2022 21:03:38]
+  igameCrog picked up Сварочный аппарат
+[10/21/2022 21:03:38]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:03:39]
+  Darrin Mansfield: Моторный отсек: протечек не осталось!
+[10/21/2022 21:03:40]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:03:43]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 21:03:43]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 21:03:43]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 21:03:43]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/21/2022 21:03:43]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/21/2022 21:03:43]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/21/2022 21:03:43]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/21/2022 21:03:43]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/21/2022 21:03:43]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/21/2022 21:03:45]
+  Lindy Blackwell: Меняем кислородные баллоны!
+[10/21/2022 21:03:45]
+  Tera Maynard: Меняем кислородные баллоны!
+[10/21/2022 21:03:46]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:03:47]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:03:47]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:03:47]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:03:48]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:03:51]
+  Janee Hefner: Надо найти кислородный баллон!
+[10/21/2022 21:03:52]
+  Inner wall repaired by Todd Schmitt
+[10/21/2022 21:03:52]
+  Todd Schmitt: Мидель: протечек не осталось!
+[10/21/2022 21:03:53]
+  Inner wall repaired by Todd Schmitt
+[10/21/2022 21:03:53]
+  Todd Schmitt: Хозяйственный блок: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 21:03:54]
+  Darrin Mansfield: Моторный отсек: протечек не осталось!
+[10/21/2022 21:03:55]
+  igameCrog placed Бинт in Средний стальной шкаф (ID: 141)
+[10/21/2022 21:03:55]
+  igameCrog removed Отвертка from Средний стальной шкаф (ID: 141)
+[10/21/2022 21:03:55]
+  igameCrog picked up Отвертка
+[10/21/2022 21:03:55]
+  Darwin Bradley: Меняем кислородные баллоны!
+[10/21/2022 21:03:56]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:03:56]
+  Darrin Mansfield: Моторный отсек: минус одна протечка!
+[10/21/2022 21:03:57]
+  igameCrog placed Морфин in Средний стальной шкаф (ID: 141)
+[10/21/2022 21:03:57]
+  igameCrog placed Морфин in Средний стальной шкаф (ID: 141)
+[10/21/2022 21:03:57]
+  igameCrog removed Гаечный ключ from Средний стальной шкаф (ID: 141)
+[10/21/2022 21:03:57]
+  igameCrog picked up Гаечный ключ
+[10/21/2022 21:03:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:58]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:03:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:03:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:03:59]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:00]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:01]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:01]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:01]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:02]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:02]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:04]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:04]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:06]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3527)
+[10/21/2022 21:04:06]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3527)
+[10/21/2022 21:04:06]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:04:06]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:04:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:10]
+  Lindy Blackwell equipped Гидрокостюм
+[10/21/2022 21:04:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:10]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:11]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:11]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:11]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:12]
+  Janee Hefner equipped Сварочный аппарат
+[10/21/2022 21:04:12]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:04:13]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:14]
+  Todd Schmitt: Мне нужно подводное снаряжение!
+[10/21/2022 21:04:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:14]
+  Darwin Bradley equipped Боевой водолазный скафандр
+[10/21/2022 21:04:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:16]
+  Dorthy Escobar: Надо найти водолазный скафандр!
+[10/21/2022 21:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/21/2022 21:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:18]
+  Tera Maynard: Надо найти водолазный скафандр!
+[10/21/2022 21:04:18]
+  Darwin Bradley: Мне нужен кислород!
+[10/21/2022 21:04:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:19]
+  Darwin Bradley: Надо найти водолазный скафандр!
+[10/21/2022 21:04:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:19]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:22]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:04:22]
+  Darrin Mansfield: Верхняя средняя часть: протечек не осталось!
+[10/21/2022 21:04:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:22]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:22]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:23]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:23]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:04:23]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:04:23]
+  Milton Dews: Надо найти водолазный скафандр!
+[10/21/2022 21:04:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:26]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:26]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:27]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:04:27]
+  Darrin Mansfield: Воздушный шлюз: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 21:04:28]
+  kynlan4ic: Edgar Dorado, начинай устранять протечки!
+[10/21/2022 21:04:29]
+  Edgar Dorado: Есть!
+[10/21/2022 21:04:29]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:04:29]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:04:31]
+  kynlan4ic: Tera Maynard, займись протечками!
+[10/21/2022 21:04:31]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:04:32]
+  Tera Maynard: Есть!
+[10/21/2022 21:04:32]
+  kynlan4ic: Keven Tate, займись протечками!
+[10/21/2022 21:04:33]
+  Keven Tate: Вас понял!
+[10/21/2022 21:04:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:35]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:35]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:35]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:35]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:37]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:38]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:38]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:38]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:39]
+  Hammerhead has died (Cause of death: Рваная рана)
+[10/21/2022 21:04:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:43]
+  Milton Dews: Я теряю сознание!
+[10/21/2022 21:04:43]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:04:43]
+  Tera Maynard: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 21:04:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:45]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:45]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:45]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:45]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:46]
+  Darwin Bradley equipped Отвертка
+[10/21/2022 21:04:46]
+  Outer wall repaired by Todd Schmitt
+[10/21/2022 21:04:47]
+  Todd Schmitt: Медицинский отсек: все протечки устранены!
+[10/21/2022 21:04:47]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:47]
+  Outer wall breached by Hammerhead
+[10/21/2022 21:04:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:48]
+  Janee Hefner unequipped Сварочный аппарат
+[10/21/2022 21:04:48]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:04:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:49]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:49]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:49]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:50]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:50]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:50]
+  Dorthy Escobar: Суперконденсатор заряжается. Уже 50%!
+[10/21/2022 21:04:50]
+  Hammerhead has died (Cause of death: Рваная рана)
+[10/21/2022 21:04:50]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:51]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:51]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:51]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:52]
+  Dorthy Escobar: Заряд суперконденсатора на нуле!
+[10/21/2022 21:04:52]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:52]
+  Darwin Bradley started repairing Батарея
+[10/21/2022 21:04:53]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:04:53]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:04:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:53]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:53]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:04:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:54]
+  Janee Hefner started repairing Батарея
+[10/21/2022 21:04:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:04:54]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:04:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:04:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:04:55]
+  iliya_kind has died (Cause of death: Нехватка кислорода)
+[10/21/2022 21:04:56]
+  Супостат has died (Cause of death: Нехватка кислорода)
+[10/21/2022 21:04:58]
+  Alexia Mulford equipped Сварочный аппарат
+[10/21/2022 21:05:01]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:05:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:02]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:05:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:02]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:05:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:03]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:05:03]
+  Alexia Mulford unequipped Сварочный аппарат
+[10/21/2022 21:05:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:03]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:05:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:04]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:05:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:05:05]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:05:06]
+  Dispatching the respawn shuttle.
+[10/21/2022 21:05:06]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/21/2022 21:05:06]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/21/2022 21:05:06]
+  Respawning bot Messiah Gould as Врач
+[10/21/2022 21:05:07]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:05:07]
+  Outer wall repaired by Tera Maynard
+[10/21/2022 21:05:07]
+  Tera Maynard: Пункт управления: все протечки устранены!
+[10/21/2022 21:05:08]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:05:08]
+  Darrin Mansfield: Воздушный шлюз: минус одна протечка!
+[10/21/2022 21:05:09]
+  Darwin Bradley unequipped Отвертка
+[10/21/2022 21:05:09]
+  Darwin Bradley equipped Отвертка
+[10/21/2022 21:05:09]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 21:05:09]
+  Inner wall repaired by Keven Tate
+[10/21/2022 21:05:09]
+  Darwin Bradley started repairing Батарея
+[10/21/2022 21:05:09]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 21:05:10]
+  Darwin Bradley started repairing Батарея
+[10/21/2022 21:05:11]
+  Darwin Bradley unequipped Отвертка
+[10/21/2022 21:05:14]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:05:17]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:05:20]
+  Todd Schmitt started repairing Суперконденсатор
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Inner wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:20]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:22]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:05:28]
+  Janee Hefner started repairing Суперконденсатор
+[10/21/2022 21:05:30]
+  Outer wall repaired by Keven Tate
+[10/21/2022 21:05:33]
+  Dorthy Escobar: Надо найти водолазный скафандр!
+[10/21/2022 21:05:34]
+  Супостат покидает сервер.
+[10/21/2022 21:05:34]
+  Messiah Gould: Мне нужно подводное снаряжение!
+[10/21/2022 21:05:35]
+  Супостат has died (Cause of death: Баротравма)
+[10/21/2022 21:05:35]
+  Keven Tate: Где кислородные баллоны?
+[10/21/2022 21:05:35]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:35]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:35]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:35]
+  Outer wall breached by Hammerheadgold
+[10/21/2022 21:05:35]
+  Inner wall breached by Hammerheadgold
+[10/21/2022 21:05:36]
+  Todd Schmitt started repairing Навигационный терминал
+[10/21/2022 21:05:37]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:05:44]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:05:44]
+  Janee Hefner equipped Сварочный аппарат
+[10/21/2022 21:05:44]
+  Janee Hefner unequipped Сварочный аппарат
+[10/21/2022 21:05:44]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:05:45]
+  Todd Schmitt failed to repair Навигационный терминал
+[10/21/2022 21:05:46]
+  Janee Hefner failed to repair Навигационный терминал
+[10/21/2022 21:05:48]
+  Alexia Mulford equipped Кислородный баллон
+[10/21/2022 21:05:50]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:05:50]
+  Janee Hefner: Мне нужно подводное снаряжение!
+[10/21/2022 21:05:51]
+  Darwin Bradley equipped Отвертка
+[10/21/2022 21:05:51]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:05:51]
+  Darrin Mansfield: Моторный отсек: все протечки устранены!
+[10/21/2022 21:05:51]
+  Tera Maynard: Моторный отсек: минус одна протечка!
+[10/21/2022 21:05:52]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:05:52]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:05:53]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:05:53]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:05:53]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:05:53]
+  Lindy Blackwell equipped Водолазный скафандр бездны
+[10/21/2022 21:05:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.19 Оглушение: 0.025
+[10/21/2022 21:05:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:54]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:05:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:05:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:55]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[10/21/2022 21:05:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:05:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:55]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:05:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:56]
+  Alexia Mulford equipped Водолазный скафандр
+[10/21/2022 21:05:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:56]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:05:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:05:56]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:05:56]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:05:58]
+  Outer wall repaired by Keven Tate
+[10/21/2022 21:05:58]
+  Outer wall repaired by Keven Tate
+[10/21/2022 21:05:58]
+  Keven Tate: Моторный отсек: все протечки устранены!
+[10/21/2022 21:06:00]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:06:01]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/21/2022 21:06:02]
+  Milton Dews has died (Cause of death: Нехватка кислорода)
+[10/21/2022 21:06:04]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:06:04]
+  Todd Schmitt started repairing Двигатель
+[10/21/2022 21:06:08]
+  Edgar Dorado equipped Водолазный скафандр
+[10/21/2022 21:06:11]
+  Tera Maynard equipped Боевой водолазный скафандр
+[10/21/2022 21:06:11]
+  Janee Hefner started repairing Ядерный реактор
+[10/21/2022 21:06:12]
+  Lindy Blackwell equipped Водолазный скафандр бездны
+[10/21/2022 21:06:14]
+  Darwin Bradley unequipped Отвертка
+[10/21/2022 21:06:17]
+  Tera Maynard equipped Гидрокостюм
+[10/21/2022 21:06:17]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:06:17]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:06:17]
+  Darwin Bradley equipped Водолазный скафандр бездны
+[10/21/2022 21:06:18]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:06:19]
+  kynlan4ic equipped Ящик шрапнельных снарядов широкого рассеивания
+[10/21/2022 21:06:19]
+  Edgar Dorado equipped Гидрокостюм
+[10/21/2022 21:06:23]
+  Alexia Mulford equipped Гидрокостюм
+[10/21/2022 21:06:26]
+  iliya_kind picked up Подводный скутер
+[10/21/2022 21:06:27]
+  Keven Tate equipped Боевой водолазный скафандр
+[10/21/2022 21:06:27]
+  Darrin Mansfield equipped Водолазный скафандр
+[10/21/2022 21:06:28]
+  iliya_kind picked up Плазменный резак
+[10/21/2022 21:06:28]
+  kynlan4ic dropped Ящик шрапнельных снарядов широкого рассеивания
+[10/21/2022 21:06:31]
+  iliya_kind picked up Дементонитовый лом
+[10/21/2022 21:06:32]
+  Janee Hefner started repairing Батарея
+[10/21/2022 21:06:33]
+  Tera Maynard equipped Водолазный скафандр
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:33]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 21:06:34]
+  Alexia Mulford equipped Водолазный скафандр
+[10/21/2022 21:06:35]
+  Edgar Dorado equipped Водолазный скафандр
+[10/21/2022 21:06:37]
+  iliya_kind picked up Подводная маска
+[10/21/2022 21:06:42]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:06:42]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:06:42]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:06:48]
+  Janee Hefner failed to repair Навигационный терминал
+[10/21/2022 21:06:54]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:06:55]
+  Darwin Bradley equipped Отвертка
+[10/21/2022 21:06:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:06:58]
+  Hammerhead attacked by igameCrog. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:06:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:06:59]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:06:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:00]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:07:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:01]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:07:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:01]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:07:01]
+  Darwin Bradley started repairing Навигационный терминал
+[10/21/2022 21:07:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:01]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:07:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:02]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:07:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:02]
+  Hammerhead attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/21/2022 21:07:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:02]
+  Hammerhead attacked by igameCrog. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:07:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:03]
+  Hammerhead attacked by igameCrog. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 21:07:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:07]
+  Darwin Bradley unequipped Отвертка
+[10/21/2022 21:07:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:11]
+  Hammerhead attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025

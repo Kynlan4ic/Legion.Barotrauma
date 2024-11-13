@@ -1,0 +1,1508 @@
+﻿[10/20/2022 17:56:48]
+  Starting the server...
+[10/20/2022 17:56:48]
+  Using SteamP2P networking.
+[10/20/2022 17:56:48]
+  Server started
+[10/20/2022 17:56:48]
+  Игрок kynlan4ic присоединился к серверу.
+[10/20/2022 17:56:48]
+  Saving client permissions
+[10/20/2022 17:56:48]
+  Saving client permissions
+[10/20/2022 17:58:44]
+  Игрок igameCrog присоединился к серверу.
+[10/20/2022 17:58:44]
+  Saving client permissions
+[10/20/2022 17:59:33]
+  kynlan4ic changed PlayStyle to Casual
+[10/20/2022 17:59:33]
+  kynlan4ic changed LosMode to Transparent
+[10/20/2022 17:59:33]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/20/2022 17:59:33]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/20/2022 18:02:22]
+  Client "kynlan4ic" removed all permissions from the client "igameCrog.
+[10/20/2022 18:02:22]
+  Saving client permissions
+[10/20/2022 18:02:22]
+  Client "kynlan4ic" removed all permissions from the client "igameCrog.
+[10/20/2022 18:02:22]
+  Saving client permissions
+[10/20/2022 18:02:26]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound
+[10/20/2022 18:02:26]
+  Saving client permissions
+[10/20/2022 18:02:26]
+  Client "kynlan4ic" removed all permissions from the client "igameCrog.
+[10/20/2022 18:02:26]
+  Saving client permissions
+[10/20/2022 18:02:59]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound
+[10/20/2022 18:02:59]
+  Saving client permissions
+[10/20/2022 18:03:00]
+  Client "kynlan4ic" removed all permissions from the client "igameCrog.
+[10/20/2022 18:03:00]
+  Saving client permissions
+[10/20/2022 18:03:14]
+  kynlan4ic changed PlayStyle to Casual
+[10/20/2022 18:03:14]
+  kynlan4ic changed LosMode to Transparent
+[10/20/2022 18:03:14]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/20/2022 18:03:14]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/20/2022 18:05:41]
+  kynlan4ic changed PlayStyle to Casual
+[10/20/2022 18:05:41]
+  kynlan4ic changed LosMode to Transparent
+[10/20/2022 18:05:41]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/20/2022 18:05:41]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/20/2022 18:06:36]
+  kynlan4ic: ХУС
+[10/20/2022 18:07:43]
+  kynlan4ic: ББ
+[10/20/2022 18:08:56]
+  Игрок Супостат присоединился к серверу.
+[10/20/2022 18:08:56]
+  Saving client permissions
+[10/20/2022 18:09:04]
+  igameCrog is ready to start the game.
+[10/20/2022 18:09:16]
+  kynlan4ic is ready to start the game.
+[10/20/2022 18:09:16]
+  Супостат is ready to start the game.
+[10/20/2022 18:09:17]
+  Client "kynlan4ic" started the round.
+[10/20/2022 18:09:17]
+  Starting a new round...
+[10/20/2022 18:09:21]
+  Game mode: Песочница
+[10/20/2022 18:09:21]
+  Submarine: Barsuk
+[10/20/2022 18:09:21]
+  Level seed: IiffURnu
+[10/20/2022 18:09:23]
+  Round started.
+[10/20/2022 18:09:29]
+  Dona James: Слышишь?
+[10/20/2022 18:09:30]
+  Beverley Gumbs: Что?
+[10/20/2022 18:09:31]
+  Dona James: Как будто что-то скребется когтями по корпусу.
+[10/20/2022 18:09:35]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:09:36]
+  Dona James: Наверное, воображение разыгралось.
+[10/20/2022 18:10:03]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:10:12]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:10:44]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 18:10:44]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 18:10:44]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 18:10:44]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 18:10:44]
+  Супостат picked up Топливный бак сварочного аппарата
+[10/20/2022 18:10:46]
+  Супостат picked up Сварочный аппарат
+[10/20/2022 18:11:28]
+  igameCrog closed Настраиваемая дверь
+[10/20/2022 18:11:30]
+  igameCrog opened Настраиваемая дверь
+[10/20/2022 18:11:51]
+  Outer wall breached by Crawler
+[10/20/2022 18:11:56]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:00]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:09]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:10]
+  Супостат equipped Сварочный аппарат
+[10/20/2022 18:12:11]
+  Outer wall repaired by Супостат
+[10/20/2022 18:12:12]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:18]
+  kynlan4ic: Пункт управления: у нас гости!
+[10/20/2022 18:12:20]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:20]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:12:21]
+  Outer wall repaired by Супостат
+[10/20/2022 18:12:22]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:12:23]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:26]
+  kynlan4ic: Adam Krall, защищай команду!
+[10/20/2022 18:12:27]
+  Adam Krall: Вас понял!
+[10/20/2022 18:12:30]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:31]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:32]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:12:33]
+  Crawler has died (Cause of death: Травма от удара тупым предметом)
+[10/20/2022 18:12:35]
+  Jeanene Mendel: Багажный отсек: все протечки устранены!
+[10/20/2022 18:12:36]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:12:40]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:41]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:42]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:42]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:12:43]
+  Beverley Gumbs: Реакторный отсек: минус одна протечка!
+[10/20/2022 18:12:46]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:12:48]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:12:48]
+  Outer wall repaired by Супостат
+[10/20/2022 18:12:49]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:50]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:12:50]
+  Jeanene Mendel: Реакторный отсек: протечек не осталось!
+[10/20/2022 18:12:52]
+  Outer wall repaired by Супостат
+[10/20/2022 18:12:52]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:12:53]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:55]
+  Outer wall breached by Crawler
+[10/20/2022 18:12:57]
+  Trista Lozano: Мне нужно подводное снаряжение!
+[10/20/2022 18:12:58]
+  Outer wall repaired by Супостат
+[10/20/2022 18:12:59]
+  Jeanene Mendel: Мне нужно подводное снаряжение!
+[10/20/2022 18:13:00]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:13:00]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:01]
+  Beverley Gumbs: Мне нужно подводное снаряжение!
+[10/20/2022 18:13:01]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:02]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:13:04]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:09]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:10]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 18:13:11]
+  igameCrog picked up Сварочный аппарат
+[10/20/2022 18:13:12]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 18:13:12]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:12]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:13:13]
+  igameCrog picked up Лом
+[10/20/2022 18:13:16]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:13:16]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:13:16]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:13:17]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:17]
+  Супостат picked up Водолазный скафандр
+[10/20/2022 18:13:19]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:13:19]
+  Adam Krall: Мне нужно подводное снаряжение!
+[10/20/2022 18:13:19]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:13:19]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:13:19]
+  Adam Krall: Невозможно добраться: Ползун!
+[10/20/2022 18:13:24]
+  Beverley Gumbs closed Настраиваемая дверь
+[10/20/2022 18:13:26]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:13:26]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:13:26]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:13:26]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:26]
+  igameCrog picked up Подводная маска
+[10/20/2022 18:13:27]
+  Azul Hallett: Надо найти водолазный скафандр!
+[10/20/2022 18:13:27]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:13:27]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:13:28]
+  Outer wall repaired by Супостат
+[10/20/2022 18:13:28]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:13:28]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:13:28]
+  Trista Lozano equipped Гаечный ключ
+[10/20/2022 18:13:28]
+  Outer wall repaired by Супостат
+[10/20/2022 18:13:28]
+  kynlan4ic equipped Револьвер
+[10/20/2022 18:13:29]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:13:29]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:13:29]
+  Azul Hallett equipped Сварочный аппарат
+[10/20/2022 18:13:29]
+  Beverley Rock: Надо найти водолазный скафандр!
+[10/20/2022 18:13:29]
+  Jeanene Mendel: Помогите, я истекаю кровью!
+[10/20/2022 18:13:30]
+  Trista Lozano: Надо найти водолазный скафандр!
+[10/20/2022 18:13:30]
+  Trista Lozano unequipped Гаечный ключ
+[10/20/2022 18:13:30]
+  Trista Lozano equipped Гаечный ключ
+[10/20/2022 18:13:30]
+  Trista Lozano unequipped Гаечный ключ
+[10/20/2022 18:13:30]
+  Outer wall repaired by Супостат
+[10/20/2022 18:13:30]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:13:31]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:13:31]
+  igameCrog picked up Морфин
+[10/20/2022 18:13:32]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:13:32]
+  Azul Hallett unequipped Сварочный аппарат
+[10/20/2022 18:13:32]
+  Azul Hallett equipped Сварочный аппарат
+[10/20/2022 18:13:33]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:13:33]
+  Outer wall repaired by Супостат
+[10/20/2022 18:13:34]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:13:34]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:13:34]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:13:36]
+  Jeanene Mendel used Гаечный ключ on Crawler.
+[10/20/2022 18:13:36]
+  Trista Lozano equipped Гаечный ключ
+[10/20/2022 18:13:37]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:13:37]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:13:38]
+  Trista Lozano unequipped Гаечный ключ
+[10/20/2022 18:13:39]
+  Trista Lozano equipped Отвертка
+[10/20/2022 18:13:40]
+  Trista Lozano unequipped Отвертка
+[10/20/2022 18:13:40]
+  Trista Lozano equipped Гаечный ключ
+[10/20/2022 18:13:43]
+  Dona James: Мне нужно подводное снаряжение!
+[10/20/2022 18:13:45]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:13:45]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:13:46]
+  Adam Krall: Помогите, я истекаю кровью!
+[10/20/2022 18:13:46]
+  Outer wall breached by Crawler
+[10/20/2022 18:13:47]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:13:47]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:13:47]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:13:47]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:13:48]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:13:48]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:13:49]
+  Azul Hallett unequipped Сварочный аппарат
+[10/20/2022 18:13:49]
+  Azul Hallett equipped Гаечный ключ
+[10/20/2022 18:13:49]
+  Adam Krall: Мне нужно подводное снаряжение!
+[10/20/2022 18:13:50]
+  Azul Hallett unequipped Гаечный ключ
+[10/20/2022 18:13:50]
+  Azul Hallett equipped Сварочный аппарат
+[10/20/2022 18:13:52]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:13:52]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:13:53]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 18:13:53]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:13:53]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:13:53]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 18:13:54]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 18:13:54]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[10/20/2022 18:13:54]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 18:13:55]
+  Outer wall repaired by Супостат
+[10/20/2022 18:13:58]
+  Outer wall repaired by Супостат
+[10/20/2022 18:13:58]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:13:58]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:13:59]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:13:59]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:14:01]
+  Beverley Rock: Надо найти водолазный скафандр!
+[10/20/2022 18:14:01]
+  Супостат equipped Гаечный ключ
+[10/20/2022 18:14:02]
+  Супостат equipped Отвертка
+[10/20/2022 18:14:02]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:14:02]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:14:02]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:14:02]
+  Trista Lozano unequipped Гаечный ключ
+[10/20/2022 18:14:02]
+  Azul Hallett unequipped Сварочный аппарат
+[10/20/2022 18:14:03]
+  Jeanene Mendel: У меня кровь!
+[10/20/2022 18:14:03]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:14:03]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:14:03]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:14:06]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:14:06]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:14:07]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:14:08]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:14:08]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:14:08]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:14:08]
+  Trista Lozano equipped Гаечный ключ
+[10/20/2022 18:14:08]
+  Azul Hallett equipped Сварочный аппарат
+[10/20/2022 18:14:09]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:14:10]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 18:14:11]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/20/2022 18:14:13]
+  Dona James: Надо найти водолазный скафандр!
+[10/20/2022 18:14:18]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:14:18]
+  Azul Hallett unequipped Сварочный аппарат
+[10/20/2022 18:14:18]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:14:19]
+  Trista Lozano unequipped Гаечный ключ
+[10/20/2022 18:14:19]
+  Adam Krall: Помогите, я истекаю кровью!
+[10/20/2022 18:14:19]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:14:20]
+  Adam Krall: Мне нужно подводное снаряжение!
+[10/20/2022 18:14:23]
+  Супостат turned off Насос
+[10/20/2022 18:14:23]
+  Trista Lozano: Надо найти водолазный скафандр!
+[10/20/2022 18:14:23]
+  Супостат turned on Насос
+[10/20/2022 18:14:24]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:14:30]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[10/20/2022 18:14:32]
+  Beverley Rock: Надо найти водолазный скафандр!
+[10/20/2022 18:14:32]
+  Azul Hallett: Мне нужно подводное снаряжение!
+[10/20/2022 18:14:35]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:14:35]
+  Jeanene Mendel: Багажный отсек: протечек не осталось!
+[10/20/2022 18:14:36]
+  Outer wall breached by Crawler
+[10/20/2022 18:14:36]
+  Jeanene Mendel: У меня кровь!
+[10/20/2022 18:14:39]
+  Outer wall breached by Crawler
+[10/20/2022 18:14:40]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:14:42]
+  Outer wall breached by Crawler
+[10/20/2022 18:14:44]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:14:45]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:14:47]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:14:47]
+  Beverley Gumbs: Пункт управления: протечек не осталось!
+[10/20/2022 18:14:48]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:14:54]
+  Adam Krall: Я теряю много крови!
+[10/20/2022 18:14:55]
+  Beverley Rock: Jeanene Mendel получает первую помощь здесь: орудийный отсек!
+[10/20/2022 18:14:58]
+  Beverley Rock: Jeanene Mendel чувствует себя хорошо!
+[10/20/2022 18:14:59]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:15:01]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:15:01]
+  Adam Krall: Надо найти водолазный скафандр!
+[10/20/2022 18:15:01]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:15:01]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:15:01]
+  Adam Krall: Невозможно добраться: Ползун!
+[10/20/2022 18:15:02]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:15:02]
+  Beverley Rock: Adam Krall проходит лечение здесь: орудийный отсек!
+[10/20/2022 18:15:03]
+  Beverley Rock: Adam Krall нуждается в помощи! Срочно требуется инопланетная кровь, пакет с кровью, физраствор или бинт!
+[10/20/2022 18:15:05]
+  Outer wall breached by Crawler
+[10/20/2022 18:15:06]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:15:07]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:15:09]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:15:09]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:15:10]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:15:11]
+  Jeanene Mendel: Пункт управления: все протечки устранены!
+[10/20/2022 18:15:11]
+  igameCrog: Пункт управления: поврежденные устройства!
+[10/20/2022 18:15:12]
+  Супостат placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[10/20/2022 18:15:12]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:15:13]
+  Outer wall breached by Crawler
+[10/20/2022 18:15:21]
+  Beverley Rock equipped Инопланетная кровь
+[10/20/2022 18:15:23]
+  Outer wall breached by Crawler
+[10/20/2022 18:15:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:24]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:24]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:24]
+  Beverley Rock equipped Морфин
+[10/20/2022 18:15:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:25]
+  Adam Krall: Помогите, я истекаю кровью!
+[10/20/2022 18:15:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:27]
+  Beverley Rock: Adam Krall чувствует себя хорошо!
+[10/20/2022 18:15:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:27]
+  Beverley Rock equipped Морфин
+[10/20/2022 18:15:27]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:27]
+  Beverley Rock: kynlan4ic проходит лечение здесь: орудийный отсек!
+[10/20/2022 18:15:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:28]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:28]
+  Beverley Rock: kynlan4ic нуждается в помощи! Срочно требуется инопланетная кровь, пакет с кровью, физраствор или опиум!
+[10/20/2022 18:15:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:29]
+  Beverley Rock: kynlan4ic в полном порядке!
+[10/20/2022 18:15:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:31]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:15:32]
+  Outer wall repaired by Jeanene Mendel
+[10/20/2022 18:15:32]
+  Jeanene Mendel: Пункт управления: протечек не осталось!
+[10/20/2022 18:15:34]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:15:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:45]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:53]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:15:54]
+  Crawler has died (Cause of death: Рваная рана)
+[10/20/2022 18:15:54]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:15:56]
+  Adam Krall: Помогите, я истекаю кровью!
+[10/20/2022 18:15:59]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:15:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:01]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:16:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:01]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:16:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:02]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:16:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:07]
+  igameCrog picked up Подводный скутер
+[10/20/2022 18:16:09]
+  igameCrog picked up Фонарик
+[10/20/2022 18:16:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:16:16]
+  igameCrog equipped Сварочный аппарат
+[10/20/2022 18:16:24]
+  Супостат picked up Водолазный скафандр
+[10/20/2022 18:16:24]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:16:24]
+  Adam Krall: Мне нужно подводное снаряжение!
+[10/20/2022 18:16:33]
+  Adam Krall used Шоковая дубинка (Аккумулятор) on Crawler.
+[10/20/2022 18:16:34]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:16:34]
+  Adam Krall equipped Нож ныряльщика
+[10/20/2022 18:16:34]
+  Adam Krall unequipped Нож ныряльщика
+[10/20/2022 18:16:34]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:16:36]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:16:36]
+  Adam Krall equipped Нож ныряльщика
+[10/20/2022 18:16:37]
+  Dona James equipped Отвертка
+[10/20/2022 18:16:37]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:16:37]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:16:37]
+  Trista Lozano equipped Отвертка
+[10/20/2022 18:16:37]
+  Azul Hallett equipped Сварочный аппарат
+[10/20/2022 18:16:38]
+  Dona James started repairing Суперконденсатор
+[10/20/2022 18:16:38]
+  Trista Lozano unequipped Отвертка
+[10/20/2022 18:16:38]
+  Trista Lozano equipped Гаечный ключ
+[10/20/2022 18:16:38]
+  Adam Krall unequipped Нож ныряльщика
+[10/20/2022 18:16:38]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:16:39]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:16:41]
+  Jeanene Mendel: Мне нужно подводное снаряжение!
+[10/20/2022 18:16:41]
+  Crawler has died (Cause of death: Рваная рана)
+[10/20/2022 18:16:41]
+  Adam Krall used Шоковая дубинка (Аккумулятор) on Crawler.
+[10/20/2022 18:16:41]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:16:41]
+  Adam Krall unequipped Шоковая дубинка
+[10/20/2022 18:16:41]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:16:41]
+  Trista Lozano unequipped Гаечный ключ
+[10/20/2022 18:16:41]
+  Azul Hallett unequipped Сварочный аппарат
+[10/20/2022 18:16:42]
+  Dona James: Надо найти водолазный скафандр!
+[10/20/2022 18:16:42]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 18:16:44]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:16:44]
+  Beverley Gumbs: Надо найти водолазный скафандр!
+[10/20/2022 18:16:44]
+  Beverley Rock: Надо найти водолазный скафандр!
+[10/20/2022 18:16:45]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:16:46]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 18:16:48]
+  kynlan4ic: Jeanene Mendel, займись поврежденными устройствами!
+[10/20/2022 18:16:49]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:16:49]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:16:49]
+  Jeanene Mendel: Так точно!
+[10/20/2022 18:16:50]
+  kynlan4ic: Beverley Gumbs, начинай устранять протечки!
+[10/20/2022 18:16:51]
+  Beverley Gumbs: Слушаюсь!
+[10/20/2022 18:16:51]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:16:51]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:16:52]
+  Jeanene Mendel started repairing Дверь с кнопками
+[10/20/2022 18:16:53]
+  Beverley Gumbs: Невозможно добраться до течи: Воздушный шлюз!
+[10/20/2022 18:16:56]
+  Outer wall repaired by Супостат
+[10/20/2022 18:17:00]
+  Outer wall repaired by Супостат
+[10/20/2022 18:17:01]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:17:01]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:17:05]
+  Jeanene Mendel: Невозможно добраться: Ядерный реактор!
+[10/20/2022 18:17:11]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:17:11]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:17:12]
+  Dona James unequipped Отвертка
+[10/20/2022 18:17:15]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:17:15]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:17:15]
+  Супостат opened Настраиваемая дверь
+[10/20/2022 18:17:17]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:17:17]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:17:17]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:17:17]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:17:17]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:17:17]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:17:18]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:17:18]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:17:18]
+  Jeanene Mendel started repairing Суперконденсатор
+[10/20/2022 18:17:19]
+  Azul Hallett equipped Водолазный скафандр
+[10/20/2022 18:17:26]
+  Супостат closed Настраиваемая дверь
+[10/20/2022 18:17:28]
+  igameCrog equipped Фонарик
+[10/20/2022 18:17:31]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:17:31]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:17:31]
+  Jeanene Mendel: Надо найти водолазный скафандр!
+[10/20/2022 18:17:31]
+  Jeanene Mendel: Невозможно добраться: Генератор кислорода!
+[10/20/2022 18:17:39]
+  Jeanene Mendel opened Настраиваемая дверь
+[10/20/2022 18:17:41]
+  Jeanene Mendel started repairing Малый насос
+[10/20/2022 18:17:47]
+  Jeanene Mendel started repairing Настраиваемая дверь
+[10/20/2022 18:17:48]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 18:17:50]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:17:50]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:17:50]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:17:51]
+  Jeanene Mendel closed Настраиваемая дверь
+[10/20/2022 18:17:51]
+  igameCrog equipped Отвертка
+[10/20/2022 18:17:53]
+  igameCrog equipped Гаечный ключ
+[10/20/2022 18:17:54]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:17:55]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:17:55]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:17:55]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:17:55]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:17:56]
+  Jeanene Mendel started repairing Монитор состояния
+[10/20/2022 18:17:56]
+  igameCrog equipped Лом
+[10/20/2022 18:17:58]
+  Trista Lozano equipped Водолазный скафандр
+[10/20/2022 18:18:02]
+  Jeanene Mendel failed to repair Навигационный терминал
+[10/20/2022 18:18:06]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:18:06]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:18:10]
+  Jeanene Mendel: Невозможно добраться: Малый насос!
+[10/20/2022 18:18:10]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:18:10]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:18:13]
+  Jeanene Mendel started repairing Кабельная коробка
+[10/20/2022 18:18:19]
+  kynlan4ic: Dona James, заряди реактор!
+[10/20/2022 18:18:20]
+  Jeanene Mendel started repairing Кабельная коробка
+[10/20/2022 18:18:20]
+  Dona James: Принято.
+[10/20/2022 18:18:23]
+  Dona James: Невозможно добраться: Ядерный реактор!
+[10/20/2022 18:18:28]
+  Jeanene Mendel started repairing Кабельная коробка
+[10/20/2022 18:18:33]
+  Jeanene Mendel failed to repair Кабельная коробка
+[10/20/2022 18:18:41]
+  Jeanene Mendel: Невозможно добраться: Кабельная коробка!
+[10/20/2022 18:18:45]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 18:18:46]
+  igameCrog dropped Лом
+[10/20/2022 18:18:47]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 18:18:48]
+  Jeanene Mendel failed to repair Кабельная коробка
+[10/20/2022 18:18:49]
+  Супостат unequipped Лом
+[10/20/2022 18:18:50]
+  Супостат equipped Топливный бак сварочного аппарата
+[10/20/2022 18:18:51]
+  Супостат equipped Лом
+[10/20/2022 18:18:52]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:18:54]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:18:58]
+  Супостат dropped Лом
+[10/20/2022 18:19:00]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 18:19:02]
+  Jeanene Mendel equipped Лом
+[10/20/2022 18:19:06]
+  Jeanene Mendel unequipped Лом
+[10/20/2022 18:19:06]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:19:06]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:19:06]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:19:06]
+  Jeanene Mendel attacked by igameCrog. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 18:19:06]
+  igameCrog used Гаечный ключ on Jeanene Mendel.
+[10/20/2022 18:19:07]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:19:11]
+  Beverley Rock: Jeanene Mendel чувствует себя хорошо!
+[10/20/2022 18:19:11]
+  Супостат picked up Плазменный резак
+[10/20/2022 18:19:14]
+  Супостат equipped Плазменный резак
+[10/20/2022 18:19:14]
+  Beverley Rock equipped Лом
+[10/20/2022 18:19:15]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:19:19]
+  Jeanene Mendel: Невозможно добраться: Батарея!
+[10/20/2022 18:19:24]
+  Jeanene Mendel started repairing Батарея
+[10/20/2022 18:19:27]
+  Dona James equipped Отвертка
+[10/20/2022 18:19:29]
+  Dona James started repairing Ядерный реактор
+[10/20/2022 18:19:37]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:19:39]
+  Супостат dropped Водолазный скафандр
+[10/20/2022 18:19:42]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:19:42]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:19:42]
+  igameCrog started repairing Генератор кислорода
+[10/20/2022 18:19:42]
+  Beverley Gumbs started repairing Двигатель
+[10/20/2022 18:19:45]
+  Dona James started repairing Батарея
+[10/20/2022 18:19:46]
+  Jeanene Mendel started repairing Малый насос
+[10/20/2022 18:19:56]
+  Jeanene Mendel started repairing Дверь с окном и кнопками
+[10/20/2022 18:19:58]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:19:58]
+  Beverley Gumbs equipped Отвертка
+[10/20/2022 18:19:59]
+  Beverley Gumbs unequipped Отвертка
+[10/20/2022 18:20:01]
+  Dona James unequipped Отвертка
+[10/20/2022 18:20:03]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:20:03]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:20:03]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 18:20:05]
+  Beverley Gumbs equipped Водолазный скафандр
+[10/20/2022 18:20:06]
+  Jeanene Mendel started repairing Навигационный терминал
+[10/20/2022 18:20:11]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 18:20:11]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:20:11]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:20:14]
+  Jeanene Mendel failed to repair Кабельная коробка
+[10/20/2022 18:20:18]
+  Супостат started repairing Кабельная коробка
+[10/20/2022 18:20:23]
+  Jeanene Mendel started repairing Кабельная коробка
+[10/20/2022 18:20:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:20:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:20:25]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:20:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:20:25]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:20:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:20:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:20:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:20:26]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:20:31]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:20:53]
+  igameCrog set the recharge speed of Суперконденсатор to 40 %
+[10/20/2022 18:20:53]
+  igameCrog set the recharge speed of Суперконденсатор to 50 %
+[10/20/2022 18:20:53]
+  igameCrog set the recharge speed of Суперконденсатор to 80 %
+[10/20/2022 18:20:53]
+  igameCrog set the recharge speed of Суперконденсатор to 100 %
+[10/20/2022 18:21:10]
+  Jeanene Mendel: У тебя не бывает такого, что кажется, будто вся эта луна против нас?
+[10/20/2022 18:21:14]
+  igameCrog set the recharge speed of Суперконденсатор to 90 %
+[10/20/2022 18:21:15]
+  igameCrog set the recharge speed of Суперконденсатор to 70 %
+[10/20/2022 18:21:16]
+  igameCrog set the recharge speed of Суперконденсатор to 60 %
+[10/20/2022 18:21:16]
+  igameCrog set the recharge speed of Суперконденсатор to 20 %
+[10/20/2022 18:21:16]
+  igameCrog set the recharge speed of Суперконденсатор to 0 %
+[10/20/2022 18:21:16]
+  igameCrog set the recharge speed of Суперконденсатор to 70 %
+[10/20/2022 18:21:17]
+  igameCrog set the recharge speed of Суперконденсатор to 80 %
+[10/20/2022 18:21:17]
+  igameCrog set the recharge speed of Суперконденсатор to 100 %
+[10/20/2022 18:21:22]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:22]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:22]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:22]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:25]
+  Outer wall breached by Tigerthresher
+[10/20/2022 18:21:26]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:21:29]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:21:29]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:21:29]
+  Outer wall repaired by Beverley Gumbs
+[10/20/2022 18:21:29]
+  Beverley Gumbs: Пункт управления: протечек не осталось!
+[10/20/2022 18:21:30]
+  Outer wall repaired by Beverley Gumbs
+[10/20/2022 18:21:30]
+  Jeanene Mendel started repairing Кабельная коробка
+[10/20/2022 18:21:31]
+  Outer wall repaired by Beverley Gumbs
+[10/20/2022 18:21:32]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:21:33]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:35]
+  Beverley Gumbs: Мне нужно подводное снаряжение!
+[10/20/2022 18:21:38]
+  Jeanene Mendel started repairing Кабельная коробка
+[10/20/2022 18:21:40]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:41]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:21:41]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:21:41]
+  Jeanene Mendel: Мне нужно подводное снаряжение!
+[10/20/2022 18:21:43]
+  kynlan4ic: Пункт управления: здесь пожар!
+[10/20/2022 18:21:44]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 18:21:46]
+  kynlan4ic: Пункт управления: здесь противник!
+[10/20/2022 18:21:47]
+  kynlan4ic: Пункт управления: у нас гости!
+[10/20/2022 18:21:48]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:21:48]
+  Tigerthresher attacked by Супостат. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:21:49]
+  kynlan4ic: Пункт управления: у нас гости!
+[10/20/2022 18:21:51]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:51]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:21:53]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:21:53]
+  Jeanene Mendel started repairing Настраиваемый люк
+[10/20/2022 18:21:55]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:21:55]
+  Tigerthresher attacked by Супостат. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:21:55]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:21:55]
+  Tigerthresher attacked by Супостат. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:22:00]
+  Dona James: Мне нужно подводное снаряжение!
+[10/20/2022 18:22:04]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:22:08]
+  Outer wall repaired by Beverley Gumbs
+[10/20/2022 18:22:18]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:22:18]
+  Beverley Rock: Мне нужно подводное снаряжение!
+[10/20/2022 18:22:23]
+  Adam Krall equipped Шоковая дубинка
+[10/20/2022 18:22:25]
+  Adam Krall used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/20/2022 18:22:25]
+  Adam Krall: Надо найти водолазный скафандр!
+[10/20/2022 18:22:26]
+  Outer wall repaired by Dona James
+[10/20/2022 18:22:27]
+  Azul Hallett: Мне нужно подводное снаряжение!
+[10/20/2022 18:22:27]
+  Dona James: Балласт: минус одна протечка!
+[10/20/2022 18:22:30]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:22:30]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:22:30]
+  Dona James equipped Лом
+[10/20/2022 18:22:32]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:22:32]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:22:32]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:22:32]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:22:34]
+  Trista Lozano: Мне нужно подводное снаряжение!
+[10/20/2022 18:22:34]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:22:36]
+  igameCrog has died (Cause of death: Баротравма)
+[10/20/2022 18:22:36]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:22:39]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:22:39]
+  Jeanene Mendel equipped Отвертка
+[10/20/2022 18:22:39]
+  Jeanene Mendel started repairing Суперконденсатор
+[10/20/2022 18:22:40]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[10/20/2022 18:22:41]
+  Outer wall repaired by Beverley Gumbs
+[10/20/2022 18:22:44]
+  Jeanene Mendel unequipped Отвертка
+[10/20/2022 18:22:44]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:22:44]
+  Супостат has died (Cause of death: Укусы)
+[10/20/2022 18:22:45]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:22:45]
+  Trista Lozano has died (Cause of death: Баротравма)
+[10/20/2022 18:22:46]
+  Dispatching the respawn shuttle.
+[10/20/2022 18:22:46]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/20/2022 18:22:46]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 18:22:47]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/20/2022 18:22:47]
+  Respawning bot Trista Lozano as Помощник
+[10/20/2022 18:22:48]
+  Outer wall repaired by Beverley Gumbs
+[10/20/2022 18:22:48]
+  Jeanene Mendel started repairing Малый насос
+[10/20/2022 18:22:48]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:22:48]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:22:49]
+  Azul Hallett has died (Cause of death: Баротравма)
+[10/20/2022 18:22:49]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:22:49]
+  Beverley Rock has died (Cause of death: Баротравма)
+[10/20/2022 18:22:49]
+  Adam Krall has died (Cause of death: Баротравма)
+[10/20/2022 18:22:49]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:22:49]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:22:50]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:22:51]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:22:51]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:22:51]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:22:52]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:22:52]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:22:52]
+  Dona James: Помогите, я истекаю кровью!
+[10/20/2022 18:22:53]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:22:53]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:22:53]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:22:53]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:22:54]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:22:54]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:22:55]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:22:55]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:22:57]
+  Dona James used Гаечный ключ on Tigerthresher.
+[10/20/2022 18:22:58]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:22:58]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:22:58]
+  Outer wall breached by Bonethresher
+[10/20/2022 18:23:00]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:00]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:01]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:23:01]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:23:01]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:02]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:02]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:23:02]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:23:03]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:23:03]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:23:04]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:23:04]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:23:05]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:23:05]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:23:06]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:06]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:08]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:08]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:09]
+  Beverley Gumbs used Гаечный ключ on Adam Krall.
+[10/20/2022 18:23:10]
+  Dona James used Гаечный ключ on Tigerthresher.
+[10/20/2022 18:23:10]
+  Dona James unequipped Гаечный ключ
+[10/20/2022 18:23:10]
+  Dona James equipped Сварочный аппарат
+[10/20/2022 18:23:10]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:10]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:10]
+  Inner wall breached by Bonethresher
+[10/20/2022 18:23:11]
+  Dona James unequipped Сварочный аппарат
+[10/20/2022 18:23:11]
+  Dona James equipped Гаечный ключ
+[10/20/2022 18:23:11]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:11]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:11]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:11]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:12]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:12]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:13]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:13]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:14]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:14]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:15]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:15]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:21]
+  Dona James has died (Cause of death: Укусы)
+[10/20/2022 18:23:24]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:24]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:25]
+  Beverley Gumbs used Гаечный ключ on Tigerthresher.
+[10/20/2022 18:23:27]
+  Beverley Gumbs: Помогите, я истекаю кровью!
+[10/20/2022 18:23:27]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:27]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:28]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:28]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:29]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:29]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:30]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:30]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:30]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:30]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:31]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:31]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:33]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:33]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:34]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:34]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:36]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:36]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:39]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:39]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:39]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:39]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:40]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:40]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:42]
+  igameCrog picked up Подводная маска
+[10/20/2022 18:23:44]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:44]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:45]
+  igameCrog picked up Закаленный лом
+[10/20/2022 18:23:47]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:47]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:47]
+  igameCrog picked up Подводный скутер
+[10/20/2022 18:23:47]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:47]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:48]
+  Beverley Gumbs unequipped Сварочный аппарат
+[10/20/2022 18:23:48]
+  Beverley Gumbs equipped Гаечный ключ
+[10/20/2022 18:23:49]
+  Beverley Gumbs unequipped Гаечный ключ
+[10/20/2022 18:23:49]
+  Beverley Gumbs equipped Сварочный аппарат
+[10/20/2022 18:23:50]
+  Jeanene Mendel: У меня кровь!
+[10/20/2022 18:23:53]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:53]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:54]
+  igameCrog placed Закаленный лом in Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog removed Кислородный баллон from Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 18:23:54]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:23:54]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:23:56]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:23:56]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:23:56]
+  igameCrog picked up Закаленный лом
+[10/20/2022 18:24:00]
+  Jeanene Mendel used Гаечный ключ on Tigerthresher.
+[10/20/2022 18:24:01]
+  Beverley Gumbs has died (Cause of death: Укусы)
+[10/20/2022 18:24:01]
+  Jeanene Mendel unequipped Гаечный ключ
+[10/20/2022 18:24:01]
+  Jeanene Mendel equipped Сварочный аппарат
+[10/20/2022 18:24:02]
+  Jeanene Mendel unequipped Сварочный аппарат
+[10/20/2022 18:24:02]
+  Jeanene Mendel equipped Гаечный ключ
+[10/20/2022 18:24:07]
+  Jeanene Mendel used Гаечный ключ on Tigerthresher.
+[10/20/2022 18:24:20]
+  Jeanene Mendel has died (Cause of death: Укусы)
+[10/20/2022 18:24:21]
+  igameCrog placed Кислородный баллон in Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:24:21]
+  igameCrog placed Кислородный баллон in Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:24:21]
+  igameCrog placed Кислородный баллон in Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:24:21]
+  igameCrog placed Кислородный баллон in Средний стальной шкаф с окном (ID: 2917)
+[10/20/2022 18:24:22]
+  Inner wall breached by Tigerthresher
+[10/20/2022 18:25:16]
+  igameCrog set the pumping speed of Малый насос to 0 %
+[10/20/2022 18:25:16]
+  igameCrog turned off Малый насос
+[10/20/2022 18:25:52]
+  kynlan4ic docked Hemulen to Serac
+[10/20/2022 18:26:03]
+  Ending round (submarine reached the end of the level)
+[10/20/2022 18:26:03]
+  Ending the round...

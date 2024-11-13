@@ -1,0 +1,1558 @@
+﻿[03/07/2023 20:31:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:31:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:31:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:31:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:31:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:31:20]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:31:22]
+  igameCrog attached Рычаг to a wall
+[03/07/2023 20:31:28]
+  igameCrog connected a wire to Рычаг (signal_out)
+[03/07/2023 20:31:28]
+  Игрок Colonel присоединился к серверу.
+[03/07/2023 20:31:28]
+  Saving client permissions
+[03/07/2023 20:31:42]
+  igameCrog connected a wire from Настраиваемый люк (set_state) to Рычаг (signal_out)
+[03/07/2023 20:32:05]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Рычаг (signal_out)
+[03/07/2023 20:32:09]
+  Outer wall breached by Mudraptor_unarmored
+[03/07/2023 20:32:11]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Рычаг (signal_out)
+[03/07/2023 20:32:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:14]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/07/2023 20:32:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:15]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:15]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:15]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:32:15]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:15]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:15]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:16]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:16]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:16]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:16]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:16]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/07/2023 20:32:16]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:16]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:17]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:17]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/07/2023 20:32:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:17]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:17]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/07/2023 20:32:18]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:18]
+  Игрок Blue moon присоединился к серверу.
+[03/07/2023 20:32:18]
+  Saving client permissions
+[03/07/2023 20:32:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:18]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/07/2023 20:32:18]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:18]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:18]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:19]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/07/2023 20:32:19]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:19]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:23]
+  igameCrog disconnected a wire from Настраиваемый люк (toggle) to Рычаг (signal_out)
+[03/07/2023 20:32:23]
+  igameCrog connected a wire from Настраиваемый люк (state_out) to Рычаг (signal_out)
+[03/07/2023 20:32:24]
+  StreaK equipped Сварочный аппарат
+[03/07/2023 20:32:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:27]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/07/2023 20:32:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:29]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:30]
+  igameCrog disconnected a wire from Настраиваемый люк (state_out) to Рычаг (signal_out)
+[03/07/2023 20:32:34]
+  Outer wall breached by Mudraptor_unarmored
+[03/07/2023 20:32:35]
+  igameCrog disconnected a wire from Рычаг (signal_out)
+[03/07/2023 20:32:35]
+  igameCrog picked up Коричневый провод
+[03/07/2023 20:32:36]
+  vlad32 equipped Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:32:36]
+  vlad32 picked up Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:32:37]
+  vlad32 removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 153)
+[03/07/2023 20:32:38]
+  vlad32 placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 153)
+[03/07/2023 20:32:39]
+  igameCrog equipped Гаечный ключ
+[03/07/2023 20:32:40]
+  Outer wall breached by Mudraptor_unarmored
+[03/07/2023 20:32:40]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:40]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:40]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:41]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:42]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:42]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:44]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:44]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:44]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:32:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:45]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:32:45]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:45]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/07/2023 20:32:45]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:32:45]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:32:52]
+  StreaK picked up Водолазный скафандр
+[03/07/2023 20:32:58]
+  Bennie Tootle equipped Водолазный скафандр
+[03/07/2023 20:33:04]
+  Outer wall repaired by StreaK
+[03/07/2023 20:33:08]
+  igameCrog unequipped Рычаг
+[03/07/2023 20:33:08]
+  igameCrog detached Рычаг from a wall
+[03/07/2023 20:33:09]
+  Bennie Tootle equipped Пояс инструментов
+[03/07/2023 20:33:20]
+  igameCrog placed Трубка капитана in Хозяйственный шкаф (ID: 461)
+[03/07/2023 20:33:22]
+  StreaK dropped Водолазный скафандр
+[03/07/2023 20:33:36]
+  igameCrog equipped Металлический ящик
+[03/07/2023 20:33:37]
+  igameCrog dropped Металлический ящик
+[03/07/2023 20:33:51]
+  Dispatching the respawn shuttle.
+[03/07/2023 20:33:51]
+  Respawning Blue moon (STEAM_1:1:209007088) as Инженер
+[03/07/2023 20:33:53]
+  Blue moon set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:34:53]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:53]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:53]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:53]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:53]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:54]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:54]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:54]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:54]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:34:54]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:54]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:55]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:55]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:55]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:34:55]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:55]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:55]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:55]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:55]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:56]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:56]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:56]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:56]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:56]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:56]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:56]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:57]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:57]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:57]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:57]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:34:57]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:57]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:34:57]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:58]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:34:58]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:58]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:58]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:58]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:58]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:58]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:34:58]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:59]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:34:59]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:59]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:59]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:59]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:34:59]
+  Outer wall breached by Mudraptor_veteran
+[03/07/2023 20:34:59]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:34:59]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:00]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:00]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:00]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:00]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:00]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:00]
+  Mudraptor attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:00]
+  Outer wall breached by Mudraptor
+[03/07/2023 20:35:01]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:01]
+  Mudraptor attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:01]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:01]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:01]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:01]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:01]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:35:01]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:01]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:02]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:02]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:02]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:02]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:02]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:02]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/07/2023 20:35:02]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:02]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:03]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:03]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:03]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:03]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:03]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:03]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:03]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:03]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:04]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:04]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:04]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:04]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:04]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:05]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:05]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:05]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:05]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:05]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:05]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:06]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:06]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:06]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:06]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:06]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:06]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:06]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:06]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:35:06]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:07]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:07]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:07]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:07]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:07]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:07]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:07]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:07]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:08]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:08]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:08]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:08]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:08]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:08]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:08]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:09]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:09]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:09]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:09]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:09]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:09]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:09]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:09]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:10]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:10]
+  Mudraptor attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:10]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:10]
+  igameCrog picked up Водолазный скафандр
+[03/07/2023 20:35:10]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:10]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:10]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:10]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:10]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:11]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:35:11]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:11]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:11]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/07/2023 20:35:11]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:11]
+  Mudraptor attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:11]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:11]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:11]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:12]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/07/2023 20:35:12]
+  Mudraptor attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:12]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:12]
+  Mudraptor_veteran has died (Cause of death: Рваная рана)
+[03/07/2023 20:35:12]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:12]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:12]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:12]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:12]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:13]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:13]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:13]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:13]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:13]
+  Mudraptor_veteran attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:13]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:13]
+  Mudraptor attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:14]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/07/2023 20:35:14]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 22.5 Кровотечение: 1.5
+[03/07/2023 20:35:14]
+  Информация о миссии: Цель уничтожена - Грязевые рапторы уничтожены. Выведите подлодку из пещеры, чтобы получить награду.
+[03/07/2023 20:35:14]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:14]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:14]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:14]
+  StreaK launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:14]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 2.9
+[03/07/2023 20:35:14]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:35:14]
+  Mudraptor_unarmored attacked by StreaK. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:35:24]
+  igameCrog dropped Водолазный скафандр
+[03/07/2023 20:35:25]
+  Outer wall repaired by StreaK
+[03/07/2023 20:35:35]
+  StreaK picked up Водолазный скафандр
+[03/07/2023 20:35:37]
+  StreaK picked up Водолазный скафандр
+[03/07/2023 20:35:37]
+  StreaK dropped Водолазный скафандр
+[03/07/2023 20:35:39]
+  igameCrog picked up Водолазный скафандр
+[03/07/2023 20:35:42]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 409)
+[03/07/2023 20:35:46]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:35:50]
+  igameCrog disconnected a wire from Дверь с окном и кнопками (set_state) to Компонент "И" (signal_out)
+[03/07/2023 20:35:52]
+  Bennie Tootle started repairing Навигационный терминал
+[03/07/2023 20:35:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:55]
+  igameCrog connected a wire from Дверь с окном и кнопками (set_state) to Компонент "И" (signal_out)
+[03/07/2023 20:35:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:35:57]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:36:15]
+  StreaK placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[03/07/2023 20:36:17]
+  StreaK picked up Водолазный скафандр
+[03/07/2023 20:36:19]
+  StreaK placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 407)
+[03/07/2023 20:36:23]
+  igameCrog equipped Шприц-пистолет
+[03/07/2023 20:36:23]
+  kynlan4ic docked Dugong to Челнок R-170
+[03/07/2023 20:36:23]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:36:26]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:36:30]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:36:31]
+  Blue moon removed Одноразовый водолазный скафандр from Шкаф для подводного снаряжения (ID: 3359)
+[03/07/2023 20:36:33]
+  Blue moon equipped Одноразовый водолазный скафандр
+[03/07/2023 20:36:37]
+  The respawn shuttle is leaving.
+[03/07/2023 20:36:48]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:36:48]
+  Outer wall breached by vlad32
+[03/07/2023 20:37:01]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:37:01]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:37:06]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:37:09]
+  The respawn shuttle has left.
+[03/07/2023 20:37:20]
+  igameCrog equipped Рычаг
+[03/07/2023 20:37:27]
+  Blue moon dropped Одноразовый водолазный скафандр
+[03/07/2023 20:37:34]
+  igameCrog attached Рычаг to a wall
+[03/07/2023 20:37:37]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:37:38]
+  Bennie Tootle failed to repair Кабельная коробка
+[03/07/2023 20:37:40]
+  igameCrog connected a wire to Рычаг (signal_out)
+[03/07/2023 20:37:41]
+  Blue moon equipped Медконтейнер
+[03/07/2023 20:37:42]
+  Blue moon dropped Медконтейнер
+[03/07/2023 20:37:44]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:37:47]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:48]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:48]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:48]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:48]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:49]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:49]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:37:49]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:37:59]
+  Dispatching the respawn shuttle.
+[03/07/2023 20:37:59]
+  Respawning Colonel (STEAM_1:0:14280177) as Механик
+[03/07/2023 20:38:00]
+  Colonel set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:38:05]
+  Игрок Супостат499 присоединился к серверу.
+[03/07/2023 20:38:05]
+  Saving client permissions
+[03/07/2023 20:38:07]
+  Outer wall breached by Crawler
+[03/07/2023 20:38:09]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:09]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:10]
+  Bennie Tootle equipped Гаечный ключ
+[03/07/2023 20:38:10]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:10]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:10]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:10]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:10]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:10]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:11]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:11]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:12]
+  Bennie Tootle started repairing Генератор кислорода
+[03/07/2023 20:38:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:13]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:14]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:15]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:16]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:16]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:16]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:16]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:16]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:17]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:17]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:17]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:22]
+  Bennie Tootle unequipped Гаечный ключ
+[03/07/2023 20:38:22]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:38:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:23]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:23]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:24]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:38:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:28]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:28]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:28]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:38:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:29]
+  Blue moon picked up Сварочный аппарат
+[03/07/2023 20:38:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:31]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:31]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:38:32]
+  Blue moon picked up Топливный бак сварочного аппарата
+[03/07/2023 20:38:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:34]
+  Blue moon equipped Топливный бак сварочного аппарата
+[03/07/2023 20:38:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:35]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:36]
+  Blue moon equipped Сварочный аппарат
+[03/07/2023 20:38:36]
+  Bennie Tootle started repairing Монитор состояния
+[03/07/2023 20:38:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:37]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:37]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:37]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:38:38]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:38:38]
+  Crawler has died (Cause of death: Unknown)
+[03/07/2023 20:38:39]
+  igameCrog connected a wire from Дверь с кнопками (set_state) to Рычаг (signal_out)
+[03/07/2023 20:38:40]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:38:47]
+  igameCrog disconnected a wire from Дверь с кнопками (set_state) to Рычаг (signal_out)
+[03/07/2023 20:38:49]
+  Blue moon picked up Топливный стержень
+[03/07/2023 20:38:50]
+  Blue moon picked up Топливный стержень
+[03/07/2023 20:38:54]
+  Blue moon picked up Топливный стержень
+[03/07/2023 20:38:54]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:38:54]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:38:56]
+  igameCrog disconnected a wire from Рычаг (signal_out)
+[03/07/2023 20:38:56]
+  igameCrog picked up Коричневый провод
+[03/07/2023 20:39:10]
+  igameCrog unequipped Рычаг
+[03/07/2023 20:39:10]
+  igameCrog detached Рычаг from a wall
+[03/07/2023 20:39:10]
+  Bennie Tootle: Слышишь?
+[03/07/2023 20:39:13]
+  Blue moon picked up Топливный стержень
+[03/07/2023 20:39:13]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:39:13]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:39:15]
+  Blue moon picked up Топливный стержень
+[03/07/2023 20:39:15]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:39:15]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:39:20]
+  Blue moon adjusted reactor settings: Temperature: 8735, Fission rate: 40, Turbine output: 47, Autotemp OFF
+[03/07/2023 20:39:21]
+  Blue moon adjusted reactor settings: Temperature: 8073, Fission rate: 36, Turbine output: 47, Autotemp OFF
+[03/07/2023 20:39:22]
+  Blue moon adjusted reactor settings: Temperature: 7073, Fission rate: 21, Turbine output: 47, Autotemp ON
+[03/07/2023 20:39:32]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 20:39:35]
+  Outer wall breached by Crawler
+[03/07/2023 20:39:35]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:39:37]
+  igameCrog picked up Топливный стержень
+[03/07/2023 20:39:40]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:39:41]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:41]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:41]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:42]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 20:39:42]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:43]
+  Blue moon removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 20:39:43]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:39:43]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 20:39:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:43]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:43]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:44]
+  igameCrog adjusted reactor settings: Temperature: 7529, Fission rate: 27, Turbine output: 50, Autotemp ON
+[03/07/2023 20:39:44]
+  Crawler has died (Cause of death: Рваная рана)
+[03/07/2023 20:39:44]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:44]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:44]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/07/2023 20:39:44]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:45]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/07/2023 20:39:53]
+  Colonel equipped Сварочный аппарат
+[03/07/2023 20:39:56]
+  Colonel has died (Cause of death: Баротравма)
+[03/07/2023 20:39:57]
+  The respawn shuttle is leaving.
+[03/07/2023 20:40:14]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:40:16]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:40:20]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:40:21]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:40:21]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:40:21]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:40:22]
+  Blue moon dropped Топливный стержень
+[03/07/2023 20:40:27]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[03/07/2023 20:40:27]
+  Blue moon equipped Отвертка
+[03/07/2023 20:40:29]
+  Blue moon equipped Гаечный ключ
+[03/07/2023 20:40:29]
+  The respawn shuttle has left.
+[03/07/2023 20:40:31]
+  Bennie Tootle equipped Отвертка
+[03/07/2023 20:40:32]
+  Bennie Tootle started repairing Кабельная коробка
+[03/07/2023 20:40:32]
+  vlad32 equipped Сварочный аппарат
+[03/07/2023 20:40:35]
+  Bennie Tootle unequipped Отвертка
+[03/07/2023 20:40:40]
+  StreaK picked up Водолазный скафандр
+[03/07/2023 20:40:40]
+  Bennie Tootle equipped Гаечный ключ
+[03/07/2023 20:40:40]
+  Bennie Tootle unequipped Гаечный ключ
+[03/07/2023 20:40:45]
+  kynlan4ic docked Dugong to Аванпост Aylesbury
+[03/07/2023 20:40:45]
+  kynlan4ic has gained 107 experience (1497 -> 1604)
+[03/07/2023 20:40:45]
+  vlad32 has gained 123 experience (1497 -> 1620)
+[03/07/2023 20:40:45]
+  igameCrog has gained 123 experience (680 -> 803)
+[03/07/2023 20:40:45]
+  StreaK has gained 107 experience (0 -> 107)
+[03/07/2023 20:40:45]
+  Blue moon has gained 107 experience (0 -> 107)
+[03/07/2023 20:40:45]
+  Bennie Tootle has gained 107 experience (0 -> 107)
+[03/07/2023 20:40:45]
+  kynlan4ic has gained 394 experience (1604 -> 1998)
+[03/07/2023 20:40:45]
+  vlad32 has gained 343 experience (1620 -> 1963)
+[03/07/2023 20:40:45]
+  igameCrog has gained 343 experience (803 -> 1146)
+[03/07/2023 20:40:45]
+  StreaK has gained 343 experience (107 -> 450)
+[03/07/2023 20:40:45]
+  Blue moon has gained 343 experience (107 -> 450)
+[03/07/2023 20:40:45]
+  Bennie Tootle has gained 343 experience (107 -> 450)
+[03/07/2023 20:40:45]
+  Ending the round...
+[03/07/2023 20:40:46]
+  Round ended.
+[03/07/2023 20:40:48]
+  Starting a new round...
+[03/07/2023 20:40:52]
+  Game mode: Кампания
+[03/07/2023 20:40:52]
+  Submarine: Dugong
+[03/07/2023 20:40:52]
+  Level seed: Aylesbury
+[03/07/2023 20:40:52]
+  Roberta Severance equipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Roberta Severance unequipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Roberta Severance equipped Отвертка
+[03/07/2023 20:40:52]
+  Jeanene Huynh equipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Jeanene Huynh unequipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Jeanene Huynh equipped Отвертка
+[03/07/2023 20:40:52]
+  Roderick Elliott equipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Roderick Elliott unequipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Roderick Elliott equipped Отвертка
+[03/07/2023 20:40:52]
+  Janie Parker equipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Janie Parker unequipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Janie Parker equipped Отвертка
+[03/07/2023 20:40:52]
+  Janie Parker unequipped Отвертка
+[03/07/2023 20:40:52]
+  Janie Parker equipped Лом
+[03/07/2023 20:40:52]
+  Steve Tyson equipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Steve Tyson unequipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Steve Tyson equipped Отвертка
+[03/07/2023 20:40:52]
+  Travis Mendel equipped Гаечный ключ
+[03/07/2023 20:40:52]
+  Ina Price equipped Отвертка
+[03/07/2023 20:40:52]
+  Antony Hebert equipped Отвертка
+[03/07/2023 20:40:53]
+  igameCrog equipped Гаечный ключ
+[03/07/2023 20:40:53]
+  StreaK equipped Сварочный аппарат
+[03/07/2023 20:40:53]
+  Round started.
+[03/07/2023 20:40:54]
+  Ina Price unequipped Отвертка
+[03/07/2023 20:40:54]
+  Antony Hebert unequipped Отвертка
+[03/07/2023 20:40:54]
+  Travis Mendel unequipped Гаечный ключ
+[03/07/2023 20:40:54]
+  Janie Parker unequipped Лом
+[03/07/2023 20:40:54]
+  Roberta Severance unequipped Отвертка
+[03/07/2023 20:40:59]
+  Colonel set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:04]
+  StreaK set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:06]
+  Blue moon set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:09]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:20]
+  Outer wall repaired by StreaK
+[03/07/2023 20:41:23]
+  Blue moon has gained the talent 'Яйцеголовый'
+[03/07/2023 20:41:24]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:28]
+  Steve Tyson unequipped Отвертка
+[03/07/2023 20:41:32]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:41:33]
+  StreaK placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 412)
+[03/07/2023 20:41:38]
+  Colonel has gained the talent 'Обитатель камеры балласта'
+[03/07/2023 20:41:44]
+  Larissa Pollard: Вы когда-нибудь чувствовали себя... плоским?
+[03/07/2023 20:41:53]
+  vlad32 equipped Сварочный аппарат
+[03/07/2023 20:41:53]
+  vlad32 equipped Подводное ружье
+[03/07/2023 20:42:00]
+  Blue moon adjusted reactor settings: Temperature: 4995, Fission rate: 43, Turbine output: 19, Autotemp OFF
+[03/07/2023 20:42:01]
+  igameCrog purchased 2 item(s) for 209 кр.
+ - Текстовый экран x1
+ - Коричневый провод x5
+[03/07/2023 20:42:03]
+  Blue moon adjusted reactor settings: Temperature: 5038, Fission rate: 42, Turbine output: 19, Autotemp OFF
+[03/07/2023 20:42:04]
+  Blue moon adjusted reactor settings: Temperature: 4480, Fission rate: 0, Turbine output: 19, Autotemp OFF
+[03/07/2023 20:42:05]
+  Blue moon adjusted reactor settings: Temperature: 3464, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/07/2023 20:42:06]
+  Blue moon adjusted reactor settings: Temperature: 2464, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/07/2023 20:42:07]
+  Blue moon adjusted reactor settings: Temperature: 1364, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/07/2023 20:42:08]
+  Blue moon adjusted reactor settings: Temperature: 347, Fission rate: 3, Turbine output: 0, Autotemp ON
+[03/07/2023 20:42:09]
+  Blue moon adjusted reactor settings: Temperature: 45, Fission rate: 0, Turbine output: 0, Autotemp ON
+[03/07/2023 20:42:11]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:42:12]
+  igameCrog purchased 1 item(s) for 52 кр.
+ - Выключатель x1
+[03/07/2023 20:42:13]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:42:15]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:42:18]
+  Blue moon placed Топливный стержень in Средний стальной шкаф с окном (ID: 603)
+[03/07/2023 20:42:25]
+  Супостат499 equipped Металлический ящик
+[03/07/2023 20:42:25]
+  StreaK has gained the talent 'Техника безопасности'
+[03/07/2023 20:42:27]
+  Супостат499 dropped Металлический ящик
+[03/07/2023 20:42:27]
+  vlad32 picked up Подводное ружье
+[03/07/2023 20:42:30]
+  igameCrog picked up Аварийный гудок
+[03/07/2023 20:42:30]
+  Eliza Rhymer: Эй! Положи на место!
+[03/07/2023 20:42:30]
+  vlad32 placed Подводное ружье in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:42:31]
+  Bo House equipped Шоковая дубинка
+[03/07/2023 20:42:40]
+  Bo House unequipped Шоковая дубинка
+[03/07/2023 20:42:51]
+  Супостат499 picked up Револьвер
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:42:56]
+  Супостат499 picked up Патрон револьвера
+[03/07/2023 20:43:13]
+  Blue moon picked up Лом
+[03/07/2023 20:43:17]
+  vlad32 equipped Гаечный ключ
+[03/07/2023 20:43:17]
+  vlad32 equipped Отвертка
+[03/07/2023 20:43:23]
+  vlad32 set the value "LightColor" of the item "Аварийная лампа" to "255,100,0,120".
+[03/07/2023 20:43:24]
+  kynlan4ic equipped Контейнер для хранения
+[03/07/2023 20:43:24]
+  kynlan4ic picked up Контейнер для хранения
+[03/07/2023 20:43:25]
+  igameCrog placed Аварийный гудок in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 20:43:26]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 665)
+[03/07/2023 20:43:27]
+  igameCrog placed Коричневый провод in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 20:43:28]
+  igameCrog placed Рычаг in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 20:43:30]
+  igameCrog picked up Коричневый провод
+[03/07/2023 20:43:32]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 20:43:33]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 20:44:01]
+  vlad32: РАЗРЫВНАЯ
+[03/07/2023 20:44:13]
+  vlad32: ЗАТКНИСЬ ЧУРКА
+[03/07/2023 20:44:25]
+  vlad32: ЧУРКАМ НЕ ПОНЯТЬ
+[03/07/2023 20:44:36]
+  Blue moon picked up Подводная маска
+[03/07/2023 20:44:43]
+  vlad32 equipped Нож ныряльщика
+[03/07/2023 20:44:49]
+  Blue moon placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 411)
+[03/07/2023 20:44:49]
+  kynlan4ic purchased 1 item(s) for 516 кр.
+ - Патрон револьвера x12
+[03/07/2023 20:44:54]
+  vlad32 picked up Револьвер
+[03/07/2023 20:44:55]
+  Супостат499 equipped Контейнер для хранения
+[03/07/2023 20:44:55]
+  Супостат499 picked up Контейнер для хранения
+[03/07/2023 20:44:55]
+  vlad32 equipped Револьвер
+[03/07/2023 20:44:58]
+  Супостат499 placed Контейнер для хранения in Средний стальной шкаф (ID: 665)
+[03/07/2023 20:45:01]
+  Blue moon placed Подводная маска in Хозяйственный шкаф (ID: 449)
+[03/07/2023 20:45:01]
+  Blue moon removed Подводная маска from Хозяйственный шкаф (ID: 449)
+[03/07/2023 20:45:01]
+  Blue moon picked up Подводная маска
+[03/07/2023 20:45:06]
+  vlad32 placed Подводное ружье in Защищенный стальной шкаф (ID: 303)
+[03/07/2023 20:45:09]
+  vlad32 placed Гаечный ключ in Защищенный стальной шкаф (ID: 303)
+[03/07/2023 20:45:10]
+  vlad32 placed Отвертка in Защищенный стальной шкаф (ID: 303)
+[03/07/2023 20:45:11]
+  vlad32 picked up Подводное ружье
+[03/07/2023 20:45:21]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[03/07/2023 20:45:23]
+  Jeanene Huynh unequipped Отвертка
+[03/07/2023 20:45:38]
+  Roderick Elliott unequipped Отвертка
+[03/07/2023 20:45:48]
+  vlad32 equipped Одноразовый водолазный скафандр
+[03/07/2023 20:45:59]
+  vlad32 dropped Одноразовый водолазный скафандр
+[03/07/2023 20:46:00]
+  Colonel picked up Подводный скутер
+[03/07/2023 20:46:05]
+  Colonel picked up Ручной сонар
+[03/07/2023 20:46:06]
+  kynlan4ic picked up Одежда обитателя аванпоста
+[03/07/2023 20:46:06]
+  kynlan4ic picked up Костюм исследователя
+[03/07/2023 20:46:07]
+  kynlan4ic picked up Одежда обитателя аванпоста
+[03/07/2023 20:46:07]
+  kynlan4ic picked up Костюм начальника снабжения
+[03/07/2023 20:46:08]
+  kynlan4ic picked up Комбинезон шахтера
+[03/07/2023 20:46:08]
+  kynlan4ic picked up Отвертка
+[03/07/2023 20:46:18]
+  igameCrog picked up Водолазный скафандр
+[03/07/2023 20:46:20]
+  igameCrog picked up Кислородный баллон
+[03/07/2023 20:46:20]
+  igameCrog picked up Кислородный баллон
+[03/07/2023 20:46:20]
+  igameCrog picked up Кислородный баллон
+[03/07/2023 20:46:22]
+  igameCrog equipped Водолазный скафандр
+[03/07/2023 20:46:37]
+  igameCrog dropped Водолазный скафандр
+[03/07/2023 20:46:48]
+  igameCrog equipped Шприц-пистолет
+[03/07/2023 20:46:51]
+  Супостат499 equipped Металлический ящик
+[03/07/2023 20:46:52]
+  Супостат499 dropped Металлический ящик
+[03/07/2023 20:46:54]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 648)
+[03/07/2023 20:47:04]
+  kynlan4ic picked up Пояс инструментов
+[03/07/2023 20:47:06]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 161)
+[03/07/2023 20:47:07]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 20:47:09]
+  kynlan4ic placed Комбинезон шахтера in Металлический ящик (ID: 1134)
+[03/07/2023 20:47:09]
+  kynlan4ic placed Костюм начальника снабжения in Металлический ящик (ID: 1134)
+[03/07/2023 20:47:10]
+  kynlan4ic placed Одежда обитателя аванпоста in Металлический ящик (ID: 1134)
+[03/07/2023 20:47:11]
+  kynlan4ic placed Костюм исследователя in Металлический ящик (ID: 1134)
+[03/07/2023 20:47:11]
+  kynlan4ic placed Одежда обитателя аванпоста in Металлический ящик (ID: 1134)
+[03/07/2023 20:47:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 20:47:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 20:47:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 20:47:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 20:47:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 20:47:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 20:47:24]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:24]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:24]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:24]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:24]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:24]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:25]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:25]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:25]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:25]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:25]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:25]
+  kynlan4ic placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:47:27]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/07/2023 20:47:28]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 20:47:37]
+  vlad32 picked up Аккумулятор
+[03/07/2023 20:47:39]
+  vlad32 placed Аккумулятор in Батарея (ID: 575)
+[03/07/2023 20:48:13]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 20:48:14]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 20:48:17]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:48:18]
+  vlad32 equipped Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:48:18]
+  vlad32 picked up Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:48:19]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:48:24]
+  vlad32 dropped Ящик с боеприпасами для магнитной пушки
+[03/07/2023 20:48:26]
+  Игрок malenkay.old присоединился к серверу.
+[03/07/2023 20:48:26]
+  Saving client permissions
+[03/07/2023 20:48:48]
+  igameCrog picked up Подводное ружье
+[03/07/2023 20:48:51]
+  igameCrog picked up Гарпун
+[03/07/2023 20:48:51]
+  igameCrog picked up Гарпун
+[03/07/2023 20:48:51]
+  igameCrog picked up Гарпун
+[03/07/2023 20:48:51]
+  igameCrog picked up Гарпун
+[03/07/2023 20:48:51]
+  igameCrog picked up Гарпун
+[03/07/2023 20:48:51]
+  igameCrog picked up Гарпун
+[03/07/2023 20:48:53]
+  igameCrog equipped Подводное ружье
+[03/07/2023 20:49:11]
+  igameCrog placed Подводное ружье in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:11]
+  vlad32: У МЕНЯ ДЕНЕГ НЕТ
+[03/07/2023 20:49:11]
+  igameCrog placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:11]
+  igameCrog placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:11]
+  igameCrog placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:11]
+  igameCrog placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:11]
+  igameCrog placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:11]
+  igameCrog placed Гарпун in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:49:23]
+  vlad32: ОНИ 150 СТОЯТ
+[03/07/2023 20:49:31]
+  Respawning everyone in main sub.
+[03/07/2023 20:49:31]
+  Respawning malenkay.old (STEAM_1:1:29977903) as Помощник
+[03/07/2023 20:49:33]
+  malenkay.old set the value "Channel" of the item "Наушники" to "0".
+[03/07/2023 20:49:34]
+  vlad32: НЕ МОЯ
+[03/07/2023 20:49:35]
+  igameCrog picked up Инопланетная кровь
+[03/07/2023 20:49:35]
+  igameCrog picked up Инопланетная кровь
+[03/07/2023 20:49:37]
+  kynlan4ic transferred 200 mk to Супостат499 from the bank.
+[03/07/2023 20:49:39]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 20:49:39]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 865)
+[03/07/2023 20:49:41]
+  vlad32: КУНЛАНА
+[03/07/2023 20:49:56]
+  vlad32: ДАЙ ДЕНЕГ
+[03/07/2023 20:50:03]
+  SERVER: Purchased level 1 engines.increaseenginemaxforce for 4298
+[03/07/2023 20:50:03]
+  Jeanene Huynh: Благодарю за покупку! Я начну работать на вашей подлодке незадолго до вашего отбытия.
+[03/07/2023 20:50:09]
+  malenkay.old equipped Металлический ящик
+[03/07/2023 20:50:10]
+  malenkay.old dropped Металлический ящик
+[03/07/2023 20:50:23]
+  Blue moon equipped Металлический ящик
+[03/07/2023 20:50:24]
+  vlad32: НУЖНО 450 КРИПТОВ
+[03/07/2023 20:50:25]
+  Blue moon dropped Металлический ящик
+[03/07/2023 20:50:31]
+  Blue moon equipped Металлический ящик
+[03/07/2023 20:50:32]
+  Blue moon dropped Металлический ящик
+[03/07/2023 20:50:37]
+  kynlan4ic picked up Отвертка
+[03/07/2023 20:50:37]
+  vlad32: ЧТОБЫ 3 КУПТЬ
+[03/07/2023 20:50:38]
+  kynlan4ic picked up Гаечный ключ
+[03/07/2023 20:50:43]
+  Blue moon picked up Подводное ружье
+[03/07/2023 20:50:45]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 648)
+[03/07/2023 20:50:46]
+  kynlan4ic placed Гаечный ключ in Хозяйственный шкаф (ID: 648)
+[03/07/2023 20:50:53]
+  malenkay.old equipped Отвертка
+[03/07/2023 20:50:59]
+  vlad32: костя короче купиш сам
+[03/07/2023 20:50:59]
+  Blue moon placed Кислородный баллон in Подводная маска (ID: 948)
+[03/07/2023 20:51:22]
+  Blue moon placed Подводное ружье in Средний стальной шкаф с окном (ID: 603)
+[03/07/2023 20:51:26]
+  kynlan4ic purchased 2 item(s) for 557 кр.
+ - Сварочный аппарат x2
+ - Топливный бак сварочного аппарата x3
+[03/07/2023 20:51:27]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 2541)
+[03/07/2023 20:51:27]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 2541)
+[03/07/2023 20:51:27]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 2541)
+[03/07/2023 20:51:30]
+  igameCrog equipped Этанол
+[03/07/2023 20:51:35]
+  igameCrog equipped Этанол
+[03/07/2023 20:51:38]
+  malenkay.old picked up Костюм медработника
+[03/07/2023 20:51:55]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 20:51:56]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 20:52:01]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 20:52:23]
+  vlad32: антон ГАНДОН
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:27]
+  malenkay.old picked up Бинт
+[03/07/2023 20:52:28]
+  malenkay.old picked up Морфин
+[03/07/2023 20:52:28]
+  malenkay.old picked up Морфин
+[03/07/2023 20:52:28]
+  malenkay.old picked up Морфин
+[03/07/2023 20:52:28]
+  malenkay.old picked up Морфин
+[03/07/2023 20:52:28]
+  malenkay.old picked up Морфин
+[03/07/2023 20:52:28]
+  malenkay.old picked up Морфин
+[03/07/2023 20:52:30]
+  StreaK equipped Гаечный ключ
+[03/07/2023 20:52:41]
+  vlad32: обезьяна расбушевалась
+[03/07/2023 20:52:43]
+  igameCrog cancelled the fabrication of Этанол in Торговый автомат
+[03/07/2023 20:52:46]
+  igameCrog cancelled the fabrication of Этанол in Торговый автомат
+[03/07/2023 20:52:47]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:50]
+  igameCrog picked up Этанол
+[03/07/2023 20:52:51]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[03/07/2023 20:53:17]
+  vlad32 placed Подводное ружье in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:53:19]
+  vlad32 placed Сварочный аппарат in Средний стальной шкаф с окном (ID: 330)
+[03/07/2023 20:53:49]
+  Blue moon picked up Подводное ружье
+[03/07/2023 20:53:50]
+  Client "kynlan4ic" ended the round.
+[03/07/2023 20:53:50]
+  Ending the round...

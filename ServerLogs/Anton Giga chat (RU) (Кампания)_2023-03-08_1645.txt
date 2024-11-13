@@ -1,0 +1,1318 @@
+﻿[03/08/2023 16:39:59]
+  Матрос Иван Артемов picked up Компонент "Округление"
+[03/08/2023 16:40:04]
+  Нико Белли started fabricating Оранжевый провод in Фабрикатор
+[03/08/2023 16:40:05]
+  АЛАХ placed Топливный стержень in Средний стальной шкаф (ID: 711)
+[03/08/2023 16:40:08]
+  Нико Белли picked up Оранжевый провод
+[03/08/2023 16:40:08]
+  Нико Белли picked up Оранжевый провод
+[03/08/2023 16:40:08]
+  Нико Белли picked up Оранжевый провод
+[03/08/2023 16:40:08]
+  Нико Белли picked up Оранжевый провод
+[03/08/2023 16:40:08]
+  Нико Белли picked up Оранжевый провод
+[03/08/2023 16:40:11]
+  Супостат499 closed Настраиваемый люк
+[03/08/2023 16:40:11]
+  Супостат499 opened Настраиваемая дверь
+[03/08/2023 16:40:14]
+  Нико Белли picked up Коричневый провод
+[03/08/2023 16:40:15]
+  Igor1390 adjusted reactor settings: Temperature: 5002, Fission rate: 43, Turbine output: 38, Autotemp OFF
+[03/08/2023 16:40:16]
+  Нико Белли picked up Синий провод
+[03/08/2023 16:40:16]
+  Тра Хаебка started fabricating Лом in Фабрикатор
+[03/08/2023 16:40:17]
+  Igor1390 adjusted reactor settings: Temperature: 4952, Fission rate: 43, Turbine output: 38, Autotemp OFF
+[03/08/2023 16:40:18]
+  Igor1390 adjusted reactor settings: Temperature: 4915, Fission rate: 41, Turbine output: 38, Autotemp OFF
+[03/08/2023 16:40:19]
+  Igor1390 adjusted reactor settings: Temperature: 4502, Fission rate: 39, Turbine output: 38, Autotemp OFF
+[03/08/2023 16:40:20]
+  Igor1390 adjusted reactor settings: Temperature: 4207, Fission rate: 39, Turbine output: 38, Autotemp OFF
+[03/08/2023 16:40:22]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 3532)
+[03/08/2023 16:40:23]
+  Igor1390 adjusted reactor settings: Temperature: 4009, Fission rate: 39, Turbine output: 40, Autotemp OFF
+[03/08/2023 16:40:24]
+  Igor1390 adjusted reactor settings: Temperature: 3834, Fission rate: 39, Turbine output: 41, Autotemp OFF
+[03/08/2023 16:40:25]
+  Информация о миссии:  - Маяк снова работает.
+[03/08/2023 16:40:25]
+  Igor1390 adjusted reactor settings: Temperature: 4570, Fission rate: 39, Turbine output: 41, Autotemp OFF
+[03/08/2023 16:40:28]
+  Igor1390 adjusted reactor settings: Temperature: 5782, Fission rate: 39, Turbine output: 43, Autotemp OFF
+[03/08/2023 16:40:29]
+  Igor1390 adjusted reactor settings: Temperature: 5237, Fission rate: 39, Turbine output: 52, Autotemp OFF
+[03/08/2023 16:40:30]
+  Igor1390 adjusted reactor settings: Temperature: 5232, Fission rate: 39, Turbine output: 52, Autotemp OFF
+[03/08/2023 16:40:32]
+  Igor1390 adjusted reactor settings: Temperature: 4889, Fission rate: 39, Turbine output: 50, Autotemp OFF
+[03/08/2023 16:40:33]
+  Igor1390 adjusted reactor settings: Temperature: 5002, Fission rate: 39, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:40:35]
+  Igor1390 adjusted reactor settings: Temperature: 4950, Fission rate: 39, Turbine output: 50, Autotemp OFF
+[03/08/2023 16:40:36]
+  Igor1390 adjusted reactor settings: Temperature: 4768, Fission rate: 39, Turbine output: 52, Autotemp OFF
+[03/08/2023 16:40:36]
+  Тра Хаебка placed Лом in Фабрикатор (ID: 713)
+[03/08/2023 16:40:38]
+  Igor1390 adjusted reactor settings: Temperature: 4482, Fission rate: 39, Turbine output: 50, Autotemp OFF
+[03/08/2023 16:40:39]
+  Igor1390 adjusted reactor settings: Temperature: 4702, Fission rate: 39, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:42]
+  Igor1390 adjusted reactor settings: Temperature: 4629, Fission rate: 39, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:43]
+  Igor1390 adjusted reactor settings: Temperature: 4575, Fission rate: 38, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:44]
+  Igor1390 adjusted reactor settings: Temperature: 4340, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:45]
+  Нико Белли equipped Компонент "больше"
+[03/08/2023 16:40:47]
+  Igor1390 adjusted reactor settings: Temperature: 3871, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:48]
+  Outer wall breached by Mudraptor
+[03/08/2023 16:40:50]
+  Igor1390 adjusted reactor settings: Temperature: 4915, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:54]
+  Igor1390 adjusted reactor settings: Temperature: 4918, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:40:55]
+  Тра Хаебка equipped Контейнер для хранения
+[03/08/2023 16:40:55]
+  Тра Хаебка picked up Контейнер для хранения
+[03/08/2023 16:40:57]
+  Outer wall repaired by Евгени Сузков
+[03/08/2023 16:40:57]
+  Тра Хаебка placed Контейнер для хранения in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:40:57]
+  Igor1390 adjusted reactor settings: Temperature: 4903, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:41:01]
+  Матрос Иван Артемов opened Настраиваемый люк
+[03/08/2023 16:41:01]
+  Матрос Иван Артемов closed Настраиваемая дверь
+[03/08/2023 16:41:01]
+  Igor1390 adjusted reactor settings: Temperature: 4878, Fission rate: 37, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:41:03]
+  Igor1390 adjusted reactor settings: Temperature: 5138, Fission rate: 36, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:41:03]
+  Waltuh equipped Лом
+[03/08/2023 16:41:04]
+  Igor1390 adjusted reactor settings: Temperature: 4781, Fission rate: 34, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:41:04]
+  kynlan4ic equipped Подводное ружье
+[03/08/2023 16:41:04]
+  Mudraptor attacked by Waltuh. Травма от удара тупым предметом: 1.0 Оглушение: 0.5
+[03/08/2023 16:41:04]
+  Waltuh used Лом on Mudraptor.
+[03/08/2023 16:41:05]
+  Igor1390 adjusted reactor settings: Temperature: 4571, Fission rate: 34, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:41:08]
+  Igor1390 adjusted reactor settings: Temperature: 4368, Fission rate: 34, Turbine output: 46, Autotemp OFF
+[03/08/2023 16:41:09]
+  Inner wall breached by Mudraptor
+[03/08/2023 16:41:10]
+  Нико Белли attached Компонент "больше" to a wall
+[03/08/2023 16:41:11]
+  igameCrog used item Морфин
+[03/08/2023 16:41:11]
+  Igor1390 adjusted reactor settings: Temperature: 4429, Fission rate: 34, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:12]
+  Igor1390 adjusted reactor settings: Temperature: 4367, Fission rate: 34, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:13]
+  Нико Белли equipped Компонент "память"
+[03/08/2023 16:41:13]
+  Igor1390 adjusted reactor settings: Temperature: 4564, Fission rate: 34, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:13]
+  Нико Белли attached Компонент "память" to a wall
+[03/08/2023 16:41:14]
+  Нико Белли equipped Компонент "больше"
+[03/08/2023 16:41:15]
+  Нико Белли attached Компонент "больше" to a wall
+[03/08/2023 16:41:16]
+  Igor1390 adjusted reactor settings: Temperature: 4260, Fission rate: 34, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:16]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:18]
+  Евгени Сузков placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 792)
+[03/08/2023 16:41:19]
+  Igor1390 adjusted reactor settings: Temperature: 4287, Fission rate: 34, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:19]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:20]
+  Нико Белли equipped Оранжевый провод
+[03/08/2023 16:41:20]
+  Igor1390 adjusted reactor settings: Temperature: 4523, Fission rate: 33, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:21]
+  Igor1390 adjusted reactor settings: Temperature: 4094, Fission rate: 30, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:22]
+  Igor1390 adjusted reactor settings: Temperature: 4011, Fission rate: 30, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:24]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:25]
+  Igor1390 adjusted reactor settings: Temperature: 3619, Fission rate: 30, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:26]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[03/08/2023 16:41:26]
+  Inner wall breached by Mudraptor
+[03/08/2023 16:41:27]
+  igameCrog used item Пакет с кровью
+[03/08/2023 16:41:29]
+  Igor1390 adjusted reactor settings: Temperature: 3591, Fission rate: 30, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:29]
+  Inner wall breached by kynlan4ic
+[03/08/2023 16:41:30]
+  igameCrog used item Морфин
+[03/08/2023 16:41:31]
+  Igor1390 adjusted reactor settings: Temperature: 3714, Fission rate: 28, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:32]
+  Igor1390 adjusted reactor settings: Temperature: 3361, Fission rate: 28, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:33]
+  Igor1390 adjusted reactor settings: Temperature: 3396, Fission rate: 28, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:35]
+  Igor1390 adjusted reactor settings: Temperature: 3065, Fission rate: 28, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:36]
+  Евгени Сузков picked up Водолазный скафандр
+[03/08/2023 16:41:36]
+  Тра Хаебка placed Подводная маска in Фабрикатор (ID: 713)
+[03/08/2023 16:41:36]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:39]
+  Igor1390 adjusted reactor settings: Temperature: 2997, Fission rate: 28, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:39]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:40]
+  Igor1390 adjusted reactor settings: Temperature: 3393, Fission rate: 33, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:41]
+  Igor1390 adjusted reactor settings: Temperature: 4125, Fission rate: 33, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:41:42]
+  Igor1390 adjusted reactor settings: Temperature: 4071, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:43]
+  АЛАХ closed Настраиваемый люк
+[03/08/2023 16:41:43]
+  АЛАХ opened Настраиваемая дверь
+[03/08/2023 16:41:43]
+  Igor1390 adjusted reactor settings: Temperature: 3908, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:44]
+  Igor1390 adjusted reactor settings: Temperature: 4008, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:47]
+  Igor1390 adjusted reactor settings: Temperature: 3787, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:51]
+  Igor1390 adjusted reactor settings: Temperature: 3777, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:51]
+  Евгени Сузков started repairing Настраиваемый люк
+[03/08/2023 16:41:52]
+  Mudraptor attacked by Матрос Иван Артемов. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:52]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:52]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:52]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:52]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:52]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:52]
+  Тра Хаебка started fabricating Подводная маска in Фабрикатор
+[03/08/2023 16:41:54]
+  Mudraptor attacked by Матрос Иван Артемов. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[03/08/2023 16:41:54]
+  Igor1390 adjusted reactor settings: Temperature: 3787, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:55]
+  Тра Хаебка started fabricating Пластик in Фабрикатор
+[03/08/2023 16:41:56]
+  Нико Белли connected a wire to Ядерный реактор (power_value_out)
+[03/08/2023 16:41:57]
+  Mudraptor attacked by Матрос Иван Артемов. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:57]
+  Mudraptor attacked by Супостат499. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:41:57]
+  Igor1390 adjusted reactor settings: Temperature: 3832, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:58]
+  Igor1390 adjusted reactor settings: Temperature: 3760, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:41:59]
+  Igor1390 adjusted reactor settings: Temperature: 3483, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:00]
+  Супостат499 attacked by Матрос Иван Артемов.
+[03/08/2023 16:42:00]
+  Igor1390 adjusted reactor settings: Temperature: 3396, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:01]
+  Супостат499 equipped Револьвер
+[03/08/2023 16:42:02]
+  Mudraptor attacked by Супостат499. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[03/08/2023 16:42:02]
+  АЛАХ opened Настраиваемый люк
+[03/08/2023 16:42:02]
+  АЛАХ closed Настраиваемая дверь
+[03/08/2023 16:42:03]
+  Mudraptor attacked by Супостат499. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[03/08/2023 16:42:03]
+  Igor1390 adjusted reactor settings: Temperature: 2881, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:03]
+  Нико Белли connected a wire from Компонент "больше" (signal_in1) to Ядерный реактор (power_value_out)
+[03/08/2023 16:42:03]
+  Mudraptor attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/08/2023 16:42:04]
+  Mudraptor attacked by Матрос Иван Артемов. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:42:04]
+  Mudraptor attacked by Супостат499. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[03/08/2023 16:42:05]
+  Нико Белли equipped Оранжевый провод
+[03/08/2023 16:42:05]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/08/2023 16:42:05]
+  Mudraptor attacked by Супостат499. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/08/2023 16:42:07]
+  Igor1390 adjusted reactor settings: Temperature: 2848, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:07]
+  АЛАХ closed Настраиваемый люк
+[03/08/2023 16:42:07]
+  АЛАХ opened Настраиваемая дверь
+[03/08/2023 16:42:07]
+  Mudraptor attacked by Супостат499. Рваная рана: 3.5 Оглушение: 0.5
+[03/08/2023 16:42:08]
+  Нико Белли connected a wire to Ядерный реактор (load_value_out)
+[03/08/2023 16:42:10]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 4298)
+[03/08/2023 16:42:10]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 4298)
+[03/08/2023 16:42:10]
+  Матрос Иван Артемов removed Гарпун from Подводное ружье (ID: 4298)
+[03/08/2023 16:42:10]
+  Igor1390 adjusted reactor settings: Temperature: 2829, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:12]
+  Нико Белли connected a wire from Компонент "больше" (signal_in2) to Ядерный реактор (load_value_out)
+[03/08/2023 16:42:14]
+  Igor1390 adjusted reactor settings: Temperature: 2844, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:16]
+  Нико Белли equipped Оранжевый провод
+[03/08/2023 16:42:17]
+  Igor1390 adjusted reactor settings: Temperature: 2851, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:18]
+  Нико Белли connected a wire to Компонент "больше" (signal_out)
+[03/08/2023 16:42:20]
+  Igor1390 adjusted reactor settings: Temperature: 2846, Fission rate: 28, Turbine output: 49, Autotemp OFF
+[03/08/2023 16:42:21]
+  Супостат499 picked up Шкура грязевого раптора
+[03/08/2023 16:42:23]
+  Нико Белли connected a wire from Ядерный реактор (set_turbineoutput) to Компонент "больше" (signal_out)
+[03/08/2023 16:42:23]
+  Igor1390 adjusted reactor settings: Temperature: 2932, Fission rate: 28, Turbine output: 48, Autotemp OFF
+[03/08/2023 16:42:25]
+  Нико Белли equipped Оранжевый провод
+[03/08/2023 16:42:26]
+  Igor1390 adjusted reactor settings: Temperature: 3477, Fission rate: 28, Turbine output: 47, Autotemp OFF
+[03/08/2023 16:42:27]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:27]
+  Тра Хаебка started repairing Батарея
+[03/08/2023 16:42:28]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:28]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:28]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:28]
+  Igor1390 adjusted reactor settings: Temperature: 3267, Fission rate: 28, Turbine output: 47, Autotemp ON
+[03/08/2023 16:42:30]
+  Нико Белли connected a wire to Ядерный реактор (temperature_out)
+[03/08/2023 16:42:33]
+  Евгени Сузков dropped Водолазный скафандр
+[03/08/2023 16:42:34]
+  Нико Белли connected a wire from Компонент "больше" (signal_in1) to Ядерный реактор (temperature_out)
+[03/08/2023 16:42:36]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 4207)
+[03/08/2023 16:42:36]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 4207)
+[03/08/2023 16:42:38]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:40]
+  Нико Белли equipped Оранжевый провод
+[03/08/2023 16:42:40]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:41]
+  Нико Белли connected a wire to Компонент "память" (signal_out)
+[03/08/2023 16:42:42]
+  kynlan4ic picked up Гарпун
+[03/08/2023 16:42:44]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 4207)
+[03/08/2023 16:42:44]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 4207)
+[03/08/2023 16:42:44]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 4207)
+[03/08/2023 16:42:46]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 4207)
+[03/08/2023 16:42:46]
+  Нико Белли connected a wire from Компонент "больше" (signal_in2) to Компонент "память" (signal_out)
+[03/08/2023 16:42:51]
+  Супостат499 dropped Водолазный скафандр
+[03/08/2023 16:42:51]
+  Нико Белли equipped Коричневый провод
+[03/08/2023 16:42:53]
+  Нико Белли connected a wire to Компонент "больше" (signal_out)
+[03/08/2023 16:42:55]
+  Тра Хаебка picked up Водолазный скафандр
+[03/08/2023 16:42:55]
+  Тра Хаебка dropped Боевой водолазный скафандр
+[03/08/2023 16:42:55]
+  Тра Хаебка picked up Боевой водолазный скафандр
+[03/08/2023 16:42:55]
+  Тра Хаебка dropped Водолазный скафандр
+[03/08/2023 16:42:56]
+  Матрос Иван Артемов picked up Кислородный баллон
+[03/08/2023 16:42:56]
+  Матрос Иван Артемов dropped Кислородный баллон
+[03/08/2023 16:42:56]
+  Матрос Иван Артемов placed Кислородный баллон in Боевой водолазный скафандр (ID: 4291)
+[03/08/2023 16:42:57]
+  Нико Белли connected a wire from Ядерный реактор (set_fissionrate) to Компонент "больше" (signal_out)
+[03/08/2023 16:42:59]
+  Тра Хаебка placed Кислородный баллон in Хозяйственный шкаф (ID: 1194)
+[03/08/2023 16:43:02]
+  Тра Хаебка placed Кислородный баллон in Хозяйственный шкаф (ID: 1194)
+[03/08/2023 16:43:02]
+  Тра Хаебка removed Кислородный баллон from Хозяйственный шкаф (ID: 1194)
+[03/08/2023 16:43:02]
+  Тра Хаебка placed Кислородный баллон in Подводная маска (ID: 605)
+[03/08/2023 16:43:03]
+  Тра Хаебка placed Кислородный баллон in Боевой водолазный скафандр (ID: 4407)
+[03/08/2023 16:43:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:05]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Тра Хаебка placed Гаечный ключ in Пояс инструментов (ID: 4409)
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling has died (Cause of death: Рваная рана)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:06]
+  Spineling has died (Cause of death: Рваная рана)
+[03/08/2023 16:43:06]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:07]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Inner wall breached by Spineling
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:08]
+  Тра Хаебка picked up Гаечный ключ
+[03/08/2023 16:43:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:09]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:09]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:09]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:09]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:10]
+  Тра Хаебка equipped Гаечный ключ
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:10]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Inner wall repaired by Евгени Сузков
+[03/08/2023 16:43:10]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:10]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:10]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Нико Белли disconnected a wire from Ядерный реактор (set_fissionrate) to Компонент "больше" (signal_out)
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Outer wall repaired by Евгени Сузков
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:12]
+  Нико Белли disconnected a wire from Ядерный реактор (set_turbineoutput) to Компонент "больше" (signal_out)
+[03/08/2023 16:43:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:12]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:12]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:13]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:13]
+  Spineling attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:14]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:14]
+  Тра Хаебка started repairing Малый насос
+[03/08/2023 16:43:14]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:14]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Spineling attacked by Waltuh. Рваная рана: 24.0 Кровотечение: 4.0
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:15]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:15]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Spineling has died (Cause of death: Рваная рана)
+[03/08/2023 16:43:16]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:17]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:17]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:17]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:17]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:17]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:17]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:19]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:19]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:20]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:20]
+  Inner wall breached by Spineling
+[03/08/2023 16:43:20]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:21]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:21]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:21]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:21]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:21]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:21]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:21]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:21]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:21]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:22]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Нико Белли set the value "Output" of the item "Компонент "больше"" to "0".
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:23]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:24]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:24]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:24]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:25]
+  Нико Белли set the value "FalseOutput" of the item "Компонент "больше"" to "100".
+[03/08/2023 16:43:25]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:26]
+  Outer wall repaired by Евгени Сузков
+[03/08/2023 16:43:27]
+  Нико Белли set the value "TimeFrame" of the item "Компонент "больше"" to "0".
+[03/08/2023 16:43:28]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:28]
+  Тра Хаебка placed Гаечный ключ in Пояс инструментов (ID: 4409)
+[03/08/2023 16:43:28]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:28]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:29]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:29]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:29]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:29]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:29]
+  Outer wall breached by Crawler
+[03/08/2023 16:43:29]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:29]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:29]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:29]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:30]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:30]
+  Нико Белли set the value "Output" of the item "Компонент "больше"" to "0".
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:30]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:30]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:30]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:31]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:31]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:31]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Матрос Иван Артемов placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 795)
+[03/08/2023 16:43:31]
+  Матрос Иван Артемов removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 795)
+[03/08/2023 16:43:31]
+  Матрос Иван Артемов picked up Кислородный баллон
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:31]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:31]
+  Outer wall breached by Spineling
+[03/08/2023 16:43:31]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:32]
+  Inner wall breached by Spineling
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Нико Белли set the value "FalseOutput" of the item "Компонент "больше"" to "100".
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:32]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:32]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Spineling has died (Cause of death: Рваная рана)
+[03/08/2023 16:43:33]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:33]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:33]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:34]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:34]
+  Нико Белли set the value "TimeFrame" of the item "Компонент "больше"" to "0".
+[03/08/2023 16:43:34]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:34]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:34]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:34]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:35]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:36]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:36]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:36]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:37]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:39]
+  Нико Белли set the value "Value" of the item "Компонент "память"" to "5000".
+[03/08/2023 16:43:39]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:39]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:39]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:39]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:40]
+  Spineling has died (Cause of death: Рваная рана)
+[03/08/2023 16:43:40]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:40]
+  Информация о миссии: Цель уничтожена - Рой уничтожен. Выведите подлодку из пещеры, чтобы получить награду.
+[03/08/2023 16:43:40]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:41]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:41]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:41]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/08/2023 16:43:42]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Резина in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка removed Пластик from Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Тра Хаебка placed Пластик in Фабрикатор (ID: 713)
+[03/08/2023 16:43:42]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:42]
+  Spineling attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/08/2023 16:43:42]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:42]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:42]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:43]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:43]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:43]
+  Нико Белли connected a wire from Ядерный реактор (set_turbineoutput) to Компонент "больше" (signal_out)
+[03/08/2023 16:43:44]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:44]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:44]
+  Тра Хаебка picked up Резина
+[03/08/2023 16:43:44]
+  Outer wall breached by Crawler
+[03/08/2023 16:43:44]
+  Тра Хаебка started fabricating Пластик in Фабрикатор
+[03/08/2023 16:43:45]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:45]
+  Нико Белли connected a wire from Ядерный реактор (set_fissionrate) to Компонент "больше" (signal_out)
+[03/08/2023 16:43:45]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:45]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:45]
+  Crawler has died (Cause of death: Рваная рана)
+[03/08/2023 16:43:45]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:45]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:45]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:46]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:46]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:46]
+  Тра Хаебка placed Резина in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:43:47]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:47]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:48]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:48]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:48]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:48]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:49]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:49]
+  Нико Белли adjusted reactor settings: Temperature: 5002, Fission rate: 72, Turbine output: 94, Autotemp OFF
+[03/08/2023 16:43:49]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:50]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:51]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:51]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:51]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:51]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:51]
+  Нико Белли adjusted reactor settings: Temperature: 4989, Fission rate: 69, Turbine output: 85, Autotemp ON
+[03/08/2023 16:43:51]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:52]
+  Spineling attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:52]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:52]
+  Spineling attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:52]
+  Spineling attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:53]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:53]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:53]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:57]
+  igameCrog picked up Детонатор
+[03/08/2023 16:43:58]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:58]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:58]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:59]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:59]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:59]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:43:59]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:43:59]
+  igameCrog placed UEX in Детонатор (ID: 151)
+[03/08/2023 16:44:06]
+  igameCrog placed Рычаг in Шкаф для хранения токсинов (ID: 733)
+[03/08/2023 16:44:06]
+  Супостат499 placed Шкура грязевого раптора in Деконструктор (ID: 712)
+[03/08/2023 16:44:07]
+  igameCrog placed Кнопка in Шкаф для хранения токсинов (ID: 733)
+[03/08/2023 16:44:07]
+  igameCrog placed Кнопка in Шкаф для хранения токсинов (ID: 733)
+[03/08/2023 16:44:08]
+  Супостат499 picked up Шкура грязевого раптора
+[03/08/2023 16:44:11]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:44:11]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:44:11]
+  Crawler attacked by Igor1390. Рваная рана: 15.0 Кровотечение: 1.0
+[03/08/2023 16:44:12]
+  Kynlan4ic: Пункт управления: здесь протечка!
+[03/08/2023 16:44:13]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:44:13]
+  Igor1390 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/08/2023 16:44:14]
+  Нико Белли picked up Топливный стержень
+[03/08/2023 16:44:15]
+  Нико Белли picked up Топливный стержень
+[03/08/2023 16:44:17]
+  Нико Белли placed Топливный стержень in Ядерный реактор (ID: 1734)
+[03/08/2023 16:44:21]
+  Матрос Иван Артемов placed Компонент "Округление" in Средний стальной шкаф (ID: 1312)
+[03/08/2023 16:44:22]
+  Нико Белли picked up Топливный стержень
+[03/08/2023 16:44:22]
+  igameCrog picked up Водолазный скафандр
+[03/08/2023 16:44:26]
+  igameCrog dropped Водолазный скафандр
+[03/08/2023 16:44:27]
+  Waltuh started repairing Монитор состояния
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:28]
+  Матрос Иван Артемов picked up Пластик
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:31]
+  Матрос Иван Артемов placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:37]
+  АЛАХ: Пункт управления: здесь протечка!
+[03/08/2023 16:44:47]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:47]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:47]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:47]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:47]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:47]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:50]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:50]
+  Супостат499 placed Пластик in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:52]
+  Супостат499 placed Подводная маска in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:44:53]
+  Супостат499 placed Лом in Большой стальной шкаф (ID: 723)
+[03/08/2023 16:45:07]
+  Тра Хаебка: не работает больше автомат на компонентах такой
+[03/08/2023 16:45:08]
+  kynlan4ic docked Camel to Amar
+[03/08/2023 16:45:08]
+  kynlan4ic has gained 236 experience (4708 -> 4944)
+[03/08/2023 16:45:08]
+  Супостат499 has gained 206 experience (1780 -> 1986)
+[03/08/2023 16:45:08]
+  Матрос Иван Артемов has gained 206 experience (445 -> 651)
+[03/08/2023 16:45:08]
+  АЛАХ has gained 206 experience (561 -> 767)
+[03/08/2023 16:45:08]
+  Тра Хаебка has gained 206 experience (561 -> 767)
+[03/08/2023 16:45:08]
+  Waltuh has gained 206 experience (445 -> 651)
+[03/08/2023 16:45:08]
+  Igor1390 has gained 206 experience (445 -> 651)
+[03/08/2023 16:45:08]
+  Евгени Сузков has gained 206 experience (445 -> 651)
+[03/08/2023 16:45:08]
+  igameCrog has gained 221 experience (2406 -> 2627)
+[03/08/2023 16:45:08]
+  Нико Белли has gained 206 experience (685 -> 891)
+[03/08/2023 16:45:08]
+  kynlan4ic has gained 213 experience (4944 -> 5157)
+[03/08/2023 16:45:08]
+  Супостат499 has gained 186 experience (1986 -> 2172)
+[03/08/2023 16:45:08]
+  Матрос Иван Артемов has gained 186 experience (651 -> 837)
+[03/08/2023 16:45:08]
+  АЛАХ has gained 186 experience (767 -> 953)
+[03/08/2023 16:45:08]
+  Тра Хаебка has gained 186 experience (767 -> 953)
+[03/08/2023 16:45:08]
+  Waltuh has gained 186 experience (651 -> 837)
+[03/08/2023 16:45:08]
+  Igor1390 has gained 186 experience (651 -> 837)
+[03/08/2023 16:45:08]
+  Евгени Сузков has gained 186 experience (651 -> 837)
+[03/08/2023 16:45:08]
+  igameCrog has gained 199 experience (2627 -> 2826)
+[03/08/2023 16:45:08]
+  Нико Белли has gained 186 experience (891 -> 1077)
+[03/08/2023 16:45:08]
+  kynlan4ic has gained 227 experience (5157 -> 5384)
+[03/08/2023 16:45:08]
+  Супостат499 has gained 227 experience (2172 -> 2399)
+[03/08/2023 16:45:08]
+  Матрос Иван Артемов has gained 227 experience (837 -> 1064)
+[03/08/2023 16:45:08]
+  АЛАХ has gained 227 experience (953 -> 1180)
+[03/08/2023 16:45:08]
+  Тра Хаебка has gained 227 experience (953 -> 1180)
+[03/08/2023 16:45:08]
+  Waltuh has gained 227 experience (837 -> 1064)
+[03/08/2023 16:45:08]
+  Igor1390 has gained 227 experience (837 -> 1064)
+[03/08/2023 16:45:08]
+  Евгени Сузков has gained 227 experience (837 -> 1064)
+[03/08/2023 16:45:08]
+  igameCrog has gained 244 experience (2826 -> 3070)
+[03/08/2023 16:45:08]
+  Нико Белли has gained 227 experience (1077 -> 1304)
+[03/08/2023 16:45:08]
+  Нико Белли has gained 80 experience (1304 -> 1384)
+[03/08/2023 16:45:09]
+  Ending the round...

@@ -1,0 +1,232 @@
+﻿[10/21/2022 20:45:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:45:39]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:45:39]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:45:39]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3883)
+[10/21/2022 20:45:39]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3577)
+[10/21/2022 20:45:41]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 20:45:45]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3577)
+[10/21/2022 20:45:47]
+  Супостат started repairing Ядерный реактор
+[10/21/2022 20:45:48]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:46:00]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:46:06]
+  igameCrog picked up Гаечный ключ
+[10/21/2022 20:46:08]
+  igameCrog removed Топливный бак сварочного аппарата from Сварочный аппарат (ID: 3849)
+[10/21/2022 20:46:09]
+  igameCrog dropped Сварочный аппарат
+[10/21/2022 20:46:12]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:46:15]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:17]
+  Супостат picked up Топливный стержень
+[10/21/2022 20:46:22]
+  Супостат adjusted reactor settings: Temperature: 5039, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 20:46:24]
+  Супостат adjusted reactor settings: Temperature: 3504, Fission rate: 5, Turbine output: 0, Autotemp ON
+[10/21/2022 20:46:29]
+  Anton Mason started repairing Кабельная коробка
+[10/21/2022 20:46:40]
+  igameCrog dropped Вещмешок
+[10/21/2022 20:46:43]
+  Супостат started repairing Кабельная коробка
+[10/21/2022 20:46:48]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:46:52]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:46:53]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:47:05]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 165)
+[10/21/2022 20:47:09]
+  Glenda Hedrick: Как здесь паршиво!
+[10/21/2022 20:47:10]
+  igameCrog picked up Сварочный аппарат
+[10/21/2022 20:47:11]
+  Glenda Hedrick: Я хочу домой!
+[10/21/2022 20:47:11]
+  igameCrog equipped Сварочный аппарат
+[10/21/2022 20:47:13]
+  Супостат started repairing Кабельная коробка
+[10/21/2022 20:47:16]
+  Glenda Hedrick: Где кислородные баллоны?
+[10/21/2022 20:47:17]
+  Darleen Mcneil: Надо найти водолазный скафандр!
+[10/21/2022 20:47:17]
+  Mikaela Ouellette: Надо найти водолазный скафандр!
+[10/21/2022 20:47:23]
+  Glenda Hedrick: Мне нужно подводное снаряжение!
+[10/21/2022 20:47:26]
+  Супостат started repairing Ядерный реактор
+[10/21/2022 20:47:35]
+  Супостат picked up Кислородный баллон
+[10/21/2022 20:47:35]
+  Супостат dropped Кислородный баллон
+[10/21/2022 20:47:35]
+  Супостат placed Кислородный баллон in Подводная маска (ID: 3557)
+[10/21/2022 20:47:58]
+  igameCrog used item Морфин
+[10/21/2022 20:48:09]
+  Anton Mason equipped Кислородный баллон
+[10/21/2022 20:48:09]
+  Anton Mason: Надо найти водолазный скафандр!
+[10/21/2022 20:48:12]
+  Супостат has died (Cause of death: Ожог)
+[10/21/2022 20:48:20]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:48:21]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:48:34]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:48:39]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:48:40]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:48:40]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:48:43]
+  igameCrog picked up Антидот морбузина
+[10/21/2022 20:48:43]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:48:46]
+  igameCrog used item Галоперидол
+[10/21/2022 20:48:53]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:48:53]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:48:56]
+  Anton Mason failed to repair Малый насос
+[10/21/2022 20:49:13]
+  The respawn shuttle is leaving.
+[10/21/2022 20:49:14]
+  Anton Mason started repairing Малый насос
+[10/21/2022 20:49:25]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:49:39]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:49:43]
+  Darleen Mcneil has died (Cause of death: Unknown)
+[10/21/2022 20:49:43]
+  Glenda Hedrick has died (Cause of death: Unknown)
+[10/21/2022 20:49:43]
+  Mikaela Ouellette has died (Cause of death: Unknown)
+[10/21/2022 20:49:43]
+  The respawn shuttle has left.
+[10/21/2022 20:49:49]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:49:49]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:49:49]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:49:49]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:49:51]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 20:49:51]
+  kynlan4ic dropped Кислородный баллон
+[10/21/2022 20:49:51]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3580)
+[10/21/2022 20:49:53]
+  Dispatching the respawn shuttle.
+[10/21/2022 20:49:53]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/21/2022 20:49:54]
+  Respawning bot Darleen Mcneil as Механик
+[10/21/2022 20:49:54]
+  Respawning bot Glenda Hedrick as Инженер
+[10/21/2022 20:49:54]
+  Respawning bot Mikaela Ouellette as Инженер
+[10/21/2022 20:49:58]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 20:49:58]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:50:24]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:50:36]
+  Anton Mason failed to repair Малый насос
+[10/21/2022 20:50:40]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:50:40]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:50:52]
+  Anton Mason started repairing Ядерный реактор
+[10/21/2022 20:50:59]
+  igameCrog adjusted reactor settings: Temperature: 5038, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 20:51:07]
+  igameCrog equipped Гаечный ключ
+[10/21/2022 20:51:13]
+  Anton Mason started repairing Батарея
+[10/21/2022 20:51:17]
+  igameCrog started repairing Батарея
+[10/21/2022 20:51:29]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:51:30]
+  igameCrog started repairing Батарея
+[10/21/2022 20:51:36]
+  Anton Mason equipped Гаечный ключ
+[10/21/2022 20:51:36]
+  Anton Mason unequipped Гаечный ключ
+[10/21/2022 20:51:36]
+  Anton Mason equipped Отвертка
+[10/21/2022 20:51:36]
+  Anton Mason unequipped Отвертка
+[10/21/2022 20:51:43]
+  igameCrog started repairing Суперконденсатор
+[10/21/2022 20:51:54]
+  igameCrog started repairing Суперконденсатор
+[10/21/2022 20:51:59]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3883)
+[10/21/2022 20:51:59]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3883)
+[10/21/2022 20:51:59]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3577)
+[10/21/2022 20:52:03]
+  Супостат docked Hemulen to Dugong
+[10/21/2022 20:52:07]
+  igameCrog started repairing Ядерный реактор
+[10/21/2022 20:52:12]
+  igameCrog started repairing Ядерный реактор
+[10/21/2022 20:52:15]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 20:52:23]
+  Супостат picked up Подводная маска
+[10/21/2022 20:52:26]
+  Супостат picked up Плазменный резак
+[10/21/2022 20:52:38]
+  kynlan4ic closed Настраиваемый люк
+[10/21/2022 20:52:38]
+  kynlan4ic undocked Hemulen from Dugong
+[10/21/2022 20:53:33]
+  kynlan4ic docked Hemulen to Шахта Skadi's Cauldron
+[10/21/2022 20:53:33]
+  Anton Mason equipped Топливный бак сварочного аппарата
+[10/21/2022 20:53:37]
+  Anton Mason equipped Сварочный аппарат
+[10/21/2022 20:53:41]
+  Супостат picked up Одноразовый водолазный скафандр
+[10/21/2022 20:53:48]
+  Ending round (submarine reached the end of the level)
+[10/21/2022 20:53:48]
+  Ending the round...

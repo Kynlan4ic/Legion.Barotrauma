@@ -1,0 +1,1600 @@
+﻿[03/13/2023 18:48:10]
+  Saving client permissions
+[03/13/2023 18:48:10]
+  Saving client permissions
+[03/13/2023 18:48:12]
+  Gamemode changed to Кампания
+[03/13/2023 18:48:28]
+  Игрок vlad32 присоединился к серверу.
+[03/13/2023 18:48:28]
+  Saving client permissions
+[03/13/2023 18:48:33]
+  vlad32 is ready to start the game.
+[03/13/2023 18:51:29]
+  kynlan4ic is ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:04:07]
+  vlad32 is ready to start the game.
+[03/13/2023 19:04:08]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:04:08]
+  vlad32 is ready to start the game.
+[03/13/2023 19:04:13]
+  vlad32: ХУУУУУУУЙ
+[03/13/2023 19:13:38]
+  Starting a new round...
+[03/13/2023 19:13:39]
+  kynlan4ic is not ready to start the game.
+[03/13/2023 19:14:34]
+  John Poole equipped PDW-323E
+[03/13/2023 19:14:34]
+  Lauren Reeves equipped M21 Light
+[03/13/2023 19:14:34]
+  Steve Rosewood equipped AEK-22 Special
+[03/13/2023 19:14:34]
+  Lionel Lavey equipped M21 Light
+[03/13/2023 19:14:34]
+  Beverley Rosewood equipped M4-29 Assault rifle
+[03/13/2023 19:14:34]
+  Katrina Gordon equipped AEK-22 Special
+[03/13/2023 19:14:34]
+  Candace Dyer equipped A219-E
+[03/13/2023 19:14:34]
+  Миссия: Renegade Marines
+[03/13/2023 19:14:34]
+  A group of Renegade Marines has captured an outpost. Kill all the traitors and destrot outpost's reactor!
+[03/13/2023 19:14:34]
+  Game mode: Кампания
+[03/13/2023 19:14:35]
+  Submarine: Wellerman
+[03/13/2023 19:14:35]
+  Level seed: Riville
+[03/13/2023 19:14:35]
+  Mission: Renegade Marines
+[03/13/2023 19:14:35]
+  Round started.
+[03/13/2023 19:14:35]
+  Steve Rosewood unequipped AEK-22 Special
+[03/13/2023 19:14:35]
+  Katrina Gordon unequipped AEK-22 Special
+[03/13/2023 19:14:35]
+  Candace Dyer unequipped A219-E
+[03/13/2023 19:14:35]
+  John Poole unequipped PDW-323E
+[03/13/2023 19:14:35]
+  Lauren Reeves unequipped M21 Light
+[03/13/2023 19:14:35]
+  Beverley Rosewood unequipped M4-29 Assault rifle
+[03/13/2023 19:14:37]
+  Lionel Lavey unequipped M21 Light
+[03/13/2023 19:14:37]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:14:37]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:14:37]
+  Arron Gregory: Devin Maxwell проходит лечение здесь: электрика!
+[03/13/2023 19:14:37]
+  Arron Gregory: Мне жаль, Devin Maxwell, это все, что я могу сделать!
+[03/13/2023 19:14:37]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:14:37]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:14:38]
+  Arron Gregory: Devin Maxwell нуждается в помощи! Срочно требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:14:38]
+  Arron Gregory: vlad32 получает первую помощь здесь: орудийный отсек!
+[03/13/2023 19:14:38]
+  Arron Gregory: Мне требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:14:38]
+  Lionel Lavey closed Настраиваемая дверь
+[03/13/2023 19:14:38]
+  Lionel Lavey opened Настраиваемая дверь
+[03/13/2023 19:14:45]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:14:49]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:14:56]
+  vlad32 picked up Pirate Exosuit
+[03/13/2023 19:15:00]
+  Devin Maxwell: Внутрь.
+[03/13/2023 19:15:01]
+  Devin Maxwell: Нырять глубже? Нет, нырять внутрь.
+[03/13/2023 19:15:11]
+  vlad32 placed Подводное ружье in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:11]
+  vlad32 removed M3 Double-Barrel from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:11]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:15:11]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:15:11]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:15:12]
+  Candace Dyer closed Настраиваемая дверь
+[03/13/2023 19:15:12]
+  Candace Dyer opened Настраиваемая дверь
+[03/13/2023 19:15:12]
+  kynlan4ic picked up Кислородный баллон
+[03/13/2023 19:15:13]
+  vlad32 placed M3 Double-Barrel in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:13]
+  vlad32 removed Патрон для дробовика from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:13]
+  vlad32 removed Патрон для дробовика from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:13]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:15:13]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:15:17]
+  vlad32 placed Патрон для дробовика in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:17]
+  vlad32 placed Патрон для дробовика in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:17]
+  vlad32 removed M3 Double-Barrel from Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:17]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:15:17]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/13/2023 19:15:19]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 8619)
+[03/13/2023 19:15:24]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 395)
+[03/13/2023 19:15:25]
+  vlad32 picked up Подводное ружье
+[03/13/2023 19:15:27]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:28]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:29]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:29]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:30]
+  vlad32 picked up Shotgun Hollow-Point Slug
+[03/13/2023 19:15:30]
+  vlad32 picked up Shotgun Hollow-Point Slug
+[03/13/2023 19:15:30]
+  vlad32 dropped Подводное ружье
+[03/13/2023 19:15:30]
+  vlad32 placed Подводное ружье in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:32]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:33]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:33]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:15:33]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:15:33]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:36]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:36]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:15:36]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:37]
+  vlad32 equipped M3 Double-Barrel
+[03/13/2023 19:15:40]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:42]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:43]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:15:45]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:45]
+  kynlan4ic equipped Медконтейнер
+[03/13/2023 19:15:46]
+  vlad32 picked up ЭМ-граната
+[03/13/2023 19:15:46]
+  Lionel Lavey opened Настраиваемая дверь
+[03/13/2023 19:15:46]
+  Lionel Lavey closed Настраиваемая дверь
+[03/13/2023 19:15:47]
+  vlad32 dropped Pirate Exosuit
+[03/13/2023 19:15:47]
+  kynlan4ic dropped Медконтейнер
+[03/13/2023 19:15:48]
+  vlad32 equipped ЭМ-граната
+[03/13/2023 19:15:49]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:15:54]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:16:06]
+  Client "kynlan4ic" ended the round.
+[03/13/2023 19:16:06]
+  Ending the round...
+[03/13/2023 19:16:06]
+  Round ended.
+[03/13/2023 19:16:35]
+  kynlan4ic changed PlayStyle to Serious
+[03/13/2023 19:16:35]
+  kynlan4ic changed LosMode to Transparent
+[03/13/2023 19:16:35]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/13/2023 19:16:35]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/13/2023 19:16:35]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/13/2023 19:16:38]
+  kynlan4ic is ready to start the game.
+[03/13/2023 19:16:41]
+  Starting a new round...
+[03/13/2023 19:16:42]
+  kynlan4ic is not ready to start the game.
+[03/13/2023 19:16:44]
+  vlad32 is ready to start the game.
+[03/13/2023 19:16:45]
+  vlad32 is not ready to start the game.
+[03/13/2023 19:17:08]
+  Page Santillan equipped PDW-323E
+[03/13/2023 19:17:08]
+  Jude Clements equipped M21 Light
+[03/13/2023 19:17:08]
+  Natashia Malone equipped AEK-22 Special
+[03/13/2023 19:17:08]
+  Omari Little equipped M21 Light
+[03/13/2023 19:17:08]
+  Vanessa Lavey equipped M4-29 Assault rifle
+[03/13/2023 19:17:08]
+  Bill Reeves equipped AEK-22 Special
+[03/13/2023 19:17:08]
+  Glenda Riddle equipped A219-E
+[03/13/2023 19:17:08]
+  Миссия: Renegade Marines
+[03/13/2023 19:17:08]
+  A group of Renegade Marines has captured an outpost. Kill all the traitors and destrot outpost's reactor!
+[03/13/2023 19:17:08]
+  Game mode: Кампания
+[03/13/2023 19:17:09]
+  Submarine: Wellerman
+[03/13/2023 19:17:09]
+  Level seed: Riville
+[03/13/2023 19:17:09]
+  Mission: Renegade Marines
+[03/13/2023 19:17:09]
+  Round started.
+[03/13/2023 19:17:09]
+  Natashia Malone unequipped AEK-22 Special
+[03/13/2023 19:17:09]
+  Vanessa Lavey unequipped M4-29 Assault rifle
+[03/13/2023 19:17:09]
+  Omari Little unequipped M21 Light
+[03/13/2023 19:17:09]
+  Jude Clements unequipped M21 Light
+[03/13/2023 19:17:09]
+  Page Santillan unequipped PDW-323E
+[03/13/2023 19:17:09]
+  Glenda Riddle unequipped A219-E
+[03/13/2023 19:17:09]
+  Bill Reeves unequipped AEK-22 Special
+[03/13/2023 19:17:09]
+  Arron Gregory: Devin Maxwell получает первую помощь здесь: электрика!
+[03/13/2023 19:17:09]
+  Arron Gregory: Мне жаль, Devin Maxwell, это все, что я могу сделать!
+[03/13/2023 19:17:09]
+  Arron Gregory: Devin Maxwell нуждается в помощи! Срочно требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:17:09]
+  Arron Gregory: vlad32 получает первую помощь здесь: орудийный отсек!
+[03/13/2023 19:17:09]
+  Omari Little closed Настраиваемая дверь
+[03/13/2023 19:17:09]
+  Omari Little opened Настраиваемая дверь
+[03/13/2023 19:17:09]
+  Arron Gregory: vlad32 нуждается в помощи! Срочно требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:17:09]
+  Omari Little opened Настраиваемая дверь
+[03/13/2023 19:17:09]
+  Omari Little closed Настраиваемая дверь
+[03/13/2023 19:17:16]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:17:22]
+  kynlan4ic picked up Кислородный баллон
+[03/13/2023 19:17:24]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:17:30]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 395)
+[03/13/2023 19:17:31]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:17:34]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:17:34]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:17:35]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:17:36]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:37]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:17:39]
+  vlad32 placed Подводное ружье in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:17:41]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:17:41]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:17:47]
+  kynlan4ic used item Морфин
+[03/13/2023 19:17:49]
+  vlad32 equipped Металлический ящик
+[03/13/2023 19:17:50]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:17:51]
+  vlad32 dropped Металлический ящик
+[03/13/2023 19:17:52]
+  vlad32 equipped Металлический ящик
+[03/13/2023 19:17:53]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 423)
+[03/13/2023 19:17:53]
+  vlad32 dropped Металлический ящик
+[03/13/2023 19:17:54]
+  kynlan4ic activated Деконструктор
+[03/13/2023 19:17:56]
+  vlad32 equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 19:17:57]
+  vlad32 dropped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 19:17:58]
+  Bill Reeves: Мне скучно!
+[03/13/2023 19:18:01]
+  vlad32 picked up TOZ Shaitan
+[03/13/2023 19:18:01]
+  kynlan4ic equipped Топливный бак сварочного аппарата
+[03/13/2023 19:18:02]
+  vlad32 equipped TOZ Shaitan
+[03/13/2023 19:18:04]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:18:04]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:18:06]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:18:06]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:18:06]
+  vlad32 has gained 550 experience (8029 -> 8579)
+[03/13/2023 19:18:06]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:18:06]
+  vlad32 placed TOZ Shaitan in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:07]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:18:07]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:18:07]
+  vlad32 has gained 550 experience (8579 -> 9129)
+[03/13/2023 19:18:08]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:18:08]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:18:08]
+  vlad32 has gained 550 experience (9129 -> 9679)
+[03/13/2023 19:18:15]
+  kynlan4ic removed Небольшой ящик для рассады from Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:16]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:17]
+  vlad32 picked up Медаль
+[03/13/2023 19:18:18]
+  vlad32 equipped Отвертка
+[03/13/2023 19:18:18]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:23]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:18:23]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:18:23]
+  kynlan4ic has gained 550 experience (21120 -> 21670)
+[03/13/2023 19:18:23]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:24]
+  Arron Gregory equipped Небольшой ящик для рассады
+[03/13/2023 19:18:25]
+  kynlan4ic removed Небольшой ящик для рассады from Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:27]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:18:27]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:18:27]
+  kynlan4ic has gained 550 experience (21670 -> 22220)
+[03/13/2023 19:18:27]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:28]
+  Glenda Riddle closed Настраиваемая дверь
+[03/13/2023 19:18:28]
+  Glenda Riddle opened Настраиваемая дверь
+[03/13/2023 19:18:28]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:18:28]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:18:28]
+  kynlan4ic has gained 550 experience (22220 -> 22770)
+[03/13/2023 19:18:28]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:31]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:18:31]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:18:31]
+  kynlan4ic has gained 550 experience (22770 -> 23320)
+[03/13/2023 19:18:31]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:33]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:18:33]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:18:33]
+  kynlan4ic has gained 550 experience (23320 -> 23870)
+[03/13/2023 19:18:33]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:34]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:18:34]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:18:34]
+  kynlan4ic has gained 550 experience (23870 -> 24420)
+[03/13/2023 19:18:34]
+  vlad32 equipped Медаль
+[03/13/2023 19:18:36]
+  vlad32 placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:18:37]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:18:40]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:18:43]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:18:43]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:18:43]
+  vlad32 has gained 550 experience (9679 -> 10229)
+[03/13/2023 19:18:46]
+  vlad32 has gained the talent 'Набор для умиротворения'
+[03/13/2023 19:18:50]
+  kynlan4ic has gained the talent 'Торговец оружием'
+[03/13/2023 19:18:55]
+  Omari Little opened Настраиваемая дверь
+[03/13/2023 19:18:55]
+  Omari Little closed Настраиваемая дверь
+[03/13/2023 19:18:56]
+  Omari Little closed Настраиваемая дверь
+[03/13/2023 19:18:56]
+  Omari Little opened Настраиваемая дверь
+[03/13/2023 19:19:01]
+  kynlan4ic picked up Магазин для ПП
+[03/13/2023 19:19:01]
+  kynlan4ic picked up Магазин для ПП
+[03/13/2023 19:19:03]
+  kynlan4ic picked up Concussive round
+[03/13/2023 19:19:03]
+  kynlan4ic picked up Concussive round
+[03/13/2023 19:19:05]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:19:05]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:19:05]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:19:05]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:19:05]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:19:06]
+  kynlan4ic placed Магазин для ПП in Защищенный стальной шкаф (ID: 673)
+[03/13/2023 19:19:06]
+  kynlan4ic placed Магазин для ПП in Защищенный стальной шкаф (ID: 673)
+[03/13/2023 19:19:17]
+  kynlan4ic placed Топливный бак сварочного аппарата in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed Concussive round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:20]
+  kynlan4ic placed Concussive round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:19:26]
+  kynlan4ic picked up Удостоверение личности
+[03/13/2023 19:19:27]
+  kynlan4ic dropped Пояс инструментов
+[03/13/2023 19:19:31]
+  vlad32 equipped M3 Double-Barrel
+[03/13/2023 19:19:37]
+  vlad32 picked up Водолазный скафандр
+[03/13/2023 19:19:38]
+  kynlan4ic picked up ТП
+[03/13/2023 19:19:38]
+  vlad32 dropped Водолазный скафандр
+[03/13/2023 19:19:40]
+  Glenda Riddle opened Настраиваемая дверь
+[03/13/2023 19:19:40]
+  Glenda Riddle closed Настраиваемая дверь
+[03/13/2023 19:19:42]
+  vlad32 picked up Military Mk-I Hardsuit (Bandit)
+[03/13/2023 19:19:42]
+  kynlan4ic picked up Фонарик
+[03/13/2023 19:19:45]
+  kynlan4ic placed Пистолет-пулемет in Защищенный стальной шкаф (ID: 673)
+[03/13/2023 19:19:54]
+  kynlan4ic placed Аккумулятор in Фонарик (ID: 8622)
+[03/13/2023 19:19:54]
+  kynlan4ic removed Аккумулятор from Фонарик (ID: 8622)
+[03/13/2023 19:19:54]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 422)
+[03/13/2023 19:19:55]
+  kynlan4ic placed Фонарик in ТП (ID: 2921)
+[03/13/2023 19:20:20]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/13/2023 19:21:06]
+  vlad32 placed Кислородный баллон in Генератор кислорода челнока (ID: 395)
+[03/13/2023 19:21:06]
+  vlad32 removed Кислородный баллон from Генератор кислорода челнока (ID: 395)
+[03/13/2023 19:21:06]
+  vlad32 placed Кислородный баллон in Military Mk-I Hardsuit (Bandit) (ID: 184)
+[03/13/2023 19:21:06]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:21:06]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:21:07]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:21:14]
+  vlad32 dropped Military Mk-I Hardsuit (Bandit)
+[03/13/2023 19:21:15]
+  vlad32 equipped Military Mk-I Hardsuit (Bandit)
+[03/13/2023 19:21:17]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:21:24]
+  Console command "spawnitem Bandage inventory 10" executed by kynlan4ic.
+[03/13/2023 19:21:27]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:21:29]
+  vlad32 placed M3 Double-Barrel in Большой стальной шкаф (ID: 441)
+[03/13/2023 19:21:35]
+  Console command "spawnitem Бинты inventory 10" executed by kynlan4ic.
+[03/13/2023 19:21:42]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/13/2023 19:21:46]
+  vlad32 dropped Military Mk-I Hardsuit (Bandit)
+[03/13/2023 19:21:56]
+  Console command "spawnitem Bandage inventory 10" executed by kynlan4ic.
+[03/13/2023 19:22:02]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:03]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:03]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:03]
+  Devin Maxwell equipped Пояс инструментов
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:06]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:07]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:08]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:08]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:08]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:08]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:22:21]
+  Console command "spawnitem antidama1 inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:21]
+  Console command "spawnitem antidama1 inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:22]
+  Console command "spawnitem antidama1 inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:22]
+  Console command "spawnitem antidama1 inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:25]
+  kynlan4ic used item Морфин
+[03/13/2023 19:22:28]
+  kynlan4ic used item Морфин
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:30]
+  kynlan4ic placed Морфин in Аптечка (ID: 455)
+[03/13/2023 19:22:34]
+  kynlan4ic equipped Медконтейнер
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:34]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  Devin Maxwell started repairing Монитор состояния
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:35]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:36]
+  kynlan4ic placed Морфин in Медконтейнер (ID: 1280)
+[03/13/2023 19:22:37]
+  kynlan4ic dropped Медконтейнер
+[03/13/2023 19:22:39]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 19:22:52]
+  Console command "spawnitem antibloodloss2 inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:52]
+  Console command "spawnitem antibloodloss2 inventory 30" executed by kynlan4ic.
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:54]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:55]
+  kynlan4ic placed Пакет с кровью in Аптечка (ID: 455)
+[03/13/2023 19:22:59]
+  Omari Little equipped M21 Light
+[03/13/2023 19:23:02]
+  kynlan4ic equipped ТП
+[03/13/2023 19:23:04]
+  Glenda Riddle equipped A219-E
+[03/13/2023 19:23:04]
+  Outer wall breached by Omari Little
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 5.6 Кровотечение: 5.9
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 5.6 Кровотечение: 5.9
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 5.6 Кровотечение: 5.9
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:09]
+  Omari Little attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.0
+[03/13/2023 19:23:10]
+  Glenda Riddle unequipped A219-E
+[03/13/2023 19:23:10]
+  Omari Little unequipped M21 Light
+[03/13/2023 19:23:14]
+  Inner wall breached by kynlan4ic
+[03/13/2023 19:23:14]
+  Glenda Riddle attacked by kynlan4ic. Огнестрельная рана: 10.8 Кровотечение: 14.0
+[03/13/2023 19:23:14]
+  Glenda Riddle equipped A219-E
+[03/13/2023 19:23:14]
+  Inner wall breached by kynlan4ic
+[03/13/2023 19:23:14]
+  Glenda Riddle attacked by kynlan4ic. Огнестрельная рана: 9.0 Кровотечение: 6.8
+[03/13/2023 19:23:15]
+  Glenda Riddle unequipped A219-E
+[03/13/2023 19:23:20]
+  Ending round (no living players left)
+[03/13/2023 19:23:20]
+  Ending the round...
+[03/13/2023 19:23:20]
+  Round ended.
+[03/13/2023 19:25:10]
+  Игрок igameCrog присоединился к серверу.
+[03/13/2023 19:25:10]
+  Saving client permissions
+[03/13/2023 19:25:35]
+  Starting a new round...
+[03/13/2023 19:26:06]
+  Corinne Huber equipped PDW-323E
+[03/13/2023 19:26:06]
+  Jenine Santillan equipped M21 Light
+[03/13/2023 19:26:06]
+  Margeret Phoenix equipped AEK-22 Special
+[03/13/2023 19:26:06]
+  Jeremiah Delange equipped M21 Light
+[03/13/2023 19:26:06]
+  Alvaro Frye equipped M4-29 Assault rifle
+[03/13/2023 19:26:06]
+  Jamey Breeki equipped AEK-22 Special
+[03/13/2023 19:26:06]
+  Sherise Atterbury equipped A219-E
+[03/13/2023 19:26:06]
+  Миссия: Renegade Marines
+[03/13/2023 19:26:06]
+  A group of Renegade Marines has captured an outpost. Kill all the traitors and destrot outpost's reactor!
+[03/13/2023 19:26:06]
+  Game mode: Кампания
+[03/13/2023 19:26:06]
+  Submarine: Wellerman
+[03/13/2023 19:26:06]
+  Level seed: Riville
+[03/13/2023 19:26:06]
+  Mission: Renegade Marines
+[03/13/2023 19:26:06]
+  Round started.
+[03/13/2023 19:26:06]
+  Margeret Phoenix unequipped AEK-22 Special
+[03/13/2023 19:26:06]
+  Jeremiah Delange unequipped M21 Light
+[03/13/2023 19:26:06]
+  Sherise Atterbury unequipped A219-E
+[03/13/2023 19:26:06]
+  Jamey Breeki unequipped AEK-22 Special
+[03/13/2023 19:26:06]
+  Corinne Huber unequipped PDW-323E
+[03/13/2023 19:26:06]
+  Alvaro Frye unequipped M4-29 Assault rifle
+[03/13/2023 19:26:06]
+  Jenine Santillan unequipped M21 Light
+[03/13/2023 19:26:06]
+  Arron Gregory: vlad32 получает первую помощь здесь: орудийный отсек!
+[03/13/2023 19:26:06]
+  Sherise Atterbury closed Настраиваемая дверь
+[03/13/2023 19:26:06]
+  Sherise Atterbury opened Настраиваемая дверь
+[03/13/2023 19:26:06]
+  Arron Gregory: Devin Maxwell получает первую помощь здесь: электрика!
+[03/13/2023 19:26:07]
+  Arron Gregory: vlad32 нуждается в помощи! Срочно требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:26:07]
+  Sherise Atterbury opened Настраиваемая дверь
+[03/13/2023 19:26:07]
+  Sherise Atterbury closed Настраиваемая дверь
+[03/13/2023 19:26:07]
+  Arron Gregory: Мне жаль, Devin Maxwell, это все, что я могу сделать!
+[03/13/2023 19:26:07]
+  Arron Gregory: Мне требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:26:07]
+  Jamey Breeki closed Настраиваемая дверь
+[03/13/2023 19:26:07]
+  Jamey Breeki opened Настраиваемая дверь
+[03/13/2023 19:26:07]
+  Arron Gregory: igameCrog проходит лечение здесь: орудийный отсек!
+[03/13/2023 19:26:07]
+  Arron Gregory: igameCrog нуждается в помощи! Срочно требуется фентанил, морфин, опиум или экстракт взрывного граната!
+[03/13/2023 19:26:15]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:26:18]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 19:26:20]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:26:20]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:26:21]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:26:24]
+  kynlan4ic picked up Медаль
+[03/13/2023 19:26:25]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:26:27]
+  kynlan4ic removed Небольшой ящик для рассады from Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:27]
+  Arron Gregory: У меня нет средств для лечения! igameCrog в беде!
+[03/13/2023 19:26:31]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:31]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:31]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:31]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:31]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:31]
+  kynlan4ic placed Медаль in Средний стальной шкаф (ID: 603)
+[03/13/2023 19:26:32]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 19:26:38]
+  kynlan4ic used item Морфин
+[03/13/2023 19:26:41]
+  Devin Maxwell equipped Небольшой ящик для рассады
+[03/13/2023 19:26:41]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:26:43]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:26:48]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:26:48]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:26:48]
+  vlad32 has gained 550 experience (8029 -> 8579)
+[03/13/2023 19:26:48]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:26:50]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:26:50]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:26:50]
+  vlad32 has gained 550 experience (8579 -> 9129)
+[03/13/2023 19:26:50]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:26:51]
+  Jamey Breeki: Мы уже приплыли?
+[03/13/2023 19:26:51]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:26:51]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:26:51]
+  vlad32 has gained 550 experience (9129 -> 9679)
+[03/13/2023 19:26:51]
+  kynlan4ic equipped Медаль
+[03/13/2023 19:26:52]
+  Sherise Atterbury: Это не смешно.
+[03/13/2023 19:26:53]
+  vlad32 attacked by kynlan4ic.
+[03/13/2023 19:26:53]
+  kynlan4ic used Медаль on vlad32.
+[03/13/2023 19:26:53]
+  vlad32 has gained 550 experience (9679 -> 10229)
+[03/13/2023 19:26:57]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 19:26:57]
+  vlad32 has gained the talent 'Набор для умиротворения'
+[03/13/2023 19:27:01]
+  vlad32 picked up Медаль
+[03/13/2023 19:27:01]
+  vlad32 picked up Медаль
+[03/13/2023 19:27:01]
+  vlad32 picked up Медаль
+[03/13/2023 19:27:01]
+  vlad32 picked up Медаль
+[03/13/2023 19:27:01]
+  vlad32 picked up Медаль
+[03/13/2023 19:27:01]
+  vlad32 picked up Медаль
+[03/13/2023 19:27:01]
+  vlad32 equipped Отвертка
+[03/13/2023 19:27:02]
+  vlad32 equipped Медаль
+[03/13/2023 19:27:03]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:27:03]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:27:03]
+  kynlan4ic has gained 550 experience (21120 -> 21670)
+[03/13/2023 19:27:03]
+  vlad32 equipped Медаль
+[03/13/2023 19:27:04]
+  Sherise Atterbury opened Настраиваемая дверь
+[03/13/2023 19:27:04]
+  Sherise Atterbury closed Настраиваемая дверь
+[03/13/2023 19:27:04]
+  kynlan4ic picked up Фонарик
+[03/13/2023 19:27:05]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:27:05]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:27:05]
+  kynlan4ic has gained 550 experience (21670 -> 22220)
+[03/13/2023 19:27:05]
+  vlad32 equipped Медаль
+[03/13/2023 19:27:06]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:27:06]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:27:06]
+  kynlan4ic has gained 550 experience (22220 -> 22770)
+[03/13/2023 19:27:06]
+  vlad32 equipped Медаль
+[03/13/2023 19:27:07]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:27:07]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:27:07]
+  kynlan4ic has gained 550 experience (22770 -> 23320)
+[03/13/2023 19:27:07]
+  vlad32 equipped Медаль
+[03/13/2023 19:27:08]
+  kynlan4ic has gained the talent 'Торговец оружием'
+[03/13/2023 19:27:09]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:27:09]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:27:09]
+  kynlan4ic has gained 550 experience (23320 -> 23870)
+[03/13/2023 19:27:09]
+  vlad32 equipped Медаль
+[03/13/2023 19:27:12]
+  kynlan4ic attacked by vlad32.
+[03/13/2023 19:27:12]
+  vlad32 used Медаль on kynlan4ic.
+[03/13/2023 19:27:12]
+  kynlan4ic has gained 550 experience (23870 -> 24420)
+[03/13/2023 19:27:22]
+  kynlan4ic picked up Concussive round
+[03/13/2023 19:27:22]
+  kynlan4ic picked up Concussive round
+[03/13/2023 19:27:23]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:27:23]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:27:23]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:27:23]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:27:23]
+  kynlan4ic picked up 9x19 Round
+[03/13/2023 19:27:24]
+  kynlan4ic placed Пистолет-пулемет in Защищенный стальной шкаф (ID: 673)
+[03/13/2023 19:27:29]
+  vlad32 picked up M3 Double-Barrel
+[03/13/2023 19:27:30]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:27:30]
+  vlad32 picked up Патрон для дробовика
+[03/13/2023 19:27:32]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:27:32]
+  vlad32 placed Shotgun Hollow-Point Slug in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:27:34]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:27:36]
+  vlad32 placed Патрон для дробовика in M3 Double-Barrel (ID: 1554)
+[03/13/2023 19:27:36]
+  kynlan4ic picked up Удостоверение личности
+[03/13/2023 19:27:37]
+  kynlan4ic dropped Пояс инструментов
+[03/13/2023 19:27:39]
+  kynlan4ic picked up ТП
+[03/13/2023 19:27:39]
+  vlad32 placed Подводное ружье in Средний стальной шкаф (ID: 674)
+[03/13/2023 19:27:47]
+  vlad32 picked up Military Mk-I Hardsuit (Bandit)
+[03/13/2023 19:27:48]
+  kynlan4ic placed Топливный бак сварочного аппарата in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:49]
+  kynlan4ic placed Concussive round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:49]
+  kynlan4ic placed Concussive round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:50]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:50]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:50]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:50]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:50]
+  kynlan4ic placed 9x19 Round in Хозяйственный шкаф (ID: 3375)
+[03/13/2023 19:27:55]
+  Jamey Breeki closed Настраиваемая дверь
+[03/13/2023 19:27:55]
+  Jamey Breeki opened Настраиваемая дверь
+[03/13/2023 19:27:55]
+  Jamey Breeki opened Настраиваемая дверь
+[03/13/2023 19:27:55]
+  Jamey Breeki closed Настраиваемая дверь
+[03/13/2023 19:28:00]
+  kynlan4ic placed Аккумулятор in Фонарик (ID: 8622)
+[03/13/2023 19:28:00]
+  kynlan4ic removed Аккумулятор from Фонарик (ID: 8622)
+[03/13/2023 19:28:00]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 422)
+[03/13/2023 19:28:00]
+  vlad32 equipped Ящик с химикатами
+[03/13/2023 19:28:00]
+  kynlan4ic equipped Сварочный аппарат
+[03/13/2023 19:28:03]
+  vlad32 dropped Ящик с химикатами
+[03/13/2023 19:28:10]
+  kynlan4ic placed Фонарик in ТП (ID: 2921)
+[03/13/2023 19:28:17]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:28:17]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:28:17]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:28:18]
+  Console command "spawnitem Bandage inventory 30" executed by kynlan4ic.
+[03/13/2023 19:28:19]
+  vlad32 picked up MP-681 Blackbird
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)
+[03/13/2023 19:28:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 455)

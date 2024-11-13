@@ -1,0 +1,1474 @@
+﻿[02/07/2023 22:15:49]
+  Starting the server...
+[02/07/2023 22:15:49]
+  Using SteamP2P networking.
+[02/07/2023 22:15:49]
+  Server started
+[02/07/2023 22:15:49]
+  Игрок kynlan4ic присоединился к серверу.
+[02/07/2023 22:15:49]
+  Saving client permissions
+[02/07/2023 22:15:49]
+  Saving client permissions
+[02/07/2023 22:17:40]
+  Игрок igameCrog присоединился к серверу.
+[02/07/2023 22:17:40]
+  Saving client permissions
+[02/07/2023 22:19:26]
+  kynlan4ic changed PlayStyle to Casual
+[02/07/2023 22:19:26]
+  kynlan4ic changed LosMode to Transparent
+[02/07/2023 22:19:26]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/07/2023 22:19:26]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/07/2023 22:19:26]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/07/2023 22:20:06]
+  Client "kynlan4ic" started the round.
+[02/07/2023 22:20:06]
+  Starting a new round...
+[02/07/2023 22:20:10]
+  Game mode: Песочница
+[02/07/2023 22:20:10]
+  Submarine: Dugong
+[02/07/2023 22:20:10]
+  Level seed: S4Yv9gbN
+[02/07/2023 22:20:11]
+  Leola Higgins equipped Гаечный ключ
+[02/07/2023 22:20:11]
+  Stephane Lee equipped Сварочный аппарат
+[02/07/2023 22:20:12]
+  Round started.
+[02/07/2023 22:20:19]
+  Roslyn Avery: Веди ее по морю, веди ее на дно...
+[02/07/2023 22:20:22]
+  Roslyn Avery: Веди ее туда, где рыбы спят давно!
+[02/07/2023 22:20:25]
+  Roslyn Avery: Проклятое давленье сотней острых игл...
+[02/07/2023 22:20:29]
+  Roslyn Avery: Рвет тебя на части, как Акулий тигр!
+[02/07/2023 22:20:33]
+  Arkadi Deras: На Земле же моряки поют песни! Чем мы хуже!
+[02/07/2023 22:20:38]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/07/2023 22:20:48]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/07/2023 22:20:55]
+  igameCrog picked up Гаечный ключ
+[02/07/2023 22:20:56]
+  igameCrog picked up Отвертка
+[02/07/2023 22:20:57]
+  igameCrog picked up Наушники
+[02/07/2023 22:20:58]
+  igameCrog placed Наушники in Human
+[02/07/2023 22:20:59]
+  igameCrog picked up Пояс инструментов
+[02/07/2023 22:21:00]
+  kynlan4ic picked up Сварочный аппарат
+[02/07/2023 22:21:01]
+  igameCrog picked up Сварочный аппарат
+[02/07/2023 22:21:02]
+  igameCrog picked up Плазменный резак
+[02/07/2023 22:21:10]
+  igameCrog equipped Плазменный резак
+[02/07/2023 22:21:10]
+  kynlan4ic picked up Кислородный баллон
+[02/07/2023 22:21:12]
+  kynlan4ic picked up Подводная маска
+[02/07/2023 22:21:12]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 3106)
+[02/07/2023 22:21:12]
+  kynlan4ic picked up Бинт
+[02/07/2023 22:21:12]
+  kynlan4ic picked up Бинт
+[02/07/2023 22:21:14]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 3106)
+[02/07/2023 22:21:15]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 3106)
+[02/07/2023 22:21:17]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 3106)
+[02/07/2023 22:21:20]
+  igameCrog picked up Каликсанид
+[02/07/2023 22:21:21]
+  igameCrog placed Каликсанид in Аптечка (ID: 132)
+[02/07/2023 22:21:30]
+  igameCrog picked up Яйца велонацепса каликса
+[02/07/2023 22:21:30]
+  igameCrog picked up Экстракт каликса
+[02/07/2023 22:21:34]
+  igameCrog picked up Подводная маска
+[02/07/2023 22:21:34]
+  igameCrog picked up Бинт
+[02/07/2023 22:21:39]
+  igameCrog picked up Этанол
+[02/07/2023 22:21:40]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:40]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:40]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:40]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:42]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:42]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:43]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:43]
+  igameCrog picked up Морфин
+[02/07/2023 22:21:45]
+  igameCrog placed Морфин in Аптечка (ID: 132)
+[02/07/2023 22:21:47]
+  igameCrog picked up Пакет с кровью
+[02/07/2023 22:21:48]
+  igameCrog picked up Пакет с кровью
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:52]
+  igameCrog placed Морфин in Форма врача (ID: 3071)
+[02/07/2023 22:21:54]
+  igameCrog placed Пакет с кровью in Форма врача (ID: 3071)
+[02/07/2023 22:21:54]
+  igameCrog placed Пакет с кровью in Форма врача (ID: 3071)
+[02/07/2023 22:21:55]
+  igameCrog placed Этанол in Форма врача (ID: 3071)
+[02/07/2023 22:21:56]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:11]
+  igameCrog placed Экстракт каликса in Шприц-пистолет (ID: 3074)
+[02/07/2023 22:22:22]
+  kynlan4ic: Sharie Castillo, встань за орудия!
+[02/07/2023 22:22:23]
+  Sharie Castillo: Само собой!
+[02/07/2023 22:22:24]
+  igameCrog picked up Водолазный скафандр
+[02/07/2023 22:22:25]
+  kynlan4ic: Sharie Castillo, встань за орудия!
+[02/07/2023 22:22:25]
+  igameCrog equipped Водолазный скафандр
+[02/07/2023 22:22:26]
+  Sharie Castillo: Слушаюсь!
+[02/07/2023 22:22:28]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:22:28]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:22:29]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:22:31]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:22:31]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:22:32]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:22:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:35]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3106)
+[02/07/2023 22:22:56]
+  Sharie Castillo: У меня новая цель! Не могу понять, что это такое...
+[02/07/2023 22:22:56]
+  Sharie Castillo: Огонь!
+[02/07/2023 22:22:56]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:22:57]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:22:57]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:22:57]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:22:59]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:22:59]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:00]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:01]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:01]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:01]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:02]
+  Outer wall breached by Spineling
+[02/07/2023 22:23:02]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:02]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:03]
+  Arkadi Deras: Я теряю много крови!
+[02/07/2023 22:23:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:04]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:05]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:06]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:06]
+  Arkadi Deras equipped Бинт
+[02/07/2023 22:23:06]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:07]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:07]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:07]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:23:07]
+  Sharie Castillo: Кажется, есть попадание!
+[02/07/2023 22:23:09]
+  Arkadi Deras equipped Бинт
+[02/07/2023 22:23:16]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:17]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:17]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:23:17]
+  Sharie Castillo: Цель уничтожена!
+[02/07/2023 22:23:18]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:18]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:19]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:19]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:19]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:19]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:20]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:20]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:20]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:20]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:23:20]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:23:20]
+  Sharie Castillo: Враг уничтожен!
+[02/07/2023 22:23:40]
+  igameCrog used item Бинт
+[02/07/2023 22:24:01]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[02/07/2023 22:24:05]
+  igameCrog equipped Шприц-пистолет
+[02/07/2023 22:24:28]
+  Outer wall breached by Spineling
+[02/07/2023 22:24:28]
+  Outer wall breached by Spineling
+[02/07/2023 22:24:29]
+  kynlan4ic: Sharie Castillo, займись орудиями!
+[02/07/2023 22:24:29]
+  Outer wall breached by Spineling
+[02/07/2023 22:24:29]
+  Inner wall breached by Spineling
+[02/07/2023 22:24:29]
+  Sharie Castillo: У меня новая цель!
+[02/07/2023 22:24:30]
+  Sharie Castillo: Так точно!
+[02/07/2023 22:24:30]
+  Outer wall breached by Spineling
+[02/07/2023 22:24:30]
+  Inner wall breached by Spineling
+[02/07/2023 22:24:30]
+  Sharie Castillo: Огонь!
+[02/07/2023 22:24:30]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:30]
+  Outer wall breached by Spineling
+[02/07/2023 22:24:31]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:32]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:32]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:32]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:34]
+  Outer wall breached by Spineling
+[02/07/2023 22:24:34]
+  igameCrog picked up Сварочный аппарат
+[02/07/2023 22:24:34]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:35]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:35]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:35]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:35]
+  igameCrog equipped Сварочный аппарат
+[02/07/2023 22:24:35]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:36]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:36]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:36]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:37]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:24:37]
+  Outer wall repaired by igameCrog
+[02/07/2023 22:24:38]
+  Dahlia Bushman equipped Сварочный аппарат
+[02/07/2023 22:24:40]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:40]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:41]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:41]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:41]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:41]
+  Inner wall repaired by Dahlia Bushman
+[02/07/2023 22:24:41]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:42]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:42]
+  Dahlia Bushman unequipped Сварочный аппарат
+[02/07/2023 22:24:42]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:43]
+  Nicole Chandler equipped Сварочный аппарат
+[02/07/2023 22:24:43]
+  Nicole Chandler: Верхняя средняя часть: все протечки устранены!
+[02/07/2023 22:24:43]
+  Nicole Chandler unequipped Сварочный аппарат
+[02/07/2023 22:24:45]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:45]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:46]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:47]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:47]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:47]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:47]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:48]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:48]
+  Outer wall repaired by igameCrog
+[02/07/2023 22:24:49]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:50]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:50]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:50]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:50]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:51]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:24:51]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:24:51]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:01]
+  kynlan4ic: Sharie Castillo, займись орудиями!
+[02/07/2023 22:25:02]
+  Sharie Castillo: Огонь!
+[02/07/2023 22:25:02]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:02]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:25:02]
+  Sharie Castillo: Враг уничтожен!
+[02/07/2023 22:25:02]
+  Sharie Castillo: Вас понял!
+[02/07/2023 22:25:02]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:03]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:04]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:04]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:04]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:04]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:05]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:05]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:25:05]
+  Sharie Castillo: И-и-и-и... Готово!
+[02/07/2023 22:25:26]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:29]
+  kynlan4ic: Sharie Castillo, займись оружием!
+[02/07/2023 22:25:30]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:30]
+  Spineling has died (Cause of death: Рваная рана)
+[02/07/2023 22:25:30]
+  Sharie Castillo: Кажется, есть попадание!
+[02/07/2023 22:25:30]
+  Sharie Castillo: Слушаюсь!
+[02/07/2023 22:25:32]
+  Sharie Castillo: Неизвестная цель обнаружена!
+[02/07/2023 22:25:32]
+  Sharie Castillo: Огонь!
+[02/07/2023 22:25:32]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:32]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:33]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:34]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:34]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:34]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:35]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:35]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:40]
+  igameCrog picked up Бинт
+[02/07/2023 22:25:45]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:45]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:46]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:46]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:46]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:46]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:25:47]
+  Sharie Castillo launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:26:10]
+  igameCrog picked up Каликсанид
+[02/07/2023 22:26:26]
+  igameCrog equipped Бинт
+[02/07/2023 22:26:33]
+  igameCrog used item Каликсанид
+[02/07/2023 22:26:35]
+  kynlan4ic docked Dugong to Berith
+[02/07/2023 22:26:40]
+  Ending round (submarine reached the end of the level)
+[02/07/2023 22:26:40]
+  Ending the round...
+[02/07/2023 22:26:40]
+  Round ended.
+[02/07/2023 22:26:57]
+  Gamemode changed to Миссия
+[02/07/2023 22:27:54]
+  Client "kynlan4ic" started the round.
+[02/07/2023 22:27:54]
+  Starting a new round...
+[02/07/2023 22:27:56]
+  Миссия: Вернуть аванпост
+[02/07/2023 22:27:56]
+  Недавно пропала связь с аванпостом Исследовательский центр Milda, и мы подозреваем, что там свили гнездо враждебные твари. Найдите все яйца и уничтожьте, чтобы зачистить аванпост.
+[02/07/2023 22:27:56]
+  Game mode: Миссия
+[02/07/2023 22:27:56]
+  Submarine: Dugong
+[02/07/2023 22:27:56]
+  Level seed: OKbo4fGr
+[02/07/2023 22:27:56]
+  Mission: Вернуть аванпост
+[02/07/2023 22:27:57]
+  Round started.
+[02/07/2023 22:28:03]
+  Everette Duplantier: Яви нам свою силу!
+[02/07/2023 22:28:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/07/2023 22:28:15]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/07/2023 22:28:18]
+  kynlan4ic picked up Подводная маска
+[02/07/2023 22:28:18]
+  kynlan4ic picked up Кислородный баллон
+[02/07/2023 22:28:18]
+  Inner wall breached by Mudraptor
+[02/07/2023 22:28:19]
+  Игрок  Daniels  присоединился к серверу.
+[02/07/2023 22:28:19]
+  Saving client permissions
+[02/07/2023 22:28:19]
+  kynlan4ic picked up Кислородный баллон
+[02/07/2023 22:28:20]
+   Daniels  покидает сервер.
+[02/07/2023 22:28:20]
+  kynlan4ic picked up Кислородный баллон
+[02/07/2023 22:28:21]
+  kynlan4ic picked up Кислородный баллон
+[02/07/2023 22:28:32]
+  igameCrog picked up Каликсанид
+[02/07/2023 22:28:36]
+  igameCrog picked up Серная кислота
+[02/07/2023 22:28:37]
+  kynlan4ic picked up Ружье
+[02/07/2023 22:28:38]
+  kynlan4ic picked up Дробовик
+[02/07/2023 22:28:39]
+  Husk has died (Cause of death: Укусы)
+[02/07/2023 22:28:40]
+  kynlan4ic picked up Бронежилет
+[02/07/2023 22:28:40]
+  igameCrog placed Серная кислота in Аптечка (ID: 132)
+[02/07/2023 22:28:41]
+  kynlan4ic picked up Полицейский шлем
+[02/07/2023 22:28:42]
+  igameCrog picked up Этанол
+[02/07/2023 22:28:42]
+  igameCrog picked up Этанол
+[02/07/2023 22:28:49]
+  Игрок  Daniels  присоединился к серверу.
+[02/07/2023 22:28:49]
+  Saving client permissions
+[02/07/2023 22:28:50]
+  Игрок  Daniels  сменил имя на Daniels.
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:50]
+  kynlan4ic picked up Патрон для дробовика
+[02/07/2023 22:28:56]
+  igameCrog picked up Морфин
+[02/07/2023 22:28:58]
+  kynlan4ic equipped Ружье
+[02/07/2023 22:28:58]
+  kynlan4ic equipped Дробовик
+[02/07/2023 22:28:58]
+  igameCrog placed Морфин in Форма врача (ID: 3748)
+[02/07/2023 22:28:58]
+  igameCrog placed Морфин in Форма врача (ID: 3748)
+[02/07/2023 22:29:00]
+  igameCrog placed Каликсанид in Форма врача (ID: 3748)
+[02/07/2023 22:29:01]
+  igameCrog placed Этанол in Форма врача (ID: 3748)
+[02/07/2023 22:29:01]
+  igameCrog placed Этанол in Форма врача (ID: 3748)
+[02/07/2023 22:29:03]
+  kynlan4ic equipped Трубка капитана
+[02/07/2023 22:29:03]
+  igameCrog picked up Подводная маска
+[02/07/2023 22:29:08]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:09]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:09]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:11]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:11]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:11]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:12]
+  kynlan4ic placed Полицейский шлем in Защищенный стальной шкаф (ID: 304)
+[02/07/2023 22:29:12]
+  kynlan4ic removed Шлем стрелка from Защищенный стальной шкаф (ID: 304)
+[02/07/2023 22:29:12]
+  kynlan4ic picked up Шлем стрелка
+[02/07/2023 22:29:13]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:14]
+  igameCrog picked up Кислородный баллон
+[02/07/2023 22:29:20]
+  igameCrog picked up Пояс инструментов
+[02/07/2023 22:29:22]
+  igameCrog picked up Отвертка
+[02/07/2023 22:29:22]
+  igameCrog picked up Гаечный ключ
+[02/07/2023 22:29:26]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:27]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:30]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 3766)
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:37]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:29:38]
+  igameCrog picked up Отвертка
+[02/07/2023 22:30:06]
+  Marin Quinn: kynlan4ic проходит лечение здесь: пункт управления!
+[02/07/2023 22:30:06]
+  Marin Quinn: kynlan4ic чувствует себя хорошо!
+[02/07/2023 22:30:10]
+  igameCrog picked up Водолазный скафандр
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:15]
+  igameCrog picked up Морфин
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:16]
+  igameCrog picked up Бинт
+[02/07/2023 22:30:18]
+  igameCrog picked up Пакет с кровью
+[02/07/2023 22:30:18]
+  igameCrog picked up Пакет с кровью
+[02/07/2023 22:30:23]
+  Marin Quinn equipped Экстракт взрывного граната
+[02/07/2023 22:30:24]
+  igameCrog used item Морфин
+[02/07/2023 22:30:24]
+  Marin Quinn: kynlan4ic нуждается в помощи! Срочно требуется деусицин, опиум, фентанил или экстракт взрывного граната!
+[02/07/2023 22:30:36]
+  igameCrog equipped Водолазный скафандр
+[02/07/2023 22:31:15]
+  igameCrog picked up Плазменный резак
+[02/07/2023 22:31:17]
+  Daniels покидает сервер.
+[02/07/2023 22:31:18]
+  kynlan4ic picked up Подводное ружье
+[02/07/2023 22:31:20]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:31:20]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:31:20]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:31:22]
+  igameCrog picked up Фонарик
+[02/07/2023 22:31:25]
+  igameCrog equipped Фонарик
+[02/07/2023 22:31:26]
+  kynlan4ic equipped Подводное ружье
+[02/07/2023 22:31:34]
+  kynlan4ic equipped Водолазный скафандр
+[02/07/2023 22:31:34]
+  kynlan4ic picked up Водолазный скафандр
+[02/07/2023 22:31:40]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 413)
+[02/07/2023 22:32:00]
+  Inner wall breached by Mudraptor
+[02/07/2023 22:32:03]
+  Inner wall breached by kynlan4ic
+[02/07/2023 22:32:05]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:32:08]
+  igameCrog equipped Плазменный резак
+[02/07/2023 22:32:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:32:15]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:32:18]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:32:19]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/07/2023 22:32:21]
+  kynlan4ic equipped Кислородный баллон
+[02/07/2023 22:32:21]
+  igameCrog equipped Бинт
+[02/07/2023 22:32:23]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 27.8 Кровотечение: 14.9 Оглушение: 0.6 Оглушение: 0.9
+[02/07/2023 22:32:25]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:32:26]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:32:26]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:32:29]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:32:29]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:32:29]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:32:29]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:32:29]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:32:29]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:32:33]
+  igameCrog picked up Гидроксиапатит
+[02/07/2023 22:32:33]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:32:40]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:32:47]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:33:05]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:33:07]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 52.5 Кровотечение: 52.5 Оглушение: 0.5
+[02/07/2023 22:33:28]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:33:30]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:33:37]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/07/2023 22:33:37]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:33:40]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 27.8 Кровотечение: 14.9 Оглушение: 0.6 Оглушение: 0.9
+[02/07/2023 22:33:42]
+  igameCrog picked up Останки водолаза
+[02/07/2023 22:33:47]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:33:47]
+  igameCrog placed Гидроксиапатит in Пояс инструментов (ID: 3766)
+[02/07/2023 22:33:47]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:33:54]
+  igameCrog used item Морфин
+[02/07/2023 22:33:58]
+  igameCrog used item Бинт
+[02/07/2023 22:34:14]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:34:25]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:34:25]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:34:25]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:34:25]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:34:25]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:34:25]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:34:25]
+  kynlan4ic removed Гарпун from Подводное ружье (ID: 3271)
+[02/07/2023 22:34:30]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:35:05]
+  igameCrog used item Пакет с кровью
+[02/07/2023 22:35:10]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 3484)
+[02/07/2023 22:35:13]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 27.8 Кровотечение: 14.9 Оглушение: 0.6
+[02/07/2023 22:35:14]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3484)
+[02/07/2023 22:35:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[02/07/2023 22:35:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[02/07/2023 22:35:21]
+  Mudraptor has died (Cause of death: Огнестрельная рана)
+[02/07/2023 22:35:21]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 27.8 Кровотечение: 14.9 Оглушение: 0.6
+[02/07/2023 22:35:58]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/07/2023 22:35:58]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/07/2023 22:36:15]
+  igameCrog equipped Отвертка
+[02/07/2023 22:36:24]
+  igameCrog connected a wire from Лампа (power) to Кабельная коробка (power)
+[02/07/2023 22:36:29]
+  igameCrog disconnected a wire from Лампа (power) to Кабельная коробка (power)
+[02/07/2023 22:36:29]
+  igameCrog connected a wire from Лампа (toggle) to Кабельная коробка (power)
+[02/07/2023 22:36:31]
+  igameCrog disconnected a wire from Лампа (toggle) to Кабельная коробка (power)
+[02/07/2023 22:36:31]
+  igameCrog connected a wire from Лампа (set_state) to Кабельная коробка (power)
+[02/07/2023 22:36:34]
+  igameCrog disconnected a wire from Лампа (set_state) to Кабельная коробка (power)
+[02/07/2023 22:36:50]
+  igameCrog failed to repair Кабельная коробка
+[02/07/2023 22:36:51]
+  igameCrog failed to repair Кабельная коробка
+[02/07/2023 22:36:52]
+  igameCrog started repairing Кабельная коробка
+[02/07/2023 22:37:20]
+  igameCrog failed to repair Кабельная коробка
+[02/07/2023 22:37:21]
+  igameCrog started repairing Кабельная коробка
+[02/07/2023 22:37:40]
+  igameCrog started repairing Кабельная коробка
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:43]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:37:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:16]
+  igameCrog used item Морфин
+[02/07/2023 22:38:25]
+  igameCrog used item Морфин
+[02/07/2023 22:38:26]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:34]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:38]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:45]
+  igameCrog connected a wire from Лампа (power) to Кабельная коробка (power)
+[02/07/2023 22:38:45]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:38:45]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:38:45]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:38:45]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:38:46]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:47]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:53]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:38:55]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:38:55]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:38:56]
+  Mudraptor has died (Cause of death: Огнестрельная рана)
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:38:56]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:39:03]
+  igameCrog used item Бинт
+[02/07/2023 22:39:06]
+  igameCrog used item Пакет с кровью
+[02/07/2023 22:39:22]
+  igameCrog used item Морфин
+[02/07/2023 22:39:26]
+  igameCrog used item Морфин
+[02/07/2023 22:39:28]
+  igameCrog used item Бинт
+[02/07/2023 22:39:40]
+  igameCrog connected a wire from Лампа (power) to Кабельная коробка (power)
+[02/07/2023 22:39:45]
+  igameCrog connected a wire from Лампа (power) to Кабельная коробка (power)
+[02/07/2023 22:40:14]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 3484)
+[02/07/2023 22:40:15]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3484)
+[02/07/2023 22:40:25]
+  Eleanor Suarez: Знаешь, мне на днях пришла отличная предпринимательская идея.
+[02/07/2023 22:40:30]
+  Eleanor Suarez: Вот послушай. Мы станем богачами.
+[02/07/2023 22:40:33]
+  Eleanor Suarez: Водонепроницаемые кабельные коробки!
+[02/07/2023 22:40:37]
+  Eleanor Suarez: Гениально, да?
+[02/07/2023 22:40:38]
+  Marin Quinn: Не просто же так в них оставляют крохотные вентиляционные отверстия. Они для чего-то нужны.
+[02/07/2023 22:40:43]
+  Marin Quinn: Иначе бы их давно сделали водонепроницаемыми.
+[02/07/2023 22:41:09]
+  kynlan4ic equipped Фентанил
+[02/07/2023 22:41:09]
+  kynlan4ic picked up Фентанил
+[02/07/2023 22:41:11]
+  kynlan4ic placed Фентанил in Медицинский отсек (ID: 2834)
+[02/07/2023 22:41:26]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 3498)
+[02/07/2023 22:41:32]
+  igameCrog picked up Морфин
+[02/07/2023 22:41:33]
+  igameCrog picked up Бинт
+[02/07/2023 22:41:33]
+  igameCrog picked up Бинт
+[02/07/2023 22:41:39]
+  igameCrog picked up Деусицин
+[02/07/2023 22:41:43]
+  igameCrog picked up Морфин
+[02/07/2023 22:41:54]
+  igameCrog removed Кислородный баллон from Плазменный резак (ID: 3270)
+[02/07/2023 22:41:56]
+  igameCrog placed Кислородный баллон in Плазменный резак (ID: 3270)
+[02/07/2023 22:42:57]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:43:09]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:43:09]
+  igameCrog placed Пакет с кровью in Пояс инструментов (ID: 3766)
+[02/07/2023 22:43:09]
+  igameCrog placed Пакет с кровью in Пояс инструментов (ID: 3766)
+[02/07/2023 22:43:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:43:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:43:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:43:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:43:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:19]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/07/2023 22:43:20]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:43:24]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 0.8
+[02/07/2023 22:43:29]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:43:39]
+  Everette Duplantier started repairing Навигационный терминал
+[02/07/2023 22:43:45]
+  igameCrog placed Деусицин in Аптечка (ID: 2663)
+[02/07/2023 22:43:49]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:43:55]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:44:02]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:44:13]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:44:14]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:44:14]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:44:14]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:44:14]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:44:19]
+  igameCrog equipped Шприц-пистолет
+[02/07/2023 22:44:28]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:44:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:44:31]
+  Outer wall breached by kynlan4ic
+[02/07/2023 22:44:32]
+  Eleanor Leonard equipped Отвертка
+[02/07/2023 22:44:34]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:44:37]
+  Eleanor Leonard started repairing Ядерный реактор
+[02/07/2023 22:44:38]
+  Armanda Gould equipped Отвертка
+[02/07/2023 22:44:40]
+  Armanda Gould failed to repair Кабельная коробка
+[02/07/2023 22:44:44]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:44:45]
+  Armanda Gould started repairing Кабельная коробка
+[02/07/2023 22:44:49]
+  Eleanor Leonard failed to repair Кабельная коробка
+[02/07/2023 22:44:53]
+  Eleanor Leonard started repairing Кабельная коробка
+[02/07/2023 22:44:54]
+  Armanda Gould unequipped Отвертка
+[02/07/2023 22:44:54]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:44:54]
+  Eleanor Leonard unequipped Отвертка
+[02/07/2023 22:44:55]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:45:03]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:45:05]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:45:07]
+  igameCrog picked up Морфин
+[02/07/2023 22:45:07]
+  igameCrog picked up Морфин
+[02/07/2023 22:45:07]
+  igameCrog picked up Морфин
+[02/07/2023 22:45:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:45:10]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:45:11]
+  Janee Poole equipped Гаечный ключ
+[02/07/2023 22:45:11]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 3484)
+[02/07/2023 22:45:13]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3484)
+[02/07/2023 22:45:15]
+  kynlan4ic equipped Револьвер
+[02/07/2023 22:45:15]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[02/07/2023 22:45:16]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.5 Оглушение: 0.3
+[02/07/2023 22:45:17]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/07/2023 22:45:17]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/07/2023 22:45:17]
+  Eleanor Leonard: Загружаю в реактор дополнительное топливо!
+[02/07/2023 22:45:22]
+  Eleanor Leonard equipped Топливный стержень
+[02/07/2023 22:45:22]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:45:22]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:45:22]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3751)
+[02/07/2023 22:45:24]
+  Janee Poole started repairing Генератор кислорода
+[02/07/2023 22:45:27]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:45:27]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:45:34]
+  Janee Poole unequipped Гаечный ключ
+[02/07/2023 22:45:37]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:45:41]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:45:41]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:45:41]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:45:41]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:46:30]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:46:34]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:46:37]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:46:39]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:46:42]
+  igameCrog attacked by kynlan4ic. Рваная рана: 12.3 Кровотечение: 18.4 Оглушение: 0.5
+[02/07/2023 22:46:44]
+  Everette Duplantier started repairing Монитор состояния
+[02/07/2023 22:46:46]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:46:52]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/07/2023 22:46:52]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/07/2023 22:46:54]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:46:56]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:46:56]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:46:57]
+  igameCrog used item Пакет с кровью
+[02/07/2023 22:46:59]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:46:59]
+  igameCrog used item Бинт
+[02/07/2023 22:47:05]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:47:06]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:47:06]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:47:08]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:47:08]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:47:11]
+  igameCrog used item Морфин
+[02/07/2023 22:47:12]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:47:26]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:47:36]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:48:05]
+  Eleanor Leonard equipped Отвертка
+[02/07/2023 22:48:11]
+  Eleanor Leonard started repairing Кабельная коробка
+[02/07/2023 22:48:17]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:48:17]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:48:19]
+  kynlan4ic placed Подводное ружье in Средний стальной шкаф (ID: 2088)
+[02/07/2023 22:48:19]
+  kynlan4ic removed Гарпун from Средний стальной шкаф (ID: 2088)
+[02/07/2023 22:48:19]
+  kynlan4ic picked up Гарпун
+[02/07/2023 22:48:20]
+  kynlan4ic picked up Подводное ружье
+[02/07/2023 22:48:21]
+  Eleanor Leonard unequipped Отвертка
+[02/07/2023 22:48:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3739)
+[02/07/2023 22:48:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3739)
+[02/07/2023 22:48:22]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 3739)
+[02/07/2023 22:48:26]
+  kynlan4ic placed Ружейный патрон in Ружье (ID: 3500)
+[02/07/2023 22:48:26]
+  kynlan4ic placed Ружейный патрон in Ружье (ID: 3500)
+[02/07/2023 22:48:26]
+  kynlan4ic placed Ружейный патрон in Ружье (ID: 3500)
+[02/07/2023 22:48:29]
+  kynlan4ic picked up ЭМ-граната
+[02/07/2023 22:48:31]
+  kynlan4ic placed Фуражка мятежника in Средний стальной шкаф (ID: 2088)
+[02/07/2023 22:48:31]
+  kynlan4ic removed Взрывной гарпун from Средний стальной шкаф (ID: 2088)
+[02/07/2023 22:48:31]
+  kynlan4ic removed Взрывной гарпун from Средний стальной шкаф (ID: 2088)
+[02/07/2023 22:48:31]
+  kynlan4ic removed Взрывной гарпун from Средний стальной шкаф (ID: 2088)
+[02/07/2023 22:48:31]
+  kynlan4ic picked up Взрывной гарпун
+[02/07/2023 22:48:31]
+  kynlan4ic picked up Взрывной гарпун
+[02/07/2023 22:48:31]
+  kynlan4ic picked up Взрывной гарпун
+[02/07/2023 22:48:42]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:48:51]
+  Inner wall breached by kynlan4ic
+[02/07/2023 22:48:54]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:48:59]
+  Mudraptor attacked by kynlan4ic. Огнестрельная рана: 27.8 Кровотечение: 14.9 Оглушение: 0.6
+[02/07/2023 22:49:05]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3271)
+[02/07/2023 22:49:07]
+  Everette Duplantier equipped Отвертка
+[02/07/2023 22:49:10]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 3.5 Оглушение: 0.5
+[02/07/2023 22:49:12]
+  Outer wall breached by kynlan4ic
+[02/07/2023 22:49:15]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:49:17]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.5
+[02/07/2023 22:49:25]
+  Everette Duplantier failed to repair Кабельная коробка
+[02/07/2023 22:49:30]
+  Everette Duplantier started repairing Кабельная коробка
+[02/07/2023 22:49:40]
+  Everette Duplantier unequipped Отвертка
+[02/07/2023 22:49:42]
+  igameCrog used item Пакет с кровью
+[02/07/2023 22:49:53]
+  Janee Poole: Внутрь.
+[02/07/2023 22:49:53]
+  Outer wall breached by Mudraptor
+[02/07/2023 22:49:54]
+  Janee Poole: Нырять глубже? Нет, нырять внутрь.
+[02/07/2023 22:49:57]
+  Maudie Parks: Что за каша у тебя в голове?
+[02/07/2023 22:50:00]
+  Burt Phoenix equipped Сварочный аппарат
+[02/07/2023 22:50:01]
+  Outer wall breached by Mudraptor
+[02/07/2023 22:50:04]
+  Burt Phoenix: Пункт управления: протечек не осталось!
+[02/07/2023 22:50:04]
+  Outer wall breached by Mudraptor
+[02/07/2023 22:50:05]
+  Burt Phoenix unequipped Сварочный аппарат
+[02/07/2023 22:50:07]
+  Janee Poole equipped Сварочный аппарат
+[02/07/2023 22:50:10]
+  Janee Poole unequipped Сварочный аппарат
+[02/07/2023 22:50:12]
+  Burt Phoenix equipped Сварочный аппарат
+[02/07/2023 22:50:13]
+  Outer wall breached by Mudraptor
+[02/07/2023 22:50:13]
+  Outer wall repaired by Burt Phoenix
+[02/07/2023 22:50:14]
+  Burt Phoenix: Моторный отсек: все протечки устранены!
+[02/07/2023 22:50:14]
+  Burt Phoenix unequipped Сварочный аппарат
+[02/07/2023 22:50:19]
+  Everette Duplantier equipped Сварочный аппарат
+[02/07/2023 22:50:23]
+  Everette Duplantier unequipped Сварочный аппарат
+[02/07/2023 22:50:32]
+  Armanda Gould equipped Сварочный аппарат
+[02/07/2023 22:50:35]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[02/07/2023 22:50:35]
+  Outer wall breached by Mudraptor
+[02/07/2023 22:50:36]
+  Armanda Gould unequipped Сварочный аппарат
+[02/07/2023 22:50:39]
+  Marin Quinn: kynlan4ic получает первую помощь здесь: пункт управления!
+[02/07/2023 22:50:39]
+  Edgar Dyer equipped Сварочный аппарат
+[02/07/2023 22:50:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:39]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.9
+[02/07/2023 22:50:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:40]
+  Outer wall breached by kynlan4ic
+[02/07/2023 22:50:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:40]
+  Edgar Dyer unequipped Сварочный аппарат
+[02/07/2023 22:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:41]
+  Everette Duplantier equipped Сварочный аппарат
+[02/07/2023 22:50:41]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/07/2023 22:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:41]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.9
+[02/07/2023 22:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:41]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/07/2023 22:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:42]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/07/2023 22:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:42]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/07/2023 22:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:42]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/07/2023 22:50:42]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/07/2023 22:50:42]
+  Marin Quinn: Мне требуется деусицин, физраствор, опиум или фентанил!
+[02/07/2023 22:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/07/2023 22:50:42]
+  Marin Quinn equipped Бинт
+[02/07/2023 22:50:42]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.9
+[02/07/2023 22:50:44]
+  Armanda Gould equipped Сварочный аппарат
+[02/07/2023 22:50:46]
+  Everette Duplantier unequipped Сварочный аппарат
+[02/07/2023 22:50:46]
+  Janee Poole equipped Сварочный аппарат
+[02/07/2023 22:50:46]
+  Armanda Gould unequipped Сварочный аппарат
+[02/07/2023 22:50:53]
+  Janee Poole unequipped Сварочный аппарат
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  igameCrog picked up Физраствор
+[02/07/2023 22:50:54]
+  Marin Quinn: Мне жаль, kynlan4ic, это все, что я могу сделать!
+[02/07/2023 22:50:55]
+  Marin Quinn equipped Экстракт взрывного граната
+[02/07/2023 22:50:58]
+  Client "kynlan4ic" ended the round.
+[02/07/2023 22:50:58]
+  Ending the round...

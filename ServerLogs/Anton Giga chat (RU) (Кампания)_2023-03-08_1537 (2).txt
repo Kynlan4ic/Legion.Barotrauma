@@ -1,0 +1,1600 @@
+﻿[03/08/2023 15:24:17]
+  АЛАХ adjusted reactor settings: Temperature: 1321, Fission rate: 38, Turbine output: 8, Autotemp OFF
+[03/08/2023 15:24:18]
+  АЛАХ adjusted reactor settings: Temperature: 2321, Fission rate: 46, Turbine output: 13, Autotemp OFF
+[03/08/2023 15:24:19]
+  АЛАХ adjusted reactor settings: Temperature: 3321, Fission rate: 56, Turbine output: 18, Autotemp OFF
+[03/08/2023 15:24:21]
+  Client "kynlan4ic" banned "Нико Белли".
+[03/08/2023 15:24:21]
+  Игрок Нико Белли заблокирован на этом сервере. Причина: РУИНА
+[03/08/2023 15:24:21]
+  Saving banlist
+[03/08/2023 15:24:21]
+  АЛАХ adjusted reactor settings: Temperature: 5054, Fission rate: 62, Turbine output: 25, Autotemp OFF
+[03/08/2023 15:24:22]
+  АЛАХ adjusted reactor settings: Temperature: 6071, Fission rate: 52, Turbine output: 31, Autotemp OFF
+[03/08/2023 15:24:23]
+  АЛАХ adjusted reactor settings: Temperature: 7071, Fission rate: 37, Turbine output: 36, Autotemp OFF
+[03/08/2023 15:24:24]
+  АЛАХ adjusted reactor settings: Temperature: 8071, Fission rate: 27, Turbine output: 41, Autotemp OFF
+[03/08/2023 15:24:25]
+  АЛАХ adjusted reactor settings: Temperature: 7387, Fission rate: 23, Turbine output: 45, Autotemp OFF
+[03/08/2023 15:24:26]
+  АЛАХ adjusted reactor settings: Temperature: 6371, Fission rate: 20, Turbine output: 50, Autotemp OFF
+[03/08/2023 15:24:26]
+  kynlan4ic dropped Водолазный скафандр
+[03/08/2023 15:24:27]
+  АЛАХ adjusted reactor settings: Temperature: 5354, Fission rate: 17, Turbine output: 55, Autotemp OFF
+[03/08/2023 15:24:28]
+  Супостат499 picked up Подводная маска
+[03/08/2023 15:24:28]
+  АЛАХ adjusted reactor settings: Temperature: 4354, Fission rate: 29, Turbine output: 60, Autotemp OFF
+[03/08/2023 15:24:29]
+  Терентий (as Bennie Tootle) disconnected a wire from Кнопка (signal_out) to Компонент проверки сигнала (signal_in)
+[03/08/2023 15:24:29]
+  АЛАХ adjusted reactor settings: Temperature: 3354, Fission rate: 31, Turbine output: 63, Autotemp OFF
+[03/08/2023 15:24:30]
+  АЛАХ adjusted reactor settings: Temperature: 3725, Fission rate: 33, Turbine output: 65, Autotemp OFF
+[03/08/2023 15:24:30]
+  Супостат499 picked up Водолазный скафандр
+[03/08/2023 15:24:31]
+  АЛАХ adjusted reactor settings: Temperature: 4526, Fission rate: 41, Turbine output: 71, Autotemp OFF
+[03/08/2023 15:24:32]
+  Игрок StreaK присоединился к серверу.
+[03/08/2023 15:24:32]
+  Saving client permissions
+[03/08/2023 15:24:33]
+  АЛАХ adjusted reactor settings: Temperature: 5443, Fission rate: 40, Turbine output: 77, Autotemp OFF
+[03/08/2023 15:24:33]
+  Супостат499 picked up Удостоверение личности
+[03/08/2023 15:24:34]
+  АЛАХ adjusted reactor settings: Temperature: 4859, Fission rate: 39, Turbine output: 82, Autotemp OFF
+[03/08/2023 15:24:35]
+  АЛАХ adjusted reactor settings: Temperature: 4910, Fission rate: 43, Turbine output: 86, Autotemp OFF
+[03/08/2023 15:24:35]
+  Somhar picked up Защитный комплект
+[03/08/2023 15:24:35]
+  Somhar equipped Пояс инструментов
+[03/08/2023 15:24:35]
+  Somhar picked up Пояс инструментов
+[03/08/2023 15:24:36]
+  Somhar picked up Ручной сонар
+[03/08/2023 15:24:36]
+  Somhar picked up Сварочный аппарат
+[03/08/2023 15:24:37]
+  АЛАХ adjusted reactor settings: Temperature: 4962, Fission rate: 43, Turbine output: 91, Autotemp ON
+[03/08/2023 15:24:37]
+  Somhar picked up Отвертка
+[03/08/2023 15:24:37]
+  Тра Хаебка: да он то какраз ниче не делал
+[03/08/2023 15:24:38]
+  Somhar picked up Гаечный ключ
+[03/08/2023 15:24:38]
+  Супостат499 picked up Наушники
+[03/08/2023 15:24:43]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:24:44]
+  Somhar placed Пояс инструментов in Деконструктор (ID: 762)
+[03/08/2023 15:24:44]
+  Somhar placed Гаечный ключ in Деконструктор (ID: 762)
+[03/08/2023 15:24:45]
+  Somhar placed Отвертка in Деконструктор (ID: 762)
+[03/08/2023 15:24:45]
+  Somhar activated Деконструктор
+[03/08/2023 15:24:55]
+  Матрос Иван Артемов picked up Аккордеон
+[03/08/2023 15:24:56]
+  Матрос Иван Артемов equipped Аккордеон
+[03/08/2023 15:24:57]
+  igameCrog dropped Водолазный скафандр
+[03/08/2023 15:25:00]
+  Супостат499 placed Наушники in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:25:01]
+  Супостат499 placed Удостоверение личности in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:25:01]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:03]
+  nigaдяй failed to repair Генератор кислорода челнока
+[03/08/2023 15:25:03]
+  igameCrog started repairing Монитор состояния
+[03/08/2023 15:25:03]
+  Тра Хаебка: он наоборот помогал вам
+[03/08/2023 15:25:04]
+  Somhar picked up Наушники
+[03/08/2023 15:25:05]
+  Somhar picked up Удостоверение личности
+[03/08/2023 15:25:09]
+  nigaдяй started repairing Генератор кислорода челнока
+[03/08/2023 15:25:09]
+  Тра Хаебка: ебейшие кста бутеры взял
+[03/08/2023 15:25:09]
+  Супостат499 dropped Водолазный скафандр
+[03/08/2023 15:25:10]
+  Somhar dropped Удостоверение личности
+[03/08/2023 15:25:15]
+  igameCrog started repairing Навигационный терминал
+[03/08/2023 15:25:18]
+  Somhar deactivated Деконструктор
+[03/08/2023 15:25:19]
+  Тра Хаебка: с маслом и колбасой копченой
+[03/08/2023 15:25:21]
+  Тра Хаебка: ухх сука
+[03/08/2023 15:25:27]
+  Somhar adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:28]
+  Somhar adjusted reactor settings: Temperature: 411, Fission rate: 5, Turbine output: 5, Autotemp OFF
+[03/08/2023 15:25:29]
+  igameCrog adjusted reactor settings: Temperature: 804, Fission rate: 3, Turbine output: 10, Autotemp OFF
+[03/08/2023 15:25:30]
+  igameCrog adjusted reactor settings: Temperature: 1804, Fission rate: 33, Turbine output: 54, Autotemp ON
+[03/08/2023 15:25:31]
+  Somhar adjusted reactor settings: Temperature: 2804, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:31]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:31]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:36]
+  igameCrog adjusted reactor settings: Temperature: 36, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:37]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:37]
+  igameCrog adjusted reactor settings: Temperature: 343, Fission rate: 5, Turbine output: 5, Autotemp ON
+[03/08/2023 15:25:38]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:38]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:38]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:40]
+  igameCrog adjusted reactor settings: Temperature: 58, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:41]
+  igameCrog adjusted reactor settings: Temperature: 1016, Fission rate: 5, Turbine output: 5, Autotemp ON
+[03/08/2023 15:25:43]
+  kynlan4ic adjusted reactor settings: Temperature: 3066, Fission rate: 14, Turbine output: 18, Autotemp ON
+[03/08/2023 15:25:44]
+  Somhar placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 921)
+[03/08/2023 15:25:45]
+  Somhar picked up Компонент "Округление"
+[03/08/2023 15:25:46]
+  Somhar picked up Компонент "Арксинус"
+[03/08/2023 15:25:46]
+  kynlan4ic adjusted reactor settings: Temperature: 5849, Fission rate: 20, Turbine output: 36, Autotemp ON
+[03/08/2023 15:25:46]
+  Somhar equipped Текстовый экран
+[03/08/2023 15:25:46]
+  Somhar picked up Текстовый экран
+[03/08/2023 15:25:47]
+  Dispatching the respawn shuttle.
+[03/08/2023 15:25:47]
+  Respawning Waltuh (STEAM_1:0:207971231) as Помощник
+[03/08/2023 15:25:47]
+  Respawning StreaK (STEAM_1:1:607263841) as Механик
+[03/08/2023 15:25:49]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:49]
+  Waltuh set the value "Channel" of the item "Наушники" to "0".
+[03/08/2023 15:25:49]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:49]
+  kynlan4ic adjusted reactor settings: Temperature: 3681, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:49]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:49]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:49]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:25:51]
+  igameCrog adjusted reactor settings: Temperature: 2388, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:52]
+  igameCrog adjusted reactor settings: Temperature: 2280, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:25:53]
+  igameCrog adjusted reactor settings: Temperature: 2252, Fission rate: 2, Turbine output: 2, Autotemp OFF
+[03/08/2023 15:25:55]
+  igameCrog adjusted reactor settings: Temperature: 3139, Fission rate: 9, Turbine output: 9, Autotemp ON
+[03/08/2023 15:25:58]
+  Тра Хаебка: эти дауны двух руинеров не могут найти чтоб ты понимал
+[03/08/2023 15:26:02]
+  Somhar activated Деконструктор
+[03/08/2023 15:26:04]
+  Somhar deactivated Деконструктор
+[03/08/2023 15:26:05]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:26:05]
+  Somhar placed Пояс инструментов in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:26:05]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:26:06]
+  Somhar placed Текстовый экран in Деконструктор (ID: 762)
+[03/08/2023 15:26:07]
+  nigaдяй dropped Кислородный баллон
+[03/08/2023 15:26:07]
+  igameCrog adjusted reactor settings: Temperature: 2897, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:26:07]
+  Somhar activated Деконструктор
+[03/08/2023 15:26:08]
+  Somhar picked up Пояс инструментов
+[03/08/2023 15:26:08]
+  igameCrog adjusted reactor settings: Temperature: 1471, Fission rate: 7, Turbine output: 7, Autotemp ON
+[03/08/2023 15:26:11]
+  Somhar placed Пояс инструментов in Хозяйственный шкаф (ID: 1035)
+[03/08/2023 15:26:20]
+  nigaдяй picked up Красный провод
+[03/08/2023 15:26:23]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:26:23]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:26:26]
+  nigaдяй placed Красный провод in Средний стальной шкаф (ID: 921)
+[03/08/2023 15:26:27]
+  igameCrog adjusted reactor settings: Temperature: 1307, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:26:28]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/08/2023 15:26:29]
+  igameCrog adjusted reactor settings: Temperature: 1500, Fission rate: 10, Turbine output: 10, Autotemp ON
+[03/08/2023 15:26:30]
+  Терентий (as Bennie Tootle) picked up Водолазный скафандр
+[03/08/2023 15:26:30]
+  Терентий (as Bennie Tootle) dropped Водолазный скафандр
+[03/08/2023 15:26:32]
+  Somhar dropped Защитный комплект
+[03/08/2023 15:26:34]
+  Somhar picked up Удостоверение личности
+[03/08/2023 15:26:36]
+  Somhar placed Удостоверение личности in Большой стальной шкаф (ID: 780)
+[03/08/2023 15:26:37]
+  StreaK picked up Удостоверение личности
+[03/08/2023 15:26:37]
+  АЛАХ equipped Магазин для ПП
+[03/08/2023 15:26:37]
+  Somhar picked up Защитный комплект
+[03/08/2023 15:26:39]
+  nigaдяй picked up Осветительный компонент
+[03/08/2023 15:26:40]
+  nigaдяй equipped Осветительный компонент
+[03/08/2023 15:26:44]
+  nigaдяй attached Осветительный компонент to a wall
+[03/08/2023 15:26:52]
+  Somhar failed to repair Деконструктор
+[03/08/2023 15:27:01]
+  Waltuh picked up Подводная маска
+[03/08/2023 15:27:01]
+  Waltuh picked up Плазменный резак
+[03/08/2023 15:27:02]
+  Waltuh picked up Лом
+[03/08/2023 15:27:02]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:27:02]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:27:02]
+  Waltuh picked up Ручной сонар
+[03/08/2023 15:27:03]
+  Waltuh picked up Подводный скутер
+[03/08/2023 15:27:03]
+  nigaдяй picked up Красный провод
+[03/08/2023 15:27:03]
+  Waltuh picked up Кислородный баллон
+[03/08/2023 15:27:03]
+  Waltuh picked up Кислородный баллон
+[03/08/2023 15:27:03]
+  Waltuh picked up Кислородный баллон
+[03/08/2023 15:27:04]
+  Waltuh equipped Подводный скутер
+[03/08/2023 15:27:05]
+  igameCrog adjusted reactor settings: Temperature: 1854, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/08/2023 15:27:06]
+  igameCrog adjusted reactor settings: Temperature: 838, Fission rate: 6, Turbine output: 5, Autotemp ON
+[03/08/2023 15:27:06]
+  nigaдяй equipped Красный провод
+[03/08/2023 15:27:08]
+  Waltuh equipped Плазменный резак
+[03/08/2023 15:27:09]
+  nigaдяй connected a wire to Генератор кислорода челнока (condition_out)
+[03/08/2023 15:27:10]
+  Тра Хаебка: сышыш
+[03/08/2023 15:27:11]
+  Тра Хаебка: добавься
+[03/08/2023 15:27:12]
+  Somhar started fabricating Гаечный ключ in Фабрикатор
+[03/08/2023 15:27:12]
+  Тра Хаебка: в стиме
+[03/08/2023 15:27:22]
+  Тра Хаебка: у меня лок на френдов в стиме пиздец я хз
+[03/08/2023 15:27:22]
+  nigaдяй connected a wire from Текстовый экран (set_text) to Генератор кислорода челнока (condition_out)
+[03/08/2023 15:27:25]
+  Тра Хаебка: кинь инвайт
+[03/08/2023 15:27:25]
+  АЛАХ picked up Пояс инструментов
+[03/08/2023 15:27:27]
+  Waltuh equipped Ручной сонар
+[03/08/2023 15:27:27]
+  АЛАХ picked up Отвертка
+[03/08/2023 15:27:27]
+  StreaK покидает сервер.
+[03/08/2023 15:27:28]
+  АЛАХ placed Пояс инструментов in Хозяйственный шкаф (ID: 1035)
+[03/08/2023 15:27:29]
+  Somhar placed Гаечный ключ in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:27:30]
+  The respawn shuttle is leaving.
+[03/08/2023 15:27:30]
+  Somhar started fabricating Отвертка in Фабрикатор
+[03/08/2023 15:27:34]
+  Тра Хаебка: пон пон
+[03/08/2023 15:27:36]
+  igameCrog disconnected a wire from Ядерный реактор (shutdown) to Кнопка (signal_out)
+[03/08/2023 15:27:36]
+  Игрок StreaK присоединился к серверу.
+[03/08/2023 15:27:36]
+  Saving client permissions
+[03/08/2023 15:27:40]
+  Somhar equipped Гаечный ключ
+[03/08/2023 15:27:40]
+  Somhar picked up Гаечный ключ
+[03/08/2023 15:27:44]
+  Терентий (as Bennie Tootle) picked up Бейсболка
+[03/08/2023 15:27:46]
+  Somhar placed Гаечный ключ in Human
+[03/08/2023 15:27:46]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:27:53]
+  Тра Хаебка placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 838)
+[03/08/2023 15:27:53]
+  Тра Хаебка removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 838)
+[03/08/2023 15:27:53]
+  Тра Хаебка picked up Водолазный скафандр
+[03/08/2023 15:27:54]
+  Somhar picked up Отвертка
+[03/08/2023 15:27:56]
+  Somhar placed Отвертка in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:28:01]
+  The respawn shuttle has left.
+[03/08/2023 15:28:03]
+  StreaK picked up Отвертка
+[03/08/2023 15:28:05]
+  Somhar equipped Компонент "Арксинус"
+[03/08/2023 15:28:05]
+  Somhar placed Компонент "Арксинус" in Деконструктор (ID: 762)
+[03/08/2023 15:28:06]
+  Somhar placed Компонент "Округление" in Деконструктор (ID: 762)
+[03/08/2023 15:28:06]
+  Somhar placed Наушники in Деконструктор (ID: 762)
+[03/08/2023 15:28:07]
+  Somhar activated Деконструктор
+[03/08/2023 15:28:08]
+  Somhar deactivated Деконструктор
+[03/08/2023 15:28:09]
+  Somhar activated Деконструктор
+[03/08/2023 15:28:12]
+  АЛАХ placed Отвертка in Пояс инструментов (ID: 3480)
+[03/08/2023 15:28:30]
+  nigaдяй started fabricating Схема на базе ППВМ in Фабрикатор
+[03/08/2023 15:28:32]
+  Somhar placed Сварочный аппарат in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:28:33]
+  Waltuh opened Настраиваемая дверь
+[03/08/2023 15:28:33]
+  Waltuh closed Настраиваемая дверь
+[03/08/2023 15:28:33]
+  Somhar placed Ручной сонар in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:28:34]
+  Somhar picked up Сварочный аппарат
+[03/08/2023 15:28:34]
+  Waltuh opened Настраиваемая дверь
+[03/08/2023 15:28:35]
+  nigaдяй placed Схема на базе ППВМ in Фабрикатор (ID: 763)
+[03/08/2023 15:28:35]
+  Somhar placed Плазменный резак in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:28:36]
+  nigaдяй started fabricating Выключатель in Фабрикатор
+[03/08/2023 15:28:37]
+  Waltuh closed Настраиваемая дверь
+[03/08/2023 15:28:38]
+  Waltuh equipped Гаечный ключ
+[03/08/2023 15:28:38]
+  Waltuh equipped Отвертка
+[03/08/2023 15:28:41]
+  Waltuh started repairing Настраиваемая дверь
+[03/08/2023 15:28:42]
+  nigaдяй picked up Выключатель
+[03/08/2023 15:28:42]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:28:44]
+  Somhar placed Сварочный аппарат in Средний стальной шкаф (ID: 921)
+[03/08/2023 15:28:45]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:28:45]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:28:45]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:28:45]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:28:45]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:28:46]
+  Somhar picked up Гидроксиапатит
+[03/08/2023 15:28:46]
+  Somhar picked up Защитный комплект
+[03/08/2023 15:28:49]
+  Waltuh started repairing Настраиваемая дверь
+[03/08/2023 15:28:49]
+  nigaдяй equipped Выключатель
+[03/08/2023 15:28:50]
+  nigaдяй attached Выключатель to a wall
+[03/08/2023 15:28:55]
+  Waltuh placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 861)
+[03/08/2023 15:28:55]
+  Somhar equipped Вещмешок
+[03/08/2023 15:29:02]
+  АЛАХ picked up Водолазный скафандр
+[03/08/2023 15:29:03]
+  Somhar placed Вещмешок in Деконструктор (ID: 762)
+[03/08/2023 15:29:03]
+  АЛАХ dropped Водолазный скафандр
+[03/08/2023 15:29:03]
+  Somhar placed Гидроксиапатит in Деконструктор (ID: 762)
+[03/08/2023 15:29:04]
+  Somhar placed Защитный комплект in Деконструктор (ID: 762)
+[03/08/2023 15:29:04]
+  Somhar activated Деконструктор
+[03/08/2023 15:29:05]
+  nigaдяй picked up Красный провод
+[03/08/2023 15:29:05]
+  nigaдяй picked up Красный провод
+[03/08/2023 15:29:05]
+  nigaдяй picked up Красный провод
+[03/08/2023 15:29:05]
+  АЛАХ placed Кислородный баллон in Аптечка (ID: 794)
+[03/08/2023 15:29:05]
+  Somhar picked up Пластик
+[03/08/2023 15:29:05]
+  Somhar picked up Пластик
+[03/08/2023 15:29:05]
+  Somhar picked up Пластик
+[03/08/2023 15:29:05]
+  Somhar picked up Пластик
+[03/08/2023 15:29:05]
+  Somhar picked up Пластик
+[03/08/2023 15:29:06]
+  Somhar picked up Олово
+[03/08/2023 15:29:06]
+  Somhar picked up Олово
+[03/08/2023 15:29:06]
+  Somhar picked up Олово
+[03/08/2023 15:29:06]
+  StreaK equipped Гаечный ключ
+[03/08/2023 15:29:06]
+  Somhar picked up Медь
+[03/08/2023 15:29:06]
+  Somhar picked up Медь
+[03/08/2023 15:29:06]
+  Somhar picked up Медь
+[03/08/2023 15:29:06]
+  Somhar picked up Медь
+[03/08/2023 15:29:07]
+  АЛАХ picked up Калий
+[03/08/2023 15:29:07]
+  АЛАХ picked up Калий
+[03/08/2023 15:29:07]
+  АЛАХ picked up Калий
+[03/08/2023 15:29:07]
+  Somhar picked up Железо
+[03/08/2023 15:29:07]
+  Somhar picked up Железо
+[03/08/2023 15:29:07]
+  Somhar picked up Железо
+[03/08/2023 15:29:07]
+  Somhar picked up Кремний
+[03/08/2023 15:29:07]
+  Somhar picked up Кремний
+[03/08/2023 15:29:07]
+  Somhar picked up Кремний
+[03/08/2023 15:29:08]
+  StreaK started repairing Деконструктор
+[03/08/2023 15:29:09]
+  АЛАХ placed Калий in Шкаф для хранения токсинов (ID: 929)
+[03/08/2023 15:29:09]
+  АЛАХ placed Калий in Шкаф для хранения токсинов (ID: 929)
+[03/08/2023 15:29:09]
+  АЛАХ placed Калий in Шкаф для хранения токсинов (ID: 929)
+[03/08/2023 15:29:11]
+  Somhar placed Железо in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:11]
+  Somhar placed Железо in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:11]
+  Somhar placed Железо in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Кремний in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Кремний in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Кремний in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:12]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:13]
+  Somhar placed Олово in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:13]
+  Somhar placed Олово in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:13]
+  Somhar placed Олово in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:14]
+  Somhar placed Пластик in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:14]
+  Somhar placed Пластик in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:14]
+  Somhar placed Пластик in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:14]
+  Somhar placed Пластик in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:14]
+  Somhar placed Пластик in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:29:16]
+  Somhar placed Железо in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:16]
+  Somhar placed Железо in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:16]
+  Somhar placed Железо in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:17]
+  nigaдяй equipped Красный провод
+[03/08/2023 15:29:19]
+  nigaдяй connected a wire to Выключатель (signal_out)
+[03/08/2023 15:29:19]
+  Somhar placed Кремний in Контейнер для хранения (ID: 51)
+[03/08/2023 15:29:19]
+  Somhar placed Кремний in Контейнер для хранения (ID: 51)
+[03/08/2023 15:29:19]
+  Somhar placed Кремний in Контейнер для хранения (ID: 51)
+[03/08/2023 15:29:21]
+  Нико Белли has died (Cause of death: Disconnected)
+[03/08/2023 15:29:21]
+  Somhar placed Медь in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:21]
+  Somhar placed Медь in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:21]
+  Somhar placed Медь in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:21]
+  Somhar placed Медь in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:23]
+  Somhar placed Олово in Контейнер для хранения (ID: 366)
+[03/08/2023 15:29:23]
+  Somhar placed Олово in Контейнер для хранения (ID: 366)
+[03/08/2023 15:29:23]
+  Somhar placed Олово in Контейнер для хранения (ID: 366)
+[03/08/2023 15:29:26]
+  Somhar placed Пластик in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:26]
+  Somhar placed Пластик in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:26]
+  Somhar placed Пластик in Контейнер для хранения (ID: 479)
+[03/08/2023 15:29:27]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:29:27]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:29:30]
+  Somhar placed Защитный комплект in Деконструктор (ID: 762)
+[03/08/2023 15:29:30]
+  Somhar placed Топливный бак сварочного аппарата in Деконструктор (ID: 762)
+[03/08/2023 15:29:30]
+  Somhar placed Топливный бак сварочного аппарата in Деконструктор (ID: 762)
+[03/08/2023 15:29:30]
+  Somhar placed Топливный бак сварочного аппарата in Деконструктор (ID: 762)
+[03/08/2023 15:29:30]
+  Somhar placed Топливный бак сварочного аппарата in Деконструктор (ID: 762)
+[03/08/2023 15:29:30]
+  Somhar placed Топливный бак сварочного аппарата in Деконструктор (ID: 762)
+[03/08/2023 15:29:32]
+  АЛАХ opened Настраиваемая дверь
+[03/08/2023 15:29:36]
+  Матрос Иван Артемов picked up Водолазный скафандр
+[03/08/2023 15:29:38]
+  Somhar picked up Контейнер для хранения
+[03/08/2023 15:29:40]
+  Somhar placed Эсперит in Деконструктор (ID: 762)
+[03/08/2023 15:29:40]
+  Somhar placed Эсперит in Деконструктор (ID: 762)
+[03/08/2023 15:29:40]
+  Somhar placed Эсперит in Деконструктор (ID: 762)
+[03/08/2023 15:29:40]
+  Somhar placed Эсперит in Деконструктор (ID: 762)
+[03/08/2023 15:29:40]
+  Somhar placed Эсперит in Деконструктор (ID: 762)
+[03/08/2023 15:29:41]
+  Somhar activated Деконструктор
+[03/08/2023 15:29:42]
+  nigaдяй connected a wire from Генератор кислорода челнока (power_in) to Выключатель (signal_out)
+[03/08/2023 15:29:43]
+  Somhar placed Контейнер для хранения in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:29:54]
+  Somhar started fabricating Отвертка in Фабрикатор
+[03/08/2023 15:29:56]
+  igameCrog disconnected a wire from Кнопка (signal_out)
+[03/08/2023 15:29:56]
+  igameCrog picked up Красный провод
+[03/08/2023 15:29:58]
+  igameCrog connected a wire from Кнопка (signal_out) to Компонент проверки сигнала (signal_in)
+[03/08/2023 15:29:59]
+  Somhar cancelled the fabrication of Отвертка in Фабрикатор
+[03/08/2023 15:30:03]
+  Somhar placed Железо in Контейнер для хранения (ID: 269)
+[03/08/2023 15:30:03]
+  Somhar placed Железо in Контейнер для хранения (ID: 269)
+[03/08/2023 15:30:05]
+  Somhar started fabricating Пластик in Фабрикатор
+[03/08/2023 15:30:06]
+  Waltuh started repairing Фабрикатор
+[03/08/2023 15:30:08]
+  nigaдяй started repairing Кабельная коробка
+[03/08/2023 15:30:13]
+  Waltuh started repairing Фабрикатор
+[03/08/2023 15:30:14]
+  nigaдяй equipped Красный провод
+[03/08/2023 15:30:17]
+  nigaдяй started repairing Кабельная коробка
+[03/08/2023 15:30:22]
+  Somhar disconnected a wire from Насос (toggle) to Навигационный терминал (velocity_y_out)
+[03/08/2023 15:30:22]
+  Somhar connected a wire from Насос (set_targetlevel) to Навигационный терминал (velocity_y_out)
+[03/08/2023 15:30:28]
+  nigaдяй equipped Красный провод
+[03/08/2023 15:30:29]
+  Тра Хаебка: терентий кинь инвайт в стим
+[03/08/2023 15:30:35]
+  StreaK picked up Сварочный аппарат
+[03/08/2023 15:30:36]
+  nigaдяй started repairing Кабельная коробка
+[03/08/2023 15:30:38]
+  StreaK picked up Топливный бак сварочного аппарата
+[03/08/2023 15:30:39]
+  StreaK picked up Топливный бак сварочного аппарата
+[03/08/2023 15:30:40]
+  Терентий: зач
+[03/08/2023 15:30:40]
+  Матрос Иван Артемов equipped Водолазный скафандр
+[03/08/2023 15:30:41]
+  Somhar started repairing Малый насос
+[03/08/2023 15:30:42]
+  Матрос Иван Артемов dropped Водолазный скафандр
+[03/08/2023 15:30:45]
+  Тра Хаебка: ну я бы тебе сам кинул
+[03/08/2023 15:30:46]
+  Терентий (as Bennie Tootle) picked up Кислородный баллон
+[03/08/2023 15:30:47]
+  Терентий (as Bennie Tootle) placed Кислородный баллон in Водолазный скафандр (ID: 195)
+[03/08/2023 15:30:48]
+  Тра Хаебка: а у меня локнут
+[03/08/2023 15:30:49]
+  StreaK покидает сервер.
+[03/08/2023 15:30:54]
+  Тра Хаебка: типа сказали я слишком часто
+[03/08/2023 15:30:54]
+  АЛАХ picked up Гаечный ключ
+[03/08/2023 15:30:55]
+  АЛАХ picked up Отвертка
+[03/08/2023 15:30:56]
+  Тра Хаебка: в друзя добавляюс
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:57]
+  Somhar placed Пластик in Контейнер для хранения (ID: 51)
+[03/08/2023 15:30:59]
+  Игрок StreaK присоединился к серверу.
+[03/08/2023 15:30:59]
+  Saving client permissions
+[03/08/2023 15:31:01]
+  Somhar started fabricating Стальной слиток in Фабрикатор
+[03/08/2023 15:31:01]
+  Тра Хаебка: инелзя мне какоето время
+[03/08/2023 15:31:02]
+  АЛАХ placed Отвертка in Средний стальной шкаф (ID: 758)
+[03/08/2023 15:31:03]
+  АЛАХ placed Гаечный ключ in Средний стальной шкаф (ID: 758)
+[03/08/2023 15:31:04]
+  АЛАХ picked up Топливный бак сварочного аппарата
+[03/08/2023 15:31:04]
+  АЛАХ picked up Топливный бак сварочного аппарата
+[03/08/2023 15:31:04]
+  nigaдяй set the value "FalseOutput" of the item "Детектор воды" to "1324444444".
+[03/08/2023 15:31:10]
+  nigaдяй set the value "Output" of the item "Детектор воды" to "0324444444444".
+[03/08/2023 15:31:20]
+  АЛАХ placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:31:20]
+  АЛАХ placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:31:24]
+  Somhar placed Стальной слиток in Контейнер для хранения (ID: 269)
+[03/08/2023 15:31:24]
+  Somhar placed Стальной слиток in Контейнер для хранения (ID: 269)
+[03/08/2023 15:31:24]
+  Somhar placed Стальной слиток in Контейнер для хранения (ID: 269)
+[03/08/2023 15:31:28]
+  Waltuh failed to repair Насос
+[03/08/2023 15:31:34]
+  Waltuh started repairing Насос
+[03/08/2023 15:31:35]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:31:35]
+  Somhar picked up Топливный бак сварочного аппарата
+[03/08/2023 15:31:36]
+  Somhar picked up Контейнер для хранения
+[03/08/2023 15:31:37]
+  Somhar placed Криолит in Деконструктор (ID: 762)
+[03/08/2023 15:31:37]
+  Somhar placed Криолит in Деконструктор (ID: 762)
+[03/08/2023 15:31:37]
+  Somhar placed Криолит in Деконструктор (ID: 762)
+[03/08/2023 15:31:37]
+  Somhar placed Криолит in Деконструктор (ID: 762)
+[03/08/2023 15:31:37]
+  Somhar placed Криолит in Деконструктор (ID: 762)
+[03/08/2023 15:31:37]
+  Somhar placed Криолит in Деконструктор (ID: 762)
+[03/08/2023 15:31:38]
+  Somhar placed Галена in Деконструктор (ID: 762)
+[03/08/2023 15:31:38]
+  Somhar placed Галена in Деконструктор (ID: 762)
+[03/08/2023 15:31:38]
+  Somhar placed Галена in Деконструктор (ID: 762)
+[03/08/2023 15:31:39]
+  Somhar placed Трифилин in Деконструктор (ID: 762)
+[03/08/2023 15:31:39]
+  Somhar placed Трифилин in Деконструктор (ID: 762)
+[03/08/2023 15:31:39]
+  Somhar placed Трифилин in Деконструктор (ID: 762)
+[03/08/2023 15:31:39]
+  Somhar placed Трифилин in Деконструктор (ID: 762)
+[03/08/2023 15:31:39]
+  Somhar placed Трифилин in Деконструктор (ID: 762)
+[03/08/2023 15:31:42]
+  Somhar activated Деконструктор
+[03/08/2023 15:31:45]
+  Somhar placed Контейнер для хранения in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:31:47]
+  Матрос Иван Артемов dropped Аккордеон
+[03/08/2023 15:31:50]
+  Матрос Иван Артемов unequipped Аккордеон
+[03/08/2023 15:31:53]
+  Матрос Иван Артемов equipped Аккордеон
+[03/08/2023 15:31:53]
+  Somhar placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 921)
+[03/08/2023 15:31:53]
+  Somhar placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 921)
+[03/08/2023 15:31:54]
+  Waltuh started repairing Деконструктор
+[03/08/2023 15:31:57]
+  Waltuh started repairing Деконструктор
+[03/08/2023 15:32:02]
+  АЛАХ removed Одноразовый водолазный скафандр from Шкаф для подводного снаряжения (ID: 861)
+[03/08/2023 15:32:03]
+  Somhar placed Отвертка in Средний стальной шкаф (ID: 758)
+[03/08/2023 15:32:03]
+  Somhar removed Отвертка from Средний стальной шкаф (ID: 758)
+[03/08/2023 15:32:03]
+  Somhar picked up Отвертка
+[03/08/2023 15:32:03]
+  Somhar picked up Отвертка
+[03/08/2023 15:32:05]
+  АЛАХ picked up Подводный скутер
+[03/08/2023 15:32:06]
+  StreaK picked up Водолазный скафандр
+[03/08/2023 15:32:08]
+  StreaK picked up Кислородный баллон
+[03/08/2023 15:32:08]
+  АЛАХ picked up Кислородный баллон
+[03/08/2023 15:32:09]
+  Somhar deactivated Деконструктор
+[03/08/2023 15:32:09]
+  StreaK picked up Кислородный баллон
+[03/08/2023 15:32:09]
+  StreaK picked up Кислородный баллон
+[03/08/2023 15:32:10]
+  Somhar placed Отвертка in Деконструктор (ID: 762)
+[03/08/2023 15:32:10]
+  Somhar activated Деконструктор
+[03/08/2023 15:32:11]
+  Somhar picked up Литий
+[03/08/2023 15:32:11]
+  Somhar picked up Литий
+[03/08/2023 15:32:11]
+  Somhar picked up Литий
+[03/08/2023 15:32:11]
+  Somhar picked up Литий
+[03/08/2023 15:32:11]
+  Somhar picked up Литий
+[03/08/2023 15:32:12]
+  StreaK picked up Плазменный резак
+[03/08/2023 15:32:13]
+  StreaK picked up Подводный скутер
+[03/08/2023 15:32:13]
+  Somhar placed Литий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:32:13]
+  Somhar placed Литий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:32:13]
+  Somhar placed Литий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:32:13]
+  Somhar placed Литий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:32:13]
+  Somhar placed Литий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:32:14]
+  StreaK picked up Ручной сонар
+[03/08/2023 15:32:18]
+  АЛАХ picked up Одноразовый водолазный скафандр
+[03/08/2023 15:32:20]
+  Somhar picked up Алюминий
+[03/08/2023 15:32:20]
+  Somhar picked up Алюминий
+[03/08/2023 15:32:20]
+  Somhar picked up Алюминий
+[03/08/2023 15:32:20]
+  Somhar picked up Алюминий
+[03/08/2023 15:32:20]
+  Somhar picked up Алюминий
+[03/08/2023 15:32:21]
+  Somhar picked up Цинк
+[03/08/2023 15:32:21]
+  Somhar picked up Цинк
+[03/08/2023 15:32:21]
+  Somhar removed Свинец from Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:32:21]
+  Somhar removed Свинец from Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:32:21]
+  Somhar picked up Органическое волокно
+[03/08/2023 15:32:21]
+  Somhar picked up Органическое волокно
+[03/08/2023 15:32:21]
+  Waltuh connected a wire from Малый насос (condition_out) to Детектор воды (signal_out)
+[03/08/2023 15:32:21]
+  АЛАХ placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 857)
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Цинк
+[03/08/2023 15:32:22]
+  Somhar picked up Кальций
+[03/08/2023 15:32:23]
+  Somhar picked up Фосфор
+[03/08/2023 15:32:23]
+  Somhar picked up Фосфор
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:23]
+  Somhar picked up Свинец
+[03/08/2023 15:32:26]
+  Somhar equipped Свинец
+[03/08/2023 15:32:27]
+  АЛАХ opened Настраиваемая дверь
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:29]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:30]
+  АЛАХ closed Настраиваемая дверь
+[03/08/2023 15:32:30]
+  StreaK equipped Подводный скутер
+[03/08/2023 15:32:31]
+  Somhar placed Фосфор in Контейнер для хранения (ID: 357)
+[03/08/2023 15:32:31]
+  Somhar placed Фосфор in Контейнер для хранения (ID: 357)
+[03/08/2023 15:32:31]
+  АЛАХ equipped Подводный скутер
+[03/08/2023 15:32:33]
+  Somhar placed Кальций in Контейнер для хранения (ID: 357)
+[03/08/2023 15:32:34]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:34]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:34]
+  Waltuh connected a wire from Малый насос (condition_out) to Детектор воды (water_%)
+[03/08/2023 15:32:34]
+  Somhar placed Органическое волокно in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:34]
+  Somhar placed Органическое волокно in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Цинк in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Алюминий in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Алюминий in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Алюминий in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Алюминий in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:35]
+  Somhar placed Алюминий in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:32:39]
+  Somhar placed Свинец in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:41]
+  Somhar placed Цинк in Контейнер для хранения (ID: 366)
+[03/08/2023 15:32:41]
+  Somhar placed Цинк in Контейнер для хранения (ID: 366)
+[03/08/2023 15:32:41]
+  Somhar placed Цинк in Контейнер для хранения (ID: 366)
+[03/08/2023 15:32:41]
+  Somhar placed Цинк in Контейнер для хранения (ID: 366)
+[03/08/2023 15:32:41]
+  Somhar placed Цинк in Контейнер для хранения (ID: 366)
+[03/08/2023 15:32:41]
+  Somhar placed Цинк in Контейнер для хранения (ID: 366)
+[03/08/2023 15:32:42]
+  Somhar placed Цинк in Контейнер для хранения (ID: 269)
+[03/08/2023 15:32:42]
+  Somhar placed Цинк in Контейнер для хранения (ID: 269)
+[03/08/2023 15:32:44]
+  Somhar placed Органическое волокно in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:44]
+  Somhar placed Органическое волокно in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:44]
+  АЛАХ equipped Плазменный резак
+[03/08/2023 15:32:45]
+  StreaK equipped Плазменный резак
+[03/08/2023 15:32:45]
+  Somhar placed Цинк in Контейнер для хранения (ID: 269)
+[03/08/2023 15:32:45]
+  Somhar placed Цинк in Контейнер для хранения (ID: 269)
+[03/08/2023 15:32:47]
+  Somhar placed Алюминий in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:47]
+  Somhar placed Алюминий in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:50]
+  Somhar placed Свинец in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:50]
+  Somhar placed Свинец in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:50]
+  Somhar placed Свинец in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:50]
+  Somhar placed Свинец in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:50]
+  Somhar placed Свинец in Контейнер для хранения (ID: 479)
+[03/08/2023 15:32:52]
+  Somhar placed Алюминий in Контейнер для хранения (ID: 51)
+[03/08/2023 15:32:52]
+  Somhar placed Алюминий in Контейнер для хранения (ID: 51)
+[03/08/2023 15:32:52]
+  Somhar placed Алюминий in Контейнер для хранения (ID: 51)
+[03/08/2023 15:32:54]
+  Somhar placed Свинец in Контейнер для хранения (ID: 51)
+[03/08/2023 15:32:54]
+  Somhar placed Свинец in Контейнер для хранения (ID: 51)
+[03/08/2023 15:32:54]
+  Somhar placed Свинец in Контейнер для хранения (ID: 51)
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:57]
+  Somhar picked up Натрий
+[03/08/2023 15:32:58]
+  Somhar picked up Натрий
+[03/08/2023 15:32:58]
+  Somhar picked up Натрий
+[03/08/2023 15:32:58]
+  Somhar picked up Натрий
+[03/08/2023 15:32:58]
+  Somhar picked up Натрий
+[03/08/2023 15:33:00]
+  Терентий (as Bennie Tootle) closed Дверь с кнопками
+[03/08/2023 15:33:00]
+  Терентий (as Bennie Tootle) opened Настраиваемая дверь
+[03/08/2023 15:33:01]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:01]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:01]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:01]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Waltuh started repairing Монитор состояния
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:03]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:33:07]
+  Waltuh started repairing Монитор состояния
+[03/08/2023 15:33:13]
+  Somhar started fabricating UEX in Фабрикатор
+[03/08/2023 15:33:15]
+  nigaдяй started repairing Навигационный терминал
+[03/08/2023 15:33:17]
+  Тра Хаебка placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 857)
+[03/08/2023 15:33:17]
+  Тра Хаебка removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 857)
+[03/08/2023 15:33:17]
+  Тра Хаебка placed Кислородный баллон in Водолазный скафандр (ID: 76)
+[03/08/2023 15:33:21]
+  Waltuh adjusted reactor settings: Temperature: 4956, Fission rate: 40, Turbine output: 82, Autotemp ON
+[03/08/2023 15:33:22]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:33:22]
+  Waltuh adjusted reactor settings: Temperature: 5037, Fission rate: 39, Turbine output: 82, Autotemp ON
+[03/08/2023 15:33:24]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:33:25]
+  Waltuh adjusted reactor settings: Temperature: 4539, Fission rate: 30, Turbine output: 97, Autotemp ON
+[03/08/2023 15:33:27]
+  Waltuh adjusted reactor settings: Temperature: 5156, Fission rate: 46, Turbine output: 98, Autotemp ON
+[03/08/2023 15:33:36]
+  АЛАХ opened Настраиваемая дверь
+[03/08/2023 15:33:36]
+  Информация о миссии: Минералы добыты - Вы добыли достаточно ресурса (Кварц). Доставьте его на аванпост и получите награду.
+[03/08/2023 15:33:38]
+  АЛАХ closed Настраиваемая дверь
+[03/08/2023 15:33:43]
+  StreaK placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 838)
+[03/08/2023 15:33:44]
+  АЛАХ dropped Одноразовый водолазный скафандр
+[03/08/2023 15:33:46]
+  StreaK placed Подводный скутер in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:46]
+  StreaK placed Ручной сонар in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:47]
+  АЛАХ placed Подводный скутер in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:47]
+  nigaдяй disconnected a wire from Двигатель (power_in) to Кабельная коробка (power)
+[03/08/2023 15:33:47]
+  nigaдяй connected a wire from Двигатель (condition_out) to Кабельная коробка (power)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:48]
+  АЛАХ placed Кварц in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:33:49]
+  nigaдяй disconnected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[03/08/2023 15:33:49]
+  nigaдяй connected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[03/08/2023 15:33:53]
+  Somhar picked up Контейнер для хранения
+[03/08/2023 15:33:54]
+  Somhar removed Халькопирит from Контейнер для хранения (ID: 143)
+[03/08/2023 15:33:54]
+  Somhar removed Халькопирит from Контейнер для хранения (ID: 143)
+[03/08/2023 15:33:54]
+  Somhar removed Халькопирит from Контейнер для хранения (ID: 143)
+[03/08/2023 15:33:58]
+  Матрос Иван Артемов placed Аккордеон in Средний стальной шкаф (ID: 758)
+[03/08/2023 15:33:58]
+  Waltuh started repairing Насос
+[03/08/2023 15:33:59]
+  Somhar placed Урановая руда in Деконструктор (ID: 762)
+[03/08/2023 15:34:00]
+  Somhar placed Халькопирит in Деконструктор (ID: 762)
+[03/08/2023 15:34:00]
+  Somhar placed Халькопирит in Деконструктор (ID: 762)
+[03/08/2023 15:34:00]
+  Somhar placed Халькопирит in Деконструктор (ID: 762)
+[03/08/2023 15:34:00]
+  Somhar activated Деконструктор
+[03/08/2023 15:34:03]
+  Somhar placed Контейнер для хранения in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:04]
+  StreaK picked up Гаечный ключ
+[03/08/2023 15:34:11]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:34:11]
+  StreaK покидает сервер.
+[03/08/2023 15:34:23]
+  igameCrog failed to repair Ядерный реактор
+[03/08/2023 15:34:29]
+  igameCrog started repairing Ядерный реактор
+[03/08/2023 15:34:29]
+  Somhar equipped Отвертка
+[03/08/2023 15:34:35]
+  Somhar placed Комбинезон шахтера in Деконструктор (ID: 762)
+[03/08/2023 15:34:36]
+  Somhar placed Костюм администратора станции in Деконструктор (ID: 762)
+[03/08/2023 15:34:37]
+  Somhar placed Костюм исследователя in Деконструктор (ID: 762)
+[03/08/2023 15:34:38]
+  Somhar activated Деконструктор
+[03/08/2023 15:34:40]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:34:42]
+  Somhar picked up Уран
+[03/08/2023 15:34:42]
+  Somhar picked up Уран
+[03/08/2023 15:34:42]
+  Somhar picked up Уран
+[03/08/2023 15:34:43]
+  Somhar picked up Медь
+[03/08/2023 15:34:43]
+  Somhar picked up Медь
+[03/08/2023 15:34:43]
+  Somhar picked up Медь
+[03/08/2023 15:34:43]
+  Somhar picked up Медь
+[03/08/2023 15:34:43]
+  Somhar picked up Медь
+[03/08/2023 15:34:43]
+  Somhar picked up Медь
+[03/08/2023 15:34:43]
+  Somhar picked up Свинец
+[03/08/2023 15:34:43]
+  Somhar picked up Свинец
+[03/08/2023 15:34:43]
+  Somhar picked up Железо
+[03/08/2023 15:34:44]
+  igameCrog disconnected a wire from Двигатель (condition_out) to Кабельная коробка (power)
+[03/08/2023 15:34:44]
+  igameCrog connected a wire from Двигатель (power_in) to Кабельная коробка (power)
+[03/08/2023 15:34:45]
+  nigaдяй disconnected a wire from Настраиваемый люк (set_state) to Стыковочный люк (state_out)
+[03/08/2023 15:34:45]
+  nigaдяй connected a wire from Настраиваемый люк (state_out) to Стыковочный люк (state_out)
+[03/08/2023 15:34:46]
+  Somhar placed Железо in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:46]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:46]
+  Somhar placed Свинец in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:47]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:47]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:47]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:47]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:47]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:47]
+  Somhar placed Медь in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:48]
+  Somhar placed Уран in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:48]
+  Somhar placed Уран in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:48]
+  Somhar placed Уран in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:34:50]
+  Somhar placed Уран in Контейнер для хранения (ID: 479)
+[03/08/2023 15:34:50]
+  Somhar placed Уран in Контейнер для хранения (ID: 479)
+[03/08/2023 15:34:50]
+  Somhar placed Уран in Контейнер для хранения (ID: 479)
+[03/08/2023 15:34:52]
+  Somhar placed Медь in Контейнер для хранения (ID: 479)
+[03/08/2023 15:34:52]
+  Somhar placed Медь in Контейнер для хранения (ID: 479)
+[03/08/2023 15:34:53]
+  Somhar placed Медь in Контейнер для хранения (ID: 51)
+[03/08/2023 15:34:53]
+  Somhar placed Медь in Контейнер для хранения (ID: 51)
+[03/08/2023 15:34:53]
+  Somhar placed Медь in Контейнер для хранения (ID: 51)
+[03/08/2023 15:34:53]
+  Somhar placed Медь in Контейнер для хранения (ID: 51)
+[03/08/2023 15:34:54]
+  igameCrog disconnected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[03/08/2023 15:34:54]
+  igameCrog connected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[03/08/2023 15:34:56]
+  Somhar placed Свинец in Контейнер для хранения (ID: 51)
+[03/08/2023 15:34:56]
+  Somhar placed Свинец in Контейнер для хранения (ID: 51)
+[03/08/2023 15:34:58]
+  Somhar placed Железо in Контейнер для хранения (ID: 223)
+[03/08/2023 15:35:05]
+  Somhar picked up Мешок семян
+[03/08/2023 15:35:06]
+  Somhar picked up Семя табачной лозы
+[03/08/2023 15:35:10]
+  Somhar placed Семя табачной лозы in Аптечка (ID: 794)
+[03/08/2023 15:35:11]
+  Somhar placed Кислородный баллон in Металлический ящик (ID: 73)
+[03/08/2023 15:35:15]
+  Somhar cancelled the fabrication of UEX in Фабрикатор
+[03/08/2023 15:35:19]
+  Somhar placed Натрий in Контейнер для хранения (ID: 214)
+[03/08/2023 15:35:20]
+  Somhar placed Фосфор in Контейнер для хранения (ID: 214)
+[03/08/2023 15:35:24]
+  Somhar placed Комбинезон шахтера in Деконструктор (ID: 762)
+[03/08/2023 15:35:24]
+  Somhar placed Костюм исследователя in Деконструктор (ID: 762)
+[03/08/2023 15:35:25]
+  Somhar placed Одежда обитателя аванпоста in Деконструктор (ID: 762)
+[03/08/2023 15:35:26]
+  Somhar activated Деконструктор
+[03/08/2023 15:35:26]
+  nigaдяй started repairing Фабрикатор
+[03/08/2023 15:35:27]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:35:30]
+  igameCrog unequipped Гаечный ключ
+[03/08/2023 15:35:30]
+  igameCrog unequipped Отвертка
+[03/08/2023 15:35:30]
+  igameCrog equipped Металлический ящик
+[03/08/2023 15:35:30]
+  Somhar placed Мешок семян in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:35:32]
+  igameCrog dropped Металлический ящик
+[03/08/2023 15:35:33]
+  igameCrog equipped Отвертка
+[03/08/2023 15:35:34]
+  igameCrog equipped Гаечный ключ
+[03/08/2023 15:35:37]
+  Тра Хаебка placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 857)
+[03/08/2023 15:35:37]
+  Тра Хаебка removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 857)
+[03/08/2023 15:35:37]
+  Тра Хаебка placed Кислородный баллон in Водолазный скафандр (ID: 76)
+[03/08/2023 15:35:42]
+  Somhar picked up Водолазный скафандр
+[03/08/2023 15:35:43]
+  Somhar equipped Водолазный скафандр
+[03/08/2023 15:35:47]
+  nigaдяй placed Наручники in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:35:47]
+  nigaдяй placed Красный провод in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:35:47]
+  nigaдяй placed Красный провод in Большой стальной шкаф (ID: 779)
+[03/08/2023 15:35:56]
+  Терентий (as Bennie Tootle) removed Кислородный баллон from Водолазный скафандр (ID: 195)
+[03/08/2023 15:35:57]
+  Терентий (as Bennie Tootle) equipped Кислородный баллон
+[03/08/2023 15:35:58]
+  Терентий (as Bennie Tootle) placed Кислородный баллон in Водолазный скафандр (ID: 195)
+[03/08/2023 15:36:09]
+  Somhar placed Кислородный баллон in Деконструктор (ID: 762)
+[03/08/2023 15:36:09]
+  Somhar placed Водолазный скафандр in Деконструктор (ID: 762)
+[03/08/2023 15:36:11]
+  Somhar placed Кислородный баллон in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:36:12]
+  Somhar placed Водолазный скафандр in Деконструктор (ID: 762)
+[03/08/2023 15:36:12]
+  Игрок StreaK присоединился к серверу.
+[03/08/2023 15:36:12]
+  Saving client permissions
+[03/08/2023 15:36:12]
+  Somhar activated Деконструктор
+[03/08/2023 15:36:16]
+  Somhar equipped Пояс инструментов
+[03/08/2023 15:36:16]
+  Somhar picked up Пояс инструментов
+[03/08/2023 15:36:16]
+  StreaK equipped Кислородный баллон
+[03/08/2023 15:36:17]
+  Somhar picked up Комбинезон механика
+[03/08/2023 15:36:17]
+  Somhar picked up Гаечный ключ
+[03/08/2023 15:36:18]
+  Somhar picked up Кислородный баллон
+[03/08/2023 15:36:18]
+  Somhar picked up Кислородный баллон
+[03/08/2023 15:36:18]
+  Somhar picked up Кислородный баллон
+[03/08/2023 15:36:18]
+  Somhar picked up Плазменный резак
+[03/08/2023 15:36:19]
+  Somhar picked up Сварочный аппарат
+[03/08/2023 15:36:20]
+  Somhar picked up Наушники
+[03/08/2023 15:36:28]
+  nigaдяй started repairing Деконструктор
+[03/08/2023 15:36:32]
+  Somhar placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 866)
+[03/08/2023 15:36:32]
+  Somhar placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 866)
+[03/08/2023 15:36:32]
+  Somhar placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 866)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:34]
+  Somhar placed Кварц in Пояс инструментов (ID: 3850)
+[03/08/2023 15:36:35]
+  StreaK picked up Кислородный баллон
+[03/08/2023 15:36:36]
+  StreaK placed Кислородный баллон in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:36]
+  Somhar picked up Кварц
+[03/08/2023 15:36:37]
+  nigaдяй started repairing Малый насос
+[03/08/2023 15:36:43]
+  Somhar placed Сварочный аппарат in Средний стальной шкаф (ID: 921)
+[03/08/2023 15:36:46]
+  Тра Хаебка: аутисты не те кто ломают
+[03/08/2023 15:36:49]
+  Somhar removed Кислородный баллон from Плазменный резак (ID: 3501)
+[03/08/2023 15:36:51]
+  Тра Хаебка: аутисты те кто их найти не может
+[03/08/2023 15:36:53]
+  Матрос Иван Артемов picked up Гарпун
+[03/08/2023 15:36:53]
+  Матрос Иван Артемов picked up Гарпун
+[03/08/2023 15:36:53]
+  Матрос Иван Артемов picked up Гарпун
+[03/08/2023 15:36:53]
+  Матрос Иван Артемов picked up Гарпун
+[03/08/2023 15:36:53]
+  Матрос Иван Артемов picked up Гарпун
+[03/08/2023 15:36:53]
+  Матрос Иван Артемов picked up Гарпун
+[03/08/2023 15:36:53]
+  igameCrog failed to repair Двигатель
+[03/08/2023 15:36:59]
+  igameCrog started repairing Двигатель
+[03/08/2023 15:36:59]
+  Тра Хаебка: они какраз не аутисты раз вы еще их не нашли
+[03/08/2023 15:36:59]
+  Somhar placed Пояс инструментов in Хозяйственный шкаф (ID: 1035)
+[03/08/2023 15:37:02]
+  igameCrog failed to repair Двигатель
+[03/08/2023 15:37:03]
+  Somhar picked up Резина
+[03/08/2023 15:37:03]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 463)
+[03/08/2023 15:37:03]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 463)
+[03/08/2023 15:37:03]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 463)
+[03/08/2023 15:37:03]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 463)
+[03/08/2023 15:37:03]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 463)
+[03/08/2023 15:37:03]
+  Матрос Иван Артемов placed Гарпун in Подводное ружье (ID: 463)
+[03/08/2023 15:37:04]
+  Somhar picked up Слиток из титана и алюминия
+[03/08/2023 15:37:05]
+  Somhar equipped Органическое волокно
+[03/08/2023 15:37:05]
+  Somhar picked up Органическое волокно
+[03/08/2023 15:37:07]
+  Somhar placed Органическое волокно in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:37:07]
+  Тра Хаебка: ну по крайней мере относительно вас точно не аутисты
+[03/08/2023 15:37:07]
+  StreaK picked up Гаечный ключ
+[03/08/2023 15:37:08]
+  StreaK picked up Отвертка
+[03/08/2023 15:37:09]
+  StreaK picked up Сварочный аппарат
+[03/08/2023 15:37:11]
+  Somhar placed Слиток из титана и алюминия in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:37:13]
+  Somhar placed Резина in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:37:30]
+  Тра Хаебка placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 866)
+[03/08/2023 15:37:30]
+  Тра Хаебка removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 866)
+[03/08/2023 15:37:30]
+  Тра Хаебка placed Кислородный баллон in Водолазный скафандр (ID: 76)
+[03/08/2023 15:37:33]
+  Somhar equipped Металлический ящик
+[03/08/2023 15:37:34]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:37:39]
+  StreaK equipped Металлический ящик
+[03/08/2023 15:37:41]
+  StreaK placed Костюм котельника in Средний стальной шкаф (ID: 1465)
+[03/08/2023 15:37:43]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:43]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:43]
+  StreaK picked up Костюм котельника
+[03/08/2023 15:37:44]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:44]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:44]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:45]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:45]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:45]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:45]
+  StreaK dropped Металлический ящик
+[03/08/2023 15:37:46]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:46]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:46]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:47]
+  Somhar equipped Металлический ящик
+[03/08/2023 15:37:47]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:47]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:47]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:48]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:48]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:49]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:49]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:50]
+  Somhar dropped Металлический ящик
+[03/08/2023 15:37:50]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:50]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:51]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:52]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:52]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:52]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:52]
+  Somhar picked up Слиток из титана и алюминия
+[03/08/2023 15:37:52]
+  StreaK picked up Пояс инструментов
+[03/08/2023 15:37:52]
+  Somhar picked up Алюминий
+[03/08/2023 15:37:52]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:52]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:53]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:53]
+  Somhar equipped Резина
+[03/08/2023 15:37:53]
+  Somhar picked up Резина
+[03/08/2023 15:37:53]
+  Somhar placed Мешок семян in Деконструктор (ID: 762)
+[03/08/2023 15:37:54]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:54]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:55]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:55]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:55]
+  Somhar placed Кислородный баллон in Деконструктор (ID: 762)
+[03/08/2023 15:37:55]
+  Somhar activated Деконструктор
+[03/08/2023 15:37:55]
+  StreaK equipped Пояс инструментов
+[03/08/2023 15:37:55]
+  StreaK picked up Пояс инструментов
+[03/08/2023 15:37:56]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:56]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:57]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/08/2023 15:37:57]
+  Матрос Иван Артемов used Нож ныряльщика on Mudraptor_unarmored.
+[03/08/2023 15:37:57]
+  Матрос Иван Артемов used Нож ныряльщика on Обшивка A 0 градусов.
+[03/08/2023 15:37:57]
+  Терентий (as Bennie Tootle) disconnected a wire from Суперконденсатор (power_in) to Кабельная коробка (power)
+[03/08/2023 15:37:57]
+  Somhar placed Резина in Большой стальной шкаф (ID: 764)
+[03/08/2023 15:37:58]
+  Mudraptor_unarmored attacked by Матрос Иван Артемов. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2

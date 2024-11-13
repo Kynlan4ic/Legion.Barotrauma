@@ -1,0 +1,1198 @@
+﻿[11/02/2022 20:55:03]
+  Starting the server...
+[11/02/2022 20:55:03]
+  Using SteamP2P networking.
+[11/02/2022 20:55:03]
+  Server started
+[11/02/2022 20:55:03]
+  Игрок kynlan4ic присоединился к серверу.
+[11/02/2022 20:55:03]
+  Saving client permissions
+[11/02/2022 20:55:03]
+  Saving client permissions
+[11/02/2022 20:55:11]
+  Gamemode changed to Миссия
+[11/02/2022 20:55:44]
+  Игрок igameCrog присоединился к серверу.
+[11/02/2022 20:55:44]
+  Saving client permissions
+[11/02/2022 20:59:06]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires
+[11/02/2022 20:59:06]
+  Saving client permissions
+[11/02/2022 20:59:22]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires
+[11/02/2022 20:59:22]
+  Saving client permissions
+[11/02/2022 21:00:16]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires
+[11/02/2022 21:00:16]
+  Saving client permissions
+[11/02/2022 21:07:55]
+  Игрок iliya_kind присоединился к серверу.
+[11/02/2022 21:07:55]
+  Saving client permissions
+[11/02/2022 21:08:07]
+  iliya_kind: blbnt yf [eq
+[11/02/2022 21:08:14]
+  iliya_kind: идите на хуй
+[11/02/2022 21:08:18]
+  iliya_kind: суки
+[11/02/2022 21:08:22]
+  iliya_kind: ухожу
+[11/02/2022 21:08:27]
+  igameCrog: хуй
+[11/02/2022 21:08:27]
+  igameCrog: хуй
+[11/02/2022 21:08:27]
+  igameCrog: хуй
+[11/02/2022 21:08:28]
+  Игрок igameCrog исключен с сервера Причина: Вас исключили за спам.
+[11/02/2022 21:08:31]
+  iliya_kind покидает сервер.
+[11/02/2022 21:08:41]
+  Игрок igameCrog присоединился к серверу.
+[11/02/2022 21:08:41]
+  Saving client permissions
+[11/02/2022 21:09:25]
+  Игрок iliya_kind присоединился к серверу.
+[11/02/2022 21:09:25]
+  Saving client permissions
+[11/02/2022 21:09:41]
+  kynlan4ic is ready to start the game.
+[11/02/2022 21:09:46]
+  iliya_kind is ready to start the game.
+[11/02/2022 21:09:50]
+  igameCrog is ready to start the game.
+[11/02/2022 21:09:51]
+  Client "igameCrog" started the round.
+[11/02/2022 21:09:51]
+  Starting a new round...
+[11/02/2022 21:10:02]
+  Миссия: Зачистка руин
+[11/02/2022 21:10:02]
+  Уничтожьте всех стражей и их защитные модули в руинах в точке «Центр Set».
+[11/02/2022 21:10:02]
+  Game mode: Миссия
+[11/02/2022 21:10:02]
+  Submarine: Remora
+[11/02/2022 21:10:02]
+  Level seed: V5eXQnlL
+[11/02/2022 21:10:02]
+  Mission: Зачистка руин
+[11/02/2022 21:10:02]
+  Armanda Sparks equipped Отвертка
+[11/02/2022 21:10:02]
+  Eleanor McNeal equipped Сварочный аппарат
+[11/02/2022 21:10:05]
+  Round started.
+[11/02/2022 21:10:07]
+  Fractalguardian equipped Гарпун стража
+[11/02/2022 21:10:07]
+  Fractalguardian2 equipped Паровая пушка стража
+[11/02/2022 21:10:07]
+  Fractalguardian2 equipped Паровая пушка стража
+[11/02/2022 21:10:07]
+  Fractalguardian equipped Гарпун стража
+[11/02/2022 21:10:12]
+  Donn Stogner: Мне на днях в руки попала старая памятка для моряков.
+[11/02/2022 21:10:17]
+  Donn Stogner: И из-за этой странной древней терминологии я многих вещей там вообще не понимаю.
+[11/02/2022 21:10:22]
+  Donn Stogner: Вот, например, что такое астролябия?
+[11/02/2022 21:10:23]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:10:30]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:10:30]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 21:10:31]
+  kynlan4ic picked up Сварочный аппарат
+[11/02/2022 21:10:31]
+  kynlan4ic picked up Бинт
+[11/02/2022 21:10:31]
+  kynlan4ic picked up Бинт
+[11/02/2022 21:10:36]
+  iliya_kind picked up Подводная маска
+[11/02/2022 21:10:40]
+  kynlan4ic picked up Дробовик
+[11/02/2022 21:10:52]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:11:10]
+  igameCrog picked up Водолазный скафандр
+[11/02/2022 21:11:12]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:11:12]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:11:12]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:11:23]
+  kynlan4ic undocked RemoraDrone from Remora
+[11/02/2022 21:11:34]
+  igameCrog picked up Клоунская маска
+[11/02/2022 21:11:36]
+  igameCrog picked up Клоунский костюм
+[11/02/2022 21:11:49]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 7015)
+[11/02/2022 21:11:51]
+  igameCrog equipped Шприц-пистолет
+[11/02/2022 21:11:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:11:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:11:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:12:21]
+  igameCrog equipped Водолазный скафандр
+[11/02/2022 21:12:23]
+  kynlan4ic docked RemoraDrone to Remora
+[11/02/2022 21:12:47]
+  iliya_kind picked up Револьвер
+[11/02/2022 21:12:48]
+  iliya_kind picked up Пистолет-пулемет
+[11/02/2022 21:12:55]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:13:02]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:13:06]
+  iliya_kind equipped Гранатомет
+[11/02/2022 21:13:06]
+  iliya_kind picked up Гранатомет
+[11/02/2022 21:13:10]
+  iliya_kind placed Гранатомет in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:13:14]
+  iliya_kind picked up Подводное ружье
+[11/02/2022 21:13:14]
+  iliya_kind removed Электрошокер from Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:13:16]
+  kynlan4ic: Donn Stogner, займись оружием!
+[11/02/2022 21:13:17]
+  Donn Stogner: Слушаюсь!
+[11/02/2022 21:13:18]
+  iliya_kind picked up Гранатомет
+[11/02/2022 21:13:21]
+  Inner wall breached by iliya_kind
+[11/02/2022 21:13:21]
+  Inner wall breached by iliya_kind
+[11/02/2022 21:13:21]
+  Inner wall breached by iliya_kind
+[11/02/2022 21:13:23]
+  igameCrog picked up Галоперидол
+[11/02/2022 21:13:28]
+  iliya_kind placed Гранатомет in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:13:41]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:41]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:41]
+  Outer wall breached by kynlan4ic
+[11/02/2022 21:13:41]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:42]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:42]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:42]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.85 Оглушение: 0.025
+[11/02/2022 21:13:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:43]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:43]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.85 Оглушение: 0.025
+[11/02/2022 21:13:43]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.85 Оглушение: 0.025
+[11/02/2022 21:13:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:13:43]
+  Watcher attacked by kynlan4ic. Рваная рана: 2.85 Оглушение: 0.025
+[11/02/2022 21:13:44]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:44]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:44]
+  Watcher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:13:46]
+  iliya_kind picked up Водолазный скафандр
+[11/02/2022 21:13:49]
+  iliya_kind equipped Револьвер
+[11/02/2022 21:13:51]
+  iliya_kind equipped Пистолет-пулемет
+[11/02/2022 21:13:56]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:13:56]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:13:56]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:13:56]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:13:59]
+  igameCrog picked up Плазменный резак
+[11/02/2022 21:14:06]
+  kynlan4ic: Boyce Chaney, займись оружием!
+[11/02/2022 21:14:07]
+  Boyce Chaney: Вас понял!
+[11/02/2022 21:14:12]
+  Boyce Chaney: Новая цель обнаружена!
+[11/02/2022 21:14:13]
+  Boyce Chaney: Огонь!
+[11/02/2022 21:14:13]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:13]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:14]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:14]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:15]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:15]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:15]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:15]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:15]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:15]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:16]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:16]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:16]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:16]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:16]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:16]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:16]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:16]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:16]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:17]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:17]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:17]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Патрон для дробовика
+[11/02/2022 21:14:17]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:17]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  iliya_kind picked up Резиновый патрон для дробовика
+[11/02/2022 21:14:17]
+  Boyce Chaney launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:14:17]
+  Watcher has died (Cause of death: Рваная рана)
+[11/02/2022 21:14:17]
+  Boyce Chaney: Цель уничтожена!
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:19]
+  iliya_kind placed Резиновый патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:20]
+  iliya_kind placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/02/2022 21:14:22]
+  igameCrog placed Галоперидол in Шприц-пистолет (ID: 7015)
+[11/02/2022 21:14:22]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:14:22]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:14:22]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:14:22]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:14:23]
+  iliya_kind picked up Магазин для ПП
+[11/02/2022 21:14:23]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:14:23]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:14:23]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:14:23]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:14:23]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:14:23]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:14:28]
+  Boyce Chaney: Надо найти водолазный скафандр!
+[11/02/2022 21:14:30]
+  kynlan4ic equipped Сварочный аппарат
+[11/02/2022 21:14:41]
+  iliya_kind picked up Фонарик
+[11/02/2022 21:14:44]
+  Abe Lane equipped Сварочный аппарат
+[11/02/2022 21:14:44]
+  iliya_kind equipped Фонарик
+[11/02/2022 21:14:47]
+  iliya_kind picked up Подводная маска
+[11/02/2022 21:14:49]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:14:49]
+  Inner wall repaired by Abe Lane
+[11/02/2022 21:14:49]
+  Abe Lane: Передняя шахта доступа: все протечки устранены!
+[11/02/2022 21:14:50]
+  Inner wall repaired by Abe Lane
+[11/02/2022 21:14:51]
+  iliya_kind placed Подводная маска in Большой стальной шкаф (ID: 599)
+[11/02/2022 21:14:52]
+  iliya_kind picked up Подводная маска
+[11/02/2022 21:14:54]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:14:57]
+  iliya_kind placed Подводная маска in Большой стальной шкаф (ID: 599)
+[11/02/2022 21:14:57]
+  Abe Lane unequipped Сварочный аппарат
+[11/02/2022 21:14:57]
+  Abe Lane equipped Электрошокер
+[11/02/2022 21:14:58]
+  Abe Lane equipped Сварочный аппарат
+[11/02/2022 21:14:58]
+  Abe Lane unequipped Сварочный аппарат
+[11/02/2022 21:14:59]
+  iliya_kind picked up Подводный скутер
+[11/02/2022 21:15:12]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 7015)
+[11/02/2022 21:15:12]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 7015)
+[11/02/2022 21:15:12]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 7015)
+[11/02/2022 21:15:12]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 7015)
+[11/02/2022 21:15:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:15:22]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:15:30]
+  iliya_kind equipped Подводное ружье
+[11/02/2022 21:15:36]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[11/02/2022 21:15:36]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[11/02/2022 21:15:36]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[11/02/2022 21:15:36]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[11/02/2022 21:15:44]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:16:17]
+  kynlan4ic: Irwin Escobar, встань за орудия!
+[11/02/2022 21:16:18]
+  Irwin Escobar: Принято.
+[11/02/2022 21:16:35]
+  igameCrog picked up Серная кислота
+[11/02/2022 21:16:50]
+  igameCrog placed Серная кислота in Шкаф для хранения токсинов (ID: 1255)
+[11/02/2022 21:16:54]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:16:54]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:16:54]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 6725)
+[11/02/2022 21:16:56]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:04]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:17:07]
+  kynlan4ic picked up Нож ныряльщика
+[11/02/2022 21:17:07]
+  kynlan4ic picked up Шоковая дубинка
+[11/02/2022 21:17:08]
+  kynlan4ic picked up Шлем стрелка
+[11/02/2022 21:17:09]
+  kynlan4ic picked up Бронежилет
+[11/02/2022 21:17:16]
+  kynlan4ic dropped Фуражка мятежника
+[11/02/2022 21:17:35]
+  kynlan4ic: Donn Stogner, займись оружием!
+[11/02/2022 21:17:36]
+  Donn Stogner: Слушаюсь!
+[11/02/2022 21:17:41]
+  igameCrog undocked RemoraDrone from Remora
+[11/02/2022 21:17:51]
+  iliya_kind equipped Водолазный скафандр
+[11/02/2022 21:18:05]
+  kynlan4ic: Donn Stogner, спасибо за помощь с пушками!
+[11/02/2022 21:18:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:18:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:18:40]
+  Abe Lane equipped Кислородный баллон
+[11/02/2022 21:19:44]
+  Abe Lane: Загружаю в реактор дополнительное топливо!
+[11/02/2022 21:19:49]
+  Abe Lane equipped Топливный стержень
+[11/02/2022 21:19:55]
+  Abe Lane equipped Отвертка
+[11/02/2022 21:19:56]
+  Abe Lane started repairing Монитор состояния
+[11/02/2022 21:20:08]
+  Abe Lane unequipped Отвертка
+[11/02/2022 21:21:03]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:03]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:03]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:05]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:08]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:10]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:11]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:11]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:12]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:12]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[11/02/2022 21:21:12]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:12]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:12]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:13]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:13]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:13]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:20]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:21]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 21:21:26]
+  Outer wall breached by iliya_kind
+[11/02/2022 21:21:30]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:21:36]
+  Bonethresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:36]
+  Bonethresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:36]
+  Bonethresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:36]
+  Bonethresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:36]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:37]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:37]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:37]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:37]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:37]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:37]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:38]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:38]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:38]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:38]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:39]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:21:39]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:42]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[11/02/2022 21:21:42]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:21:44]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[11/02/2022 21:21:45]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[11/02/2022 21:21:45]
+  Inner wall breached by Tigerthresher
+[11/02/2022 21:21:46]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[11/02/2022 21:21:48]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[11/02/2022 21:21:50]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[11/02/2022 21:21:50]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[11/02/2022 21:21:51]
+  Inner wall breached by Tigerthresher
+[11/02/2022 21:21:54]
+  kynlan4ic equipped Револьвер
+[11/02/2022 21:21:56]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 9.59 Кровотечение: 12.84375 Оглушение: 0.3
+[11/02/2022 21:22:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:03]
+  iliya_kind removed Кислородный баллон from Водолазный скафандр (ID: 6722)
+[11/02/2022 21:22:04]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:22:05]
+  Inner wall breached by Bonethresher
+[11/02/2022 21:22:05]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:22:05]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:22:05]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:22:05]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:22:06]
+  iliya_kind placed Кислородный баллон in Водолазный скафандр (ID: 6722)
+[11/02/2022 21:22:15]
+  iliya_kind placed Патрон револьвера in Револьвер (ID: 6693)
+[11/02/2022 21:22:15]
+  iliya_kind placed Патрон револьвера in Револьвер (ID: 6693)
+[11/02/2022 21:22:15]
+  iliya_kind placed Патрон револьвера in Револьвер (ID: 6693)
+[11/02/2022 21:22:15]
+  iliya_kind placed Патрон револьвера in Револьвер (ID: 6693)
+[11/02/2022 21:22:15]
+  iliya_kind placed Патрон револьвера in Револьвер (ID: 6693)
+[11/02/2022 21:22:15]
+  iliya_kind placed Патрон револьвера in Револьвер (ID: 6693)
+[11/02/2022 21:22:16]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:17]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:19]
+  iliya_kind picked up Магазин для ПП
+[11/02/2022 21:22:19]
+  iliya_kind dropped Магазин для ПП
+[11/02/2022 21:22:19]
+  iliya_kind placed Магазин для ПП in Пистолет-пулемет (ID: 6728)
+[11/02/2022 21:22:21]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:22:23]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:23]
+  Tigerthresher attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:24]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/02/2022 21:22:24]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:24]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:24]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:24]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:24]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 18.75 Кровотечение: 18.75 Оглушение: 0.15
+[11/02/2022 21:22:25]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 1.25 Оглушение: 0.15
+[11/02/2022 21:22:25]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:25]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:25]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:25]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:26]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:26]
+  Mudraptor_unarmored has died (Cause of death: Огнестрельная рана)
+[11/02/2022 21:22:26]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:26]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:26]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 12.5 Кровотечение: 12.5 Оглушение: 0.15
+[11/02/2022 21:22:26]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 18.75 Кровотечение: 18.75 Оглушение: 0.15
+[11/02/2022 21:22:29]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:22:29]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:22:29]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 6725)
+[11/02/2022 21:22:31]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:22:52]
+  iliya_kind equipped Нож ныряльщика
+[11/02/2022 21:23:38]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:24:00]
+  iliya_kind picked up Морфин
+[11/02/2022 21:24:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:24:04]
+  Outer wall breached by igameCrog
+[11/02/2022 21:24:05]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:24:07]
+  iliya_kind equipped Морфин
+[11/02/2022 21:24:09]
+  Irwin Escobar: Надо найти водолазный скафандр!
+[11/02/2022 21:24:10]
+  Abe Lane: Надо найти водолазный скафандр!
+[11/02/2022 21:24:10]
+  Tania Lawrence: Надо найти водолазный скафандр!
+[11/02/2022 21:24:10]
+  Donn Stogner: Надо найти водолазный скафандр!
+[11/02/2022 21:24:10]
+  Jarrod Connors: Мне нужно подводное снаряжение!
+[11/02/2022 21:24:12]
+  iliya_kind used item Морфин
+[11/02/2022 21:24:21]
+  igameCrog equipped Плазменный резак
+[11/02/2022 21:24:26]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:24:30]
+  Abe Lane equipped Сварочный аппарат
+[11/02/2022 21:24:31]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:24:35]
+  Abe Lane: Спокойное море моряка ничему не научит.
+[11/02/2022 21:24:38]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:24:43]
+  Tania Lawrence equipped Кислородный баллон
+[11/02/2022 21:24:48]
+  Tania Lawrence: Надо найти водолазный скафандр!
+[11/02/2022 21:24:52]
+  Donn Stogner equipped Сварочный аппарат
+[11/02/2022 21:24:52]
+  Donn Stogner: Мне нужно подводное снаряжение!
+[11/02/2022 21:24:54]
+  Donn Stogner unequipped Сварочный аппарат
+[11/02/2022 21:24:54]
+  Donn Stogner equipped Сварочный аппарат
+[11/02/2022 21:25:00]
+  Jarrod Connors equipped Сварочный аппарат
+[11/02/2022 21:25:07]
+  Jarrod Connors unequipped Сварочный аппарат
+[11/02/2022 21:25:08]
+  Jarrod Connors equipped Гаечный ключ
+[11/02/2022 21:25:14]
+  igameCrog placed Клоунская маска in Большой стальной шкаф (ID: 3)
+[11/02/2022 21:25:15]
+  igameCrog dropped Клоунский костюм
+[11/02/2022 21:25:18]
+  igameCrog picked up Клоунский костюм
+[11/02/2022 21:25:20]
+  igameCrog placed Клоунский костюм in Большой стальной шкаф (ID: 3)
+[11/02/2022 21:25:26]
+  Abe Lane: Трюм: минус одна протечка!
+[11/02/2022 21:25:27]
+  Donn Stogner: Надо найти водолазный скафандр!
+[11/02/2022 21:25:27]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:28]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:28]
+  Donn Stogner unequipped Сварочный аппарат
+[11/02/2022 21:25:28]
+  Donn Stogner equipped Сварочный аппарат
+[11/02/2022 21:25:28]
+  Donn Stogner unequipped Сварочный аппарат
+[11/02/2022 21:25:28]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:29]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:30]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:31]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:32]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:35]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:25:37]
+  Jarrod Connors unequipped Гаечный ключ
+[11/02/2022 21:25:37]
+  Jarrod Connors equipped Сварочный аппарат
+[11/02/2022 21:25:41]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:25:41]
+  Abe Lane: Трюм: минус одна протечка!
+[11/02/2022 21:25:44]
+  Jarrod Connors unequipped Сварочный аппарат
+[11/02/2022 21:25:44]
+  Jarrod Connors equipped Гаечный ключ
+[11/02/2022 21:25:49]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:25:51]
+  Mudraptor_unarmored attacked by iliya_kind. Рваная рана: 4 Оглушение: 0.5
+[11/02/2022 21:25:51]
+  Jarrod Connors unequipped Гаечный ключ
+[11/02/2022 21:25:51]
+  Jarrod Connors equipped Сварочный аппарат
+[11/02/2022 21:25:54]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 6690)
+[11/02/2022 21:25:54]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 6690)
+[11/02/2022 21:25:54]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 6690)
+[11/02/2022 21:25:54]
+  iliya_kind placed Гарпун in Подводное ружье (ID: 6690)
+[11/02/2022 21:25:54]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:25:57]
+  Donn Stogner: Мне нужно подводное снаряжение!
+[11/02/2022 21:25:58]
+  Jarrod Connors unequipped Сварочный аппарат
+[11/02/2022 21:25:58]
+  Jarrod Connors equipped Отвертка
+[11/02/2022 21:25:59]
+  Jarrod Connors unequipped Отвертка
+[11/02/2022 21:25:59]
+  Jarrod Connors equipped Гаечный ключ
+[11/02/2022 21:26:04]
+  Jarrod Connors unequipped Гаечный ключ
+[11/02/2022 21:26:04]
+  Jarrod Connors equipped Сварочный аппарат
+[11/02/2022 21:26:06]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:26:07]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:26:09]
+  Jarrod Connors unequipped Сварочный аппарат
+[11/02/2022 21:26:09]
+  Jarrod Connors equipped Отвертка
+[11/02/2022 21:26:10]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:26:14]
+  Jarrod Connors unequipped Отвертка
+[11/02/2022 21:26:14]
+  Jarrod Connors equipped Сварочный аппарат
+[11/02/2022 21:26:14]
+  Jarrod Connors: Помогите мне!
+[11/02/2022 21:26:17]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:26:18]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:26:22]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:26:25]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:26:28]
+  Donn Stogner: Мне нужно подводное снаряжение!
+[11/02/2022 21:26:35]
+  Jarrod Connors: Ищу безопасное место!
+[11/02/2022 21:26:35]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:26:35]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:26:39]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:26:39]
+  Abe Lane: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 21:26:42]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:26:46]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:26:49]
+  iliya_kind equipped Подводный скутер
+[11/02/2022 21:26:51]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:26:55]
+  Jarrod Connors: Эти проклятые создания тут повсюду!
+[11/02/2022 21:27:00]
+  Donn Stogner: Мне нужно подводное снаряжение!
+[11/02/2022 21:27:00]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:27:04]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:27:04]
+  Abe Lane: Трюм: минус одна протечка!
+[11/02/2022 21:27:04]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:27:04]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:27:12]
+  iliya_kind removed Кислородный баллон from Водолазный скафандр (ID: 6722)
+[11/02/2022 21:27:14]
+  iliya_kind placed Кислородный баллон in Водолазный скафандр (ID: 6722)
+[11/02/2022 21:27:15]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:27:16]
+  Jarrod Connors: А-А-А-А-А-А!
+[11/02/2022 21:27:19]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 21:27:19]
+  iliya_kind grabbed Armanda Sparks's body and received 41 mk.
+[11/02/2022 21:27:23]
+  igameCrog picked up Топливный стержень
+[11/02/2022 21:27:24]
+  kynlan4ic placed Шлем стрелка in Хозяйственный шкаф (ID: 385)
+[11/02/2022 21:27:24]
+  kynlan4ic removed Подводная маска from Хозяйственный шкаф (ID: 385)
+[11/02/2022 21:27:24]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:27:26]
+  kynlan4ic picked up Шлем стрелка
+[11/02/2022 21:27:28]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/02/2022 21:27:32]
+  iliya_kind grabbed Eleanor McNeal's body and received 8 mk.
+[11/02/2022 21:27:33]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:27:33]
+  Donn Stogner: Надо найти водолазный скафандр!
+[11/02/2022 21:27:34]
+  iliya_kind grabbed Marylee Sykes's body and received 42 mk.
+[11/02/2022 21:27:36]
+  Jarrod Connors: Отвали от меня!
+[11/02/2022 21:27:39]
+  iliya_kind picked up Лом
+[11/02/2022 21:27:39]
+  Boyce Chaney: Суперконденсатор сломался!
+[11/02/2022 21:27:41]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:27:42]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:27:44]
+  Abe Lane: Трюм: все протечки устранены!
+[11/02/2022 21:27:46]
+  iliya_kind equipped Лом
+[11/02/2022 21:27:46]
+  Irwin Escobar: Суперконденсатор поврежден!
+[11/02/2022 21:27:47]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:27:52]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:27:57]
+  Jarrod Connors: Помогите мне!
+[11/02/2022 21:28:02]
+  Outer wall repaired by Abe Lane
+[11/02/2022 21:28:02]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:28:03]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:28:04]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:28:09]
+  Boyce Chaney: Суперконденсатор не работает!
+[11/02/2022 21:28:12]
+  kynlan4ic has died (Cause of death: Ожог)
+[11/02/2022 21:28:15]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:28:15]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:28:15]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 6725)
+[11/02/2022 21:28:16]
+  Irwin Escobar: Суперконденсатор не работает!
+[11/02/2022 21:28:18]
+  Jarrod Connors: Помогите мне!
+[11/02/2022 21:28:21]
+  Inner wall breached by Mudraptor_unarmored
+[11/02/2022 21:28:21]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:28:22]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:28:22]
+  Dispatching the respawn shuttle.
+[11/02/2022 21:28:22]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/02/2022 21:28:23]
+  The respawn shuttle is leaving.
+[11/02/2022 21:28:24]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:28:25]
+  Abe Lane unequipped Сварочный аппарат
+[11/02/2022 21:28:25]
+  Abe Lane equipped Отвертка
+[11/02/2022 21:28:29]
+  iliya_kind placed Подводное ружье in Большой стальной шкаф (обломки) (ID: 6130)
+[11/02/2022 21:28:29]
+  iliya_kind removed Подводное ружье from Большой стальной шкаф (обломки) (ID: 6130)
+[11/02/2022 21:28:29]
+  iliya_kind picked up Подводное ружье
+[11/02/2022 21:28:31]
+  Outer wall breached by Mudraptor_unarmored
+[11/02/2022 21:28:32]
+  iliya_kind picked up Подводное ружье
+[11/02/2022 21:28:32]
+  Abe Lane started repairing Суперконденсатор
+[11/02/2022 21:28:34]
+  Jarrod Connors: Я теряю много крови!
+[11/02/2022 21:28:34]
+  Mudraptor has died (Cause of death: Травма от удара тупым предметом)
+[11/02/2022 21:28:35]
+  iliya_kind placed Магазин для ПП in Большой стальной шкаф (обломки) (ID: 6130)
+[11/02/2022 21:28:38]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:28:38]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:28:38]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:28:38]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:28:39]
+  Jarrod Connors: Ищу безопасное место!
+[11/02/2022 21:28:39]
+  Boyce Chaney: Суперконденсатор сломался!
+[11/02/2022 21:28:40]
+  iliya_kind placed Подводное ружье in Большой стальной шкаф (обломки) (ID: 6130)
+[11/02/2022 21:28:42]
+  Abe Lane unequipped Отвертка
+[11/02/2022 21:28:42]
+  Abe Lane equipped Сварочный аппарат
+[11/02/2022 21:28:42]
+  iliya_kind picked up Взрывной гарпун
+[11/02/2022 21:28:46]
+  Irwin Escobar: Суперконденсатор не работает!
+[11/02/2022 21:28:47]
+  Donn Stogner: Мне нужно подводное снаряжение!
+[11/02/2022 21:28:54]
+  kynlan4ic equipped Вещмешок
+[11/02/2022 21:28:55]
+  The respawn shuttle has left.
+[11/02/2022 21:28:55]
+  Tania Lawrence equipped Сварочный аппарат
+[11/02/2022 21:28:58]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:28:59]
+  Jarrod Connors: Ищу безопасное место!
+[11/02/2022 21:28:59]
+  kynlan4ic placed Подводная маска in Вещмешок (ID: 6636)
+[11/02/2022 21:29:00]
+  iliya_kind equipped Подводное ружье
+[11/02/2022 21:29:08]
+  Donn Stogner equipped Дробовик
+[11/02/2022 21:29:09]
+  Boyce Chaney: Мне нужно, чтобы кто-нибудь починил суперконденсатор!
+[11/02/2022 21:29:12]
+  Tania Lawrence: Трюм: минус одна протечка!
+[11/02/2022 21:29:14]
+  Outer wall repaired by Tania Lawrence
+[11/02/2022 21:29:15]
+  Tania Lawrence: Трюм: протечек не осталось!
+[11/02/2022 21:29:15]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[11/02/2022 21:29:16]
+  Irwin Escobar: Меняем кислородные баллоны!
+[11/02/2022 21:29:16]
+  Irwin Escobar: Суперконденсатор сломался!
+[11/02/2022 21:29:16]
+  Jarrod Connors has died (Cause of death: Укусы)
+[11/02/2022 21:29:19]
+  Donn Stogner: Надо найти водолазный скафандр!
+[11/02/2022 21:29:25]
+  Dispatching the respawn shuttle.
+[11/02/2022 21:29:25]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/02/2022 21:29:25]
+  Respawning bot Jarrod Connors as Механик
+[11/02/2022 21:29:26]
+  The respawn shuttle is leaving.
+[11/02/2022 21:29:27]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:29:28]
+  Abe Lane: Меняем кислородные баллоны!
+[11/02/2022 21:29:30]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:29:33]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:29:33]
+  Tania Lawrence unequipped Сварочный аппарат
+[11/02/2022 21:29:33]
+  Tania Lawrence equipped Гаечный ключ
+[11/02/2022 21:29:33]
+  Abe Lane unequipped Сварочный аппарат
+[11/02/2022 21:29:33]
+  Abe Lane equipped Гаечный ключ
+[11/02/2022 21:29:34]
+  Abe Lane unequipped Гаечный ключ
+[11/02/2022 21:29:34]
+  Abe Lane equipped Отвертка
+[11/02/2022 21:29:36]
+  Jarrod Connors: Надо найти водолазный скафандр!
+[11/02/2022 21:29:37]
+  Console command "godmode" executed by kynlan4ic.
+[11/02/2022 21:29:38]
+  Outer wall breached by Bonethresher
+[11/02/2022 21:29:39]
+  Boyce Chaney: Суперконденсатор не работает!
+[11/02/2022 21:29:41]
+  Console command "godmode" executed by kynlan4ic.
+[11/02/2022 21:29:45]
+  Jarrod Connors equipped Кислородный баллон
+[11/02/2022 21:29:46]
+  Abe Lane started repairing Суперконденсатор
+[11/02/2022 21:29:47]
+  Irwin Escobar: Суперконденсатор не работает!
+[11/02/2022 21:29:48]
+  Jarrod Connors equipped Гаечный ключ
+[11/02/2022 21:29:49]
+  Jarrod Connors unequipped Гаечный ключ
+[11/02/2022 21:29:52]
+  Donn Stogner: Мне нужно подводное снаряжение!
+[11/02/2022 21:29:54]
+  Abe Lane unequipped Отвертка
+[11/02/2022 21:29:54]
+  Abe Lane equipped Сварочный аппарат
+[11/02/2022 21:29:57]
+  The respawn shuttle has left.
+[11/02/2022 21:30:00]
+  Ending round by votes (2/1)
+[11/02/2022 21:30:00]
+  Ending the round...

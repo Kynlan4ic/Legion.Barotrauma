@@ -1,0 +1,440 @@
+﻿[03/07/2023 23:25:42]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[03/07/2023 23:25:44]
+  Colonel placed Плазменный резак in Вещмешок (ID: 1092)
+[03/07/2023 23:26:05]
+  Colonel dropped Вещмешок
+[03/07/2023 23:26:07]
+  Poplar picked up Подводная маска
+[03/07/2023 23:26:09]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:09]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:09]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:09]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:09]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:09]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:11]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 23:26:11]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 23:26:11]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 23:26:11]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 23:26:11]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 23:26:11]
+  kynlan4ic picked up Кислородный баллон
+[03/07/2023 23:26:12]
+  cекси бабиджон picked up Сварочный аппарат
+[03/07/2023 23:26:13]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/07/2023 23:26:23]
+  Blue moon disconnected a wire from Аварийный гудок (set_state) to Компонент "Или" (signal_out)
+[03/07/2023 23:26:23]
+  Blue moon connected a wire from Аварийный гудок (toggle) to Компонент "Или" (signal_out)
+[03/07/2023 23:26:24]
+  Blue moon disconnected a wire from Аварийный гудок (toggle) to Компонент "Или" (signal_out)
+[03/07/2023 23:26:24]
+  Blue moon connected a wire from Аварийный гудок (set_state) to Компонент "Или" (signal_out)
+[03/07/2023 23:26:25]
+  cекси бабиджон equipped Медконтейнер
+[03/07/2023 23:26:27]
+  cекси бабиджон dropped Медконтейнер
+[03/07/2023 23:26:35]
+  Poplar picked up Детектор воды
+[03/07/2023 23:26:36]
+  Poplar picked up Отвертка
+[03/07/2023 23:26:37]
+  Poplar picked up Гаечный ключ
+[03/07/2023 23:26:38]
+  Blue moon disconnected a wire from Детектор дыма (signal_out)
+[03/07/2023 23:26:38]
+  Blue moon picked up Синий провод
+[03/07/2023 23:26:47]
+  cекси бабиджон picked up Игрушечный молот
+[03/07/2023 23:26:50]
+  cекси бабиджон equipped Игрушечный молот
+[03/07/2023 23:26:52]
+  cекси бабиджон used Игрушечный молот on Большая горизонтальная внутренняя стена.
+[03/07/2023 23:26:53]
+  Colonel equipped Губная гармошка
+[03/07/2023 23:26:56]
+  Poplar placed Детектор воды in Деконструктор (ID: 1951)
+[03/07/2023 23:26:56]
+  Poplar placed Отвертка in Деконструктор (ID: 1951)
+[03/07/2023 23:26:57]
+  Poplar placed Гаечный ключ in Деконструктор (ID: 1951)
+[03/07/2023 23:26:57]
+  cекси бабиджон placed Игрушечный молот in Хозяйственный шкаф (ID: 461)
+[03/07/2023 23:27:03]
+  Blue moon dropped Синий провод
+[03/07/2023 23:27:05]
+  Blue moon unequipped Синий провод
+[03/07/2023 23:27:10]
+  Blue moon equipped Синий провод
+[03/07/2023 23:27:14]
+  cекси бабиджон picked up Плазменный резак
+[03/07/2023 23:27:15]
+  Blue moon connected a wire to Ядерный реактор (set_fissionrate)
+[03/07/2023 23:27:20]
+  cекси бабиджон placed Плазменный резак in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 23:27:28]
+  Blue moon connected a wire from Детектор дыма (signal_out) to Ядерный реактор (set_fissionrate)
+[03/07/2023 23:27:28]
+  kynlan4ic equipped Контейнер для хранения
+[03/07/2023 23:27:28]
+  kynlan4ic picked up Контейнер для хранения
+[03/07/2023 23:27:29]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 664)
+[03/07/2023 23:27:30]
+  kynlan4ic equipped Контейнер для хранения
+[03/07/2023 23:27:30]
+  kynlan4ic picked up Контейнер для хранения
+[03/07/2023 23:27:32]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 664)
+[03/07/2023 23:27:33]
+  Blue moon adjusted reactor settings: Temperature: 4969, Fission rate: 38, Turbine output: 11, Autotemp OFF
+[03/07/2023 23:27:35]
+  Poplar equipped Контейнер для хранения
+[03/07/2023 23:27:35]
+  Poplar picked up Контейнер для хранения
+[03/07/2023 23:27:37]
+  Blue moon adjusted reactor settings: Temperature: 2548, Fission rate: 18, Turbine output: 11, Autotemp ON
+[03/07/2023 23:27:42]
+  Blue moon adjusted reactor settings: Temperature: 2440, Fission rate: 22, Turbine output: 11, Autotemp OFF
+[03/07/2023 23:27:42]
+  kynlan4ic equipped Медконтейнер
+[03/07/2023 23:27:51]
+  kynlan4ic dropped Медконтейнер
+[03/07/2023 23:27:52]
+  Blue moon set the value "FalseOutput" of the item "Детектор дыма" to "".
+[03/07/2023 23:27:54]
+  Blue moon adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 10, Autotemp ON
+[03/07/2023 23:27:56]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 23:27:59]
+  cекси бабиджон picked up Плазменный резак
+[03/07/2023 23:28:02]
+  cекси бабиджон equipped Плазменный резак
+[03/07/2023 23:28:05]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:28:06]
+  Blue moon disconnected a wire from Малый насос (set_speed) to Детектор дыма (signal_out)
+[03/07/2023 23:28:10]
+  Blue moon disconnected a wire from Детектор дыма (signal_out)
+[03/07/2023 23:28:10]
+  Blue moon picked up Провод
+[03/07/2023 23:28:11]
+  kynlan4ic equipped Ящик с химикатами
+[03/07/2023 23:28:15]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:15]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:15]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:15]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar placed Детектор воды in Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar removed Урановая руда from Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar removed Урановая руда from Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar removed Урановая руда from Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar removed Урановая руда from Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:16]
+  Poplar placed Урановая руда in Деконструктор (ID: 1951)
+[03/07/2023 23:28:17]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:17]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:17]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:17]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar placed Отвертка in Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar removed Гидроксиапатит from Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar removed Гидроксиапатит from Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar removed Гидроксиапатит from Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar removed Гидроксиапатит from Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:18]
+  Poplar placed Гидроксиапатит in Деконструктор (ID: 1951)
+[03/07/2023 23:28:19]
+  kynlan4ic dropped Ящик с химикатами
+[03/07/2023 23:28:19]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:19]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:19]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:19]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar placed Гаечный ключ in Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar removed Алмаз from Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar removed Алмаз from Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar removed Алмаз from Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar removed Алмаз from Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:20]
+  Poplar placed Алмаз in Деконструктор (ID: 1951)
+[03/07/2023 23:28:21]
+  Poplar activated Деконструктор
+[03/07/2023 23:28:24]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 23:28:29]
+  Blue moon equipped Провод
+[03/07/2023 23:28:31]
+  cекси бабиджон picked up Подводная маска
+[03/07/2023 23:28:33]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:28:34]
+  Blue moon connected a wire to Малый насос (toggle)
+[03/07/2023 23:28:38]
+  kynlan4ic equipped Ящик со взрывчаткой
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:42]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:43]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:43]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:43]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:43]
+  Poplar placed Углерод in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:28:43]
+  kynlan4ic dropped Ящик со взрывчаткой
+[03/07/2023 23:28:44]
+  Blue moon connected a wire from Детектор воды (signal_out) to Малый насос (toggle)
+[03/07/2023 23:28:46]
+  Blue moon equipped Шоковая дубинка
+[03/07/2023 23:28:50]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 23:28:52]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:28:53]
+  kynlan4ic equipped Водолазный скафандр
+[03/07/2023 23:28:58]
+  kynlan4ic dropped Водолазный скафандр
+[03/07/2023 23:29:00]
+  cекси бабиджон placed Плазменный резак in Средний стальной шкаф с окном (ID: 131)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Фосфор in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Кальций in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Кальций in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Кальций in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:02]
+  Poplar placed Кальций in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:04]
+  cекси бабиджон placed Подводная маска in Средний стальной шкаф (ID: 664)
+[03/07/2023 23:29:05]
+  cекси бабиджон placed Урановая руда in Средний стальной шкаф (ID: 664)
+[03/07/2023 23:29:05]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 23:29:06]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:29:07]
+  Blue moon disconnected a wire from Детектор воды (signal_out) to Малый насос (toggle)
+[03/07/2023 23:29:07]
+  Blue moon connected a wire from Детектор воды (water_%) to Малый насос (toggle)
+[03/07/2023 23:29:07]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 23:29:08]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:29:11]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:29:21]
+  Raymon Graves: Слыхал, что было на скачках рапторов в прошлые выходные?
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  Poplar placed Уран in Контейнер для хранения (ID: 1129)
+[03/07/2023 23:29:22]
+  kynlan4ic equipped Металлический ящик
+[03/07/2023 23:29:24]
+  Blue moon set the pumping speed of Малый насос to -90 %
+[03/07/2023 23:29:24]
+  Blue moon turned on Малый насос
+[03/07/2023 23:29:24]
+  Blue moon set the pumping speed of Малый насос to -80 %
+[03/07/2023 23:29:24]
+  Blue moon set the pumping speed of Малый насос to -70 %
+[03/07/2023 23:29:24]
+  Blue moon turned off Малый насос
+[03/07/2023 23:29:24]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:29:24]
+  Blue moon set the pumping speed of Малый насос to -60 %
+[03/07/2023 23:29:24]
+  Blue moon set the pumping speed of Малый насос to -50 %
+[03/07/2023 23:29:26]
+  Anton Larsen: Если честно, я спорт не очень люблю, тем более скачки рапторов. Они, конечно, рапторы, но все равно нельзя так обращаться с животными.
+[03/07/2023 23:29:34]
+  kynlan4ic picked up Контейнер для хранения
+[03/07/2023 23:29:35]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 664)
+[03/07/2023 23:29:37]
+  Blue moon disconnected a wire from Детектор воды (water_%) to Малый насос (toggle)
+[03/07/2023 23:29:41]
+  Blue moon set the pumping speed of Малый насос to -30 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to -20 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to 40 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to 80 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to 90 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to 100 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to 90 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to -30 %
+[03/07/2023 23:29:42]
+  Blue moon set the pumping speed of Малый насос to -100 %
+[03/07/2023 23:29:45]
+  Poplar placed Контейнер для хранения in Средний стальной шкаф (ID: 664)
+[03/07/2023 23:29:46]
+  Blue moon disconnected a wire from Малый насос (toggle)
+[03/07/2023 23:29:46]
+  Blue moon connected a wire to Малый насос (set_active)
+[03/07/2023 23:29:48]
+  Blue moon disconnected a wire from Малый насос (set_active)
+[03/07/2023 23:29:48]
+  Blue moon connected a wire to Малый насос (set_speed)
+[03/07/2023 23:29:56]
+  Blue moon equipped Провод
+[03/07/2023 23:29:59]
+  Blue moon connected a wire to Детектор воды (water_%)
+[03/07/2023 23:30:07]
+  Blue moon disconnected a wire from Малый насос (set_speed)
+[03/07/2023 23:30:07]
+  Blue moon picked up Провод
+[03/07/2023 23:30:11]
+  Blue moon connected a wire to Малый насос (set_speed)
+[03/07/2023 23:30:15]
+  Blue moon connected a wire from Детектор воды (water_%) to Малый насос (set_speed)
+[03/07/2023 23:30:33]
+  Blue moon used Лом on Обшивка A 0 градусов.
+[03/07/2023 23:30:48]
+  Blue moon disconnected a wire from Малый насос (set_speed) to Детектор воды (water_%)
+[03/07/2023 23:30:50]
+  Blue moon set the pumping speed of Малый насос to -20 %
+[03/07/2023 23:30:50]
+  Blue moon set the pumping speed of Малый насос to -90 %
+[03/07/2023 23:30:50]
+  kynlan4ic dropped Металлический ящик
+[03/07/2023 23:30:52]
+  Blue moon set the pumping speed of Малый насос to -100 %
+[03/07/2023 23:31:02]
+  Blue moon set the value "Output" of the item "Детектор воды" to "-100".
+[03/07/2023 23:31:03]
+  Blue moon set the value "FalseOutput" of the item "Детектор воды" to "0".
+[03/07/2023 23:31:06]
+  Blue moon disconnected a wire from Детектор воды (water_%)
+[03/07/2023 23:31:06]
+  Blue moon connected a wire to Детектор воды (signal_out)
+[03/07/2023 23:31:13]
+  Blue moon disconnected a wire from Детектор воды (signal_out)
+[03/07/2023 23:31:15]
+  Blue moon picked up Провод
+[03/07/2023 23:31:20]
+  Blue moon connected a wire to Детектор воды (signal_out)
+[03/07/2023 23:31:24]
+  Blue moon connected a wire from Малый насос (set_active) to Детектор воды (signal_out)
+[03/07/2023 23:31:30]
+  cекси бабиджон equipped Огнетушитель
+[03/07/2023 23:31:30]
+  cекси бабиджон picked up Огнетушитель
+[03/07/2023 23:31:33]
+  cекси бабиджон placed Огнетушитель in Стойка огнетушителя (ID: 619)
+[03/07/2023 23:31:35]
+  Client "kynlan4ic" ended the round.
+[03/07/2023 23:31:36]
+  Ending the round...

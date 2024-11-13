@@ -1,0 +1,1600 @@
+﻿[11/04/2022 21:46:30]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:46:39]
+  igameCrog dropped Водолазный скафандр
+[11/04/2022 21:46:43]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:46:43]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:46:48]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 21:46:49]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 21:46:52]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:46:52]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:46:52]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:46:53]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:46:53]
+  igameCrog dropped Водолазный скафандр
+[11/04/2022 21:46:56]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:46:57]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:47:01]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 21:47:02]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 21:47:03]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:47:04]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:47:05]
+  kynlan4ic equipped Водолазный скафандр
+[11/04/2022 21:47:10]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:47:10]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:47:11]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 21:47:14]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:47:14]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:47:14]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:47:15]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:47:16]
+  igameCrog picked up Водолазный скафандр
+[11/04/2022 21:47:18]
+  igameCrog equipped Водолазный скафандр
+[11/04/2022 21:47:24]
+  Супостат equipped Сварочный аппарат
+[11/04/2022 21:47:24]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:47:24]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:47:26]
+  Dispatching the respawn shuttle.
+[11/04/2022 21:47:26]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/04/2022 21:47:26]
+  Respawning bot Astrid Marchi as Офицер службы безопасности
+[11/04/2022 21:47:29]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:47:30]
+  Hector Pool equipped Гаечный ключ
+[11/04/2022 21:47:30]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 21:47:32]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:47:32]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 21:47:34]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:47:37]
+  Dan Pollard failed to repair Генератор кислорода
+[11/04/2022 21:47:37]
+  Hector Pool started repairing Генератор кислорода
+[11/04/2022 21:47:39]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:47:40]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:40]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:40]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:40]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:40]
+  Outer wall breached by Супостат
+[11/04/2022 21:47:41]
+  Hector Pool unequipped Гаечный ключ
+[11/04/2022 21:47:41]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:41]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:41]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 21:47:41]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:41]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 21:47:41]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:42]
+  Супостат launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/04/2022 21:47:43]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:47:47]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 21:47:48]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 21:47:48]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:47:49]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:47:49]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:47:50]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:47:50]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:47:51]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:47:51]
+  Hector Pool equipped Сварочный аппарат
+[11/04/2022 21:47:52]
+  Hector Pool: Пункт управления: протечек не осталось!
+[11/04/2022 21:47:53]
+  Hector Pool unequipped Сварочный аппарат
+[11/04/2022 21:47:56]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 21:47:57]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 21:47:58]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:47:58]
+  Супостат opened Настраиваемая дверь
+[11/04/2022 21:48:00]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:48:05]
+  Супостат has died (Cause of death: Баротравма)
+[11/04/2022 21:48:22]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:48:23]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:48:52]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:48:53]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:49:05]
+  The respawn shuttle is leaving.
+[11/04/2022 21:49:36]
+  Astrid Marchi has died (Cause of death: Unknown)
+[11/04/2022 21:49:36]
+  The respawn shuttle has left.
+[11/04/2022 21:49:40]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:49:40]
+  Pedro Walls equipped Отвертка
+[11/04/2022 21:49:41]
+  Console command "teleportcharacter супостат" executed by kynlan4ic.
+[11/04/2022 21:49:42]
+  Page Aguilar equipped Нож ныряльщика
+[11/04/2022 21:49:44]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Навигационный терминал (signal_out1)
+[11/04/2022 21:49:49]
+  igameCrog connected a wire from Настраиваемый люк (state_out) to Навигационный терминал (signal_out1)
+[11/04/2022 21:49:50]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:49:51]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:49:51]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 21:49:52]
+  Page Aguilar unequipped Нож ныряльщика
+[11/04/2022 21:49:53]
+  igameCrog disconnected a wire from Настраиваемый люк (state_out) to Навигационный терминал (signal_out1)
+[11/04/2022 21:49:53]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Навигационный терминал (signal_out1)
+[11/04/2022 21:49:53]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 21:49:53]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 21:49:56]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 21:49:58]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:49:59]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 21:50:00]
+  Lelah Aker equipped Сварочный аппарат
+[11/04/2022 21:50:00]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 21:50:01]
+  Hector Pool equipped Сварочный аппарат
+[11/04/2022 21:50:01]
+  Roberta Stogner equipped Гаечный ключ
+[11/04/2022 21:50:01]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 21:50:02]
+  Page Aguilar equipped Нож ныряльщика
+[11/04/2022 21:50:02]
+  igameCrog disconnected a wire from Настраиваемый люк (toggle) to Навигационный терминал (signal_out1)
+[11/04/2022 21:50:06]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 21:50:07]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 21:50:09]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 21:50:10]
+  Lelah Aker unequipped Сварочный аппарат
+[11/04/2022 21:50:10]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 21:50:11]
+  Hector Pool unequipped Сварочный аппарат
+[11/04/2022 21:50:11]
+  Roberta Stogner unequipped Гаечный ключ
+[11/04/2022 21:50:11]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 21:50:12]
+  Page Aguilar unequipped Нож ныряльщика
+[11/04/2022 21:50:27]
+  Супостат equipped Шоковая дубинка
+[11/04/2022 21:50:29]
+  Супостат equipped Нож ныряльщика
+[11/04/2022 21:50:43]
+  igameCrog dropped Водолазный скафандр
+[11/04/2022 21:50:46]
+  Dispatching the respawn shuttle.
+[11/04/2022 21:50:46]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/04/2022 21:50:46]
+  Respawning bot Astrid Marchi as Офицер службы безопасности
+[11/04/2022 21:50:49]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:50:52]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:50:53]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:51:10]
+  igameCrog picked up Удостоверение личности
+[11/04/2022 21:51:23]
+  igameCrog placed Удостоверение личности in Пояс инструментов (ID: 4963)
+[11/04/2022 21:51:31]
+  igameCrog placed Бинт in Форма врача (ID: 4915)
+[11/04/2022 21:51:31]
+  igameCrog placed Бинт in Форма врача (ID: 4915)
+[11/04/2022 21:51:31]
+  igameCrog placed Бинт in Форма врача (ID: 4915)
+[11/04/2022 21:51:31]
+  igameCrog placed Бинт in Форма врача (ID: 4915)
+[11/04/2022 21:51:31]
+  igameCrog placed Бинт in Форма врача (ID: 4915)
+[11/04/2022 21:51:31]
+  igameCrog placed Бинт in Форма врача (ID: 4915)
+[11/04/2022 21:51:33]
+  igameCrog placed Морфин in Форма врача (ID: 4915)
+[11/04/2022 21:51:33]
+  igameCrog placed Морфин in Форма врача (ID: 4915)
+[11/04/2022 21:51:33]
+  kynlan4ic: Page Aguilar, заряди реактор!
+[11/04/2022 21:51:34]
+  Dan Pollard equipped Водолазный скафандр
+[11/04/2022 21:51:34]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:51:34]
+  Page Aguilar: Вас понял!
+[11/04/2022 21:51:34]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:51:35]
+  igameCrog placed Сварочный аппарат in Хозяйственный шкаф (ID: 654)
+[11/04/2022 21:51:35]
+  igameCrog removed Сварочный аппарат from Хозяйственный шкаф (ID: 654)
+[11/04/2022 21:51:35]
+  igameCrog picked up Сварочный аппарат
+[11/04/2022 21:51:38]
+  Page Aguilar: Невозможно добраться: Ядерный реактор!
+[11/04/2022 21:51:38]
+  igameCrog placed Стабилоцин in Пояс инструментов (ID: 4963)
+[11/04/2022 21:51:38]
+  igameCrog placed Стабилоцин in Пояс инструментов (ID: 4963)
+[11/04/2022 21:51:38]
+  igameCrog placed Стабилоцин in Пояс инструментов (ID: 4963)
+[11/04/2022 21:51:46]
+  kynlan4ic: Page Aguilar, заряди реактор!
+[11/04/2022 21:51:47]
+  Page Aguilar: Слушаюсь!
+[11/04/2022 21:51:47]
+  kynlan4ic: Page Aguilar, спасибо за работу с реактором!
+[11/04/2022 21:51:49]
+  kynlan4ic: Page Aguilar, заряди реактор!
+[11/04/2022 21:51:50]
+  Page Aguilar: Есть!
+[11/04/2022 21:51:50]
+  kynlan4ic: Page Aguilar, спасибо за работу с реактором!
+[11/04/2022 21:51:59]
+  igameCrog picked up Водолазный скафандр
+[11/04/2022 21:51:59]
+  Pedro Walls: Надо найти водолазный скафандр!
+[11/04/2022 21:52:10]
+  igameCrog used item Морфин
+[11/04/2022 21:52:38]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:52:39]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:52:45]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:52:46]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:53:23]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:53:24]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:53:26]
+  Roberta Stogner: Мне нужно подводное снаряжение!
+[11/04/2022 21:53:26]
+  Page Aguilar: Надо найти водолазный скафандр!
+[11/04/2022 21:53:46]
+  igameCrog picked up Лом
+[11/04/2022 21:53:51]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 21:53:56]
+  Lelah Aker equipped Гаечный ключ
+[11/04/2022 21:53:57]
+  Lelah Aker unequipped Гаечный ключ
+[11/04/2022 21:53:57]
+  Lelah Aker equipped Сварочный аппарат
+[11/04/2022 21:53:59]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 21:53:59]
+  Roberta Stogner equipped Гаечный ключ
+[11/04/2022 21:54:01]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 21:54:01]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 21:54:01]
+  Hector Pool equipped Сварочный аппарат
+[11/04/2022 21:54:01]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 21:54:02]
+  Lelah Aker unequipped Сварочный аппарат
+[11/04/2022 21:54:02]
+  Lelah Aker equipped Гаечный ключ
+[11/04/2022 21:54:04]
+  Lelah Aker used Гаечный ключ on Marylee Chaney.
+[11/04/2022 21:54:05]
+  Lelah Aker used Гаечный ключ on Marylee Chaney.
+[11/04/2022 21:54:06]
+  igameCrog placed Шприц-пистолет in Пояс инструментов (ID: 4963)
+[11/04/2022 21:54:06]
+  igameCrog removed Удостоверение личности from Пояс инструментов (ID: 4963)
+[11/04/2022 21:54:06]
+  igameCrog picked up Удостоверение личности
+[11/04/2022 21:54:07]
+  Lelah Aker unequipped Гаечный ключ
+[11/04/2022 21:54:08]
+  Lelah Aker: Я теряю много крови!
+[11/04/2022 21:54:09]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 21:54:09]
+  Roberta Stogner unequipped Гаечный ключ
+[11/04/2022 21:54:10]
+  igameCrog placed Шприц-пистолет in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 21:54:11]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 21:54:11]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 21:54:11]
+  Hector Pool unequipped Сварочный аппарат
+[11/04/2022 21:54:11]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 21:54:12]
+  Супостат used Нож ныряльщика on Lelah Aker.
+[11/04/2022 21:54:12]
+  Lelah Aker equipped Сварочный аппарат
+[11/04/2022 21:54:15]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 21:54:16]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 21:54:16]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 21:54:16]
+  Hector Pool equipped Сварочный аппарат
+[11/04/2022 21:54:16]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 21:54:16]
+  Roberta Stogner equipped Гаечный ключ
+[11/04/2022 21:54:18]
+  Roberta Stogner opened Настраиваемая дверь
+[11/04/2022 21:54:18]
+  Roberta Stogner closed Настраиваемая дверь
+[11/04/2022 21:54:23]
+  Lelah Aker unequipped Сварочный аппарат
+[11/04/2022 21:54:23]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 21:54:23]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 21:54:25]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 21:54:26]
+  Супостат opened Настраиваемая дверь
+[11/04/2022 21:54:26]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 21:54:26]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 21:54:26]
+  Hector Pool unequipped Сварочный аппарат
+[11/04/2022 21:54:26]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 21:54:26]
+  Roberta Stogner unequipped Гаечный ключ
+[11/04/2022 21:54:33]
+  Супостат has died (Cause of death: Баротравма)
+[11/04/2022 21:54:34]
+  Page Aguilar unequipped Нож ныряльщика
+[11/04/2022 21:54:35]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 21:54:35]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 21:54:35]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:54:36]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:54:39]
+  Lelah Aker: Помогите, я истекаю кровью!
+[11/04/2022 21:54:39]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 21:54:39]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 21:54:44]
+  Hector Pool: Меняем кислородные баллоны!
+[11/04/2022 21:54:45]
+  Dan Pollard: Где кислородные баллоны?
+[11/04/2022 21:54:48]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4963)
+[11/04/2022 21:54:48]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4963)
+[11/04/2022 21:54:48]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 4595)
+[11/04/2022 21:54:49]
+  Hector Pool equipped Кислородный баллон
+[11/04/2022 21:54:49]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:54:50]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:55:04]
+  Супостат used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 21:55:05]
+  Dan Pollard unequipped Кислородный баллон
+[11/04/2022 21:55:07]
+  Lelah Aker: Я чувствую жуткую слабость. Все тело болит.
+[11/04/2022 21:55:07]
+  Marylee Chaney: У меня кровь!
+[11/04/2022 21:55:07]
+  Page Aguilar equipped Нож ныряльщика
+[11/04/2022 21:55:07]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 21:55:07]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 21:55:08]
+  Lelah Aker equipped Сварочный аппарат
+[11/04/2022 21:55:08]
+  The Heuer: Надо найти водолазный скафандр!
+[11/04/2022 21:55:08]
+  Seth Fonte: Надо найти водолазный скафандр!
+[11/04/2022 21:55:09]
+  Dan Pollard equipped Кислородный баллон
+[11/04/2022 21:55:09]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 21:55:09]
+  Hector Pool equipped Сварочный аппарат
+[11/04/2022 21:55:09]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 21:55:09]
+  Roberta Stogner equipped Гаечный ключ
+[11/04/2022 21:55:17]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 21:55:18]
+  Lelah Aker unequipped Сварочный аппарат
+[11/04/2022 21:55:20]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 21:55:20]
+  Hector Pool unequipped Сварочный аппарат
+[11/04/2022 21:55:20]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 21:55:20]
+  Roberta Stogner unequipped Гаечный ключ
+[11/04/2022 21:55:22]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 21:55:26]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 21:55:26]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 21:55:27]
+  Hector Pool equipped Кислородный баллон
+[11/04/2022 21:55:33]
+  The respawn shuttle is leaving.
+[11/04/2022 21:55:33]
+  Dan Pollard equipped Кислородный баллон
+[11/04/2022 21:55:37]
+  Супостат picked up Плазменный резак
+[11/04/2022 21:55:38]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 21:55:40]
+  Marylee Chaney: Я теряю много крови!
+[11/04/2022 21:55:45]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 21:55:45]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 21:55:49]
+  Супостат equipped Плазменный резак
+[11/04/2022 21:55:51]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 21:55:51]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 21:56:00]
+  Hector Pool equipped Кислородный баллон
+[11/04/2022 21:56:03]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:56:03]
+  Astrid Marchi has died (Cause of death: Unknown)
+[11/04/2022 21:56:03]
+  The respawn shuttle has left.
+[11/04/2022 21:56:04]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:56:07]
+  The Heuer: Надо найти водолазный скафандр!
+[11/04/2022 21:56:30]
+  Lelah Aker: У меня что-то во рту...
+[11/04/2022 21:56:32]
+  Marylee Chaney: Что-то в горле першит.
+[11/04/2022 21:56:40]
+  Marylee Chaney: Мне нужно подводное снаряжение!
+[11/04/2022 21:56:40]
+  Lelah Aker: Мне нужно подводное снаряжение!
+[11/04/2022 21:56:53]
+  igameCrog started repairing Кабельная коробка
+[11/04/2022 21:56:54]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/04/2022 21:56:56]
+  kynlan4ic used Яйца велонацепса каликса on Hector Pool.
+[11/04/2022 21:56:56]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/04/2022 21:57:02]
+  The Heuer: Сейчас нас потрясет как следует.
+[11/04/2022 21:57:02]
+  Dan Pollard: Мне нужен кислород!
+[11/04/2022 21:57:04]
+  igameCrog started repairing Навигационный терминал
+[11/04/2022 21:57:06]
+  igameCrog started sabotaging Навигационный терминал
+[11/04/2022 21:57:07]
+  igameCrog started repairing Навигационный терминал
+[11/04/2022 21:57:11]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:57:12]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:57:14]
+  Dispatching the respawn shuttle.
+[11/04/2022 21:57:14]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/04/2022 21:57:14]
+  Respawning bot Astrid Marchi as Офицер службы безопасности
+[11/04/2022 21:57:15]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:57:26]
+  Hector Pool equipped Гаечный ключ
+[11/04/2022 21:57:29]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 21:57:29]
+  Lelah Aker: Надо найти водолазный скафандр!
+[11/04/2022 21:57:30]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:30]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:57:32]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 21:57:32]
+  kynlan4ic dropped Кислородный баллон
+[11/04/2022 21:57:32]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 4599)
+[11/04/2022 21:57:32]
+  Dan Pollard equipped Отвертка
+[11/04/2022 21:57:35]
+  igameCrog equipped Сварочный аппарат
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Roberta Stogner equipped Кислородный баллон
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:35]
+  Hector Pool started repairing Дверь с окном и кнопками
+[11/04/2022 21:57:36]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 21:57:39]
+  Lelah Aker equipped Кислородный баллон
+[11/04/2022 21:57:40]
+  Hector Pool unequipped Гаечный ключ
+[11/04/2022 21:57:49]
+  igameCrog picked up Пистолет-пулемет
+[11/04/2022 21:57:52]
+  igameCrog equipped Пистолет-пулемет
+[11/04/2022 21:57:54]
+  Hector Pool equipped Гаечный ключ
+[11/04/2022 21:57:54]
+  Hector Pool unequipped Гаечный ключ
+[11/04/2022 21:58:00]
+  Marylee Chaney: У меня что-то во рту...
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:01]
+  Hector Pool attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Hector Pool: Ох, зачем же так?
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:03]
+  Hector Pool equipped Сварочный аппарат
+[11/04/2022 21:58:04]
+  Lelah Aker equipped Сварочный аппарат
+[11/04/2022 21:58:05]
+  kynlan4ic attacked by igameCrog. Огнестрельная рана: 3.25 Кровотечение: 6.09375 Оглушение: 0.15
+[11/04/2022 21:58:05]
+  kynlan4ic attacked by igameCrog. Огнестрельная рана: 3.25 Кровотечение: 6.09375 Оглушение: 0.15
+[11/04/2022 21:58:05]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:05]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 21:58:05]
+  kynlan4ic attacked by igameCrog. Огнестрельная рана: 3.25 Кровотечение: 6.09375 Оглушение: 0.15
+[11/04/2022 21:58:06]
+  Hector Pool: Я теряю много крови!
+[11/04/2022 21:58:07]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:07]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:08]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:08]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:08]
+  Lelah Aker attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:08]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:08]
+  igameCrog has lost more than 25 karma in the past minute.
+[11/04/2022 21:58:08]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:08]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:09]
+  Hector Pool attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:09]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 21:58:09]
+  Roberta Stogner attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:09]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 21:58:09]
+  Roberta Stogner attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 21:58:11]
+  Roberta Stogner: Помогите, я истекаю кровью!
+[11/04/2022 21:58:13]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:13]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:15]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:16]
+  Lelah Aker attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:17]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:17]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[11/04/2022 21:58:17]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:17]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:17]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:17]
+  Roberta Stogner attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/04/2022 21:58:18]
+  Roberta Stogner equipped Гаечный ключ
+[11/04/2022 21:58:28]
+  Roberta Stogner unequipped Гаечный ключ
+[11/04/2022 21:58:28]
+  Page Aguilar unequipped Нож ныряльщика
+[11/04/2022 21:58:28]
+  Page Aguilar equipped Нож ныряльщика
+[11/04/2022 21:58:32]
+  igameCrog placed Пистолет-пулемет in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 21:58:32]
+  igameCrog removed Электрошокер from Защищенный стальной шкаф (ID: 596)
+[11/04/2022 21:58:32]
+  igameCrog picked up Электрошокер
+[11/04/2022 21:58:34]
+  igameCrog placed Электрошокер in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 21:58:34]
+  igameCrog removed Пистолет-пулемет from Защищенный стальной шкаф (ID: 596)
+[11/04/2022 21:58:34]
+  igameCrog picked up Пистолет-пулемет
+[11/04/2022 21:58:36]
+  Hector Pool has died (Cause of death: Кровопотеря)
+[11/04/2022 21:58:36]
+  Page Aguilar: Мне нужен кислород!
+[11/04/2022 21:58:37]
+  igameCrog placed Магазин для ПП in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:39]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:44]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 4963)
+[11/04/2022 21:58:45]
+  The Heuer equipped Кислородный баллон
+[11/04/2022 21:58:46]
+  Roberta Stogner: У меня кровь!
+[11/04/2022 21:58:46]
+  Marylee Chaney: Roberta Stogner проходит лечение здесь: моторный отсек!
+[11/04/2022 21:58:47]
+  Marylee Chaney: Roberta Stogner нуждается в помощи! Срочно требуется пакет с кровью, физраствор, опиум или морфин!
+[11/04/2022 21:58:49]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 21:58:56]
+  The Heuer equipped Сварочный аппарат
+[11/04/2022 21:58:59]
+  Page Aguilar (as ???) equipped Кислородный баллон
+[11/04/2022 21:59:01]
+  Супостат picked up Плазменный резак
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:04]
+  Супостат picked up Кислородный баллон
+[11/04/2022 21:59:06]
+  Супостат picked up Подводный скутер
+[11/04/2022 21:59:11]
+  Супостат picked up Одноразовый водолазный скафандр
+[11/04/2022 21:59:13]
+  Lelah Aker has died (Cause of death: Кровопотеря)
+[11/04/2022 21:59:28]
+  Seth Fonte: Мне нужен кислород!
+[11/04/2022 21:59:29]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 21:59:30]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 21:59:30]
+  Супостат opened Настраиваемая дверь
+[11/04/2022 21:59:34]
+  The Heuer: Надо найти кислородный баллон!
+[11/04/2022 21:59:36]
+  igameCrog used item Бинт
+[11/04/2022 21:59:39]
+  igameCrog used item Бинт
+[11/04/2022 21:59:41]
+  Pedro Walls: Где кислородные баллоны?
+[11/04/2022 21:59:41]
+  Dan Pollard equipped Кислородный баллон
+[11/04/2022 21:59:42]
+  igameCrog used item Бинт
+[11/04/2022 21:59:43]
+  The Heuer equipped Кислородный баллон
+[11/04/2022 21:59:45]
+  Супостат equipped Гаечный ключ
+[11/04/2022 21:59:46]
+  Супостат dropped Одноразовый водолазный скафандр
+[11/04/2022 21:59:51]
+  Супостат has died (Cause of death: Баротравма)
+[11/04/2022 21:59:54]
+  Pedro Walls equipped Кислородный баллон
+[11/04/2022 21:59:55]
+  igameCrog picked up Морфин
+[11/04/2022 21:59:58]
+  igameCrog placed Морфин in Форма врача (ID: 4915)
+[11/04/2022 22:00:04]
+  Roberta Stogner has died (Cause of death: Кровопотеря)
+[11/04/2022 22:00:05]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 4595)
+[11/04/2022 22:00:06]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 4595)
+[11/04/2022 22:00:11]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:00:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:00:15]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:00:16]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:00:32]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:00:33]
+  Dan Pollard: Где кислородные баллоны?
+[11/04/2022 22:00:33]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:00:48]
+  Dan Pollard equipped Кислородный баллон
+[11/04/2022 22:00:51]
+  The respawn shuttle is leaving.
+[11/04/2022 22:01:16]
+  Marylee Chaney has died (Cause of death: Внутренняя травма)
+[11/04/2022 22:01:22]
+  Astrid Marchi has died (Cause of death: Unknown)
+[11/04/2022 22:01:22]
+  The respawn shuttle has left.
+[11/04/2022 22:01:30]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 22:01:32]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:34]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:35]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:35]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:01:35]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:01:36]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:01:36]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:36]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:01:36]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:01:36]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:01:37]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:01:37]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:01:38]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:01:38]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:38]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:01:38]
+  Page Aguilar: Я теряю много крови!
+[11/04/2022 22:01:38]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:01:39]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:01:39]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:40]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:40]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:01:41]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:01:41]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:42]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:43]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:45]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:46]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:47]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:48]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:01:48]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:01:48]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:01:50]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:51]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:51]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:01:52]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:52]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:01:52]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:01:52]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:01:53]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:53]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:01:53]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:01:54]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:54]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:01:54]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:01:54]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:01:55]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:55]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:01:55]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:01:55]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:01:55]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:01:56]
+  Console command "godmode" executed by kynlan4ic.
+[11/04/2022 22:01:56]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:01:56]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:56]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:01:57]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:01:58]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:01:58]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:01:59]
+  Page Aguilar used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:02]
+  Page Aguilar used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:02]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:02:03]
+  Page Aguilar used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:03]
+  Page Aguilar: Где кислородные баллоны?
+[11/04/2022 22:02:05]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:02:07]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:07]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:02:08]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:08]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:02:08]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:09]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:09]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:02:10]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:02:10]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:10]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:02:10]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:02:11]
+  Page Aguilar: Что-то в горле першит.
+[11/04/2022 22:02:12]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:12]
+  Page Aguilar: Я теряю много крови!
+[11/04/2022 22:02:13]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:13]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:02:13]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:14]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:14]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:02:15]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:15]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:15]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:02:16]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:17]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:17]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:02:18]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:19]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:02:19]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:20]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:22]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:22]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:02:23]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:02:24]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:24]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:02:25]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:25]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:02:25]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:25]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:02:26]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:26]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:02:27]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:30]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:02:30]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:30]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:31]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:02:32]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:02:33]
+  Dispatching the respawn shuttle.
+[11/04/2022 22:02:33]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/04/2022 22:02:33]
+  Respawning bot Astrid Marchi as Офицер службы безопасности
+[11/04/2022 22:02:33]
+  Respawning bot Hector Pool as Механик
+[11/04/2022 22:02:33]
+  Respawning bot Roberta Stogner as Помощник
+[11/04/2022 22:02:33]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:34]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:02:35]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:35]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:02:36]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:02:37]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:38]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:38]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:02:38]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:02:38]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 4619)
+[11/04/2022 22:02:38]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 4619)
+[11/04/2022 22:02:38]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 4619)
+[11/04/2022 22:02:38]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 4619)
+[11/04/2022 22:02:38]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 4619)
+[11/04/2022 22:02:38]
+  kynlan4ic placed Патрон для дробовика in Дробовик (ID: 4619)
+[11/04/2022 22:02:38]
+  Seth Fonte equipped Отвертка
+[11/04/2022 22:02:38]
+  Seth Fonte unequipped Отвертка
+[11/04/2022 22:02:38]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:02:38]
+  The Heuer equipped Отвертка
+[11/04/2022 22:02:39]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:39]
+  Seth Fonte equipped Отвертка
+[11/04/2022 22:02:40]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:40]
+  The Heuer unequipped Отвертка
+[11/04/2022 22:02:41]
+  kynlan4ic placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 645)
+[11/04/2022 22:02:41]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:41]
+  Seth Fonte unequipped Отвертка
+[11/04/2022 22:02:41]
+  Seth Fonte equipped Отвертка
+[11/04/2022 22:02:42]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:42]
+  Супостат picked up Плазменный резак
+[11/04/2022 22:02:43]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:43]
+  Супостат picked up Подводный скутер
+[11/04/2022 22:02:44]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:02:44]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:44]
+  Page Aguilar: У меня что-то во рту...
+[11/04/2022 22:02:45]
+  The Heuer: Мне нужен кислородный баллон!
+[11/04/2022 22:02:45]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Супостат picked up Кислородный баллон
+[11/04/2022 22:02:45]
+  Page Aguilar: Помогите, я истекаю кровью!
+[11/04/2022 22:02:46]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:47]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:48]
+  Супостат picked up Одноразовый водолазный скафандр
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  igameCrog placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 596)
+[11/04/2022 22:02:48]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:49]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:50]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:50]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:02:51]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:51]
+  Seth Fonte unequipped Отвертка
+[11/04/2022 22:02:51]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:02:52]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:53]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:54]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:55]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:56]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:56]
+  The Heuer equipped Кислородный баллон
+[11/04/2022 22:02:57]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:58]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:58]
+  igameCrog placed Оранжевый провод in Пояс инструментов (ID: 4963)
+[11/04/2022 22:02:59]
+  Seth Fonte: Где кислородные баллоны?
+[11/04/2022 22:02:59]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:02:59]
+  Pedro Walls: Надо найти кислородный баллон!
+[11/04/2022 22:03:00]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:03:01]
+  Marylee Chaney has died (Cause of death: Рваная рана)
+[11/04/2022 22:03:01]
+  Page Aguilar (as ???) used Нож ныряльщика on Marylee Chaney.
+[11/04/2022 22:03:01]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 22:03:01]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 22:03:03]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4915)
+[11/04/2022 22:03:03]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4915)
+[11/04/2022 22:03:03]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4915)
+[11/04/2022 22:03:06]
+  Seth Fonte equipped Кислородный баллон
+[11/04/2022 22:03:14]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:03:15]
+  Pedro Walls equipped Кислородный баллон
+[11/04/2022 22:03:15]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:03:18]
+  Page Aguilar: Помогите, я истекаю кровью!
+[11/04/2022 22:03:21]
+  kynlan4ic: еекtrrrrd
+[11/04/2022 22:03:21]
+  Pedro Walls equipped Кислородный баллон
+[11/04/2022 22:03:23]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 22:03:32]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 22:03:32]
+  kynlan4ic dropped Кислородный баллон
+[11/04/2022 22:03:32]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 4599)
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:49]
+  kynlan4ic picked up Резиновый патрон для дробовика
+[11/04/2022 22:03:51]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:03:52]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:03:53]
+  Page Aguilar: Я теряю много крови!
+[11/04/2022 22:04:04]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 22:04:08]
+  Супостат used Нож ныряльщика on Seth Fonte.
+[11/04/2022 22:04:08]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:04:09]
+  The Heuer equipped Гаечный ключ
+[11/04/2022 22:04:09]
+  Dan Pollard: Где кислородные баллоны?
+[11/04/2022 22:04:09]
+  Seth Fonte: У меня кровь!
+[11/04/2022 22:04:11]
+  igameCrog picked up Оранжевый провод
+[11/04/2022 22:04:11]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:04:13]
+  The Heuer used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:04:14]
+  Супостат used Нож ныряльщика on Seth Fonte.
+[11/04/2022 22:04:15]
+  Seth Fonte used Гаечный ключ on Супостат.
+[11/04/2022 22:04:17]
+  Seth Fonte used Гаечный ключ on Супостат.
+[11/04/2022 22:04:17]
+  The Heuer used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:04:18]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:04:18]
+  Seth Fonte used Гаечный ключ on Супостат.
+[11/04/2022 22:04:18]
+  The Heuer used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:04:19]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:04:19]
+  Супостат used Нож ныряльщика on The Heuer.
+[11/04/2022 22:04:20]
+  Dan Pollard closed Настраиваемая дверь
+[11/04/2022 22:04:20]
+  Dan Pollard opened Настраиваемая дверь
+[11/04/2022 22:04:20]
+  Seth Fonte equipped Гаечный ключ
+[11/04/2022 22:04:21]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:04:22]
+  Pedro Walls closed Настраиваемая дверь
+[11/04/2022 22:04:22]
+  Pedro Walls opened Настраиваемая дверь
+[11/04/2022 22:04:22]
+  Seth Fonte used Гаечный ключ on Супостат.
+[11/04/2022 22:04:23]
+  The Heuer: Помогите, я истекаю кровью!
+[11/04/2022 22:04:24]
+  igameCrog equipped Оранжевый провод
+[11/04/2022 22:04:27]
+  kynlan4ic: ttr
+[11/04/2022 22:04:28]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:04:28]
+  Dan Pollard opened Настраиваемая дверь
+[11/04/2022 22:04:28]
+  Dan Pollard closed Настраиваемая дверь
+[11/04/2022 22:04:29]
+  Pedro Walls equipped Кислородный баллон
+[11/04/2022 22:04:29]
+  Dan Pollard closed Настраиваемая дверь
+[11/04/2022 22:04:29]
+  Dan Pollard opened Настраиваемая дверь
+[11/04/2022 22:04:29]
+  igameCrog connected a wire to Суперконденсатор (power_out)
+[11/04/2022 22:04:30]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 22:04:30]
+  Page Aguilar (as ???) equipped Нож ныряльщика
+[11/04/2022 22:04:30]
+  Seth Fonte unequipped Гаечный ключ
+[11/04/2022 22:04:31]
+  igameCrog started repairing Суперконденсатор
+[11/04/2022 22:04:35]
+  The Heuer unequipped Гаечный ключ
+[11/04/2022 22:04:41]
+  Page Aguilar (as ???) unequipped Нож ныряльщика
+[11/04/2022 22:04:41]
+  Seth Fonte: У меня кровь!
+[11/04/2022 22:04:41]
+  igameCrog connected a wire from Навигационный терминал (power_in) to Суперконденсатор (power_out)
+[11/04/2022 22:04:42]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:04:42]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:04:45]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:04:46]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:04:47]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 22:04:48]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:04:50]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 22:04:51]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:04:52]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:04:53]
+  igameCrog set the recharge speed of Суперконденсатор to 50 %
+[11/04/2022 22:04:54]
+  igameCrog set the recharge speed of Суперконденсатор to 70 %
+[11/04/2022 22:04:54]
+  igameCrog set the recharge speed of Суперконденсатор to 100 %
+[11/04/2022 22:04:54]
+  igameCrog set the recharge speed of Суперконденсатор to 70 %
+[11/04/2022 22:04:54]
+  igameCrog set the recharge speed of Суперконденсатор to 0 %
+[11/04/2022 22:04:57]
+  igameCrog set the recharge speed of Суперконденсатор to 10 %
+[11/04/2022 22:04:57]
+  igameCrog set the recharge speed of Суперконденсатор to 0 %
+[11/04/2022 22:04:57]
+  The Heuer: Я теряю много крови!
+[11/04/2022 22:05:13]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:05:14]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:05:14]
+  Seth Fonte: Я теряю много крови!
+[11/04/2022 22:05:20]
+  Супостат placed Топливный стержень in Ядерный реактор (ID: 156)
+[11/04/2022 22:05:22]
+  Супостат adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[11/04/2022 22:05:24]
+  Супостат adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[11/04/2022 22:05:28]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:05:29]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:05:37]
+  Seth Fonte: Я чувствую жуткую слабость. Все тело болит.
+[11/04/2022 22:05:39]
+  The Heuer: Кажется, у меня жар.
+[11/04/2022 22:05:39]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:05:43]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:05:43]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:05:43]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:05:47]
+  Seth Fonte: Помогите, я истекаю кровью!
+[11/04/2022 22:05:52]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4963)
+[11/04/2022 22:05:52]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4963)
+[11/04/2022 22:05:52]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 4595)
+[11/04/2022 22:05:54]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4963)
+[11/04/2022 22:05:55]
+  Page Aguilar has died (Cause of death: Внутренняя травма)
+[11/04/2022 22:05:57]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:05:57]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:06:00]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:06:00]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:06:08]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:06:08]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:06:11]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:06:12]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:06:12]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:06:13]
+  igameCrog set the recharge speed of Суперконденсатор to 10 %
+[11/04/2022 22:06:14]
+  igameCrog set the recharge speed of Суперконденсатор to 60 %
+[11/04/2022 22:06:14]
+  igameCrog set the recharge speed of Суперконденсатор to 50 %
+[11/04/2022 22:06:14]
+  igameCrog set the recharge speed of Суперконденсатор to 30 %
+[11/04/2022 22:06:15]
+  igameCrog set the recharge speed of Суперконденсатор to 40 %
+[11/04/2022 22:06:16]
+  igameCrog set the recharge speed of Суперконденсатор to 50 %
+[11/04/2022 22:06:18]
+  igameCrog set the recharge speed of Суперконденсатор to 10 %
+[11/04/2022 22:06:18]
+  igameCrog set the recharge speed of Суперконденсатор to 30 %
+[11/04/2022 22:06:19]
+  igameCrog set the recharge speed of Суперконденсатор to 40 %
+[11/04/2022 22:06:19]
+  igameCrog set the recharge speed of Суперконденсатор to 50 %
+[11/04/2022 22:06:20]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:06:20]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:06:21]
+  Seth Fonte: У меня кровь!
+[11/04/2022 22:06:23]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:06:23]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:06:28]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:06:28]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:06:30]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:06:32]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:06:32]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:06:32]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:06:33]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:06:34]
+  kynlan4ic: Pedro Walls, заряди реактор!
+[11/04/2022 22:06:35]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 22:06:35]
+  Pedro Walls: Есть!
+[11/04/2022 22:06:41]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:06:41]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:06:42]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 22:06:44]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:06:44]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:06:52]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:06:52]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:06:56]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:06:56]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:06:56]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:06:58]
+  Seth Fonte: У меня что-то во рту...
+[11/04/2022 22:07:00]
+  The Heuer: У меня что-то во рту...
+[11/04/2022 22:07:03]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Станция зарядки (power_in)
+[11/04/2022 22:07:04]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:07:04]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:07:05]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/04/2022 22:07:05]
+  igameCrog connected a wire from Кабельная коробка (power_value_out) to Кабельная коробка (power)

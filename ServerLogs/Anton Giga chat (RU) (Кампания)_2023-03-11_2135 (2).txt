@@ -1,0 +1,1600 @@
+﻿[03/11/2023 21:31:36]
+  Супостат499 picked up Топливный стержень
+[03/11/2023 21:31:36]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 21:31:36]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 399)
+[03/11/2023 21:31:37]
+  Arron Gregory: Невозможно добраться: kynlan4ic!
+[03/11/2023 21:31:37]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 21:31:39]
+  Супостат499 dropped Топливный стержень
+[03/11/2023 21:31:40]
+  igameCrog placed Удостоверение личности in Шкаф для хранения токсинов (ID: 575)
+[03/11/2023 21:31:43]
+  Lionel Mungo equipped Водолазный скафандр
+[03/11/2023 21:31:43]
+  Fanny Hutchinson unequipped Отвертка
+[03/11/2023 21:31:43]
+  Fanny Hutchinson equipped Бинт
+[03/11/2023 21:31:47]
+  Arron Gregory: kynlan4ic проходит лечение здесь: пункт управления!
+[03/11/2023 21:31:47]
+  Fanny Hutchinson equipped Фентанил
+[03/11/2023 21:31:48]
+  Arron Gregory: Мне требуется деусицин, экстракт взрывного граната, морфин или фентанил!
+[03/11/2023 21:31:51]
+  Fanny Hutchinson equipped Деусицин
+[03/11/2023 21:31:51]
+  Arron Gregory: Мне жаль, kynlan4ic, это все, что я могу сделать!
+[03/11/2023 21:31:53]
+  Fanny Hutchinson has died (Cause of death: Передозировка опиатами)
+[03/11/2023 21:31:59]
+  kynlan4ic used item Морфин
+[03/11/2023 21:32:05]
+  igameCrog picked up Информационный экран сканера здоровья
+[03/11/2023 21:32:10]
+  Lionel Mungo equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:32:18]
+  Tommie Jack unequipped Отвертка
+[03/11/2023 21:32:18]
+  Tommie Jack equipped Опиум
+[03/11/2023 21:32:22]
+  Tommie Jack equipped Бинт
+[03/11/2023 21:32:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:22]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:23]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:23]
+  igameCrog placed Антибиотики широкого спектра in Аптечка (ID: 458)
+[03/11/2023 21:32:23]
+  igameCrog placed Антибиотики широкого спектра in Аптечка (ID: 458)
+[03/11/2023 21:32:23]
+  igameCrog placed Антибиотики широкого спектра in Аптечка (ID: 458)
+[03/11/2023 21:32:23]
+  igameCrog placed Антибиотики широкого спектра in Аптечка (ID: 458)
+[03/11/2023 21:32:23]
+  igameCrog placed Антибиотики широкого спектра in Аптечка (ID: 458)
+[03/11/2023 21:32:23]
+  igameCrog removed Удостоверение личности from Аптечка (ID: 458)
+[03/11/2023 21:32:23]
+  igameCrog placed Удостоверение личности in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:24]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:24]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:24]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:24]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:25]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:32:28]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:28]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:28]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:28]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:28]
+  igameCrog placed Антибиотики широкого спектра in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:33]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:33]
+  igameCrog removed Удостоверение личности from Пояс инструментов (ID: 8744)
+[03/11/2023 21:32:33]
+  igameCrog placed Удостоверение личности in Шкаф для хранения токсинов (ID: 575)
+[03/11/2023 21:32:35]
+  Lamont Larsen: Есть!
+[03/11/2023 21:32:35]
+  igameCrog placed Подводная маска in Шкаф для хранения токсинов (ID: 575)
+[03/11/2023 21:32:41]
+  igameCrog equipped Текстовый экран
+[03/11/2023 21:32:41]
+  igameCrog picked up Текстовый экран
+[03/11/2023 21:32:43]
+  igameCrog placed Текстовый экран in Большой стальной шкаф (ID: 444)
+[03/11/2023 21:32:44]
+  igameCrog placed Текстовый экран in Большой стальной шкаф (ID: 444)
+[03/11/2023 21:32:44]
+  igameCrog placed Текстовый экран in Большой стальной шкаф (ID: 444)
+[03/11/2023 21:32:46]
+  Lionel Mungo equipped Водолазный скафандр
+[03/11/2023 21:32:53]
+  igameCrog placed Терминал in Большой стальной шкаф (ID: 444)
+[03/11/2023 21:33:07]
+  igameCrog equipped Металлический ящик
+[03/11/2023 21:33:07]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 21:33:07]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 21:33:09]
+  igameCrog picked up Рычаг
+[03/11/2023 21:33:10]
+  igameCrog picked up Рычаг
+[03/11/2023 21:33:10]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 21:33:11]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:11]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:12]
+  igameCrog dropped Металлический ящик
+[03/11/2023 21:33:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:12]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:33:26]
+  Lionel Mungo equipped Топливный стержень
+[03/11/2023 21:33:29]
+  Супостат499 removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 438)
+[03/11/2023 21:33:30]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 21:33:32]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:33:32]
+  Супостат499 picked up Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:33:34]
+  Супостат499 placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 438)
+[03/11/2023 21:33:35]
+  Lionel Mungo equipped Топливный стержень
+[03/11/2023 21:33:37]
+  Супостат499 removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 436)
+[03/11/2023 21:33:40]
+  Супостат499 equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:33:40]
+  Супостат499 picked up Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:33:40]
+  Outer wall breached by Spineling
+[03/11/2023 21:33:42]
+  Tommie Jack equipped Гаечный ключ
+[03/11/2023 21:33:43]
+  Супостат499 placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 436)
+[03/11/2023 21:33:44]
+  Arron Gregory equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:33:46]
+  Tommie Jack unequipped Гаечный ключ
+[03/11/2023 21:33:46]
+  Tommie Jack equipped Отвертка
+[03/11/2023 21:33:46]
+  Tommie Jack unequipped Отвертка
+[03/11/2023 21:33:46]
+  Tommie Jack equipped Гаечный ключ
+[03/11/2023 21:33:51]
+  Tommie Jack unequipped Гаечный ключ
+[03/11/2023 21:33:53]
+  igameCrog picked up Терминал
+[03/11/2023 21:33:54]
+  Arron Gregory equipped Ящик с боеприпасами для магнитной пушки
+[03/11/2023 21:33:55]
+  Willy Blackwell equipped Сварочный аппарат
+[03/11/2023 21:33:55]
+  igameCrog equipped Терминал
+[03/11/2023 21:33:55]
+  Outer wall repaired by Willy Blackwell
+[03/11/2023 21:33:57]
+  Willy Blackwell unequipped Сварочный аппарат
+[03/11/2023 21:33:58]
+  igameCrog attached Терминал to a wall
+[03/11/2023 21:34:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:00]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:00]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:01]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:01]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:01]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:01]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:03]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:03]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:03]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:03]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:03]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:04]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:04]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:04]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:04]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:04]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:04]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:04]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:04]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:04]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:05]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:05]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:05]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:06]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:06]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:06]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:06]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:07]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:07]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:08]
+  Tommie Jack equipped Гаечный ключ
+[03/11/2023 21:34:12]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:13]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:14]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:15]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:16]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:17]
+  Spineling has died (Cause of death: Рваная рана)
+[03/11/2023 21:34:17]
+  Spineling attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:17]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:18]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:18]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:18]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:19]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:19]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:19]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:19]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:20]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:21]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:21]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:21]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 21:34:21]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:21]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:22]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:22]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:22]
+  Outer wall breached by Spineling
+[03/11/2023 21:34:22]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:23]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:23]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:25]
+  igameCrog picked up Компонент "Или"
+[03/11/2023 21:34:25]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:25]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:26]
+  Lamont Larsen: Alton Feinberg, займись ремонтом поврежденных систем!
+[03/11/2023 21:34:26]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:26]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:26]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:26]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:26]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:27]
+  Alton Feinberg: Есть!
+[03/11/2023 21:34:27]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:28]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:28]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:28]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:28]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:28]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:28]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:28]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:29]
+  Alton Feinberg equipped Гаечный ключ
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:29]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:29]
+  Информация о миссии: missionheader0.pirate_heavy - missionmessage0.pirate_heavy
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:30]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:30]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:30]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:30]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:31]
+  Tommie Jack unequipped Гаечный ключ
+[03/11/2023 21:34:31]
+  Tommie Jack equipped Сварочный аппарат
+[03/11/2023 21:34:31]
+  Outer wall repaired by Tommie Jack
+[03/11/2023 21:34:31]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 21:34:32]
+  Outer wall repaired by Tommie Jack
+[03/11/2023 21:34:33]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:34]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:34]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:34]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:34]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:34]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:34]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:35]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 21:34:36]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Outer wall repaired by Tommie Jack
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 21:34:36]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:36]
+  Willy Blackwell equipped Сварочный аппарат
+[03/11/2023 21:34:36]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:36]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Outer wall repaired by Willy Blackwell
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:37]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:38]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:38]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:38]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:38]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:39]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Lionel Mungo started repairing Двигатель
+[03/11/2023 21:34:40]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:40]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:40]
+  Devin Maxwell: Надо найти кислородный баллон!
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:41]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:42]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:42]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:42]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:42]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:42]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:42]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:42]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:42]
+  Devin Maxwell: Надо найти водолазный скафандр!
+[03/11/2023 21:34:43]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:43]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:43]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:43]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Lionel Mungo: Надо найти водолазный скафандр!
+[03/11/2023 21:34:44]
+  igameCrog placed Компонент "Или" in Большой стальной шкаф (ID: 444)
+[03/11/2023 21:34:44]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:44]
+  Outer wall breached by Hammerhead
+[03/11/2023 21:34:44]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:44]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:44]
+  Outer wall breached by Marylee Huber
+[03/11/2023 21:34:44]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:44]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:45]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:45]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:45]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:45]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:45]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:45]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:45]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:46]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:46]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:46]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:47]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:47]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:47]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:47]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:48]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:48]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:48]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:48]
+  Willy Blackwell unequipped Сварочный аппарат
+[03/11/2023 21:34:48]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:48]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:48]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:48]
+  Hammerhead attacked by Супостат499. Рваная рана: 2.9 Кровотечение: 0.2
+[03/11/2023 21:34:49]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:49]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:49]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:49]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:49]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:49]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:49]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:49]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:49]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:49]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:49]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:50]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:51]
+  Outer wall breached by Julius Lawrence
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:52]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:53]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:53]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:53]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:53]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:53]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:53]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:53]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:53]
+  Outer wall breached by Julius Lawrence
+[03/11/2023 21:34:53]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:53]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:53]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:34:53]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:53]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:53]
+  Outer wall breached by Spineling
+[03/11/2023 21:34:53]
+  Outer wall breached by Spineling
+[03/11/2023 21:34:53]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:54]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:54]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:54]
+  Hammerhead attacked by Супостат499. Рваная рана: 2.9 Кровотечение: 0.2
+[03/11/2023 21:34:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:54]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:54]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:54]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:55]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:55]
+  igameCrog equipped Military Mk-I Hardsuit (Bandit)
+[03/11/2023 21:34:55]
+  igameCrog picked up Military Mk-I Hardsuit (Bandit)
+[03/11/2023 21:34:56]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:56]
+  Tommie Jack unequipped Сварочный аппарат
+[03/11/2023 21:34:56]
+  Alton Feinberg unequipped Гаечный ключ
+[03/11/2023 21:34:56]
+  Alton Feinberg equipped Сварочный аппарат
+[03/11/2023 21:34:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:56]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:56]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:56]
+  Devin Maxwell started repairing Настраиваемая дверь
+[03/11/2023 21:34:56]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:56]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:57]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:57]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:57]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:57]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:57]
+  Alton Feinberg unequipped Сварочный аппарат
+[03/11/2023 21:34:57]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:57]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:57]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:58]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:58]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:34:58]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Devin Maxwell started repairing Настраиваемый люк
+[03/11/2023 21:34:58]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:34:58]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:58]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:59]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:34:59]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:59]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:59]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:59]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:34:59]
+  igameCrog placed Military Mk-I Hardsuit (Bandit) in Шкаф для подводного снаряжения (ID: 531)
+[03/11/2023 21:34:59]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:00]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:00]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:00]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:00]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:00]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:00]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:00]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:00]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:00]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:01]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:01]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 21:35:01]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 21:35:01]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 21:35:01]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 21:35:01]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:01]
+  Outer wall breached by Julius Lawrence
+[03/11/2023 21:35:01]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:01]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:02]
+  Outer wall breached by Julius Lawrence
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:02]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:35:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:03]
+  Inner wall breached by Julius Lawrence
+[03/11/2023 21:35:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:03]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:03]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:04]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:04]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:04]
+  Outer wall breached by Marylee Huber
+[03/11/2023 21:35:04]
+  Inner wall breached by Julius Lawrence
+[03/11/2023 21:35:04]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:04]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:04]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  igameCrog picked up Сварочный аппарат
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Lionel Mungo started repairing Настраиваемая дверь
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:05]
+  Outer wall breached by Julius Lawrence
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.3
+[03/11/2023 21:35:05]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:35:05]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:05]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:05]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.3
+[03/11/2023 21:35:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:06]
+  Hammerhead has died (Cause of death: Рваная рана)
+[03/11/2023 21:35:06]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:06]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:06]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:35:06]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:07]
+  igameCrog equipped Сварочный аппарат
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Arron Gregory: Надо найти водолазный скафандр!
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Hammerhead attacked by Супостат499. Рваная рана: 8.3
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Hammerhead attacked by Супостат499. Рваная рана: 15.0 Кровотечение: 1.0
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:07]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:07]
+  Hammerhead attacked by Супостат499. Рваная рана: 11.3 Кровотечение: 0.8
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Супостат499 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:08]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Outer wall breached by Julius Lawrence
+[03/11/2023 21:35:08]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:08]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:08]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:09]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:10]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 21:35:11]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:11]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:11]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:12]
+  Супостат499 equipped Подводный скутер
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:12]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:13]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:13]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:13]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Tommie Jack equipped Отвертка
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:14]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:14]
+  Tommie Jack unequipped Отвертка
+[03/11/2023 21:35:14]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:15]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:15]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:16]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:16]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:16]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:17]
+  Inner wall breached by Julius Lawrence
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:17]
+  Arron Gregory: Орудийный отсек: высокий уровень давления!
+[03/11/2023 21:35:17]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:17]
+  Inner wall breached by Julius Lawrence
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:17]
+  Lionel Mungo started repairing Настраиваемый люк
+[03/11/2023 21:35:17]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:18]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 21:35:18]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 21:35:18]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:19]
+  Супостат499 has died (Cause of death: Баротравма)
+[03/11/2023 21:35:19]
+  Arron Gregory has died (Cause of death: Баротравма)
+[03/11/2023 21:35:19]
+  Marylee Huber launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/11/2023 21:35:19]
+  Marylee Huber: И-и-и-и... Готово!
+[03/11/2023 21:35:19]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/11/2023 21:35:19]
+  Julius Lawrence launched Цепная пушка (projectile: Болт для цепной пушки)

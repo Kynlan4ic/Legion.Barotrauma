@@ -1,0 +1,218 @@
+﻿<config
+  language="Russian"
+  verboselogging="false"
+  savedebugconsolelogs="false"
+  savepath=""
+  subeditorundobuffer="32"
+  maxautosaves="8"
+  autosaveintervalseconds="300"
+  subeditorbackground="#0D2545"
+  enablesplashscreen="true"
+  pauseonfocuslost="true"
+  aimassistamount="0.5"
+  enablemouselook="true"
+  showenemyhealthbars="ShowAll"
+  chatopen="false"
+  crewmenuopen="false"
+  showoffensiveserverprompt="false"
+  tutorialskipwarning="false"
+  corpsedespawndelay="600"
+  corpsespersubdespawnthreshold="5"
+  usedualmodesockets="true"
+  disableingamehints="true"
+  enablesubmarineautosave="true"
+  quickstartsub="">
+  <graphicssettings
+    width="1440"
+    height="900"
+    vsync="true"
+    compresstextures="true"
+    framelimit="300"
+    displaymode="BorderlessWindowed"
+    particlelimit="1500"
+    specularity="true"
+    chromaticaberration="true"
+    losmode="Opaque"
+    hudscale="0.9"
+    inventoryscale="1"
+    lightmapscale="1"
+    visiblelightlimit="2147483647"
+    textscale="1"
+    radialdistortion="true" />
+  <audio
+    musicvolume="0.16"
+    soundvolume="0.21"
+    uivolume="0.14999999"
+    voicechatvolume="1"
+    voicechatcutoffprevention="0"
+    microphonevolume="5"
+    muteonfocuslost="false"
+    dynamicrangecompressionenabled="true"
+    usedirectionalvoicechat="true"
+    voipattenuationenabled="true"
+    voicesetting="PushToTalk"
+    audiooutputdevice="_x003C_disconnected_x003E_"
+    voicecapturedevice="OpenAL_x0020_Soft_x0020_on_x0020_Микрофон_x0020__x0028_WO_x0020_Mic_x0020_Device_x0029_"
+    noisegatethreshold="0"
+    disablevoicechatfilters="false" />
+  <contentpackages>
+    <!--Vanilla-->
+    <corepackage
+      path="Content/ContentPackages/Vanilla.xml" />
+    <regularpackages>
+      <!--Sardine-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2847437196/filelist.xml" />
+      <!--Dors-->
+      <package
+        path="LocalMods/Dors/filelist.xml" />
+      <!--Umkhumbi-->
+      <package
+        path="LocalMods/Umkhumbi/filelist.xml" />
+      <!--Uzurbator3000-->
+      <package
+        path="LocalMods/Uzurbator3000/filelist.xml" />
+      <!--EK Matriarch Mk-VII-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2218505792/filelist.xml" />
+      <!--PlagueRat-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2599040776/filelist.xml" />
+      <!--Super Plague Rat 1.0.0-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2638314941/filelist.xml" />
+      <!--Fat Fish-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2662755737/filelist.xml" />
+      <!--wellerman-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2878786954/filelist.xml" />
+      <!--Unnamed-->
+      <package
+        path="LocalMods/Unnamed/filelist.xml" />
+      <!--Челнок R-155-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2885265334/filelist.xml" />
+      <!--CzechSaboteur-->
+      <package
+        path="LocalMods/CzechSaboteur/filelist.xml" />
+      <!--Челнок R-170-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2887403292/filelist.xml" />
+      <!--Гага дрын-->
+      <package
+        path="LocalMods/Гага дрын/filelist.xml" />
+      <!--GatoRevamped-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2798217062/filelist.xml" />
+      <!--Wyvern-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2871896180/filelist.xml" />
+      <!--Shiftless-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2875438512/filelist.xml" />
+      <!--TR-56-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2939961149/filelist.xml" />
+      <!--EK Armory-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/1769403760/filelist.xml" />
+      <!--EK Gunnery-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2390126010/filelist.xml" />
+      <!--Backpacks-->
+      <package
+        path="C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2613901395/filelist.xml" />
+    </regularpackages>
+  </contentpackages>
+  <serverfilters
+    FilterSameVersion="True"
+    FilterPassword="True"
+    FilterFullServers="False"
+    FilterEmptyServers="False"
+    FilterOffensiveServers="False"
+    servertag.Serious="True"
+    servertag.Casual="True"
+    servertag.Roleplay="True"
+    servertag.Rampage="True"
+    servertag.SomethingDifferent="True"
+    sandbox="True"
+    mission="True"
+    pvp="True"
+    multiplayercampaign="True"
+    karma="Any"
+    traitors="Any"
+    friendlyfire="Any"
+    voip="Any"
+    modded="Any" />
+  <player
+    name="kynlan4ic"
+    tags="head4,male"
+    HairIndex="8"
+    BeardIndex="9"
+    MoustacheIndex="0"
+    FaceAttachmentIndex="0"
+    HairColor="#494E55"
+    FacialHairColor="#D2A36F"
+    SkinColor="#714D34">
+    <job
+      identifier="captain"
+      variant="1" />
+    <job
+      identifier="securityofficer"
+      variant="0" />
+    <job
+      identifier="medicaldoctor"
+      variant="0" />
+  </player>
+  <ignoredhints
+    identifiers="" />
+  <debugconsolemapping />
+  <tutorials />
+  <keymapping
+    Select="PrimaryMouse"
+    Use="E"
+    Aim="SecondaryMouse"
+    Up="W"
+    Down="S"
+    Left="A"
+    Right="D"
+    Attack="R"
+    Run="LeftShift"
+    Crouch="LeftControl"
+    InfoTab="Tab"
+    Chat="None"
+    RadioChat="None"
+    CrewOrders="C"
+    Ragdoll="Space"
+    Health="H"
+    Grab="G"
+    SelectNextCharacter="Z"
+    SelectPreviousCharacter="X"
+    Voice="V"
+    RadioVoice="None"
+    LocalVoice="None"
+    Deselect="SecondaryMouse"
+    Shoot="PrimaryMouse"
+    Command="MiddleMouse"
+    ToggleInventory="Q"
+    TakeOneFromInventorySlot="LeftControl"
+    TakeHalfFromInventorySlot="LeftShift"
+    NextFireMode="MouseWheelUp"
+    PreviousFireMode="MouseWheelDown"
+    ActiveChat="T"
+    ToggleChatMode="R"
+    ChatBox="B" />
+  <inventorykeymapping
+    slot0="D1"
+    slot1="D2"
+    slot2="D3"
+    slot3="D4"
+    slot4="D5"
+    slot5="D6"
+    slot6="D7"
+    slot7="D8"
+    slot8="D9"
+    slot9="D0" />
+  <editorimages />
+</config>

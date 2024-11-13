@@ -1,0 +1,1138 @@
+﻿[10/27/2024 01:57:32]
+  Starting the server...
+[10/27/2024 01:57:32]
+  Using SteamP2P networking.
+[10/27/2024 01:57:32]
+  Server started
+[10/27/2024 01:57:32]
+  Игрок kynlan4ic присоединился к серверу.
+[10/27/2024 01:57:32]
+  Saving client permissions
+[10/27/2024 01:57:32]
+  Saving client permissions
+[10/27/2024 02:00:55]
+  Gamemode changed to Кампания
+[10/27/2024 02:07:57]
+  kynlan4ic (Some<AccountId>(STEAM_1:0:584229539)) couldn't join the server (name too similar to the name of the client "kynlan4ic").
+[10/27/2024 02:08:23]
+  Игрок Negroidsk присоединился к серверу.
+[10/27/2024 02:08:23]
+  Saving client permissions
+[10/27/2024 02:08:44]
+  Negroidsk is ready to start the game.
+[10/27/2024 02:08:48]
+  Negroidsk is not ready to start the game.
+[10/27/2024 02:09:47]
+  Negroidsk is ready to start the game.
+[10/27/2024 02:09:48]
+  Negroidsk is not ready to start the game.
+[10/27/2024 02:09:50]
+  Gamemode changed to Песочница
+[10/27/2024 02:09:51]
+  Negroidsk is ready to start the game.
+[10/27/2024 02:10:00]
+  Client "kynlan4ic" started the round.
+[10/27/2024 02:10:00]
+  Starting a new round...
+[10/27/2024 02:10:03]
+  Game mode: Песочница
+[10/27/2024 02:10:03]
+  Submarine: Dugong
+[10/27/2024 02:10:03]
+  Level seed: 46yEIAFq
+[10/27/2024 02:10:04]
+  Round started.
+[10/27/2024 02:10:09]
+  Fritz Angles: Я слышу, как скрипит корпус.
+[10/27/2024 02:10:14]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:10:15]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:10:31]
+  Negroidsk equipped Шприц-пистолет
+[10/27/2024 02:10:32]
+  Negroidsk placed Бинт in Форма врача (ID: 3054)
+[10/27/2024 02:10:34]
+  Negroidsk placed Морфин in Форма врача (ID: 3054)
+[10/27/2024 02:10:39]
+  kynlan4ic picked up Бинт
+[10/27/2024 02:10:41]
+  kynlan4ic equipped Бинт
+[10/27/2024 02:10:42]
+  kynlan4ic used Бинт on Negroidsk.
+[10/27/2024 02:10:58]
+  Console command "enablecheats" executed by kynlan4ic.
+[10/27/2024 02:11:06]
+  Negroidsk placed Экстракт каликса in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:09]
+  Negroidsk picked up Морфин
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Бинт
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:10]
+  Negroidsk picked up Физраствор
+[10/27/2024 02:11:11]
+  Negroidsk picked up Каликсанид
+[10/27/2024 02:11:21]
+  Negroidsk equipped Морфин
+[10/27/2024 02:11:22]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:22]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:22]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:22]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:31]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:31]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:31]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:31]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:51]
+  Negroidsk placed Каликсанид in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:11:52]
+  kynlan4ic equipped Револьвер
+[10/27/2024 02:11:55]
+  Nicole House attacked by kynlan4ic.
+[10/27/2024 02:11:56]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:06]
+  Negroidsk picked up Этанол
+[10/27/2024 02:12:06]
+  Negroidsk picked up Этанол
+[10/27/2024 02:12:06]
+  Negroidsk picked up Опиум
+[10/27/2024 02:12:06]
+  Negroidsk picked up Опиум
+[10/27/2024 02:12:10]
+  Negroidsk used item Этанол
+[10/27/2024 02:12:11]
+  Negroidsk used item Этанол
+[10/27/2024 02:12:12]
+  Negroidsk used item Опиум
+[10/27/2024 02:12:12]
+  Negroidsk used item Опиум
+[10/27/2024 02:12:27]
+  kynlan4ic picked up Дробовик
+[10/27/2024 02:12:28]
+  kynlan4ic equipped Дробовик
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:32]
+  Negroidsk attacked by kynlan4ic.
+[10/27/2024 02:12:46]
+  kynlan4ic picked up Яйцо грязевого раптора
+[10/27/2024 02:12:47]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:12:47]
+  Negroidsk placed Морфин in Шприц-пистолет (ID: 3057)
+[10/27/2024 02:12:48]
+  kynlan4ic equipped Яйцо грязевого раптора
+[10/27/2024 02:13:07]
+  kynlan4ic picked up Синяя краска
+[10/27/2024 02:13:08]
+  kynlan4ic equipped Синяя краска
+[10/27/2024 02:13:09]
+  kynlan4ic threw Синяя краска
+[10/27/2024 02:13:26]
+  kynlan4ic used item Морфин
+[10/27/2024 02:13:37]
+  kynlan4ic used item Морфин
+[10/27/2024 02:13:49]
+  kynlan4ic used item Серная кислота
+[10/27/2024 02:13:52]
+  kynlan4ic used item Галоперидол
+[10/27/2024 02:13:53]
+  kynlan4ic used item Пакет с кровью
+[10/27/2024 02:13:55]
+  kynlan4ic used item Пакет с кровью
+[10/27/2024 02:13:56]
+  kynlan4ic used item Антибиотики широкого спектра
+[10/27/2024 02:13:58]
+  kynlan4ic used item Антибиотики широкого спектра
+[10/27/2024 02:14:00]
+  kynlan4ic used item Налоксон
+[10/27/2024 02:14:01]
+  kynlan4ic used item Стабилоцин
+[10/27/2024 02:14:02]
+  kynlan4ic used item Стабилоцин
+[10/27/2024 02:14:03]
+  kynlan4ic used item Стабилоцин
+[10/27/2024 02:14:05]
+  kynlan4ic used item Стабилоцин
+[10/27/2024 02:14:06]
+  kynlan4ic used item Стабилоцин
+[10/27/2024 02:14:07]
+  kynlan4ic used item Антирад
+[10/27/2024 02:14:09]
+  kynlan4ic used item Антидот страданита
+[10/27/2024 02:14:10]
+  kynlan4ic used item Антидот бредогена
+[10/27/2024 02:14:12]
+  kynlan4ic used item Анапарализатор
+[10/27/2024 02:14:29]
+  Client "kynlan4ic" set the permissions of the client "Negroidsk" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires, ManageBotTalents
+[10/27/2024 02:14:29]
+  Saving client permissions
+[10/27/2024 02:14:33]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:33]
+  Williams Weaver equipped Гаечный ключ
+[10/27/2024 02:14:34]
+  Monte Poole equipped Шоковая дубинка
+[10/27/2024 02:14:34]
+  Criselda Jones equipped Гаечный ключ
+[10/27/2024 02:14:35]
+  Criselda Jones used Гаечный ключ on Mantis.
+[10/27/2024 02:14:36]
+  Williams Weaver: Помогите, я истекаю кровью!
+[10/27/2024 02:14:37]
+  Ashly Hurley equipped Гаечный ключ
+[10/27/2024 02:14:37]
+  Fritz Angles equipped Сварочный аппарат
+[10/27/2024 02:14:37]
+  Nicole House equipped Сварочный аппарат
+[10/27/2024 02:14:38]
+  Fritz Angles unequipped Сварочный аппарат
+[10/27/2024 02:14:38]
+  Ashly Hurley unequipped Гаечный ключ
+[10/27/2024 02:14:38]
+  Nicole House unequipped Сварочный аппарат
+[10/27/2024 02:14:38]
+  Ashly Hurley equipped Гаечный ключ
+[10/27/2024 02:14:38]
+  Fritz Angles equipped Сварочный аппарат
+[10/27/2024 02:14:38]
+  Nicole House equipped Сварочный аппарат
+[10/27/2024 02:14:38]
+  Fritz Angles unequipped Сварочный аппарат
+[10/27/2024 02:14:39]
+  Fritz Angles equipped Сварочный аппарат
+[10/27/2024 02:14:40]
+  Monte Poole used Шоковая дубинка(Аккумулятор) on Mantis.
+[10/27/2024 02:14:40]
+  Monte Poole used Шоковая дубинка(Аккумулятор) on Большая вертикальная внутренняя стена.
+[10/27/2024 02:14:40]
+  Ashly Hurley unequipped Гаечный ключ
+[10/27/2024 02:14:40]
+  Ashly Hurley equipped Гаечный ключ
+[10/27/2024 02:14:43]
+  Monte Poole: У меня кровь!
+[10/27/2024 02:14:44]
+  Criselda Jones unequipped Гаечный ключ
+[10/27/2024 02:14:44]
+  Williams Weaver unequipped Гаечный ключ
+[10/27/2024 02:14:45]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:45]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:45]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:45]
+  Inner wall breached by Mantis
+[10/27/2024 02:14:45]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:46]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:46]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:46]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:46]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:46]
+  Console command "spawn Mantis cursor" executed by Negroidsk.
+[10/27/2024 02:14:48]
+  Nicole House unequipped Сварочный аппарат
+[10/27/2024 02:14:48]
+  Nicole House equipped Гаечный ключ
+[10/27/2024 02:14:48]
+  Fritz Angles unequipped Сварочный аппарат
+[10/27/2024 02:14:48]
+  Fritz Angles equipped Гаечный ключ
+[10/27/2024 02:14:48]
+  Criselda Jones equipped Гаечный ключ
+[10/27/2024 02:14:48]
+  Williams Weaver equipped Гаечный ключ
+[10/27/2024 02:14:48]
+  Criselda Jones unequipped Гаечный ключ
+[10/27/2024 02:14:48]
+  Criselda Jones equipped Гаечный ключ
+[10/27/2024 02:14:50]
+  Monte Poole has died (Cause of death: Укусы)
+[10/27/2024 02:14:56]
+  Fritz Angles has died (Cause of death: Укусы)
+[10/27/2024 02:14:56]
+  Nicole House has died (Cause of death: Укусы)
+[10/27/2024 02:14:59]
+  Criselda Jones has died (Cause of death: Укусы)
+[10/27/2024 02:15:01]
+  Ashly Hurley unequipped Гаечный ключ
+[10/27/2024 02:15:01]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:05]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:16]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:18]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:21]
+  Williams Weaver has died (Cause of death: Кровопотеря)
+[10/27/2024 02:15:23]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:26]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:27]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:29]
+  Inner wall breached by Mantis
+[10/27/2024 02:15:29]
+  Ashly Hurley equipped Сварочный аппарат
+[10/27/2024 02:15:33]
+  kynlan4ic dropped Яйцо грязевого раптора
+[10/27/2024 02:15:39]
+  Ashly Hurley unequipped Сварочный аппарат
+[10/27/2024 02:15:39]
+  Ashly Hurley equipped Гаечный ключ
+[10/27/2024 02:15:41]
+  Ashly Hurley: Я теряю много крови!
+[10/27/2024 02:15:43]
+  Ashly Hurley unequipped Гаечный ключ
+[10/27/2024 02:15:43]
+  Ashly Hurley equipped Сварочный аппарат
+[10/27/2024 02:15:43]
+  Negroidsk has died (Cause of death: Укусы)
+[10/27/2024 02:15:49]
+  Ashly Hurley has died (Cause of death: Укусы)
+[10/27/2024 02:16:01]
+  Inner wall breached by Mantis
+[10/27/2024 02:16:11]
+  Console command "spawn Molochblack_m" executed by Negroidsk.
+[10/27/2024 02:16:16]
+  Console command "spawn Molochblack_m cursor" executed by Negroidsk.
+[10/27/2024 02:16:29]
+  kynlan4ic has died (Cause of death: Кровопотеря)
+[10/27/2024 02:16:33]
+  Dispatching the respawn shuttle.
+[10/27/2024 02:16:33]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/27/2024 02:16:33]
+  Respawning Negroidsk (STEAM_1:0:584229539) as Врач
+[10/27/2024 02:16:33]
+  Respawning bot Williams Weaver as Помощник
+[10/27/2024 02:16:35]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:16:35]
+  kynlan4ic equipped Револьвер
+[10/27/2024 02:16:35]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:16:36]
+  Inner wall breached by Mantis
+[10/27/2024 02:16:38]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:16:45]
+  Negroidsk equipped Одноразовый водолазный скафандр
+[10/27/2024 02:16:45]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:16:49]
+  Negroidsk dropped Одноразовый водолазный скафандр
+[10/27/2024 02:16:51]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:16:56]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:16:56]
+  Negroidsk dropped Одноразовый водолазный скафандр
+[10/27/2024 02:17:00]
+  Williams Weaver: Надо найти водолазный скафандр!
+[10/27/2024 02:17:02]
+  Negroidsk picked up Подводный скутер
+[10/27/2024 02:17:03]
+  Negroidsk dropped Подводный скутер
+[10/27/2024 02:17:04]
+  Negroidsk equipped Подводный скутер
+[10/27/2024 02:17:08]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:17:08]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:17:08]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:17:10]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:17:10]
+  Negroidsk dropped Одноразовый водолазный скафандр
+[10/27/2024 02:19:08]
+  kynlan4ic picked up Подводный скутер
+[10/27/2024 02:19:09]
+  kynlan4ic equipped Подводный скутер
+[10/27/2024 02:19:32]
+  Console command "spawn Charybdisold" executed by Negroidsk.
+[10/27/2024 02:19:37]
+  kynlan4ic picked up Морфин
+[10/27/2024 02:19:37]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[10/27/2024 02:19:37]
+  kynlan4ic picked up Бинт
+[10/27/2024 02:19:39]
+  kynlan4ic used item Морфин
+[10/27/2024 02:19:40]
+  Console command "spawn Charybdisold cursor" executed by Negroidsk.
+[10/27/2024 02:19:50]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/27/2024 02:19:51]
+  Negroidsk has died (Cause of death: Укусы)
+[10/27/2024 02:20:12]
+  Console command "spawn Latcher cursor" executed by kynlan4ic.
+[10/27/2024 02:20:46]
+  Outer wall breached by Mantis
+[10/27/2024 02:21:50]
+  Console command "spawn Ekdroneattackbeacon" executed by Negroidsk.
+[10/27/2024 02:21:54]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:21:56]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:21:57]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:21:58]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:21:58]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:21:58]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:21:58]
+  Console command "spawn Ekdroneattackbeacon cursor" executed by Negroidsk.
+[10/27/2024 02:22:21]
+  Console command "teleportsub" executed by kynlan4ic.
+[10/27/2024 02:22:41]
+  Console command "teleportsub" executed by kynlan4ic.
+[10/27/2024 02:22:42]
+  Williams Weaver: Иди служить на флот, говорили они! Будет весело, говорили они!
+[10/27/2024 02:22:45]
+  Console command "teleportsub" executed by kynlan4ic.
+[10/27/2024 02:22:50]
+  The respawn shuttle is leaving.
+[10/27/2024 02:23:20]
+  Williams Weaver has died (Cause of death: Unknown)
+[10/27/2024 02:23:20]
+  The respawn shuttle has left.
+[10/27/2024 02:23:23]
+  Console command "spawn Doomworm" executed by Negroidsk.
+[10/27/2024 02:23:28]
+  Console command "spawn Doomworm cursor" executed by Negroidsk.
+[10/27/2024 02:23:52]
+  Console command "spawn Legacyendworm" executed by Negroidsk.
+[10/27/2024 02:23:56]
+  Console command "spawn Legacyendworm cursor" executed by Negroidsk.
+[10/27/2024 02:24:10]
+  Dispatching the respawn shuttle.
+[10/27/2024 02:24:10]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/27/2024 02:24:10]
+  Respawning Negroidsk (STEAM_1:0:584229539) as Врач
+[10/27/2024 02:24:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:24:12]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:24:14]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:25:19]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/27/2024 02:25:31]
+  Negroidsk picked up Ручной сонар
+[10/27/2024 02:25:32]
+  Negroidsk picked up Лом
+[10/27/2024 02:25:33]
+  Negroidsk picked up Плазменный резак
+[10/27/2024 02:25:49]
+  Console command "power 999999" executed by kynlan4ic.
+[10/27/2024 02:25:51]
+  Console command "spawnitem "Сварочный аппарат" inventory" executed by Negroidsk.
+[10/27/2024 02:26:01]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:26:02]
+  Negroidsk placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3084)
+[10/27/2024 02:26:04]
+  Negroidsk equipped Сварочный аппарат
+[10/27/2024 02:26:08]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:09]
+  Outer wall breached by Mantis
+[10/27/2024 02:26:15]
+  Console command "ballastflora infect" executed by kynlan4ic.
+[10/27/2024 02:26:15]
+  Console command "ballastflora infect" executed by kynlan4ic.
+[10/27/2024 02:26:23]
+  Console command "ballastflora infect" executed by kynlan4ic.
+[10/27/2024 02:26:24]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:25]
+  Inner wall repaired by Negroidsk
+[10/27/2024 02:26:27]
+  Console command "teleportsub" executed by kynlan4ic.
+[10/27/2024 02:26:28]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:34]
+  Console command "ballastflora infect" executed by kynlan4ic.
+[10/27/2024 02:26:36]
+  Console command "teleportsub" executed by kynlan4ic.
+[10/27/2024 02:26:44]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:55]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:56]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:59]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:26:59]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:27:06]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:27:11]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:27:13]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:27:18]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:27:19]
+  Outer wall repaired by Negroidsk
+[10/27/2024 02:27:53]
+  Negroidsk equipped Плазменный резак
+[10/27/2024 02:28:19]
+  The respawn shuttle is leaving.
+[10/27/2024 02:28:29]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:28:30]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:28:32]
+  Negroidsk picked up Топливный бак сварочного аппарата
+[10/27/2024 02:28:32]
+  Negroidsk dropped Топливный бак сварочного аппарата
+[10/27/2024 02:28:32]
+  Negroidsk placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3084)
+[10/27/2024 02:28:50]
+  The respawn shuttle has left.
+[10/27/2024 02:28:58]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:28:58]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:28:58]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:28:59]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:28:59]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:28:59]
+  Console command "spawnitem "Топливный бак сварочного аппарата" inventory" executed by Negroidsk.
+[10/27/2024 02:29:00]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:01]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:01]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:01]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:01]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:01]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:02]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:02]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:02]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:02]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:02]
+  Console command "spawn Legacyfractalguardian cursor" executed by Negroidsk.
+[10/27/2024 02:29:20]
+  Negroidsk has died (Cause of death: Кровопотеря)
+[10/27/2024 02:29:36]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:37]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:37]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:37]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:37]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:37]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:38]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:38]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:38]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:38]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:38]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:38]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:39]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:39]
+  Console command "spawn Legacycharybdis cursor" executed by Negroidsk.
+[10/27/2024 02:29:40]
+  Dispatching the respawn shuttle.
+[10/27/2024 02:29:40]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/27/2024 02:29:40]
+  Respawning Negroidsk (STEAM_1:0:584229539) as Врач
+[10/27/2024 02:29:41]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:29:41]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:29:46]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:29:56]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:29:56]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:29:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:29:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:29:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:29:58]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:29:58]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:01]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:01]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:01]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:01]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:01]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:02]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:02]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:02]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:02]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:02]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:02]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:03]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:03]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:03]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:03]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:03]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:03]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:04]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:04]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:04]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:04]
+  Legacyfractalguardian attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:04]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:04]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:04]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:05]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:05]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:05]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:05]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:05]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:05]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:06]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:06]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:06]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:06]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:06]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:06]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:06]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:07]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:07]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:07]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:07]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:07]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:07]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:07]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:08]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:08]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:08]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:08]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:30:08]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:09]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:09]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:09]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:09]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:30:09]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:30:51]
+  The respawn shuttle is leaving.
+[10/27/2024 02:30:51]
+  Negroidsk equipped Шприц-пистолет
+[10/27/2024 02:30:52]
+  Outer wall breached by Mantis
+[10/27/2024 02:31:22]
+  The respawn shuttle has left.
+[10/27/2024 02:31:22]
+  kynlan4ic picked up Бинт
+[10/27/2024 02:31:23]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[10/27/2024 02:31:23]
+  kynlan4ic picked up Морфин
+[10/27/2024 02:31:23]
+  Negroidsk has died (Cause of death: Укусы)
+[10/27/2024 02:31:37]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/27/2024 02:32:03]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:03]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:03]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:03]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:03]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:03]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:04]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:04]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:04]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:04]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:04]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:05]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:05]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:05]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:05]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:05]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:06]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:06]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:06]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:06]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:06]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:07]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:07]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:07]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:07]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:07]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:07]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:08]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:08]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:08]
+  Outer wall breached by Legacytigerthresher
+[10/27/2024 02:32:09]
+  Console command "spawn Legacytigerthresher cursor" executed by Negroidsk.
+[10/27/2024 02:32:13]
+  Dispatching the respawn shuttle.
+[10/27/2024 02:32:13]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/27/2024 02:32:13]
+  Respawning Negroidsk (STEAM_1:0:584229539) as Врач
+[10/27/2024 02:32:14]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:32:15]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:32:58]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:33:00]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/27/2024 02:33:00]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:33:01]
+  Outer wall breached by Legacytigerthresher
+[10/27/2024 02:33:20]
+  Negroidsk has died (Cause of death: Баротравма)
+[10/27/2024 02:33:30]
+  kynlan4ic placed Одноразовый водолазный скафандр in Human
+[10/27/2024 02:33:40]
+  Console command "readycheck" executed by Negroidsk.
+[10/27/2024 02:33:41]
+  kynlan4ic picked up Кислородный баллон
+[10/27/2024 02:33:41]
+  kynlan4ic picked up Кислородный баллон
+[10/27/2024 02:33:41]
+  kynlan4ic picked up Кислородный баллон
+[10/27/2024 02:33:46]
+  Console command "revive" executed by Negroidsk.
+[10/27/2024 02:34:04]
+  The respawn shuttle is leaving.
+[10/27/2024 02:34:33]
+  Negroidsk dropped Одноразовый водолазный скафандр
+[10/27/2024 02:34:36]
+  kynlan4ic has died (Cause of death: Unknown)
+[10/27/2024 02:34:36]
+  The respawn shuttle has left.
+[10/27/2024 02:34:38]
+  Negroidsk has died (Cause of death: Баротравма)
+[10/27/2024 02:35:20]
+  Client "kynlan4ic" set the permissions of the client "Negroidsk" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires, ManageBotTalents
+[10/27/2024 02:35:20]
+  Saving client permissions
+[10/27/2024 02:35:21]
+  Client "kynlan4ic" set the permissions of the client "Negroidsk" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires, ManageBotTalents
+[10/27/2024 02:35:21]
+  Saving client permissions
+[10/27/2024 02:35:26]
+  Dispatching the respawn shuttle.
+[10/27/2024 02:35:26]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/27/2024 02:35:26]
+  Respawning Negroidsk (STEAM_1:0:584229539) as Врач
+[10/27/2024 02:35:27]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:35:27]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:35:38]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:38]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:38]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:35:38]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:38]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:39]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:39]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:39]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:35:39]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:40]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:40]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:40]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:41]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:41]
+  Outer wall breached by Negroidsk
+[10/27/2024 02:35:41]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:41]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:42]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:42]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:42]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:42]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:35:42]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:43]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:43]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:43]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:44]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:44]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/27/2024 02:35:44]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:35:44]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:44]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:45]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:45]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:45]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:46]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:46]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:46]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:47]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:47]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:47]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:48]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:48]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:48]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:48]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:49]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:49]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:49]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:49]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:50]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:50]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:50]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:51]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:51]
+  Molochblack_m attacked by Negroidsk. Рваная рана: 2.9
+[10/27/2024 02:35:51]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:51]
+  Molochblack_m attacked by Negroidsk. Рваная рана: 22.5 Кровотечение: 1.5
+[10/27/2024 02:35:51]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:51]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:52]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:52]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:52]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:52]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:53]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:53]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:53]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:53]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:54]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:54]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:54]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:55]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:35:55]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:55]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:55]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:55]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:56]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:56]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:56]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:56]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:35:56]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:57]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:58]
+  Negroidsk launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/27/2024 02:35:58]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:35:59]
+  Legacycharybdis attacked by Negroidsk. Рваная рана: 15.0 Кровотечение: 1.0
+[10/27/2024 02:36:01]
+  Outer wall breached by Legacytigerthresher
+[10/27/2024 02:36:17]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[10/27/2024 02:36:20]
+  Negroidsk has died (Cause of death: Баротравма)
+[10/27/2024 02:36:23]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:36:23]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[10/27/2024 02:36:28]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:36:28]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[10/27/2024 02:36:30]
+  kynlan4ic placed Одноразовый водолазный скафандр in Human
+[10/27/2024 02:36:32]
+  Console command "revive" executed by Negroidsk.
+[10/27/2024 02:37:04]
+  kynlan4ic equipped Револьвер
+[10/27/2024 02:37:39]
+  kynlan4ic picked up Подводный скутер
+[10/27/2024 02:37:40]
+  kynlan4ic equipped Подводный скутер
+[10/27/2024 02:37:43]
+  kynlan4ic placed Аккумулятор in Подводный скутер (ID: 3167)
+[10/27/2024 02:39:20]
+  The respawn shuttle is leaving.
+[10/27/2024 02:39:51]
+  kynlan4ic has died (Cause of death: Unknown)
+[10/27/2024 02:39:51]
+  Negroidsk has died (Cause of death: Unknown)
+[10/27/2024 02:39:51]
+  The respawn shuttle has left.
+[10/27/2024 02:40:41]
+  Dispatching the respawn shuttle.
+[10/27/2024 02:40:41]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/27/2024 02:40:41]
+  Respawning Negroidsk (STEAM_1:0:584229539) as Врач
+[10/27/2024 02:40:42]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:40:43]
+  Negroidsk set the value "Channel" of the item "Наушники" to "0".
+[10/27/2024 02:40:56]
+  Negroidsk picked up Одноразовый водолазный скафандр
+[10/27/2024 02:40:58]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/27/2024 02:40:59]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:40:59]
+  Inner wall breached by Molochblack_m
+[10/27/2024 02:40:59]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:40:59]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:40:59]
+  Outer wall breached by Molochblack_m
+[10/27/2024 02:42:40]
+  Negroidsk docked Челнок R-170 to Шахта Kermario Fossa
+[10/27/2024 02:42:51]
+  The respawn shuttle is leaving.
+[10/27/2024 02:42:52]
+  Client "kynlan4ic" ended the round.
+[10/27/2024 02:42:52]
+  Ending the round...

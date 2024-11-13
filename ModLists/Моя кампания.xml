@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mods name="Моя кампания">
+  <Vanilla />
+  <Workshop name="ATK-89 &quot;Sardine&quot;" id="2847437196" />
+  <Workshop name="Project-705k Lyra" id="2445826783" />
+  <Local name="Dors" />
+  <Local name="Umkhumbi" />
+  <Local name="Uzurbator3000" />
+  <Workshop name="SITE 18 SCP 3.5 FIXED DOORS 3.5" id="2300929171" />
+  <Workshop name="EK Matriarch Mk-VII" id="2218505792" />
+  <Workshop name="The Plague Rat" id="2599040776" />
+  <Workshop name="Super Plague Rat" id="2638314941" />
+  <Workshop name="Fat Fish" id="2662755737" />
+  <Workshop name="Bronze Age" id="2690899170" />
+  <Workshop name="Cast Iron" id="2757150107" />
+  <Workshop name="Nemesis" id="2845344515" />
+  <Workshop name="QF8" id="2878987377" />
+  <Workshop name="IHN Kalvair" id="2878480693" />
+  <Workshop name="Wellerman" id="2878786954" />
+  <Local name="Unnamed" />
+  <Workshop name="Челнок R-155" id="2885265334" />
+  <Local name="CzechSaboteur" />
+  <Workshop name="Челнок R-170" id="2887403292" />
+  <Local name="Гага дрын" />
+  <Workshop name="The Deep Manatee" id="2723641236" />
+  <Workshop name="Gato Revamped" id="2798217062" />
+  <Workshop name="Wyvern" id="2871896180" />
+  <Workshop name="Shiftless" id="2875438512" />
+  <Workshop name="TR-56" id="2939961149" />
+  <Workshop name="EK | Armory" id="1769403760" />
+  <Workshop name="Improved Husks" id="2085783214" />
+  <Workshop name="EK | Gunnery" id="2390126010" />
+  <Workshop name="DynamicEuropa" id="2532991202" />
+  <Workshop name="ADV Beacon Stations" id="2544952900" />
+  <Workshop name="Stations from beyond" id="2585543390" />
+  <Workshop name="Backpacks" id="2613901395" />
+  <Workshop name="32x Stack" id="2683570256" />
+  <Workshop name="SFB with DE" id="2907491279" />
+  <Workshop name="Beacons Extended" id="2389600483" />
+</mods>

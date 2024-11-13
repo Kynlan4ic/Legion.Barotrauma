@@ -1,0 +1,354 @@
+﻿[02/12/2023 21:30:35]
+  Starting the server...
+[02/12/2023 21:30:35]
+  Using SteamP2P networking.
+[02/12/2023 21:30:35]
+  Server started
+[02/12/2023 21:30:35]
+  Игрок kynlan4ic присоединился к серверу.
+[02/12/2023 21:30:35]
+  Saving client permissions
+[02/12/2023 21:30:35]
+  Saving client permissions
+[02/12/2023 21:30:45]
+  Игрок igameCrog присоединился к серверу.
+[02/12/2023 21:30:45]
+  Saving client permissions
+[02/12/2023 21:30:45]
+  Gamemode changed to PvP
+[02/12/2023 21:31:18]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/12/2023 21:31:18]
+  Saving client permissions
+[02/12/2023 21:32:03]
+  Gamemode changed to Миссия
+[02/12/2023 21:32:44]
+  igameCrog is ready to start the game.
+[02/12/2023 21:34:17]
+  kynlan4ic is ready to start the game.
+[02/12/2023 21:34:23]
+  Чпок В Пупок is ready to start the game.
+[02/12/2023 21:34:24]
+  Client "kynlan4ic" started the round.
+[02/12/2023 21:34:24]
+  Starting a new round...
+[02/12/2023 21:34:29]
+  Миссия: Добыча минералов
+[02/12/2023 21:34:29]
+  Говорят, где-то между точками Исследовательский центр Milda и Укрепление Bramerton есть Ильменит и Бавалин, целые залежи. Привезите оттуда ресурсы (требуется Ильменит и Бавалин), 4 - этого будет достаточно. Ваша доля - 25%.
+[02/12/2023 21:34:29]
+  Game mode: Миссия
+[02/12/2023 21:34:29]
+  Submarine: Dugong
+[02/12/2023 21:34:29]
+  Level seed: Trapoizm xyeta
+[02/12/2023 21:34:29]
+  Mission: Добыча минералов
+[02/12/2023 21:34:30]
+  Ramon Blakley equipped Электрошокер
+[02/12/2023 21:34:32]
+  Round started.
+[02/12/2023 21:34:38]
+  Christine Dyer: От этих Оболочек у меня мороз по коже.
+[02/12/2023 21:34:58]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 21:35:04]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 21:35:12]
+  kynlan4ic picked up Экстракт каликса
+[02/12/2023 21:35:17]
+  kynlan4ic picked up Подводная маска
+[02/12/2023 21:35:19]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:25]
+  kynlan4ic picked up Аккумулятор
+[02/12/2023 21:35:25]
+  kynlan4ic picked up Аккумулятор
+[02/12/2023 21:35:25]
+  kynlan4ic picked up Аккумулятор
+[02/12/2023 21:35:26]
+  kynlan4ic picked up Подводный скутер
+[02/12/2023 21:35:27]
+  kynlan4ic picked up Плазменный резак
+[02/12/2023 21:35:28]
+  igameCrog picked up Каликсанид
+[02/12/2023 21:35:30]
+  igameCrog placed Каликсанид in Форма врача (ID: 3599)
+[02/12/2023 21:35:32]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:42]
+  igameCrog placed Морфин in Аптечка (ID: 132)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:50]
+  Чпок В Пупок: Медицинский отсек: здесь протечка!
+[02/12/2023 21:35:52]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:52]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:53]
+  kynlan4ic: Fanny Southworth, займись орудиями!
+[02/12/2023 21:35:53]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:54]
+  Fanny Southworth: Вас понял!
+[02/12/2023 21:35:55]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:55]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:56]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:56]
+  kynlan4ic: Tod Gomez, займись оружием!
+[02/12/2023 21:35:57]
+  Tod Gomez: Вас понял!
+[02/12/2023 21:36:05]
+  igameCrog picked up Пояс инструментов
+[02/12/2023 21:36:06]
+  igameCrog picked up Отвертка
+[02/12/2023 21:36:07]
+  igameCrog picked up Гаечный ключ
+[02/12/2023 21:36:31]
+  igameCrog picked up Подводная маска
+[02/12/2023 21:36:35]
+  kynlan4ic equipped Револьвер
+[02/12/2023 21:36:37]
+  kynlan4ic equipped Экстракт каликса
+[02/12/2023 21:37:36]
+  igameCrog picked up Водолазный скафандр
+[02/12/2023 21:37:38]
+  igameCrog equipped Водолазный скафандр
+[02/12/2023 21:38:16]
+  kynlan4ic equipped Плазменный резак
+[02/12/2023 21:38:22]
+  Игрок Qwutix присоединился к серверу.
+[02/12/2023 21:38:22]
+  Saving client permissions
+[02/12/2023 21:38:23]
+  Чпок В Пупок picked up Сварочный аппарат
+[02/12/2023 21:38:30]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/12/2023 21:39:14]
+  Outer wall breached by kynlan4ic
+[02/12/2023 21:39:15]
+  Walker Reeves: Чпок В Пупок получает первую помощь здесь: медицинский отсек!
+[02/12/2023 21:39:19]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:39:20]
+  Bruno Breeki equipped Сварочный аппарат
+[02/12/2023 21:39:20]
+  Walker Reeves: Чпок В Пупок нуждается в помощи! Срочно требуется экстракт взрывного граната или бинт!
+[02/12/2023 21:39:21]
+  Outer wall repaired by Bruno Breeki
+[02/12/2023 21:39:21]
+  Bruno Breeki: Пункт управления: все протечки устранены!
+[02/12/2023 21:39:21]
+  igameCrog used item Бинт
+[02/12/2023 21:39:22]
+  Bruno Breeki unequipped Сварочный аппарат
+[02/12/2023 21:39:32]
+  kynlan4ic used item Экстракт каликса
+[02/12/2023 21:39:34]
+  igameCrog picked up Сварочный аппарат
+[02/12/2023 21:39:40]
+  Чпок В Пупок equipped Гаечный ключ
+[02/12/2023 21:39:42]
+  igameCrog equipped Сварочный аппарат
+[02/12/2023 21:39:48]
+  kynlan4ic picked up Водолазный скафандр
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:40:05]
+  kynlan4ic equipped Подводный скутер
+[02/12/2023 21:40:38]
+  Outer wall breached by kynlan4ic
+[02/12/2023 21:40:48]
+  Чпок В Пупок: Медицинский отсек: здесь срочно требуется медицинская помощь!
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:53]
+  Чпок В Пупок: Медицинский отсек: здесь срочно требуется медицинская помощь!
+[02/12/2023 21:40:53]
+  igameCrog equipped Бинт
+[02/12/2023 21:40:59]
+  Marcy Mendel: Кажется, у меня жар.
+[02/12/2023 21:41:02]
+  igameCrog used item Бинт
+[02/12/2023 21:41:02]
+  igameCrog equipped Бинт
+[02/12/2023 21:41:02]
+  igameCrog used item Бинт
+[02/12/2023 21:41:02]
+  igameCrog equipped Бинт
+[02/12/2023 21:41:39]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:41:40]
+  Walker Reeves: Чпок В Пупок проходит лечение здесь: пункт управления!
+[02/12/2023 21:41:41]
+  Walker Reeves: Мне требуется бинт, морфин, экстракт взрывного граната или опиум!
+[02/12/2023 21:41:42]
+  Bruno Breeki: Мне нужно подводное снаряжение!
+[02/12/2023 21:41:48]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:41:49]
+  Чпок В Пупок picked up Водолазный скафандр
+[02/12/2023 21:41:50]
+  Katherina Mcneil equipped Сварочный аппарат
+[02/12/2023 21:41:50]
+  Katherina Mcneil: Надо найти водолазный скафандр!
+[02/12/2023 21:41:53]
+  Christine Dyer: Мне нужно подводное снаряжение!
+[02/12/2023 21:41:55]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:41:57]
+  Zoey Hurley: Мне нужно подводное снаряжение!
+[02/12/2023 21:42:00]
+  Katherina Mcneil unequipped Сварочный аппарат
+[02/12/2023 21:42:03]
+  Walker Reeves: Мне нужно подводное снаряжение!
+[02/12/2023 21:42:14]
+  Outer wall repaired by igameCrog
+[02/12/2023 21:42:19]
+  Walker Reeves: igameCrog проходит лечение здесь: камера балласта a!
+[02/12/2023 21:42:20]
+  Walker Reeves: Мне требуется бинт, морфин, экстракт взрывного граната или опиум!
+[02/12/2023 21:42:20]
+  Marcy Mendel: У меня что-то во рту...
+[02/12/2023 21:42:23]
+  igameCrog placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[02/12/2023 21:42:23]
+  igameCrog removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/12/2023 21:42:23]
+  igameCrog placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3379)
+[02/12/2023 21:42:26]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:42:29]
+  igameCrog equipped Шприц-пистолет
+[02/12/2023 21:42:39]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:42:51]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:42:52]
+  Walker Reeves: igameCrog чувствует себя хорошо!
+[02/12/2023 21:42:54]
+  Walker Reeves: Чпок В Пупок проходит лечение здесь: моторный отсек!
+[02/12/2023 21:42:56]
+  Walker Reeves: Мне требуется бинт, морфин, экстракт взрывного граната или опиум!
+[02/12/2023 21:43:00]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 409)
+[02/12/2023 21:43:03]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:43:08]
+  Чпок В Пупок placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 4)
+[02/12/2023 21:43:11]
+  igameCrog equipped Гаечный ключ
+[02/12/2023 21:43:12]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:43:13]
+  igameCrog started repairing Двигатель
+[02/12/2023 21:43:15]
+  Walker Reeves: Чпок В Пупок в полном порядке!
+[02/12/2023 21:43:32]
+  igameCrog picked up Красный провод
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:50]
+  Walker Reeves: igameCrog получает первую помощь здесь: медицинский отсек!
+[02/12/2023 21:43:50]
+  Walker Reeves equipped Опиум
+[02/12/2023 21:43:51]
+  Walker Reeves: Мне требуется бинт, морфин или опиум!
+[02/12/2023 21:43:59]
+  igameCrog used item Бинт
+[02/12/2023 21:44:02]
+  igameCrog used item Бинт
+[02/12/2023 21:44:03]
+  igameCrog used item Бинт
+[02/12/2023 21:44:16]
+  kynlan4ic docked Dugong to Укрепление Bramerton
+[02/12/2023 21:44:16]
+  igameCrog equipped Отвертка
+[02/12/2023 21:44:18]
+  kynlan4ic undocked Dugong from Укрепление Bramerton
+[02/12/2023 21:44:20]
+  igameCrog disconnected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[02/12/2023 21:44:20]
+  igameCrog connected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[02/12/2023 21:44:21]
+  kynlan4ic docked Dugong to Укрепление Bramerton
+[02/12/2023 21:44:26]
+  Ending round (submarine reached the end of the level)
+[02/12/2023 21:44:26]
+  Ending the round...

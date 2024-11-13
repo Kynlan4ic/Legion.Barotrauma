@@ -1,0 +1,504 @@
+﻿[11/01/2022 20:28:25]
+  Starting the server...
+[11/01/2022 20:28:25]
+  Using SteamP2P networking.
+[11/01/2022 20:28:25]
+  Server started
+[11/01/2022 20:28:25]
+  Игрок kynlan4ic присоединился к серверу.
+[11/01/2022 20:28:25]
+  Saving client permissions
+[11/01/2022 20:28:25]
+  Saving client permissions
+[11/01/2022 20:28:29]
+  Gamemode changed to Кампания
+[11/01/2022 20:44:06]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/01/2022 20:44:12]
+  Игрок igameCrog присоединился к серверу.
+[11/01/2022 20:44:12]
+  Saving client permissions
+[11/01/2022 20:44:33]
+  kynlan4ic is ready to start the game.
+[11/01/2022 20:44:36]
+  kynlan4ic is not ready to start the game.
+[11/01/2022 20:44:37]
+  kynlan4ic is ready to start the game.
+[11/01/2022 20:44:38]
+  igameCrog is ready to start the game.
+[11/01/2022 20:44:39]
+  Starting a new round...
+[11/01/2022 20:44:39]
+  kynlan4ic is not ready to start the game.
+[11/01/2022 20:44:41]
+  igameCrog is not ready to start the game.
+[11/01/2022 20:44:48]
+  Game mode: Кампания
+[11/01/2022 20:44:48]
+  Submarine: Barsuk
+[11/01/2022 20:44:48]
+  Level seed: Astypalaea Linea
+[11/01/2022 20:44:48]
+  Tanya Mansfield equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Tanya Mansfield unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Tanya Mansfield equipped Отвертка
+[11/01/2022 20:44:48]
+  Hector Ashley equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Hector Ashley unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Hector Ashley equipped Отвертка
+[11/01/2022 20:44:48]
+  Michele Chaney equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Michele Chaney unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Michele Chaney equipped Отвертка
+[11/01/2022 20:44:48]
+  Bertram Ordway equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Bertram Ordway unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Bertram Ordway equipped Отвертка
+[11/01/2022 20:44:48]
+  Bertram Ordway unequipped Отвертка
+[11/01/2022 20:44:48]
+  Bertram Ordway equipped Лом
+[11/01/2022 20:44:48]
+  Merrill Dollinger equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Merrill Dollinger unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Merrill Dollinger equipped Отвертка
+[11/01/2022 20:44:49]
+  Barry Lane equipped Лом
+[11/01/2022 20:44:49]
+  Sanda Newton equipped Лом
+[11/01/2022 20:44:50]
+  Round started.
+[11/01/2022 20:44:50]
+  Barry Lane unequipped Лом
+[11/01/2022 20:44:50]
+  Bertram Ordway unequipped Лом
+[11/01/2022 20:44:51]
+  Tanya Mansfield unequipped Отвертка
+[11/01/2022 20:44:51]
+  Sanda Newton unequipped Лом
+[11/01/2022 20:44:55]
+  Tanya Mansfield: ...а потом я говорю врачу: «Это не щупальце!»
+[11/01/2022 20:45:00]
+  Hector Ashley: Ну, ты даешь!
+[11/01/2022 20:45:02]
+  Erich Box: Приветствую. Надеюсь, проблем от вас не будет.
+[11/01/2022 20:45:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 20:45:32]
+  Hector Ashley unequipped Отвертка
+[11/01/2022 20:45:35]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 20:47:13]
+  Michele Chaney unequipped Отвертка
+[11/01/2022 20:47:27]
+  kynlan4ic purchased 2 item(s) for 191 кр.
+ - Бинт x3
+ - Галоперидол x1
+[11/01/2022 20:47:27]
+  igameCrog placed Морфин in Форма врача (ID: 2301)
+[11/01/2022 20:47:28]
+  igameCrog placed Бинт in Форма врача (ID: 2301)
+[11/01/2022 20:47:42]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 20:47:42]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 20:47:46]
+  igameCrog removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 1518)
+[11/01/2022 20:47:54]
+  Bertram Ordway equipped Водолазный скафандр
+[11/01/2022 20:48:10]
+  Merrill Dollinger unequipped Отвертка
+[11/01/2022 20:48:39]
+  kynlan4ic purchased 2 item(s) for 282 кр.
+ - Топливный стержень x1
+ - Топливный бак сварочного аппарата x1
+[11/01/2022 20:48:45]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 20:48:48]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 20:48:55]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 20:48:55]
+  Ending the round...
+[11/01/2022 20:48:55]
+  Round ended.
+[11/01/2022 20:48:58]
+  Starting a new round...
+[11/01/2022 20:49:02]
+  Reed Simpson equipped Лом
+[11/01/2022 20:49:02]
+  Lionel Swanger equipped Отвертка
+[11/01/2022 20:49:02]
+  Миссия: Взрывной груз
+[11/01/2022 20:49:02]
+  Местный торговец оружием предлагает 800 кред. за доставку груза взрывчатки его клиенту в точке Balagtan.
+[11/01/2022 20:49:02]
+  Миссия: Пассажирские перевозки
+[11/01/2022 20:49:02]
+  Нескольких пассажиров нужно отвезти в точку Balagtan. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[11/01/2022 20:49:02]
+  Game mode: Кампания
+[11/01/2022 20:49:02]
+  Submarine: Barsuk
+[11/01/2022 20:49:02]
+  Level seed: BalagtanAstypalaea Linea
+[11/01/2022 20:49:02]
+  Mission: Взрывной груз
+[11/01/2022 20:49:02]
+  Mission: Пассажирские перевозки
+[11/01/2022 20:49:03]
+  Round started.
+[11/01/2022 20:49:04]
+  Lionel Swanger unequipped Отвертка
+[11/01/2022 20:49:04]
+  Reed Simpson unequipped Лом
+[11/01/2022 20:49:13]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 20:49:18]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 20:49:20]
+  kynlan4ic: Sara Hebert, встань за орудия!
+[11/01/2022 20:49:21]
+  Sara Hebert: Само собой!
+[11/01/2022 20:49:22]
+  igameCrog picked up Подводная маска
+[11/01/2022 20:49:23]
+  igameCrog picked up Плазменный резак
+[11/01/2022 20:49:23]
+  kynlan4ic: Stephane Palmieri, займись орудиями!
+[11/01/2022 20:49:24]
+  igameCrog picked up Подводный скутер
+[11/01/2022 20:49:24]
+  Stephane Palmieri: Принято.
+[11/01/2022 20:49:27]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:49:27]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:49:28]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:49:30]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:49:31]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:49:33]
+  igameCrog picked up Подводная маска
+[11/01/2022 20:49:35]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:49:35]
+  igameCrog placed Подводная маска in Хозяйственный шкаф (ID: 612)
+[11/01/2022 20:49:55]
+  Chance Hines: Видит ли Бог, что происходит под толщей льда?
+[11/01/2022 20:50:00]
+  Chance Hines: Или, быть может, это бездна? Бездна видит все.
+[11/01/2022 20:50:05]
+  Chance Hines: В одном культ прав - там внизу что-то есть.
+[11/01/2022 20:50:06]
+  igameCrog placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 94)
+[11/01/2022 20:50:07]
+  igameCrog placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 94)
+[11/01/2022 20:50:09]
+  igameCrog placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 91)
+[11/01/2022 20:50:10]
+  igameCrog placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 91)
+[11/01/2022 20:50:10]
+  igameCrog placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 91)
+[11/01/2022 20:50:21]
+  igameCrog picked up Подводная маска
+[11/01/2022 20:50:22]
+  igameCrog placed Кислородный баллон in Хозяйственный шкаф (ID: 613)
+[11/01/2022 20:50:24]
+  igameCrog placed Подводная маска in Хозяйственный шкаф (ID: 613)
+[11/01/2022 20:50:26]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:45]
+  igameCrog picked up Морфин
+[11/01/2022 20:50:47]
+  igameCrog placed Морфин in Аптечка (ID: 3)
+[11/01/2022 20:50:48]
+  igameCrog placed Бинт in Аптечка (ID: 3)
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:50]
+  igameCrog picked up Бинт
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:51]
+  igameCrog placed Бинт in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:53]
+  igameCrog placed Морфин in Форма врача (ID: 1579)
+[11/01/2022 20:50:54]
+  igameCrog picked up Каликсанид
+[11/01/2022 20:50:54]
+  igameCrog picked up Каликсанид
+[11/01/2022 20:50:54]
+  igameCrog picked up Каликсанид
+[11/01/2022 20:50:57]
+  igameCrog placed Каликсанид in Форма врача (ID: 1579)
+[11/01/2022 20:50:57]
+  igameCrog placed Каликсанид in Форма врача (ID: 1579)
+[11/01/2022 20:50:57]
+  igameCrog placed Каликсанид in Форма врача (ID: 1579)
+[11/01/2022 20:51:15]
+  igameCrog picked up Пояс инструментов
+[11/01/2022 20:51:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 1596)
+[11/01/2022 20:51:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 1596)
+[11/01/2022 20:51:22]
+  igameCrog placed Подводный скутер in Пояс инструментов (ID: 1596)
+[11/01/2022 20:51:24]
+  Sara Hebert: Новая цель: ледяной шпиль!
+[11/01/2022 20:51:24]
+  Sara Hebert: Огонь!
+[11/01/2022 20:51:25]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 1596)
+[11/01/2022 20:51:25]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 20:51:27]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 1596)
+[11/01/2022 20:51:28]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 20:51:31]
+  Stephane Palmieri: Прицел на ледяной шпиль!
+[11/01/2022 20:51:31]
+  Stephane Palmieri: Стреляю!
+[11/01/2022 20:51:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:51:59]
+  Sara Hebert: У меня новая цель! Не могу понять, что это такое...
+[11/01/2022 20:52:00]
+  Sara Hebert: Стреляю!
+[11/01/2022 20:52:01]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 20:52:02]
+  Outer wall breached by Crawler
+[11/01/2022 20:52:11]
+  igameCrog picked up Лом
+[11/01/2022 20:52:11]
+  igameCrog picked up Гаечный ключ
+[11/01/2022 20:52:12]
+  igameCrog picked up Отвертка
+[11/01/2022 20:52:16]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 1596)
+[11/01/2022 20:52:19]
+  igameCrog placed Лом in Пояс инструментов (ID: 1596)
+[11/01/2022 20:52:22]
+  igameCrog picked up Подводная маска
+[11/01/2022 20:52:24]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 1596)
+[11/01/2022 20:52:24]
+  Stephane Palmieri: Огонь!
+[11/01/2022 20:52:24]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:24]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:25]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:25]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:25]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:25]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 20:52:39]
+  kynlan4ic: Sara Hebert, уничтожь врагов!
+[11/01/2022 20:52:40]
+  Sara Hebert: Так точно!
+[11/01/2022 20:52:43]
+  kynlan4ic: Tyson Kidd, займись поврежденными устройствами!
+[11/01/2022 20:52:43]
+  igameCrog equipped Медконтейнер
+[11/01/2022 20:52:44]
+  Tyson Kidd: Есть!
+[11/01/2022 20:52:45]
+  kynlan4ic: Chance Hines, займись протечками!
+[11/01/2022 20:52:46]
+  igameCrog picked up Галоперидол
+[11/01/2022 20:52:46]
+  Chance Hines: Вас понял!
+[11/01/2022 20:52:46]
+  igameCrog picked up Бинт
+[11/01/2022 20:52:46]
+  igameCrog picked up Бинт
+[11/01/2022 20:52:46]
+  igameCrog picked up Бинт
+[11/01/2022 20:52:47]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/01/2022 20:52:49]
+  igameCrog dropped Медконтейнер
+[11/01/2022 20:52:49]
+  kynlan4ic: Priscilla Jones, отремонтируй электросистемы!
+[11/01/2022 20:52:50]
+  Priscilla Jones: Слушаюсь!
+[11/01/2022 20:52:55]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 20:52:57]
+  Sara Hebert: Стреляю!
+[11/01/2022 20:52:58]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 20:52:59]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 20:52:59]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 20:52:59]
+  Sara Hebert: Враг уничтожен!
+[11/01/2022 20:53:05]
+  Outer wall repaired by Chance Hines
+[11/01/2022 20:53:05]
+  Chance Hines: Нижняя передняя часть: протечек не осталось!
+[11/01/2022 20:53:06]
+  igameCrog placed Бинт in Аптечка (ID: 3)
+[11/01/2022 20:53:06]
+  igameCrog placed Бинт in Аптечка (ID: 3)
+[11/01/2022 20:53:06]
+  igameCrog placed Бинт in Аптечка (ID: 3)
+[11/01/2022 20:53:06]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 20:53:07]
+  igameCrog placed Галоперидол in Аптечка (ID: 3)
+[11/01/2022 20:53:52]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 20:53:55]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 20:54:21]
+  igameCrog picked up Отвертка
+[11/01/2022 20:54:21]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 20:54:21]
+  igameCrog picked up Лом
+[11/01/2022 20:54:21]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 20:54:22]
+  Tyson Kidd started repairing Монитор состояния
+[11/01/2022 20:54:23]
+  igameCrog equipped Отвертка
+[11/01/2022 20:54:25]
+  Priscilla Jones started repairing Монитор состояния
+[11/01/2022 20:54:26]
+  Tyson Kidd started repairing Кабельная коробка
+[11/01/2022 20:54:26]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 20:54:27]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 20:54:28]
+  kynlan4ic has gained 72 experience (0 -> 72)
+[11/01/2022 20:54:28]
+  igameCrog has gained 72 experience (0 -> 72)
+[11/01/2022 20:54:28]
+  kynlan4ic has gained 99 experience (72 -> 171)
+[11/01/2022 20:54:28]
+  igameCrog has gained 99 experience (72 -> 171)
+[11/01/2022 20:54:28]
+  Ending the round...

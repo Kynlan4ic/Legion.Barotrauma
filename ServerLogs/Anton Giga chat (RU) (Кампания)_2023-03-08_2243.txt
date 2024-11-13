@@ -1,0 +1,20 @@
+﻿[03/08/2023 22:42:55]
+  Starting the server...
+[03/08/2023 22:42:55]
+  Using SteamP2P networking.
+[03/08/2023 22:42:56]
+  Server started
+[03/08/2023 22:42:58]
+  Игрок kynlan4ic присоединился к серверу.
+[03/08/2023 22:42:58]
+  Saving client permissions
+[03/08/2023 22:42:58]
+  Saving client permissions
+[03/08/2023 22:43:04]
+  Gamemode changed to Кампания
+[03/08/2023 22:43:25]
+  Saving banlist
+[03/08/2023 22:43:35]
+  Saving banlist
+[03/08/2023 22:43:35]
+  Shutting down the server...

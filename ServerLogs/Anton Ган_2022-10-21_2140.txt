@@ -1,0 +1,48 @@
+﻿[10/21/2022 21:38:04]
+  Starting the server...
+[10/21/2022 21:38:04]
+  Using SteamP2P networking.
+[10/21/2022 21:38:04]
+  Server started
+[10/21/2022 21:38:04]
+  Игрок kynlan4ic присоединился к серверу.
+[10/21/2022 21:38:04]
+  Saving client permissions
+[10/21/2022 21:38:04]
+  Saving client permissions
+[10/21/2022 21:38:10]
+  Gamemode changed to Песочница
+[10/21/2022 21:38:12]
+  Gamemode changed to Миссия
+[10/21/2022 21:38:12]
+  Gamemode changed to Песочница
+[10/21/2022 21:38:33]
+  Client "kynlan4ic" started the round.
+[10/21/2022 21:38:33]
+  Starting a new round...
+[10/21/2022 21:38:48]
+  Game mode: Песочница
+[10/21/2022 21:38:48]
+  Submarine: War for Europa
+[10/21/2022 21:38:48]
+  Level seed: MhymXEEO
+[10/21/2022 21:38:55]
+  Round started.
+[10/21/2022 21:39:03]
+  Nola Dyer: Ты не задумываешься о том, что же произошло с теми, кто построил эти руины?
+[10/21/2022 21:39:08]
+  Avril Gumbs: Лишь бездна знает.
+[10/21/2022 21:39:30]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 21:39:53]
+  kynlan4ic equipped Baton
+[10/21/2022 21:39:56]
+  Zoey Danko attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.5
+[10/21/2022 21:39:56]
+  kynlan4ic used Baton on Zoey Danko.
+[10/21/2022 21:40:02]
+  kynlan4ic equipped Light Hand Cannon
+[10/21/2022 21:40:15]
+  Ending round by votes (1/0)
+[10/21/2022 21:40:15]
+  Ending the round...

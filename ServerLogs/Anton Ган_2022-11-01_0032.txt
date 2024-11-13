@@ -1,0 +1,1602 @@
+﻿[11/01/2022 00:16:07]
+  ГИДРАНТ покидает сервер.
+[11/01/2022 00:16:08]
+  ***N39*** покидает сервер.
+[11/01/2022 00:16:23]
+  igameCrog picked up Подводный скутер
+[11/01/2022 00:16:25]
+  igameCrog picked up Гаечный ключ
+[11/01/2022 00:16:26]
+  igameCrog picked up Отвертка
+[11/01/2022 00:16:31]
+  igameCrog equipped Гаечный ключ
+[11/01/2022 00:16:34]
+  igameCrog equipped Отвертка
+[11/01/2022 00:16:36]
+  igameCrog started repairing Навигационный терминал челнока
+[11/01/2022 00:16:49]
+  пенис большой picked up Подводный скутер
+[11/01/2022 00:16:53]
+  igameCrog unequipped Отвертка
+[11/01/2022 00:16:53]
+  igameCrog unequipped Гаечный ключ
+[11/01/2022 00:16:53]
+  igameCrog equipped Медконтейнер
+[11/01/2022 00:16:54]
+  пенис большой placed Подводный скутер in Пояс инструментов (ID: 4063)
+[11/01/2022 00:16:56]
+  The respawn shuttle is leaving.
+[11/01/2022 00:16:58]
+  igameCrog dropped Медконтейнер
+[11/01/2022 00:16:59]
+  пенис большой placed Гаечный ключ in Пояс инструментов (ID: 4063)
+[11/01/2022 00:16:59]
+  пенис большой removed Подводный скутер from Пояс инструментов (ID: 4063)
+[11/01/2022 00:16:59]
+  пенис большой picked up Подводный скутер
+[11/01/2022 00:17:00]
+  Console command "freecam" executed by kynlan4ic.
+[11/01/2022 00:17:01]
+  пенис большой equipped Подводный скутер
+[11/01/2022 00:17:01]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:17:15]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:26]
+  пенис большой has died (Cause of death: Unknown)
+[11/01/2022 00:17:26]
+  Fiona Berlin has died (Cause of death: Unknown)
+[11/01/2022 00:17:26]
+  The respawn shuttle has left.
+[11/01/2022 00:17:35]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:17:35]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:17:35]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:17:38]
+  Dispatching the respawn shuttle.
+[11/01/2022 00:17:38]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/01/2022 00:17:38]
+  Respawning пенис большой (STEAM_1:1:591531635) as Помощник
+[11/01/2022 00:17:38]
+  Respawning Pajyloy_Borov (STEAM_1:0:220944891) as Офицер службы безопасности
+[11/01/2022 00:17:38]
+  Respawning bot Yahaira Berner as Офицер службы безопасности
+[11/01/2022 00:17:38]
+  Respawning bot Fiona Berlin as Инженер
+[11/01/2022 00:17:38]
+  Respawning bot Beaulah Phillips as Механик
+[11/01/2022 00:17:38]
+  Respawning bot Denise Swanson as Инженер
+[11/01/2022 00:17:38]
+  Respawning bot Darwin Riles as Инженер
+[11/01/2022 00:17:38]
+  Respawning bot Denise Swanson as Инженер
+[11/01/2022 00:17:40]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:17:41]
+  Pajyloy_Borov set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:17:41]
+  пенис большой set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:17:44]
+  Pajyloy_Borov picked up Одноразовый водолазный скафандр
+[11/01/2022 00:17:45]
+  пенис большой picked up Одноразовый водолазный скафандр
+[11/01/2022 00:17:45]
+  Pajyloy_Borov equipped Одноразовый водолазный скафандр
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:48]
+  пенис большой picked up Кислородный баллон
+[11/01/2022 00:17:49]
+  пенис большой picked up Подводный скутер
+[11/01/2022 00:17:51]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/01/2022 00:17:51]
+  Yahaira Berner equipped Шоковая дубинка
+[11/01/2022 00:17:51]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:17:51]
+  Yahaira Berner: Эти проклятые создания тут повсюду!
+[11/01/2022 00:17:53]
+  kynlan4ic picked up Ручной сонар
+[11/01/2022 00:17:53]
+  kynlan4ic picked up Подводная маска
+[11/01/2022 00:17:54]
+  kynlan4ic picked up Плазменный резак
+[11/01/2022 00:17:55]
+  kynlan4ic picked up Подводный скутер
+[11/01/2022 00:17:56]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:18:06]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:18:06]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:06]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:06]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:13]
+  пенис большой opened Настраиваемая дверь
+[11/01/2022 00:18:15]
+  пенис большой closed Настраиваемая дверь
+[11/01/2022 00:18:17]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:17]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:17]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:17]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:17]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:18]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:18:18]
+  пенис большой opened Настраиваемая дверь
+[11/01/2022 00:18:19]
+  пенис большой closed Настраиваемая дверь
+[11/01/2022 00:18:19]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:19]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:19]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:19]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:19]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:19]
+  пенис большой opened Настраиваемая дверь
+[11/01/2022 00:18:20]
+  пенис большой closed Настраиваемая дверь
+[11/01/2022 00:18:20]
+  пенис большой opened Настраиваемая дверь
+[11/01/2022 00:18:20]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:20]
+  пенис большой closed Настраиваемая дверь
+[11/01/2022 00:18:20]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:20]
+  пенис большой opened Настраиваемая дверь
+[11/01/2022 00:18:20]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:18:20]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:20]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:20]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:20]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:21]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:21]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:18:23]
+  Darwin Riles: Надо найти водолазный скафандр!
+[11/01/2022 00:18:23]
+  Yahaira Berner: Надо найти водолазный скафандр!
+[11/01/2022 00:18:31]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:18:32]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:18:32]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:18:34]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:18:34]
+  пенис большой closed Настраиваемая дверь
+[11/01/2022 00:18:35]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:18:38]
+  Fiona Berlin: Надо найти водолазный скафандр!
+[11/01/2022 00:18:38]
+  Denise Swanson: Надо найти водолазный скафандр!
+[11/01/2022 00:18:38]
+  Beaulah Phillips: Мне нужно подводное снаряжение!
+[11/01/2022 00:18:38]
+  Denise Swanson: Мне нужно подводное снаряжение!
+[11/01/2022 00:18:39]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:18:43]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/01/2022 00:18:44]
+  Pajyloy_Borov equipped Нож ныряльщика
+[11/01/2022 00:18:44]
+  Pajyloy_Borov equipped Шоковая дубинка
+[11/01/2022 00:18:45]
+  Pajyloy_Borov closed Настраиваемая дверь
+[11/01/2022 00:18:46]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/01/2022 00:18:48]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:48]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:48]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:48]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:49]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:49]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:49]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:49]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:50]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:50]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:50]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:50]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:51]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:51]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:51]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:51]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:52]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:18:52]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:53]
+  пенис большой equipped Подводный скутер
+[11/01/2022 00:18:53]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:18:53]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:53]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:53]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:54]
+  Denise Swanson: Я теряю много крови!
+[11/01/2022 00:18:54]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:54]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:54]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:54]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:55]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:55]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:55]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:55]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:56]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:56]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:57]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:18:57]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:58]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:18:58]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:58]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:18:58]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:18:59]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:18:59]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:18:59]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:18:59]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:00]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:00]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:00]
+  kynlan4ic equipped Плазменный резак
+[11/01/2022 00:19:00]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:00]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:01]
+  kynlan4ic equipped Подводный скутер
+[11/01/2022 00:19:01]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:01]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:02]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:02]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:02]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:02]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:03]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:03]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:04]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:04]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:04]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:04]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:05]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:05]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:05]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:05]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:06]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:06]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:06]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:06]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:07]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:07]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:08]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:08]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:09]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:09]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:09]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:09]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:10]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:10]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:10]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:10]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:11]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:11]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:11]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:11]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:12]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:12]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:13]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:13]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:13]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:13]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:14]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:14]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:15]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:15]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:15]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:15]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:16]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:16]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:16]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:16]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:16]
+  igameCrog is a traitor and the current goals are:
+- Отплывите на 50.00 м от подлодки. (В процессе)
+
+[11/01/2022 00:19:17]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:17]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:17]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:17]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:20]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:20]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:20]
+  пенис большой equipped Кислородный баллон
+[11/01/2022 00:19:21]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:21]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:21]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:21]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:22]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:22]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:22]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:22]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:22]
+  пенис большой equipped Отвертка
+[11/01/2022 00:19:23]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:23]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:23]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:23]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:24]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:24]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:25]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:25]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:26]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:26]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:26]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:26]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:26]
+  Denise Swanson: Я теряю много крови!
+[11/01/2022 00:19:27]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:27]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:27]
+  Beaulah Phillips equipped Сварочный аппарат
+[11/01/2022 00:19:27]
+  Beaulah Phillips: Эти проклятые создания тут повсюду!
+[11/01/2022 00:19:27]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:27]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:28]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:28]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:28]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 5 Кровотечение: 5 Оглушение: 0.2
+[11/01/2022 00:19:28]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:29]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:29]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:30]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:30]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:31]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:31]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:32]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:32]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:32]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:32]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:33]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:19:33]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:33]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:33]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:34]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:34]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:34]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:34]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:35]
+  пенис большой picked up Плазменный резак
+[11/01/2022 00:19:35]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:35]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:36]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:36]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:37]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:37]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:40]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:40]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:40]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:40]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:41]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:41]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:42]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:42]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:43]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:43]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:43]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:43]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:44]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:44]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:44]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:44]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:45]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:45]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:45]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:45]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:46]
+  Denise Swanson equipped Гаечный ключ
+[11/01/2022 00:19:46]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:46]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:47]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:47]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:47]
+  Denise Swanson: А-А-А-А-А-А!
+[11/01/2022 00:19:47]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:47]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:48]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:48]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:49]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:49]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:49]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:49]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:50]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:50]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:50]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:50]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:51]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:51]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:51]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:51]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:52]
+  Beaulah Phillips: Помогите, я истекаю кровью!
+[11/01/2022 00:19:52]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:52]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:53]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:53]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:54]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:54]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:54]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:54]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:55]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:19:55]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:55]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:55]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:56]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:56]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:56]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:56]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:57]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:57]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:57]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:19:57]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:19:58]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:19:58]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:19:59]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:19:59]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:00]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:00]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:00]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:00]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:01]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:01]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:01]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:01]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:02]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:02]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:02]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:02]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:03]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:03]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:04]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:04]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:05]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:05]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:05]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:05]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:06]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:06]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:06]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:20:06]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:07]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:07]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:07]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:07]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:08]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:08]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:08]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:20:08]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:09]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:09]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:10]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:10]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:10]
+  Denise Swanson unequipped Гаечный ключ
+[11/01/2022 00:20:11]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:11]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:11]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:20:11]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:11]
+  Beaulah Phillips unequipped Сварочный аппарат
+[11/01/2022 00:20:12]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:12]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:12]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:20:12]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:13]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:13]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:13]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:13]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:14]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:14]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:14]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:20:14]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:16]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:16]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:16]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 20 Кровотечение: 20 Оглушение: 0.2
+[11/01/2022 00:20:16]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:17]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:20:17]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:17]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:20:17]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:17]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:18]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 8 Оглушение: 0.2
+[11/01/2022 00:20:18]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:18]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:20:18]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:20:19]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/01/2022 00:20:19]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:20:22]
+  igameCrog dropped Одноразовый водолазный скафандр
+[11/01/2022 00:20:25]
+  igameCrog unequipped Сварочный аппарат
+[11/01/2022 00:20:25]
+  igameCrog equipped Одноразовый водолазный скафандр
+[11/01/2022 00:20:31]
+  igameCrog placed Отвертка in Защищенный стальной шкаф (ID: 102)
+[11/01/2022 00:20:32]
+  igameCrog placed Гаечный ключ in Защищенный стальной шкаф (ID: 102)
+[11/01/2022 00:20:37]
+  Pajyloy_Borov removed Одноразовый водолазный скафандр from Human
+[11/01/2022 00:20:38]
+  Fiona Berlin: Надо найти водолазный скафандр!
+[11/01/2022 00:20:39]
+  Pajyloy_Borov placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 3225)
+[11/01/2022 00:20:39]
+  Denise Swanson: Надо найти водолазный скафандр!
+[11/01/2022 00:20:44]
+  Pajyloy_Borov picked up Одноразовый водолазный скафандр
+[11/01/2022 00:20:44]
+  Pajyloy_Borov dropped Одноразовый водолазный скафандр
+[11/01/2022 00:20:49]
+  Pajyloy_Borov removed Одноразовый водолазный скафандр from Human
+[11/01/2022 00:20:49]
+  Beaulah Phillips: Надо найти водолазный скафандр!
+[11/01/2022 00:20:51]
+  Arturo Huber: Меняем кислородные баллоны!
+[11/01/2022 00:20:52]
+  Pajyloy_Borov removed Одноразовый водолазный скафандр from Human
+[11/01/2022 00:20:53]
+  Pajyloy_Borov unequipped Шоковая дубинка
+[11/01/2022 00:20:53]
+  Pajyloy_Borov unequipped Нож ныряльщика
+[11/01/2022 00:20:53]
+  Pajyloy_Borov equipped Одноразовый водолазный скафандр
+[11/01/2022 00:20:56]
+  Beaulah Phillips: Пункт управления: высокий уровень давления!
+[11/01/2022 00:20:57]
+  Beaulah Phillips has died (Cause of death: Баротравма)
+[11/01/2022 00:21:05]
+  igameCrog unequipped Сварочный аппарат
+[11/01/2022 00:21:07]
+  igameCrog equipped Подводный скутер
+[11/01/2022 00:21:09]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:21:15]
+  Pajyloy_Borov: Darwin Riles, позаботься обо всех врагах, каких найдешь!
+[11/01/2022 00:21:16]
+  Darwin Riles: Ответ отрицательный.
+[11/01/2022 00:21:18]
+  Pajyloy_Borov: Denise Swanson, позаботься обо всех врагах, каких найдешь!
+[11/01/2022 00:21:19]
+  Denise Swanson: Ответ отрицательный.
+[11/01/2022 00:21:20]
+  Pajyloy_Borov: Fiona Berlin, найди и уничтожь всех врагов!
+[11/01/2022 00:21:21]
+  Fiona Berlin: Ответ отрицательный.
+[11/01/2022 00:21:24]
+  Pajyloy_Borov: Yahaira Berner, защищай команду!
+[11/01/2022 00:21:25]
+  Yahaira Berner: Ни за что!
+[11/01/2022 00:21:27]
+  Pajyloy_Borov: Denise Swanson, найди и уничтожь всех врагов!
+[11/01/2022 00:21:28]
+  Denise Swanson: Ни за что!
+[11/01/2022 00:21:34]
+  Pajyloy_Borov: Yahaira Berner, уничтожь врагов!
+[11/01/2022 00:21:35]
+  Yahaira Berner: Ни за что!
+[11/01/2022 00:21:36]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 00:21:39]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 00:21:42]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:22:01]
+  Pajyloy_Borov dropped Одноразовый водолазный скафандр
+[11/01/2022 00:22:01]
+  Pajyloy_Borov equipped Нож ныряльщика
+[11/01/2022 00:22:01]
+  Pajyloy_Borov equipped Шоковая дубинка
+[11/01/2022 00:22:14]
+  igameCrog unequipped Подводный скутер
+[11/01/2022 00:22:14]
+  igameCrog equipped Вещмешок
+[11/01/2022 00:22:21]
+  igameCrog picked up Подводная маска
+[11/01/2022 00:22:21]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:22:24]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 00:22:25]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 00:22:25]
+  igameCrog dropped Одноразовый водолазный скафандр
+[11/01/2022 00:22:26]
+  Arturo Huber: Надо найти водолазный скафандр!
+[11/01/2022 00:22:30]
+  igameCrog picked up Плазменный резак
+[11/01/2022 00:22:31]
+  Arturo Huber has died (Cause of death: Баротравма)
+[11/01/2022 00:22:31]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 00:22:33]
+  igameCrog picked up Пояс инструментов
+[11/01/2022 00:22:33]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 00:22:34]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 00:22:37]
+  Pajyloy_Borov picked up Одноразовый водолазный скафандр
+[11/01/2022 00:22:37]
+  Pajyloy_Borov dropped Одноразовый водолазный скафандр
+[11/01/2022 00:22:40]
+  пенис большой has died (Cause of death: Укусы)
+[11/01/2022 00:22:41]
+  igameCrog dropped Вещмешок
+[11/01/2022 00:22:43]
+  Pajyloy_Borov picked up Подводный скутер
+[11/01/2022 00:22:50]
+  Pajyloy_Borov set the recharge speed of Батарея челнока to 10 %
+[11/01/2022 00:22:50]
+  Pajyloy_Borov set the recharge speed of Батарея челнока to 40 %
+[11/01/2022 00:22:50]
+  Pajyloy_Borov set the recharge speed of Батарея челнока to 80 %
+[11/01/2022 00:22:50]
+  Pajyloy_Borov set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:22:54]
+  Pajyloy_Borov placed Аккумулятор in Батарея челнока (ID: 3352)
+[11/01/2022 00:22:56]
+  igameCrog picked up Одноразовый водолазный скафандр
+[11/01/2022 00:22:56]
+  igameCrog dropped Водолазный скафандр
+[11/01/2022 00:22:57]
+  Pajyloy_Borov placed Аккумулятор in Шоковая дубинка (ID: 4118)
+[11/01/2022 00:22:57]
+  Pajyloy_Borov picked up Аккумулятор
+[11/01/2022 00:22:58]
+  Pajyloy_Borov picked up Аккумулятор
+[11/01/2022 00:22:58]
+  Pajyloy_Borov placed Аккумулятор in Подводный скутер (ID: 4065)
+[11/01/2022 00:23:00]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 00:23:00]
+  igameCrog dropped Одноразовый водолазный скафандр
+[11/01/2022 00:23:01]
+  Pajyloy_Borov equipped Подводный скутер
+[11/01/2022 00:23:04]
+  Pajyloy_Borov closed Настраиваемая дверь
+[11/01/2022 00:23:05]
+  igameCrog equipped Плазменный резак
+[11/01/2022 00:23:05]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/01/2022 00:23:06]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:23:13]
+  igameCrog placed Кислородный баллон in Плазменный резак (ID: 3863)
+[11/01/2022 00:23:29]
+  Outer wall breached by igameCrog
+[11/01/2022 00:23:32]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:23:33]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:33]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:34]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:34]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:34]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:34]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:35]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:35]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:35]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:35]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:36]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:36]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:36]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:36]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:37]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:37]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:38]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:38]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:38]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:38]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:39]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:39]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:40]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:40]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:40]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:40]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:41]
+  Latcher attacked by Pajyloy_Borov. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[11/01/2022 00:23:41]
+  Pajyloy_Borov used Шоковая дубинка (Аккумулятор) on Latcher.
+[11/01/2022 00:23:41]
+  Latcher attacked by Pajyloy_Borov. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[11/01/2022 00:23:41]
+  Pajyloy_Borov used Нож ныряльщика on Latcher.
+[11/01/2022 00:23:44]
+  Pajyloy_Borov has died (Cause of death: Укусы)
+[11/01/2022 00:23:49]
+  igameCrog equipped Сварочный аппарат
+[11/01/2022 00:23:50]
+  Yahaira Berner has died (Cause of death: Баротравма)
+[11/01/2022 00:23:57]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 81)
+[11/01/2022 00:23:58]
+  Pajyloy_Borov покидает сервер.
+[11/01/2022 00:24:00]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 3858)
+[11/01/2022 00:24:03]
+  igameCrog dropped Водолазный скафандр
+[11/01/2022 00:24:06]
+  Yahaira Berner: Ребята, для меня была честь - служить с вами.
+[11/01/2022 00:24:11]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 00:24:12]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 00:24:13]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 00:24:13]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 00:24:18]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 00:24:20]
+  igameCrog unequipped Сварочный аппарат
+[11/01/2022 00:24:20]
+  igameCrog equipped Ящик с химикатами
+[11/01/2022 00:24:22]
+  igameCrog dropped Ящик с химикатами
+[11/01/2022 00:24:24]
+  igameCrog equipped Металлический ящик
+[11/01/2022 00:24:30]
+  igameCrog dropped Металлический ящик
+[11/01/2022 00:24:38]
+  igameCrog dropped Ящик с химикатами
+[11/01/2022 00:24:40]
+  The respawn shuttle is leaving.
+[11/01/2022 00:24:43]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:24:44]
+  igameCrog dropped Медконтейнер
+[11/01/2022 00:24:51]
+  igameCrog dropped Ящик с химикатами
+[11/01/2022 00:24:56]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:25:00]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 00:25:02]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 75)
+[11/01/2022 00:25:07]
+  igameCrog removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 75)
+[11/01/2022 00:25:11]
+  igameCrog equipped Водолазный скафандр
+[11/01/2022 00:25:11]
+  Yahaira Berner has died (Cause of death: Unknown)
+[11/01/2022 00:25:11]
+  Fiona Berlin has died (Cause of death: Unknown)
+[11/01/2022 00:25:11]
+  Denise Swanson has died (Cause of death: Unknown)
+[11/01/2022 00:25:11]
+  Darwin Riles has died (Cause of death: Unknown)
+[11/01/2022 00:25:11]
+  Denise Swanson has died (Cause of death: Unknown)
+[11/01/2022 00:25:11]
+  The respawn shuttle has left.
+[11/01/2022 00:25:16]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 75)
+[11/01/2022 00:25:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:19]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:23]
+  Dispatching the respawn shuttle.
+[11/01/2022 00:25:23]
+  Respawning пенис большой (STEAM_1:1:591531635) as Врач
+[11/01/2022 00:25:23]
+  Respawning bot Arturo Huber as Механик
+[11/01/2022 00:25:23]
+  Respawning bot Darwin Riles as Инженер
+[11/01/2022 00:25:23]
+  Respawning bot Yahaira Berner as Офицер службы безопасности
+[11/01/2022 00:25:23]
+  Respawning bot Denise Swanson as Инженер
+[11/01/2022 00:25:25]
+  пенис большой set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:25:26]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:28]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:25:29]
+  пенис большой picked up Одноразовый водолазный скафандр
+[11/01/2022 00:25:30]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:33]
+  пенис большой picked up Плазменный резак
+[11/01/2022 00:25:33]
+  igameCrog picked up Сварочный аппарат
+[11/01/2022 00:25:33]
+  igameCrog dropped Сварочный аппарат
+[11/01/2022 00:25:33]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 3858)
+[11/01/2022 00:25:37]
+  пенис большой picked up Подводный скутер
+[11/01/2022 00:25:37]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:39]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:45]
+  пенис большой equipped Плазменный резак
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:48]
+  igameCrog picked up Морфин
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  igameCrog picked up Бинт
+[11/01/2022 00:25:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:25:49]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:25:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:25:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:25:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:25:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:25:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:51]
+  igameCrog placed Бинт in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:53]
+  igameCrog placed Морфин in Форма врача (ID: 4041)
+[11/01/2022 00:25:58]
+  Arturo Huber: Мне нужно подводное снаряжение!
+[11/01/2022 00:25:58]
+  Yahaira Berner: Мне нужно подводное снаряжение!
+[11/01/2022 00:25:59]
+  пенис большой equipped Подводный скутер
+[11/01/2022 00:26:01]
+  igameCrog used item Морфин
+[11/01/2022 00:26:02]
+  igameCrog used item Бинт
+[11/01/2022 00:26:06]
+  Darwin Riles: Надо найти водолазный скафандр!
+[11/01/2022 00:26:06]
+  Denise Swanson: Надо найти водолазный скафандр!
+[11/01/2022 00:26:11]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4041)
+[11/01/2022 00:26:11]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4041)
+[11/01/2022 00:26:11]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4041)
+[11/01/2022 00:26:11]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4041)
+[11/01/2022 00:26:11]
+  igameCrog placed Стабилоцин in Форма врача (ID: 4041)
+[11/01/2022 00:26:13]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:26:17]
+  igameCrog dropped Медконтейнер
+[11/01/2022 00:26:20]
+  kynlan4ic has died (Cause of death: Баротравма)
+[11/01/2022 00:26:24]
+  Denise Swanson: Воздушный шлюз: высокий уровень давления!
+[11/01/2022 00:26:25]
+  Denise Swanson has died (Cause of death: Баротравма)
+[11/01/2022 00:26:28]
+  пенис большой equipped Бинт
+[11/01/2022 00:26:32]
+  пенис большой dropped Бинт
+[11/01/2022 00:26:35]
+  пенис большой has died (Cause of death: Укусы)
+[11/01/2022 00:26:35]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:26:35]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:26:42]
+  igameCrog picked up Отвертка
+[11/01/2022 00:26:44]
+  igameCrog equipped Отвертка
+[11/01/2022 00:26:47]
+  igameCrog started repairing Навигационный терминал челнока
+[11/01/2022 00:26:58]
+  igameCrog failed to repair Навигационный терминал челнока
+[11/01/2022 00:27:04]
+  Yahaira Berner equipped Шоковая дубинка
+[11/01/2022 00:27:04]
+  Yahaira Berner: Помогите мне!
+[11/01/2022 00:27:04]
+  Darwin Riles equipped Гаечный ключ
+[11/01/2022 00:27:05]
+  Darwin Riles: Эти проклятые создания тут повсюду!
+[11/01/2022 00:27:08]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:27:21]
+  The respawn shuttle is leaving.
+[11/01/2022 00:27:24]
+  Darwin Riles opened Настраиваемая дверь
+[11/01/2022 00:27:25]
+  Yahaira Berner opened Настраиваемая дверь
+[11/01/2022 00:27:26]
+  Yahaira Berner opened Настраиваемая дверь
+[11/01/2022 00:27:27]
+  Yahaira Berner unequipped Шоковая дубинка
+[11/01/2022 00:27:28]
+  Darwin Riles opened Настраиваемая дверь
+[11/01/2022 00:27:28]
+  Darwin Riles opened Настраиваемая дверь
+[11/01/2022 00:27:30]
+  Darwin Riles unequipped Гаечный ключ
+[11/01/2022 00:27:35]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:35]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:35]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:35]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:35]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:35]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:36]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:36]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:36]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:27:52]
+  Arturo Huber has died (Cause of death: Unknown)
+[11/01/2022 00:27:52]
+  Darwin Riles has died (Cause of death: Unknown)
+[11/01/2022 00:27:52]
+  Yahaira Berner has died (Cause of death: Unknown)
+[11/01/2022 00:27:52]
+  The respawn shuttle has left.
+[11/01/2022 00:27:56]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:27:56]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 00:28:04]
+  Dispatching the respawn shuttle.
+[11/01/2022 00:28:04]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/01/2022 00:28:04]
+  Respawning пенис большой (STEAM_1:1:591531635) as Инженер
+[11/01/2022 00:28:04]
+  Respawning bot Arturo Huber as Механик
+[11/01/2022 00:28:04]
+  Respawning bot Yahaira Berner as Офицер службы безопасности
+[11/01/2022 00:28:04]
+  Respawning bot Denise Swanson as Инженер
+[11/01/2022 00:28:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:28:06]
+  пенис большой set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:28:09]
+  пенис большой picked up Одноразовый водолазный скафандр
+[11/01/2022 00:28:09]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 75)
+[11/01/2022 00:28:12]
+  пенис большой picked up Подводный скутер
+[11/01/2022 00:28:14]
+  пенис большой picked up Плазменный резак
+[11/01/2022 00:28:16]
+  пенис большой equipped Подводный скутер
+[11/01/2022 00:28:16]
+  пенис большой equipped Плазменный резак
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 00:28:17]
+  kynlan4ic picked up Плазменный резак
+[11/01/2022 00:28:19]
+  kynlan4ic picked up Подводный скутер
+[11/01/2022 00:28:25]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 00:28:29]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 00:28:33]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:33]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:28:33]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:33]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:33]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:33]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:33]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:35]
+  пенис большой opened Настраиваемая дверь
+[11/01/2022 00:28:43]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:28:47]
+  igameCrog picked up Гаечный ключ
+[11/01/2022 00:28:49]
+  igameCrog equipped Гаечный ключ
+[11/01/2022 00:28:51]
+  igameCrog failed to repair Генератор кислорода челнока
+[11/01/2022 00:28:53]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:53]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:28:57]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 00:28:58]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:28:59]
+  igameCrog started repairing Генератор кислорода челнока
+[11/01/2022 00:29:15]
+  пенис большой has died (Cause of death: Укусы)
+[11/01/2022 00:29:23]
+  Denise Swanson: Надо найти водолазный скафандр!
+[11/01/2022 00:29:28]
+  Arturo Huber: Мне нужно подводное снаряжение!
+[11/01/2022 00:29:28]
+  Yahaira Berner: Надо найти водолазный скафандр!
+[11/01/2022 00:29:30]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 75)
+[11/01/2022 00:29:40]
+  igameCrog used item Бинт
+[11/01/2022 00:29:43]
+  igameCrog used item Бинт
+[11/01/2022 00:29:56]
+  kynlan4ic equipped Кислородный баллон
+[11/01/2022 00:29:57]
+  kynlan4ic equipped Плазменный резак
+[11/01/2022 00:30:23]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/01/2022 00:30:34]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 00:30:37]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:30:37]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:30:37]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:30:38]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:30:40]
+  igameCrog equipped Сварочный аппарат
+[11/01/2022 00:30:41]
+  Inner wall repaired by igameCrog
+[11/01/2022 00:30:44]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:30:48]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:30:54]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:30:54]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:30:54]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:30:57]
+  Inner wall repaired by igameCrog
+[11/01/2022 00:30:59]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:31:09]
+  Arturo Huber equipped Сварочный аппарат
+[11/01/2022 00:31:10]
+  Arturo Huber: Ищу безопасное место!
+[11/01/2022 00:31:12]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:12]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:12]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:31:15]
+  The respawn shuttle is leaving.
+[11/01/2022 00:31:16]
+  Inner wall repaired by igameCrog
+[11/01/2022 00:31:17]
+  Yahaira Berner equipped Шоковая дубинка
+[11/01/2022 00:31:17]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:31:18]
+  Yahaira Berner: А-А-А-А-А-А!
+[11/01/2022 00:31:26]
+  Outer wall breached by Latcher
+[11/01/2022 00:31:27]
+  igameCrog turned off Малый насос
+[11/01/2022 00:31:30]
+  Arturo Huber: Ищу безопасное место!
+[11/01/2022 00:31:31]
+  igameCrog unequipped Сварочный аппарат
+[11/01/2022 00:31:31]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:31]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:31]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:31:31]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:33]
+  Arturo Huber unequipped Сварочный аппарат
+[11/01/2022 00:31:33]
+  igameCrog dropped Ящик с химикатами
+[11/01/2022 00:31:35]
+  igameCrog equipped Сварочный аппарат
+[11/01/2022 00:31:37]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:31:38]
+  Yahaira Berner: Эти проклятые создания тут повсюду!
+[11/01/2022 00:31:38]
+  Yahaira Berner unequipped Шоковая дубинка
+[11/01/2022 00:31:39]
+  Inner wall repaired by igameCrog
+[11/01/2022 00:31:40]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:31:43]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 00:31:45]
+  kynlan4ic has died (Cause of death: Unknown)
+[11/01/2022 00:31:45]
+  Yahaira Berner has died (Cause of death: Unknown)
+[11/01/2022 00:31:45]
+  Denise Swanson has died (Cause of death: Unknown)
+[11/01/2022 00:31:45]
+  The respawn shuttle has left.
+[11/01/2022 00:31:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:49]
+  Inner wall breached by Hammerheadgold
+[11/01/2022 00:31:49]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:31:51]
+  Inner wall repaired by igameCrog
+[11/01/2022 00:31:54]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:31:57]
+  Dispatching the respawn shuttle.
+[11/01/2022 00:31:57]
+  Respawning пенис большой (STEAM_1:1:591531635) as Механик
+[11/01/2022 00:31:57]
+  Respawning bot Arturo Huber as Механик
+[11/01/2022 00:31:57]
+  Respawning bot Yahaira Berner as Офицер службы безопасности
+[11/01/2022 00:31:57]
+  Respawning bot Denise Swanson as Инженер
+[11/01/2022 00:31:57]
+  Outer wall repaired by igameCrog
+[11/01/2022 00:31:58]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:31:59]
+  пенис большой set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 00:32:00]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/01/2022 00:32:07]
+  Outer wall breached by Hammerheadgold
+[11/01/2022 00:32:07]
+  Outer wall breached by Hammerheadgold

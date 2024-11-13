@@ -1,0 +1,166 @@
+﻿[11/06/2022 19:16:39]
+  Starting the server...
+[11/06/2022 19:16:39]
+  Using SteamP2P networking.
+[11/06/2022 19:16:39]
+  Server started
+[11/06/2022 19:16:39]
+  Игрок kynlan4ic присоединился к серверу.
+[11/06/2022 19:16:39]
+  Saving client permissions
+[11/06/2022 19:16:39]
+  Saving client permissions
+[11/06/2022 19:17:03]
+  Игрок igameCrog присоединился к серверу.
+[11/06/2022 19:17:03]
+  Saving client permissions
+[11/06/2022 19:17:24]
+  kynlan4ic changed PlayStyle to Casual
+[11/06/2022 19:17:24]
+  kynlan4ic changed LosMode to Transparent
+[11/06/2022 19:17:24]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/06/2022 19:17:24]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/06/2022 19:17:34]
+  kynlan4ic changed PlayStyle to Casual
+[11/06/2022 19:17:34]
+  kynlan4ic changed LosMode to Transparent
+[11/06/2022 19:17:34]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/06/2022 19:17:34]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/06/2022 19:17:39]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:17:39]
+  Saving client permissions
+[11/06/2022 19:18:50]
+  Gamemode changed to Миссия
+[11/06/2022 19:19:18]
+  kynlan4ic is ready to start the game.
+[11/06/2022 19:19:25]
+  Client "kynlan4ic" started the round.
+[11/06/2022 19:19:25]
+  Starting a new round...
+[11/06/2022 19:19:28]
+  Миссия: Активировать маяк
+[11/06/2022 19:19:28]
+  Маяк на маршруте Центр Set - Шахта Skadi's Cauldron не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[11/06/2022 19:19:28]
+  Game mode: Миссия
+[11/06/2022 19:19:28]
+  Submarine: Челнок R-155
+[11/06/2022 19:19:28]
+  Level seed: 5Af7zvQ4
+[11/06/2022 19:19:28]
+  Mission: Активировать маяк
+[11/06/2022 19:19:29]
+  Round started.
+[11/06/2022 19:19:33]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:19:34]
+  Joel Patel: Здесь ужасно тихо.
+[11/06/2022 19:19:36]
+  Joel Patel: У меня наушник, вообще, работает?
+[11/06/2022 19:19:38]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:19:40]
+  Shelly Harp: Слышу тебя четко и ясно.
+[11/06/2022 19:19:49]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/06/2022 19:19:51]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[11/06/2022 19:19:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:19:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:19:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:20:18]
+  rus7ak set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:20:44]
+  igameCrog picked up Подводная маска
+[11/06/2022 19:20:47]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 19:20:47]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 19:20:48]
+  igameCrog picked up Плазменный резак
+[11/06/2022 19:20:48]
+  igameCrog picked up Подводный скутер
+[11/06/2022 19:20:51]
+  igameCrog placed Подводный скутер in Хозяйственный шкаф (ID: 186)
+[11/06/2022 19:21:27]
+  rus7ak equipped Сварочный аппарат
+[11/06/2022 19:21:30]
+  kynlan4ic picked up Подводный скутер
+[11/06/2022 19:21:32]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:21:33]
+  igameCrog placed Плазменный резак in Хозяйственный шкаф (ID: 186)
+[11/06/2022 19:21:33]
+  kynlan4ic picked up Лом
+[11/06/2022 19:21:33]
+  kynlan4ic removed Плазменный резак from Хозяйственный шкаф (ID: 186)
+[11/06/2022 19:21:40]
+  kynlan4ic dropped Плазменный резак
+[11/06/2022 19:21:51]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:21:51]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:21:53]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:21:53]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:22:25]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:22:25]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:23:51]
+  rus7ak equipped Гаечный ключ
+[11/06/2022 19:23:51]
+  rus7ak equipped Отвертка
+[11/06/2022 19:23:56]
+  kynlan4ic equipped Подводный скутер
+[11/06/2022 19:24:00]
+  igameCrog has died (Cause of death: Баротравма)
+[11/06/2022 19:24:03]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:24:06]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:07]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:08]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:09]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:10]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:12]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:13]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:24:15]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:20]
+  rus7ak has died (Cause of death: Баротравма)
+[11/06/2022 19:24:21]
+  Arkadi Rangel: Надо найти водолазный скафандр!
+[11/06/2022 19:24:21]
+  Shelly Harp: Мне нужно подводное снаряжение!
+[11/06/2022 19:24:21]
+  Mikaela Sykes: Надо найти водолазный скафандр!
+[11/06/2022 19:24:21]
+  Roberta Rivera: Мне нужно подводное снаряжение!
+[11/06/2022 19:24:22]
+  Joel Patel: Надо найти водолазный скафандр!
+[11/06/2022 19:24:25]
+  Ending round (submarine reached the end of the level)
+[11/06/2022 19:24:25]
+  Ending the round...

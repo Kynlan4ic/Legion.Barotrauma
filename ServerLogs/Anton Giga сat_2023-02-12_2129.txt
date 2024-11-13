@@ -1,0 +1,34 @@
+﻿[02/12/2023 21:26:27]
+  Starting the server...
+[02/12/2023 21:26:27]
+  Using SteamP2P networking.
+[02/12/2023 21:26:27]
+  Server started
+[02/12/2023 21:26:27]
+  Игрок kynlan4ic присоединился к серверу.
+[02/12/2023 21:26:27]
+  Saving client permissions
+[02/12/2023 21:26:27]
+  Saving client permissions
+[02/12/2023 21:26:56]
+  Игрок igameCrog присоединился к серверу.
+[02/12/2023 21:26:56]
+  Saving client permissions
+[02/12/2023 21:29:04]
+  kynlan4ic is ready to start the game.
+[02/12/2023 21:29:04]
+  kynlan4ic is not ready to start the game.
+[02/12/2023 21:29:19]
+  kynlan4ic changed PlayStyle to Casual
+[02/12/2023 21:29:19]
+  kynlan4ic changed LosMode to Transparent
+[02/12/2023 21:29:19]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/12/2023 21:29:19]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/12/2023 21:29:19]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/12/2023 21:29:26]
+  Saving banlist
+[02/12/2023 21:29:26]
+  Shutting down the server...

@@ -1,0 +1,52 @@
+﻿Barotrauma Dedicated Server crash report (generated on 10/28/2022 23:20:21)
+
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+
+Game version 0.19.14.0 (ReleaseWindows, branch release, revision 0daf5b87bd)
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra
+Level seed: lQ7Vy7nL
+Loaded submarine: Sardine (95B549FBD0FCA410702C4731608951F2)
+Selected screen: Barotrauma.GameScreen
+Server (Round had started)
+
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+
+
+Exception: Object reference not set to an instance of an object. (System.NullReferenceException)
+Target site: Barotrauma.LocalizedString get_StartMessageServerText()
+Stack trace: 
+   at Barotrauma.Traitor.Objective.get_StartMessageServerText() in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\Objective.cs:line 67
+   at Barotrauma.Traitor.Greet(GameServer server, String codeWords, String codeResponse, MessageSender messageSender) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\Traitor.cs:line 33
+   at Barotrauma.Traitor.TraitorMission.Start(GameServer server, TraitorManager traitorManager, CharacterTeamType team) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\TraitorMission.cs:line 229
+   at Barotrauma.TraitorManager.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\TraitorManager.cs:line 176
+   at Barotrauma.Networking.GameServer.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Networking\GameServer.cs:line 384
+   at Barotrauma.GameMain.Run() in <DEV>\Barotrauma\BarotraumaServer\ServerSource\GameMain.cs:line 329
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Program.cs:line 78
+
+
+Last debug messages:
+   10/28/2022 23:20:21 - [10/28/2022 23:20:21]
+  Saving banlist
+   10/28/2022 23:20:21 - [10/28/2022 23:20:21]
+  The respawn shuttle has left.
+   10/28/2022 23:20:18 - [10/28/2022 23:20:18]
+  Inner wall breached by Crawlerhusk
+   10/28/2022 23:20:14 - WARNING: event count very high: 202
+1. Barotrauma.Hull x85
+2. Barotrauma.LevelObjectManager x52
+3. Humanhusk x17
+   10/28/2022 23:20:12 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:12 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:12 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:12 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:12 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:12 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:11 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:11 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:11 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)
+   10/28/2022 23:20:11 - Error when writing character spawn data for "Люди тоже животные": status data caused the length of the message to exceed 255 bytes (197 + 83)

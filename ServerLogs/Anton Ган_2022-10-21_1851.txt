@@ -1,0 +1,1600 @@
+﻿[10/21/2022 18:23:19]
+  Starting the server...
+[10/21/2022 18:23:19]
+  Using SteamP2P networking.
+[10/21/2022 18:23:19]
+  Server started
+[10/21/2022 18:23:20]
+  Игрок kynlan4ic присоединился к серверу.
+[10/21/2022 18:23:20]
+  Saving client permissions
+[10/21/2022 18:23:20]
+  Saving client permissions
+[10/21/2022 18:23:38]
+  Игрок iliya_kind присоединился к серверу.
+[10/21/2022 18:23:38]
+  Saving client permissions
+[10/21/2022 18:29:44]
+  Игрок igameCrog присоединился к серверу.
+[10/21/2022 18:29:44]
+  Saving client permissions
+[10/21/2022 18:30:36]
+  kynlan4ic is ready to start the game.
+[10/21/2022 18:30:48]
+  Client "kynlan4ic" started the round.
+[10/21/2022 18:30:48]
+  Starting a new round...
+[10/21/2022 18:30:52]
+  Миссия: Доставка химикатов
+[10/21/2022 18:30:52]
+  Исследователи из точки Центр Set ищут того, кто сможет выполнить доставку опасных химикатов. Пункт назначения: Шахта Skadi's Cauldron. Награда: 1,120 кред.
+[10/21/2022 18:30:52]
+  Game mode: Миссия
+[10/21/2022 18:30:52]
+  Submarine: Dugong
+[10/21/2022 18:30:52]
+  Level seed: e3f6zjSf
+[10/21/2022 18:30:52]
+  Mission: Доставка химикатов
+[10/21/2022 18:30:54]
+  Round started.
+[10/21/2022 18:31:00]
+  Tisha McNeal: Ты не задумываешься о том, что же произошло с теми, кто построил эти руины?
+[10/21/2022 18:31:05]
+  Arthur Clements: Пускай лучше этим занимаются исследователи.
+[10/21/2022 18:31:09]
+  Arthur Clements: У меня тут и так забот хватает.
+[10/21/2022 18:31:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 18:31:23]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 18:31:34]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 18:32:05]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:32:12]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:32:13]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:32:13]
+  iliya_kind removed Дробовик from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:32:13]
+  iliya_kind picked up Дробовик
+[10/21/2022 18:32:14]
+  iliya_kind removed Шоковая дубинка from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:32:18]
+  Tanika Avery equipped Шоковая дубинка
+[10/21/2022 18:32:18]
+  iliya_kind picked up Револьвер
+[10/21/2022 18:32:20]
+  iliya_kind picked up Пистолет-пулемет
+[10/21/2022 18:32:33]
+  igameCrog picked up Подводная маска
+[10/21/2022 18:32:35]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 18:32:35]
+  iliya_kind picked up Шоковая дубинка
+[10/21/2022 18:32:41]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:32:41]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:32:41]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:32:41]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:32:43]
+  iliya_kind picked up Магазин для ПП
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:46]
+  igameCrog picked up Бинт
+[10/21/2022 18:32:47]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:32:47]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:32:47]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:32:47]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:32:47]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:32:47]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:48]
+  igameCrog picked up Морфин
+[10/21/2022 18:32:49]
+  iliya_kind placed Нож ныряльщика in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 18:32:55]
+  iliya_kind placed Шоковая дубинка in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 18:32:56]
+  igameCrog picked up Антибиотики широкого спектра
+[10/21/2022 18:32:56]
+  igameCrog picked up Антибиотики широкого спектра
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:02]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:33:29]
+  iliya_kind picked up Подводная маска
+[10/21/2022 18:33:37]
+  iliya_kind picked up Сварочный аппарат
+[10/21/2022 18:33:42]
+  iliya_kind equipped Сварочный аппарат
+[10/21/2022 18:33:52]
+  iliya_kind placed Сварочный аппарат in Средний стальной шкаф (ID: 141)
+[10/21/2022 18:34:06]
+  igameCrog equipped Ящик с химикатами
+[10/21/2022 18:34:06]
+  igameCrog picked up Ящик с химикатами
+[10/21/2022 18:34:10]
+  iliya_kind picked up Водолазный скафандр
+[10/21/2022 18:34:15]
+  igameCrog placed Ящик с химикатами in Стеллаж для ящиков (ID: 838)
+[10/21/2022 18:34:24]
+  iliya_kind placed Подводная маска in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:34:25]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:34:25]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:34:25]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:34:27]
+  iliya_kind picked up Подводный скутер
+[10/21/2022 18:34:30]
+  iliya_kind equipped Фонарик
+[10/21/2022 18:34:30]
+  iliya_kind picked up Фонарик
+[10/21/2022 18:34:55]
+  iliya_kind dropped Фонарик
+[10/21/2022 18:35:10]
+  iliya_kind equipped Подводное ружье
+[10/21/2022 18:35:11]
+  iliya_kind equipped Подводный скутер
+[10/21/2022 18:35:48]
+  igameCrog picked up Фонарик
+[10/21/2022 18:35:54]
+  igameCrog placed Морфин in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:02]
+  igameCrog equipped Антибиотики широкого спектра
+[10/21/2022 18:36:04]
+  igameCrog equipped Фонарик
+[10/21/2022 18:36:06]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:08]
+  iliya_kind placed Фонарик in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:11]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:11]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:11]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:13]
+  iliya_kind removed Подводная маска from Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:36:16]
+  iliya_kind picked up Подводная маска
+[10/21/2022 18:36:38]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 407)
+[10/21/2022 18:36:41]
+  iliya_kind equipped Дробовик
+[10/21/2022 18:36:42]
+  iliya_kind equipped Револьвер
+[10/21/2022 18:36:43]
+  iliya_kind equipped Пистолет-пулемет
+[10/21/2022 18:36:44]
+  iliya_kind picked up Магазин для ПП
+[10/21/2022 18:36:44]
+  iliya_kind dropped Магазин для ПП
+[10/21/2022 18:36:44]
+  iliya_kind placed Магазин для ПП in Пистолет-пулемет (ID: 3652)
+[10/21/2022 18:36:54]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3856)
+[10/21/2022 18:37:04]
+  igameCrog picked up Плазменный резак
+[10/21/2022 18:37:08]
+  igameCrog equipped Плазменный резак
+[10/21/2022 18:37:36]
+  igameCrog placed Плазменный резак in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:37:40]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/21/2022 18:38:33]
+  iliya_kind picked up Водолазный скафандр
+[10/21/2022 18:38:35]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:35]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:35]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:35]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:40]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:40]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:40]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:40]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:41]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:41]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:41]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:42]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:42]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:42]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:43]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:43]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:43]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:44]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:44]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:44]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:44]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:45]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:45]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:45]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:45]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:45]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:45]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:45]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:45]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:46]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:46]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:46]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:46]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:38:46]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:46]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:46]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:47]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:47]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:47]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:47]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:47]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:47]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:47]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:38:47]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:48]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:48]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:48]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:48]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:48]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:48]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:48]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:49]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:49]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:49]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:49]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:49]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:49]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:49]
+  Outer wall breached by Moloch
+[10/21/2022 18:38:49]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:50]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:50]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:50]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:51]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:51]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:51]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:51]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:52]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:52]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:52]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:52]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:53]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:53]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:53]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:54]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:54]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:54]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:54]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:55]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:56]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:56]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:57]
+  iliya_kind picked up Сварочный аппарат
+[10/21/2022 18:38:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:59]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:59]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:38:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:38:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:39:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:39:00]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:39:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:39:00]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:39:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:39:00]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:39:01]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:39:05]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:39:07]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:39:10]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 18:39:12]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 18:39:27]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:39:30]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:39:31]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 18:39:46]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 18:39:48]
+  kynlan4ic: Peter Ram, займись протечками!
+[10/21/2022 18:39:49]
+  Peter Ram: Вас понял!
+[10/21/2022 18:39:49]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:39:51]
+  kynlan4ic: Andres Box, займись протечками!
+[10/21/2022 18:39:52]
+  Andres Box: Так точно!
+[10/21/2022 18:39:53]
+  Andres Box: Мне нужно подводное снаряжение!
+[10/21/2022 18:39:57]
+  Peter Ram equipped Сварочный аппарат
+[10/21/2022 18:39:57]
+  Outer wall repaired by Peter Ram
+[10/21/2022 18:39:58]
+  Peter Ram: Надо найти водолазный скафандр!
+[10/21/2022 18:40:01]
+  Outer wall repaired by iliya_kind
+[10/21/2022 18:40:02]
+  Peter Ram unequipped Сварочный аппарат
+[10/21/2022 18:40:05]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 18:40:08]
+  kynlan4ic: Alfredia Tootle, займись протечками!
+[10/21/2022 18:40:09]
+  Alfredia Tootle: Принято.
+[10/21/2022 18:40:10]
+  igameCrog picked up Гаечный ключ
+[10/21/2022 18:40:15]
+  igameCrog placed Бинт in Средний стальной шкаф (ID: 141)
+[10/21/2022 18:40:16]
+  igameCrog picked up Отвертка
+[10/21/2022 18:40:27]
+  igameCrog picked up Водолазный скафандр
+[10/21/2022 18:40:28]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 18:40:29]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/21/2022 18:40:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:40:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:40:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:40:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:40:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:40:30]
+  iliya_kind placed Патрон револьвера in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:40:33]
+  kynlan4ic: Arthur Clements, займись поврежденными устройствами!
+[10/21/2022 18:40:34]
+  Arthur Clements: Так точно!
+[10/21/2022 18:40:35]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:40:35]
+  kynlan4ic: Rupert Wiley, займись поврежденными устройствами!
+[10/21/2022 18:40:36]
+  Rupert Wiley: Слушаюсь!
+[10/21/2022 18:40:36]
+  Rupert Wiley equipped Гаечный ключ
+[10/21/2022 18:40:36]
+  Rupert Wiley: Мне нужно подводное снаряжение!
+[10/21/2022 18:40:36]
+  kynlan4ic: Jerald McLeroy, займись протечками!
+[10/21/2022 18:40:37]
+  Arthur Clements started repairing Генератор кислорода
+[10/21/2022 18:40:37]
+  Jerald McLeroy: Принято.
+[10/21/2022 18:40:45]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:40:45]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:40:45]
+  igameCrog equipped Гаечный ключ
+[10/21/2022 18:40:46]
+  Arthur Clements started repairing Кабельная коробка
+[10/21/2022 18:40:48]
+  Rupert Wiley started repairing Настраиваемый люк
+[10/21/2022 18:40:49]
+  kynlan4ic turned off Насос
+[10/21/2022 18:40:52]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:40:52]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:40:52]
+  Arthur Clements: Мне нужно подводное снаряжение!
+[10/21/2022 18:40:55]
+  kynlan4ic turned on Насос
+[10/21/2022 18:40:56]
+  kynlan4ic turned off Насос
+[10/21/2022 18:40:57]
+  kynlan4ic turned on Насос
+[10/21/2022 18:41:01]
+  Arthur Clements started repairing Настраиваемый люк
+[10/21/2022 18:41:01]
+  Rupert Wiley unequipped Гаечный ключ
+[10/21/2022 18:41:01]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:41:02]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:41:02]
+  Rupert Wiley equipped Гаечный ключ
+[10/21/2022 18:41:05]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:41:05]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:41:05]
+  Rupert Wiley unequipped Гаечный ключ
+[10/21/2022 18:41:05]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:41:05]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:41:05]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:41:05]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:41:05]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:41:06]
+  Rupert Wiley started repairing Монитор состояния
+[10/21/2022 18:41:11]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:41:11]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:41:12]
+  Arthur Clements started repairing Двигатель
+[10/21/2022 18:41:12]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:41:12]
+  Rupert Wiley equipped Гаечный ключ
+[10/21/2022 18:41:12]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:41:12]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:41:12]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:41:12]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:41:12]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:41:12]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:41:15]
+  Rupert Wiley unequipped Гаечный ключ
+[10/21/2022 18:41:15]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:41:17]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:41:17]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:41:17]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[10/21/2022 18:41:20]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 4)
+[10/21/2022 18:41:22]
+  igameCrog placed Гаечный ключ in Хозяйственный шкаф (ID: 463)
+[10/21/2022 18:41:22]
+  Rupert Wiley started repairing Батарея
+[10/21/2022 18:41:22]
+  kynlan4ic turned off Насос
+[10/21/2022 18:41:24]
+  igameCrog placed Отвертка in Хозяйственный шкаф (ID: 463)
+[10/21/2022 18:41:24]
+  Arthur Clements started repairing Батарея
+[10/21/2022 18:41:25]
+  kynlan4ic turned on Насос
+[10/21/2022 18:41:25]
+  kynlan4ic turned off Насос
+[10/21/2022 18:41:26]
+  Rupert Wiley started repairing Батарея
+[10/21/2022 18:41:26]
+  kynlan4ic turned on Насос
+[10/21/2022 18:41:26]
+  kynlan4ic turned off Насос
+[10/21/2022 18:41:26]
+  kynlan4ic turned on Насос
+[10/21/2022 18:41:26]
+  kynlan4ic turned off Насос
+[10/21/2022 18:41:26]
+  igameCrog placed Кислородный баллон in Хозяйственный шкаф (ID: 463)
+[10/21/2022 18:41:27]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:41:28]
+  igameCrog placed Подводная маска in Хозяйственный шкаф (ID: 463)
+[10/21/2022 18:41:28]
+  igameCrog removed Подводная маска from Хозяйственный шкаф (ID: 463)
+[10/21/2022 18:41:28]
+  igameCrog picked up Подводная маска
+[10/21/2022 18:41:28]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:41:29]
+  iliya_kind placed Сварочный аппарат in Средний стальной шкаф (ID: 141)
+[10/21/2022 18:41:32]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 3657)
+[10/21/2022 18:41:53]
+  iliya_kind picked up Полицейский шлем
+[10/21/2022 18:42:32]
+  kynlan4ic turned on Насос
+[10/21/2022 18:42:38]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:42:43]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:42:44]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:42:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:42:46]
+  Arthur Clements started repairing Суперконденсатор
+[10/21/2022 18:42:47]
+  Rupert Wiley started repairing Суперконденсатор
+[10/21/2022 18:42:48]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:42:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:42:51]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:42:51]
+  Rupert Wiley started repairing Навигационный терминал
+[10/21/2022 18:42:53]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:42:55]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:43:02]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:43:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:03]
+  Outer wall breached by igameCrog
+[10/21/2022 18:43:03]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:43:05]
+  Rupert Wiley started repairing Кабельная коробка
+[10/21/2022 18:43:06]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:43:08]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:43:09]
+  Rupert Wiley started repairing Кабельная коробка
+[10/21/2022 18:43:11]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:43:13]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:43:15]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:16]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:16]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:16]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:16]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:16]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:16]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:17]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:17]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:17]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:17]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:17]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:17]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:18]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:18]
+  Outer wall breached by Moloch
+[10/21/2022 18:43:18]
+  Outer wall breached by Moloch
+[10/21/2022 18:43:18]
+  Outer wall breached by Moloch
+[10/21/2022 18:43:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:18]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:18]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:18]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:19]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:19]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:19]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:20]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:20]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:20]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:20]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:20]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:20]
+  Alfredia Tootle: Мне нужно подводное снаряжение!
+[10/21/2022 18:43:20]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:20]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:20]
+  Andres Box: Мне нужно подводное снаряжение!
+[10/21/2022 18:43:21]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:21]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:21]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:21]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:21]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:21]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:21]
+  Jerald McLeroy: Надо найти водолазный скафандр!
+[10/21/2022 18:43:21]
+  Peter Ram: Мне нужно подводное снаряжение!
+[10/21/2022 18:43:21]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:22]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:22]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:22]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:22]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:22]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:22]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:22]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:23]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:23]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:43:23]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:23]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:23]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:23]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:24]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:24]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:24]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:24]
+  Moloch attacked by igameCrog. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/21/2022 18:43:24]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:24]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:24]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:24]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:25]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:25]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:25]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:25]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:25]
+  iliya_kind picked up Водолазный скафандр
+[10/21/2022 18:43:25]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:25]
+  Moloch attacked by igameCrog. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/21/2022 18:43:25]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:26]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:26]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:26]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:26]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:26]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:26]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:27]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:27]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:27]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:27]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:27]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:27]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:27]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:27]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:28]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:28]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:28]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:28]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:28]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:28]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:29]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:29]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:43:29]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:29]
+  Moloch attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:43:31]
+  Alfredia Tootle equipped Сварочный аппарат
+[10/21/2022 18:43:32]
+  Peter Ram equipped Сварочный аппарат
+[10/21/2022 18:43:33]
+  Outer wall repaired by Alfredia Tootle
+[10/21/2022 18:43:33]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 18:43:34]
+  Outer wall repaired by Alfredia Tootle
+[10/21/2022 18:43:34]
+  Alfredia Tootle: Моторный отсек: все протечки устранены!
+[10/21/2022 18:43:34]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/21/2022 18:43:35]
+  Peter Ram unequipped Сварочный аппарат
+[10/21/2022 18:43:35]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:43:35]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:43:36]
+  Alfredia Tootle unequipped Сварочный аппарат
+[10/21/2022 18:43:37]
+  Arthur Clements started repairing Кабельная коробка
+[10/21/2022 18:43:37]
+  Rupert Wiley started repairing Кабельная коробка
+[10/21/2022 18:43:38]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:43:38]
+  Jerald McLeroy equipped Сварочный аппарат
+[10/21/2022 18:43:39]
+  Andres Box equipped Сварочный аппарат
+[10/21/2022 18:43:40]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:43:40]
+  Rupert Wiley equipped Гаечный ключ
+[10/21/2022 18:43:40]
+  Rupert Wiley: Надо найти водолазный скафандр!
+[10/21/2022 18:43:41]
+  Rupert Wiley: Невозможно добраться: Двигатель!
+[10/21/2022 18:43:41]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:43:41]
+  Arthur Clements: Мне нужно подводное снаряжение!
+[10/21/2022 18:43:42]
+  Arthur Clements: Невозможно добраться: Двигатель!
+[10/21/2022 18:43:42]
+  igameCrog equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 18:43:42]
+  igameCrog picked up Ящик с боеприпасами для магнитной пушки
+[10/21/2022 18:43:43]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:43:44]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:43:45]
+  iliya_kind placed Магазин для ПП in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:43:45]
+  iliya_kind removed Подводный скутер from Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:43:45]
+  iliya_kind picked up Подводный скутер
+[10/21/2022 18:43:46]
+  igameCrog removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 146)
+[10/21/2022 18:43:46]
+  Rupert Wiley unequipped Гаечный ключ
+[10/21/2022 18:43:46]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:43:46]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:43:46]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:43:47]
+  iliya_kind picked up Магазин для ПП
+[10/21/2022 18:43:48]
+  igameCrog placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 146)
+[10/21/2022 18:43:49]
+  igameCrog equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 18:43:51]
+  Arthur Clements started repairing Суперконденсатор
+[10/21/2022 18:43:52]
+  Rupert Wiley started repairing Суперконденсатор
+[10/21/2022 18:43:53]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:43:55]
+  igameCrog placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 153)
+[10/21/2022 18:43:56]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:43:56]
+  Randi Graves equipped Сварочный аппарат
+[10/21/2022 18:43:57]
+  Andres Box unequipped Сварочный аппарат
+[10/21/2022 18:43:57]
+  Jerald McLeroy unequipped Сварочный аппарат
+[10/21/2022 18:43:58]
+  Outer wall repaired by Randi Graves
+[10/21/2022 18:43:58]
+  Randi Graves: Моторный отсек: все протечки устранены!
+[10/21/2022 18:43:59]
+  Arthur Clements equipped Водолазный скафандр
+[10/21/2022 18:43:59]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:43:59]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:43:59]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:43:59]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:44:00]
+  Randi Graves unequipped Сварочный аппарат
+[10/21/2022 18:44:01]
+  Jerald McLeroy equipped Водолазный скафандр
+[10/21/2022 18:44:02]
+  Rupert Wiley equipped Водолазный скафандр
+[10/21/2022 18:44:02]
+  Rupert Wiley equipped Гаечный ключ
+[10/21/2022 18:44:02]
+  Rupert Wiley unequipped Гаечный ключ
+[10/21/2022 18:44:02]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:44:02]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:44:03]
+  Tanika Avery equipped Водолазный скафандр
+[10/21/2022 18:44:03]
+  Alfredia Tootle equipped Водолазный скафандр
+[10/21/2022 18:44:06]
+  Rupert Wiley equipped Водолазный скафандр
+[10/21/2022 18:44:17]
+  Rupert Wiley equipped Гаечный ключ
+[10/21/2022 18:44:19]
+  Arthur Clements equipped Гаечный ключ
+[10/21/2022 18:44:24]
+  Arthur Clements failed to repair Двигатель
+[10/21/2022 18:44:25]
+  Rupert Wiley started repairing Двигатель
+[10/21/2022 18:44:28]
+  Arthur Clements started repairing Двигатель
+[10/21/2022 18:44:28]
+  Rupert Wiley unequipped Гаечный ключ
+[10/21/2022 18:44:28]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:44:31]
+  Arthur Clements unequipped Гаечный ключ
+[10/21/2022 18:44:31]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:44:35]
+  Rupert Wiley started repairing Кабельная коробка
+[10/21/2022 18:44:36]
+  Alfredia Tootle: Наконец-то, хоть что-то интересное!
+[10/21/2022 18:44:38]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:44:39]
+  iliya_kind placed Подводная маска in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:44:40]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:44:41]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:44:43]
+  iliya_kind placed Магазин для ПП in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:44:43]
+  iliya_kind removed Подводная маска from Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:44:43]
+  iliya_kind picked up Подводная маска
+[10/21/2022 18:44:47]
+  iliya_kind picked up Магазин для ПП
+[10/21/2022 18:44:55]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 409)
+[10/21/2022 18:45:14]
+  iliya_kind picked up Стабилоцин
+[10/21/2022 18:45:14]
+  iliya_kind picked up Стабилоцин
+[10/21/2022 18:45:14]
+  iliya_kind picked up Стабилоцин
+[10/21/2022 18:45:14]
+  iliya_kind picked up Стабилоцин
+[10/21/2022 18:45:14]
+  iliya_kind picked up Стабилоцин
+[10/21/2022 18:45:16]
+  Arthur Clements equipped Отвертка
+[10/21/2022 18:45:16]
+  Rupert Wiley equipped Отвертка
+[10/21/2022 18:45:17]
+  Rupert Wiley started repairing Кабельная коробка
+[10/21/2022 18:45:19]
+  Arthur Clements unequipped Отвертка
+[10/21/2022 18:45:21]
+  Rupert Wiley unequipped Отвертка
+[10/21/2022 18:45:21]
+  iliya_kind used item Стабилоцин
+[10/21/2022 18:45:27]
+  iliya_kind placed Стабилоцин in Аптечка (ID: 132)
+[10/21/2022 18:45:27]
+  iliya_kind placed Стабилоцин in Аптечка (ID: 132)
+[10/21/2022 18:45:27]
+  iliya_kind placed Стабилоцин in Аптечка (ID: 132)
+[10/21/2022 18:45:27]
+  iliya_kind placed Стабилоцин in Аптечка (ID: 132)
+[10/21/2022 18:45:41]
+  kynlan4ic docked Dugong to Шахта Skadi's Cauldron
+[10/21/2022 18:45:45]
+  igameCrog adjusted reactor settings: Temperature: 3214, Fission rate: 60, Turbine output: 63, Autotemp OFF
+[10/21/2022 18:45:46]
+  Ending round (submarine reached the end of the level)
+[10/21/2022 18:45:46]
+  Ending the round...
+[10/21/2022 18:45:46]
+  Round ended.
+[10/21/2022 18:46:47]
+  igameCrog is ready to start the game.
+[10/21/2022 18:46:51]
+  Console command "fixwalls" executed by kynlan4ic.
+[10/21/2022 18:47:00]
+  iliya_kind is ready to start the game.
+[10/21/2022 18:47:00]
+  iliya_kind is not ready to start the game.
+[10/21/2022 18:47:01]
+  iliya_kind is ready to start the game.
+[10/21/2022 18:48:02]
+  Client "kynlan4ic" started the round.
+[10/21/2022 18:48:02]
+  Starting a new round...
+[10/21/2022 18:48:04]
+  Миссия: Добыча минералов (Торианит)
+[10/21/2022 18:48:04]
+  Говорят, где-то между точками Центр Set и Шахта Skadi's Cauldron есть Торианит, целые залежи. Привезите оттуда ресурс (Торианит), 6 - этого будет достаточно. Ваша доля - 33%.
+[10/21/2022 18:48:04]
+  Game mode: Миссия
+[10/21/2022 18:48:04]
+  Submarine: Dugong
+[10/21/2022 18:48:04]
+  Level seed: baxthkEC
+[10/21/2022 18:48:04]
+  Mission: Добыча минералов ([resourcename1])
+[10/21/2022 18:48:06]
+  Round started.
+[10/21/2022 18:48:11]
+  Emilee Price: Веди ее по морю, веди ее на дно...
+[10/21/2022 18:48:15]
+  Emilee Price: Веди ее туда, где рыбы спят давно!
+[10/21/2022 18:48:15]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 18:48:18]
+  Emilee Price: Проклятое давленье сотней острых игл...
+[10/21/2022 18:48:20]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 18:48:22]
+  Emilee Price: Рвет тебя на части, как Акулий тигр!
+[10/21/2022 18:48:27]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 18:48:44]
+  iliya_kind picked up Огнемет
+[10/21/2022 18:48:46]
+  igameCrog picked up Подводная маска
+[10/21/2022 18:48:50]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:48:50]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:48:50]
+  iliya_kind picked up Подводное ружье
+[10/21/2022 18:48:52]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:48:52]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:48:52]
+  iliya_kind picked up Револьвер
+[10/21/2022 18:48:54]
+  iliya_kind placed Нож ныряльщика in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:48:54]
+  iliya_kind removed Дробовик from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:48:54]
+  iliya_kind picked up Дробовик
+[10/21/2022 18:48:56]
+  iliya_kind picked up Пистолет-пулемет
+[10/21/2022 18:48:57]
+  iliya_kind picked up Электрошокер
+[10/21/2022 18:48:59]
+  iliya_kind picked up Электрошокер
+[10/21/2022 18:48:59]
+  igameCrog picked up Яйца велонацепса каликса
+[10/21/2022 18:49:07]
+  iliya_kind picked up Шлем стрелка
+[10/21/2022 18:49:10]
+  iliya_kind placed Шлем стрелка in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 18:49:15]
+  iliya_kind picked up Водолазный скафандр
+[10/21/2022 18:49:27]
+  iliya_kind picked up Фонарик
+[10/21/2022 18:49:29]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:49:29]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:49:29]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:49:29]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:49:29]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:49:30]
+  igameCrog used item Морфин
+[10/21/2022 18:49:36]
+  iliya_kind equipped Фонарик
+[10/21/2022 18:50:05]
+  iliya_kind placed Фонарик in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:50:08]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:50:08]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:50:08]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:50:08]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:50:08]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 18:50:16]
+  igameCrog picked up Сварочный аппарат
+[10/21/2022 18:50:25]
+  iliya_kind placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 407)
+[10/21/2022 18:50:37]
+  iliya_kind placed Электрошокер in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 18:50:39]
+  iliya_kind placed Электрошокер in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:42]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 18:50:43]
+  iliya_kind picked up Магазин для ПП
+[10/21/2022 18:50:44]
+  igameCrog placed Шприц-пистолет in Шкаф для хранения токсинов (ID: 866)
+[10/21/2022 18:50:44]
+  igameCrog removed Серная кислота from Шкаф для хранения токсинов (ID: 866)
+[10/21/2022 18:50:44]
+  igameCrog picked up Серная кислота
+[10/21/2022 18:50:45]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:50:45]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:50:45]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:50:45]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:50:45]
+  iliya_kind picked up Гарпун
+[10/21/2022 18:50:46]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:50:46]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:50:46]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:50:46]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:50:46]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:50:46]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 18:50:47]
+  igameCrog placed Серная кислота in Шкаф для хранения токсинов (ID: 866)
+[10/21/2022 18:50:47]
+  igameCrog removed Шприц-пистолет from Шкаф для хранения токсинов (ID: 866)
+[10/21/2022 18:50:47]
+  igameCrog picked up Шприц-пистолет
+[10/21/2022 18:50:48]
+  igameCrog picked up Серная кислота
+[10/21/2022 18:50:50]
+  iliya_kind picked up Водолазный скафандр
+[10/21/2022 18:50:55]
+  kynlan4ic: Emilee Price, встань за орудия!
+[10/21/2022 18:50:56]
+  Emilee Price: Вас понял!
+[10/21/2022 18:50:56]
+  igameCrog placed Шприц-пистолет in Аптечка (ID: 132)
+[10/21/2022 18:50:56]
+  igameCrog removed Пакет с кровью from Аптечка (ID: 132)
+[10/21/2022 18:50:56]
+  igameCrog removed Пакет с кровью from Аптечка (ID: 132)
+[10/21/2022 18:50:56]
+  igameCrog picked up Пакет с кровью
+[10/21/2022 18:50:56]
+  igameCrog picked up Пакет с кровью
+[10/21/2022 18:50:58]
+  igameCrog placed Пакет с кровью in Аптечка (ID: 132)
+[10/21/2022 18:50:58]
+  igameCrog placed Пакет с кровью in Аптечка (ID: 132)
+[10/21/2022 18:50:58]
+  igameCrog removed Шприц-пистолет from Аптечка (ID: 132)
+[10/21/2022 18:50:58]
+  igameCrog picked up Шприц-пистолет
+[10/21/2022 18:51:04]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:51:04]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:51:04]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:51:04]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:51:04]
+  iliya_kind picked up Кислородный баллон
+[10/21/2022 18:51:06]
+  iliya_kind equipped Фонарик
+[10/21/2022 18:51:06]
+  iliya_kind picked up Фонарик
+[10/21/2022 18:51:09]
+  Emilee Price: У меня новая цель! Не могу понять, что это такое...
+[10/21/2022 18:51:10]
+  Emilee Price: Огонь!
+[10/21/2022 18:51:10]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:10]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:11]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:11]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:11]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:11]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:12]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:12]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:12]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:12]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:13]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:13]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:14]
+  Outer wall breached by Emilee Price
+[10/21/2022 18:51:14]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:14]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:14]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:15]
+  Outer wall breached by Mudraptor_unarmored
+[10/21/2022 18:51:15]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:15]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:15]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:15]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:15]
+  iliya_kind equipped Дробовик
+[10/21/2022 18:51:16]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:16]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:16]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:17]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 0.8 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:17]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:17]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:17]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:18]
+  Emilee Price launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/21/2022 18:51:18]
+  Emilee Price: Враг уничтожен!
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:18]
+  Mudraptor_unarmored attacked by iliya_kind. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 18:51:21]
+  iliya_kind equipped Огнемет
+[10/21/2022 18:51:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:21]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:22]
+  iliya_kind equipped Револьвер
+[10/21/2022 18:51:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:22]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:22]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:51:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:23]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:23]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/21/2022 18:51:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:24]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:24]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:24]
+  Outer wall breached by Mudraptor
+[10/21/2022 18:51:24]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:51:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:25]
+  igameCrog placed Каликсанид in Шприц-пистолет (ID: 3774)
+[10/21/2022 18:51:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:25]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:51:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:26]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:26]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:27]
+  Mudraptor has died (Cause of death: Рваная рана)
+[10/21/2022 18:51:27]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:27]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:28]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:51:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:29]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:51:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:29]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:29]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:29]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 18:51:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 18:51:30]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/21/2022 18:51:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)

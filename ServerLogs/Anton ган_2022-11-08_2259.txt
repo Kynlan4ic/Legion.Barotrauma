@@ -1,0 +1,1600 @@
+﻿[11/08/2022 22:41:22]
+  Roslyn Marquez: Надо найти водолазный скафандр!
+[11/08/2022 22:41:23]
+  kynlan4ic opened Настраиваемый люк
+[11/08/2022 22:41:29]
+  kynlan4ic equipped Подводное ружье
+[11/08/2022 22:41:30]
+  Roslyn Marquez equipped Водолазный скафандр
+[11/08/2022 22:41:38]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:41:40]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/08/2022 22:41:41]
+  Crawler attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[11/08/2022 22:41:46]
+  igameCrog placed Взрывной гранат in Хозяйственный шкаф (ID: 355)
+[11/08/2022 22:41:46]
+  igameCrog placed Взрывной гранат in Хозяйственный шкаф (ID: 355)
+[11/08/2022 22:41:47]
+  Crawler attacked by kynlan4ic. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[11/08/2022 22:41:47]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:41:49]
+  kynlan4ic picked up Гарпун
+[11/08/2022 22:41:55]
+  kynlan4ic placed Маска ползуна in Пояс инструментов (ID: 3745)
+[11/08/2022 22:41:57]
+  kynlan4ic placed Маска ползуна in Crawler
+[11/08/2022 22:41:57]
+  kynlan4ic removed Инопланетная кровь from Crawler
+[11/08/2022 22:41:57]
+  kynlan4ic placed Инопланетная кровь in Пояс инструментов (ID: 3745)
+[11/08/2022 22:41:59]
+  igameCrog equipped Ящик взрывчатых снарядов шрапнельного орудия
+[11/08/2022 22:42:01]
+  kynlan4ic placed Маска ползуна in Пояс инструментов (ID: 3745)
+[11/08/2022 22:42:10]
+  igameCrog dropped Ящик взрывчатых снарядов шрапнельного орудия
+[11/08/2022 22:42:13]
+  kynlan4ic closed Настраиваемый люк
+[11/08/2022 22:42:27]
+  kynlan4ic opened Настраиваемая дверь с окном
+[11/08/2022 22:42:31]
+  kynlan4ic dropped Боевой водолазный скафандр
+[11/08/2022 22:42:36]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 1058)
+[11/08/2022 22:42:37]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 1058)
+[11/08/2022 22:42:48]
+  kynlan4ic placed Криолит in Деконструктор (ID: 340)
+[11/08/2022 22:42:48]
+  kynlan4ic placed Криолит in Деконструктор (ID: 340)
+[11/08/2022 22:42:48]
+  kynlan4ic placed Криолит in Деконструктор (ID: 340)
+[11/08/2022 22:42:48]
+  kynlan4ic placed Касситерит in Деконструктор (ID: 340)
+[11/08/2022 22:42:48]
+  kynlan4ic placed Касситерит in Деконструктор (ID: 340)
+[11/08/2022 22:42:48]
+  kynlan4ic placed Касситерит in Деконструктор (ID: 340)
+[11/08/2022 22:42:49]
+  kynlan4ic placed Эсперит in Деконструктор (ID: 340)
+[11/08/2022 22:42:49]
+  kynlan4ic placed Эсперит in Деконструктор (ID: 340)
+[11/08/2022 22:42:49]
+  kynlan4ic placed Эсперит in Деконструктор (ID: 340)
+[11/08/2022 22:42:53]
+  Fanny Preston equipped Кислородный баллон
+[11/08/2022 22:42:54]
+  kynlan4ic picked up Маска ползуна
+[11/08/2022 22:42:55]
+  kynlan4ic picked up Инопланетная кровь
+[11/08/2022 22:43:00]
+  Roslyn Fesler equipped Кислородный баллон
+[11/08/2022 22:43:11]
+  igameCrog used item Морфин
+[11/08/2022 22:43:19]
+  kynlan4ic dropped Инопланетная кровь
+[11/08/2022 22:43:19]
+  kynlan4ic dropped Маска ползуна
+[11/08/2022 22:43:38]
+  igameCrog placed Антибиотики широкого спектра in Гарнитура с инжектором (ID: 3742)
+[11/08/2022 22:43:39]
+  Арти Дулитл equipped Инопланетная кровь
+[11/08/2022 22:43:51]
+  igameCrog dropped Металлический ящик
+[11/08/2022 22:43:53]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:43:54]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:43:54]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:43:54]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:43:56]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:43:57]
+  Fanny Preston failed to repair Кабельная коробка
+[11/08/2022 22:44:00]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:44:00]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:44:01]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:44:01]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:44:02]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:44:03]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:44:03]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:44:04]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:44:05]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:44:11]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:44:15]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:44:15]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:44:15]
+  Fanny Preston started repairing Навигационный терминал
+[11/08/2022 22:44:16]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:44:20]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:44:23]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:44:23]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:44:24]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:44:24]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:44:26]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:44:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:27]
+  Fanny Preston failed to repair Кабельная коробка
+[11/08/2022 22:44:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:44:30]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:44:31]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:44:31]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:44:33]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:44:33]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:44:35]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:44:36]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:44:41]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:45:50]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:45:50]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:45:51]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:45:51]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:45:54]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:45:54]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:45:55]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:45:55]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:45:56]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:46:00]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:46:01]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:46:27]
+  Fanny Preston: Слышишь?
+[11/08/2022 22:46:28]
+  Арти Дулитл: Что?
+[11/08/2022 22:46:29]
+  Fanny Preston: Какой-то гулкий рев снаружи подлодки.
+[11/08/2022 22:46:33]
+  Арти Дулитл: Да просто корпус поскрипывает. Расслабься.
+[11/08/2022 22:47:05]
+  Larita Baumgardner: Огонь!
+[11/08/2022 22:47:05]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:07]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:07]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:07]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:08]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:08]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:08]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:09]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:09]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:09]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:09]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:12]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:12]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:13]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:13]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:13]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:14]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:14]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:14]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:14]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:15]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:15]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:15]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:15]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:16]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:16]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:16]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:47:16]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:47:16]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:16]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:47:17]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:17]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:47:17]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:17]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:47:17]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:17]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:17]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:17]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:47:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:18]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:19]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:20]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:20]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:47:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:20]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:47:21]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:47:21]
+  igameCrog placed Взрывной гранат in Средний стальной шкаф с окном (ID: 1023)
+[11/08/2022 22:47:21]
+  igameCrog placed Взрывной гранат in Средний стальной шкаф с окном (ID: 1023)
+[11/08/2022 22:47:21]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:21]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:47:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:23]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:23]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:24]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:47:24]
+  Larita Baumgardner: И-и-и-и... Готово!
+[11/08/2022 22:47:24]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:24]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:24]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:26]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:47:26]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:47:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:29]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:47:29]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:47:29]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3791)
+[11/08/2022 22:47:29]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/08/2022 22:47:29]
+  Larita Baumgardner: Цель уничтожена!
+[11/08/2022 22:47:29]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:30]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:30]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:34]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:41]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:47:41]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:47:42]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:47:44]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 431)
+[11/08/2022 22:47:45]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 431)
+[11/08/2022 22:47:47]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:47:47]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:47:47]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:47:49]
+  Larita Baumgardner: Огонь!
+[11/08/2022 22:47:49]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:49]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:50]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:50]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:50]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:50]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:51]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:51]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:51]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:52]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:52]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:52]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:52]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:53]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:53]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:53]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:53]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:54]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:54]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:54]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:54]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/08/2022 22:47:54]
+  Larita Baumgardner: И-и-и-и... Готово!
+[11/08/2022 22:47:55]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:55]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:55]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:47:55]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:55]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:55]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:55]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:55]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:56]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:56]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:56]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:47:58]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:47:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:04]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:07]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:07]
+  Larita Baumgardner: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/08/2022 22:48:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:07]
+  Larita Baumgardner equipped Ящик с боеприпасами для магнитной пушки
+[11/08/2022 22:48:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:08]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:48:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:11]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/08/2022 22:48:11]
+  Stephane Palmieri: Враг уничтожен!
+[11/08/2022 22:48:11]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:48:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:11]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:48:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:11]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:48:11]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:48:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:12]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:48:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:48:12]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/08/2022 22:48:12]
+  Stephane Palmieri: Враг уничтожен!
+[11/08/2022 22:48:12]
+  Larita Baumgardner: Цель уничтожена!
+[11/08/2022 22:48:13]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:48:15]
+  Roslyn Fesler equipped Ящик взрывчатых снарядов шрапнельного орудия
+[11/08/2022 22:48:18]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:48:19]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:48:20]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:48:21]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:48:27]
+  Chance Hines equipped Гаечный ключ
+[11/08/2022 22:48:28]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:48:28]
+  Priscilla Jones equipped Гаечный ключ
+[11/08/2022 22:48:31]
+  Priscilla Jones started repairing Генератор кислорода
+[11/08/2022 22:48:34]
+  Chance Hines started repairing Генератор кислорода
+[11/08/2022 22:48:35]
+  Chance Hines unequipped Гаечный ключ
+[11/08/2022 22:48:38]
+  Priscilla Jones unequipped Гаечный ключ
+[11/08/2022 22:49:00]
+  igameCrog placed Подводный скутер in Средний стальной шкаф с окном (ID: 1058)
+[11/08/2022 22:49:00]
+  igameCrog removed Подводный скутер from Средний стальной шкаф с окном (ID: 1058)
+[11/08/2022 22:49:00]
+  igameCrog placed Подводный скутер in Пояс инструментов (ID: 3791)
+[11/08/2022 22:49:01]
+  igameCrog picked up Подводный скутер
+[11/08/2022 22:49:07]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:49:08]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:49:14]
+  Tyson Kidd equipped Аккумулятор
+[11/08/2022 22:49:19]
+  igameCrog equipped Подводный скутер
+[11/08/2022 22:49:23]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:49:24]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:49:24]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:49:24]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:49:27]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:49:28]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:49:29]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:49:30]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:49:33]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:49:34]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:49:47]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:49:49]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:49:54]
+  igameCrog picked up Яйца велонацепса каликса
+[11/08/2022 22:49:55]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:50:00]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:50:01]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:50:01]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:50:02]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:50:02]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:50:02]
+  igameCrog equipped Сварочный аппарат
+[11/08/2022 22:50:04]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:50:05]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:50:05]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:50:06]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:50:08]
+  Priscilla Jones: Загружаю в реактор дополнительное топливо!
+[11/08/2022 22:50:09]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:50:09]
+  Priscilla Jones equipped Топливный стержень
+[11/08/2022 22:50:13]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[11/08/2022 22:50:24]
+  Outer wall repaired by igameCrog
+[11/08/2022 22:50:28]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:50:29]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:50:29]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:50:29]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:50:32]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:50:33]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:50:33]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:50:37]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:50:37]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:50:40]
+  Roslyn Fesler equipped Топливный стержень
+[11/08/2022 22:50:43]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:50:47]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[11/08/2022 22:51:01]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:51:01]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:51:02]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:51:02]
+  Tyson Kidd started repairing Навигационный терминал
+[11/08/2022 22:51:04]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:51:06]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:51:11]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:51:20]
+  Larita Baumgardner: Стреляю!
+[11/08/2022 22:51:20]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:20]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:20]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:20]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:51:20]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:21]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:21]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:21]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:22]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:23]
+  igameCrog opened Настраиваемая дверь с окном
+[11/08/2022 22:51:23]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:23]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:23]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:24]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:25]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:26]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:27]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:28]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/08/2022 22:51:28]
+  Larita Baumgardner: Враг уничтожен!
+[11/08/2022 22:51:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:28]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:29]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:51:29]
+  Информация о миссии: Цель уничтожена - Рой уничтожен. Выведите подлодку из пещеры, чтобы получить награду.
+[11/08/2022 22:51:29]
+  Larita Baumgardner: Враг уничтожен!
+[11/08/2022 22:51:29]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:29]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:29]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:30]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:30]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:30]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:30]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:31]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:31]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:31]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:31]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:32]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:32]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:51:32]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/08/2022 22:51:32]
+  Larita Baumgardner: И-и-и-и... Готово!
+[11/08/2022 22:51:32]
+  Priscilla Jones equipped Гаечный ключ
+[11/08/2022 22:51:32]
+  Fanny Preston equipped Гаечный ключ
+[11/08/2022 22:51:33]
+  Chance Hines equipped Гаечный ключ
+[11/08/2022 22:51:34]
+  Priscilla Jones unequipped Гаечный ключ
+[11/08/2022 22:51:34]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:51:35]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:51:35]
+  Priscilla Jones equipped Гаечный ключ
+[11/08/2022 22:51:36]
+  Priscilla Jones failed to repair Насос
+[11/08/2022 22:51:37]
+  Chance Hines started repairing Насос
+[11/08/2022 22:51:39]
+  Fanny Preston unequipped Гаечный ключ
+[11/08/2022 22:51:41]
+  Chance Hines unequipped Гаечный ключ
+[11/08/2022 22:51:44]
+  Priscilla Jones unequipped Гаечный ключ
+[11/08/2022 22:51:44]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:51:44]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:51:45]
+  igameCrog equipped Инопланетная кровь
+[11/08/2022 22:51:48]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:49]
+  igameCrog placed Инопланетная кровь in Металлический ящик (ID: 1429)
+[11/08/2022 22:51:52]
+  igameCrog dropped Металлический ящик
+[11/08/2022 22:51:56]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:51:57]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:51:57]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:51:59]
+  igameCrog closed Настраиваемая дверь с окном
+[11/08/2022 22:52:00]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:52:01]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:52:02]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:52:02]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 3791)
+[11/08/2022 22:52:02]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/08/2022 22:52:02]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:52:02]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:52:03]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:52:04]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:52:07]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:52:21]
+  Roslyn Fesler equipped Инопланетная кровь
+[11/08/2022 22:52:21]
+  Roslyn Fesler unequipped Инопланетная кровь
+[11/08/2022 22:52:29]
+  Roslyn Fesler equipped Инопланетная кровь
+[11/08/2022 22:53:34]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:53:34]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:53:34]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:53:36]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:53:38]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:53:39]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:53:40]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:53:41]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:53:45]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:53:46]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:53:50]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:53:51]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:53:51]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:53:52]
+  igameCrog opened Настраиваемая дверь с окном
+[11/08/2022 22:53:56]
+  igameCrog placed Подводный скутер in Пояс инструментов (ID: 3791)
+[11/08/2022 22:54:05]
+  Priscilla Jones equipped Гаечный ключ
+[11/08/2022 22:54:06]
+  Chance Hines equipped Гаечный ключ
+[11/08/2022 22:54:06]
+  Fanny Preston equipped Гаечный ключ
+[11/08/2022 22:54:08]
+  igameCrog dropped Металлический ящик
+[11/08/2022 22:54:10]
+  Chance Hines started repairing Насос
+[11/08/2022 22:54:11]
+  Priscilla Jones: Мне нужно подводное снаряжение!
+[11/08/2022 22:54:11]
+  Fanny Preston: Надо найти водолазный скафандр!
+[11/08/2022 22:54:12]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/08/2022 22:54:16]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:54:17]
+  Priscilla Jones unequipped Гаечный ключ
+[11/08/2022 22:54:17]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:54:19]
+  Fanny Preston unequipped Гаечный ключ
+[11/08/2022 22:54:19]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:54:20]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:54:20]
+  Chance Hines: Меняем кислородные баллоны!
+[11/08/2022 22:54:21]
+  Chance Hines unequipped Гаечный ключ
+[11/08/2022 22:54:21]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:54:26]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:54:28]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:54:29]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:54:30]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:54:30]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:54:33]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:54:33]
+  Priscilla Jones equipped Гаечный ключ
+[11/08/2022 22:54:36]
+  Priscilla Jones started repairing Насос
+[11/08/2022 22:54:40]
+  Roslyn Marquez equipped Водолазный скафандр
+[11/08/2022 22:54:41]
+  Chance Hines equipped Гаечный ключ
+[11/08/2022 22:54:41]
+  Chance Hines unequipped Гаечный ключ
+[11/08/2022 22:54:45]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:54:45]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:54:46]
+  Priscilla Jones unequipped Гаечный ключ
+[11/08/2022 22:54:46]
+  Stephane Palmieri: Неизвестная цель обнаружена!
+[11/08/2022 22:54:46]
+  Chance Hines failed to repair Кабельная коробка
+[11/08/2022 22:54:46]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:54:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:47]
+  igameCrog dropped Металлический ящик
+[11/08/2022 22:54:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:48]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:54:48]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:54:48]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:54:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:48]
+  Priscilla Jones started repairing Ядерный реактор
+[11/08/2022 22:54:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:50]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:54:50]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:54:52]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:54:52]
+  Roslyn Fesler equipped Боевой водолазный скафандр
+[11/08/2022 22:54:52]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:54:56]
+  Larita Baumgardner: У меня новая цель! Не могу понять, что это такое...
+[11/08/2022 22:54:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:54:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:00]
+  Stephane Palmieri: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/08/2022 22:55:00]
+  Stephane Palmieri equipped Ящик с боеприпасами для магнитной пушки
+[11/08/2022 22:55:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:04]
+  Chance Hines equipped Ящик с боеприпасами для магнитной пушки
+[11/08/2022 22:55:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:05]
+  Spineling has died (Cause of death: Рваная рана)
+[11/08/2022 22:55:05]
+  Stephane Palmieri: Кажется, есть попадание!
+[11/08/2022 22:55:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:29]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:55:30]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:55:30]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:55:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:31]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:55:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:31]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:55:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:35]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:55:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:36]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:55:36]
+  Stephane Palmieri: Цель уничтожена!
+[11/08/2022 22:55:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:38]
+  Tyson Kidd started repairing Кабельная коробка
+[11/08/2022 22:55:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:38]
+  Stephane Palmieri: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/08/2022 22:55:39]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:55:39]
+  Stephane Palmieri equipped Ящик с боеприпасами для магнитной пушки
+[11/08/2022 22:55:42]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:55:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:47]
+  Roslyn Fesler equipped Ящик с боеприпасами для магнитной пушки
+[11/08/2022 22:55:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:55:48]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:55:48]
+  Stephane Palmieri: И-и-и-и... Готово!
+[11/08/2022 22:55:48]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:55:49]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:55:50]
+  Fanny Preston started repairing Кабельная коробка
+[11/08/2022 22:55:51]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:55:51]
+  Tyson Kidd failed to repair Кабельная коробка
+[11/08/2022 22:55:54]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:55:55]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:55:55]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:55:55]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:55:59]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:56:08]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:56:08]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:56:08]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:56:08]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:56:12]
+  Fanny Preston failed to repair Кабельная коробка
+[11/08/2022 22:56:15]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:56:15]
+  Chance Hines started repairing Кабельная коробка
+[11/08/2022 22:56:16]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:56:16]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:56:16]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:56:17]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:56:17]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:56:17]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:17]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:18]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:19]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:56:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:19]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:20]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:56:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:23]
+  igameCrog opened Настраиваемая дверь с окном
+[11/08/2022 22:56:25]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:56:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:26]
+  igameCrog closed Настраиваемая дверь с окном
+[11/08/2022 22:56:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:56:29]
+  Crawler has died (Cause of death: Рваная рана)
+[11/08/2022 22:56:29]
+  Stephane Palmieri: Цель уничтожена!
+[11/08/2022 22:56:34]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:56:34]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:56:36]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:56:43]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:56:44]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/08/2022 22:56:50]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:56:51]
+  igameCrog opened Настраиваемая дверь с окном
+[11/08/2022 22:57:01]
+  igameCrog picked up Сонарный маяк
+[11/08/2022 22:57:10]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:57:10]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:57:11]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:57:12]
+  Fanny Preston equipped Отвертка
+[11/08/2022 22:57:12]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3764)
+[11/08/2022 22:57:12]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 3764)
+[11/08/2022 22:57:13]
+  Chance Hines failed to repair Кабельная коробка
+[11/08/2022 22:57:14]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 431)
+[11/08/2022 22:57:15]
+  Priscilla Jones started repairing Кабельная коробка
+[11/08/2022 22:57:17]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:57:17]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:57:18]
+  igameCrog picked up Кислородный баллон
+[11/08/2022 22:57:18]
+  Fanny Preston unequipped Отвертка
+[11/08/2022 22:57:19]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:57:19]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 431)
+[11/08/2022 22:57:21]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:21]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:22]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:57:23]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 431)
+[11/08/2022 22:57:26]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/08/2022 22:57:44]
+  igameCrog closed Настраиваемая дверь с окном
+[11/08/2022 22:57:45]
+  igameCrog opened Настраиваемый люк
+[11/08/2022 22:57:49]
+  igameCrog picked up Подводный скутер
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:55]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3791)
+[11/08/2022 22:57:58]
+  igameCrog placed Сонарный маяк in Пояс инструментов (ID: 3791)
+[11/08/2022 22:58:01]
+  Арти Дулитл: Мы справимся.
+[11/08/2022 22:58:12]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:58:12]
+  Priscilla Jones equipped Отвертка
+[11/08/2022 22:58:13]
+  Chance Hines equipped Отвертка
+[11/08/2022 22:58:14]
+  Chance Hines started repairing Навигационный терминал
+[11/08/2022 22:58:14]
+  Tyson Kidd equipped Отвертка
+[11/08/2022 22:58:15]
+  Tyson Kidd started repairing Навигационный терминал
+[11/08/2022 22:58:15]
+  Chance Hines unequipped Отвертка
+[11/08/2022 22:58:22]
+  Tyson Kidd unequipped Отвертка
+[11/08/2022 22:58:23]
+  Priscilla Jones unequipped Отвертка
+[11/08/2022 22:58:32]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:58:36]
+  igameCrog picked up Инопланетная кровь
+[11/08/2022 22:58:46]
+  igameCrog closed Настраиваемый люк
+[11/08/2022 22:58:49]
+  igameCrog opened Настраиваемая дверь с окном
+[11/08/2022 22:59:05]
+  Larita Baumgardner: Стреляю!
+[11/08/2022 22:59:05]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:06]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:07]
+  Stephane Palmieri: Стреляю!
+[11/08/2022 22:59:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:09]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:09]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:10]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:11]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:12]
+  Larita Baumgardner launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:12]
+  Larita Baumgardner: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/08/2022 22:59:12]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/08/2022 22:59:12]
+  Stephane Palmieri: Враг уничтожен!
+[11/08/2022 22:59:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:14]
+  Larita Baumgardner equipped Ящик с боеприпасами для магнитной пушки
+[11/08/2022 22:59:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/08/2022 22:59:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)

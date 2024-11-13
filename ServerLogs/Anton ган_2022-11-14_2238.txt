@@ -1,0 +1,174 @@
+﻿[11/14/2022 22:36:17]
+  Stefany Chiu equipped Отвертка
+[11/14/2022 22:36:18]
+  Saul Brady: Medbay: высокий уровень давления!
+[11/14/2022 22:36:19]
+  Saul Brady has died (Cause of death: Баротравма)
+[11/14/2022 22:36:19]
+  kynlan4ic (as Aldo Hardy) removed Кислородный баллон from Водолазный скафандр (ID: 696)
+[11/14/2022 22:36:20]
+  kynlan4ic (as Aldo Hardy) placed Кислородный баллон in Водолазный скафандр (ID: 696)
+[11/14/2022 22:36:20]
+  Stefany Chiu started repairing Монитор состояния
+[11/14/2022 22:36:21]
+  The respawn shuttle is leaving.
+[11/14/2022 22:36:21]
+  Emerald Box unequipped Гаечный ключ
+[11/14/2022 22:36:21]
+  Emerald Box equipped Отвертка
+[11/14/2022 22:36:25]
+  kynlan4ic (as Aldo Hardy) dropped Удостоверение личности
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:28]
+  kynlan4ic (as Aldo Hardy) picked up Топливный стержень
+[11/14/2022 22:36:30]
+  kynlan4ic (as Aldo Hardy) adjusted reactor settings: Temperature: 5007, Fission rate: 39, Turbine output: 12, Autotemp OFF
+[11/14/2022 22:36:31]
+  kynlan4ic (as Aldo Hardy) placed Топливный стержень in Ядерный реактор (ID: 57)
+[11/14/2022 22:36:31]
+  Outer wall breached by Hammerheadgold
+[11/14/2022 22:36:31]
+  Outer wall breached by Hammerheadgold
+[11/14/2022 22:36:31]
+  kynlan4ic (as Aldo Hardy) placed Топливный стержень in Ядерный реактор (ID: 57)
+[11/14/2022 22:36:32]
+  kynlan4ic (as Aldo Hardy) placed Топливный стержень in Ядерный реактор (ID: 57)
+[11/14/2022 22:36:32]
+  Emerald Box started repairing Батарея
+[11/14/2022 22:36:33]
+  kynlan4ic (as Aldo Hardy) removed Кислородный баллон from Водолазный скафандр (ID: 696)
+[11/14/2022 22:36:35]
+  kynlan4ic (as Aldo Hardy) adjusted reactor settings: Temperature: 9514, Fission rate: 35, Turbine output: 12, Autotemp OFF
+[11/14/2022 22:36:35]
+  Stefany Chiu started repairing Кабельная коробка
+[11/14/2022 22:36:36]
+  kynlan4ic (as Aldo Hardy) adjusted reactor settings: Temperature: 10000, Fission rate: 18, Turbine output: 12, Autotemp OFF
+[11/14/2022 22:36:49]
+  Stefany Chiu started repairing Суперконденсатор
+[11/14/2022 22:36:51]
+  Jerrell Pool has died (Cause of death: Unknown)
+[11/14/2022 22:36:51]
+  Britt Ulrich has died (Cause of death: Unknown)
+[11/14/2022 22:36:51]
+  The respawn shuttle has left.
+[11/14/2022 22:36:53]
+  Emerald Box: Невозможно добраться: Батарея!
+[11/14/2022 22:36:58]
+  kynlan4ic (as Aldo Hardy) equipped Револьвер
+[11/14/2022 22:37:00]
+  kynlan4ic (as Aldo Hardy) has died (Cause of death: Нехватка кислорода)
+[11/14/2022 22:37:02]
+  Emerald Box started repairing Батарея
+[11/14/2022 22:37:04]
+  Stefany Chiu: Невозможно добраться: Кабельная коробка!
+[11/14/2022 22:37:18]
+  Stefany Chiu started repairing Батарея
+[11/14/2022 22:37:26]
+  Emerald Box: Невозможно добраться: Кабельная коробка!
+[11/14/2022 22:37:26]
+  Emerald Box started repairing Кабельная коробка
+[11/14/2022 22:37:35]
+  Emerald Box started repairing Кабельная коробка
+[11/14/2022 22:37:38]
+  Stefany Chiu: Невозможно добраться: Кабельная коробка!
+[11/14/2022 22:37:44]
+  Emerald Box started repairing Кабельная коробка
+[11/14/2022 22:37:51]
+  Inner wall breached by Hammerheadgold
+[11/14/2022 22:37:51]
+  Dispatching the respawn shuttle.
+[11/14/2022 22:37:51]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/14/2022 22:37:51]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[11/14/2022 22:37:51]
+  Respawning bot Aldo Hardy as Инженер
+[11/14/2022 22:37:51]
+  Respawning bot Saul Brady as Инженер
+[11/14/2022 22:37:53]
+  Emerald Box started repairing Кабельная коробка
+[11/14/2022 22:37:53]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/14/2022 22:37:54]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/14/2022 22:37:56]
+  Reactor meltdown!
+[11/14/2022 22:37:56]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[11/14/2022 22:37:56]
+  Emerald Box: Кабельная коробка не поддается починке!
+[11/14/2022 22:37:57]
+  Emerald Box started repairing Кабельная коробка
+[11/14/2022 22:37:59]
+  Stefany Chiu: Невозможно добраться: Кабельная коробка!
+[11/14/2022 22:38:05]
+  Emerald Box started repairing Батарея
+[11/14/2022 22:38:09]
+  Outer wall breached by Hammerheadgold
+[11/14/2022 22:38:09]
+  Outer wall breached by Hammerheadgold
+[11/14/2022 22:38:09]
+  Outer wall breached by Hammerheadgold
+[11/14/2022 22:38:09]
+  Outer wall breached by Hammerheadgold
+[11/14/2022 22:38:09]
+  Aldo Hardy: Надо найти водолазный скафандр!
+[11/14/2022 22:38:09]
+  Saul Brady: Мне нужно подводное снаряжение!
+[11/14/2022 22:38:11]
+  kynlan4ic picked up Подводный скутер
+[11/14/2022 22:38:12]
+  kynlan4ic picked up Лом
+[11/14/2022 22:38:12]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 22:38:12]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 22:38:12]
+  kynlan4ic picked up Кислородный баллон
+[11/14/2022 22:38:13]
+  kynlan4ic picked up Плазменный резак
+[11/14/2022 22:38:13]
+  kynlan4ic picked up Ручной сонар
+[11/14/2022 22:38:18]
+  Aldo Hardy: Воздушный шлюз: высокий уровень давления!
+[11/14/2022 22:38:18]
+  Saul Brady: Воздушный шлюз: давление достигло опасного уровня!
+[11/14/2022 22:38:19]
+  Stefany Chiu: Невозможно добраться: Ядерный реактор!
+[11/14/2022 22:38:19]
+  kynlan4ic has died (Cause of death: Баротравма)
+[11/14/2022 22:38:19]
+  igameCrog has died (Cause of death: Баротравма)
+[11/14/2022 22:38:19]
+  Aldo Hardy has died (Cause of death: Баротравма)
+[11/14/2022 22:38:23]
+  Stefany Chiu started repairing Кабельная коробка
+[11/14/2022 22:38:23]
+  Emerald Box started repairing Кабельная коробка
+[11/14/2022 22:38:26]
+  Stefany Chiu unequipped Отвертка
+[11/14/2022 22:38:26]
+  Stefany Chiu equipped Гаечный ключ
+[11/14/2022 22:38:29]
+  Stefany Chiu started repairing Деконструктор
+[11/14/2022 22:38:31]
+  Emerald Box failed to repair Батарея
+[11/14/2022 22:38:31]
+  Emerald Box started repairing Батарея
+[11/14/2022 22:38:46]
+  Client "kynlan4ic" ended the round.
+[11/14/2022 22:38:46]
+  Ending the round...

@@ -1,0 +1,1601 @@
+﻿[02/16/2023 15:48:16]
+  Starting the server...
+[02/16/2023 15:48:16]
+  Using SteamP2P networking.
+[02/16/2023 15:48:16]
+  Server started
+[02/16/2023 15:48:16]
+  Игрок kynlan4ic присоединился к серверу.
+[02/16/2023 15:48:16]
+  Saving client permissions
+[02/16/2023 15:48:16]
+  Saving client permissions
+[02/16/2023 15:49:09]
+  Игрок Супостат499 присоединился к серверу.
+[02/16/2023 15:49:09]
+  Saving client permissions
+[02/16/2023 15:50:17]
+  Client "kynlan4ic" started the round.
+[02/16/2023 15:50:17]
+  Starting a new round...
+[02/16/2023 15:50:22]
+  Миссия: Уничтожение Молоха
+[02/16/2023 15:50:22]
+  Крайне свирепый Молох терроризирует суда, плавающие по маршруту Исследовательский центр Milda - Укрепление Bramerton. Тому, кто убьет это опасное создание, полагается достойная награда в размере 5,000 кред.
+[02/16/2023 15:50:22]
+  Game mode: Миссия
+[02/16/2023 15:50:22]
+  Submarine: Kastrull
+[02/16/2023 15:50:22]
+  Level seed: quH2j4F8
+[02/16/2023 15:50:22]
+  Mission: Уничтожение Молоха
+[02/16/2023 15:50:24]
+  Round started.
+[02/16/2023 15:50:32]
+  Roland Breeki: Веди ее по морю, веди ее на дно...
+[02/16/2023 15:50:35]
+  Roland Breeki: Веди ее туда, где рыбы спят давно!
+[02/16/2023 15:50:39]
+  Roland Breeki: Проклятое давленье сотней острых игл...
+[02/16/2023 15:50:41]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 15:50:42]
+  Console command "enablecheats" executed by kynlan4ic.
+[02/16/2023 15:50:42]
+  Roland Breeki: Рвет тебя на части, как Акулий тигр!
+[02/16/2023 15:50:46]
+  Amee Rivera: На Земле же моряки поют песни! Чем мы хуже!
+[02/16/2023 15:50:48]
+  kynlan4ic picked up Подводная маска
+[02/16/2023 15:50:48]
+  kynlan4ic picked up Сварочный аппарат
+[02/16/2023 15:50:49]
+  kynlan4ic picked up Морфин
+[02/16/2023 15:51:19]
+  kynlan4ic: Roland Breeki, встань за орудия!
+[02/16/2023 15:51:20]
+  Roland Breeki: Вас понял!
+[02/16/2023 15:51:24]
+  kynlan4ic: Amee Rivera, займись орудиями!
+[02/16/2023 15:51:25]
+  Amee Rivera: Принято.
+[02/16/2023 15:51:28]
+  kynlan4ic: Jan Moran, займись ремонтом поврежденных систем!
+[02/16/2023 15:51:29]
+  Jan Moran: Слушаюсь!
+[02/16/2023 15:51:29]
+  kynlan4ic: Jamey Castro, займись механическими приборами!
+[02/16/2023 15:51:31]
+  Jamey Castro: Слушаюсь!
+[02/16/2023 15:51:31]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 15:51:31]
+  kynlan4ic: Everette Lozano, отремонтируй электросистемы!
+[02/16/2023 15:51:32]
+  Everette Lozano: Принято.
+[02/16/2023 15:51:33]
+  kynlan4ic: Jamey Castro, начинай устранять протечки!
+[02/16/2023 15:51:34]
+  Jamey Castro: Вас понял!
+[02/16/2023 15:51:40]
+  kynlan4ic: Keith Vazquez, окажи первую помощь всем, кому потребуется!
+[02/16/2023 15:51:41]
+  Keith Vazquez: Вас понял!
+[02/16/2023 15:51:42]
+  kynlan4ic: Roland Breeki, защищай команду!
+[02/16/2023 15:51:44]
+  Roland Breeki: Принято.
+[02/16/2023 15:51:44]
+  kynlan4ic: Roland Breeki, займись орудиями!
+[02/16/2023 15:51:45]
+  Roland Breeki: Есть!
+[02/16/2023 15:52:09]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/16/2023 15:52:15]
+  Супостат499 picked up Сварочный аппарат
+[02/16/2023 15:52:17]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:52:17]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:52:17]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:52:17]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:52:17]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:52:17]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:52:26]
+  kynlan4ic: Everette Lozano, заряди реактор!
+[02/16/2023 15:52:27]
+  Everette Lozano: Вас понял!
+[02/16/2023 15:52:30]
+  Amee Rivera: Прицел на ледяной шпиль!
+[02/16/2023 15:52:30]
+  Amee Rivera: Огонь!
+[02/16/2023 15:52:30]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:30]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:31]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:31]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:31]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:31]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:32]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:52:36]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:52:36]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:52:36]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:52:36]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:52:36]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:52:36]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:52:39]
+  kynlan4ic: Jamey Castro, займись ремонтом поврежденных систем!
+[02/16/2023 15:52:40]
+  Jamey Castro: Принято.
+[02/16/2023 15:52:42]
+  kynlan4ic: Jan Moran, отремонтируй механические приборы!
+[02/16/2023 15:52:43]
+  Jan Moran: Так точно!
+[02/16/2023 15:52:44]
+  kynlan4ic: Fritz Moses, займись электроприборами!
+[02/16/2023 15:52:45]
+  Fritz Moses: Вас понял!
+[02/16/2023 15:52:54]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 264)
+[02/16/2023 15:52:59]
+  Супостат499 adjusted reactor settings: Temperature: 7366, Fission rate: 81, Turbine output: 94, Autotemp OFF
+[02/16/2023 15:53:00]
+  Супостат499 adjusted reactor settings: Temperature: 8499, Fission rate: 82, Turbine output: 94, Autotemp OFF
+[02/16/2023 15:53:00]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:53:00]
+  Amee Rivera: Огонь!
+[02/16/2023 15:53:00]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:53:01]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:53:01]
+  Супостат499 adjusted reactor settings: Temperature: 9499, Fission rate: 67, Turbine output: 94, Autotemp OFF
+[02/16/2023 15:53:01]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:53:01]
+  Amee Rivera launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:53:02]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 94, Autotemp OFF
+[02/16/2023 15:53:03]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 52, Autotemp OFF
+[02/16/2023 15:53:04]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 72, Autotemp OFF
+[02/16/2023 15:53:05]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 71, Autotemp OFF
+[02/16/2023 15:53:06]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 74, Autotemp OFF
+[02/16/2023 15:53:07]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 83, Autotemp OFF
+[02/16/2023 15:53:08]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 96, Autotemp OFF
+[02/16/2023 15:53:09]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 100, Autotemp OFF
+[02/16/2023 15:53:10]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 90, Autotemp OFF
+[02/16/2023 15:53:11]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 76, Autotemp OFF
+[02/16/2023 15:53:12]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 87, Autotemp OFF
+[02/16/2023 15:53:13]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 87, Autotemp OFF
+[02/16/2023 15:53:14]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 96, Autotemp OFF
+[02/16/2023 15:53:15]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 66, Turbine output: 95, Autotemp OFF
+[02/16/2023 15:53:16]
+  Супостат499 adjusted reactor settings: Temperature: 10000, Fission rate: 46, Turbine output: 95, Autotemp OFF
+[02/16/2023 15:53:17]
+  Супостат499 adjusted reactor settings: Temperature: 9066, Fission rate: 43, Turbine output: 95, Autotemp OFF
+[02/16/2023 15:53:18]
+  Супостат499 adjusted reactor settings: Temperature: 8566, Fission rate: 100, Turbine output: 95, Autotemp OFF
+[02/16/2023 15:53:19]
+  Супостат499 adjusted reactor settings: Temperature: 9566, Fission rate: 100, Turbine output: 95, Autotemp OFF
+[02/16/2023 15:53:22]
+  Супостат499 equipped Огнетушитель
+[02/16/2023 15:53:22]
+  Супостат499 picked up Огнетушитель
+[02/16/2023 15:53:25]
+  Jamey Castro: Надо найти огнетушитель!
+[02/16/2023 15:53:27]
+  Azul Carroll: Пытаюсь найти огнетушитель!
+[02/16/2023 15:53:28]
+  Jamey Castro equipped Огнетушитель
+[02/16/2023 15:53:29]
+  Edison Ordway: Мне нужен огнетушитель!
+[02/16/2023 15:53:29]
+  Alexia Petersen: Надо найти огнетушитель!
+[02/16/2023 15:53:30]
+  Everette Lozano: Надо найти огнетушитель!
+[02/16/2023 15:53:31]
+  Fritz Moses: Пытаюсь найти огнетушитель!
+[02/16/2023 15:53:35]
+  Keith Vazquez: Супостат499 проходит лечение здесь: реакторный отсек!
+[02/16/2023 15:53:36]
+  kynlan4ic: Jan Moran, туши огонь!
+[02/16/2023 15:53:37]
+  Jan Moran: Принято.
+[02/16/2023 15:53:46]
+  Keith Vazquez: Супостат499 нуждается в помощи! Срочно требуется бинт!
+[02/16/2023 15:53:49]
+  Jan Moran: Не могу найти огнетушители!
+[02/16/2023 15:53:50]
+  Jan Moran: Пытаюсь найти огнетушитель!
+[02/16/2023 15:53:58]
+  Keith Vazquez equipped Морфин
+[02/16/2023 15:53:59]
+  Alexia Petersen: Надо найти водолазный скафандр!
+[02/16/2023 15:54:02]
+  Jamey Castro: Мне нужен огнетушитель!
+[02/16/2023 15:54:04]
+  Keith Vazquez equipped Бинт
+[02/16/2023 15:54:05]
+  kynlan4ic: Azul Carroll, встань за орудия!
+[02/16/2023 15:54:06]
+  Azul Carroll: Вас понял!
+[02/16/2023 15:54:07]
+  Keith Vazquez equipped Бинт
+[02/16/2023 15:54:09]
+  Супостат499 removed Топливный стержень from Ядерный реактор (ID: 264)
+[02/16/2023 15:54:12]
+  Keith Vazquez equipped Бинт
+[02/16/2023 15:54:17]
+  Everette Lozano equipped Топливный стержень
+[02/16/2023 15:54:20]
+  Keith Vazquez equipped Бинт
+[02/16/2023 15:54:21]
+  Roland Breeki: Неизвестная цель обнаружена!
+[02/16/2023 15:54:22]
+  Roland Breeki: Огонь!
+[02/16/2023 15:54:22]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 15:54:23]
+  kynlan4ic picked up Подводный скутер
+[02/16/2023 15:54:24]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 15:54:25]
+  Keith Vazquez: Супостат499 чувствует себя хорошо!
+[02/16/2023 15:54:25]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 15:54:27]
+  Супостат499 dropped Огнетушитель
+[02/16/2023 15:54:27]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 15:54:29]
+  Jan Moran started repairing Дверь с кнопками
+[02/16/2023 15:54:31]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 15:54:31]
+  Keith Vazquez equipped Огнетушитель
+[02/16/2023 15:54:31]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 15:54:32]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 15:54:32]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 15:54:33]
+  Jamey Castro started repairing Дверь с кнопками
+[02/16/2023 15:54:33]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 15:54:41]
+  Супостат499 equipped Сварочный аппарат
+[02/16/2023 15:54:42]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 15:54:43]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 15:54:43]
+  Супостат499 dropped Топливный бак сварочного аппарата
+[02/16/2023 15:54:43]
+  Супостат499 placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3396)
+[02/16/2023 15:54:45]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 15:54:45]
+  Hammerheadgold has died (Cause of death: Повреждение глубоких тканей)
+[02/16/2023 15:54:45]
+  Roland Breeki: Враг уничтожен!
+[02/16/2023 15:54:45]
+  Amee Rivera: Цель уничтожена!
+[02/16/2023 15:54:46]
+  Супостат499 dropped Топливный бак сварочного аппарата
+[02/16/2023 15:54:51]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 15:54:51]
+  Jan Moran: Мне нужно подводное снаряжение!
+[02/16/2023 15:54:51]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 15:54:51]
+  Jamey Castro: Надо найти водолазный скафандр!
+[02/16/2023 15:54:52]
+  Keith Vazquez equipped Топливный бак сварочного аппарата
+[02/16/2023 15:54:56]
+  Azul Carroll: Стреляю!
+[02/16/2023 15:54:56]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:54:56]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:54:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:54:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:54:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:54:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:54:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:00]
+  Roland Breeki: Неизвестная цель обнаружена!
+[02/16/2023 15:55:02]
+  Roland Breeki: Стреляю!
+[02/16/2023 15:55:02]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 15:55:02]
+  Roland Breeki: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[02/16/2023 15:55:04]
+  Roland Breeki equipped Снаряд рельсотрона
+[02/16/2023 15:55:08]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:08]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:09]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:09]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:10]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:10]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:11]
+  Jamey Castro started repairing Настраиваемый люк
+[02/16/2023 15:55:13]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 15:55:13]
+  Hammerhead has died (Cause of death: Повреждение глубоких тканей)
+[02/16/2023 15:55:13]
+  Amee Rivera: Враг уничтожен!
+[02/16/2023 15:55:14]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:55:15]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:55:16]
+  Roland Breeki equipped Снаряд рельсотрона
+[02/16/2023 15:55:16]
+  Fritz Moses started repairing Батарея
+[02/16/2023 15:55:18]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 15:55:20]
+  Everette Lozano: Надо найти водолазный скафандр!
+[02/16/2023 15:55:20]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 15:55:20]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 15:55:20]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 15:55:20]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 15:55:20]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:55:20]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:21]
+  Fritz Moses: Мне нужно подводное снаряжение!
+[02/16/2023 15:55:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:22]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:22]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:22]
+  Супостат499 picked up Подводная маска
+[02/16/2023 15:55:22]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:24]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 15:55:26]
+  Azul Carroll: Стреляю!
+[02/16/2023 15:55:26]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:26]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:55:26]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:26]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 15:55:26]
+  Jan Moran equipped Отвертка
+[02/16/2023 15:55:26]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:27]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:27]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:27]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:27]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:28]
+  Супостат499 picked up Сигнальный огонь
+[02/16/2023 15:55:28]
+  Супостат499 picked up Сигнальный огонь
+[02/16/2023 15:55:28]
+  Супостат499 picked up Сигнальный огонь
+[02/16/2023 15:55:28]
+  Супостат499 picked up Сигнальный огонь
+[02/16/2023 15:55:28]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:28]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:29]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 15:55:29]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:55:32]
+  Супостат499 placed Топливный бак сварочного аппарата in Средний стальной шкаф с окном (ID: 785)
+[02/16/2023 15:55:34]
+  Jan Moran started repairing Батарея
+[02/16/2023 15:55:35]
+  Jan Moran unequipped Отвертка
+[02/16/2023 15:55:35]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 15:55:36]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:36]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:37]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:37]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:55:37]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 15:55:37]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:37]
+  Everette Lozano started repairing Батарея
+[02/16/2023 15:55:37]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 15:55:37]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:55:37]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:37]
+  Jamey Castro started repairing Батарея
+[02/16/2023 15:55:37]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:38]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:38]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:39]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:39]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 15:55:39]
+  Jan Moran equipped Отвертка
+[02/16/2023 15:55:39]
+  Everette Lozano started repairing Батарея
+[02/16/2023 15:55:39]
+  Jamey Castro started repairing Батарея
+[02/16/2023 15:55:39]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:43]
+  Alexia Petersen equipped Водолазный скафандр
+[02/16/2023 15:55:45]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:46]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:46]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:46]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:47]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:48]
+  Супостат499 picked up Водолазный скафандр
+[02/16/2023 15:55:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:48]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:48]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:48]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:49]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:49]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:49]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/16/2023 15:55:50]
+  Супостат499 dropped Водолазный скафандр
+[02/16/2023 15:55:52]
+  Fritz Moses started repairing Батарея
+[02/16/2023 15:55:53]
+  Супостат499 picked up Водолазный скафандр
+[02/16/2023 15:55:53]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/16/2023 15:55:54]
+  Jamey Castro started repairing Батарея
+[02/16/2023 15:55:55]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/16/2023 15:55:57]
+  Everette Lozano started repairing Батарея
+[02/16/2023 15:55:57]
+  Azul Carroll: Огонь!
+[02/16/2023 15:55:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:58]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[02/16/2023 15:55:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 15:55:58]
+  Azul Carroll: И-и-и-и... Готово!
+[02/16/2023 15:56:00]
+  Супостат499 equipped Водолазный скафандр
+[02/16/2023 15:56:01]
+  kynlan4ic: Azul Carroll, положи все на свои места!
+[02/16/2023 15:56:02]
+  Azul Carroll: Слушаюсь!
+[02/16/2023 15:56:03]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 15:56:07]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:56:08]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:56:09]
+  Azul Carroll equipped Водолазный скафандр
+[02/16/2023 15:56:15]
+  Alexia Petersen equipped Водолазный скафандр
+[02/16/2023 15:56:15]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:56:15]
+  Fritz Moses equipped Водолазный скафандр
+[02/16/2023 15:56:21]
+  kynlan4ic picked up Водолазный скафандр
+[02/16/2023 15:56:22]
+  kynlan4ic equipped Водолазный скафандр
+[02/16/2023 15:56:25]
+  kynlan4ic dropped Водолазный скафандр
+[02/16/2023 15:56:28]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:56:28]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:56:28]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:56:29]
+  Everette Lozano started repairing Суперконденсатор
+[02/16/2023 15:56:33]
+  Everette Lozano started repairing Батарея
+[02/16/2023 15:56:37]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:56:37]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:56:38]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:56:39]
+  Azul Carroll equipped Ядерный снаряд
+[02/16/2023 15:56:44]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:56:44]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:56:45]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 15:56:45]
+  Everette Lozano failed to repair Кабельная коробка
+[02/16/2023 15:56:48]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:56:50]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:56:54]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:56:54]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:56:54]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:56:57]
+  Azul Carroll equipped Ядерный снаряд
+[02/16/2023 15:56:58]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 15:57:00]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 15:57:00]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:57:01]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:57:06]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:57:14]
+  Console command "spawnitem shotgun
+ cursor" executed by kynlan4ic.
+[02/16/2023 15:57:14]
+  Azul Carroll equipped Ядерный снаряд
+[02/16/2023 15:57:20]
+  Супостат499 dropped Водолазный скафандр
+[02/16/2023 15:57:22]
+  Супостат499 equipped Ядерный снаряд
+[02/16/2023 15:57:25]
+  Console command "spawnitem shotgun cursor" executed by kynlan4ic.
+[02/16/2023 15:57:29]
+  Супостат499 dropped Ядерный снаряд
+[02/16/2023 15:57:30]
+  kynlan4ic equipped Ядерный снаряд
+[02/16/2023 15:57:32]
+  kynlan4ic dropped Ядерный снаряд
+[02/16/2023 15:57:32]
+  Azul Carroll equipped Ядерный снаряд
+[02/16/2023 15:57:37]
+  Супостат499 picked up Водолазный скафандр
+[02/16/2023 15:57:45]
+  kynlan4ic picked up Водолазный скафандр
+[02/16/2023 15:57:50]
+  Azul Carroll equipped Ядерный снаряд
+[02/16/2023 15:57:51]
+  kynlan4ic picked up Фонарик
+[02/16/2023 15:57:52]
+  kynlan4ic picked up Ручной сонар
+[02/16/2023 15:57:53]
+  kynlan4ic picked up Плазменный резак
+[02/16/2023 15:57:57]
+  kynlan4ic placed Фонарик in Большой стальной шкаф (ID: 401)
+[02/16/2023 15:57:57]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 401)
+[02/16/2023 15:57:58]
+  kynlan4ic placed Ручной сонар in Большой стальной шкаф (ID: 401)
+[02/16/2023 15:58:03]
+  Edison Ordway equipped Водолазный скафандр
+[02/16/2023 15:58:07]
+  kynlan4ic dropped Водолазный скафандр
+[02/16/2023 15:58:09]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:58:09]
+  Jan Moran failed to repair Кабельная коробка
+[02/16/2023 15:58:09]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:58:09]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:58:10]
+  Jamey Castro failed to repair Кабельная коробка
+[02/16/2023 15:58:10]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 15:58:11]
+  kynlan4ic: Azul Carroll, положи все на свои места!
+[02/16/2023 15:58:12]
+  Azul Carroll: Так точно!
+[02/16/2023 15:58:13]
+  Jan Moran: Надо найти водолазный скафандр!
+[02/16/2023 15:58:14]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:58:14]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:58:15]
+  Jamey Castro: Надо найти водолазный скафандр!
+[02/16/2023 15:58:16]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:58:16]
+  Azul Carroll equipped Водолазный скафандр
+[02/16/2023 15:58:18]
+  kynlan4ic: Azul Carroll, убери все, что валяется вокруг!
+[02/16/2023 15:58:18]
+  Супостат499 dropped Подводная маска
+[02/16/2023 15:58:18]
+  Fritz Moses failed to repair Кабельная коробка
+[02/16/2023 15:58:19]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:58:19]
+  Azul Carroll: Само собой!
+[02/16/2023 15:58:20]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 15:58:20]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:58:21]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 15:58:21]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:58:21]
+  Jan Moran unequipped Отвертка
+[02/16/2023 15:58:21]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 15:58:22]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 15:58:22]
+  Jan Moran equipped Отвертка
+[02/16/2023 15:58:23]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 15:58:25]
+  Everette Lozano failed to repair Кабельная коробка
+[02/16/2023 15:58:25]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 15:58:26]
+  Супостат499 picked up Лом
+[02/16/2023 15:58:26]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:58:27]
+  kynlan4ic equipped Ядерный снаряд
+[02/16/2023 15:58:28]
+  kynlan4ic dropped Ядерный снаряд
+[02/16/2023 15:58:30]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:58:34]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:58:44]
+  Супостат499 picked up Подводная маска
+[02/16/2023 15:58:47]
+  Супостат499 dropped Подводная маска
+[02/16/2023 15:59:00]
+  Супостат499 picked up Топливный стержень
+[02/16/2023 15:59:02]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 264)
+[02/16/2023 15:59:14]
+  Azul Carroll equipped Ядерный снаряд
+[02/16/2023 15:59:15]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/16/2023 15:59:18]
+  Супостат499 dropped Топливный стержень
+[02/16/2023 15:59:22]
+  Alexia Petersen equipped Топливный стержень
+[02/16/2023 15:59:25]
+  Игрок Дядя Богдан присоединился к серверу.
+[02/16/2023 15:59:25]
+  Saving client permissions
+[02/16/2023 15:59:36]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:59:36]
+  Everette Lozano equipped Отвертка
+[02/16/2023 15:59:37]
+  Fritz Moses equipped Отвертка
+[02/16/2023 15:59:38]
+  Jan Moran failed to repair Кабельная коробка
+[02/16/2023 15:59:38]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 15:59:40]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 15:59:40]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 15:59:41]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 15:59:41]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:59:43]
+  Jamey Castro equipped Отвертка
+[02/16/2023 15:59:43]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 15:59:44]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 15:59:52]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 15:59:56]
+  kynlan4ic picked up Топливный стержень
+[02/16/2023 15:59:57]
+  kynlan4ic placed Грозовиевый топливный стержень in Ядерный реактор (ID: 264)
+[02/16/2023 15:59:59]
+  kynlan4ic placed Топливный стержень in Большой стальной шкаф (ID: 304)
+[02/16/2023 16:00:24]
+  Супостат499 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 1657)
+[02/16/2023 16:00:27]
+  Everette Lozano equipped Отвертка
+[02/16/2023 16:00:28]
+  Everette Lozano started repairing Ядерный реактор
+[02/16/2023 16:00:28]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 16:00:46]
+  Fritz Moses equipped Отвертка
+[02/16/2023 16:00:46]
+  Everette Lozano equipped Отвертка
+[02/16/2023 16:00:47]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:00:54]
+  Dispatching the respawn shuttle.
+[02/16/2023 16:00:54]
+  Respawning Дядя Богдан (STEAM_1:0:541756140) as Механик
+[02/16/2023 16:00:55]
+  Jamey Castro failed to repair Батарея
+[02/16/2023 16:00:56]
+  Дядя Богдан set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 16:00:57]
+  Jan Moran failed to repair Батарея
+[02/16/2023 16:00:57]
+  Everette Lozano started repairing Батарея
+[02/16/2023 16:00:58]
+  Fritz Moses started repairing Батарея
+[02/16/2023 16:01:00]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:01:01]
+  Everette Lozano started repairing Батарея
+[02/16/2023 16:01:01]
+  Roland Breeki: Прицел на ледяной шпиль!
+[02/16/2023 16:01:02]
+  Roland Breeki: Огонь!
+[02/16/2023 16:01:02]
+  Roland Breeki launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/16/2023 16:01:03]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 16:01:09]
+  Дядя Богдан picked up Кислородный баллон
+[02/16/2023 16:01:10]
+  Дядя Богдан picked up Кислородный баллон
+[02/16/2023 16:01:10]
+  Дядя Богдан picked up Кислородный баллон
+[02/16/2023 16:01:11]
+  Keith Vazquez: Jan Moran получает первую помощь здесь: дрон!
+[02/16/2023 16:01:12]
+  Keith Vazquez: Jan Moran нуждается в помощи! Срочно требуется морфин, опиум или бинт!
+[02/16/2023 16:01:15]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 16:01:17]
+  Keith Vazquez: Jan Moran в полном порядке!
+[02/16/2023 16:01:19]
+  Дядя Богдан picked up Одноразовый водолазный скафандр
+[02/16/2023 16:01:20]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:01:20]
+  Everette Lozano equipped Отвертка
+[02/16/2023 16:01:21]
+  Jamey Castro started repairing Батарея
+[02/16/2023 16:01:21]
+  Fritz Moses equipped Отвертка
+[02/16/2023 16:01:24]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:01:24]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:01:29]
+  Jan Moran started repairing Навигационный терминал челнока
+[02/16/2023 16:01:30]
+  Everette Lozano started repairing Навигационный терминал челнока
+[02/16/2023 16:01:33]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:01:35]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:01:36]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:01:37]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 16:01:38]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:01:38]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:01:38]
+  Fritz Moses equipped Отвертка
+[02/16/2023 16:01:40]
+  Jan Moran failed to repair Кабельная коробка
+[02/16/2023 16:01:40]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:01:42]
+  Azul Carroll: У меня новая цель! Не могу понять, что это такое...
+[02/16/2023 16:01:43]
+  Jamey Castro failed to repair Кабельная коробка
+[02/16/2023 16:01:43]
+  Azul Carroll: Огонь!
+[02/16/2023 16:01:43]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:44]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:01:44]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:44]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:45]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:45]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:46]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:46]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:48]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:01:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:48]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:01:48]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:01:49]
+  Keith Vazquez equipped Морфин
+[02/16/2023 16:01:49]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:01:49]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 16:01:49]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:49]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:01:50]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:50]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:01:51]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:52]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:52]
+  Супостат499 picked up Фуражка ветерана
+[02/16/2023 16:01:53]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:53]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:54]
+  Jamey Castro failed to repair Батарея
+[02/16/2023 16:01:54]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:54]
+  Fritz Moses failed to repair Батарея
+[02/16/2023 16:01:55]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:55]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:55]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:56]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:56]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:57]
+  Everette Lozano started repairing Батарея
+[02/16/2023 16:01:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:57]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:58]
+  Roland Breeki: Огонь!
+[02/16/2023 16:01:58]
+  Roland Breeki launched Рельсотрон (projectile: Ядерный снаряд)
+[02/16/2023 16:01:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:58]
+  Keith Vazquez equipped Бинт
+[02/16/2023 16:01:58]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:59]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:59]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:01:59]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:01]
+  Супостат499 picked up Этанол
+[02/16/2023 16:02:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:03]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:03]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:03]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:04]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:04]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:04]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:05]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:05]
+  The respawn shuttle is leaving.
+[02/16/2023 16:02:05]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:05]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:05]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:05]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:02:05]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 16:02:06]
+  Jamey Castro: Кабельная коробка не поддается починке!
+[02/16/2023 16:02:06]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:06]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:06]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:06]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:07]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:07]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:07]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:07]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:08]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:02:08]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:08]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:08]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:08]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:02:08]
+  Jan Moran: Кабельная коробка не поддается починке!
+[02/16/2023 16:02:09]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:09]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:09]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:09]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:09]
+  Roland Breeki launched Рельсотрон (projectile: Ядерный снаряд)
+[02/16/2023 16:02:10]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:10]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:02:10]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:10]
+  Jamey Castro started repairing Монитор состояния
+[02/16/2023 16:02:10]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:10]
+  Jan Moran failed to repair Кабельная коробка
+[02/16/2023 16:02:10]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:11]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:11]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:11]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:11]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:12]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:12]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:12]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:13]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:13]
+  Keith Vazquez: kynlan4ic чувствует себя хорошо!
+[02/16/2023 16:02:13]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:13]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:13]
+  Azul Carroll: Огонь!
+[02/16/2023 16:02:13]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:14]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:14]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:14]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:14]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:15]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:15]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:15]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:15]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:16]
+  Jan Moran unequipped Отвертка
+[02/16/2023 16:02:16]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 16:02:16]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:16]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:16]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:17]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:17]
+  Keith Vazquez: Jan Moran проходит лечение здесь: верхняя средняя часть!
+[02/16/2023 16:02:17]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:17]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:02:17]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:17]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:18]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:18]
+  Keith Vazquez: Мне требуется морфин, опиум или бинт!
+[02/16/2023 16:02:18]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:18]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:19]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:19]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:19]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:19]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:19]
+  Roland Breeki launched Рельсотрон (projectile: Ядерный снаряд)
+[02/16/2023 16:02:20]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:20]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:20]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:20]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:21]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:22]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:02:22]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 16:02:22]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:22]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:22]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:23]
+  Jamey Castro failed to repair Малый насос
+[02/16/2023 16:02:23]
+  Jamey Castro started repairing Малый насос
+[02/16/2023 16:02:23]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:24]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:02:24]
+  Molochblack_m has died (Cause of death: Повреждение глубоких тканей)
+[02/16/2023 16:02:24]
+  Информация о миссии: Цель уничтожена - Молох убит. Выведите подлодку из пещеры, чтобы получить награду.
+[02/16/2023 16:02:24]
+  Azul Carroll: И-и-и-и... Готово!
+[02/16/2023 16:02:24]
+  Roland Breeki: Цель уничтожена!
+[02/16/2023 16:02:24]
+  Amee Rivera: Кажется, есть попадание!
+[02/16/2023 16:02:28]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:02:30]
+  Everette Lozano started repairing Навигационный терминал челнока
+[02/16/2023 16:02:31]
+  Jan Moran started repairing Медицинский фабрикатор
+[02/16/2023 16:02:36]
+  The respawn shuttle has left.
+[02/16/2023 16:02:38]
+  Супостат499 started fabricating Топливный бак сварочного аппарата (переработка) in Фабрикатор
+[02/16/2023 16:02:38]
+  Jan Moran started repairing Малый насос
+[02/16/2023 16:02:38]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:02:39]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 16:02:39]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:02:39]
+  Jamey Castro started repairing Навигационный терминал
+[02/16/2023 16:02:47]
+  Everette Lozano started repairing Монитор состояния
+[02/16/2023 16:02:47]
+  Jan Moran started repairing Малый насос
+[02/16/2023 16:02:48]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:02:48]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 16:02:49]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:02:49]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 16:02:53]
+  Jamey Castro started repairing Медицинский фабрикатор
+[02/16/2023 16:02:58]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:03:02]
+  Jan Moran started repairing Малый насос
+[02/16/2023 16:03:02]
+  Everette Lozano started repairing Навигационный терминал
+[02/16/2023 16:03:07]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:03:07]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 16:03:07]
+  Jan Moran equipped Отвертка
+[02/16/2023 16:03:10]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 16:03:10]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:03:10]
+  Jan Moran unequipped Отвертка
+[02/16/2023 16:03:10]
+  Jan Moran equipped Отвертка
+[02/16/2023 16:03:12]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 16:03:13]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:03:14]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:03:15]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:03:17]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:03:18]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 16:03:18]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:03:23]
+  Jan Moran started repairing Кабельная коробка
+[02/16/2023 16:03:24]
+  Jamey Castro started repairing Кабельная коробка
+[02/16/2023 16:03:26]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:03:27]
+  Jamey Castro started repairing Суперконденсатор
+[02/16/2023 16:03:28]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:03:29]
+  Everette Lozano started repairing Суперконденсатор
+[02/16/2023 16:03:31]
+  Дядя Богдан dropped Одноразовый водолазный скафандр
+[02/16/2023 16:03:31]
+  Fritz Moses started repairing Кабельная коробка
+[02/16/2023 16:03:31]
+  Jan Moran started repairing Батарея
+[02/16/2023 16:03:33]
+  Супостат499 picked up Этанол
+[02/16/2023 16:03:33]
+  Супостат499 picked up Этанол
+[02/16/2023 16:03:37]
+  Fritz Moses started repairing Суперконденсатор
+[02/16/2023 16:03:39]
+  Alexia Petersen: Господи.
+[02/16/2023 16:03:43]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 16:03:43]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:03:56]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 16:03:59]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:03:59]
+  Everette Lozano equipped Отвертка
+[02/16/2023 16:03:59]
+  Fritz Moses equipped Отвертка
+[02/16/2023 16:04:00]
+  Jamey Castro started repairing Батарея
+[02/16/2023 16:04:00]
+  Fritz Moses started repairing Батарея
+[02/16/2023 16:04:00]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:04:03]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 16:04:05]
+  Дядя Богдан picked up Одноразовый водолазный скафандр
+[02/16/2023 16:04:09]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 16:04:11]
+  Дядя Богдан dropped Одноразовый водолазный скафандр
+[02/16/2023 16:04:13]
+  Дядя Богдан picked up Одноразовый водолазный скафандр
+[02/16/2023 16:04:14]
+  Дядя Богдан dropped Одноразовый водолазный скафандр
+[02/16/2023 16:04:23]
+  Супостат499 started fabricating Топливный бак сварочного аппарата (переработка) in Фабрикатор
+[02/16/2023 16:04:27]
+  Супостат499 cancelled the fabrication of Топливный бак сварочного аппарата (переработка) in Фабрикатор
+[02/16/2023 16:04:27]
+  Дядя Богдан equipped Гаечный ключ
+[02/16/2023 16:04:27]
+  Дядя Богдан equipped Отвертка
+[02/16/2023 16:04:28]
+  Супостат499 started fabricating Топливный бак сварочного аппарата (переработка) in Фабрикатор
+[02/16/2023 16:04:31]
+  Roland Breeki: Неизвестная цель обнаружена!
+[02/16/2023 16:04:31]
+  Roland Breeki: Стреляю!
+[02/16/2023 16:04:31]
+  Roland Breeki launched Рельсотрон (projectile: Ядерный снаряд)
+[02/16/2023 16:04:31]
+  Roland Breeki: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[02/16/2023 16:04:31]
+  Crawlerbroodmother has died (Cause of death: Повреждение глубоких тканей)
+[02/16/2023 16:04:31]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[02/16/2023 16:04:33]
+  Fritz Moses equipped Отвертка
+[02/16/2023 16:04:33]
+  Супостат499 started fabricating Топливный бак сварочного аппарата (переработка) in Фабрикатор
+[02/16/2023 16:04:33]
+  Roland Breeki equipped Ядерный снаряд
+[02/16/2023 16:04:34]
+  Everette Lozano equipped Отвертка
+[02/16/2023 16:04:34]
+  Jamey Castro equipped Гаечный ключ
+[02/16/2023 16:04:34]
+  Jan Moran unequipped Отвертка
+[02/16/2023 16:04:34]
+  Jan Moran equipped Гаечный ключ
+[02/16/2023 16:04:37]
+  Roland Breeki launched Рельсотрон (projectile: Ядерный снаряд)
+[02/16/2023 16:04:37]
+  Azul Carroll: Стреляю!
+[02/16/2023 16:04:37]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:38]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:38]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:38]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:38]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:39]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:39]
+  Crawler has died (Cause of death: Unknown)
+[02/16/2023 16:04:39]
+  Azul Carroll: Кажется, есть попадание!
+[02/16/2023 16:04:39]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 16:04:39]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 16:04:39]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:39]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:04:39]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:39]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:40]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:40]
+  Roland Breeki equipped Снаряд рельсотрона
+[02/16/2023 16:04:40]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:40]
+  Keith Vazquez: Jamey Castro проходит лечение здесь: центральный проход!
+[02/16/2023 16:04:40]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:41]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:41]
+  Keith Vazquez equipped Морфин
+[02/16/2023 16:04:41]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:41]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:41]
+  Keith Vazquez: Мне требуется антирад, стабилоцин, морфин или опиум!
+[02/16/2023 16:04:41]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:42]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:42]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:42]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:42]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:43]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:43]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:43]
+  Azul Carroll: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[02/16/2023 16:04:43]
+  Fritz Moses started repairing Навигационный терминал
+[02/16/2023 16:04:44]
+  Azul Carroll equipped Ящик с боеприпасами для магнитной пушки
+[02/16/2023 16:04:44]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:44]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:44]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:45]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:45]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:45]
+  Jan Moran started repairing Малый насос
+[02/16/2023 16:04:45]
+  Jamey Castro started repairing Малый насос
+[02/16/2023 16:04:45]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:45]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:04:45]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:47]
+  Jan Moran unequipped Гаечный ключ
+[02/16/2023 16:04:47]
+  Jan Moran equipped Отвертка
+[02/16/2023 16:04:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:47]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:48]
+  Crawler has died (Cause of death: Рваная рана)
+[02/16/2023 16:04:48]
+  Azul Carroll: И-и-и-и... Готово!
+[02/16/2023 16:04:48]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:49]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:50]
+  Jamey Castro unequipped Гаечный ключ
+[02/16/2023 16:04:50]
+  Jamey Castro equipped Отвертка
+[02/16/2023 16:04:50]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:50]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:50]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:51]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:51]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:51]
+  Edison Ordway: Jamey Castro проходит лечение здесь: пункт управления!
+[02/16/2023 16:04:51]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:51]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:04:53]
+  Keith Vazquez: Azul Carroll в полном порядке!
+[02/16/2023 16:04:53]
+  Edison Ordway: Azul Carroll чувствует себя хорошо!
+[02/16/2023 16:04:54]
+  Edison Ordway: Jamey Castro нуждается в помощи! Срочно требуется антирад, стабилоцин или бинт!
+[02/16/2023 16:04:54]
+  Everette Lozano started repairing Кабельная коробка
+[02/16/2023 16:04:55]
+  Keith Vazquez equipped Бинт
+[02/16/2023 16:04:57]
+  Crawler has died (Cause of death: Ожог)
+[02/16/2023 16:04:58]
+  Jamey Castro unequipped Отвертка
+[02/16/2023 16:04:58]
+  Fritz Moses unequipped Отвертка
+[02/16/2023 16:04:59]
+  Everette Lozano unequipped Отвертка
+[02/16/2023 16:04:59]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:00]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:00]
+  Edison Ordway equipped Антирад
+[02/16/2023 16:05:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:01]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:01]
+  Crawler has died (Cause of death: Рваная рана)
+[02/16/2023 16:05:01]
+  Azul Carroll: Враг уничтожен!
+[02/16/2023 16:05:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:02]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:03]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:03]
+  Crawler has died (Cause of death: Рваная рана)
+[02/16/2023 16:05:03]
+  Azul Carroll: Кажется, есть попадание!
+[02/16/2023 16:05:03]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:05]
+  Keith Vazquez equipped Морфин
+[02/16/2023 16:05:05]
+  Edison Ordway: kynlan4ic чувствует себя хорошо!
+[02/16/2023 16:05:05]
+  Keith Vazquez: kynlan4ic в полном порядке!
+[02/16/2023 16:05:08]
+  Azul Carroll: Огонь!
+[02/16/2023 16:05:08]
+  Azul Carroll launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 16:05:08]
+  Crawler has died (Cause of death: Ожог)

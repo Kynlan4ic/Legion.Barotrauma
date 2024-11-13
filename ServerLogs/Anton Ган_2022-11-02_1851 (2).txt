@@ -1,0 +1,1600 @@
+﻿[11/02/2022 18:41:46]
+  Saving client permissions
+[11/02/2022 18:41:46]
+  Saving client permissions
+[11/02/2022 18:41:55]
+  Игрок igameCrog присоединился к серверу.
+[11/02/2022 18:41:55]
+  Saving client permissions
+[11/02/2022 18:42:06]
+  Gamemode changed to PvP
+[11/02/2022 18:42:38]
+  Игрок ЖмЫхНуТыЙ кЭт присоединился к серверу.
+[11/02/2022 18:42:38]
+  Saving client permissions
+[11/02/2022 18:42:41]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManageMoney
+[11/02/2022 18:42:41]
+  Saving client permissions
+[11/02/2022 18:42:53]
+  Client "kynlan4ic" set the permissions of the client "igameCrog" to ManageRound, Kick, Ban, Unban, SelectSub, SelectMode, ManageCampaign, ConsoleCommands, ServerLog, ManageSettings, ManagePermissions, KarmaImmunity, ManageMoney, SellInventoryItems, SellSubItems, ManageMap, ManageHires
+[11/02/2022 18:42:53]
+  Saving client permissions
+[11/02/2022 18:43:25]
+  Игрок рок присоединился к серверу.
+[11/02/2022 18:43:25]
+  Saving client permissions
+[11/02/2022 18:43:27]
+  рок is ready to start the game.
+[11/02/2022 18:43:28]
+  рок is not ready to start the game.
+[11/02/2022 18:44:12]
+  рок is ready to start the game.
+[11/02/2022 18:44:20]
+  kynlan4ic is ready to start the game.
+[11/02/2022 18:44:28]
+  Client "igameCrog" started the round.
+[11/02/2022 18:44:28]
+  Starting a new round...
+[11/02/2022 18:44:41]
+  Миссия: Найти и уничтожить
+[11/02/2022 18:44:41]
+  Судну коалиции, покинувшему точку «Центр Set», приказано уничтожить мятежную подлодку в районе точки «Шахта Skadi's Cauldron»,
+[11/02/2022 18:44:41]
+  Game mode: PvP
+[11/02/2022 18:44:41]
+  Submarine: Sardine
+[11/02/2022 18:44:41]
+  Level seed: xUc3S1qZ
+[11/02/2022 18:44:41]
+  Mission: Найти и уничтожить
+[11/02/2022 18:44:41]
+  Round started.
+[11/02/2022 18:44:43]
+  Burl Kinney: Ну что, ребята, прокатимся!
+[11/02/2022 18:44:44]
+  Joyce Smith: Загружаю в реактор дополнительное топливо!
+[11/02/2022 18:44:46]
+  Todd Mansfield: Загружаю в реактор дополнительное топливо!
+[11/02/2022 18:44:46]
+  Joshua Clements: Загружаю в реактор дополнительное топливо!
+[11/02/2022 18:44:46]
+  Joyce Smith equipped Топливный стержень
+[11/02/2022 18:44:47]
+  Stefany Riddle: Загружаю в реактор дополнительное топливо!
+[11/02/2022 18:44:47]
+  Simon Petersen: Загружаю в реактор дополнительное топливо!
+[11/02/2022 18:44:47]
+  Todd Mansfield equipped Топливный стержень
+[11/02/2022 18:44:48]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 18:44:48]
+  Todd Mansfield unequipped Топливный стержень
+[11/02/2022 18:44:50]
+  рок set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 18:44:55]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 18:44:55]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 18:44:56]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 18:44:58]
+  ЖмЫхНуТыЙ кЭт set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 18:45:00]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 18:45:17]
+  kynlan4ic: Shelly Maxwell, займись орудиями!
+[11/02/2022 18:45:18]
+  Shelly Maxwell: Вас понял!
+[11/02/2022 18:45:21]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:45:22]
+  Shelly Maxwell equipped Снаряд рельсотрона
+[11/02/2022 18:45:33]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:45:33]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:45:34]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:45:43]
+  kynlan4ic picked up Огнемет
+[11/02/2022 18:45:44]
+  kynlan4ic picked up Пистолет-пулемет
+[11/02/2022 18:45:47]
+  рок picked up Морфин
+[11/02/2022 18:45:47]
+  рок picked up Морфин
+[11/02/2022 18:45:47]
+  рок picked up Морфин
+[11/02/2022 18:45:47]
+  рок picked up Морфин
+[11/02/2022 18:45:48]
+  kynlan4ic picked up Граната с воспламенитом
+[11/02/2022 18:45:48]
+  kynlan4ic picked up Граната с воспламенитом
+[11/02/2022 18:45:48]
+  kynlan4ic picked up Граната с воспламенитом
+[11/02/2022 18:45:49]
+  kynlan4ic picked up Пуленепробиваемый шлем
+[11/02/2022 18:45:56]
+  рок picked up Подводный скутер
+[11/02/2022 18:46:07]
+  Shelly Maxwell: Прицел на ледяной шпиль!
+[11/02/2022 18:46:07]
+  Shelly Maxwell: Стреляю!
+[11/02/2022 18:46:07]
+  Shelly Maxwell launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 18:46:07]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:46:08]
+  Shelly Maxwell equipped Снаряд рельсотрона
+[11/02/2022 18:46:12]
+  Shelly Maxwell launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 18:46:13]
+  Shelly Maxwell equipped Снаряд рельсотрона
+[11/02/2022 18:46:14]
+  рок picked up Кислородный баллон
+[11/02/2022 18:46:15]
+  рок picked up Кислородный баллон
+[11/02/2022 18:46:16]
+  рок picked up Сонарный маяк
+[11/02/2022 18:46:18]
+  рок picked up Кислородный баллон
+[11/02/2022 18:46:19]
+  рок equipped Сонарный маяк
+[11/02/2022 18:46:39]
+  рок picked up Водолазный скафандр
+[11/02/2022 18:46:45]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:45]
+  Outer wall breached by igameCrog
+[11/02/2022 18:46:46]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:48]
+  рок equipped Гаечный ключ
+[11/02/2022 18:46:48]
+  Inner wall breached by Mudraptor_unarmored
+[11/02/2022 18:46:55]
+  Outer wall breached by Mudraptor_unarmored
+[11/02/2022 18:46:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:59]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:46:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:46:59]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:00]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:00]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:01]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:01]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:01]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:02]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:02]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:02]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:02]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:47:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/02/2022 18:47:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/02/2022 18:47:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:07]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[11/02/2022 18:47:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:47:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:09]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[11/02/2022 18:47:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/02/2022 18:47:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:47:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:47:15]
+  Kip Rhymer equipped Сварочный аппарат
+[11/02/2022 18:47:18]
+  Kip Rhymer: Орудийный отсек: протечек не осталось!
+[11/02/2022 18:47:19]
+  Todd Mansfield equipped Сварочный аппарат
+[11/02/2022 18:47:19]
+  рок dropped Сонарный маяк
+[11/02/2022 18:47:20]
+  Shelly Maxwell: Новая цель: ледяной шпиль!
+[11/02/2022 18:47:20]
+  Shelly Maxwell: Огонь!
+[11/02/2022 18:47:20]
+  Shelly Maxwell launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 18:47:20]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:47:21]
+  Shelly Maxwell equipped Снаряд рельсотрона
+[11/02/2022 18:47:21]
+  Outer wall repaired by Todd Mansfield
+[11/02/2022 18:47:21]
+  Todd Mansfield: Моторный отсек: протечек не осталось!
+[11/02/2022 18:47:24]
+  Todd Mansfield unequipped Сварочный аппарат
+[11/02/2022 18:47:25]
+  Burl Kinney equipped Сонарный маяк
+[11/02/2022 18:47:27]
+  kynlan4ic: Todd Mansfield, займись поврежденными устройствами!
+[11/02/2022 18:47:28]
+  Todd Mansfield: Есть!
+[11/02/2022 18:47:30]
+  kynlan4ic: Simon Petersen, отремонтируй электросистемы!
+[11/02/2022 18:47:30]
+  Kip Rhymer unequipped Сварочный аппарат
+[11/02/2022 18:47:31]
+  Simon Petersen: Слушаюсь!
+[11/02/2022 18:47:55]
+  kynlan4ic: Todd Mansfield, встань за орудия!
+[11/02/2022 18:47:56]
+  Todd Mansfield: Вас понял!
+[11/02/2022 18:48:05]
+  kynlan4ic: Simon Petersen, займись поврежденными устройствами!
+[11/02/2022 18:48:06]
+  Simon Petersen: Само собой!
+[11/02/2022 18:48:11]
+  ЖмЫхНуТыЙ кЭт picked up Подводная маска
+[11/02/2022 18:48:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:18]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:18]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:19]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:19]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:25]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:26]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:26]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:27]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:28]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:31]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:31]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:31]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:31]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:32]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:33]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:33]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[11/02/2022 18:48:33]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:34]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:34]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:34]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:34]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:34]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:34]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:34]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:34]
+  Mudraptor attacked by igameCrog. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/02/2022 18:48:34]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:35]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:35]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:35]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:35]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:35]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:35]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:35]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:35]
+  Mudraptor attacked by igameCrog. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/02/2022 18:48:36]
+  Mudraptor attacked by igameCrog. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[11/02/2022 18:48:36]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:36]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:36]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:36]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:37]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:37]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:37]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:37]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:37]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:38]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:38]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:39]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:41]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:42]
+  Mudraptor has died (Cause of death: Рваная рана)
+[11/02/2022 18:48:42]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:42]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:42]
+  Mudraptor attacked by igameCrog. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:48:43]
+  Mudraptor attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:56]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:57]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:57]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 18:48:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:57]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[11/02/2022 18:48:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:48:58]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[11/02/2022 18:48:58]
+  Hammerheadgold attacked by igameCrog. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:49:02]
+  Shelly Maxwell: Стреляю!
+[11/02/2022 18:49:02]
+  Shelly Maxwell launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 18:49:02]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:49:03]
+  Shelly Maxwell equipped Снаряд рельсотрона
+[11/02/2022 18:49:03]
+  Shelly Maxwell: У нас осталось не так уж много снарядов рельсотрона.
+[11/02/2022 18:49:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:05]
+  Outer wall breached by igameCrog
+[11/02/2022 18:49:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:05]
+  Outer wall breached by igameCrog
+[11/02/2022 18:49:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:06]
+  Outer wall breached by igameCrog
+[11/02/2022 18:49:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:07]
+  Outer wall breached by igameCrog
+[11/02/2022 18:49:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:07]
+  Shelly Maxwell launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 18:49:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:07]
+  Outer wall breached by Shelly Maxwell
+[11/02/2022 18:49:07]
+  Inner wall breached by Shelly Maxwell
+[11/02/2022 18:49:07]
+  Outer wall breached by Shelly Maxwell
+[11/02/2022 18:49:07]
+  Outer wall breached by Shelly Maxwell
+[11/02/2022 18:49:07]
+  Outer wall breached by Shelly Maxwell
+[11/02/2022 18:49:08]
+  Shelly Maxwell equipped Снаряд рельсотрона
+[11/02/2022 18:49:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:09]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:10]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:10]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:10]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:11]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:11]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:11]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:12]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:12]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:12]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:12]
+  Inner wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:12]
+  Shelly Maxwell launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 18:49:12]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:12]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:12]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:13]
+  Outer wall breached by Shelly Maxwell
+[11/02/2022 18:49:13]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:13]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:13]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:13]
+  Shelly Maxwell: Не удалось зарядить боеприпасами: Рельсотрон!
+[11/02/2022 18:49:13]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:13]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:13]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:14]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:14]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:14]
+  Inner wall breached by Hammerheadgold
+[11/02/2022 18:49:14]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:14]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:14]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:14]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:14]
+  Inner wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:14]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:15]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:15]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:15]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:15]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:15]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:15]
+  Laurinda Gallardo: Надо найти водолазный скафандр!
+[11/02/2022 18:49:15]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:16]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:16]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:16]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:16]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:17]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:17]
+  Trudy Ashley: Мне нужно подводное снаряжение!
+[11/02/2022 18:49:17]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:17]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:17]
+  Kip Rhymer: Надо найти водолазный скафандр!
+[11/02/2022 18:49:18]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:18]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:18]
+  Stefany Riddle: Надо найти водолазный скафандр!
+[11/02/2022 18:49:18]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:18]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:19]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:19]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:19]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:19]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:20]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:20]
+  Joyce Smith: Мне нужно подводное снаряжение!
+[11/02/2022 18:49:20]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:49:20]
+  Burl Kinney: Мне нужно подводное снаряжение!
+[11/02/2022 18:49:20]
+  Jackie Mooney: Надо найти водолазный скафандр!
+[11/02/2022 18:49:21]
+  ЖмЫхНуТыЙ кЭт equipped Сварочный аппарат
+[11/02/2022 18:49:22]
+  igameCrog picked up Водолазный скафандр
+[11/02/2022 18:49:24]
+  Shelly Maxwell: Надо найти водолазный скафандр!
+[11/02/2022 18:49:24]
+  Inner wall repaired by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:49:24]
+  kynlan4ic picked up Водолазный скафандр
+[11/02/2022 18:49:26]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 18:49:26]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 18:49:26]
+  Trudy Ashley equipped Сварочный аппарат
+[11/02/2022 18:49:27]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 18:49:30]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:49:30]
+  Simon Petersen: Мне нужно подводное снаряжение!
+[11/02/2022 18:49:31]
+  Stefany Riddle equipped Сварочный аппарат
+[11/02/2022 18:49:31]
+  Outer wall repaired by Stefany Riddle
+[11/02/2022 18:49:33]
+  Outer wall repaired by Stefany Riddle
+[11/02/2022 18:49:33]
+  Stefany Riddle: Пункт управления: минус одна протечка!
+[11/02/2022 18:49:33]
+  igameCrog equipped Сварочный аппарат
+[11/02/2022 18:49:33]
+  kynlan4ic: Joshua Clements, начинай устранять протечки!
+[11/02/2022 18:49:34]
+  Outer wall repaired by Stefany Riddle
+[11/02/2022 18:49:34]
+  Outer wall repaired by Trudy Ashley
+[11/02/2022 18:49:34]
+  Stefany Riddle: Пункт управления: все протечки устранены!
+[11/02/2022 18:49:34]
+  Joshua Clements: Так точно!
+[11/02/2022 18:49:35]
+  Simon Petersen started repairing Батарея
+[11/02/2022 18:49:35]
+  Outer wall repaired by Stefany Riddle
+[11/02/2022 18:49:36]
+  Joshua Clements: Мне нужно подводное снаряжение!
+[11/02/2022 18:49:36]
+  kynlan4ic: Simon Petersen, займись протечками!
+[11/02/2022 18:49:36]
+  Joshua Clements: Невозможно добраться до течи: Балласт!
+[11/02/2022 18:49:37]
+  Simon Petersen: Принято.
+[11/02/2022 18:49:38]
+  Outer wall repaired by Stefany Riddle
+[11/02/2022 18:49:39]
+  Stefany Riddle unequipped Сварочный аппарат
+[11/02/2022 18:49:39]
+  kynlan4ic: Todd Mansfield, займись протечками!
+[11/02/2022 18:49:40]
+  Todd Mansfield: Есть!
+[11/02/2022 18:49:40]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:49:40]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:49:40]
+  Simon Petersen equipped Сварочный аппарат
+[11/02/2022 18:49:40]
+  Outer wall repaired by Trudy Ashley
+[11/02/2022 18:49:41]
+  Shelly Maxwell: У нас больше нет снарядов для рельсотрона!
+[11/02/2022 18:49:42]
+  Outer wall repaired by Trudy Ashley
+[11/02/2022 18:49:42]
+  Outer wall repaired by igameCrog
+[11/02/2022 18:49:42]
+  Trudy Ashley: Воздушный шлюз: протечек не осталось!
+[11/02/2022 18:49:43]
+  Shelly Maxwell: Не удалось зарядить боеприпасами: Рельсотрон!
+[11/02/2022 18:49:43]
+  Outer wall repaired by igameCrog
+[11/02/2022 18:49:43]
+  Trudy Ashley unequipped Сварочный аппарат
+[11/02/2022 18:49:44]
+  Todd Mansfield: Надо найти водолазный скафандр!
+[11/02/2022 18:49:46]
+  Todd Mansfield: Невозможно добраться до течи: Моторный отсек!
+[11/02/2022 18:49:49]
+  Outer wall repaired by igameCrog
+[11/02/2022 18:49:51]
+  рок picked up Шоковая дубинка
+[11/02/2022 18:49:53]
+  рок picked up Нож ныряльщика
+[11/02/2022 18:49:54]
+  Trudy Ashley equipped Водолазный скафандр
+[11/02/2022 18:49:54]
+  Shelly Maxwell: Надо найти водолазный скафандр!
+[11/02/2022 18:49:55]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  Inner wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  Inner wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  Inner wall breached by Hammerheadgold
+[11/02/2022 18:49:55]
+  рок picked up Наручники
+[11/02/2022 18:49:57]
+  Joshua Clements equipped Сварочный аппарат
+[11/02/2022 18:49:58]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:49:58]
+  Joshua Clements: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 18:49:58]
+  Inner wall repaired by Joshua Clements
+[11/02/2022 18:49:59]
+  Outer wall repaired by igameCrog
+[11/02/2022 18:49:59]
+  Inner wall repaired by igameCrog
+[11/02/2022 18:49:59]
+  Inner wall repaired by igameCrog
+[11/02/2022 18:49:59]
+  Joshua Clements: Инженерный отсек: протечек не осталось!
+[11/02/2022 18:49:59]
+  Todd Mansfield equipped Сварочный аппарат
+[11/02/2022 18:50:00]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:50:01]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:50:03]
+  Simon Petersen: Воздушный шлюз: все протечки устранены!
+[11/02/2022 18:50:04]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:50:04]
+  Inner wall repaired by Simon Petersen
+[11/02/2022 18:50:04]
+  Simon Petersen: Балласт: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 18:50:05]
+  рок removed Кислородный баллон from Водолазный скафандр (ID: 1707)
+[11/02/2022 18:50:07]
+  Simon Petersen unequipped Сварочный аппарат
+[11/02/2022 18:50:07]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:50:07]
+  Todd Mansfield unequipped Сварочный аппарат
+[11/02/2022 18:50:07]
+  Todd Mansfield equipped Отвертка
+[11/02/2022 18:50:07]
+  рок placed Кислородный баллон in Водолазный скафандр (ID: 1707)
+[11/02/2022 18:50:07]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:50:07]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:50:07]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:50:07]
+  Simon Petersen equipped Сварочный аппарат
+[11/02/2022 18:50:07]
+  Todd Mansfield unequipped Отвертка
+[11/02/2022 18:50:07]
+  Todd Mansfield equipped Сварочный аппарат
+[11/02/2022 18:50:08]
+  Simon Petersen unequipped Сварочный аппарат
+[11/02/2022 18:50:08]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:50:08]
+  Simon Petersen started repairing Батарея
+[11/02/2022 18:50:08]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:50:08]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:50:08]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:50:08]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:50:09]
+  Todd Mansfield unequipped Сварочный аппарат
+[11/02/2022 18:50:09]
+  Todd Mansfield equipped Отвертка
+[11/02/2022 18:50:10]
+  Todd Mansfield started repairing Суперконденсатор
+[11/02/2022 18:50:10]
+  Joshua Clements unequipped Сварочный аппарат
+[11/02/2022 18:50:11]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:50:12]
+  Shelly Maxwell: У нас больше нет снарядов для рельсотрона!
+[11/02/2022 18:50:13]
+  Shelly Maxwell: Не удалось зарядить боеприпасами: Рельсотрон!
+[11/02/2022 18:50:14]
+  Joyce Smith equipped Кислородный баллон
+[11/02/2022 18:50:17]
+  Simon Petersen failed to repair Суперконденсатор
+[11/02/2022 18:50:18]
+  Todd Mansfield failed to repair Суперконденсатор
+[11/02/2022 18:50:24]
+  Simon Petersen started repairing Суперконденсатор
+[11/02/2022 18:50:27]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:28]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:28]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:28]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:28]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:29]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:50:29]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:29]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:29]
+  Hammerheadgold attacked by рок. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[11/02/2022 18:50:29]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:29]
+  Hammerheadgold attacked by рок. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:50:29]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:30]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:30]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:30]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:31]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:31]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:31]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:31]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:32]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:32]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:32]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:32]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:33]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:33]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:33]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:34]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:34]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:34]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:35]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:50:35]
+  Hammerheadgold attacked by рок. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[11/02/2022 18:50:36]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:37]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:37]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:37]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:37]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:37]
+  Outer wall breached by igameCrog
+[11/02/2022 18:50:38]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:38]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:38]
+  Outer wall breached by igameCrog
+[11/02/2022 18:50:38]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:38]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:38]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:38]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:38]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:50:38]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:39]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:50:39]
+  рок equipped Сварочный аппарат
+[11/02/2022 18:50:39]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:39]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:40]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:40]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:40]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:41]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:41]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:50:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:41]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:41]
+  Inner wall breached by igameCrog
+[11/02/2022 18:50:41]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:41]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  Shelly Maxwell: У нас больше нет снарядов для рельсотрона!
+[11/02/2022 18:50:42]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:50:42]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:42]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:50:42]
+  Simon Petersen equipped Гаечный ключ
+[11/02/2022 18:50:42]
+  Simon Petersen: Мне нужно подводное снаряжение!
+[11/02/2022 18:50:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:43]
+  Shelly Maxwell: Не удалось зарядить боеприпасами: Рельсотрон!
+[11/02/2022 18:50:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:43]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:44]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:44]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:45]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:45]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:45]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:45]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:50:45]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:45]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:46]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:46]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:46]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:50:47]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:47]
+  Joshua Clements equipped Сварочный аппарат
+[11/02/2022 18:50:47]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:47]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:50:47]
+  Joshua Clements: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 18:50:48]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:48]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:50:48]
+  Joshua Clements: Моторный отсек: все протечки устранены!
+[11/02/2022 18:50:48]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:49]
+  Simon Petersen unequipped Гаечный ключ
+[11/02/2022 18:50:49]
+  Simon Petersen equipped Сварочный аппарат
+[11/02/2022 18:50:49]
+  Simon Petersen unequipped Сварочный аппарат
+[11/02/2022 18:50:49]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:50:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:50]
+  Joshua Clements unequipped Сварочный аппарат
+[11/02/2022 18:50:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:50]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:50:50]
+  Simon Petersen equipped Гаечный ключ
+[11/02/2022 18:50:50]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:53]
+  Simon Petersen started repairing Настраиваемый люк
+[11/02/2022 18:50:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:54]
+  Outer wall breached by igameCrog
+[11/02/2022 18:50:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:56]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:56]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:56]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:57]
+  Simon Petersen unequipped Гаечный ключ
+[11/02/2022 18:50:57]
+  Simon Petersen equipped Отвертка
+[11/02/2022 18:50:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:58]
+  Outer wall breached by igameCrog
+[11/02/2022 18:50:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:58]
+  Simon Petersen unequipped Отвертка
+[11/02/2022 18:50:58]
+  Outer wall breached by igameCrog
+[11/02/2022 18:50:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:50:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:03]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:03]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:04]
+  Kip Rhymer attacked by рок. Рваная рана: 6.75 Кровотечение: 0.75 Оглушение: 0.025
+[11/02/2022 18:51:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:04]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:04]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:04]
+  Joyce Smith: Надо найти водолазный скафандр!
+[11/02/2022 18:51:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:04]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  Outer wall repaired by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:05]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  Outer wall breached by рок
+[11/02/2022 18:51:05]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:05]
+  Outer wall breached by рок
+[11/02/2022 18:51:06]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:06]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:06]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:06]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:06]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:07]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:07]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:07]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:08]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  Joshua Clements equipped Сварочный аппарат
+[11/02/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  Simon Petersen equipped Сварочный аппарат
+[11/02/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:09]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  Simon Petersen: Моторный отсек: минус одна протечка!
+[11/02/2022 18:51:10]
+  Outer wall breached by igameCrog
+[11/02/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  Outer wall breached by igameCrog
+[11/02/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:10]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  Joshua Clements: Надо найти водолазный скафандр!
+[11/02/2022 18:51:11]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  Shelly Maxwell: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 18:51:11]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  рок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:11]
+  рок attacked by igameCrog. Рваная рана: 4.6237497 Кровотечение: 0.51375 Оглушение: 0.025
+[11/02/2022 18:51:11]
+  Todd Mansfield: Мне нужно подводное снаряжение!
+[11/02/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:12]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:12]
+  Shelly Maxwell: У нас больше нет снарядов для рельсотрона!
+[11/02/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:12]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:12]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:13]
+  Shelly Maxwell: Не удалось зарядить боеприпасами: Рельсотрон!
+[11/02/2022 18:51:14]
+  Outer wall repaired by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:14]
+  Burl Kinney: Надо найти водолазный скафандр!
+[11/02/2022 18:51:15]
+  Simon Petersen: Мне нужно подводное снаряжение!
+[11/02/2022 18:51:15]
+  Outer wall repaired by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:16]
+  Jackie Mooney: Надо найти водолазный скафандр!
+[11/02/2022 18:51:16]
+  рок used item Морфин
+[11/02/2022 18:51:17]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:51:17]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:51:17]
+  Inner wall breached by Hammerheadgold
+[11/02/2022 18:51:17]
+  Outer wall breached by Hammerheadgold
+[11/02/2022 18:51:17]
+  Stefany Riddle: Надо найти водолазный скафандр!
+[11/02/2022 18:51:18]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:18]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:18]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:18]
+  igameCrog attacked by ЖмЫхНуТыЙ кЭт. Рваная рана: 4.6237497 Кровотечение: 0.51375 Оглушение: 0.025
+[11/02/2022 18:51:18]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:19]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:19]
+  Inner wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:19]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:19]
+  Todd Mansfield unequipped Отвертка
+[11/02/2022 18:51:19]
+  Todd Mansfield equipped Сварочный аппарат
+[11/02/2022 18:51:19]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:19]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:20]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:20]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:20]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:20]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:21]
+  Todd Mansfield unequipped Сварочный аппарат
+[11/02/2022 18:51:21]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:21]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:21]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:22]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:22]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:22]
+  Outer wall repaired by igameCrog
+[11/02/2022 18:51:22]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:22]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:22]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:23]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:23]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:23]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:23]
+  Kip Rhymer equipped Водолазный скафандр
+[11/02/2022 18:51:23]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:24]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:24]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:24]
+  Simon Petersen: Невозможно добраться до течи: Воздушный шлюз!
+[11/02/2022 18:51:24]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:24]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:24]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:25]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:25]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:25]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:25]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:25]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:26]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:26]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:26]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:26]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:26]
+  Inner wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:26]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:27]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:27]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:51:27]
+  Joshua Clements: Воздушный шлюз: протечек не осталось!
+[11/02/2022 18:51:27]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:27]
+  Simon Petersen: Отсек генератора кислорода: протечек не осталось!
+[11/02/2022 18:51:27]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:27]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:27]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:27]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:28]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:28]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:28]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:28]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:29]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:29]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:29]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:29]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:30]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:30]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:30]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:30]
+  Outer wall repaired by Simon Petersen
+[11/02/2022 18:51:30]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:31]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:31]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:31]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:31]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:31]
+  Outer wall breached by igameCrog
+[11/02/2022 18:51:31]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:31]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:32]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:32]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:32]
+  Outer wall repaired by Joshua Clements
+[11/02/2022 18:51:32]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:32]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:32]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:32]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:33]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:33]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:33]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:33]
+  Outer wall breached by ЖмЫхНуТыЙ кЭт
+[11/02/2022 18:51:33]
+  рок equipped Снаряд рельсотрона
+[11/02/2022 18:51:33]
+  рок picked up Снаряд рельсотрона
+[11/02/2022 18:51:34]
+  ЖмЫхНуТыЙ кЭт launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 18:51:34]
+  Outer wall repaired by Joshua Clements

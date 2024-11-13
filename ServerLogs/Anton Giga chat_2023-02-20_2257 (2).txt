@@ -1,0 +1,1600 @@
+﻿[02/20/2023 22:40:08]
+  Чпок В Пупок unequipped Отвертка
+[02/20/2023 22:40:08]
+  Чпок В Пупок equipped Вещмешок
+[02/20/2023 22:40:09]
+  Console command "control husk" executed by igameCrog.
+[02/20/2023 22:40:10]
+  Игрок Gigachad923 присоединился к серверу.
+[02/20/2023 22:40:10]
+  Saving client permissions
+[02/20/2023 22:40:12]
+  Чпок В Пупок picked up Бинт
+[02/20/2023 22:40:14]
+  Чпок В Пупок dropped Вещмешок
+[02/20/2023 22:40:15]
+  Cryler, The Treator started repairing Люк с кнопками
+[02/20/2023 22:40:19]
+  kynlan4ic unequipped Сварочный аппарат
+[02/20/2023 22:40:22]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3149)
+[02/20/2023 22:40:22]
+  kynlan4ic removed Топливный бак сварочного аппарата from Сварочный аппарат (ID: 3149)
+[02/20/2023 22:40:22]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2772)
+[02/20/2023 22:40:22]
+  kynlan4ic placed Сварочный аппарат in Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:40:23]
+  Cryler, The Treator started repairing Деконструктор
+[02/20/2023 22:40:24]
+  kynlan4ic equipped Сварочный аппарат
+[02/20/2023 22:40:26]
+  Antony Larsen equipped Сварочный аппарат
+[02/20/2023 22:40:26]
+  Antony Larsen: Эти проклятые создания тут повсюду!
+[02/20/2023 22:40:30]
+  Merrill Poole equipped Сварочный аппарат
+[02/20/2023 22:40:30]
+  Merrill Poole: А-А-А-А-А-А!
+[02/20/2023 22:40:33]
+  Чпок В Пупок placed Бинт in Human
+[02/20/2023 22:40:36]
+  Antony Larsen unequipped Сварочный аппарат
+[02/20/2023 22:40:37]
+  Qwutix used item Бинт
+[02/20/2023 22:40:40]
+  Merrill Poole unequipped Сварочный аппарат
+[02/20/2023 22:40:43]
+  Cryler, The Treator failed to repair Фабрикатор
+[02/20/2023 22:40:43]
+  Inner wall repaired by kynlan4ic
+[02/20/2023 22:40:44]
+  Cryler, The Treator started repairing Фабрикатор
+[02/20/2023 22:40:49]
+  Inner wall repaired by kynlan4ic
+[02/20/2023 22:40:50]
+  Husk closed Настраиваемая дверь
+[02/20/2023 22:40:55]
+  Husk attacked by Чпок В Пупок. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[02/20/2023 22:40:59]
+  Husk has died (Cause of death: Огнестрельная рана)
+[02/20/2023 22:40:59]
+  Husk attacked by Чпок В Пупок. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[02/20/2023 22:41:00]
+  Cryler, The Treator failed to repair Фабрикатор
+[02/20/2023 22:41:09]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 22:41:11]
+  Console command "spawn husk cursor" executed by igameCrog.
+[02/20/2023 22:41:13]
+  Cryler, The Treator started repairing Ядерный реактор
+[02/20/2023 22:41:13]
+  Console command "control husk" executed by igameCrog.
+[02/20/2023 22:41:16]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/20/2023 22:41:16]
+  kynlan4ic equipped Револьвер
+[02/20/2023 22:41:18]
+  Чпок В Пупок equipped Отвертка
+[02/20/2023 22:41:19]
+  Чпок В Пупок equipped Гаечный ключ
+[02/20/2023 22:41:20]
+  Чпок В Пупок started repairing Дверь с кнопками
+[02/20/2023 22:41:22]
+  Qwutix picked up Кислородный баллон
+[02/20/2023 22:41:22]
+  Qwutix dropped Кислородный баллон
+[02/20/2023 22:41:22]
+  Qwutix placed Кислородный баллон in Водолазный скафандр (ID: 262)
+[02/20/2023 22:41:29]
+  The respawn shuttle is leaving.
+[02/20/2023 22:41:30]
+  Cryler, The Treator started repairing Батарея
+[02/20/2023 22:41:31]
+  Husk opened Настраиваемая дверь
+[02/20/2023 22:41:38]
+  Qwutix placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 257)
+[02/20/2023 22:41:40]
+  Cryler, The Treator started repairing Батарея
+[02/20/2023 22:41:40]
+  Husk closed Дверь с кнопками
+[02/20/2023 22:41:40]
+  Husk opened Настраиваемая дверь
+[02/20/2023 22:41:44]
+  Qwutix equipped Подводный скутер
+[02/20/2023 22:41:48]
+  Cryler, The Treator picked up Плазменный резак
+[02/20/2023 22:41:51]
+  Чпок В Пупок failed to repair Батарея
+[02/20/2023 22:41:52]
+  Jarvis Palmieri equipped Пояс инструментов
+[02/20/2023 22:41:54]
+  Cryler, The Treator picked up Пояс инструментов
+[02/20/2023 22:41:57]
+  Cryler, The Treator picked up Подводная маска
+[02/20/2023 22:41:57]
+  Чпок В Пупок started repairing Батарея
+[02/20/2023 22:41:58]
+  Cryler, The Treator removed Одноразовый водолазный скафандр from Human
+[02/20/2023 22:41:59]
+  Antony Larsen has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Julianne Gadberry has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Jarvis Palmieri has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Micheal Simpson has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Merrill Poole has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Hortensia Huynh has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Micheal Simpson has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  Merrill Poole has died (Cause of death: Unknown)
+[02/20/2023 22:41:59]
+  The respawn shuttle has left.
+[02/20/2023 22:42:09]
+  Cryler, The Treator picked up Водолазный скафандр
+[02/20/2023 22:42:09]
+  Cryler, The Treator dropped Одноразовый водолазный скафандр
+[02/20/2023 22:42:09]
+  Cryler, The Treator placed Одноразовый водолазный скафандр in Human
+[02/20/2023 22:42:09]
+  kynlan4ic equipped Вещмешок
+[02/20/2023 22:42:11]
+  kynlan4ic dropped Вещмешок
+[02/20/2023 22:42:11]
+  Cryler, The Treator picked up Плазменный резак
+[02/20/2023 22:42:17]
+  Чпок В Пупок picked up Топливный стержень
+[02/20/2023 22:42:17]
+  Чпок В Пупок dropped Топливный стержень
+[02/20/2023 22:42:17]
+  Чпок В Пупок placed Топливный стержень in Ядерный реактор (ID: 119)
+[02/20/2023 22:42:19]
+  Cryler, The Treator started repairing Навигационный терминал
+[02/20/2023 22:42:45]
+  Cryler, The Treator set the value "Output" of the item "Детектор воды" to "0".
+[02/20/2023 22:42:47]
+  Cryler, The Treator set the value "FalseOutput" of the item "Детектор воды" to "1".
+[02/20/2023 22:42:48]
+  Cryler, The Treator set the value "FalseOutput" of the item "Детектор воды" to "1".
+[02/20/2023 22:42:49]
+  Qwutix unequipped Плазменный резак
+[02/20/2023 22:42:49]
+  Qwutix equipped Вещмешок
+[02/20/2023 22:42:50]
+  Husk removed Топливный стержень from Средний стальной шкаф (ID: 142)
+[02/20/2023 22:42:50]
+  Husk removed Топливный стержень from Средний стальной шкаф (ID: 142)
+[02/20/2023 22:42:50]
+  Husk removed Топливный стержень from Средний стальной шкаф (ID: 142)
+[02/20/2023 22:42:50]
+  Husk removed Топливный стержень from Средний стальной шкаф (ID: 142)
+[02/20/2023 22:42:50]
+  Husk removed Топливный стержень from Средний стальной шкаф (ID: 142)
+[02/20/2023 22:42:51]
+  Qwutix dropped Вещмешок
+[02/20/2023 22:42:53]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/20/2023 22:42:58]
+  Husk removed Топливный стержень from Ядерный реактор (ID: 119)
+[02/20/2023 22:42:59]
+  Dispatching the respawn shuttle.
+[02/20/2023 22:42:59]
+  Respawning Gigachad923 (STEAM_1:1:575435189) as Механик
+[02/20/2023 22:42:59]
+  Respawning bot Antony Larsen as Механик
+[02/20/2023 22:42:59]
+  Respawning bot Jarvis Palmieri as Механик
+[02/20/2023 22:42:59]
+  Respawning bot Micheal Simpson as Помощник
+[02/20/2023 22:42:59]
+  Respawning bot Micheal Simpson as Помощник
+[02/20/2023 22:43:02]
+  Gigachad923 set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:43:05]
+  Cryler, The Treator equipped Вещмешок
+[02/20/2023 22:43:07]
+  Qwutix equipped Вещмешок
+[02/20/2023 22:43:09]
+  Cryler, The Treator picked up Топливный стержень
+[02/20/2023 22:43:11]
+  Qwutix picked up Сварочный аппарат
+[02/20/2023 22:43:13]
+  Qwutix dropped Вещмешок
+[02/20/2023 22:43:14]
+  Cryler, The Treator dropped Вещмешок
+[02/20/2023 22:43:15]
+  Cryler, The Treator equipped Вещмешок
+[02/20/2023 22:43:16]
+  kynlan4ic equipped Вещмешок
+[02/20/2023 22:43:17]
+  Cryler, The Treator dropped Вещмешок
+[02/20/2023 22:43:25]
+  Cryler, The Treator picked up Топливный бак сварочного аппарата
+[02/20/2023 22:43:25]
+  Cryler, The Treator picked up Топливный бак сварочного аппарата
+[02/20/2023 22:43:25]
+  Cryler, The Treator picked up Топливный бак сварочного аппарата
+[02/20/2023 22:43:25]
+  Cryler, The Treator picked up Топливный бак сварочного аппарата
+[02/20/2023 22:43:25]
+  Cryler, The Treator picked up Топливный бак сварочного аппарата
+[02/20/2023 22:43:29]
+  kynlan4ic dropped Вещмешок
+[02/20/2023 22:43:34]
+  Inner wall repaired by Чпок В Пупок
+[02/20/2023 22:43:38]
+  Qwutix picked up Автоматический пистолет
+[02/20/2023 22:43:38]
+  Qwutix dropped Автоматический пистолет
+[02/20/2023 22:43:38]
+  Qwutix placed Автоматический пистолет in Средний стальной шкаф (ID: 416)
+[02/20/2023 22:43:39]
+  Cryler, The Treator placed Топливный стержень in Средний стальной шкаф (ID: 142)
+[02/20/2023 22:43:40]
+  Cryler, The Treator placed Топливный стержень in Средний стальной шкаф (ID: 142)
+[02/20/2023 22:43:45]
+  Qwutix picked up Ружье
+[02/20/2023 22:43:46]
+  Cryler, The Treator placed Топливный стержень in Средний стальной шкаф (ID: 142)
+[02/20/2023 22:43:48]
+  Cryler, The Treator placed Подводный скутер in Средний стальной шкаф (ID: 142)
+[02/20/2023 22:43:52]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/20/2023 22:43:52]
+  Cryler, The Treator picked up Кислородный баллон
+[02/20/2023 22:43:53]
+  Cryler, The Treator picked up Топливный стержень
+[02/20/2023 22:43:56]
+  Cryler, The Treator placed Топливный стержень in Средний стальной шкаф (ID: 142)
+[02/20/2023 22:44:00]
+  kynlan4ic unequipped Сварочный аппарат
+[02/20/2023 22:44:00]
+  Qwutix equipped Сварочный аппарат
+[02/20/2023 22:44:04]
+  kynlan4ic placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 3089)
+[02/20/2023 22:44:05]
+  kynlan4ic dropped Сварочный аппарат
+[02/20/2023 22:44:14]
+  Inner wall breached by Tigerthresher
+[02/20/2023 22:44:15]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 22:44:15]
+  Чпок В Пупок dropped Кислородный баллон
+[02/20/2023 22:44:15]
+  Чпок В Пупок placed Кислородный баллон in Водолазный скафандр (ID: 248)
+[02/20/2023 22:44:29]
+  Husk has died (Cause of death: Укусы)
+[02/20/2023 22:44:32]
+  Qwutix equipped Автоматический пистолет
+[02/20/2023 22:44:37]
+  Cryler, The Treator equipped Вещмешок
+[02/20/2023 22:44:38]
+  Gigachad923 docked Челнок R-170 to Wellerman
+[02/20/2023 22:44:39]
+  Cryler, The Treator picked up Сварочный аппарат
+[02/20/2023 22:44:39]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[02/20/2023 22:44:40]
+  Cryler, The Treator picked up Топливный стержень
+[02/20/2023 22:44:40]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 22:44:41]
+  Cryler, The Treator dropped Вещмешок
+[02/20/2023 22:44:42]
+  Jarvis Palmieri attacked by Чпок В Пупок. Огнестрельная рана: 27.5 Кровотечение: 24.8 Оглушение: 0.6
+[02/20/2023 22:44:43]
+  Чпок В Пупок attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:44:43]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 22:44:43]
+  Чпок В Пупок attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:44:43]
+  Чпок В Пупок attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:44:43]
+  Cryler, The Treator equipped Сварочный аппарат
+[02/20/2023 22:44:44]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 22:44:44]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:44]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:44]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 22:44:44]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:45]
+  Чпок В Пупок equipped Дробовик
+[02/20/2023 22:44:45]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/20/2023 22:44:45]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:46]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Gigachad923 picked up Одноразовый водолазный скафандр
+[02/20/2023 22:44:47]
+  Micheal Simpson: Господи.
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:47]
+  Tigerthresher attacked by Чпок В Пупок. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:44:50]
+  Micheal Simpson: Надо найти водолазный скафандр!
+[02/20/2023 22:44:51]
+  Micheal Simpson: Надо найти водолазный скафандр!
+[02/20/2023 22:44:52]
+  Antony Larsen: Надо найти водолазный скафандр!
+[02/20/2023 22:44:54]
+  Micheal Simpson: Помогите, я истекаю кровью!
+[02/20/2023 22:44:55]
+  Micheal Simpson equipped Гаечный ключ
+[02/20/2023 22:44:58]
+  Outer wall repaired by Cryler, The Treator
+[02/20/2023 22:45:01]
+  Micheal Simpson used Гаечный ключ on Базовая стена – правая.
+[02/20/2023 22:45:01]
+  Qwutix equipped Ружье
+[02/20/2023 22:45:03]
+  Micheal Simpson used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:45:03]
+  Micheal Simpson used Гаечный ключ on Tigerthresher.
+[02/20/2023 22:45:05]
+  Micheal Simpson used Гаечный ключ on Tigerthresher.
+[02/20/2023 22:45:05]
+  Outer wall repaired by Cryler, The Treator
+[02/20/2023 22:45:09]
+  Outer wall repaired by Cryler, The Treator
+[02/20/2023 22:45:11]
+  Micheal Simpson used Гаечный ключ on Обшивка A 4 градуса.
+[02/20/2023 22:45:16]
+  Outer wall repaired by Cryler, The Treator
+[02/20/2023 22:45:20]
+  Gigachad923 equipped Сварочный аппарат
+[02/20/2023 22:45:20]
+  Gigachad923 equipped Плазменный резак
+[02/20/2023 22:45:21]
+  Micheal Simpson has died (Cause of death: Укусы)
+[02/20/2023 22:45:21]
+  Gigachad923 equipped Гаечный ключ
+[02/20/2023 22:45:23]
+  Gigachad923 used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:23]
+  Чпок В Пупок picked up Физраствор
+[02/20/2023 22:45:24]
+  Gigachad923 used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:45:26]
+  Tigerthresher attacked by Gigachad923. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[02/20/2023 22:45:26]
+  Gigachad923 used Гаечный ключ on Tigerthresher.
+[02/20/2023 22:45:26]
+  Qwutix dropped Фонарик
+[02/20/2023 22:45:27]
+  Tigerthresher attacked by Gigachad923. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[02/20/2023 22:45:27]
+  Gigachad923 used Гаечный ключ on Tigerthresher.
+[02/20/2023 22:45:27]
+  Чпок В Пупок used item Физраствор
+[02/20/2023 22:45:30]
+  Tigerthresher attacked by Gigachad923. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[02/20/2023 22:45:30]
+  Gigachad923 used Гаечный ключ on Tigerthresher.
+[02/20/2023 22:45:31]
+  Чпок В Пупок used item Физраствор
+[02/20/2023 22:45:31]
+  Gigachad923 used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:45:31]
+  Tigerthresher attacked by Gigachad923. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[02/20/2023 22:45:31]
+  Gigachad923 used Гаечный ключ on Tigerthresher.
+[02/20/2023 22:45:33]
+  Outer wall breached by Tigerthresher
+[02/20/2023 22:45:37]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:45:37]
+  kynlan4ic removed Кислородный баллон from Пояс инструментов (ID: 3089)
+[02/20/2023 22:45:37]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 255)
+[02/20/2023 22:45:38]
+  Gigachad923 unequipped Гаечный ключ
+[02/20/2023 22:45:38]
+  Gigachad923 equipped Вещмешок
+[02/20/2023 22:45:38]
+  Чпок В Пупок used item Физраствор
+[02/20/2023 22:45:43]
+  Console command "giveaffliction HuskInfection 80 Чпок В Пупок" executed by igameCrog.
+[02/20/2023 22:45:44]
+  Gigachad923 dropped Вещмешок
+[02/20/2023 22:45:44]
+  Inner wall breached by Tigerthresher
+[02/20/2023 22:45:48]
+  Outer wall repaired by Cryler, The Treator
+[02/20/2023 22:45:50]
+  Чпок В Пупок placed Физраствор in Аптечка (ID: 178)
+[02/20/2023 22:45:50]
+  Чпок В Пупок placed Физраствор in Аптечка (ID: 178)
+[02/20/2023 22:45:50]
+  Чпок В Пупок placed Физраствор in Аптечка (ID: 178)
+[02/20/2023 22:45:50]
+  Чпок В Пупок placed Физраствор in Аптечка (ID: 178)
+[02/20/2023 22:45:50]
+  Чпок В Пупок placed Физраствор in Аптечка (ID: 178)
+[02/20/2023 22:45:51]
+  Gigachad923 placed Сварочный аппарат in Вещмешок (ID: 3299)
+[02/20/2023 22:45:54]
+  Gigachad923 dropped Вещмешок
+[02/20/2023 22:45:58]
+  Чпок В Пупок placed Подводный скутер in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:45:58]
+  Чпок В Пупок placed Сварочный аппарат in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:45:58]
+  Cryler, The Treator started repairing Двигатель
+[02/20/2023 22:45:59]
+  Чпок В Пупок placed Ружье in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:45:59]
+  Чпок В Пупок placed Дробовик in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:46:00]
+  Чпок В Пупок placed Кислородный баллон in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:46:00]
+  Чпок В Пупок placed Кислородный баллон in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:46:00]
+  Чпок В Пупок placed Кислородный баллон in Большой стальной шкаф (ID: 148)
+[02/20/2023 22:46:04]
+  Gigachad923 equipped Гаечный ключ
+[02/20/2023 22:46:04]
+  Gigachad923 equipped Отвертка
+[02/20/2023 22:46:05]
+  Чпок В Пупок dropped Водолазный скафандр
+[02/20/2023 22:46:08]
+  Antony Larsen attacked by Qwutix. Огнестрельная рана: 27.5 Кровотечение: 24.8 Оглушение: 0.6
+[02/20/2023 22:46:10]
+  Inner wall breached by Tigerthresher
+[02/20/2023 22:46:10]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[02/20/2023 22:46:13]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 23.0 Кровотечение: 20.7 Оглушение: 0.6 Оглушение: 0.9
+[02/20/2023 22:46:15]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:46:15]
+  Qwutix threw Осколочная граната
+[02/20/2023 22:46:15]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[02/20/2023 22:46:15]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:46:16]
+  Tigerthresher attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:46:18]
+  Inner wall breached by Qwutix
+[02/20/2023 22:46:18]
+  Inner wall breached by Qwutix
+[02/20/2023 22:46:18]
+  Inner wall breached by Qwutix
+[02/20/2023 22:46:18]
+  Inner wall breached by Qwutix
+[02/20/2023 22:46:18]
+  Qwutix has lost more than 25 karma in the past minute.
+[02/20/2023 22:46:26]
+  Inner wall repaired by Cryler, The Treator
+[02/20/2023 22:46:33]
+  Inner wall repaired by Cryler, The Treator
+[02/20/2023 22:46:38]
+  Inner wall repaired by Cryler, The Treator
+[02/20/2023 22:46:41]
+  Qwutix used item Пакет с кровью
+[02/20/2023 22:46:43]
+  Qwutix used item Антирад
+[02/20/2023 22:46:46]
+  Чпок В Пупок has died (Cause of death: Повреждение глубоких тканей)
+[02/20/2023 22:46:52]
+  Cryler, The Treator picked up Топливный бак сварочного аппарата
+[02/20/2023 22:46:52]
+  Cryler, The Treator dropped Топливный бак сварочного аппарата
+[02/20/2023 22:46:52]
+  Cryler, The Treator placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2708)
+[02/20/2023 22:46:52]
+  Qwutix placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 271)
+[02/20/2023 22:46:52]
+  Qwutix removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 271)
+[02/20/2023 22:46:52]
+  Qwutix placed Кислородный баллон in Водолазный скафандр (ID: 262)
+[02/20/2023 22:47:13]
+  Gigachad923 equipped Сварочный аппарат
+[02/20/2023 22:47:27]
+  Inner wall repaired by Cryler, The Treator
+[02/20/2023 22:47:29]
+  The respawn shuttle is leaving.
+[02/20/2023 22:47:41]
+  Qwutix picked up Пистолет-пулемет
+[02/20/2023 22:47:43]
+  Qwutix placed Автоматический пистолет in Средний стальной шкаф (ID: 416)
+[02/20/2023 22:47:46]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 22:47:47]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 22:47:48]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 22:47:51]
+  Qwutix used item Морфин
+[02/20/2023 22:48:00]
+  Qwutix picked up Граната с воспламенитом
+[02/20/2023 22:48:00]
+  Qwutix picked up Граната с воспламенитом
+[02/20/2023 22:48:00]
+  Qwutix picked up Граната с воспламенитом
+[02/20/2023 22:48:00]
+  Antony Larsen has died (Cause of death: Unknown)
+[02/20/2023 22:48:00]
+  Jarvis Palmieri has died (Cause of death: Unknown)
+[02/20/2023 22:48:00]
+  Micheal Simpson has died (Cause of death: Unknown)
+[02/20/2023 22:48:00]
+  The respawn shuttle has left.
+[02/20/2023 22:48:01]
+  Cryler, The Treator started repairing Ядерный реактор
+[02/20/2023 22:48:02]
+  Qwutix equipped Граната с воспламенитом
+[02/20/2023 22:48:05]
+  Qwutix threw Граната с воспламенитом
+[02/20/2023 22:48:07]
+  Qwutix equipped Пистолет-пулемет
+[02/20/2023 22:48:08]
+  Qwutix equipped Граната с воспламенитом
+[02/20/2023 22:48:08]
+  Qwutix threw Граната с воспламенитом
+[02/20/2023 22:48:10]
+  Qwutix equipped Граната с воспламенитом
+[02/20/2023 22:48:12]
+  Qwutix threw Граната с воспламенитом
+[02/20/2023 22:48:13]
+  Qwutix equipped Плазменный резак
+[02/20/2023 22:48:16]
+  Console command "giveaffliction HuskInfection 100 Qwutix" executed by igameCrog.
+[02/20/2023 22:48:25]
+  Cryler, The Treator used Отвертка on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:48:26]
+  Cryler, The Treator used Гаечный ключ on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:48:26]
+  Cryler, The Treator used Отвертка on Большая горизонтальная внутренняя стена.
+[02/20/2023 22:48:27]
+  Чпок В Пупок attacked by Cryler, The Treator. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/20/2023 22:48:27]
+  Cryler, The Treator used Гаечный ключ on Чпок В Пупок.
+[02/20/2023 22:48:28]
+  Чпок В Пупок attacked by Cryler, The Treator. Рваная рана: 2.4 Кровотечение: 1.5
+[02/20/2023 22:48:28]
+  Cryler, The Treator used Отвертка on Чпок В Пупок.
+[02/20/2023 22:48:29]
+  Чпок В Пупок attacked by Cryler, The Treator. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/20/2023 22:48:29]
+  Cryler, The Treator used Гаечный ключ on Чпок В Пупок.
+[02/20/2023 22:48:30]
+  Ending round by votes (4/2)
+[02/20/2023 22:48:30]
+  Ending the round...
+[02/20/2023 22:48:30]
+  Round ended.
+[02/20/2023 22:48:55]
+  Cryler, The Treator: это было интересно
+[02/20/2023 22:48:55]
+  Gigachad923 is ready to start the game.
+[02/20/2023 22:49:13]
+  igameCrog is ready to start the game.
+[02/20/2023 22:49:20]
+  kynlan4ic is ready to start the game.
+[02/20/2023 22:49:27]
+  Qwutix is ready to start the game.
+[02/20/2023 22:49:27]
+  Client "kynlan4ic" started the round.
+[02/20/2023 22:49:27]
+  Starting a new round...
+[02/20/2023 22:49:37]
+  Миссия: Добыча минералов (Пироморфит)
+[02/20/2023 22:49:37]
+  Говорят, где-то между точками Исследовательский центр Milda и Укрепление Bramerton есть Пироморфит, целые залежи. Привезите оттуда ресурс (Пироморфит), 8 - этого будет достаточно. Ваша доля - 25%.
+[02/20/2023 22:49:37]
+  Game mode: Миссия
+[02/20/2023 22:49:37]
+  Submarine: Wellerman
+[02/20/2023 22:49:37]
+  Level seed: VZMJ6etc
+[02/20/2023 22:49:37]
+  Mission: Добыча минералов ([resourcename1])
+[02/20/2023 22:49:37]
+  Round started.
+[02/20/2023 22:49:37]
+  Marcelino Hampton: Спокойное море моряка ничему не научит.
+[02/20/2023 22:49:38]
+  Emilee Parks: Загружаю в реактор дополнительное топливо!
+[02/20/2023 22:49:39]
+  Maryann Rangel: Загружаю в реактор дополнительное топливо!
+[02/20/2023 22:49:42]
+  Maryann Rangel equipped Топливный стержень
+[02/20/2023 22:49:43]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:49:46]
+  Cryler, The Treator set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:49:49]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:49:49]
+  kynlan4ic picked up Шоковая дубинка
+[02/20/2023 22:49:49]
+  Qwutix set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:49:50]
+  kynlan4ic picked up Подводное ружье
+[02/20/2023 22:49:50]
+  Cryler, The Treator: Maryann Rangel, начинай устранять протечки!
+[02/20/2023 22:49:51]
+  kynlan4ic picked up Нож ныряльщика
+[02/20/2023 22:49:51]
+  Maryann Rangel: Есть!
+[02/20/2023 22:49:51]
+  kynlan4ic picked up Автоматический пистолет
+[02/20/2023 22:49:52]
+  kynlan4ic picked up UEX
+[02/20/2023 22:49:53]
+  kynlan4ic picked up Граната с воспламенитом
+[02/20/2023 22:49:54]
+  Qwutix picked up Автоматический пистолет
+[02/20/2023 22:49:54]
+  kynlan4ic picked up Дробовик
+[02/20/2023 22:49:55]
+  Gigachad923 set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:49:55]
+  Qwutix placed Автоматический пистолет in Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:49:55]
+  Qwutix removed Ружье from Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:49:55]
+  Qwutix picked up Ружье
+[02/20/2023 22:49:57]
+  Qwutix picked up Автоматический пистолет
+[02/20/2023 22:49:58]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:49:58]
+  Cryler, The Treator: Maryann Rangel, займись ремонтом поврежденных систем!
+[02/20/2023 22:49:59]
+  Qwutix picked up Пистолет-пулемет
+[02/20/2023 22:49:59]
+  Maryann Rangel: Слушаюсь!
+[02/20/2023 22:50:00]
+  Qwutix placed Наручники in Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:50:04]
+  Gigachad923 picked up Револьвер
+[02/20/2023 22:50:05]
+  Gigachad923 picked up Ружье
+[02/20/2023 22:50:07]
+  Gigachad923 picked up Пистолет-пулемет
+[02/20/2023 22:50:08]
+  Cryler, The Treator: Bell Sawyer, займись протечками!
+[02/20/2023 22:50:09]
+  Qwutix picked up Электрошокер
+[02/20/2023 22:50:09]
+  Чпок В Пупок placed Топливный стержень in Ядерный реактор (ID: 119)
+[02/20/2023 22:50:09]
+  Gigachad923 picked up Шлем стрелка
+[02/20/2023 22:50:09]
+  Bell Sawyer: Принято.
+[02/20/2023 22:50:11]
+  Cryler, The Treator: Bell Sawyer, займись механическими приборами!
+[02/20/2023 22:50:11]
+  Qwutix placed Электрошокер in Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:50:11]
+  Qwutix removed Дробовик from Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:50:11]
+  Qwutix picked up Дробовик
+[02/20/2023 22:50:12]
+  Bell Sawyer: Есть!
+[02/20/2023 22:50:13]
+  igameCrog picked up Детонатор
+[02/20/2023 22:50:13]
+  Qwutix picked up Электрошокер
+[02/20/2023 22:50:13]
+  Чпок В Пупок adjusted reactor settings: Temperature: 8813, Fission rate: 54, Turbine output: 55, Autotemp OFF
+[02/20/2023 22:50:14]
+  Чпок В Пупок adjusted reactor settings: Temperature: 9813, Fission rate: 57, Turbine output: 55, Autotemp OFF
+[02/20/2023 22:50:15]
+  Qwutix picked up Граната с воспламенитом
+[02/20/2023 22:50:15]
+  Qwutix picked up Граната с воспламенитом
+[02/20/2023 22:50:15]
+  Qwutix picked up Граната с воспламенитом
+[02/20/2023 22:50:15]
+  Чпок В Пупок adjusted reactor settings: Temperature: 10000, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[02/20/2023 22:50:15]
+  Cryler, The Treator: Jodee Sunderland, заряди реактор!
+[02/20/2023 22:50:16]
+  Jodee Sunderland: Само собой!
+[02/20/2023 22:50:17]
+  Cryler, The Treator: Jodee Sunderland, займись электроприборами!
+[02/20/2023 22:50:19]
+  Jodee Sunderland: Вас понял!
+[02/20/2023 22:50:20]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 92, Turbine output: 100, Autotemp OFF
+[02/20/2023 22:50:21]
+  kynlan4ic adjusted reactor settings: Temperature: 10000, Fission rate: 80, Turbine output: 100, Autotemp OFF
+[02/20/2023 22:50:21]
+  igameCrog removed Топливный стержень from Ядерный реактор (ID: 119)
+[02/20/2023 22:50:23]
+  Cryler, The Treator: Anton Goodin, начинай устранять протечки!
+[02/20/2023 22:50:24]
+  Anton Goodin: Вас понял!
+[02/20/2023 22:50:24]
+  Qwutix equipped Дробовик
+[02/20/2023 22:50:24]
+  Burl Meza equipped Топливный стержень
+[02/20/2023 22:50:24]
+  Qwutix equipped Электрошокер
+[02/20/2023 22:50:24]
+  Cryler, The Treator: Anton Goodin, отремонтируй механические приборы!
+[02/20/2023 22:50:25]
+  Qwutix equipped Граната с воспламенитом
+[02/20/2023 22:50:25]
+  Anton Goodin: Есть!
+[02/20/2023 22:50:26]
+  Cryler, The Treator: Burl Meza, займись электроприборами!
+[02/20/2023 22:50:27]
+  Burl Meza: Само собой!
+[02/20/2023 22:50:29]
+  Gigachad923 equipped Револьвер
+[02/20/2023 22:50:30]
+  Cryler, The Treator: Marcelino Hampton, помоги тем, кто попал в беду!
+[02/20/2023 22:50:31]
+  Marcelino Hampton: Так точно!
+[02/20/2023 22:50:31]
+  Qwutix threw Граната с воспламенитом
+[02/20/2023 22:50:32]
+  kynlan4ic equipped Кислородный баллон
+[02/20/2023 22:50:32]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:50:32]
+  Gigachad923 equipped Револьвер
+[02/20/2023 22:50:32]
+  kynlan4ic equipped Кислородный баллон
+[02/20/2023 22:50:32]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:50:32]
+  Cryler, The Treator: Arcelia Mulford, начинай устранять протечки!
+[02/20/2023 22:50:33]
+  Arcelia Mulford: Слушаюсь!
+[02/20/2023 22:50:34]
+  Cryler, The Treator: Arcelia Mulford, отремонтируй механические приборы!
+[02/20/2023 22:50:34]
+  Qwutix has lost more than 25 karma in the past minute.
+[02/20/2023 22:50:34]
+  Qwutix has contracted space herpes due to low karma.
+[02/20/2023 22:50:35]
+  Arcelia Mulford: Вас понял!
+[02/20/2023 22:50:37]
+  Cryler, The Treator: Lucas Chaney, туши огонь!
+[02/20/2023 22:50:38]
+  Gigachad923 equipped Ружье
+[02/20/2023 22:50:38]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 250)
+[02/20/2023 22:50:39]
+  Arcelia Mulford: Надо найти огнетушитель!
+[02/20/2023 22:50:39]
+  Cryler, The Treator: Lucas Chaney, отремонтируй электросистемы!
+[02/20/2023 22:50:40]
+  Lucas Chaney: Почему ты так поступаешь?
+[02/20/2023 22:50:40]
+  Arcelia Mulford equipped Огнетушитель
+[02/20/2023 22:50:40]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 250)
+[02/20/2023 22:50:40]
+  Burl Meza: Почему ты так поступаешь?
+[02/20/2023 22:50:40]
+  Lucas Chaney: Есть!
+[02/20/2023 22:50:40]
+  Burl Meza equipped Гаечный ключ
+[02/20/2023 22:50:40]
+  Marcelino Hampton: Burl Meza проходит лечение здесь: электрика!
+[02/20/2023 22:50:41]
+  Jodee Sunderland: Охрана! Охрана!
+[02/20/2023 22:50:41]
+  Чпок В Пупок adjusted reactor settings: Temperature: 3284, Fission rate: 65, Turbine output: 67, Autotemp OFF
+[02/20/2023 22:50:42]
+  Jodee Sunderland equipped Гаечный ключ
+[02/20/2023 22:50:42]
+  Чпок В Пупок adjusted reactor settings: Temperature: 3157, Fission rate: 65, Turbine output: 73, Autotemp OFF
+[02/20/2023 22:50:42]
+  Lucas Chaney: Мне нужен огнетушитель!
+[02/20/2023 22:50:42]
+  Emilee Parks: Мне нужен огнетушитель!
+[02/20/2023 22:50:43]
+  Чпок В Пупок adjusted reactor settings: Temperature: 2260, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[02/20/2023 22:50:43]
+  Qwutix equipped Граната с воспламенитом
+[02/20/2023 22:50:44]
+  Muoi Ram: Надо найти огнетушитель!
+[02/20/2023 22:50:45]
+  Console command "giveaffliction HuskInfection 100 " executed by igameCrog.
+[02/20/2023 22:50:45]
+  Qwutix threw Граната с воспламенитом
+[02/20/2023 22:50:48]
+  Lucas Chaney equipped Гаечный ключ
+[02/20/2023 22:50:51]
+  Gigachad923: kynlan4ic, встань за орудия!
+[02/20/2023 22:50:52]
+  Bell Sawyer: Мне нужно подводное снаряжение!
+[02/20/2023 22:50:53]
+  Anton Goodin equipped Огнетушитель
+[02/20/2023 22:50:53]
+  Maryann Rangel: Мне нужен огнетушитель!
+[02/20/2023 22:50:54]
+  Anton Goodin: Мне нужен огнетушитель!
+[02/20/2023 22:50:54]
+  Burl Meza: Надо найти огнетушитель!
+[02/20/2023 22:50:54]
+  Console command "godmode" executed by kynlan4ic.
+[02/20/2023 22:50:54]
+  Burl Meza unequipped Гаечный ключ
+[02/20/2023 22:50:55]
+  Console command "spawn charybdisold cursor" executed by igameCrog.
+[02/20/2023 22:50:57]
+  Jodee Sunderland unequipped Гаечный ключ
+[02/20/2023 22:50:58]
+  Jodee Sunderland: Надо найти огнетушитель!
+[02/20/2023 22:50:58]
+  Lucas Chaney unequipped Гаечный ключ
+[02/20/2023 22:50:59]
+  Console command "spawn charybdisold cursor" executed by igameCrog.
+[02/20/2023 22:50:59]
+  Arcelia Mulford: Реакторный отсек: мне удалось справиться с пожаром!
+[02/20/2023 22:51:00]
+  Lucas Chaney: Не могу найти огнетушители!
+[02/20/2023 22:51:01]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:51:01]
+  Console command "spawn charybdisold cursor" executed by igameCrog.
+[02/20/2023 22:51:02]
+  Jodee Sunderland equipped Отвертка
+[02/20/2023 22:51:03]
+  Lucas Chaney equipped Отвертка
+[02/20/2023 22:51:05]
+  Jodee Sunderland started repairing Батарея
+[02/20/2023 22:51:05]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:51:06]
+  Jodee Sunderland unequipped Отвертка
+[02/20/2023 22:51:06]
+  Jodee Sunderland equipped Отвертка
+[02/20/2023 22:51:06]
+  Qwutix equipped Граната с воспламенитом
+[02/20/2023 22:51:07]
+  Jodee Sunderland failed to repair Ядерный реактор
+[02/20/2023 22:51:08]
+  Anton Goodin equipped Сварочный аппарат
+[02/20/2023 22:51:10]
+  Maryann Rangel has died (Cause of death: Ожог)
+[02/20/2023 22:51:11]
+  Cryler, The Treator picked up Пояс инструментов
+[02/20/2023 22:51:11]
+  Чпок В Пупок has died (Cause of death: Ожог)
+[02/20/2023 22:51:11]
+  Emilee Parks equipped Сварочный аппарат
+[02/20/2023 22:51:12]
+  igameCrog has died (Cause of death: Ожог)
+[02/20/2023 22:51:13]
+  Lucas Chaney started repairing Батарея
+[02/20/2023 22:51:15]
+  Muoi Ram has died (Cause of death: Ожог)
+[02/20/2023 22:51:15]
+  Arcelia Mulford has died (Cause of death: Ожог)
+[02/20/2023 22:51:17]
+  igameCrog has died (Cause of death: Ожог)
+[02/20/2023 22:51:18]
+  Bell Sawyer has died (Cause of death: Ожог)
+[02/20/2023 22:51:20]
+  Lucas Chaney started repairing Батарея
+[02/20/2023 22:51:20]
+  Anton Goodin: Надо найти водолазный скафандр!
+[02/20/2023 22:51:21]
+  kynlan4ic equipped UEX
+[02/20/2023 22:51:22]
+  Marcelino Hampton has died (Cause of death: Ожог)
+[02/20/2023 22:51:22]
+  kynlan4ic threw UEX
+[02/20/2023 22:51:23]
+  Emilee Parks has died (Cause of death: Ожог)
+[02/20/2023 22:51:23]
+  Qwutix threw Граната с воспламенитом
+[02/20/2023 22:51:24]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:51:26]
+  Lucas Chaney started repairing Кабельная коробка
+[02/20/2023 22:51:29]
+  Console command "control charybdisold" executed by igameCrog.
+[02/20/2023 22:51:34]
+  Qwutix equipped Нож ныряльщика
+[02/20/2023 22:51:35]
+  Lucas Chaney: Пытаюсь найти огнетушитель!
+[02/20/2023 22:51:35]
+  Lucas Chaney unequipped Отвертка
+[02/20/2023 22:51:35]
+  Lucas Chaney equipped Огнетушитель
+[02/20/2023 22:51:43]
+  Anton Goodin unequipped Сварочный аппарат
+[02/20/2023 22:51:43]
+  Anton Goodin equipped Гаечный ключ
+[02/20/2023 22:51:43]
+  Lucas Chaney has died (Cause of death: Ожог)
+[02/20/2023 22:51:43]
+  Cryler, The Treator: ебать типы сгорели
+[02/20/2023 22:51:43]
+  Qwutix used Нож ныряльщика on Базовая стена – правая.
+[02/20/2023 22:51:50]
+  kynlan4ic attacked by Qwutix. Рваная рана: 0.5 ProgressiveStun: 1.0
+[02/20/2023 22:51:50]
+  Qwutix used Нож ныряльщика on Базовая стена – правая.
+[02/20/2023 22:51:50]
+  Cryler, The Treator: освенцим олл овер агейн
+[02/20/2023 22:51:54]
+  kynlan4ic attacked by Qwutix. Рваная рана: 0.5 ProgressiveStun: 1.0
+[02/20/2023 22:51:56]
+  Qwutix equipped Автоматический пистолет
+[02/20/2023 22:51:58]
+  kynlan4ic equipped Шоковая дубинка
+[02/20/2023 22:51:59]
+  kynlan4ic equipped Шоковая дубинка
+[02/20/2023 22:51:59]
+  kynlan4ic equipped Подводное ружье
+[02/20/2023 22:52:00]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:00]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[02/20/2023 22:52:00]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 5.0 Кровотечение: 7.5 Оглушение: 0.2
+[02/20/2023 22:52:00]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:00]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:01]
+  Чпок В Пупок: крута
+[02/20/2023 22:52:01]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:01]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:01]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:01]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[02/20/2023 22:52:01]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:01]
+  Qwutix has been warned for having dangerously low karma.
+[02/20/2023 22:52:01]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 5.0 Кровотечение: 7.5
+[02/20/2023 22:52:02]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:02]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:02]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:02]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:02]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:03]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:03]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 5.0 Кровотечение: 7.5 Оглушение: 0.2
+[02/20/2023 22:52:03]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:03]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 4.5 Кровотечение: 7.5
+[02/20/2023 22:52:04]
+  Qwutix equipped Пистолет-пулемет
+[02/20/2023 22:52:05]
+  Qwutix attacked by kynlan4ic. Рваная рана: 16.6 Кровотечение: 26.3 Оглушение: 0.5
+[02/20/2023 22:52:05]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 8.1 Кровотечение: 12.2
+[02/20/2023 22:52:05]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 7.3 Кровотечение: 12.2 Оглушение: 0.3
+[02/20/2023 22:52:06]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 7.3 Кровотечение: 12.2
+[02/20/2023 22:52:06]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 8.1 Кровотечение: 12.2
+[02/20/2023 22:52:06]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 7.3 Кровотечение: 12.2
+[02/20/2023 22:52:06]
+  Qwutix attacked by kynlan4ic. Рваная рана: 17.5 Кровотечение: 26.3 Оглушение: 0.5
+[02/20/2023 22:52:07]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 7.3 Кровотечение: 12.2 Оглушение: 0.3
+[02/20/2023 22:52:07]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 7.3 Кровотечение: 12.2
+[02/20/2023 22:52:07]
+  kynlan4ic attacked by Qwutix. Огнестрельная рана: 7.3 Кровотечение: 12.2
+[02/20/2023 22:52:10]
+  Cryler, The Treator: ща пизданемся
+[02/20/2023 22:52:11]
+  Dispatching the respawn shuttle.
+[02/20/2023 22:52:11]
+  Respawning Чпок В Пупок (STEAM_1:1:442373355) as Инженер
+[02/20/2023 22:52:11]
+  Respawning bot Lucas Chaney as Инженер
+[02/20/2023 22:52:11]
+  Respawning bot Arcelia Mulford as Механик
+[02/20/2023 22:52:11]
+  Respawning bot Marcelino Hampton as Врач
+[02/20/2023 22:52:11]
+  Respawning bot Emilee Parks as Помощник
+[02/20/2023 22:52:11]
+  Respawning bot Muoi Ram as Помощник
+[02/20/2023 22:52:11]
+  Respawning bot Bell Sawyer as Механик
+[02/20/2023 22:52:11]
+  Respawning bot Maryann Rangel as Помощник
+[02/20/2023 22:52:14]
+  kynlan4ic picked up Гарпун
+[02/20/2023 22:52:14]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:52:16]
+  Cryler, The Treator: летим в бездну
+[02/20/2023 22:52:17]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 2755)
+[02/20/2023 22:52:21]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:52:27]
+  Jodee Sunderland failed to repair Ядерный реактор
+[02/20/2023 22:52:27]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:52:27]
+  Чпок В Пупок picked up Одноразовый водолазный скафандр
+[02/20/2023 22:52:29]
+  kynlan4ic unequipped Подводное ружье
+[02/20/2023 22:52:29]
+  kynlan4ic equipped Вещмешок
+[02/20/2023 22:52:29]
+  Чпок В Пупок picked up Одноразовый водолазный скафандр
+[02/20/2023 22:52:29]
+  Чпок В Пупок dropped Одноразовый водолазный скафандр
+[02/20/2023 22:52:31]
+  kynlan4ic dropped Вещмешок
+[02/20/2023 22:52:34]
+  Чпок В Пупок placed Аккумулятор in Подводный скутер (ID: 3365)
+[02/20/2023 22:52:42]
+  Console command "godmode" executed by kynlan4ic.
+[02/20/2023 22:52:47]
+  kynlan4ic placed Дробовик in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:48]
+  kynlan4ic placed Граната с воспламенитом in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:48]
+  kynlan4ic placed Автоматический пистолет in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:49]
+  kynlan4ic placed Нож ныряльщика in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:49]
+  kynlan4ic placed Подводное ружье in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:50]
+  kynlan4ic placed Шоковая дубинка in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:50]
+  kynlan4ic placed Шоковая дубинка in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:50]
+  kynlan4ic placed Наручники in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:51]
+  Cryler, The Treator has died (Cause of death: Нехватка кислорода)
+[02/20/2023 22:52:51]
+  kynlan4ic placed Нож ныряльщика in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:52:53]
+  Qwutix has died (Cause of death: Нехватка кислорода)
+[02/20/2023 22:53:03]
+  Чпок В Пупок equipped Подводный скутер
+[02/20/2023 22:53:04]
+  Bell Sawyer: Мне нужно подводное снаряжение!
+[02/20/2023 22:53:04]
+  kynlan4ic picked up Водолазный скафандр
+[02/20/2023 22:53:06]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:06]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:09]
+  Burl Meza has died (Cause of death: Нехватка кислорода)
+[02/20/2023 22:53:09]
+  Gigachad923 has died (Cause of death: Нехватка кислорода)
+[02/20/2023 22:53:09]
+  Marcelino Hampton: Мне нужно подводное снаряжение!
+[02/20/2023 22:53:09]
+  Maryann Rangel: Надо найти водолазный скафандр!
+[02/20/2023 22:53:11]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:12]
+  Lucas Chaney: Надо найти водолазный скафандр!
+[02/20/2023 22:53:12]
+  Arcelia Mulford: Надо найти водолазный скафандр!
+[02/20/2023 22:53:12]
+  Emilee Parks: Надо найти водолазный скафандр!
+[02/20/2023 22:53:12]
+  Muoi Ram: Надо найти водолазный скафандр!
+[02/20/2023 22:53:18]
+  Cryler, The Treator: кто делает эту хуйню бля(
+[02/20/2023 22:53:19]
+  kynlan4ic picked up Подводный скутер
+[02/20/2023 22:53:20]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:20]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:20]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:20]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:20]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:53:21]
+  Bell Sawyer equipped Сварочный аппарат
+[02/20/2023 22:53:22]
+  Bell Sawyer: Помогите мне!
+[02/20/2023 22:53:23]
+  kynlan4ic picked up Аккумулятор
+[02/20/2023 22:53:23]
+  kynlan4ic picked up Аккумулятор
+[02/20/2023 22:53:23]
+  kynlan4ic picked up Аккумулятор
+[02/20/2023 22:53:27]
+  Чпок В Пупок has died (Cause of death: Укусы)
+[02/20/2023 22:53:29]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:53:37]
+  Anton Goodin has died (Cause of death: Ожог)
+[02/20/2023 22:53:39]
+  Bell Sawyer: У меня кровь!
+[02/20/2023 22:53:42]
+  Bell Sawyer: Помогите!
+[02/20/2023 22:53:52]
+  Bell Sawyer has died (Cause of death: Укусы)
+[02/20/2023 22:54:27]
+  Jodee Sunderland has died (Cause of death: Ожог)
+[02/20/2023 22:54:33]
+  Cryler, The Treator покидает сервер.
+[02/20/2023 22:54:37]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:55:25]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:55:47]
+  Qwutix покидает сервер.
+[02/20/2023 22:55:51]
+  The respawn shuttle is leaving.
+[02/20/2023 22:56:08]
+  Outer wall breached by Charybdisold
+[02/20/2023 22:56:16]
+  kynlan4ic picked up Подводное ружье
+[02/20/2023 22:56:18]
+  kynlan4ic picked up Граната с воспламенитом
+[02/20/2023 22:56:21]
+  kynlan4ic picked up Дробовик
+[02/20/2023 22:56:21]
+  Lucas Chaney has died (Cause of death: Unknown)
+[02/20/2023 22:56:21]
+  Arcelia Mulford has died (Cause of death: Unknown)
+[02/20/2023 22:56:21]
+  Marcelino Hampton has died (Cause of death: Unknown)
+[02/20/2023 22:56:21]
+  Emilee Parks has died (Cause of death: Unknown)
+[02/20/2023 22:56:21]
+  Muoi Ram has died (Cause of death: Unknown)
+[02/20/2023 22:56:21]
+  Maryann Rangel has died (Cause of death: Unknown)
+[02/20/2023 22:56:21]
+  The respawn shuttle has left.
+[02/20/2023 22:56:22]
+  kynlan4ic picked up Автоматический пистолет
+[02/20/2023 22:56:22]
+  kynlan4ic picked up Нож ныряльщика
+[02/20/2023 22:56:23]
+  kynlan4ic picked up Электрошокер
+[02/20/2023 22:56:23]
+  kynlan4ic picked up Электрошокер
+[02/20/2023 22:56:24]
+  kynlan4ic picked up Шоковая дубинка
+[02/20/2023 22:56:25]
+  kynlan4ic equipped Осколочная граната
+[02/20/2023 22:56:25]
+  kynlan4ic picked up Осколочная граната
+[02/20/2023 22:56:27]
+  kynlan4ic placed Осколочная граната in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:56:28]
+  kynlan4ic placed Электрошокер in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:56:29]
+  kynlan4ic placed Нож ныряльщика in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:56:33]
+  kynlan4ic picked up Осколочная граната
+[02/20/2023 22:56:33]
+  kynlan4ic picked up Осколочная граната
+[02/20/2023 22:56:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:45]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:46]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:46]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:46]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:47]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:47]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:47]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:47]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:48]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:48]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:48]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:48]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:49]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:49]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:49]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:49]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:50]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:50]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:50]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:51]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:51]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:51]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:51]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:52]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:52]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:52]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:53]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:53]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:53]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:53]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:54]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:54]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:54]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:55]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:55]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:55]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:55]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:56]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:56]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:57]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:57]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:57]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:57]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:58]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:58]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:58]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:58]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:59]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:59]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:56:59]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:56:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:00]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:00]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:00]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:00]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:01]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:01]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:01]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:02]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:02]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:02]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:02]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:02]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:03]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:03]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:03]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:04]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:04]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:04]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:04]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:05]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:05]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:05]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:06]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:06]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:06]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:06]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:07]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:07]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:07]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:07]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:08]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:08]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:08]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:08]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:57:10]
+  Charybdisold attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:57:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)

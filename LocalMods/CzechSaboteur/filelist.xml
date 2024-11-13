@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="CzechSaboteur" modversion="1.0.4" corepackage="False" gameversion="0.21.6.0">
+  <Submarine file="%ModDir%/CzechSaboteur.sub" />
+</contentpackage>

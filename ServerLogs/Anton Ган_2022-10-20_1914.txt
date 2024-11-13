@@ -1,0 +1,1600 @@
+﻿[10/20/2022 18:29:19]
+  Арти Дулитл: Ух ты, у нас снова гости.
+[10/20/2022 18:29:38]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:29:49]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:33:30]
+  Client "kynlan4ic" ended the round.
+[10/20/2022 18:33:30]
+  Ending the round...
+[10/20/2022 18:33:30]
+  Round ended.
+[10/20/2022 18:33:33]
+  Starting a new round...
+[10/20/2022 18:33:35]
+  Maurice Jones equipped Отвертка
+[10/20/2022 18:33:35]
+  Emerald Banks equipped Гаечный ключ
+[10/20/2022 18:33:35]
+  Миссия: Пассажирские перевозки
+[10/20/2022 18:33:35]
+  Нескольких пассажиров нужно отвезти в точку Tara. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[10/20/2022 18:33:36]
+  Game mode: Кампания
+[10/20/2022 18:33:36]
+  Submarine: Barsuk
+[10/20/2022 18:33:36]
+  Level seed: BastTara
+[10/20/2022 18:33:36]
+  Mission: Пассажирские перевозки
+[10/20/2022 18:33:36]
+  Round started.
+[10/20/2022 18:33:37]
+  Emerald Banks unequipped Гаечный ключ
+[10/20/2022 18:33:37]
+  Maurice Jones unequipped Отвертка
+[10/20/2022 18:33:45]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:33:55]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:34:25]
+  kynlan4ic: Я проложу курс к месту назначения!
+[10/20/2022 18:34:36]
+  Vasili Castro: Внутрь.
+[10/20/2022 18:34:37]
+  Vasili Castro: Нырять глубже? Нет, нырять внутрь.
+[10/20/2022 18:34:40]
+  Jackie Molina: Что за каша у тебя в голове?
+[10/20/2022 18:36:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:37:32]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:36]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:43]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:37:48]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:48]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:37:55]
+  Marcy Ordway: Мне нужно подводное снаряжение!
+[10/20/2022 18:37:58]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:37:59]
+  Marcel Freeman: Надо найти водолазный скафандр!
+[10/20/2022 18:38:03]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:38:04]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:06]
+  Jackie Molina equipped Сварочный аппарат
+[10/20/2022 18:38:06]
+  Jackie Molina: Мне нужно подводное снаряжение!
+[10/20/2022 18:38:07]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:38:09]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 18:38:11]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 18:38:12]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:38:12]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 18:38:13]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:38:13]
+  Marcel Freeman: Реакторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 18:38:14]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:38:14]
+  Marcel Freeman: Реакторный отсек: протечек не осталось!
+[10/20/2022 18:38:16]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:38:19]
+  Socorro Cortese equipped Сварочный аппарат
+[10/20/2022 18:38:21]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:38:21]
+  Socorro Cortese: Отсек генератора кислорода: все протечки устранены!
+[10/20/2022 18:38:24]
+  Jackie Molina unequipped Сварочный аппарат
+[10/20/2022 18:38:25]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:26]
+  Socorro Cortese unequipped Сварочный аппарат
+[10/20/2022 18:38:29]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:35]
+  Marcel Freeman equipped Водолазный скафандр
+[10/20/2022 18:38:36]
+  Outer wall repaired by Marcy Ordway
+[10/20/2022 18:38:39]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:46]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:38:48]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[10/20/2022 18:38:49]
+  kynlan4ic: Marcel Freeman, начинай устранять протечки!
+[10/20/2022 18:38:49]
+  Outer wall repaired by Marcy Ordway
+[10/20/2022 18:38:50]
+  Marcy Ordway: Пункт управления: минус одна протечка!
+[10/20/2022 18:38:50]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:38:50]
+  Marcel Freeman: Вас понял!
+[10/20/2022 18:38:54]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:38:55]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:38:56]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:38:56]
+  Outer wall repaired by Marcy Ordway
+[10/20/2022 18:38:57]
+  Marcy Ordway: Пункт управления: все протечки устранены!
+[10/20/2022 18:38:57]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:38:58]
+  Marcel Freeman closed Настраиваемая дверь
+[10/20/2022 18:39:04]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:39:05]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:39:06]
+  Marcel Freeman: Пункт управления: протечек не осталось!
+[10/20/2022 18:39:06]
+  Outer wall repaired by Marcel Freeman
+[10/20/2022 18:39:06]
+  Marcel Freeman: Мне нужно подводное снаряжение!
+[10/20/2022 18:39:09]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:39:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:39:12]
+  Marcel Freeman opened Настраиваемая дверь
+[10/20/2022 18:39:13]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:39:13]
+  Marcel Freeman equipped Гаечный ключ
+[10/20/2022 18:39:14]
+  Tommie Cortese equipped Шоковая дубинка
+[10/20/2022 18:39:14]
+  Marcy Ordway equipped Сварочный аппарат
+[10/20/2022 18:39:14]
+  Marcel Freeman unequipped Гаечный ключ
+[10/20/2022 18:39:14]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:39:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:39:15]
+  Jackie Molina equipped Сварочный аппарат
+[10/20/2022 18:39:15]
+  Joy Molina equipped Гаечный ключ
+[10/20/2022 18:39:15]
+  Vasili Castro equipped Шоковая дубинка
+[10/20/2022 18:39:16]
+  Jackie Molina unequipped Сварочный аппарат
+[10/20/2022 18:39:16]
+  Socorro Cortese equipped Сварочный аппарат
+[10/20/2022 18:39:16]
+  Jackie Molina equipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Socorro Cortese unequipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:17]
+  Maurice Jones equipped Отвертка
+[10/20/2022 18:39:17]
+  Kizzie Sunderland equipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Joy Molina unequipped Гаечный ключ
+[10/20/2022 18:39:17]
+  Vasili Castro unequipped Шоковая дубинка
+[10/20/2022 18:39:17]
+  Socorro Cortese equipped Сварочный аппарат
+[10/20/2022 18:39:17]
+  Joy Molina equipped Гаечный ключ
+[10/20/2022 18:39:17]
+  Vasili Castro equipped Шоковая дубинка
+[10/20/2022 18:39:18]
+  Marcel Freeman: Я теряю много крови!
+[10/20/2022 18:39:19]
+  Tommie Cortese: У меня кровь!
+[10/20/2022 18:39:19]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:19]
+  Kizzie Sunderland unequipped Сварочный аппарат
+[10/20/2022 18:39:20]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Tommie Cortese.
+[10/20/2022 18:39:20]
+  Kizzie Sunderland equipped Сварочный аппарат
+[10/20/2022 18:39:21]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:22]
+  Emerald Banks equipped Гаечный ключ
+[10/20/2022 18:39:22]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:22]
+  kynlan4ic equipped Револьвер
+[10/20/2022 18:39:22]
+  Tommie Cortese used Шоковая дубинка (Аккумулятор) on Vasili Castro.
+[10/20/2022 18:39:23]
+  Tommie Cortese unequipped Шоковая дубинка
+[10/20/2022 18:39:23]
+  Tommie Cortese equipped Нож ныряльщика
+[10/20/2022 18:39:23]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:24]
+  Marcy Ordway unequipped Сварочный аппарат
+[10/20/2022 18:39:24]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:24]
+  Joy Molina unequipped Гаечный ключ
+[10/20/2022 18:39:24]
+  Joy Molina equipped Отвертка
+[10/20/2022 18:39:25]
+  Vasili Castro used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/20/2022 18:39:25]
+  Vasili Castro unequipped Шоковая дубинка
+[10/20/2022 18:39:25]
+  Vasili Castro equipped Нож ныряльщика
+[10/20/2022 18:39:25]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:26]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:26]
+  Vasili Castro: У меня кровь!
+[10/20/2022 18:39:26]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:26]
+  Jackie Molina unequipped Сварочный аппарат
+[10/20/2022 18:39:27]
+  Maurice Jones unequipped Отвертка
+[10/20/2022 18:39:27]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:27]
+  Vasili Castro used Нож ныряльщика on Tommie Cortese.
+[10/20/2022 18:39:28]
+  Vasili Castro used Нож ныряльщика on Tommie Cortese.
+[10/20/2022 18:39:29]
+  Inner wall breached by Vasili Castro
+[10/20/2022 18:39:29]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:39:29]
+  Tommie Cortese used Нож ныряльщика on Vasili Castro.
+[10/20/2022 18:39:29]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:30]
+  Kizzie Sunderland unequipped Сварочный аппарат
+[10/20/2022 18:39:30]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:31]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:31]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:32]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:32]
+  Emerald Banks unequipped Гаечный ключ
+[10/20/2022 18:39:32]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:33]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:33]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:34]
+  Vasili Castro used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:34]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/20/2022 18:39:34]
+  Tommie Cortese used Нож ныряльщика on Mudraptor_unarmored.
+[10/20/2022 18:39:34]
+  Tommie Cortese unequipped Нож ныряльщика
+[10/20/2022 18:39:34]
+  Vasili Castro unequipped Нож ныряльщика
+[10/20/2022 18:39:38]
+  Tommie Cortese equipped Аккумулятор
+[10/20/2022 18:39:44]
+  Vasili Castro equipped Аккумулятор
+[10/20/2022 18:39:44]
+  Joy Molina unequipped Отвертка
+[10/20/2022 18:39:45]
+  Fritz Dollinger: Tommie Cortese проходит лечение здесь: реакторный отсек!
+[10/20/2022 18:39:46]
+  Joy Molina closed Настраиваемая дверь
+[10/20/2022 18:39:46]
+  Socorro Cortese: Tommie Cortese получает первую помощь здесь: реакторный отсек!
+[10/20/2022 18:39:47]
+  kynlan4ic: Пункт управления: здесь срочно требуется медицинская помощь!
+[10/20/2022 18:39:49]
+  Socorro Cortese: Vasili Castro получает первую помощь здесь: реакторный отсек!
+[10/20/2022 18:39:49]
+  Socorro Cortese: Tommie Cortese нуждается в помощи! Срочно требуется физраствор, бинт, стабилоцин или налоксон!
+[10/20/2022 18:39:51]
+  Tommie Cortese: Помогите, я истекаю кровью!
+[10/20/2022 18:39:52]
+  Socorro Cortese: Мне требуется физраствор, бинт, стабилоцин или налоксон!
+[10/20/2022 18:39:52]
+  Marcel Freeman: Помогите, я истекаю кровью!
+[10/20/2022 18:39:53]
+  Fritz Dollinger: Tommie Cortese в полном порядке!
+[10/20/2022 18:39:53]
+  Socorro Cortese unequipped Сварочный аппарат
+[10/20/2022 18:39:53]
+  Socorro Cortese equipped Стабилоцин
+[10/20/2022 18:39:55]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:40:01]
+  Vasili Castro: Помогите, я истекаю кровью!
+[10/20/2022 18:40:01]
+  Socorro Cortese unequipped Стабилоцин
+[10/20/2022 18:40:01]
+  Socorro Cortese equipped Физраствор
+[10/20/2022 18:40:13]
+  Socorro Cortese equipped Бинт
+[10/20/2022 18:40:18]
+  Socorro Cortese: Vasili Castro чувствует себя хорошо!
+[10/20/2022 18:40:34]
+  Vasili Castro: Я теряю много крови!
+[10/20/2022 18:41:05]
+  Vasili Castro: Помогите, я истекаю кровью!
+[10/20/2022 18:41:10]
+  kynlan4ic docked Barsuk to Tara
+[10/20/2022 18:41:10]
+  kynlan4ic has gained 99 experience (0 -> 99)
+[10/20/2022 18:41:10]
+  igameCrog has gained 99 experience (0 -> 99)
+[10/20/2022 18:41:11]
+  Ending the round...
+[10/20/2022 18:41:11]
+  Round ended.
+[10/20/2022 18:41:14]
+  Starting a new round...
+[10/20/2022 18:41:16]
+  Game mode: Кампания
+[10/20/2022 18:41:16]
+  Submarine: Barsuk
+[10/20/2022 18:41:16]
+  Level seed: Tara
+[10/20/2022 18:41:17]
+  David Linares equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  David Linares unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  David Linares equipped Отвертка
+[10/20/2022 18:41:17]
+  Katrina Aker equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Katrina Aker unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Katrina Aker equipped Отвертка
+[10/20/2022 18:41:17]
+  Danielle Southworth equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Danielle Southworth unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Danielle Southworth equipped Отвертка
+[10/20/2022 18:41:17]
+  Zandra Rosewood equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Zandra Rosewood unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Zandra Rosewood equipped Отвертка
+[10/20/2022 18:41:17]
+  Zandra Rosewood unequipped Отвертка
+[10/20/2022 18:41:17]
+  Zandra Rosewood equipped Лом
+[10/20/2022 18:41:17]
+  Karyn Parker equipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Karyn Parker unequipped Гаечный ключ
+[10/20/2022 18:41:17]
+  Karyn Parker equipped Отвертка
+[10/20/2022 18:41:17]
+  Cecille Mansfield equipped Лом
+[10/20/2022 18:41:17]
+  Hobert Preston equipped Гаечный ключ
+[10/20/2022 18:41:18]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:41:18]
+  Round started.
+[10/20/2022 18:41:18]
+  Hobert Preston unequipped Гаечный ключ
+[10/20/2022 18:41:19]
+  Zandra Rosewood unequipped Лом
+[10/20/2022 18:41:19]
+  Cecille Mansfield unequipped Лом
+[10/20/2022 18:41:19]
+  David Linares unequipped Отвертка
+[10/20/2022 18:41:23]
+  Vasili Castro: Помогите, я истекаю кровью!
+[10/20/2022 18:41:27]
+  Austin Poole: Всем привет! Похоже, у вас был тяжелый рейс.
+[10/20/2022 18:41:27]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:41:37]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:42:11]
+  kynlan4ic: Marcy Ordway, займись электроприборами!
+[10/20/2022 18:42:12]
+  Marcy Ordway: Принято.
+[10/20/2022 18:42:17]
+  Austin Poole: Я думаю, молохи очень дружелюбные и просто хотят пообниматься с симпатичными подлодками.
+[10/20/2022 18:42:25]
+  kynlan4ic: Marcy Ordway, убедись, что все батареи заряжены!
+[10/20/2022 18:42:26]
+  Marcy Ordway: Принято.
+[10/20/2022 18:42:46]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 18:42:51]
+  kynlan4ic closed Настраиваемая дверь
+[10/20/2022 18:46:35]
+  kynlan4ic picked up Взрывной гранат
+[10/20/2022 18:47:40]
+  Client "kynlan4ic" ended the round.
+[10/20/2022 18:47:41]
+  Ending the round...
+[10/20/2022 18:47:41]
+  Round ended.
+[10/20/2022 18:47:43]
+  Starting a new round...
+[10/20/2022 18:47:46]
+  Миссия: Взрывной груз
+[10/20/2022 18:47:46]
+  Местный торговец оружием предлагает 800 кред. за доставку груза взрывчатки его клиенту в точке Аванпост Bast.
+[10/20/2022 18:47:46]
+  Game mode: Кампания
+[10/20/2022 18:47:46]
+  Submarine: Barsuk
+[10/20/2022 18:47:46]
+  Level seed: BastTara
+[10/20/2022 18:47:46]
+  Mission: Взрывной груз
+[10/20/2022 18:47:47]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:47:47]
+  Round started.
+[10/20/2022 18:47:53]
+  Marcy Ordway equipped Отвертка
+[10/20/2022 18:47:55]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:47:56]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:48:05]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:48:09]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:48:23]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:48:26]
+  kynlan4ic: Я проложу курс к месту назначения!
+[10/20/2022 18:48:37]
+  Joy Molina: Мне скучно!
+[10/20/2022 18:48:40]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:48:59]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:49:09]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:49:21]
+  Marcy Ordway started repairing Монитор состояния
+[10/20/2022 18:49:25]
+  Marcy Ordway unequipped Отвертка
+[10/20/2022 18:51:08]
+  Outer wall breached by Mudraptor_unarmored
+[10/20/2022 18:51:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:09]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:09]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:10]
+  Marcel Freeman: Надо найти водолазный скафандр!
+[10/20/2022 18:51:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:14]
+  Marcel Freeman opened Настраиваемая дверь
+[10/20/2022 18:51:14]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:15]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[10/20/2022 18:51:15]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 18:51:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:15]
+  Marcel Freeman equipped Сварочный аппарат
+[10/20/2022 18:51:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:16]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/20/2022 18:51:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 18:51:18]
+  Marcel Freeman unequipped Сварочный аппарат
+[10/20/2022 18:52:40]
+  Marcy Ordway equipped Отвертка
+[10/20/2022 18:52:41]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:52:45]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:52:54]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:52:58]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:53:07]
+  Marcy Ordway started repairing Навигационный терминал
+[10/20/2022 18:53:16]
+  Marcy Ordway started repairing Кабельная коробка
+[10/20/2022 18:53:20]
+  Marcy Ordway unequipped Отвертка
+[10/20/2022 18:53:31]
+  kynlan4ic: Marcy Ordway, заряди реактор!
+[10/20/2022 18:53:32]
+  Marcy Ordway: Так точно!
+[10/20/2022 18:53:35]
+  Marcy Ordway: Загружаю в реактор дополнительное топливо!
+[10/20/2022 18:53:38]
+  Joy Molina equipped Топливный стержень
+[10/20/2022 18:54:02]
+  igameCrog adjusted reactor settings: Temperature: 3094, Fission rate: 69, Turbine output: 79, Autotemp OFF
+[10/20/2022 18:54:03]
+  igameCrog adjusted reactor settings: Temperature: 3093, Fission rate: 69, Turbine output: 78, Autotemp ON
+[10/20/2022 18:54:04]
+  igameCrog adjusted reactor settings: Temperature: 3111, Fission rate: 68, Turbine output: 77, Autotemp ON
+[10/20/2022 18:54:08]
+  igameCrog adjusted reactor settings: Temperature: 3398, Fission rate: 64, Turbine output: 72, Autotemp OFF
+[10/20/2022 18:54:09]
+  igameCrog adjusted reactor settings: Temperature: 3202, Fission rate: 65, Turbine output: 72, Autotemp ON
+[10/20/2022 18:54:46]
+  kynlan4ic docked Barsuk to Аванпост Bast
+[10/20/2022 18:54:46]
+  kynlan4ic has gained 72 experience (99 -> 171)
+[10/20/2022 18:54:46]
+  igameCrog has gained 72 experience (99 -> 171)
+[10/20/2022 18:54:46]
+  Ending the round...
+[10/20/2022 18:54:47]
+  Round ended.
+[10/20/2022 18:54:49]
+  Starting a new round...
+[10/20/2022 18:54:57]
+  Game mode: Кампания
+[10/20/2022 18:54:57]
+  Submarine: Barsuk
+[10/20/2022 18:54:57]
+  Level seed: Bast
+[10/20/2022 18:54:57]
+  Yahaira Deloney equipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Yahaira Deloney unequipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Yahaira Deloney equipped Отвертка
+[10/20/2022 18:54:57]
+  Eliza Day equipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Eliza Day unequipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Eliza Day equipped Отвертка
+[10/20/2022 18:54:57]
+  Simon Gregory equipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Simon Gregory unequipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Simon Gregory equipped Отвертка
+[10/20/2022 18:54:57]
+  Creola Bushman equipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Creola Bushman unequipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Creola Bushman equipped Отвертка
+[10/20/2022 18:54:57]
+  Creola Bushman unequipped Отвертка
+[10/20/2022 18:54:57]
+  Creola Bushman equipped Лом
+[10/20/2022 18:54:57]
+  Bettyann Molina equipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Bettyann Molina unequipped Гаечный ключ
+[10/20/2022 18:54:57]
+  Bettyann Molina equipped Отвертка
+[10/20/2022 18:54:57]
+  Ezequiel Kinney equipped Лом
+[10/20/2022 18:54:57]
+  Rosendo Veach equipped Отвертка
+[10/20/2022 18:54:57]
+  Sanda Hardy equipped Отвертка
+[10/20/2022 18:54:57]
+  kynlan4ic equipped Трубка капитана
+[10/20/2022 18:54:58]
+  Round started.
+[10/20/2022 18:54:58]
+  Carla Feinman: Какая у вас отличная подлодка!
+[10/20/2022 18:54:58]
+  Beverley Blackwell equipped Гаечный ключ
+[10/20/2022 18:54:58]
+  Herman Preston equipped Гаечный ключ
+[10/20/2022 18:54:58]
+  Creola Bushman unequipped Лом
+[10/20/2022 18:54:58]
+  Rosendo Veach unequipped Отвертка
+[10/20/2022 18:54:58]
+  Beverley Blackwell unequipped Гаечный ключ
+[10/20/2022 18:54:59]
+  Sanda Hardy unequipped Отвертка
+[10/20/2022 18:54:59]
+  Yahaira Deloney unequipped Отвертка
+[10/20/2022 18:54:59]
+  Ezequiel Kinney unequipped Лом
+[10/20/2022 18:54:59]
+  Herman Preston unequipped Гаечный ключ
+[10/20/2022 18:55:05]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:55:16]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 18:55:53]
+  Rosendo Veach: Наш предыдущий капитан иногда заставлял нас выполнять маневр под названием «нырок камикадзе».
+[10/20/2022 18:55:58]
+  Rosendo Veach: Он говорил, что для смелых все – балласт.
+[10/20/2022 18:56:02]
+  Rosendo Veach: Жаль, что его больше нет с нами. Пожалуй, он все же был слишком смелым.
+[10/20/2022 18:57:23]
+  kynlan4ic closed Настраиваемая дверь
+[10/20/2022 18:57:24]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 18:57:27]
+  kynlan4ic closed Настраиваемая дверь
+[10/20/2022 18:57:31]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 18:57:46]
+  Client "kynlan4ic" ended the round.
+[10/20/2022 18:57:46]
+  Ending the round...
+[10/20/2022 18:57:46]
+  Round ended.
+[10/20/2022 18:58:10]
+  Gamemode changed to PvP
+[10/20/2022 18:58:37]
+  igameCrog покидает сервер.
+[10/20/2022 18:58:45]
+  Gamemode changed to Песочница
+[10/20/2022 19:00:58]
+  kynlan4ic changed PlayStyle to Casual
+[10/20/2022 19:00:58]
+  kynlan4ic changed LosMode to Transparent
+[10/20/2022 19:00:58]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/20/2022 19:00:58]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/20/2022 19:01:29]
+  Client "kynlan4ic" started the round.
+[10/20/2022 19:01:29]
+  Starting a new round...
+[10/20/2022 19:01:31]
+  Game mode: Песочница
+[10/20/2022 19:01:31]
+  Submarine: Camel
+[10/20/2022 19:01:31]
+  Level seed: Европа
+[10/20/2022 19:01:32]
+  Round started.
+[10/20/2022 19:01:38]
+  Tawanda Roman: Видит ли Бог, что происходит под толщей льда?
+[10/20/2022 19:01:41]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 19:01:42]
+  Tawanda Roman: Видит ли это Юпитер?
+[10/20/2022 19:03:21]
+  kynlan4ic: Shayla Gould, прокладывай курс вперед!
+[10/20/2022 19:03:23]
+  Shayla Gould: Есть!
+[10/20/2022 19:04:29]
+  Shayla Gould: На радаре ледяные шпили!
+[10/20/2022 19:04:35]
+  Shayla Gould: Большая цель на сонаре. Направление: 6 ч.!
+[10/20/2022 19:04:52]
+  Outer wall breached by Moloch
+[10/20/2022 19:04:52]
+  Outer wall breached by Moloch
+[10/20/2022 19:04:52]
+  Inner wall breached by Moloch
+[10/20/2022 19:04:52]
+  Outer wall breached by Moloch
+[10/20/2022 19:05:01]
+  Arkadi Mungo equipped Сварочный аппарат
+[10/20/2022 19:05:01]
+  Arkadi Mungo: Надо найти водолазный скафандр!
+[10/20/2022 19:05:06]
+  kynlan4ic: Rowena Veach, займись протечками!
+[10/20/2022 19:05:07]
+  Rowena Veach: Слушаюсь!
+[10/20/2022 19:05:07]
+  Rowena Veach: Мне нужно подводное снаряжение!
+[10/20/2022 19:05:16]
+  kynlan4ic: Cuck Summers, уничтожь врагов!
+[10/20/2022 19:05:17]
+  Cuck Summers: Вас понял!
+[10/20/2022 19:05:20]
+  kynlan4ic: Cuck Summers, уничтожь врагов!
+[10/20/2022 19:05:21]
+  Cuck Summers: Есть!
+[10/20/2022 19:05:21]
+  Arkadi Mungo: Реакторный отсек: все протечки устранены!
+[10/20/2022 19:05:24]
+  Devin Frye: Мне нужно подводное снаряжение!
+[10/20/2022 19:05:27]
+  Shayla Gould: Эй, тут я у руля!
+[10/20/2022 19:05:28]
+  Rowena Veach equipped Сварочный аппарат
+[10/20/2022 19:05:29]
+  Outer wall repaired by Arkadi Mungo
+[10/20/2022 19:05:34]
+  Arkadi Mungo unequipped Сварочный аппарат
+[10/20/2022 19:05:37]
+  Milton Buckley: Надо найти водолазный скафандр!
+[10/20/2022 19:05:39]
+  Shayla Gould: Сильный источник сигнала! Направление: 10 ч.!
+[10/20/2022 19:05:50]
+  Macey Dollinger equipped Сварочный аппарат
+[10/20/2022 19:05:50]
+  Macey Dollinger: Надо найти водолазный скафандр!
+[10/20/2022 19:05:54]
+  Milton Buckley equipped Сварочный аппарат
+[10/20/2022 19:05:55]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:05:55]
+  Cuck Summers equipped Сварочный аппарат
+[10/20/2022 19:05:55]
+  Cuck Summers: Мне нужно подводное снаряжение!
+[10/20/2022 19:05:56]
+  Milton Buckley: Задний балласт: протечек не осталось!
+[10/20/2022 19:05:56]
+  Milton Buckley unequipped Сварочный аппарат
+[10/20/2022 19:05:57]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 19:05:58]
+  Macey Dollinger unequipped Сварочный аппарат
+[10/20/2022 19:05:59]
+  Rowena Veach unequipped Сварочный аппарат
+[10/20/2022 19:06:03]
+  Cuck Summers unequipped Сварочный аппарат
+[10/20/2022 19:06:14]
+  Shayla Gould: На радаре ледяные шпили!
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:17]
+  Outer wall breached by Moloch
+[10/20/2022 19:06:21]
+  Rowena Veach: Мне нужно подводное снаряжение!
+[10/20/2022 19:06:22]
+  Arkadi Mungo equipped Водолазный скафандр
+[10/20/2022 19:06:23]
+  Macey Dollinger: Мне нужно подводное снаряжение!
+[10/20/2022 19:06:23]
+  Milton Buckley equipped Водолазный скафандр
+[10/20/2022 19:06:29]
+  Miranda Mason: Мне нужно подводное снаряжение!
+[10/20/2022 19:06:30]
+  Deborah Gould: Надо найти водолазный скафандр!
+[10/20/2022 19:06:30]
+  Roland Breeki: Надо найти водолазный скафандр!
+[10/20/2022 19:06:31]
+  Arkadi Mungo: Надо найти водолазный скафандр!
+[10/20/2022 19:06:33]
+  Cuck Summers: Мне нужно подводное снаряжение!
+[10/20/2022 19:06:33]
+  Devin Frye: Надо найти водолазный скафандр!
+[10/20/2022 19:06:33]
+  Milton Buckley: Надо найти водолазный скафандр!
+[10/20/2022 19:06:40]
+  Rowena Veach equipped Сварочный аппарат
+[10/20/2022 19:06:41]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:06:45]
+  Lindy Angles: Мне нужно подводное снаряжение!
+[10/20/2022 19:06:45]
+  Jerrod Gumbs: Надо найти водолазный скафандр!
+[10/20/2022 19:06:45]
+  Brian Severance: Мне нужно подводное снаряжение!
+[10/20/2022 19:06:47]
+  Shayla Gould: Надо найти водолазный скафандр!
+[10/20/2022 19:06:48]
+  Tawanda Roman: Надо найти водолазный скафандр!
+[10/20/2022 19:07:02]
+  Arkadi Mungo equipped Сварочный аппарат
+[10/20/2022 19:07:03]
+  Lindy Angles: Нечем дышать!
+[10/20/2022 19:07:06]
+  Milton Buckley: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:08]
+  Shayla Gould: Нечем дышать!
+[10/20/2022 19:07:09]
+  Arkadi Mungo: Реакторный отсек: все протечки устранены!
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:19]
+  Lindy Angles: Надо найти водолазный скафандр!
+[10/20/2022 19:07:19]
+  Brian Severance: Надо найти водолазный скафандр!
+[10/20/2022 19:07:20]
+  Cuck Summers: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:24]
+  Jerrod Gumbs: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:29]
+  Outer wall breached by Moloch
+[10/20/2022 19:07:35]
+  Inner wall repaired by Arkadi Mungo
+[10/20/2022 19:07:35]
+  Arkadi Mungo: Доступ к шлюзу: протечек не осталось!
+[10/20/2022 19:07:35]
+  Roland Breeki equipped Отвертка
+[10/20/2022 19:07:36]
+  Lindy Angles: Задыхаюсь.
+[10/20/2022 19:07:38]
+  Brian Severance: Задыхаюсь.
+[10/20/2022 19:07:38]
+  Milton Buckley: Надо найти водолазный скафандр!
+[10/20/2022 19:07:40]
+  Hobert Wheeling: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:40]
+  Cuck Summers: Задыхаюсь.
+[10/20/2022 19:07:43]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:07:44]
+  Devin Frye: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:44]
+  Tawanda Roman: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:46]
+  Miranda Mason: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:53]
+  Roland Breeki started repairing Батарея
+[10/20/2022 19:07:54]
+  Jerrod Gumbs: Мне нужно подводное снаряжение!
+[10/20/2022 19:07:57]
+  Hobert Wheeling: Задыхаюсь.
+[10/20/2022 19:08:01]
+  Arkadi Mungo: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:08:04]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:08:04]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:08:04]
+  Rowena Veach: Доступ к шлюзу: все протечки устранены!
+[10/20/2022 19:08:04]
+  Macey Dollinger equipped Сварочный аппарат
+[10/20/2022 19:08:09]
+  Milton Buckley: Надо найти водолазный скафандр!
+[10/20/2022 19:08:11]
+  Roland Breeki unequipped Отвертка
+[10/20/2022 19:08:15]
+  Devin Frye: Мне нужно подводное снаряжение!
+[10/20/2022 19:08:17]
+  Miranda Mason: Надо найти водолазный скафандр!
+[10/20/2022 19:08:17]
+  Tawanda Roman: Мне нужно подводное снаряжение!
+[10/20/2022 19:08:21]
+  Macey Dollinger: Моторный отсек: Cuck Summers нуждается в срочной помощи. Пытаюсь что-то сделать!
+[10/20/2022 19:08:21]
+  Macey Dollinger: Hobert Wheeling проходит лечение здесь: реакторный отсек!
+[10/20/2022 19:08:25]
+  Macey Dollinger: Lindy Angles проходит лечение здесь: инженерный отсек!
+[10/20/2022 19:08:26]
+  kynlan4ic: Arkadi Mungo, займись поврежденными устройствами!
+[10/20/2022 19:08:27]
+  Arkadi Mungo: Слушаюсь!
+[10/20/2022 19:08:28]
+  Shayla Gould has died (Cause of death: Нехватка кислорода)
+[10/20/2022 19:08:28]
+  Arkadi Mungo unequipped Сварочный аппарат
+[10/20/2022 19:08:28]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:08:29]
+  Arkadi Mungo started repairing Батарея
+[10/20/2022 19:08:29]
+  Lindy Angles: Мне нужно подводное снаряжение!
+[10/20/2022 19:08:30]
+  kynlan4ic: Jerrod Gumbs, прокладывай обратный курс!
+[10/20/2022 19:08:31]
+  Jerrod Gumbs: Так точно!
+[10/20/2022 19:08:32]
+  Roland Breeki equipped Сварочный аппарат
+[10/20/2022 19:08:32]
+  Rowena Veach: Передний балласт: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:08:41]
+  Outer wall repaired by Macey Dollinger
+[10/20/2022 19:08:44]
+  Outer wall repaired by Macey Dollinger
+[10/20/2022 19:08:44]
+  Outer wall repaired by Macey Dollinger
+[10/20/2022 19:08:44]
+  Macey Dollinger: Трюм: минус одна протечка!
+[10/20/2022 19:08:47]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:08:47]
+  Arkadi Mungo equipped Гаечный ключ
+[10/20/2022 19:08:48]
+  Jerrod Gumbs: Эй, двоим нам тут делать нечего!
+[10/20/2022 19:08:49]
+  Brian Severance has died (Cause of death: Баротравма)
+[10/20/2022 19:08:50]
+  Arkadi Mungo started repairing Медицинский фабрикатор
+[10/20/2022 19:08:51]
+  Outer wall repaired by Macey Dollinger
+[10/20/2022 19:08:56]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:08:56]
+  Rowena Veach: Трюм: все протечки устранены!
+[10/20/2022 19:08:56]
+  Milton Buckley equipped Гаечный ключ
+[10/20/2022 19:08:57]
+  Outer wall repaired by Macey Dollinger
+[10/20/2022 19:08:59]
+  Cuck Summers has died (Cause of death: Нехватка кислорода)
+[10/20/2022 19:09:00]
+  Milton Buckley started repairing Фабрикатор
+[10/20/2022 19:09:04]
+  Roland Breeki unequipped Сварочный аппарат
+[10/20/2022 19:09:04]
+  Arkadi Mungo unequipped Гаечный ключ
+[10/20/2022 19:09:04]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:09:06]
+  Deborah Gould equipped Водолазный скафандр
+[10/20/2022 19:09:06]
+  Roland Breeki equipped Водолазный скафандр
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:07]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:09]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:09:09]
+  Arkadi Mungo equipped Сварочный аппарат
+[10/20/2022 19:09:09]
+  Arkadi Mungo unequipped Сварочный аппарат
+[10/20/2022 19:09:09]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:09:09]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:09:09]
+  Arkadi Mungo equipped Гаечный ключ
+[10/20/2022 19:09:09]
+  Arkadi Mungo unequipped Гаечный ключ
+[10/20/2022 19:09:09]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:09:09]
+  Arkadi Mungo started repairing Навигационный терминал
+[10/20/2022 19:09:10]
+  Milton Buckley unequipped Гаечный ключ
+[10/20/2022 19:09:10]
+  Milton Buckley equipped Гаечный ключ
+[10/20/2022 19:09:11]
+  Deborah Gould equipped Водолазный скафандр
+[10/20/2022 19:09:11]
+  Roland Breeki equipped Водолазный скафандр
+[10/20/2022 19:09:11]
+  Milton Buckley unequipped Гаечный ключ
+[10/20/2022 19:09:15]
+  Milton Buckley equipped Водолазный скафандр
+[10/20/2022 19:09:15]
+  Milton Buckley equipped Гаечный ключ
+[10/20/2022 19:09:16]
+  Milton Buckley unequipped Гаечный ключ
+[10/20/2022 19:09:20]
+  Milton Buckley equipped Водолазный скафандр
+[10/20/2022 19:09:21]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:21]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:21]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:21]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:21]
+  Hobert Wheeling has died (Cause of death: Нехватка кислорода)
+[10/20/2022 19:09:22]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:09:22]
+  Arkadi Mungo equipped Гаечный ключ
+[10/20/2022 19:09:22]
+  Arkadi Mungo: Надо найти водолазный скафандр!
+[10/20/2022 19:09:24]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:09:24]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:09:24]
+  Rowena Veach: Трюм: минус одна протечка!
+[10/20/2022 19:09:25]
+  Roland Breeki: Мне нужно подводное снаряжение!
+[10/20/2022 19:09:25]
+  Deborah Gould: Мне нужно подводное снаряжение!
+[10/20/2022 19:09:29]
+  Milton Buckley equipped Сварочный аппарат
+[10/20/2022 19:09:29]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:09:29]
+  Milton Buckley: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:09:30]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:09:30]
+  Milton Buckley: Трюм: все протечки устранены!
+[10/20/2022 19:09:31]
+  Jerrod Gumbs: Надо найти водолазный скафандр!
+[10/20/2022 19:09:31]
+  Milton Buckley unequipped Сварочный аппарат
+[10/20/2022 19:09:35]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:09:35]
+  Rowena Veach: Моторный отсек: минус одна протечка!
+[10/20/2022 19:09:35]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:09:36]
+  Arkadi Mungo started repairing Большой двигатель
+[10/20/2022 19:09:38]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:09:42]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:42]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:44]
+  Lindy Angles has died (Cause of death: Нехватка кислорода)
+[10/20/2022 19:09:45]
+  Jerrod Gumbs: Невозможно добраться: Навигационный терминал!
+[10/20/2022 19:09:49]
+  Milton Buckley: Мне нужно подводное снаряжение!
+[10/20/2022 19:09:54]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:54]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:54]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:54]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:54]
+  Outer wall breached by Moloch
+[10/20/2022 19:09:59]
+  Arkadi Mungo started repairing Большой двигатель
+[10/20/2022 19:10:00]
+  Arkadi Mungo started repairing Большой двигатель
+[10/20/2022 19:10:00]
+  Arkadi Mungo started repairing Большой двигатель
+[10/20/2022 19:10:00]
+  Arkadi Mungo unequipped Гаечный ключ
+[10/20/2022 19:10:00]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:10:13]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[10/20/2022 19:10:13]
+  Tawanda Roman equipped Водолазный скафандр
+[10/20/2022 19:10:13]
+  Miranda Mason equipped Водолазный скафандр
+[10/20/2022 19:10:14]
+  Milton Buckley equipped Водолазный скафандр
+[10/20/2022 19:10:14]
+  Devin Frye equipped Водолазный скафандр
+[10/20/2022 19:10:15]
+  Arkadi Mungo started repairing Суперконденсатор
+[10/20/2022 19:10:20]
+  Deborah Gould equipped Водолазный скафандр
+[10/20/2022 19:10:21]
+  Devin Frye: Надо найти водолазный скафандр!
+[10/20/2022 19:10:22]
+  Arkadi Mungo failed to repair Суперконденсатор
+[10/20/2022 19:10:23]
+  Dispatching the respawn shuttle.
+[10/20/2022 19:10:23]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Офицер службы безопасности
+[10/20/2022 19:10:23]
+  Respawning bot Shayla Gould as Капитан
+[10/20/2022 19:10:23]
+  Respawning bot Cuck Summers as Офицер службы безопасности
+[10/20/2022 19:10:23]
+  Respawning bot Hobert Wheeling as Помощник
+[10/20/2022 19:10:23]
+  Respawning bot Brian Severance as Инженер
+[10/20/2022 19:10:24]
+  Respawning bot Lindy Angles as Инженер
+[10/20/2022 19:10:25]
+  Inner wall repaired by Macey Dollinger
+[10/20/2022 19:10:25]
+  Macey Dollinger: Реакторный отсек: протечек не осталось!
+[10/20/2022 19:10:25]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 19:10:26]
+  Roland Breeki equipped Отвертка
+[10/20/2022 19:10:28]
+  Milton Buckley: Мне нужно подводное снаряжение!
+[10/20/2022 19:10:30]
+  Roland Breeki started repairing Батарея
+[10/20/2022 19:10:34]
+  Tawanda Roman: Мне нужно подводное снаряжение!
+[10/20/2022 19:10:35]
+  Rowena Veach: Моторный отсек: минус одна протечка!
+[10/20/2022 19:10:41]
+  Miranda Mason: Надо найти водолазный скафандр!
+[10/20/2022 19:10:43]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/20/2022 19:10:48]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/20/2022 19:10:50]
+  Rowena Veach: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:10:51]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:10:53]
+  Arkadi Mungo started repairing Навигационный терминал
+[10/20/2022 19:10:53]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:10:54]
+  Roland Breeki unequipped Отвертка
+[10/20/2022 19:10:54]
+  Roland Breeki equipped Сварочный аппарат
+[10/20/2022 19:10:54]
+  Outer wall repaired by Roland Breeki
+[10/20/2022 19:10:55]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/20/2022 19:10:56]
+  Arkadi Mungo started repairing Батарея
+[10/20/2022 19:10:59]
+  Roland Breeki unequipped Сварочный аппарат
+[10/20/2022 19:11:00]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:02]
+  Milton Buckley: Надо найти водолазный скафандр!
+[10/20/2022 19:11:03]
+  kynlan4ic placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 3230)
+[10/20/2022 19:11:08]
+  Devin Frye equipped Водолазный скафандр
+[10/20/2022 19:11:09]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:11:09]
+  Arkadi Mungo equipped Гаечный ключ
+[10/20/2022 19:11:11]
+  Rowena Veach: Меняем кислородные баллоны!
+[10/20/2022 19:11:13]
+  Arkadi Mungo unequipped Гаечный ключ
+[10/20/2022 19:11:13]
+  Arkadi Mungo equipped Гаечный ключ
+[10/20/2022 19:11:13]
+  Arkadi Mungo unequipped Гаечный ключ
+[10/20/2022 19:11:13]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:11:14]
+  Rowena Veach unequipped Сварочный аппарат
+[10/20/2022 19:11:14]
+  Rowena Veach equipped Кислородный баллон
+[10/20/2022 19:11:14]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:11:14]
+  Arkadi Mungo equipped Гаечный ключ
+[10/20/2022 19:11:14]
+  Arkadi Mungo started repairing Деконструктор
+[10/20/2022 19:11:19]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:19]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:19]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:19]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:22]
+  Arkadi Mungo started repairing Фабрикатор
+[10/20/2022 19:11:25]
+  Macey Dollinger: Где кислородные баллоны?
+[10/20/2022 19:11:26]
+  Rowena Veach equipped Сварочный аппарат
+[10/20/2022 19:11:26]
+  Arkadi Mungo: Мне нужно подводное снаряжение!
+[10/20/2022 19:11:27]
+  Jerrod Gumbs equipped Водолазный скафандр
+[10/20/2022 19:11:28]
+  Milton Buckley equipped Гаечный ключ
+[10/20/2022 19:11:29]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:29]
+  Rowena Veach: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:11:30]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:32]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:32]
+  Macey Dollinger unequipped Сварочный аппарат
+[10/20/2022 19:11:32]
+  Macey Dollinger equipped Кислородный баллон
+[10/20/2022 19:11:35]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:35]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:35]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:38]
+  Milton Buckley: Мне нужно подводное снаряжение!
+[10/20/2022 19:11:39]
+  Milton Buckley unequipped Гаечный ключ
+[10/20/2022 19:11:39]
+  Macey Dollinger equipped Сварочный аппарат
+[10/20/2022 19:11:39]
+  Macey Dollinger unequipped Сварочный аппарат
+[10/20/2022 19:11:41]
+  Milton Buckley equipped Водолазный скафандр
+[10/20/2022 19:11:42]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:42]
+  Rowena Veach: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:11:42]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:43]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:11:45]
+  Inner wall repaired by Rowena Veach
+[10/20/2022 19:11:49]
+  Milton Buckley equipped Гаечный ключ
+[10/20/2022 19:11:50]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:50]
+  Outer wall breached by Moloch
+[10/20/2022 19:11:56]
+  Roland Breeki equipped Кислородный баллон
+[10/20/2022 19:11:57]
+  Arkadi Mungo started repairing Большой двигатель
+[10/20/2022 19:12:02]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:02]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:02]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:02]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:02]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:06]
+  Milton Buckley started repairing Большой двигатель
+[10/20/2022 19:12:09]
+  Arkadi Mungo: Меняем кислородные баллоны!
+[10/20/2022 19:12:12]
+  Roland Breeki: Меняем кислородные баллоны!
+[10/20/2022 19:12:13]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:14]
+  Arkadi Mungo started repairing Малый насос
+[10/20/2022 19:12:15]
+  Cuck Summers: Мне нужно подводное снаряжение!
+[10/20/2022 19:12:15]
+  Lindy Angles: Надо найти водолазный скафандр!
+[10/20/2022 19:12:21]
+  Brian Severance: Мне нужно подводное снаряжение!
+[10/20/2022 19:12:21]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/20/2022 19:12:22]
+  Tawanda Roman: Надо найти водолазный скафандр!
+[10/20/2022 19:12:22]
+  Roland Breeki equipped Кислородный баллон
+[10/20/2022 19:12:24]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:25]
+  Shayla Gould: Надо найти водолазный скафандр!
+[10/20/2022 19:12:26]
+  Hobert Wheeling: Мне нужно подводное снаряжение!
+[10/20/2022 19:12:26]
+  Jerrod Gumbs: Надо найти кислородный баллон!
+[10/20/2022 19:12:27]
+  Milton Buckley unequipped Гаечный ключ
+[10/20/2022 19:12:27]
+  Milton Buckley equipped Сварочный аппарат
+[10/20/2022 19:12:28]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:12:30]
+  Devin Frye: Надо найти водолазный скафандр!
+[10/20/2022 19:12:30]
+  Deborah Gould: Мне нужно подводное снаряжение!
+[10/20/2022 19:12:31]
+  Miranda Mason: Мне нужно подводное снаряжение!
+[10/20/2022 19:12:32]
+  Jerrod Gumbs: Мне нужно подводное снаряжение!
+[10/20/2022 19:12:33]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:12:33]
+  Rowena Veach: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:12:34]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:12:34]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:12:34]
+  Rowena Veach: Трюм: все протечки устранены!
+[10/20/2022 19:12:37]
+  Macey Dollinger equipped Сварочный аппарат
+[10/20/2022 19:12:37]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:37]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:37]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:38]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:12:38]
+  Arkadi Mungo started repairing Медицинский фабрикатор
+[10/20/2022 19:12:38]
+  Outer wall repaired by Macey Dollinger
+[10/20/2022 19:12:41]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:12:43]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:12:45]
+  Inner wall repaired by Macey Dollinger
+[10/20/2022 19:12:45]
+  Macey Dollinger: Реакторный отсек: протечек не осталось!
+[10/20/2022 19:12:46]
+  Milton Buckley: Меняем кислородные баллоны!
+[10/20/2022 19:12:46]
+  Macey Dollinger unequipped Сварочный аппарат
+[10/20/2022 19:12:49]
+  Roland Breeki equipped Кислородный баллон
+[10/20/2022 19:12:50]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:50]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:50]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:50]
+  Outer wall breached by Moloch
+[10/20/2022 19:12:55]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:12:55]
+  Milton Buckley: Моторный отсек: минус одна протечка!
+[10/20/2022 19:13:01]
+  Devin Frye: Мне нужно подводное снаряжение!
+[10/20/2022 19:13:02]
+  Miranda Mason: Мне нужно подводное снаряжение!
+[10/20/2022 19:13:02]
+  Macey Dollinger equipped Кислородный баллон
+[10/20/2022 19:13:02]
+  Deborah Gould: Надо найти водолазный скафандр!
+[10/20/2022 19:13:05]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:06]
+  Arkadi Mungo started repairing Малый насос
+[10/20/2022 19:13:07]
+  Roland Breeki equipped Топливный бак сварочного аппарата
+[10/20/2022 19:13:11]
+  Outer wall repaired by Milton Buckley
+[10/20/2022 19:13:12]
+  Milton Buckley: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:13:14]
+  Rowena Veach: Трюм: минус одна протечка!
+[10/20/2022 19:13:14]
+  Milton Buckley unequipped Сварочный аппарат
+[10/20/2022 19:13:14]
+  Roland Breeki equipped Сварочный аппарат
+[10/20/2022 19:13:15]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:13:15]
+  Rowena Veach: Трюм: протечек не осталось!
+[10/20/2022 19:13:16]
+  Roland Breeki unequipped Сварочный аппарат
+[10/20/2022 19:13:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:19]
+  Arkadi Mungo unequipped Гаечный ключ
+[10/20/2022 19:13:19]
+  Arkadi Mungo equipped Отвертка
+[10/20/2022 19:13:23]
+  Milton Buckley equipped Топливный бак сварочного аппарата
+[10/20/2022 19:13:26]
+  Arkadi Mungo started repairing Батарея
+[10/20/2022 19:13:26]
+  Milton Buckley equipped Сварочный аппарат
+[10/20/2022 19:13:33]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:13:33]
+  Rowena Veach: Задний балласт: протечек не осталось!
+[10/20/2022 19:13:34]
+  Miranda Mason: Надо найти водолазный скафандр!
+[10/20/2022 19:13:35]
+  Tawanda Roman equipped Гаечный ключ
+[10/20/2022 19:13:35]
+  Tawanda Roman: Мне нужно подводное снаряжение!
+[10/20/2022 19:13:35]
+  Deborah Gould: Мне нужно подводное снаряжение!
+[10/20/2022 19:13:35]
+  Tawanda Roman unequipped Гаечный ключ
+[10/20/2022 19:13:35]
+  Tawanda Roman equipped Гаечный ключ
+[10/20/2022 19:13:37]
+  Tawanda Roman unequipped Гаечный ключ
+[10/20/2022 19:13:39]
+  Milton Buckley: Моторный отсек: минус одна протечка!
+[10/20/2022 19:13:42]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 19:13:44]
+  kynlan4ic closed Настраиваемая дверь
+[10/20/2022 19:13:45]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 19:13:47]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:47]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:47]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:51]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:13:51]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:13:51]
+  Rowena Veach: Трюм: выполняю ремонт. Осталось несколько отверстий!
+[10/20/2022 19:13:51]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:13:52]
+  Rowena Veach: Трюм: протечек не осталось!
+[10/20/2022 19:13:53]
+  Roland Breeki equipped Сварочный аппарат
+[10/20/2022 19:13:53]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:13:53]
+  Milton Buckley unequipped Сварочный аппарат
+[10/20/2022 19:13:53]
+  Milton Buckley equipped Гаечный ключ
+[10/20/2022 19:13:54]
+  Milton Buckley started repairing Большой двигатель
+[10/20/2022 19:13:54]
+  Arkadi Mungo failed to repair Батарея
+[10/20/2022 19:13:58]
+  Roland Breeki unequipped Сварочный аппарат
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:13:59]
+  Outer wall breached by Moloch
+[10/20/2022 19:14:01]
+  Milton Buckley failed to repair Большой двигатель
+[10/20/2022 19:14:01]
+  Devin Frye: Надо найти водолазный скафандр!
+[10/20/2022 19:14:06]
+  Arkadi Mungo started repairing Суперконденсатор
+[10/20/2022 19:14:12]
+  Roland Breeki equipped Сварочный аппарат
+[10/20/2022 19:14:15]
+  Macey Dollinger: Deborah Gould проходит лечение здесь: передний балласт!
+[10/20/2022 19:14:15]
+  Macey Dollinger: Deborah Gould в полном порядке!
+[10/20/2022 19:14:15]
+  Devin Frye: Deborah Gould чувствует себя хорошо!
+[10/20/2022 19:14:15]
+  Macey Dollinger: Jerrod Gumbs проходит лечение здесь: передний балласт!
+[10/20/2022 19:14:16]
+  Macey Dollinger: Jerrod Gumbs нуждается в помощи! Срочно требуется опиум, морфин или экстракт взрывного граната!
+[10/20/2022 19:14:18]
+  Outer wall breached by Moloch
+[10/20/2022 19:14:20]
+  Roland Breeki unequipped Сварочный аппарат
+[10/20/2022 19:14:22]
+  Rowena Veach: Трюм: минус одна протечка!
+[10/20/2022 19:14:22]
+  Outer wall repaired by Rowena Veach
+[10/20/2022 19:14:23]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 19:14:24]
+  Arkadi Mungo unequipped Отвертка
+[10/20/2022 19:14:24]
+  Arkadi Mungo equipped Гаечный ключ

@@ -1,0 +1,1600 @@
+﻿[03/13/2023 22:24:28]
+  Mudraptor_unarmored has died (Cause of death: Травма от удара тупым предметом)
+[03/13/2023 22:24:35]
+  Информация о миссии:  - Маяк снова работает.
+[03/13/2023 22:24:46]
+  kynlan4ic closed Настраиваемый люк
+[03/13/2023 22:24:46]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/13/2023 22:24:56]
+  kynlan4ic equipped ТП
+[03/13/2023 22:24:58]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:24:58]
+  Outer wall breached by kynlan4ic
+[03/13/2023 22:24:58]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:24:58]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:24:58]
+  Outer wall breached by kynlan4ic
+[03/13/2023 22:24:58]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:24:59]
+  Outer wall breached by kynlan4ic
+[03/13/2023 22:24:59]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[03/13/2023 22:24:59]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:24:59]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:24:59]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:25:17]
+  kynlan4ic closed Настраиваемая дверь
+[03/13/2023 22:25:22]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 8544)
+[03/13/2023 22:25:22]
+  kynlan4ic removed Кислородный баллон from УЗК (ID: 8544)
+[03/13/2023 22:25:22]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 393)
+[03/13/2023 22:25:28]
+  kynlan4ic picked up Плазменный резак
+[03/13/2023 22:25:30]
+  kynlan4ic picked up Подводный скутер
+[03/13/2023 22:25:31]
+  kynlan4ic picked up Подводный скутер
+[03/13/2023 22:25:38]
+  kynlan4ic placed Аккумулятор in Подводный скутер (ID: 1391)
+[03/13/2023 22:25:38]
+  kynlan4ic removed Аккумулятор from Подводный скутер (ID: 1391)
+[03/13/2023 22:25:38]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 420)
+[03/13/2023 22:25:39]
+  Arron Gregory: kynlan4ic получает первую помощь здесь: реакторный отсек!
+[03/13/2023 22:25:40]
+  Arron Gregory: kynlan4ic нуждается в помощи! Срочно требуется морфин, опиум, экстракт взрывного граната или жидкий тоник!
+[03/13/2023 22:25:40]
+  Arron Gregory equipped Морфин
+[03/13/2023 22:25:40]
+  kynlan4ic placed Аккумулятор in Подводный скутер (ID: 2196)
+[03/13/2023 22:25:40]
+  kynlan4ic removed Аккумулятор from Подводный скутер (ID: 2196)
+[03/13/2023 22:25:40]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 420)
+[03/13/2023 22:25:42]
+  kynlan4ic placed Аккумулятор in Подводный скутер (ID: 1402)
+[03/13/2023 22:25:42]
+  kynlan4ic removed Аккумулятор from Подводный скутер (ID: 1402)
+[03/13/2023 22:25:42]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 419)
+[03/13/2023 22:25:43]
+  Arron Gregory: kynlan4ic чувствует себя хорошо!
+[03/13/2023 22:25:52]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 2367)
+[03/13/2023 22:25:52]
+  kynlan4ic removed Кислородный баллон from Плазменный резак (ID: 2367)
+[03/13/2023 22:25:52]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 393)
+[03/13/2023 22:25:54]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 238)
+[03/13/2023 22:25:54]
+  kynlan4ic removed Кислородный баллон from Плазменный резак (ID: 238)
+[03/13/2023 22:25:54]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 393)
+[03/13/2023 22:25:54]
+  kynlan4ic picked up Водолазный скафандр
+[03/13/2023 22:25:54]
+  kynlan4ic dropped УЗК
+[03/13/2023 22:25:56]
+  kynlan4ic picked up УЗК
+[03/13/2023 22:25:56]
+  kynlan4ic dropped Водолазный скафандр
+[03/13/2023 22:25:56]
+  kynlan4ic picked up Водолазный скафандр
+[03/13/2023 22:25:56]
+  kynlan4ic dropped УЗК
+[03/13/2023 22:25:58]
+  kynlan4ic picked up УЗК
+[03/13/2023 22:25:58]
+  kynlan4ic dropped Водолазный скафандр
+[03/13/2023 22:26:00]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 438)
+[03/13/2023 22:26:00]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 438)
+[03/13/2023 22:26:01]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 438)
+[03/13/2023 22:26:02]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 438)
+[03/13/2023 22:26:02]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 438)
+[03/13/2023 22:27:06]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 22:27:06]
+  Lionel Mungo equipped Гаечный ключ
+[03/13/2023 22:27:11]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/13/2023 22:27:12]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/13/2023 22:27:23]
+  Lionel Mungo unequipped Гаечный ключ
+[03/13/2023 22:27:23]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 22:27:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:47]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:47]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:47]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:48]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:48]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:48]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/13/2023 22:27:48]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:49]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:49]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:55]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:56]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:56]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:56]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:57]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:57]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/13/2023 22:27:57]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:27:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:27:57]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:15]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:16]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:16]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:18]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:18]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:18]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:19]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:20]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:20]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:21]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:21]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/13/2023 22:28:21]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:28:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:28:22]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:29:07]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:29:08]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 22:29:12]
+  Lionel Mungo equipped Гаечный ключ
+[03/13/2023 22:29:13]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:29:13]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 22:29:16]
+  Lionel Mungo started repairing Двигатель
+[03/13/2023 22:29:18]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 22:29:20]
+  Lionel Mungo unequipped Гаечный ключ
+[03/13/2023 22:29:21]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:29:24]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 22:29:29]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:29:49]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:29:53]
+  Devin Maxwell started repairing Навигационный терминал
+[03/13/2023 22:29:56]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:30:00]
+  Devin Maxwell: Видит ли Бог, что происходит под толщей льда?
+[03/13/2023 22:30:04]
+  Devin Maxwell: Или, быть может, это бездна? Бездна видит все.
+[03/13/2023 22:30:06]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:30:09]
+  Devin Maxwell: В одном культ прав - там внизу что-то есть.
+[03/13/2023 22:30:09]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 22:30:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:11]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:12]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:13]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:13]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:13]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:14]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:14]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 22:30:14]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 22:30:14]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:14]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:15]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:16]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:17]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 22:30:17]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:20]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:21]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:22]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:23]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:23]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:24]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:25]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:26]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 22:30:26]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:27]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:30:27]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:30:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:27]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:30:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:28]
+  Inner wall breached by Spineling
+[03/13/2023 22:30:28]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 22:30:28]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:30]
+  Inner wall breached by Spineling
+[03/13/2023 22:30:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:31]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 22:30:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:31]
+  Inner wall repaired by Lionel Mungo
+[03/13/2023 22:30:31]
+  Lionel Mungo: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[03/13/2023 22:30:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:33]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 22:30:33]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[03/13/2023 22:30:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:33]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:34]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:35]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 22:30:35]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 22:30:35]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 22:30:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:46]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:48]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:48]
+  Spineling has died (Cause of death: Рваная рана)
+[03/13/2023 22:30:48]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:49]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:57]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:57]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:30:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:30:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:00]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 433)
+[03/13/2023 22:31:01]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/13/2023 22:31:03]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 433)
+[03/13/2023 22:31:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:05]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:31:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:05]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:31:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:05]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:31:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:05]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:31:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:06]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:31:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:11]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/13/2023 22:31:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/13/2023 22:31:44]
+  kynlan4ic equipped Шоковая дубинка
+[03/13/2023 22:31:52]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:31:57]
+  Devin Maxwell started repairing Монитор состояния
+[03/13/2023 22:32:01]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:32:09]
+  kynlan4ic picked up Подводный скутер
+[03/13/2023 22:32:10]
+  kynlan4ic opened Настраиваемая дверь
+[03/13/2023 22:32:11]
+  Devin Maxwell equipped Гаечный ключ
+[03/13/2023 22:32:11]
+  Lionel Mungo equipped Гаечный ключ
+[03/13/2023 22:32:12]
+  kynlan4ic equipped Подводный скутер
+[03/13/2023 22:32:13]
+  Lionel Mungo started repairing Насос
+[03/13/2023 22:32:16]
+  Devin Maxwell unequipped Гаечный ключ
+[03/13/2023 22:32:17]
+  Lionel Mungo unequipped Гаечный ключ
+[03/13/2023 22:32:46]
+  kynlan4ic closed Настраиваемая дверь
+[03/13/2023 22:33:07]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:33:09]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 22:33:12]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:33:57]
+  kynlan4ic picked up Ручной сонар
+[03/13/2023 22:33:59]
+  kynlan4ic opened Настраиваемая дверь
+[03/13/2023 22:34:32]
+  kynlan4ic equipped Ручной сонар
+[03/13/2023 22:34:50]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:34:51]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:51]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:51]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:51]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:52]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[03/13/2023 22:34:52]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:52]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:52]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:34:55]
+  kynlan4ic picked up Инопланетная кровь
+[03/13/2023 22:34:58]
+  kynlan4ic used item Морфин
+[03/13/2023 22:35:03]
+  kynlan4ic used item Инопланетная кровь
+[03/13/2023 22:35:12]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:12]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:12]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:12]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:12]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:12]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.6 Кровотечение: 10.5 Оглушение: 0.1
+[03/13/2023 22:35:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:17]
+  kynlan4ic placed Магазин для ТП in Renegade Combat Undershirt (ID: 8491)
+[03/13/2023 22:35:17]
+  kynlan4ic removed Магазин для ТП from Renegade Combat Undershirt (ID: 8491)
+[03/13/2023 22:35:17]
+  kynlan4ic placed Магазин для ТП in ТП (ID: 8547)
+[03/13/2023 22:35:18]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:18]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:18]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:18]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/13/2023 22:35:18]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:18]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:19]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.6 Кровотечение: 10.5 Оглушение: 0.1
+[03/13/2023 22:35:19]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.6 Кровотечение: 10.5 Оглушение: 0.1
+[03/13/2023 22:35:19]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:19]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.6 Кровотечение: 10.5 Оглушение: 0.1
+[03/13/2023 22:35:19]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:20]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:20]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:20]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 13.2 Кровотечение: 11.0 Оглушение: 0.1
+[03/13/2023 22:35:20]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.6 Кровотечение: 10.5 Оглушение: 0.1
+[03/13/2023 22:35:20]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:21]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:21]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:21]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:21]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:22]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:22]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:22]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/13/2023 22:35:22]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:22]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:35:23]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.0 Кровотечение: 10.0
+[03/13/2023 22:35:24]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:24]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:25]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:25]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 12.3 Кровотечение: 10.3 Оглушение: 0.1
+[03/13/2023 22:35:27]
+  Ending round (no living players left)
+[03/13/2023 22:35:27]
+  Ending the round...
+[03/13/2023 22:35:27]
+  kynlan4ic has gained 690 experience (31526 -> 32216)
+[03/13/2023 22:35:27]
+  Devin Maxwell has gained 1023 experience (10091 -> 11114)
+[03/13/2023 22:35:27]
+  Arron Gregory has gained 549 experience (9569 -> 10118)
+[03/13/2023 22:35:27]
+  Lionel Mungo has gained 511 experience (8170 -> 8681)
+[03/13/2023 22:35:30]
+  Round ended.
+[03/13/2023 22:35:52]
+  Starting a new round...
+[03/13/2023 22:36:23]
+  Миссия: Уничтожить гнездо акульего тигра
+[03/13/2023 22:36:23]
+  В пещерах, неподалеку от которых находится Asmundur, недавно обнаружено гнездо акульего тигра. Команда, которая его уничтожит, получит достойную награду в размере 5,000 кред.
+[03/13/2023 22:36:23]
+  Миссия: Активировать маяк
+[03/13/2023 22:36:23]
+  Бортовая навигационная система показывает, что здесь неподалеку должен быть старый, не работающий маяк. Если он снова заработает, другим судам будет гораздо проще проходить по этому маршруту, и здесь появятся новые колонии.
+[03/13/2023 22:36:25]
+  Game mode: Кампания
+[03/13/2023 22:36:25]
+  Submarine: Wellerman
+[03/13/2023 22:36:25]
+  Level seed: AsmundurSharpitor Linea
+[03/13/2023 22:36:25]
+  Mission: Уничтожить гнездо акульего тигра
+[03/13/2023 22:36:25]
+  Mission: Активировать маяк
+[03/13/2023 22:36:26]
+  Jared Lyons equipped Сварочный аппарат
+[03/13/2023 22:36:26]
+  Tanya Welden equipped Сварочный аппарат
+[03/13/2023 22:36:29]
+  Round started.
+[03/13/2023 22:37:22]
+  Devin Maxwell: Ты не задумываешься о том, что же произошло с теми, кто построил эти руины?
+[03/13/2023 22:38:08]
+  WARNING: ServerEntityEventManager is lagging behind! Last sent id: 1094, latest create id: 1151
+[03/13/2023 22:38:15]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/13/2023 22:38:41]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 22:38:42]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 22:38:44]
+  kynlan4ic equipped Контейнер для хранения
+[03/13/2023 22:38:45]
+  kynlan4ic dropped Контейнер для хранения
+[03/13/2023 22:38:46]
+  kynlan4ic equipped Металлический ящик
+[03/13/2023 22:38:46]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:38:48]
+  kynlan4ic dropped Металлический ящик
+[03/13/2023 22:38:50]
+  Devin Maxwell started repairing Кабельная коробка
+[03/13/2023 22:38:54]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:39:04]
+  Outer wall breached by Mudraptor_unarmored
+[03/13/2023 22:39:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:05]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:05]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:06]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  Outer wall breached by Mudraptor_unarmored
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  Outer wall breached by Mudraptor
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:08]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:08]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:09]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:09]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:10]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/13/2023 22:39:10]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:12]
+  Mudraptor attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:39:15]
+  Devin Maxwell: Мне нужно подводное снаряжение!
+[03/13/2023 22:39:15]
+  Lionel Mungo: Мне нужно подводное снаряжение!
+[03/13/2023 22:39:27]
+  Devin Maxwell: Задний балласт: все протечки устранены!
+[03/13/2023 22:39:31]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 22:39:31]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:39:34]
+  Outer wall repaired by Lionel Mungo
+[03/13/2023 22:39:35]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:39:35]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 22:39:37]
+  Outer wall repaired by Lionel Mungo
+[03/13/2023 22:39:39]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 22:39:39]
+  Devin Maxwell equipped Отвертка
+[03/13/2023 22:39:39]
+  Devin Maxwell started repairing Монитор состояния
+[03/13/2023 22:39:43]
+  Devin Maxwell unequipped Отвертка
+[03/13/2023 22:39:55]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 22:40:05]
+  Lionel Mungo equipped Водолазный скафандр
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:45]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:46]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:46]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:46]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:47]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:40:48]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:41:14]
+  Lionel Mungo equipped Контейнер для хранения
+[03/13/2023 22:42:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:10]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:10]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:11]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:11]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:12]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:13]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:13]
+  Outer wall breached by Mudraptor_unarmored
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:13]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:13]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:14]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:16]
+  Devin Maxwell equipped Сварочный аппарат
+[03/13/2023 22:42:18]
+  Lionel Mungo equipped Сварочный аппарат
+[03/13/2023 22:42:19]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:19]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:19]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:19]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:42:19]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.1
+[03/13/2023 22:42:20]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:20]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:21]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 0.9
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:21]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 6.0 Кровотечение: 0.8
+[03/13/2023 22:42:44]
+  Arron Gregory equipped Сварочный аппарат
+[03/13/2023 22:43:16]
+  Arron Gregory unequipped Сварочный аппарат
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:49]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:50]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/13/2023 22:43:51]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)

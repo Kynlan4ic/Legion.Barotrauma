@@ -1,0 +1,1600 @@
+﻿[10/26/2022 18:17:53]
+  Starting the server...
+[10/26/2022 18:17:53]
+  Using SteamP2P networking.
+[10/26/2022 18:17:53]
+  Server started
+[10/26/2022 18:17:53]
+  Игрок kynlan4ic присоединился к серверу.
+[10/26/2022 18:17:53]
+  Saving client permissions
+[10/26/2022 18:17:53]
+  Saving client permissions
+[10/26/2022 18:35:24]
+  Игрок igameCrog присоединился к серверу.
+[10/26/2022 18:35:24]
+  Saving client permissions
+[10/26/2022 18:35:36]
+  kynlan4ic is ready to start the game.
+[10/26/2022 18:36:27]
+  igameCrog: ИЛЬЯ хуесос
+[10/26/2022 18:36:34]
+  kynlan4ic: Факт
+[10/26/2022 18:36:42]
+  igameCrog: мелкий паидарааааассс
+[10/26/2022 18:36:50]
+  kynlan4ic: ...............
+[10/26/2022 18:36:51]
+  kynlan4ic: ...
+[10/26/2022 18:36:52]
+  kynlan4ic: .
+[10/26/2022 18:36:52]
+  kynlan4ic: ..
+[10/26/2022 18:36:53]
+  kynlan4ic: ..
+[10/26/2022 18:36:53]
+  kynlan4ic: ..
+[10/26/2022 18:36:53]
+  kynlan4ic: .
+[10/26/2022 18:36:54]
+  kynlan4ic: .
+[10/26/2022 18:36:54]
+  kynlan4ic: .
+[10/26/2022 18:36:54]
+  kynlan4ic: .
+[10/26/2022 18:36:54]
+  kynlan4ic: .
+[10/26/2022 18:36:54]
+  kynlan4ic: .
+[10/26/2022 18:36:54]
+  kynlan4ic: .
+[10/26/2022 18:36:55]
+  kynlan4ic: ..
+[10/26/2022 18:36:55]
+  kynlan4ic: .
+[10/26/2022 18:36:55]
+  kynlan4ic: ..
+[10/26/2022 18:36:55]
+  kynlan4ic: ..
+[10/26/2022 18:36:56]
+  kynlan4ic: .
+[10/26/2022 18:37:02]
+  kynlan4ic: ОК
+[10/26/2022 18:37:11]
+  kynlan4ic: ЛООМПОВАТЯТРАПВЫВАЫВАЫВП
+[10/26/2022 18:38:04]
+  Client "kynlan4ic" started the round.
+[10/26/2022 18:38:04]
+  Starting a new round...
+[10/26/2022 18:38:08]
+  Миссия: Добыча минералов (Пироморфит)
+[10/26/2022 18:38:08]
+  Говорят, где-то между точками Центр Set и Шахта Skadi's Cauldron есть Пироморфит, целые залежи. Привезите оттуда ресурс (Пироморфит), 8 - этого будет достаточно. Ваша доля - 25%.
+[10/26/2022 18:38:08]
+  Game mode: Миссия
+[10/26/2022 18:38:08]
+  Submarine: Typhon2
+[10/26/2022 18:38:08]
+  Level seed: 1lYMxBvL
+[10/26/2022 18:38:08]
+  Mission: Добыча минералов ([resourcename1])
+[10/26/2022 18:38:10]
+  Round started.
+[10/26/2022 18:38:16]
+  Page Feinberg: Можно я сложу все свои проблемы в приманку?
+[10/26/2022 18:38:26]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/26/2022 18:38:44]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/26/2022 18:38:54]
+  kynlan4ic: Aldo Smith, займись орудиями!
+[10/26/2022 18:38:55]
+  Aldo Smith: Вас понял!
+[10/26/2022 18:38:57]
+  kynlan4ic: Christoper Graves, займись оружием!
+[10/26/2022 18:38:58]
+  Christoper Graves: Есть!
+[10/26/2022 18:38:59]
+  igameCrog picked up Удостоверение личности
+[10/26/2022 18:39:01]
+  kynlan4ic: Aldo Smith, займись оружием!
+[10/26/2022 18:39:02]
+  Aldo Smith: Слушаюсь!
+[10/26/2022 18:39:04]
+  igameCrog picked up Серная кислота
+[10/26/2022 18:39:04]
+  Christoper Graves: Невозможно добраться: Перископ!
+[10/26/2022 18:39:05]
+  kynlan4ic: Christoper Graves, займись орудиями!
+[10/26/2022 18:39:06]
+  Christoper Graves: Есть!
+[10/26/2022 18:39:15]
+  kynlan4ic: Christoper Graves, займись орудиями!
+[10/26/2022 18:39:16]
+  Christoper Graves: Слушаюсь!
+[10/26/2022 18:39:24]
+  kynlan4ic: Christoper Graves, встань за орудия!
+[10/26/2022 18:39:25]
+  Christoper Graves: Принято.
+[10/26/2022 18:39:27]
+  Christoper Graves: Невозможно добраться: Перископ!
+[10/26/2022 18:39:28]
+  Janie Kinney: Мне нужно подводное снаряжение!
+[10/26/2022 18:39:29]
+  Katerina Lane: Мне нужно подводное снаряжение!
+[10/26/2022 18:39:29]
+  Page Feinberg: Мне нужно подводное снаряжение!
+[10/26/2022 18:39:39]
+  kynlan4ic: Christoper Graves, встань за орудия!
+[10/26/2022 18:39:40]
+  Christoper Graves: Есть!
+[10/26/2022 18:39:47]
+  igameCrog picked up Этанол
+[10/26/2022 18:39:47]
+  igameCrog picked up Этанол
+[10/26/2022 18:39:48]
+  kynlan4ic: Christoper Graves, встань за орудия!
+[10/26/2022 18:39:49]
+  Christoper Graves: Само собой!
+[10/26/2022 18:39:52]
+  Christoper Graves: Невозможно добраться: Перископ!
+[10/26/2022 18:40:03]
+  kynlan4ic: Christoper Graves, займись оружием!
+[10/26/2022 18:40:04]
+  Christoper Graves: Слушаюсь!
+[10/26/2022 18:40:42]
+  kynlan4ic: Christoper Graves, встань за орудия!
+[10/26/2022 18:40:43]
+  Christoper Graves: Само собой!
+[10/26/2022 18:40:47]
+  Christoper Graves: Невозможно добраться: Перископ!
+[10/26/2022 18:40:51]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 4603)
+[10/26/2022 18:40:51]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 4603)
+[10/26/2022 18:40:51]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 4603)
+[10/26/2022 18:40:51]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 4603)
+[10/26/2022 18:40:58]
+  igameCrog picked up Морфин
+[10/26/2022 18:41:09]
+  igameCrog equipped Шприц-пистолет
+[10/26/2022 18:41:22]
+  igameCrog used item Морфин
+[10/26/2022 18:41:24]
+  igameCrog used item Морфин
+[10/26/2022 18:41:26]
+  igameCrog used item Морфин
+[10/26/2022 18:41:28]
+  igameCrog used item Морфин
+[10/26/2022 18:41:30]
+  igameCrog used item Морфин
+[10/26/2022 18:41:42]
+  igameCrog used item Этанол
+[10/26/2022 18:41:47]
+  igameCrog used item Этанол
+[10/26/2022 18:41:51]
+  igameCrog used item Серная кислота
+[10/26/2022 18:42:06]
+  igameCrog used item Бинт
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:27]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:42:28]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:42:28]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:42:29]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:42:43]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:42:44]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:42:46]
+  Inner wall breached by Hammerheadgold
+[10/26/2022 18:42:55]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:42:55]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:02]
+  igameCrog picked up Этанол
+[10/26/2022 18:43:03]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:43:03]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:43:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:06]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:06]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:06]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:06]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:06]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:06]
+  Janie Kinney: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:06]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:08]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:08]
+  Franklin Avery: Надо найти водолазный скафандр!
+[10/26/2022 18:43:08]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:10]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.28 Кровотечение: 0.38 Оглушение: 0.025
+[10/26/2022 18:43:10]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:10]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:11]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:11]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  Fiona Duplantier: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:12]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:13]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:15]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025
+[10/26/2022 18:43:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:16]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:17]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:17]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:18]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead has died (Cause of death: Рваная рана)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:19]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:19]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:20]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:20]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:20]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:21]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:21]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:24]
+  Cinda Chaney equipped Сварочный аппарат
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 2.28 Кровотечение: 0.38 Оглушение: 0.025
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:25]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:26]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 2.28 Кровотечение: 0.38 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  Cinda Chaney: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:27]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:27]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:28]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025
+[10/26/2022 18:43:30]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:30]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:31]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:31]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:31]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:31]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:31]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:31]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025
+[10/26/2022 18:43:31]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:31]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9 Кровотечение: 1.5 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:31]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:31]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6000004 Кровотечение: 0.2 Оглушение: 0.025 Оглушение: 0.025
+[10/26/2022 18:43:31]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/26/2022 18:43:31]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12 Кровотечение: 2 Оглушение: 0.025
+[10/26/2022 18:43:32]
+  Aldo Smith: Стреляю!
+[10/26/2022 18:43:32]
+  Aldo Smith launched Рельсотрон (projectile: Снаряд рельсотрона)
+[10/26/2022 18:43:33]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:43:33]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:43:33]
+  Outer wall breached by Hammerheadgold
+[10/26/2022 18:43:33]
+  Inner wall breached by Hammerhead
+[10/26/2022 18:43:34]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:34]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:34]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:34]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:34]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:34]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:35]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:35]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:35]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:35]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:35]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:35]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:35]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:36]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:36]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:36]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:36]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:36]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:36]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:37]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:37]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:37]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:37]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:37]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:37]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:37]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:37]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:38]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:38]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:38]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:38]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:38]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:38]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:38]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:39]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:39]
+  Rosendo Gould: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:39]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:39]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:39]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:39]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:39]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:40]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:40]
+  Hammerhead has died (Cause of death: Рваная рана)
+[10/26/2022 18:43:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:40]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:40]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:40]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:40]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:40]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:43:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:43:41]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:43:41]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:43:43]
+  Janie Phillips: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:43]
+  Katerina Lane: Надо найти водолазный скафандр!
+[10/26/2022 18:43:43]
+  Page Feinberg: Надо найти водолазный скафандр!
+[10/26/2022 18:43:44]
+  Mila Veach: Надо найти водолазный скафандр!
+[10/26/2022 18:43:44]
+  Franklin Avery equipped Сварочный аппарат
+[10/26/2022 18:43:44]
+  Sherise Graves: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:46]
+  Jan Fonte: Мне нужно подводное снаряжение!
+[10/26/2022 18:43:47]
+  Franklin Avery unequipped Сварочный аппарат
+[10/26/2022 18:43:58]
+  igameCrog picked up Водолазный скафандр
+[10/26/2022 18:44:00]
+  Jan Fonte equipped Сварочный аппарат
+[10/26/2022 18:44:02]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:03]
+  igameCrog placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 356)
+[10/26/2022 18:44:04]
+  Franklin Avery equipped Сварочный аппарат
+[10/26/2022 18:44:04]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:05]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:06]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:08]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:10]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:11]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:44:12]
+  kynlan4ic picked up Водолазный скафандр
+[10/26/2022 18:44:14]
+  Aldo Smith: Огонь!
+[10/26/2022 18:44:14]
+  Aldo Smith launched Рельсотрон (projectile: Снаряд рельсотрона)
+[10/26/2022 18:44:14]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[10/26/2022 18:44:14]
+  Aldo Smith: И-и-и-и... Готово!
+[10/26/2022 18:44:16]
+  Leola Hedrick: Надо найти водолазный скафандр!
+[10/26/2022 18:44:19]
+  Rosendo Gould equipped Водолазный скафандр
+[10/26/2022 18:44:21]
+  Fiona Duplantier: Мне нужно подводное снаряжение!
+[10/26/2022 18:44:24]
+  kynlan4ic: Janie Kinney, займись протечками!
+[10/26/2022 18:44:25]
+  Janie Kinney: Слушаюсь!
+[10/26/2022 18:44:26]
+  kynlan4ic: Franklin Avery, займись ремонтом поврежденных систем!
+[10/26/2022 18:44:26]
+  Franklin Avery unequipped Сварочный аппарат
+[10/26/2022 18:44:26]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:44:27]
+  Franklin Avery: Есть!
+[10/26/2022 18:44:27]
+  kynlan4ic: Mila Veach, начинай устранять протечки!
+[10/26/2022 18:44:28]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:44:28]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:44:28]
+  Mila Veach: Так точно!
+[10/26/2022 18:44:35]
+  Janie Kinney equipped Сварочный аппарат
+[10/26/2022 18:44:39]
+  igameCrog picked up Морфин
+[10/26/2022 18:44:39]
+  igameCrog picked up Морфин
+[10/26/2022 18:44:39]
+  igameCrog picked up Бинт
+[10/26/2022 18:44:40]
+  Mila Veach equipped Сварочный аппарат
+[10/26/2022 18:44:43]
+  igameCrog picked up Отвертка
+[10/26/2022 18:44:45]
+  igameCrog picked up Гаечный ключ
+[10/26/2022 18:44:45]
+  Franklin Avery started repairing Настраиваемый люк
+[10/26/2022 18:44:49]
+  Fiona Duplantier equipped Водолазный скафандр
+[10/26/2022 18:44:50]
+  igameCrog placed Этанол in Форма врача (ID: 4600)
+[10/26/2022 18:44:52]
+  igameCrog placed Бинт in Форма врача (ID: 4600)
+[10/26/2022 18:44:53]
+  Leola Hedrick: Мне нужно подводное снаряжение!
+[10/26/2022 18:44:54]
+  igameCrog placed Морфин in Форма врача (ID: 4600)
+[10/26/2022 18:44:54]
+  igameCrog placed Морфин in Форма врача (ID: 4600)
+[10/26/2022 18:44:56]
+  Mila Veach: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/26/2022 18:45:03]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:45:03]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:45:10]
+  igameCrog equipped Гаечный ключ
+[10/26/2022 18:45:12]
+  igameCrog started repairing Большой двигатель
+[10/26/2022 18:45:14]
+  Franklin Avery failed to repair Батарея
+[10/26/2022 18:45:17]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:45:17]
+  Janie Kinney: Трюм: минус одна протечка!
+[10/26/2022 18:45:18]
+  Fiona Duplantier equipped Отвертка
+[10/26/2022 18:45:18]
+  Fiona Duplantier: Надо найти водолазный скафандр!
+[10/26/2022 18:45:18]
+  Franklin Avery started repairing Батарея
+[10/26/2022 18:45:19]
+  Inner wall repaired by Jan Fonte
+[10/26/2022 18:45:19]
+  Jan Fonte: Камера балласта A: минус одна протечка!
+[10/26/2022 18:45:22]
+  Outer wall repaired by Mila Veach
+[10/26/2022 18:45:22]
+  Mila Veach: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/26/2022 18:45:22]
+  Fiona Duplantier unequipped Отвертка
+[10/26/2022 18:45:23]
+  Outer wall repaired by Mila Veach
+[10/26/2022 18:45:28]
+  kynlan4ic picked up Подводный скутер
+[10/26/2022 18:45:30]
+  Cinda Chaney: Воздушный шлюз: выполняю ремонт. Осталось несколько отверстий!
+[10/26/2022 18:45:31]
+  Outer wall repaired by Cinda Chaney
+[10/26/2022 18:45:32]
+  kynlan4ic picked up Аккумулятор
+[10/26/2022 18:45:32]
+  kynlan4ic picked up Аккумулятор
+[10/26/2022 18:45:32]
+  kynlan4ic picked up Аккумулятор
+[10/26/2022 18:45:32]
+  kynlan4ic picked up Сигнальный огонь
+[10/26/2022 18:45:32]
+  kynlan4ic picked up Сигнальный огонь
+[10/26/2022 18:45:32]
+  Cinda Chaney: Воздушный шлюз: протечек не осталось!
+[10/26/2022 18:45:34]
+  kynlan4ic picked up Кислородный баллон
+[10/26/2022 18:45:34]
+  kynlan4ic picked up Кислородный баллон
+[10/26/2022 18:45:34]
+  kynlan4ic picked up Кислородный баллон
+[10/26/2022 18:45:36]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:45:36]
+  Janie Kinney: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/26/2022 18:45:37]
+  Franklin Avery started repairing Ядерный реактор
+[10/26/2022 18:45:46]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:45:48]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:45:48]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:45:52]
+  Inner wall repaired by Mila Veach
+[10/26/2022 18:45:52]
+  Mila Veach: Камера балласта A: минус одна протечка!
+[10/26/2022 18:45:57]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:45:57]
+  Franklin Avery equipped Сварочный аппарат
+[10/26/2022 18:45:57]
+  Franklin Avery unequipped Сварочный аппарат
+[10/26/2022 18:45:57]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:45:57]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:45:57]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:45:58]
+  Franklin Avery started repairing Фабрикатор
+[10/26/2022 18:45:58]
+  Outer wall repaired by Cinda Chaney
+[10/26/2022 18:46:01]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:46:01]
+  Janie Kinney: Трюм: минус одна протечка!
+[10/26/2022 18:46:02]
+  Franklin Avery: Мне нужно подводное снаряжение!
+[10/26/2022 18:46:05]
+  Rosendo Gould equipped Отвертка
+[10/26/2022 18:46:05]
+  Rosendo Gould: Надо найти водолазный скафандр!
+[10/26/2022 18:46:06]
+  Outer wall repaired by Mila Veach
+[10/26/2022 18:46:07]
+  Mila Veach: Моторный отсек: все протечки устранены!
+[10/26/2022 18:46:09]
+  igameCrog picked up Подводный скутер
+[10/26/2022 18:46:10]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:46:10]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:46:12]
+  igameCrog picked up Фонарик
+[10/26/2022 18:46:14]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 38)
+[10/26/2022 18:46:15]
+  igameCrog picked up Ручной сонар
+[10/26/2022 18:46:15]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:46:15]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:46:15]
+  igameCrog picked up Кислородный баллон
+[10/26/2022 18:46:17]
+  Rosendo Gould unequipped Отвертка
+[10/26/2022 18:46:18]
+  Page Feinberg equipped Отвертка
+[10/26/2022 18:46:18]
+  Page Feinberg: Мне нужно подводное снаряжение!
+[10/26/2022 18:46:20]
+  igameCrog placed Кислородный баллон in Большой стальной шкаф (ID: 951)
+[10/26/2022 18:46:24]
+  Page Feinberg unequipped Отвертка
+[10/26/2022 18:46:28]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:46:28]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:46:30]
+  Outer wall repaired by Cinda Chaney
+[10/26/2022 18:46:30]
+  Cinda Chaney: Трюм: все протечки устранены!
+[10/26/2022 18:46:31]
+  Outer wall repaired by Mila Veach
+[10/26/2022 18:46:31]
+  Cinda Chaney unequipped Сварочный аппарат
+[10/26/2022 18:46:32]
+  Mila Veach: Моторный отсек: протечек не осталось!
+[10/26/2022 18:46:33]
+  Mila Veach unequipped Сварочный аппарат
+[10/26/2022 18:46:33]
+  kynlan4ic: Jan Fonte, займись ремонтом поврежденных систем!
+[10/26/2022 18:46:34]
+  Jan Fonte: Есть!
+[10/26/2022 18:46:35]
+  Jan Fonte unequipped Сварочный аппарат
+[10/26/2022 18:46:35]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:46:35]
+  Jan Fonte: Надо найти водолазный скафандр!
+[10/26/2022 18:46:36]
+  Jan Fonte unequipped Гаечный ключ
+[10/26/2022 18:46:36]
+  Jan Fonte equipped Отвертка
+[10/26/2022 18:46:38]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:46:41]
+  Franklin Avery failed to repair Деконструктор
+[10/26/2022 18:46:43]
+  Jan Fonte started repairing Навигационный терминал
+[10/26/2022 18:46:44]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/26/2022 18:46:44]
+  Mila Veach equipped Водолазный скафандр
+[10/26/2022 18:46:45]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:46:45]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:46:45]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:46:45]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:46:45]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:46:45]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:46:45]
+  igameCrog equipped Фонарик
+[10/26/2022 18:46:46]
+  Franklin Avery failed to repair Деконструктор
+[10/26/2022 18:46:50]
+  Franklin Avery started repairing Деконструктор
+[10/26/2022 18:46:50]
+  Mila Veach equipped Водолазный скафандр
+[10/26/2022 18:47:03]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:47:03]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:47:04]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:47:07]
+  Franklin Avery started repairing Батарея
+[10/26/2022 18:47:08]
+  Fiona Duplantier equipped Водолазный скафандр
+[10/26/2022 18:47:12]
+  Fiona Duplantier equipped Водолазный скафандр
+[10/26/2022 18:47:14]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:47:23]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:47:30]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:47:30]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:47:30]
+  igameCrog picked up Плазменный резак
+[10/26/2022 18:47:30]
+  Franklin Avery failed to repair Большой двигатель
+[10/26/2022 18:47:32]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:47:32]
+  Janie Kinney unequipped Сварочный аппарат
+[10/26/2022 18:47:35]
+  Franklin Avery started repairing Большой двигатель
+[10/26/2022 18:47:36]
+  Janie Kinney equipped Водолазный скафандр
+[10/26/2022 18:47:41]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:47:46]
+  Sherise Graves equipped Водолазный скафандр
+[10/26/2022 18:47:51]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:47:52]
+  Janie Kinney equipped Водолазный скафандр
+[10/26/2022 18:47:58]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:48:01]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:48:01]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:48:04]
+  Franklin Avery failed to repair Батарея
+[10/26/2022 18:48:06]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:48:09]
+  Franklin Avery started repairing Батарея
+[10/26/2022 18:48:11]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:48:14]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:48:14]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:48:16]
+  igameCrog launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:48:17]
+  Outer wall breached by igameCrog
+[10/26/2022 18:48:19]
+  Franklin Avery started repairing Ядерный реактор
+[10/26/2022 18:48:24]
+  Jan Fonte started repairing Ядерный реактор
+[10/26/2022 18:48:24]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:48:24]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:48:25]
+  Jan Fonte unequipped Отвертка
+[10/26/2022 18:48:25]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:48:27]
+  Franklin Avery started repairing Малый насос
+[10/26/2022 18:48:28]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 4354)
+[10/26/2022 18:48:32]
+  Jan Fonte started repairing Насос
+[10/26/2022 18:48:33]
+  Janie Phillips equipped Кислородный баллон
+[10/26/2022 18:48:33]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 4354)
+[10/26/2022 18:48:36]
+  igameCrog dropped Водолазный скафандр
+[10/26/2022 18:48:39]
+  Franklin Avery started repairing Малый насос
+[10/26/2022 18:48:41]
+  igameCrog equipped Водолазный скафандр
+[10/26/2022 18:48:43]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:49:07]
+  igameCrog placed Морфин in Форма врача (ID: 4600)
+[10/26/2022 18:49:07]
+  igameCrog placed Морфин in Форма врача (ID: 4600)
+[10/26/2022 18:49:07]
+  Aldo Smith: Прицел на ледяной шпиль!
+[10/26/2022 18:49:07]
+  Aldo Smith: Стреляю!
+[10/26/2022 18:49:07]
+  Aldo Smith launched Рельсотрон (projectile: Снаряд рельсотрона)
+[10/26/2022 18:49:10]
+  igameCrog picked up Сварочный аппарат
+[10/26/2022 18:49:32]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:49:33]
+  Jan Fonte unequipped Гаечный ключ
+[10/26/2022 18:49:33]
+  Jan Fonte equipped Отвертка
+[10/26/2022 18:49:35]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:49:35]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:49:35]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:49:36]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:49:44]
+  Franklin Avery started repairing Кабельная коробка
+[10/26/2022 18:49:53]
+  kynlan4ic: Christoper Graves, встань за орудия!
+[10/26/2022 18:49:54]
+  Christoper Graves: Вас понял!
+[10/26/2022 18:49:56]
+  Franklin Avery started repairing Кабельная коробка
+[10/26/2022 18:49:57]
+  Christoper Graves: Невозможно добраться: Перископ!
+[10/26/2022 18:49:58]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:49:58]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:49:58]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:49:58]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:49:58]
+  Jan Fonte failed to repair Кабельная коробка
+[10/26/2022 18:50:00]
+  Mila Veach: Надо найти водолазный скафандр!
+[10/26/2022 18:50:02]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:50:03]
+  Franklin Avery started repairing Кабельная коробка
+[10/26/2022 18:50:06]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:50:07]
+  Franklin Avery started repairing Кабельная коробка
+[10/26/2022 18:50:09]
+  Mila Veach: Невозможно добраться до течи: Доступ к шлюзу!
+[10/26/2022 18:50:10]
+  Janie Kinney equipped Сварочный аппарат
+[10/26/2022 18:50:10]
+  Christoper Graves equipped Водолазный скафандр
+[10/26/2022 18:50:11]
+  Jan Fonte failed to repair Кабельная коробка
+[10/26/2022 18:50:12]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:50:12]
+  Inner wall repaired by Janie Kinney
+[10/26/2022 18:50:12]
+  Franklin Avery started repairing Кабельная коробка
+[10/26/2022 18:50:13]
+  Janie Kinney: Доступ к шлюзу: минус одна протечка!
+[10/26/2022 18:50:13]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:50:15]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:50:15]
+  Franklin Avery unequipped Отвертка
+[10/26/2022 18:50:15]
+  Franklin Avery equipped Гаечный ключ
+[10/26/2022 18:50:16]
+  Franklin Avery: Надо найти водолазный скафандр!
+[10/26/2022 18:50:16]
+  Jan Fonte unequipped Отвертка
+[10/26/2022 18:50:16]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:50:16]
+  Jan Fonte: Мне нужно подводное снаряжение!
+[10/26/2022 18:50:16]
+  Janie Kinney unequipped Сварочный аппарат
+[10/26/2022 18:50:17]
+  Jan Fonte unequipped Гаечный ключ
+[10/26/2022 18:50:17]
+  Jan Fonte equipped Отвертка
+[10/26/2022 18:50:17]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:50:18]
+  Christoper Graves equipped Водолазный скафандр
+[10/26/2022 18:50:18]
+  Janie Kinney: Надо найти водолазный скафандр!
+[10/26/2022 18:50:20]
+  Leola Hedrick equipped Водолазный скафандр
+[10/26/2022 18:50:22]
+  Jan Fonte unequipped Отвертка
+[10/26/2022 18:50:22]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:50:26]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:50:26]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:50:30]
+  Leola Hedrick: Надо найти водолазный скафандр!
+[10/26/2022 18:50:31]
+  Janie Kinney equipped Сварочный аппарат
+[10/26/2022 18:50:32]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:50:32]
+  Janie Kinney: Воздушный шлюз: все протечки устранены!
+[10/26/2022 18:50:33]
+  Outer wall repaired by Janie Kinney
+[10/26/2022 18:50:33]
+  Janie Kinney: Доступ к шлюзу: минус одна протечка!
+[10/26/2022 18:50:34]
+  Janie Kinney unequipped Сварочный аппарат
+[10/26/2022 18:50:37]
+  Jan Fonte started repairing Настраиваемый люк
+[10/26/2022 18:50:39]
+  Franklin Avery started repairing Настраиваемый люк
+[10/26/2022 18:50:40]
+  Janie Phillips: Мне нужно подводное снаряжение!
+[10/26/2022 18:50:40]
+  Aldo Smith: Стреляю!
+[10/26/2022 18:50:40]
+  Aldo Smith launched Рельсотрон (projectile: Снаряд рельсотрона)
+[10/26/2022 18:50:41]
+  Jan Fonte unequipped Гаечный ключ
+[10/26/2022 18:50:41]
+  Jan Fonte equipped Отвертка
+[10/26/2022 18:50:41]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:42]
+  Outer wall breached by Hammerhead
+[10/26/2022 18:50:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:50:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:50:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:42]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/26/2022 18:50:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:42]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/26/2022 18:50:43]
+  Jan Fonte unequipped Отвертка
+[10/26/2022 18:50:43]
+  Jan Fonte equipped Сварочный аппарат
+[10/26/2022 18:50:43]
+  Jan Fonte unequipped Сварочный аппарат
+[10/26/2022 18:50:43]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:50:43]
+  Jan Fonte unequipped Гаечный ключ
+[10/26/2022 18:50:43]
+  Jan Fonte equipped Отвертка
+[10/26/2022 18:50:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:50:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/26/2022 18:50:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:43]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:44]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/26/2022 18:50:45]
+  Aldo Smith launched Рельсотрон (projectile: Снаряд рельсотрона)
+[10/26/2022 18:50:45]
+  Aldo Smith: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[10/26/2022 18:50:46]
+  Aldo Smith equipped Снаряд рельсотрона
+[10/26/2022 18:50:49]
+  Mila Veach equipped Сварочный аппарат
+[10/26/2022 18:50:51]
+  Mila Veach: Трюм: все протечки устранены!
+[10/26/2022 18:50:54]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:50:57]
+  Aldo Smith launched Рельсотрон (projectile: Снаряд рельсотрона)
+[10/26/2022 18:50:57]
+  Janie Kinney equipped Водолазный скафандр
+[10/26/2022 18:50:57]
+  Hammerhead has died (Cause of death: Повреждение глубоких тканей)
+[10/26/2022 18:50:58]
+  Aldo Smith equipped Снаряд рельсотрона
+[10/26/2022 18:50:58]
+  Mila Veach unequipped Сварочный аппарат
+[10/26/2022 18:50:59]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:51:04]
+  Jan Fonte started repairing Кабельная коробка
+[10/26/2022 18:51:10]
+  kynlan4ic picked up Ручной сонар
+[10/26/2022 18:51:13]
+  igameCrog placed Ручной сонар in Защищенный стальной шкаф (ID: 379)
+[10/26/2022 18:51:15]
+  Janie Kinney equipped Водолазный скафандр
+[10/26/2022 18:51:16]
+  Rosendo Gould: Ой-ой.
+[10/26/2022 18:51:19]
+  Jan Fonte started repairing Суперконденсатор
+[10/26/2022 18:51:23]
+  igameCrog picked up Граната с воспламенитом
+[10/26/2022 18:51:23]
+  igameCrog picked up Граната с воспламенитом
+[10/26/2022 18:51:26]
+  Jan Fonte failed to repair Суперконденсатор
+[10/26/2022 18:51:26]
+  Mila Veach: Надо найти водолазный скафандр!
+[10/26/2022 18:51:30]
+  Jan Fonte started repairing Суперконденсатор
+[10/26/2022 18:51:30]
+  Janie Kinney: Надо найти водолазный скафандр!
+[10/26/2022 18:51:31]
+  Cinda Chaney equipped Водолазный скафандр
+[10/26/2022 18:51:38]
+  Rosendo Gould: Загружаю в реактор дополнительное топливо!
+[10/26/2022 18:51:42]
+  Rosendo Gould equipped Топливный стержень
+[10/26/2022 18:51:42]
+  Fiona Duplantier equipped Топливный стержень
+[10/26/2022 18:51:44]
+  Jan Fonte started repairing Монитор состояния
+[10/26/2022 18:51:49]
+  Cinda Chaney: Jan Fonte получает первую помощь здесь: пункт управления!
+[10/26/2022 18:51:49]
+  Jan Fonte unequipped Отвертка
+[10/26/2022 18:51:49]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:51:49]
+  Cinda Chaney: Jan Fonte чувствует себя хорошо!
+[10/26/2022 18:51:52]
+  Jan Fonte started repairing Насос
+[10/26/2022 18:51:53]
+  Mila Veach equipped Сварочный аппарат
+[10/26/2022 18:51:55]
+  Janie Kinney equipped Сварочный аппарат
+[10/26/2022 18:51:56]
+  Mila Veach unequipped Сварочный аппарат
+[10/26/2022 18:51:57]
+  Jan Fonte: Надо найти водолазный скафандр!
+[10/26/2022 18:51:57]
+  Janie Kinney unequipped Сварочный аппарат
+[10/26/2022 18:52:03]
+  kynlan4ic: Janie Phillips, начинай устранять протечки!
+[10/26/2022 18:52:04]
+  Janie Phillips: Есть!
+[10/26/2022 18:52:04]
+  Janie Phillips: Надо найти водолазный скафандр!
+[10/26/2022 18:52:12]
+  Janie Kinney equipped Водолазный скафандр
+[10/26/2022 18:52:13]
+  Jan Fonte unequipped Гаечный ключ
+[10/26/2022 18:52:13]
+  Jan Fonte equipped Отвертка
+[10/26/2022 18:52:14]
+  Jan Fonte unequipped Отвертка
+[10/26/2022 18:52:14]
+  Jan Fonte equipped Гаечный ключ
+[10/26/2022 18:52:14]
+  igameCrog adjusted reactor settings: Temperature: 3326, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/26/2022 18:52:17]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/26/2022 18:52:18]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/26/2022 18:52:19]
+  Janie Phillips equipped Сварочный аппарат
+[10/26/2022 18:52:19]
+  Outer wall repaired by Janie Phillips
+[10/26/2022 18:52:19]
+  Janie Phillips: Моторный отсек: протечек не осталось!
+[10/26/2022 18:52:20]
+  Jan Fonte started repairing Большой двигатель
+[10/26/2022 18:52:31]
+  kynlan4ic: Franklin Avery, займись протечками!
+[10/26/2022 18:52:32]
+  Franklin Avery: Так точно!
+[10/26/2022 18:52:45]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/26/2022 18:52:46]
+  igameCrog adjusted reactor settings: Temperature: 237, Fission rate: 3, Turbine output: 1, Autotemp OFF
+[10/26/2022 18:52:48]
+  igameCrog adjusted reactor settings: Temperature: 487, Fission rate: 19, Turbine output: 1, Autotemp OFF
+[10/26/2022 18:52:49]
+  igameCrog adjusted reactor settings: Temperature: 1487, Fission rate: 100, Turbine output: 1, Autotemp OFF
+[10/26/2022 18:52:50]
+  igameCrog adjusted reactor settings: Temperature: 2487, Fission rate: 100, Turbine output: 26, Autotemp OFF
+[10/26/2022 18:52:51]
+  igameCrog adjusted reactor settings: Temperature: 3487, Fission rate: 100, Turbine output: 49, Autotemp OFF
+[10/26/2022 18:52:53]
+  Janie Phillips unequipped Сварочный аппарат
+[10/26/2022 18:52:57]
+  Mila Veach equipped Водолазный скафандр
+[10/26/2022 18:52:58]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/26/2022 18:53:07]
+  Janie Phillips equipped Водолазный скафандр
+[10/26/2022 18:53:18]
+  igameCrog: Центральная шахта доступа: здесь пожар!
+[10/26/2022 18:53:27]
+  kynlan4ic: Пункт управления: здесь пожар!
+[10/26/2022 18:53:29]
+  kynlan4ic: Пункт управления: здесь пожар!
+[10/26/2022 18:53:30]
+  kynlan4ic: Пункт управления горит!
+[10/26/2022 18:53:31]
+  kynlan4ic: Пункт управления горит!
+[10/26/2022 18:53:33]
+  igameCrog: Медицинский отсек: здесь пожар!
+[10/26/2022 18:53:41]
+  kynlan4ic: Cinda Chaney, туши огонь!
+[10/26/2022 18:53:42]
+  Cinda Chaney: Принято.
+[10/26/2022 18:53:45]
+  Cinda Chaney: Пытаюсь найти огнетушитель!
+[10/26/2022 18:53:45]
+  Cinda Chaney equipped Огнетушитель
+[10/26/2022 18:53:45]
+  Cinda Chaney: Надо найти водолазный скафандр!
+[10/26/2022 18:54:06]
+  igameCrog: Franklin Avery, займись поврежденными устройствами!
+[10/26/2022 18:54:07]
+  Franklin Avery: Слушаюсь!
+[10/26/2022 18:54:18]
+  Franklin Avery unequipped Гаечный ключ
+[10/26/2022 18:54:18]
+  Franklin Avery equipped Отвертка
+[10/26/2022 18:54:18]
+  Franklin Avery unequipped Отвертка

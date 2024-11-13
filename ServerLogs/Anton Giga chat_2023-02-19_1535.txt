@@ -1,0 +1,1056 @@
+﻿[02/19/2023 15:20:52]
+  vlad32 picked up Револьвер
+[02/19/2023 15:21:14]
+  Esteban Harp has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Ronnie Navarro has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Lora Clothier has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Leo Robertson has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Mckinley Huynh has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Leola Thompkins has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Stella Ram has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Tyson Feinman has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Len Gomez has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Len Hefner has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Esteban Harp has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Mckinley Huynh has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Leola Thompkins has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  Tyson Feinman has died (Cause of death: Unknown)
+[02/19/2023 15:21:14]
+  The respawn shuttle has left.
+[02/19/2023 15:21:22]
+  Lora Clothier: Орудийный отсек: высокий уровень давления!
+[02/19/2023 15:21:24]
+  Lora Clothier has died (Cause of death: Баротравма)
+[02/19/2023 15:21:27]
+  Len Hefner: Орудийный отсек: здесь поднимается давление!
+[02/19/2023 15:21:28]
+  Len Gomez has died (Cause of death: Баротравма)
+[02/19/2023 15:21:29]
+  Len Hefner has died (Cause of death: Баротравма)
+[02/19/2023 15:21:36]
+  Console command "godmode_mainsub" executed by igameCrog.
+[02/19/2023 15:21:38]
+  Console command "godmode_mainsub" executed by igameCrog.
+[02/19/2023 15:22:00]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:22:01]
+  Чпок В Пупок has died (Cause of death: Кровопотеря)
+[02/19/2023 15:22:14]
+  Dispatching the respawn shuttle.
+[02/19/2023 15:22:14]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Офицер службы безопасности
+[02/19/2023 15:22:15]
+  Respawning Чпок В Пупок (STEAM_1:1:442373355) as Инженер
+[02/19/2023 15:22:15]
+  Respawning bot Esteban Harp as Врач
+[02/19/2023 15:22:15]
+  Respawning bot Lora Clothier as Механик
+[02/19/2023 15:22:15]
+  Respawning bot Mckinley Huynh as Инженер
+[02/19/2023 15:22:16]
+  Respawning bot Leola Thompkins as Механик
+[02/19/2023 15:22:16]
+  Respawning bot Tyson Feinman as Инженер
+[02/19/2023 15:22:16]
+  Respawning bot Len Gomez as Механик
+[02/19/2023 15:22:16]
+  Respawning bot Len Hefner as Помощник
+[02/19/2023 15:22:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 15:22:20]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 15:22:26]
+  vlad32 unequipped Подводный скутер
+[02/19/2023 15:22:26]
+  vlad32 equipped Металлический ящик
+[02/19/2023 15:22:29]
+  vlad32 picked up Плазменный резак
+[02/19/2023 15:22:30]
+  vlad32 dropped Металлический ящик
+[02/19/2023 15:22:32]
+  vlad32 equipped Подводный скутер
+[02/19/2023 15:22:34]
+  vlad32 picked up Аккумулятор
+[02/19/2023 15:22:34]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:22:34]
+  vlad32 placed Аккумулятор in Подводный скутер (ID: 4885)
+[02/19/2023 15:22:35]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:22:41]
+  vlad32 unequipped Сварочный аппарат
+[02/19/2023 15:22:41]
+  vlad32 equipped Сварочный аппарат
+[02/19/2023 15:22:47]
+  Outer wall repaired by vlad32
+[02/19/2023 15:22:52]
+  Inner wall repaired by vlad32
+[02/19/2023 15:22:58]
+  vlad32 unequipped Подводный скутер
+[02/19/2023 15:22:58]
+  vlad32 equipped Сварочный аппарат
+[02/19/2023 15:23:00]
+  vlad32 dropped Сварочный аппарат
+[02/19/2023 15:23:00]
+  vlad32 equipped Револьвер
+[02/19/2023 15:23:01]
+  Outer wall breached by vlad32
+[02/19/2023 15:23:02]
+  Outer wall repaired by vlad32
+[02/19/2023 15:23:03]
+  Spineling has died (Cause of death: Укусы)
+[02/19/2023 15:23:05]
+  Inner wall repaired by vlad32
+[02/19/2023 15:23:16]
+  Outer wall repaired by vlad32
+[02/19/2023 15:23:18]
+  Outer wall repaired by vlad32
+[02/19/2023 15:23:26]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:23:27]
+  vlad32 started repairing Дверь с кнопками
+[02/19/2023 15:23:37]
+  Чпок В Пупок picked up Одноразовый водолазный скафандр
+[02/19/2023 15:23:39]
+  kynlan4ic picked up Дементонитовый лом
+[02/19/2023 15:23:41]
+  Чпок В Пупок picked up Подводный скутер
+[02/19/2023 15:23:41]
+  kynlan4ic equipped Дементонитовый лом
+[02/19/2023 15:23:45]
+  Чпок В Пупок picked up Плазменный резак
+[02/19/2023 15:23:46]
+  vlad32 started repairing Малый насос
+[02/19/2023 15:23:54]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:23:59]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:24:02]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:24:02]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:24:04]
+  Чпок В Пупок opened Настраиваемая дверь с окном
+[02/19/2023 15:24:06]
+  Чпок В Пупок equipped Подводный скутер
+[02/19/2023 15:24:07]
+  vlad32 used item Физраствор
+[02/19/2023 15:24:15]
+  vlad32 equipped Подводный скутер
+[02/19/2023 15:24:17]
+  Outer wall repaired by vlad32
+[02/19/2023 15:24:19]
+  Mckinley Huynh: Мне нужно подводное снаряжение!
+[02/19/2023 15:24:24]
+  Len Gomez: Надо найти водолазный скафандр!
+[02/19/2023 15:24:24]
+  Leola Thompkins: Надо найти водолазный скафандр!
+[02/19/2023 15:24:24]
+  Len Hefner: Надо найти водолазный скафандр!
+[02/19/2023 15:24:24]
+  Lora Clothier: Надо найти водолазный скафандр!
+[02/19/2023 15:24:24]
+  Tyson Feinman: Надо найти водолазный скафандр!
+[02/19/2023 15:24:25]
+  Esteban Harp: Надо найти водолазный скафандр!
+[02/19/2023 15:24:30]
+  vlad32 started repairing Генератор кислорода
+[02/19/2023 15:24:40]
+  Lora Clothier: Нечем дышать!
+[02/19/2023 15:24:41]
+  Len Gomez: Я теряю сознание!
+[02/19/2023 15:24:50]
+  Чпок В Пупок equipped Водолазный скафандр
+[02/19/2023 15:24:50]
+  Чпок В Пупок picked up Водолазный скафандр
+[02/19/2023 15:24:53]
+  vlad32 failed to repair Кабельная коробка
+[02/19/2023 15:24:53]
+  kynlan4ic has died (Cause of death: Баротравма)
+[02/19/2023 15:24:53]
+  Len Gomez has died (Cause of death: Баротравма)
+[02/19/2023 15:24:54]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:25:08]
+  Чпок В Пупок picked up Сварочный аппарат
+[02/19/2023 15:25:10]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:25:29]
+  Чпок В Пупок equipped Одноразовый водолазный скафандр
+[02/19/2023 15:25:30]
+  Чпок В Пупок dropped Одноразовый водолазный скафандр
+[02/19/2023 15:25:35]
+  vlad32 placed Кислородный баллон in Генератор кислорода (ID: 282)
+[02/19/2023 15:25:35]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/19/2023 15:25:36]
+  vlad32 placed Кислородный баллон in Водолазный скафандр (ID: 271)
+[02/19/2023 15:25:47]
+  vlad32 failed to repair Кабельная коробка
+[02/19/2023 15:25:48]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:26:00]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 15:26:09]
+  Чпок В Пупок equipped Отвертка
+[02/19/2023 15:26:10]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:26:10]
+  Чпок В Пупок equipped Гаечный ключ
+[02/19/2023 15:26:13]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/19/2023 15:26:16]
+  vlad32 failed to repair Батарея
+[02/19/2023 15:26:18]
+  vlad32 started repairing Батарея
+[02/19/2023 15:26:36]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/19/2023 15:26:43]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:26:49]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:26:54]
+  vlad32 started repairing Малый насос
+[02/19/2023 15:26:55]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:26:57]
+  Чпок В Пупок picked up Топливный стержень
+[02/19/2023 15:26:57]
+  Чпок В Пупок dropped Топливный стержень
+[02/19/2023 15:26:57]
+  Чпок В Пупок placed Топливный стержень in Ядерный реактор (ID: 275)
+[02/19/2023 15:27:00]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:27:00]
+  Чпок В Пупок started repairing Батарея
+[02/19/2023 15:27:12]
+  vlad32 started repairing Монитор состояния
+[02/19/2023 15:27:22]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/19/2023 15:27:30]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:27:35]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:27:37]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:27:38]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:27:38]
+  vlad32 failed to repair Малый насос
+[02/19/2023 15:27:39]
+  vlad32 started repairing Малый насос
+[02/19/2023 15:27:43]
+  Чпок В Пупок unequipped Гаечный ключ
+[02/19/2023 15:27:43]
+  Чпок В Пупок unequipped Отвертка
+[02/19/2023 15:27:43]
+  Чпок В Пупок equipped Вещмешок
+[02/19/2023 15:27:47]
+  Чпок В Пупок dropped Вещмешок
+[02/19/2023 15:27:51]
+  Чпок В Пупок equipped Отвертка
+[02/19/2023 15:27:53]
+  Чпок В Пупок equipped Гаечный ключ
+[02/19/2023 15:27:53]
+  The respawn shuttle is leaving.
+[02/19/2023 15:27:54]
+  Чпок В Пупок failed to repair Зарядник магнитной пушки
+[02/19/2023 15:28:00]
+  vlad32 failed to repair Суперконденсатор
+[02/19/2023 15:28:01]
+  vlad32 started repairing Суперконденсатор
+[02/19/2023 15:28:02]
+  Чпок В Пупок started repairing Зарядник магнитной пушки
+[02/19/2023 15:28:24]
+  Esteban Harp has died (Cause of death: Unknown)
+[02/19/2023 15:28:24]
+  Lora Clothier has died (Cause of death: Unknown)
+[02/19/2023 15:28:24]
+  Mckinley Huynh has died (Cause of death: Unknown)
+[02/19/2023 15:28:24]
+  Leola Thompkins has died (Cause of death: Unknown)
+[02/19/2023 15:28:24]
+  Tyson Feinman has died (Cause of death: Unknown)
+[02/19/2023 15:28:24]
+  Len Hefner has died (Cause of death: Unknown)
+[02/19/2023 15:28:24]
+  The respawn shuttle has left.
+[02/19/2023 15:28:24]
+  vlad32 used item Бинт
+[02/19/2023 15:28:27]
+  Чпок В Пупок started repairing Суперконденсатор
+[02/19/2023 15:28:32]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:28:44]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:44]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:45]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:45]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:45]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:45]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:45]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:45]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:45]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:45]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:46]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:46]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:46]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:46]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:46]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:46]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:46]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:46]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:47]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:47]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:47]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:47]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:47]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:47]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:47]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:48]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:48]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:48]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:48]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:48]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:48]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:48]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:49]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:49]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:49]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:49]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:49]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:49]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:49]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:49]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:50]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:50]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:50]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:50]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:50]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:50]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:50]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:51]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:51]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:51]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:51]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:51]
+  vlad32 started repairing Навигационный терминал
+[02/19/2023 15:28:51]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:51]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:51]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:51]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:52]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:52]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:52]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:52]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:52]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:52]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:52]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:53]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:53]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:53]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:53]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:53]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:53]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:53]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:54]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:54]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:54]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:54]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:54]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:54]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:54]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:54]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:55]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:55]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:55]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:55]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:55]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:55]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:55]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:56]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:56]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:56]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:56]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:56]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:56]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:56]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:57]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:57]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:57]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:57]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:57]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:57]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:57]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:57]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:58]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:58]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:58]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:59]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:59]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:59]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:59]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:59]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:28:59]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:28:59]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:00]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:00]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:00]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:01]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:01]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:01]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:01]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:01]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:01]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:02]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:02]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:02]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:03]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:03]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:03]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:03]
+  Charybdisold has died (Cause of death: Рваная рана)
+[02/19/2023 15:29:03]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:03]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:03]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:03]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:04]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:04]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:04]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:04]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:04]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:04]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:05]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:05]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:05]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:05]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:05]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:05]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:05]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:06]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:06]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:06]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:06]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:06]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 15:29:06]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:07]
+  Charybdisold attacked by Чпок В Пупок. Рваная рана: 15.0 Кровотечение: 1.0
+[02/19/2023 15:29:11]
+  vlad32 started repairing Деконструктор
+[02/19/2023 15:29:22]
+  Console command "control legacyCharybdis" executed by igameCrog.
+[02/19/2023 15:29:24]
+  Dispatching the respawn shuttle.
+[02/19/2023 15:29:24]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Офицер службы безопасности
+[02/19/2023 15:29:24]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[02/19/2023 15:29:24]
+  Respawning bot Lora Clothier as Механик
+[02/19/2023 15:29:24]
+  Respawning bot Len Gomez as Механик
+[02/19/2023 15:29:24]
+  Respawning bot Len Hefner as Помощник
+[02/19/2023 15:29:25]
+  vlad32 started repairing Батарея
+[02/19/2023 15:29:26]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/19/2023 15:29:26]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 15:29:27]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 15:29:30]
+  igameCrog picked up Одноразовый водолазный скафандр
+[02/19/2023 15:29:31]
+  igameCrog equipped Одноразовый водолазный скафандр
+[02/19/2023 15:29:35]
+  igameCrog placed Бинт in Форма врача (ID: 4901)
+[02/19/2023 15:29:35]
+  kynlan4ic picked up Плазменный резак
+[02/19/2023 15:29:36]
+  kynlan4ic picked up Подводный скутер
+[02/19/2023 15:29:37]
+  kynlan4ic picked up Дементонитовый лом
+[02/19/2023 15:29:37]
+  igameCrog placed Морфин in Форма врача (ID: 4901)
+[02/19/2023 15:29:38]
+  vlad32 failed to repair Батарея
+[02/19/2023 15:29:38]
+  kynlan4ic picked up Аккумулятор
+[02/19/2023 15:29:38]
+  kynlan4ic picked up Аккумулятор
+[02/19/2023 15:29:38]
+  kynlan4ic picked up Аккумулятор
+[02/19/2023 15:29:38]
+  kynlan4ic picked up Аккумулятор
+[02/19/2023 15:29:38]
+  kynlan4ic picked up Аккумулятор
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:39]
+  kynlan4ic picked up Кислородный баллон
+[02/19/2023 15:29:44]
+  vlad32 used item Физраствор
+[02/19/2023 15:29:48]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[02/19/2023 15:29:50]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[02/19/2023 15:29:58]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:30:00]
+  Чпок В Пупок unequipped Сварочный аппарат
+[02/19/2023 15:30:09]
+  vlad32 removed Кислородный баллон from Водолазный скафандр (ID: 271)
+[02/19/2023 15:30:10]
+  vlad32 placed Кислородный баллон in Водолазный скафандр (ID: 271)
+[02/19/2023 15:30:11]
+  igameCrog picked up Подводная маска
+[02/19/2023 15:30:12]
+  igameCrog picked up Отвертка
+[02/19/2023 15:30:12]
+  igameCrog picked up Гаечный ключ
+[02/19/2023 15:30:13]
+  igameCrog picked up Закаленный лом
+[02/19/2023 15:30:14]
+  igameCrog picked up Подводный скутер
+[02/19/2023 15:30:15]
+  igameCrog picked up Плазменный резак
+[02/19/2023 15:30:17]
+  igameCrog picked up Ручной сонар
+[02/19/2023 15:30:33]
+  Inner wall repaired by Чпок В Пупок
+[02/19/2023 15:30:44]
+  Чпок В Пупок equipped Плазменный резак
+[02/19/2023 15:30:45]
+  vlad32 started repairing Батарея
+[02/19/2023 15:30:50]
+  vlad32 failed to repair Батарея
+[02/19/2023 15:30:55]
+  Чпок В Пупок unequipped Сварочный аппарат
+[02/19/2023 15:30:55]
+  vlad32 failed to repair Батарея
+[02/19/2023 15:31:01]
+  vlad32 failed to repair Батарея
+[02/19/2023 15:31:11]
+  Чпок В Пупок placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 266)
+[02/19/2023 15:31:11]
+  Чпок В Пупок removed Кислородный баллон from Полка для хранения кислородных баллонов (ID: 266)
+[02/19/2023 15:31:11]
+  Чпок В Пупок placed Кислородный баллон in Водолазный скафандр (ID: 383)
+[02/19/2023 15:31:19]
+  Чпок В Пупок picked up Кислородный баллон
+[02/19/2023 15:31:20]
+  Чпок В Пупок picked up Кислородный баллон
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:24]
+  vlad32 dropped Аккумулятор
+[02/19/2023 15:31:26]
+  Чпок В Пупок failed to repair Малый насос
+[02/19/2023 15:31:26]
+  vlad32 picked up Кислородный баллон
+[02/19/2023 15:31:28]
+  Чпок В Пупок started repairing Малый насос
+[02/19/2023 15:31:33]
+  vlad32 started repairing Навигационный терминал
+[02/19/2023 15:31:52]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 15:31:52]
+  vlad32 failed to repair Деконструктор
+[02/19/2023 15:32:00]
+  vlad32 failed to repair Деконструктор
+[02/19/2023 15:32:01]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/19/2023 15:32:12]
+  vlad32 adjusted reactor settings: Temperature: 3406, Fission rate: 63, Turbine output: 67, Autotemp ON
+[02/19/2023 15:32:16]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:32:27]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 15:32:27]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:32:35]
+  Чпок В Пупок unequipped Дробовик
+[02/19/2023 15:32:38]
+  Чпок В Пупок placed Дробовик in Хозяйственный шкаф (ID: 1180)
+[02/19/2023 15:32:38]
+  vlad32 failed to repair Батарея
+[02/19/2023 15:32:39]
+  Чпок В Пупок placed Топливный стержень in Хозяйственный шкаф (ID: 1180)
+[02/19/2023 15:32:44]
+  vlad32 used item Физраствор
+[02/19/2023 15:32:46]
+  vlad32 used item Физраствор
+[02/19/2023 15:32:48]
+  Console command "spawn  legacyCharybdis cursor" executed by igameCrog.
+[02/19/2023 15:32:49]
+  vlad32 started repairing Кабельная коробка
+[02/19/2023 15:32:54]
+  Чпок В Пупок started repairing Батарея
+[02/19/2023 15:32:54]
+  Lora Clothier: Ой-ой.
+[02/19/2023 15:33:30]
+  vlad32 started repairing Фабрикатор
+[02/19/2023 15:33:38]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/19/2023 15:33:40]
+  kynlan4ic equipped Подводный скутер
+[02/19/2023 15:33:43]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:43]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:43]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:47]
+  igameCrog dropped Одноразовый водолазный скафандр
+[02/19/2023 15:33:47]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:50]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 15:33:52]
+  Console command "godmode" executed by kynlan4ic.
+[02/19/2023 15:33:53]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:55]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:56]
+  vlad32 started repairing Суперконденсатор
+[02/19/2023 15:33:56]
+  igameCrog has died (Cause of death: Баротравма)
+[02/19/2023 15:33:57]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:33:59]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 15:34:00]
+  Lora Clothier: Надо найти водолазный скафандр!
+[02/19/2023 15:34:04]
+  Console command "control legacyCharybdis" executed by igameCrog.
+[02/19/2023 15:34:07]
+  Len Hefner: Мне нужно подводное снаряжение!
+[02/19/2023 15:34:07]
+  Чпок В Пупок started repairing Малый насос
+[02/19/2023 15:34:07]
+  Len Gomez: Надо найти водолазный скафандр!
+[02/19/2023 15:34:10]
+  Inner wall breached by Tigerthresher
+[02/19/2023 15:34:12]
+  Outer wall breached by Tigerthresher
+[02/19/2023 15:34:14]
+  Lora Clothier equipped Сварочный аппарат
+[02/19/2023 15:34:14]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:14]
+  Lora Clothier: А-А-А-А-А-А!
+[02/19/2023 15:34:16]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:16]
+  Inner wall breached by Bonethresher
+[02/19/2023 15:34:16]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:17]
+  Tigerthresher attacked by vlad32. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/19/2023 15:34:17]
+  Legacycharybdis has died (Cause of death: Укусы)
+[02/19/2023 15:34:17]
+  vlad32 used Отвертка on Обшивка A – крышка горизонтальная круглая.
+[02/19/2023 15:34:17]
+  Len Hefner: Я теряю много крови!
+[02/19/2023 15:34:17]
+  Tigerthresher attacked by vlad32. Рваная рана: 5.0 Кровотечение: 2.0
+[02/19/2023 15:34:17]
+  vlad32 used Отвертка on Tigerthresher.
+[02/19/2023 15:34:18]
+  Lora Clothier unequipped Сварочный аппарат
+[02/19/2023 15:34:18]
+  Lora Clothier equipped Гаечный ключ
+[02/19/2023 15:34:19]
+  Lora Clothier unequipped Гаечный ключ
+[02/19/2023 15:34:19]
+  Lora Clothier equipped Сварочный аппарат
+[02/19/2023 15:34:20]
+  Tigerthresher attacked by vlad32. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/19/2023 15:34:20]
+  Lora Clothier unequipped Сварочный аппарат
+[02/19/2023 15:34:20]
+  Lora Clothier equipped Гаечный ключ
+[02/19/2023 15:34:20]
+  vlad32 used Отвертка on Обшивка челнока A – стекло D.
+[02/19/2023 15:34:20]
+  Tigerthresher attacked by vlad32. Рваная рана: 5.0 Кровотечение: 2.0
+[02/19/2023 15:34:20]
+  vlad32 used Отвертка on Tigerthresher.
+[02/19/2023 15:34:20]
+  Lora Clothier: У меня кровь!
+[02/19/2023 15:34:20]
+  Len Gomez equipped Сварочный аппарат
+[02/19/2023 15:34:21]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:21]
+  Len Gomez: Помогите!
+[02/19/2023 15:34:21]
+  Lora Clothier unequipped Гаечный ключ
+[02/19/2023 15:34:21]
+  Lora Clothier equipped Сварочный аппарат
+[02/19/2023 15:34:21]
+  Tigerthresher attacked by vlad32. Рваная рана: 5.0 Кровотечение: 2.0
+[02/19/2023 15:34:21]
+  vlad32 used Отвертка on Tigerthresher.
+[02/19/2023 15:34:22]
+  Len Hefner equipped Гаечный ключ
+[02/19/2023 15:34:22]
+  Lora Clothier unequipped Сварочный аппарат
+[02/19/2023 15:34:22]
+  Lora Clothier equipped Гаечный ключ
+[02/19/2023 15:34:22]
+  Len Hefner: А-А-А-А-А-А!
+[02/19/2023 15:34:22]
+  vlad32 equipped Нож ныряльщика
+[02/19/2023 15:34:23]
+  vlad32 used Отвертка on Обшивка A 90 градусов.
+[02/19/2023 15:34:23]
+  Lora Clothier unequipped Гаечный ключ
+[02/19/2023 15:34:23]
+  Lora Clothier equipped Сварочный аппарат
+[02/19/2023 15:34:23]
+  Tigerthresher attacked by vlad32. Рваная рана: 5.0 Кровотечение: 2.0
+[02/19/2023 15:34:23]
+  vlad32 used Отвертка on Tigerthresher.
+[02/19/2023 15:34:24]
+  Lora Clothier unequipped Сварочный аппарат
+[02/19/2023 15:34:24]
+  Lora Clothier equipped Гаечный ключ
+[02/19/2023 15:34:25]
+  Lora Clothier unequipped Гаечный ключ
+[02/19/2023 15:34:25]
+  Lora Clothier equipped Сварочный аппарат
+[02/19/2023 15:34:25]
+  Len Gomez: Нечем дышать!
+[02/19/2023 15:34:25]
+  vlad32 used item Физраствор
+[02/19/2023 15:34:25]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:26]
+  Lora Clothier unequipped Сварочный аппарат
+[02/19/2023 15:34:26]
+  Lora Clothier equipped Гаечный ключ
+[02/19/2023 15:34:26]
+  vlad32 used item Физраствор
+[02/19/2023 15:34:27]
+  Lora Clothier unequipped Гаечный ключ
+[02/19/2023 15:34:27]
+  Lora Clothier equipped Сварочный аппарат
+[02/19/2023 15:34:27]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:27]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:29]
+  Console command "spawn Charybdisold cursor" executed by igameCrog.
+[02/19/2023 15:34:29]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:29]
+  Tigerthresher attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[02/19/2023 15:34:29]
+  vlad32 used Нож ныряльщика on Tigerthresher.
+[02/19/2023 15:34:29]
+  Чпок В Пупок attacked by vlad32. Рваная рана: 1.7 Кровотечение: 1.1
+[02/19/2023 15:34:29]
+  vlad32 used Отвертка on Чпок В Пупок.
+[02/19/2023 15:34:31]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:33]
+  kynlan4ic equipped Дементонитовый лом
+[02/19/2023 15:34:34]
+  Len Hefner has died (Cause of death: Укусы)
+[02/19/2023 15:34:34]
+  Console command "control Charybdisold" executed by igameCrog.
+[02/19/2023 15:34:38]
+  Len Gomez unequipped Сварочный аппарат
+[02/19/2023 15:34:41]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:41]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:41]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:34:41]
+  Len Gomez equipped Сварочный аппарат
+[02/19/2023 15:34:41]
+  Len Gomez: Ищу безопасное место!
+[02/19/2023 15:34:42]
+  Inner wall breached by Tigerthresher
+[02/19/2023 15:34:42]
+  Len Gomez unequipped Сварочный аппарат
+[02/19/2023 15:34:42]
+  Len Gomez equipped Гаечный ключ
+[02/19/2023 15:34:43]
+  Inner wall breached by Tigerthresher
+[02/19/2023 15:34:44]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:34:44]
+  Len Gomez: У меня кровь!
+[02/19/2023 15:34:45]
+  vlad32 attacked by kynlan4ic. Травма от удара тупым предметом: 5.7 Психоз: 5.0 Оглушение: 0.5
+[02/19/2023 15:34:45]
+  kynlan4ic used Дементонитовый лом on vlad32.
+[02/19/2023 15:34:46]
+  vlad32 has died (Cause of death: Укусы)
+[02/19/2023 15:34:47]
+  Len Gomez unequipped Гаечный ключ
+[02/19/2023 15:34:47]
+  Len Gomez equipped Сварочный аппарат
+[02/19/2023 15:34:48]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 18.0 Психоз: 5.0 Оглушение: 0.5
+[02/19/2023 15:34:48]
+  kynlan4ic used Дементонитовый лом on Tigerthresher.
+[02/19/2023 15:34:48]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:34:48]
+  Inner wall breached by Tigerthresher
+[02/19/2023 15:34:48]
+  Len Gomez unequipped Сварочный аппарат
+[02/19/2023 15:34:48]
+  Len Gomez equipped Гаечный ключ
+[02/19/2023 15:34:50]
+  Чпок В Пупок attacked by kynlan4ic. Травма от удара тупым предметом: 6.3 Психоз: 5.0 Оглушение: 0.5
+[02/19/2023 15:34:50]
+  kynlan4ic used Дементонитовый лом on Чпок В Пупок.
+[02/19/2023 15:34:51]
+  Len Gomez unequipped Гаечный ключ
+[02/19/2023 15:34:51]
+  Len Gomez equipped Сварочный аппарат
+[02/19/2023 15:34:51]
+  Inner wall breached by Tigerthresher
+[02/19/2023 15:34:51]
+  vlad32 attacked by kynlan4ic. Травма от удара тупым предметом: 5.7 Психоз: 5.0 Оглушение: 0.5
+[02/19/2023 15:34:51]
+  kynlan4ic used Дементонитовый лом on vlad32.
+[02/19/2023 15:34:51]
+  kynlan4ic used Дементонитовый лом on Обшивка A 4 градуса.
+[02/19/2023 15:34:52]
+  Len Gomez unequipped Сварочный аппарат
+[02/19/2023 15:34:52]
+  Len Gomez equipped Гаечный ключ
+[02/19/2023 15:34:52]
+  Outer wall breached by kynlan4ic
+[02/19/2023 15:34:52]
+  kynlan4ic used Дементонитовый лом on Обшивка челнока A25.
+[02/19/2023 15:34:52]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 18.0 Психоз: 5.0 Оглушение: 0.5
+[02/19/2023 15:34:52]
+  kynlan4ic used Дементонитовый лом on Tigerthresher.
+[02/19/2023 15:34:53]
+  Lora Clothier has died (Cause of death: Укусы)
+[02/19/2023 15:34:54]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[02/19/2023 15:34:57]
+  Outer wall breached by Charybdisold
+[02/19/2023 15:34:58]
+  Outer wall breached by Tigerthresher
+[02/19/2023 15:34:58]
+  Tigerthresher attacked by kynlan4ic. Травма от удара тупым предметом: 18.0 Психоз: 5.0 Оглушение: 0.5
+[02/19/2023 15:34:58]
+  kynlan4ic used Дементонитовый лом on Tigerthresher.
+[02/19/2023 15:34:58]
+  Inner wall breached by kynlan4ic
+[02/19/2023 15:34:58]
+  kynlan4ic used Дементонитовый лом on Большая горизонтальная внутренняя стена.
+[02/19/2023 15:34:59]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:35:01]
+  Console command "godmode" executed by kynlan4ic.
+[02/19/2023 15:35:10]
+  Чпок В Пупок has died (Cause of death: Укусы)
+[02/19/2023 15:35:14]
+  Bonethresher has died (Cause of death: Кровопотеря)
+[02/19/2023 15:35:17]
+  Len Gomez has died (Cause of death: Укусы)
+[02/19/2023 15:35:22]
+  kynlan4ic has died (Cause of death: Укусы)
+[02/19/2023 15:35:22]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:35:22]
+  Outer wall breached by Bonethresher
+[02/19/2023 15:35:23]
+  Ending round by votes (3/1)
+[02/19/2023 15:35:23]
+  Ending the round...

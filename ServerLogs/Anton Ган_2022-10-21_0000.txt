@@ -1,0 +1,268 @@
+﻿[10/20/2022 23:48:57]
+  iliya_kind used Нож ныряльщика on Franklin Tootle.
+[10/20/2022 23:48:58]
+  Franklin Tootle attacked by iliya_kind. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 23:48:58]
+  iliya_kind used Шоковая дубинка (Аккумулятор) on Franklin Tootle.
+[10/20/2022 23:48:58]
+  Sonny Lowe attacked by iliya_kind. Рваная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:48:58]
+  iliya_kind used Нож ныряльщика on Sonny Lowe.
+[10/20/2022 23:48:59]
+  Sonny Lowe attacked by iliya_kind. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 23:48:59]
+  iliya_kind used Шоковая дубинка (Аккумулятор) on Sonny Lowe.
+[10/20/2022 23:49:00]
+  Outer wall breached by iliya_kind
+[10/20/2022 23:49:00]
+  Sonny Lowe attacked by iliya_kind. Рваная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:49:00]
+  iliya_kind used Нож ныряльщика on Sonny Lowe.
+[10/20/2022 23:49:01]
+  Nicole Rios attacked by iliya_kind. Рваная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:49:01]
+  iliya_kind used Нож ныряльщика on Nicole Rios.
+[10/20/2022 23:49:04]
+  Denise Larsen attacked by iliya_kind. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 23:49:04]
+  iliya_kind used Шоковая дубинка (Аккумулятор) on Denise Larsen.
+[10/20/2022 23:49:05]
+  Nicole Rios attacked by iliya_kind. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:49:05]
+  iliya_kind used Нож ныряльщика on Nicole Rios.
+[10/20/2022 23:49:12]
+  iliya_kind has died (Cause of death: Укусы)
+[10/20/2022 23:49:22]
+  kynlan4ic picked up Подводный скутер
+[10/20/2022 23:49:24]
+  kynlan4ic equipped Подводный скутер
+[10/20/2022 23:49:39]
+  The respawn shuttle is leaving.
+[10/20/2022 23:49:43]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:44]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:45]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:47]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:47]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:48]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:50]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:49:52]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:50:10]
+  Lindy Bradley has died (Cause of death: Unknown)
+[10/20/2022 23:50:10]
+  Wilford Radice has died (Cause of death: Unknown)
+[10/20/2022 23:50:10]
+  The respawn shuttle has left.
+[10/20/2022 23:50:15]
+  kynlan4ic equipped Ручной сонар
+[10/20/2022 23:50:20]
+  Dispatching the respawn shuttle.
+[10/20/2022 23:50:20]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/20/2022 23:50:20]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 23:50:21]
+  Respawning bot Lindy Bradley as Офицер службы безопасности
+[10/20/2022 23:50:21]
+  Respawning bot Wilford Radice as Врач
+[10/20/2022 23:50:23]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:50:24]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:50:35]
+  igameCrog is a traitor and the current goals are:
+- Замените сварочное топливо на кислородные баллоны не менее чем в 70% сварочных аппаратов подлодки. (В процессе)
+
+[10/20/2022 23:51:15]
+  igameCrog picked up Подводный скутер
+[10/20/2022 23:51:19]
+  igameCrog picked up Подводная маска
+[10/20/2022 23:51:24]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/20/2022 23:51:44]
+  igameCrog equipped Подводный скутер
+[10/20/2022 23:51:46]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:52:13]
+  kynlan4ic closed Настраиваемая дверь
+[10/20/2022 23:52:53]
+  kynlan4ic opened Настраиваемая дверь
+[10/20/2022 23:53:46]
+  igameCrog closed Настраиваемая дверь
+[10/20/2022 23:54:17]
+  kynlan4ic has died (Cause of death: Внутренняя травма)
+[10/20/2022 23:54:40]
+  igameCrog picked up Подводная маска
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:44]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 23:54:44]
+  igameCrog dropped Кислородный баллон
+[10/20/2022 23:54:44]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 3703)
+[10/20/2022 23:54:46]
+  igameCrog dropped Кислородный баллон
+[10/20/2022 23:54:56]
+  igameCrog picked up Ручной сонар
+[10/20/2022 23:54:57]
+  igameCrog picked up Аккумулятор
+[10/20/2022 23:54:58]
+  igameCrog placed Ручной сонар in Средний стальной шкаф (ID: 2898)
+[10/20/2022 23:55:01]
+  igameCrog picked up Ручной сонар
+[10/20/2022 23:55:02]
+  igameCrog picked up Аккумулятор
+[10/20/2022 23:55:04]
+  igameCrog picked up Ручной сонар
+[10/20/2022 23:55:04]
+  igameCrog dropped Ручной сонар
+[10/20/2022 23:55:04]
+  igameCrog placed Ручной сонар in Средний стальной шкаф (ID: 2898)
+[10/20/2022 23:55:05]
+  igameCrog placed Ручной сонар in Средний стальной шкаф (ID: 2898)
+[10/20/2022 23:55:13]
+  igameCrog opened Настраиваемая дверь
+[10/20/2022 23:55:15]
+  iliya_kind picked up Подводная маска
+[10/20/2022 23:55:17]
+  iliya_kind picked up Плазменный резак
+[10/20/2022 23:55:17]
+  The respawn shuttle is leaving.
+[10/20/2022 23:55:18]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 23:55:38]
+  iliya_kind picked up Дементонитовый лом
+[10/20/2022 23:55:47]
+  iliya_kind has died (Cause of death: Unknown)
+[10/20/2022 23:55:47]
+  Lindy Bradley has died (Cause of death: Unknown)
+[10/20/2022 23:55:47]
+  Wilford Radice has died (Cause of death: Unknown)
+[10/20/2022 23:55:47]
+  The respawn shuttle has left.
+[10/20/2022 23:55:57]
+  Dispatching the respawn shuttle.
+[10/20/2022 23:55:57]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/20/2022 23:55:58]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/20/2022 23:55:58]
+  Respawning bot Lindy Bradley as Офицер службы безопасности
+[10/20/2022 23:55:58]
+  Respawning bot Wilford Radice as Врач
+[10/20/2022 23:56:00]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:56:00]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:56:36]
+  igameCrog has died (Cause of death: Укусы)
+[10/20/2022 23:57:02]
+  iliya_kind picked up Плазменный резак
+[10/20/2022 23:57:06]
+  iliya_kind picked up Подводная маска
+[10/20/2022 23:57:08]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 23:57:11]
+  iliya_kind picked up Дементонитовый лом
+[10/20/2022 23:57:16]
+  kynlan4ic is a traitor and the current goals are:
+- Ваша цель: Бредоген. Вы найдете ее здесь: Медицинский отсек. (В процессе)
+
+[10/20/2022 23:57:36]
+  The respawn shuttle is leaving.
+[10/20/2022 23:58:07]
+  kynlan4ic has died (Cause of death: Unknown)
+[10/20/2022 23:58:07]
+  iliya_kind has died (Cause of death: Unknown)
+[10/20/2022 23:58:07]
+  Lindy Bradley has died (Cause of death: Unknown)
+[10/20/2022 23:58:07]
+  Wilford Radice has died (Cause of death: Unknown)
+[10/20/2022 23:58:07]
+  The respawn shuttle has left.
+[10/20/2022 23:58:17]
+  Dispatching the respawn shuttle.
+[10/20/2022 23:58:17]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/20/2022 23:58:17]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/20/2022 23:58:17]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 23:58:17]
+  Respawning bot Lindy Bradley as Офицер службы безопасности
+[10/20/2022 23:58:18]
+  Respawning bot Wilford Radice as Врач
+[10/20/2022 23:58:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:58:20]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:58:20]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 23:58:32]
+  iliya_kind picked up Подводная маска
+[10/20/2022 23:58:34]
+  iliya_kind picked up Дементонитовый лом
+[10/20/2022 23:58:38]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 23:58:41]
+  iliya_kind picked up Плазменный резак
+[10/20/2022 23:58:43]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 23:58:43]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 23:58:52]
+  iliya_kind placed Наручники in Human
+[10/20/2022 23:58:52]
+  iliya_kind removed Нож ныряльщика from Human
+[10/20/2022 23:58:52]
+  iliya_kind picked up Нож ныряльщика
+[10/20/2022 23:59:08]
+  iliya_kind equipped Нож ныряльщика
+[10/20/2022 23:59:08]
+  iliya_kind equipped Нож ныряльщика
+[10/20/2022 23:59:12]
+  igameCrog attacked by iliya_kind. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 23:59:12]
+  iliya_kind used Нож ныряльщика on igameCrog.
+[10/20/2022 23:59:20]
+  iliya_kind equipped Шоковая дубинка
+[10/20/2022 23:59:47]
+  iliya_kind unequipped Шприц-пистолет
+[10/20/2022 23:59:52]
+  iliya_kind is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[10/20/2022 23:59:56]
+  igameCrog picked up Закаленный лом
+[10/20/2022 23:59:59]
+  iliya_kind picked up Информационный экран сканера здоровья
+[10/21/2022 00:00:03]
+  iliya_kind placed Морфин in Шприц-пистолет (ID: 3734)
+[10/21/2022 00:00:27]
+  kynlan4ic docked Venture to Шахта Skadi's Cauldron
+[10/21/2022 00:00:40]
+  Ending round (submarine reached the end of the level)
+[10/21/2022 00:00:40]
+  Ending the round...

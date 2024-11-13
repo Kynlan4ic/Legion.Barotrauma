@@ -1,0 +1,764 @@
+﻿[02/18/2023 22:52:06]
+  Bonethresher attacked by kynlan4ic. Повреждение глубоких тканей: 137.5 Кровотечение: 27.5 Оглушение: 15.0
+[02/18/2023 22:52:06]
+  Renato Hebert unequipped Отвертка
+[02/18/2023 22:52:06]
+  Renato Hebert equipped Гаечный ключ
+[02/18/2023 22:52:06]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:06]
+  Renato Hebert unequipped Гаечный ключ
+[02/18/2023 22:52:06]
+  Sliva picked up Грозовиевый топливный стержень
+[02/18/2023 22:52:06]
+  Sliva picked up Грозовиевый топливный стержень
+[02/18/2023 22:52:07]
+  Renata Newton: Ох, зачем же так?
+[02/18/2023 22:52:07]
+  Sliva picked up Топливный стержень
+[02/18/2023 22:52:07]
+  Sliva picked up Топливный стержень
+[02/18/2023 22:52:07]
+  Sliva picked up Топливный стержень
+[02/18/2023 22:52:07]
+  Sliva picked up Топливный стержень
+[02/18/2023 22:52:07]
+  Sliva picked up Топливный стержень
+[02/18/2023 22:52:07]
+  Sliva picked up Топливный стержень
+[02/18/2023 22:52:07]
+  Angry bird picked up Морфин
+[02/18/2023 22:52:08]
+  Jenine Lawrence started repairing Суперконденсатор
+[02/18/2023 22:52:09]
+  Angry bird picked up Бинт
+[02/18/2023 22:52:09]
+  Angry bird picked up Бинт
+[02/18/2023 22:52:10]
+  Sliva adjusted reactor settings: Temperature: 666, Fission rate: 40, Turbine output: 59, Autotemp OFF
+[02/18/2023 22:52:10]
+  Angry bird removed Кислородный баллон from Хозяйственный шкаф (ID: 1260)
+[02/18/2023 22:52:11]
+  Sliva adjusted reactor settings: Temperature: 54, Fission rate: 16, Turbine output: 59, Autotemp OFF
+[02/18/2023 22:52:11]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/18/2023 22:52:11]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:14]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:14]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:14]
+  Sliva placed Грозовиевый топливный стержень in Ядерный реактор (ID: 264)
+[02/18/2023 22:52:14]
+  Sliva placed Грозовиевый топливный стержень in Ядерный реактор (ID: 264)
+[02/18/2023 22:52:15]
+  Sliva placed Топливный стержень in Ядерный реактор (ID: 264)
+[02/18/2023 22:52:16]
+  Herman Mungo: Надо найти водолазный скафандр!
+[02/18/2023 22:52:17]
+  Maurice Phillips: Мне нужно подводное снаряжение!
+[02/18/2023 22:52:18]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/18/2023 22:52:18]
+  Bonethresher has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 22:52:18]
+  Bonethresher attacked by kynlan4ic. Повреждение глубоких тканей: 250.0 Кровотечение: 50.0 Оглушение: 15.0
+[02/18/2023 22:52:18]
+  Sliva adjusted reactor settings: Temperature: 3766, Fission rate: 16, Turbine output: 59, Autotemp OFF
+[02/18/2023 22:52:18]
+  Inner wall breached by Bonethresher
+[02/18/2023 22:52:19]
+  Sliva adjusted reactor settings: Temperature: 4766, Fission rate: 100, Turbine output: 59, Autotemp OFF
+[02/18/2023 22:52:19]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:20]
+  igameCrog has died (Cause of death: Нехватка кислорода)
+[02/18/2023 22:52:21]
+  kynlan4ic removed Снаряд рельсотрона from Зарядник рельсотрона (ID: 1063)
+[02/18/2023 22:52:21]
+  Kenton Burke: Надо найти водолазный скафандр!
+[02/18/2023 22:52:22]
+  Sherise Rivera: Мне нужно подводное снаряжение!
+[02/18/2023 22:52:24]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:25]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/18/2023 22:52:25]
+  Outer wall repaired by Tracy Goodin
+[02/18/2023 22:52:25]
+  Outer wall repaired by Tracy Goodin
+[02/18/2023 22:52:25]
+  Tracy Goodin: Центральный проход: минус одна протечка!
+[02/18/2023 22:52:26]
+  Outer wall repaired by Tracy Goodin
+[02/18/2023 22:52:27]
+  Renato Hebert: Надо найти водолазный скафандр!
+[02/18/2023 22:52:27]
+  Herman Mungo: Я теряю много крови!
+[02/18/2023 22:52:27]
+  Jenine Lawrence started repairing Ядерный реактор
+[02/18/2023 22:52:28]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:52:28]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:52:29]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 22:52:30]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 22:52:30]
+  Herman Mungo: Центральная шахта доступа: высокий уровень давления!
+[02/18/2023 22:52:30]
+  Renato Hebert equipped Сварочный аппарат
+[02/18/2023 22:52:31]
+  Sherise Rivera unequipped Отвертка
+[02/18/2023 22:52:31]
+  Sherise Rivera equipped Сварочный аппарат
+[02/18/2023 22:52:31]
+  Kenton Burke equipped Сварочный аппарат
+[02/18/2023 22:52:31]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:31]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:31]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:32]
+  Herman Mungo has died (Cause of death: Баротравма)
+[02/18/2023 22:52:32]
+  kynlan4ic unequipped Подводный скутер
+[02/18/2023 22:52:32]
+  kynlan4ic equipped Ядерный снаряд
+[02/18/2023 22:52:32]
+  Maurice Phillips equipped Сварочный аппарат
+[02/18/2023 22:52:32]
+  Jenine Lawrence unequipped Отвертка
+[02/18/2023 22:52:32]
+  Jenine Lawrence equipped Сварочный аппарат
+[02/18/2023 22:52:34]
+  kynlan4ic placed Ядерный снаряд in Зарядник рельсотрона (ID: 1063)
+[02/18/2023 22:52:36]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[02/18/2023 22:52:36]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/18/2023 22:52:36]
+  Mohammad Craig unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Renata Newton unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Sherise Rivera unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Jenine Lawrence unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Kenton Burke unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Renato Hebert unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:52:36]
+  Mohammad Craig equipped Гаечный ключ
+[02/18/2023 22:52:36]
+  Maurice Phillips unequipped Сварочный аппарат
+[02/18/2023 22:52:37]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:37]
+  Чпок В Пупок equipped Плазменный резак
+[02/18/2023 22:52:37]
+  Jenine Lawrence equipped Отвертка
+[02/18/2023 22:52:37]
+  Игрок a-buip присоединился к серверу.
+[02/18/2023 22:52:37]
+  Saving client permissions
+[02/18/2023 22:52:38]
+  Angry bird: что это за звук?
+[02/18/2023 22:52:38]
+  Inner wall breached by Чпок В Пупок
+[02/18/2023 22:52:41]
+  Sliva adjusted reactor settings: Temperature: 10000, Fission rate: 100, Turbine output: 58, Autotemp OFF
+[02/18/2023 22:52:41]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 22:52:41]
+  kynlan4ic dropped Кислородный баллон
+[02/18/2023 22:52:41]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 3821)
+[02/18/2023 22:52:42]
+  Sliva adjusted reactor settings: Temperature: 10000, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[02/18/2023 22:52:43]
+  Renata Newton equipped Сварочный аппарат
+[02/18/2023 22:52:44]
+  The respawn shuttle has left.
+[02/18/2023 22:52:46]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:46]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:48]
+  Maurice Phillips: Мне нужно подводное снаряжение!
+[02/18/2023 22:52:49]
+  Renata Newton: Невозможно добраться до течи: Дрон!
+[02/18/2023 22:52:49]
+  kynlan4ic launched Рельсотрон (projectile: Ядерный снаряд)
+[02/18/2023 22:52:50]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:52:51]
+  Kenton Burke: Надо найти водолазный скафандр!
+[02/18/2023 22:52:52]
+  Sherise Rivera: Мне нужно подводное снаряжение!
+[02/18/2023 22:52:53]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:52:54]
+  Angry bird picked up Инопланетная кровь
+[02/18/2023 22:52:54]
+  kynlan4ic unequipped Револьвер
+[02/18/2023 22:52:54]
+  kynlan4ic equipped Ядерный снаряд
+[02/18/2023 22:52:55]
+  Outer wall repaired by Tracy Goodin
+[02/18/2023 22:52:56]
+  Outer wall repaired by Tracy Goodin
+[02/18/2023 22:52:56]
+  Tracy Goodin: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[02/18/2023 22:52:56]
+  kynlan4ic placed Ядерный снаряд in Зарядник рельсотрона (ID: 1063)
+[02/18/2023 22:52:57]
+  Renato Hebert: Надо найти водолазный скафандр!
+[02/18/2023 22:52:59]
+  Sherise Rivera equipped Сварочный аппарат
+[02/18/2023 22:52:59]
+  Sherise Rivera unequipped Сварочный аппарат
+[02/18/2023 22:52:59]
+  Sherise Rivera equipped Отвертка
+[02/18/2023 22:53:00]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:53:01]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Большой стальной шкаф (ID: 98)
+[02/18/2023 22:53:01]
+  Чпок В Пупок removed Топливный бак сварочного аппарата from Большой стальной шкаф (ID: 98)
+[02/18/2023 22:53:01]
+  Чпок В Пупок placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 4127)
+[02/18/2023 22:53:02]
+  Renato Hebert equipped Отвертка
+[02/18/2023 22:53:02]
+  Jenine Lawrence started repairing Суперконденсатор
+[02/18/2023 22:53:03]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/18/2023 22:53:03]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/18/2023 22:53:03]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/18/2023 22:53:03]
+  Чпок В Пупок picked up Топливный бак сварочного аппарата
+[02/18/2023 22:53:03]
+  Sherise Rivera started repairing Кабельная коробка
+[02/18/2023 22:53:04]
+  kynlan4ic launched Рельсотрон (projectile: Ядерный снаряд)
+[02/18/2023 22:53:05]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:53:10]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/18/2023 22:53:11]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 22:53:12]
+  Renata Newton: Невозможно добраться до течи: Дрон!
+[02/18/2023 22:53:12]
+  Angry bird removed Патрон револьвера from Средний стальной шкаф (ID: 553)
+[02/18/2023 22:53:12]
+  Angry bird removed Патрон револьвера from Средний стальной шкаф (ID: 553)
+[02/18/2023 22:53:12]
+  Angry bird removed Патрон револьвера from Средний стальной шкаф (ID: 553)
+[02/18/2023 22:53:12]
+  Angry bird removed Патрон револьвера from Средний стальной шкаф (ID: 553)
+[02/18/2023 22:53:12]
+  Angry bird removed Патрон револьвера from Средний стальной шкаф (ID: 553)
+[02/18/2023 22:53:12]
+  Angry bird removed Патрон револьвера from Средний стальной шкаф (ID: 553)
+[02/18/2023 22:53:12]
+  kynlan4ic equipped Ядерный снаряд
+[02/18/2023 22:53:14]
+  Jenine Lawrence has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 22:53:14]
+  Reactor meltdown!
+[02/18/2023 22:53:14]
+  Sliva has lost more than 25 karma in the past minute.
+[02/18/2023 22:53:14]
+  kynlan4ic placed Ядерный снаряд in Зарядник рельсотрона (ID: 1063)
+[02/18/2023 22:53:14]
+  Renato Hebert started repairing Кабельная коробка
+[02/18/2023 22:53:20]
+  Tarnished: фиданите уже
+[02/18/2023 22:53:22]
+  Outer wall repaired by Tracy Goodin
+[02/18/2023 22:53:22]
+  Maurice Phillips has died (Cause of death: Баротравма)
+[02/18/2023 22:53:23]
+  Mohammad Craig: Меняем кислородные баллоны!
+[02/18/2023 22:53:23]
+  Mohammad Craig: У меня этот кислородный баллон - последний.
+[02/18/2023 22:53:23]
+  Sherise Rivera has died (Cause of death: Баротравма)
+[02/18/2023 22:53:23]
+  Kenton Burke has died (Cause of death: Баротравма)
+[02/18/2023 22:53:25]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/18/2023 22:53:27]
+  Mohammad Craig started repairing Медицинский фабрикатор
+[02/18/2023 22:53:28]
+  Renato Hebert unequipped Отвертка
+[02/18/2023 22:53:28]
+  Renato Hebert equipped Сварочный аппарат
+[02/18/2023 22:53:30]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:53:32]
+  Outer wall repaired by Renato Hebert
+[02/18/2023 22:53:32]
+  Renata Newton: Невозможно добраться до течи: Дрон!
+[02/18/2023 22:53:36]
+  Angry bird removed Форма врача from Human
+[02/18/2023 22:53:39]
+  Angry bird picked up Морфин
+[02/18/2023 22:53:39]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:53:41]
+  Console command "spawn hammerheadmatriarch cursor" executed by igameCrog.
+[02/18/2023 22:53:41]
+  Outer wall breached by Hammerheadmatriarch
+[02/18/2023 22:53:41]
+  Hammerheadmatriarch has died (Cause of death: Внутренняя травма)
+[02/18/2023 22:53:43]
+  Hammerheadspawn has died (Cause of death: Укусы)
+[02/18/2023 22:53:44]
+  Dispatching the respawn shuttle.
+[02/18/2023 22:53:44]
+  Respawning vlad32 (STEAM_1:0:579729700) as Механик
+[02/18/2023 22:53:44]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[02/18/2023 22:53:44]
+  Respawning Tarnished (STEAM_1:1:507741797) as Офицер службы безопасности
+[02/18/2023 22:53:44]
+  Respawning a-buip (STEAM_1:0:428930914) as Инженер
+[02/18/2023 22:53:44]
+  Respawning bot Sherise Rivera as Инженер
+[02/18/2023 22:53:44]
+  Respawning bot Maurice Phillips as Механик
+[02/18/2023 22:53:44]
+  Respawning bot Jenine Lawrence as Инженер
+[02/18/2023 22:53:44]
+  Respawning bot Kenton Burke as Помощник
+[02/18/2023 22:53:45]
+  Respawning bot Herman Mungo as Врач
+[02/18/2023 22:53:45]
+  Respawning bot Katrina Gallardo as Помощник
+[02/18/2023 22:53:46]
+  Hammerheadspawn has died (Cause of death: Укусы)
+[02/18/2023 22:53:47]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:53:47]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:53:48]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:53:48]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:53:48]
+  Tarnished set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 22:53:49]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:53:49]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:53:49]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:53:49]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:53:49]
+  a-buip set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 22:53:49]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 22:53:50]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 22:53:50]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:53:50]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:53:50]
+  Hammerheadspawn has died (Cause of death: Укусы)
+[02/18/2023 22:53:53]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:53:53]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:53:53]
+  Hammerheadspawn has died (Cause of death: Укусы)
+[02/18/2023 22:53:54]
+  vlad32 picked up Одноразовый водолазный скафандр
+[02/18/2023 22:53:54]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:53:54]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:53:57]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:53:57]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:53:57]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:53:57]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:53:58]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:53:58]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:54:00]
+  igameCrog was kicked because they were expecting a very old network event (27970 (created 10.1 s ago, 10.07 s older than last event sent to anyone) Events queued: 644, last sent to all: 27969
+[02/18/2023 22:54:00]
+  Игрок igameCrog отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[02/18/2023 22:54:01]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:54:01]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:54:04]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:54:04]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:54:04]
+  Hammerheadspawn has died (Cause of death: Ожог)
+[02/18/2023 22:54:06]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:54:06]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:54:06]
+  Hammerheadspawn has died (Cause of death: Ожог)
+[02/18/2023 22:54:09]
+  Tracy Goodin unequipped Сварочный аппарат
+[02/18/2023 22:54:09]
+  Tracy Goodin equipped Гаечный ключ
+[02/18/2023 22:54:09]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:54:09]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:54:09]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:54:09]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:54:11]
+  Tracy Goodin unequipped Гаечный ключ
+[02/18/2023 22:54:11]
+  Tracy Goodin equipped Сварочный аппарат
+[02/18/2023 22:54:12]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:54:16]
+  Mohammad Craig unequipped Сварочный аппарат
+[02/18/2023 22:54:16]
+  Mohammad Craig equipped Гаечный ключ
+[02/18/2023 22:54:17]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:54:17]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:54:17]
+  Renato Hebert unequipped Сварочный аппарат
+[02/18/2023 22:54:17]
+  Renato Hebert equipped Гаечный ключ
+[02/18/2023 22:54:18]
+  Renato Hebert unequipped Гаечный ключ
+[02/18/2023 22:54:18]
+  Renato Hebert equipped Сварочный аппарат
+[02/18/2023 22:54:20]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:54:29]
+  Renata Newton: Меняем кислородные баллоны!
+[02/18/2023 22:54:30]
+  Outer wall repaired by Чпок В Пупок
+[02/18/2023 22:54:30]
+  a-buip picked up Морфин
+[02/18/2023 22:54:33]
+  Outer wall repaired by Чпок В Пупок
+[02/18/2023 22:54:34]
+  Hammerheadspawn has died (Cause of death: Укусы)
+[02/18/2023 22:54:34]
+  a-buip picked up Бинт
+[02/18/2023 22:54:35]
+  Outer wall repaired by Чпок В Пупок
+[02/18/2023 22:54:43]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:54:43]
+  Renato Hebert unequipped Сварочный аппарат
+[02/18/2023 22:54:43]
+  Mohammad Craig unequipped Сварочный аппарат
+[02/18/2023 22:54:44]
+  Mohammad Craig equipped Гаечный ключ
+[02/18/2023 22:54:48]
+  Mohammad Craig started repairing Дверь с кнопками
+[02/18/2023 22:54:52]
+  Tarnished equipped Нож ныряльщика
+[02/18/2023 22:54:54]
+  Tarnished equipped Шоковая дубинка
+[02/18/2023 22:54:59]
+  Sherise Rivera equipped Гаечный ключ
+[02/18/2023 22:54:59]
+  Katrina Gallardo equipped Гаечный ключ
+[02/18/2023 22:54:59]
+  Herman Mungo: У меня нет оружия для самообороны!
+[02/18/2023 22:54:59]
+  Maurice Phillips equipped Сварочный аппарат
+[02/18/2023 22:54:59]
+  Sherise Rivera: Помогите мне!
+[02/18/2023 22:54:59]
+  Maurice Phillips: Ищу безопасное место!
+[02/18/2023 22:54:59]
+  Katrina Gallardo: Ищу безопасное место!
+[02/18/2023 22:55:00]
+  Jenine Lawrence equipped Гаечный ключ
+[02/18/2023 22:55:00]
+  Herman Mungo: А-А-А-А-А-А!
+[02/18/2023 22:55:00]
+  Kenton Burke equipped Гаечный ключ
+[02/18/2023 22:55:00]
+  Maurice Phillips unequipped Сварочный аппарат
+[02/18/2023 22:55:00]
+  Maurice Phillips equipped Гаечный ключ
+[02/18/2023 22:55:00]
+  Jenine Lawrence: Помогите!
+[02/18/2023 22:55:00]
+  Kenton Burke: Эти проклятые создания тут повсюду!
+[02/18/2023 22:55:01]
+  Hammerheadspawn has died (Cause of death: Укусы)
+[02/18/2023 22:55:02]
+  Maurice Phillips used Гаечный ключ on Tarnished.
+[02/18/2023 22:55:03]
+  Maurice Phillips unequipped Гаечный ключ
+[02/18/2023 22:55:03]
+  Maurice Phillips equipped Сварочный аппарат
+[02/18/2023 22:55:04]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:55:04]
+  Maurice Phillips unequipped Сварочный аппарат
+[02/18/2023 22:55:04]
+  Maurice Phillips equipped Сварочный аппарат
+[02/18/2023 22:55:05]
+  Hammerheadspawn has died (Cause of death: Ожог)
+[02/18/2023 22:55:07]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:55:07]
+  Jenine Lawrence unequipped Гаечный ключ
+[02/18/2023 22:55:07]
+  Sherise Rivera unequipped Гаечный ключ
+[02/18/2023 22:55:07]
+  Kenton Burke unequipped Гаечный ключ
+[02/18/2023 22:55:07]
+  Katrina Gallardo unequipped Гаечный ключ
+[02/18/2023 22:55:07]
+  Maurice Phillips unequipped Сварочный аппарат
+[02/18/2023 22:55:09]
+  Tarnished used Шоковая дубинка(Аккумулятор) on Обшивка A 0 градусов.
+[02/18/2023 22:55:09]
+  vlad32 attacked by Tarnished. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[02/18/2023 22:55:09]
+  Tarnished used Шоковая дубинка(Аккумулятор) on vlad32.
+[02/18/2023 22:55:09]
+  Tarnished has lost more than 25 karma in the past minute.
+[02/18/2023 22:55:10]
+  Outer wall breached by Spineling
+[02/18/2023 22:55:14]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:55:14]
+  Outer wall breached by Bonethresher
+[02/18/2023 22:55:14]
+  Angry bird: что делать капитан
+[02/18/2023 22:55:15]
+  Hammerheadspawn has died (Cause of death: Ожог)
+[02/18/2023 22:55:16]
+  Herman Mungo: Мне нужно подводное снаряжение!
+[02/18/2023 22:55:16]
+  Kenton Burke: Мне нужно подводное снаряжение!
+[02/18/2023 22:55:16]
+  Jenine Lawrence: Надо найти водолазный скафандр!
+[02/18/2023 22:55:16]
+  Maurice Phillips: Мне нужно подводное снаряжение!
+[02/18/2023 22:55:16]
+  vlad32 equipped Плазменный резак
+[02/18/2023 22:55:16]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 22:55:17]
+  Katrina Gallardo: Мне нужно подводное снаряжение!
+[02/18/2023 22:55:18]
+  vlad32 attacked by Tarnished. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[02/18/2023 22:55:18]
+  Tarnished used Шоковая дубинка(Аккумулятор) on vlad32.
+[02/18/2023 22:55:18]
+  Sherise Rivera: Мне нужно подводное снаряжение!
+[02/18/2023 22:55:20]
+  Renato Hebert equipped Сварочный аппарат
+[02/18/2023 22:55:22]
+  Outer wall repaired by Renato Hebert
+[02/18/2023 22:55:24]
+  Outer wall breached by Tigerthresher
+[02/18/2023 22:55:27]
+  Outer wall breached by Tigerthresher
+[02/18/2023 22:55:27]
+  igameCrog has died (Cause of death: Баротравма)
+[02/18/2023 22:55:27]
+  Tarnished has died (Cause of death: Баротравма)
+[02/18/2023 22:55:27]
+  a-buip has died (Cause of death: Баротравма)
+[02/18/2023 22:55:29]
+  Чпок В Пупок was kicked because they were expecting a very old network event (32703 (created 10.08 s ago, 10 s older than last event sent to anyone) Events queued: 635, last sent to all: 32702
+[02/18/2023 22:55:29]
+  Игрок Чпок В Пупок отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[02/18/2023 22:55:29]
+  a-buip was kicked because they were expecting a very old network event (32703 (created 10.08 s ago, 10 s older than last event sent to anyone) Events queued: 635, last sent to all: 32702
+[02/18/2023 22:55:29]
+  Игрок a-buip отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[02/18/2023 22:55:31]
+  Outer wall breached by Tigerthresher
+[02/18/2023 22:55:36]
+  Herman Mungo: У меня нет оружия для самообороны!
+[02/18/2023 22:55:36]
+  Herman Mungo: Ищу безопасное место!
+[02/18/2023 22:55:40]
+  Sherise Rivera equipped Гаечный ключ
+[02/18/2023 22:55:40]
+  Herman Mungo: Помогите, я истекаю кровью!
+[02/18/2023 22:55:40]
+  Sherise Rivera: Ищу безопасное место!
+[02/18/2023 22:55:43]
+  Tracy Goodin has died (Cause of death: Укусы)
+[02/18/2023 22:55:45]
+  Sherise Rivera: Я теряю много крови!
+[02/18/2023 22:55:46]
+  Renata Newton unequipped Сварочный аппарат
+[02/18/2023 22:55:46]
+  Renata Newton equipped Гаечный ключ
+[02/18/2023 22:55:47]
+  Renata Newton unequipped Гаечный ключ
+[02/18/2023 22:55:47]
+  Renata Newton equipped Сварочный аппарат
+[02/18/2023 22:55:48]
+  Renata Newton unequipped Сварочный аппарат
+[02/18/2023 22:55:48]
+  Renata Newton equipped Гаечный ключ
+[02/18/2023 22:55:48]
+  Renato Hebert: Держитесь, ребята! Нам это по плечу!
+[02/18/2023 22:55:50]
+  Renata Newton unequipped Гаечный ключ
+[02/18/2023 22:55:50]
+  Renata Newton equipped Сварочный аппарат
+[02/18/2023 22:55:50]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:55:50]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:55:50]
+  Mohammad Craig unequipped Сварочный аппарат
+[02/18/2023 22:55:50]
+  Mohammad Craig equipped Гаечный ключ
+[02/18/2023 22:55:51]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:55:51]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:55:51]
+  Mohammad Craig unequipped Сварочный аппарат
+[02/18/2023 22:55:51]
+  Mohammad Craig equipped Гаечный ключ
+[02/18/2023 22:55:51]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:55:52]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:55:52]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:55:53]
+  Renata Newton unequipped Сварочный аппарат
+[02/18/2023 22:55:53]
+  Renata Newton equipped Гаечный ключ
+[02/18/2023 22:55:54]
+  Maurice Phillips equipped Сварочный аппарат
+[02/18/2023 22:55:55]
+  Maurice Phillips: А-А-А-А-А-А!
+[02/18/2023 22:55:55]
+  Renata Newton unequipped Гаечный ключ
+[02/18/2023 22:55:55]
+  Renata Newton equipped Сварочный аппарат
+[02/18/2023 22:55:56]
+  Maurice Phillips unequipped Сварочный аппарат
+[02/18/2023 22:55:57]
+  Jenine Lawrence equipped Гаечный ключ
+[02/18/2023 22:55:58]
+  Jenine Lawrence: Помогите мне!
+[02/18/2023 22:55:59]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:55:59]
+  Renata Newton unequipped Сварочный аппарат
+[02/18/2023 22:55:59]
+  Renato Hebert unequipped Сварочный аппарат
+[02/18/2023 22:55:59]
+  Mohammad Craig unequipped Сварочный аппарат
+[02/18/2023 22:55:59]
+  Maurice Phillips: У меня кровь!
+[02/18/2023 22:56:00]
+  Mohammad Craig equipped Гаечный ключ
+[02/18/2023 22:56:00]
+  Jenine Lawrence: Помогите, я истекаю кровью!
+[02/18/2023 22:56:04]
+  Sherise Rivera has died (Cause of death: Укусы)
+[02/18/2023 22:56:07]
+  Mohammad Craig started repairing Медицинский фабрикатор
+[02/18/2023 22:56:13]
+  Kenton Burke: Я теряю много крови!
+[02/18/2023 22:56:19]
+  Jenine Lawrence: Эти проклятые создания тут повсюду!
+[02/18/2023 22:56:19]
+  Игрок vlad32 отключился от игры. Причина: Время истекло
+[02/18/2023 22:56:19]
+  Игрок Sliva отключился от игры. Причина: Время истекло
+[02/18/2023 22:56:19]
+  Игрок Angry bird отключился от игры. Причина: Время истекло
+[02/18/2023 22:56:19]
+  Tarnished was kicked because they were expecting a very old network event (32708 (created 60.1 s ago, 59.95 s older than last event sent to anyone) Events queued: 1834, last sent to all: 32707
+[02/18/2023 22:56:19]
+  Игрок Tarnished отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[02/18/2023 22:56:27]
+  Sliva has died (Cause of death: Укусы)
+[02/18/2023 22:56:33]
+  Maurice Phillips: У меня кровь!
+[02/18/2023 22:56:33]
+  Katrina Gallardo: Я теряю много крови!
+[02/18/2023 22:56:34]
+  Jenine Lawrence: Я теряю много крови!
+[02/18/2023 22:56:34]
+  Maurice Phillips equipped Сварочный аппарат
+[02/18/2023 22:56:34]
+  Maurice Phillips: А-А-А-А-А-А!
+[02/18/2023 22:56:39]
+  Kenton Burke equipped Гаечный ключ
+[02/18/2023 22:56:39]
+  Kenton Burke: А-А-А-А-А-А!
+[02/18/2023 22:56:42]
+  kynlan4ic equipped Револьвер
+[02/18/2023 22:56:42]
+  Herman Mungo has died (Cause of death: Кровопотеря)
+[02/18/2023 22:56:42]
+  Renata Newton equipped Гаечный ключ
+[02/18/2023 22:56:43]
+  kynlan4ic equipped Сварочный аппарат
+[02/18/2023 22:56:43]
+  Renata Newton unequipped Гаечный ключ
+[02/18/2023 22:56:43]
+  Renata Newton equipped Сварочный аппарат
+[02/18/2023 22:56:44]
+  Maurice Phillips unequipped Сварочный аппарат
+[02/18/2023 22:56:44]
+  Inner wall repaired by kynlan4ic
+[02/18/2023 22:56:44]
+  Renata Newton unequipped Сварочный аппарат
+[02/18/2023 22:56:44]
+  Renata Newton equipped Гаечный ключ
+[02/18/2023 22:56:45]
+  Hammerheadspawn has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 22:56:46]
+  Kenton Burke: Я теряю много крови!
+[02/18/2023 22:56:47]
+  Renata Newton: У меня кровь!
+[02/18/2023 22:56:47]
+  Mohammad Craig unequipped Гаечный ключ
+[02/18/2023 22:56:47]
+  Mohammad Craig equipped Сварочный аппарат
+[02/18/2023 22:56:48]
+  Renata Newton unequipped Гаечный ключ
+[02/18/2023 22:56:48]
+  Renata Newton equipped Сварочный аппарат
+[02/18/2023 22:56:50]
+  Ending round by votes (1/0)
+[02/18/2023 22:56:50]
+  Ending the round...

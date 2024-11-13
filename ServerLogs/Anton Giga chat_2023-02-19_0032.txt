@@ -1,0 +1,1602 @@
+﻿[02/18/2023 23:57:18]
+  Starting the server...
+[02/18/2023 23:57:18]
+  Using SteamP2P networking.
+[02/18/2023 23:57:18]
+  Server started
+[02/18/2023 23:57:18]
+  Игрок kynlan4ic присоединился к серверу.
+[02/18/2023 23:57:18]
+  Saving client permissions
+[02/18/2023 23:57:18]
+  Saving client permissions
+[02/18/2023 23:57:44]
+  Игрок vlad32 присоединился к серверу.
+[02/18/2023 23:57:44]
+  Saving client permissions
+[02/18/2023 23:57:57]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/18/2023 23:57:57]
+  Saving client permissions
+[02/18/2023 23:58:00]
+  vlad32 is ready to start the game.
+[02/18/2023 23:59:15]
+  Игрок igameCrog присоединился к серверу.
+[02/18/2023 23:59:15]
+  Saving client permissions
+[02/18/2023 23:59:18]
+  igameCrog is ready to start the game.
+[02/18/2023 23:59:27]
+  kynlan4ic changed PlayStyle to Casual
+[02/18/2023 23:59:27]
+  kynlan4ic changed LosMode to Opaque
+[02/18/2023 23:59:27]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/18/2023 23:59:27]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/18/2023 23:59:27]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/19/2023 00:00:13]
+  kynlan4ic changed PlayStyle to Casual
+[02/19/2023 00:00:13]
+  kynlan4ic changed LosMode to Opaque
+[02/19/2023 00:00:13]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/19/2023 00:00:13]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/19/2023 00:00:13]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/19/2023 00:00:19]
+  kynlan4ic changed PlayStyle to Casual
+[02/19/2023 00:00:19]
+  kynlan4ic changed LosMode to Opaque
+[02/19/2023 00:00:19]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/19/2023 00:00:19]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/19/2023 00:00:19]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/19/2023 00:00:22]
+  kynlan4ic is ready to start the game.
+[02/19/2023 00:01:49]
+  Чпок В Пупок is ready to start the game.
+[02/19/2023 00:02:51]
+  igameCrog changed PlayStyle to Casual
+[02/19/2023 00:02:51]
+  igameCrog changed LosMode to Opaque
+[02/19/2023 00:02:51]
+  igameCrog changed ShowEnemyHealthBars to ShowAll
+[02/19/2023 00:02:51]
+  igameCrog changed SubSelectionMode to Manual
+[02/19/2023 00:02:51]
+  igameCrog changed ModeSelectionMode to Manual
+[02/19/2023 00:06:01]
+  Client "kynlan4ic" started the round.
+[02/19/2023 00:06:01]
+  Starting a new round...
+[02/19/2023 00:06:05]
+  Game mode: Песочница
+[02/19/2023 00:06:05]
+  Submarine: Remora
+[02/19/2023 00:06:05]
+  Level seed: GrSQvKx9
+[02/19/2023 00:06:07]
+  Round started.
+[02/19/2023 00:06:14]
+  Saul Ulrich: Тебе доводилось видеть эти штуковины, которые охраняют руины?
+[02/19/2023 00:06:19]
+  Vanessa Castro: Да, в институте.
+[02/19/2023 00:06:20]
+  Vanessa Castro: Говорят, они неорганические - это скорее машина, чем животное.
+[02/19/2023 00:06:24]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 00:06:25]
+  Saul Ulrich: Крови у них точно нет.
+[02/19/2023 00:06:31]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 00:06:32]
+  kynlan4ic picked up Подводное ружье
+[02/19/2023 00:06:34]
+  kynlan4ic picked up Ружье
+[02/19/2023 00:06:36]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:39]
+  kynlan4ic picked up Патрон для дробовика
+[02/19/2023 00:06:40]
+  Чпок В Пупок picked up Подводная маска
+[02/19/2023 00:06:46]
+  kynlan4ic picked up Гарпун
+[02/19/2023 00:06:46]
+  kynlan4ic picked up Гарпун
+[02/19/2023 00:06:46]
+  kynlan4ic picked up Гарпун
+[02/19/2023 00:06:49]
+  Чпок В Пупок equipped Отвертка
+[02/19/2023 00:06:50]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/19/2023 00:06:54]
+  Console command "spawnitem huskeggs cursor" executed by kynlan4ic.
+[02/19/2023 00:06:55]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,99,99,100".
+[02/19/2023 00:06:58]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,99,100".
+[02/19/2023 00:06:58]
+  Console command "spawnitem huskeggs cursor" executed by kynlan4ic.
+[02/19/2023 00:07:00]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,100".
+[02/19/2023 00:07:05]
+  Console command "enablecheats" executed by kynlan4ic.
+[02/19/2023 00:07:11]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,100".
+[02/19/2023 00:07:14]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "255,255,0,100".
+[02/19/2023 00:07:16]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,100".
+[02/19/2023 00:07:31]
+  vlad32 picked up Револьвер
+[02/19/2023 00:07:36]
+  vlad32 picked up Патрон револьвера
+[02/19/2023 00:07:36]
+  vlad32 picked up Патрон револьвера
+[02/19/2023 00:07:36]
+  vlad32 picked up Патрон револьвера
+[02/19/2023 00:07:36]
+  vlad32 picked up Патрон револьвера
+[02/19/2023 00:07:36]
+  vlad32 picked up Патрон револьвера
+[02/19/2023 00:07:36]
+  vlad32 picked up Патрон револьвера
+[02/19/2023 00:07:43]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:07:44]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:07:44]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:07:57]
+  igameCrog equipped Шприц-пистолет
+[02/19/2023 00:08:08]
+  Console command "spawnitem huskeggs cursora" executed by kynlan4ic.
+[02/19/2023 00:08:11]
+  Console command "spawnitem huskeggs cursor" executed by kynlan4ic.
+[02/19/2023 00:08:15]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:08:15]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:08:15]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:08:15]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:08:17]
+  igameCrog placed Морфин in Аптечка (ID: 195)
+[02/19/2023 00:08:20]
+  igameCrog picked up Каликсанид
+[02/19/2023 00:08:22]
+  igameCrog picked up Этанол
+[02/19/2023 00:08:22]
+  igameCrog picked up Этанол
+[02/19/2023 00:08:25]
+  igameCrog picked up Экстракт каликса
+[02/19/2023 00:08:26]
+  igameCrog picked up Серная кислота
+[02/19/2023 00:08:34]
+  igameCrog picked up Морфин
+[02/19/2023 00:08:34]
+  igameCrog picked up Морфин
+[02/19/2023 00:08:34]
+  igameCrog picked up Морфин
+[02/19/2023 00:08:34]
+  igameCrog picked up Морфин
+[02/19/2023 00:08:34]
+  igameCrog dropped Экстракт каликса
+[02/19/2023 00:08:34]
+  igameCrog placed Экстракт каликса in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:09:07]
+  Чпок В Пупок picked up Клоунская маска
+[02/19/2023 00:09:08]
+  vlad32 is a traitor and the current goals are:
+- Ваша цель: Бредоген. Вы найдете ее здесь: Трюм. (В процессе)
+
+[02/19/2023 00:09:11]
+  Чпок В Пупок dropped Клоунская маска
+[02/19/2023 00:09:15]
+  igameCrog picked up Клоунская маска
+[02/19/2023 00:09:24]
+  Чпок В Пупок picked up Губная гармошка
+[02/19/2023 00:09:25]
+  Чпок В Пупок equipped Губная гармошка
+[02/19/2023 00:09:42]
+  kynlan4ic equipped Экстракт каликса
+[02/19/2023 00:09:52]
+  vlad32 placed Форма сотрудника службы безопасности in Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:09:52]
+  vlad32 removed Защитный комплект from Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:09:52]
+  vlad32 picked up Защитный комплект
+[02/19/2023 00:09:56]
+  vlad32 placed Защитный комплект in Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:09:56]
+  vlad32 removed Костюм котельника from Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:09:56]
+  vlad32 picked up Костюм котельника
+[02/19/2023 00:09:58]
+  igameCrog picked up Бейсболка
+[02/19/2023 00:09:58]
+  igameCrog dropped Клоунская маска
+[02/19/2023 00:09:58]
+  igameCrog placed Клоунская маска in Human
+[02/19/2023 00:10:00]
+  vlad32 placed Костюм котельника in Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:10:00]
+  vlad32 removed Форма сотрудника службы безопасности from Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:10:00]
+  vlad32 picked up Форма сотрудника службы безопасности
+[02/19/2023 00:10:12]
+  igameCrog placed Бейсболка in Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:10:14]
+  igameCrog picked up Этанол
+[02/19/2023 00:10:15]
+  Чпок В Пупок picked up Бейсболка
+[02/19/2023 00:10:16]
+  Чпок В Пупок placed Клоунская маска in Средний стальной шкаф с окном (ID: 181)
+[02/19/2023 00:10:48]
+  kynlan4ic equipped Подводное ружье
+[02/19/2023 00:12:30]
+  Чпок В Пупок equipped Гаечный ключ
+[02/19/2023 00:12:33]
+  kynlan4ic equipped Ружье
+[02/19/2023 00:12:50]
+  vlad32 picked up Автоматический пистолет
+[02/19/2023 00:12:52]
+  vlad32 equipped Нож ныряльщика
+[02/19/2023 00:12:58]
+  vlad32 picked up Магазин для ПП
+[02/19/2023 00:14:32]
+  igameCrog picked up Подводная маска
+[02/19/2023 00:14:32]
+  igameCrog picked up Кислородный баллон
+[02/19/2023 00:14:45]
+  igameCrog picked up Кислородный баллон
+[02/19/2023 00:14:47]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:14:47]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:14:50]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:15:10]
+  igameCrog equipped Этанол
+[02/19/2023 00:15:17]
+  igameCrog equipped Этанол
+[02/19/2023 00:15:36]
+  igameCrog placed Этанол in Большой стальной шкаф (ID: 599)
+[02/19/2023 00:15:42]
+  Чпок В Пупок picked up Этанол
+[02/19/2023 00:15:44]
+  Чпок В Пупок equipped Этанол
+[02/19/2023 00:16:17]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/19/2023 00:16:17]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/19/2023 00:16:20]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/19/2023 00:16:20]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/19/2023 00:16:21]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/19/2023 00:16:21]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/19/2023 00:16:23]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/19/2023 00:16:23]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/19/2023 00:16:23]
+  igameCrog picked up Этанол
+[02/19/2023 00:16:26]
+  kynlan4ic picked up Этанол
+[02/19/2023 00:16:27]
+  kynlan4ic equipped Этанол
+[02/19/2023 00:16:30]
+  igameCrog equipped Этанол
+[02/19/2023 00:16:33]
+  vlad32 picked up Белая краска
+[02/19/2023 00:16:33]
+  vlad32 equipped Белая краска
+[02/19/2023 00:16:34]
+  vlad32 threw Белая краска
+[02/19/2023 00:16:48]
+  Чпок В Пупок picked up Черная краска
+[02/19/2023 00:16:58]
+  Чпок В Пупок equipped Черная краска
+[02/19/2023 00:16:58]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:16:58]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:16:58]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:16:58]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:16:58]
+  igameCrog placed Бинт in Форма врача (ID: 3244)
+[02/19/2023 00:17:01]
+  igameCrog picked up Морфин
+[02/19/2023 00:17:01]
+  igameCrog picked up Морфин
+[02/19/2023 00:17:01]
+  igameCrog picked up Морфин
+[02/19/2023 00:17:01]
+  igameCrog picked up Морфин
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:02]
+  igameCrog placed Морфин in Форма врача (ID: 3244)
+[02/19/2023 00:17:05]
+  Чпок В Пупок threw Черная краска
+[02/19/2023 00:17:13]
+  vlad32 picked up Клоунская маска
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:18]
+  igameCrog placed Физраствор in Форма врача (ID: 3244)
+[02/19/2023 00:17:21]
+  vlad32 placed Клоунская маска in Средний стальной шкаф с окном (ID: 99)
+[02/19/2023 00:17:37]
+  kynlan4ic picked up Подводная маска
+[02/19/2023 00:17:46]
+  igameCrog picked up Шоковая дубинка
+[02/19/2023 00:17:47]
+  kynlan4ic picked up Топливный стержень
+[02/19/2023 00:17:47]
+  kynlan4ic picked up Топливный стержень
+[02/19/2023 00:17:47]
+  kynlan4ic picked up Топливный стержень
+[02/19/2023 00:17:48]
+  igameCrog picked up Наручники
+[02/19/2023 00:17:48]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 156)
+[02/19/2023 00:17:51]
+  igameCrog picked up Нож ныряльщика
+[02/19/2023 00:17:53]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:17:53]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:17:59]
+  kynlan4ic picked up Топливный стержень
+[02/19/2023 00:18:01]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:18:12]
+  vlad32 equipped Шоковая дубинка
+[02/19/2023 00:18:27]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/19/2023 00:18:28]
+  igameCrog picked up Кислородный баллон
+[02/19/2023 00:18:28]
+  igameCrog picked up Бинт
+[02/19/2023 00:18:28]
+  igameCrog picked up Бинт
+[02/19/2023 00:18:33]
+  igameCrog placed Бинт in Хозяйственный шкаф (ID: 759)
+[02/19/2023 00:18:33]
+  igameCrog placed Бинт in Хозяйственный шкаф (ID: 759)
+[02/19/2023 00:18:36]
+  igameCrog picked up Подводная маска
+[02/19/2023 00:18:37]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:18:38]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/19/2023 00:18:39]
+  igameCrog placed Подводная маска in Хозяйственный шкаф (ID: 904)
+[02/19/2023 00:18:40]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:18:49]
+  igameCrog picked up Отвертка
+[02/19/2023 00:19:10]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/19/2023 00:19:10]
+  kynlan4ic: Milton Tamashiro, отремонтируй электросистемы!
+[02/19/2023 00:19:11]
+  Milton Tamashiro: Вас понял!
+[02/19/2023 00:19:12]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:19:12]
+  kynlan4ic: Amira Monroe, займись поврежденными устройствами!
+[02/19/2023 00:19:13]
+  Amira Monroe: Так точно!
+[02/19/2023 00:19:13]
+  Amira Monroe equipped Гаечный ключ
+[02/19/2023 00:19:14]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:19:15]
+  kynlan4ic: Rosina Stogner, займись электроприборами!
+[02/19/2023 00:19:16]
+  Rosina Stogner: Слушаюсь!
+[02/19/2023 00:19:16]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:19:18]
+  igameCrog picked up Зеленый провод
+[02/19/2023 00:19:18]
+  kynlan4ic: Milton Tamashiro, займись ремонтом поврежденных систем!
+[02/19/2023 00:19:18]
+  Rosina Stogner started repairing Монитор состояния
+[02/19/2023 00:19:19]
+  Milton Tamashiro: Слушаюсь!
+[02/19/2023 00:19:19]
+  Amira Monroe failed to repair Генератор кислорода
+[02/19/2023 00:19:22]
+  Milton Tamashiro failed to repair Монитор состояния
+[02/19/2023 00:19:23]
+  Amira Monroe unequipped Гаечный ключ
+[02/19/2023 00:19:23]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:19:25]
+  Amira Monroe failed to repair Кабельная коробка
+[02/19/2023 00:19:26]
+  Milton Tamashiro failed to repair Монитор состояния
+[02/19/2023 00:19:28]
+  igameCrog picked up Пояс инструментов
+[02/19/2023 00:19:29]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:19:31]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:19:32]
+  igameCrog placed Шоковая дубинка in Пояс инструментов (ID: 3282)
+[02/19/2023 00:19:32]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:19:34]
+  igameCrog placed Нож ныряльщика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:19:35]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/19/2023 00:19:37]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:19:37]
+  Milton Tamashiro equipped Гаечный ключ
+[02/19/2023 00:19:37]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:19:37]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:19:37]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:19:39]
+  Milton Tamashiro started repairing Генератор кислорода
+[02/19/2023 00:19:39]
+  igameCrog placed Серная кислота in Пояс инструментов (ID: 3282)
+[02/19/2023 00:19:40]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:19:45]
+  Amira Monroe started repairing Навигационный терминал
+[02/19/2023 00:19:48]
+  Milton Tamashiro unequipped Гаечный ключ
+[02/19/2023 00:19:48]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:19:50]
+  Rosina Stogner started repairing Навигационный терминал
+[02/19/2023 00:19:51]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:19:51]
+  Amira Monroe failed to repair Кабельная коробка
+[02/19/2023 00:19:56]
+  Rosina Stogner failed to repair Кабельная коробка
+[02/19/2023 00:20:04]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:20:07]
+  Saul Ulrich: Мне холодно.
+[02/19/2023 00:20:08]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:20:08]
+  Alita Holter: Amira Monroe получает первую помощь здесь: пункт управления!
+[02/19/2023 00:20:08]
+  Alita Holter: Amira Monroe в полном порядке!
+[02/19/2023 00:20:09]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:20:13]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:20:16]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:20:16]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:20:18]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:20:18]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:20:19]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:20:25]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:20:25]
+  igameCrog used item Бинт
+[02/19/2023 00:20:29]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:20:29]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:20:29]
+  igameCrog used item Морфин
+[02/19/2023 00:20:30]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:20:33]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:20:34]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:20:39]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:20:39]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:20:39]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:20:44]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:20:45]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:20:46]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:20:47]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:20:48]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:20:56]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:20:56]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:20:56]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:21:00]
+  Rosina Stogner failed to repair Кабельная коробка
+[02/19/2023 00:21:01]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:21:02]
+  Amira Monroe failed to repair Кабельная коробка
+[02/19/2023 00:21:06]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:21:06]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:21:06]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:21:09]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:21:14]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:21:15]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:21:15]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:21:15]
+  igameCrog picked up Этанол
+[02/19/2023 00:21:18]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:21:19]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:21:21]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:21:21]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:21:33]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:21:35]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:21:35]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:21:35]
+  Чпок В Пупок launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:21:41]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:21:41]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:21:41]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:21:41]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:22:02]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3282)
+[02/19/2023 00:22:13]
+  igameCrog equipped Этанол
+[02/19/2023 00:22:25]
+  igameCrog placed Этанол in Human
+[02/19/2023 00:22:30]
+  Чпок В Пупок equipped Этанол
+[02/19/2023 00:22:51]
+  Чпок В Пупок launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:22:52]
+  Чпок В Пупок launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:22:55]
+  vlad32 launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:22:55]
+  vlad32 launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:22:56]
+  vlad32 launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:22:56]
+  vlad32 launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/19/2023 00:23:15]
+  igameCrog adjusted reactor settings: Temperature: 2745, Fission rate: 44, Turbine output: 44, Autotemp ON
+[02/19/2023 00:23:16]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:16]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:16]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:16]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:16]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:19]
+  vlad32 placed Топливный стержень in Ядерный реактор (ID: 156)
+[02/19/2023 00:23:22]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:25]
+  kynlan4ic adjusted reactor settings: Temperature: 5251, Fission rate: 34, Turbine output: 44, Autotemp ON
+[02/19/2023 00:23:27]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:23:29]
+  vlad32 picked up Топливный стержень
+[02/19/2023 00:23:29]
+  vlad32 dropped Топливный стержень
+[02/19/2023 00:23:29]
+  vlad32 dropped Топливный стержень
+[02/19/2023 00:23:29]
+  vlad32 dropped Топливный стержень
+[02/19/2023 00:23:29]
+  vlad32 dropped Топливный стержень
+[02/19/2023 00:23:29]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:23:29]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:23:29]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:23:29]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:23:32]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 591)
+[02/19/2023 00:23:52]
+  igameCrog equipped Отвертка
+[02/19/2023 00:24:55]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:24:56]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:24:56]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:24:57]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:25:01]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:25:01]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:25:02]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:25:10]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:25:11]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:25:11]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:25:12]
+  Amira Monroe failed to repair Монитор состояния
+[02/19/2023 00:25:12]
+  Milton Tamashiro started repairing Монитор состояния
+[02/19/2023 00:25:13]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:25:16]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:25:17]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:25:47]
+  igameCrog picked up Шоковая дубинка
+[02/19/2023 00:25:54]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:25:54]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:25:54]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:25:54]
+  igameCrog placed Морфин in Шприц-пистолет (ID: 3247)
+[02/19/2023 00:26:33]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:26:34]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:26:34]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:26:37]
+  Rosina Stogner started repairing Ядерный реактор
+[02/19/2023 00:26:38]
+  Milton Tamashiro started repairing Ядерный реактор
+[02/19/2023 00:26:41]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:26:43]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:26:44]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:26:44]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:26:45]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:26:59]
+  Ilene Maxwell: Что-то в горле першит.
+[02/19/2023 00:27:09]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:27:09]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:27:09]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:27:12]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:27:15]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:27:15]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:27:15]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:27:36]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:27:36]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:27:36]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:27:38]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:27:39]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:27:39]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:27:40]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:27:40]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:27:40]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:27:41]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:27:43]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:27:43]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:27:44]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:27:49]
+  Amira Monroe failed to repair Кабельная коробка
+[02/19/2023 00:27:49]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:27:52]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:27:52]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:27:53]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:27:54]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:28:07]
+  igameCrog equipped Шоковая дубинка
+[02/19/2023 00:28:22]
+  Ilene Maxwell: У меня что-то во рту...
+[02/19/2023 00:28:25]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:28:25]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:28:26]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:28:29]
+  Rosina Stogner started repairing Навигационный терминал
+[02/19/2023 00:28:29]
+  Milton Tamashiro started repairing Навигационный терминал
+[02/19/2023 00:28:30]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:28:32]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:28:33]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:28:41]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:28:42]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:28:42]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:28:45]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:28:47]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:28:48]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:28:49]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:28:49]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:28:51]
+  igameCrog picked up Удостоверение личности
+[02/19/2023 00:28:52]
+  igameCrog placed Шоковая дубинка in Пояс инструментов (ID: 3282)
+[02/19/2023 00:29:03]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:29:04]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:29:05]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:29:05]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:29:07]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:29:08]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:29:09]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:29:17]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:29:18]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:29:18]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:29:19]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:29:21]
+  igameCrog picked up Пистолет-пулемет
+[02/19/2023 00:29:21]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:29:21]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:29:23]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:29:26]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:29:26]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:29:27]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:29:29]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:31]
+  igameCrog picked up Ружейный патрон
+[02/19/2023 00:29:32]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:29:33]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:29:33]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:29:34]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:35]
+  igameCrog placed Ружейный патрон in Средний стальной шкаф с окном (ID: 645)
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:37]
+  igameCrog picked up Резиновый патрон для дробовика
+[02/19/2023 00:29:41]
+  igameCrog placed Пистолет-пулемет in Защищенный стальной шкаф (ID: 596)
+[02/19/2023 00:29:43]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:29:44]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:29:44]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:29:46]
+  igameCrog picked up Дробовик
+[02/19/2023 00:29:47]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:29:49]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:29:50]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:29:50]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog placed Резиновый патрон для дробовика in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog removed Серная кислота from Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:03]
+  igameCrog picked up Серная кислота
+[02/19/2023 00:30:08]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:30:08]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:30:08]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:30:11]
+  igameCrog placed Удостоверение личности in Пояс инструментов (ID: 3282)
+[02/19/2023 00:30:11]
+  Amira Monroe started repairing Монитор состояния
+[02/19/2023 00:30:14]
+  Milton Tamashiro started repairing Монитор состояния
+[02/19/2023 00:30:19]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:30:20]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:30:20]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:30:23]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:30:23]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:30:24]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:30:25]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:30:26]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:30:29]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:30:31]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:30:32]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:30:32]
+  Amira Monroe: Мне нужно подводное снаряжение!
+[02/19/2023 00:30:33]
+  Alita Holter: Мне нужно подводное снаряжение!
+[02/19/2023 00:30:33]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:30:35]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:30:35]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:30:36]
+  Saul Ulrich: Слышишь?
+[02/19/2023 00:30:39]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:30:40]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:30:41]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:30:42]
+  Maudie Duplantier equipped Сварочный аппарат
+[02/19/2023 00:30:42]
+  Maudie Duplantier: Мне нужно подводное снаряжение!
+[02/19/2023 00:30:42]
+  vlad32 picked up Водолазный скафандр
+[02/19/2023 00:30:42]
+  Чпок В Пупок picked up Водолазный скафандр
+[02/19/2023 00:30:43]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:30:51]
+  Inner wall repaired by Чпок В Пупок
+[02/19/2023 00:30:54]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:30:54]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:30:55]
+  vlad32 picked up Плазменный резак
+[02/19/2023 00:30:55]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 00:30:55]
+  vlad32 equipped Плазменный резак
+[02/19/2023 00:30:56]
+  Saul Ulrich: Надо найти водолазный скафандр!
+[02/19/2023 00:30:58]
+  Vanessa Castro: Мне нужно подводное снаряжение!
+[02/19/2023 00:30:59]
+  Maudie Duplantier unequipped Сварочный аппарат
+[02/19/2023 00:30:59]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:30:59]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:31:03]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:31:03]
+  Rosina Stogner equipped Сварочный аппарат
+[02/19/2023 00:31:03]
+  Rosina Stogner: Мне нужно подводное снаряжение!
+[02/19/2023 00:31:04]
+  Rosina Stogner unequipped Сварочный аппарат
+[02/19/2023 00:31:06]
+  Darwin Reynolds equipped Сварочный аппарат
+[02/19/2023 00:31:06]
+  Darwin Reynolds: Надо найти водолазный скафандр!
+[02/19/2023 00:31:06]
+  Milton Tamashiro: Мне нужно подводное снаряжение!
+[02/19/2023 00:31:07]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:31:10]
+  Darwin Reynolds unequipped Сварочный аппарат
+[02/19/2023 00:31:13]
+  Amira Monroe started repairing Суперконденсатор
+[02/19/2023 00:31:16]
+  vlad32 dropped Плазменный резак
+[02/19/2023 00:31:21]
+  Alita Holter equipped Сварочный аппарат
+[02/19/2023 00:31:22]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:31:22]
+  Maudie Duplantier: Надо найти водолазный скафандр!
+[02/19/2023 00:31:25]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:31:25]
+  Amira Monroe equipped Сварочный аппарат
+[02/19/2023 00:31:26]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:31:26]
+  Rosina Stogner equipped Сварочный аппарат
+[02/19/2023 00:31:26]
+  Amira Monroe: Пункт управления: минус одна протечка!
+[02/19/2023 00:31:26]
+  Saul Ulrich: Надо найти водолазный скафандр!
+[02/19/2023 00:31:28]
+  Amira Monroe unequipped Сварочный аппарат
+[02/19/2023 00:31:28]
+  Inner wall repaired by Чпок В Пупок
+[02/19/2023 00:31:31]
+  Darius Swanger equipped Сварочный аппарат
+[02/19/2023 00:31:31]
+  Darius Swanger: Мне нужно подводное снаряжение!
+[02/19/2023 00:31:34]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:31:34]
+  Rosina Stogner unequipped Сварочный аппарат
+[02/19/2023 00:31:34]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:31:35]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:31:35]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:31:36]
+  Darius Swanger unequipped Сварочный аппарат
+[02/19/2023 00:31:37]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 00:31:38]
+  Alita Holter unequipped Сварочный аппарат
+[02/19/2023 00:31:39]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:31:40]
+  Outer wall repaired by Чпок В Пупок
+[02/19/2023 00:31:41]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:31:41]
+  Amira Monroe equipped Плазменный резак
+[02/19/2023 00:31:41]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:31:41]
+  Ilene Maxwell has died (Cause of death: Внутренняя травма)
+[02/19/2023 00:31:41]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:31:41]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:31:41]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:31:41]
+  Rosina Stogner equipped Сварочный аппарат
+[02/19/2023 00:31:42]
+  Rosina Stogner unequipped Сварочный аппарат
+[02/19/2023 00:31:43]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:31:43]
+  Maudie Duplantier equipped Сварочный аппарат
+[02/19/2023 00:31:44]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:31:44]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:31:47]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:31:54]
+  Maudie Duplantier unequipped Сварочный аппарат
+[02/19/2023 00:31:55]
+  Rosina Stogner started repairing Кабельная коробка
+[02/19/2023 00:31:56]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:31:57]
+  Maudie Duplantier equipped Сварочный аппарат
+[02/19/2023 00:31:59]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:31:59]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/19/2023 00:32:00]
+  Ilene Maxwell attacked by vlad32. Травма от удара тупым предметом: 2.0 Оглушение: 0.2
+[02/19/2023 00:32:00]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Ilene Maxwell.
+[02/19/2023 00:32:00]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:32:00]
+  Amira Monroe equipped Гаечный ключ
+[02/19/2023 00:32:00]
+  Amira Monroe unequipped Гаечный ключ
+[02/19/2023 00:32:00]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:32:01]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:32:01]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:32:01]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:32:01]
+  Milton Tamashiro equipped Гаечный ключ
+[02/19/2023 00:32:01]
+  Milton Tamashiro unequipped Гаечный ключ
+[02/19/2023 00:32:01]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:32:01]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:32:01]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:32:01]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Большая горизонтальная внутренняя стена.
+[02/19/2023 00:32:01]
+  Ilene Maxwell attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.2
+[02/19/2023 00:32:01]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Ilene Maxwell.
+[02/19/2023 00:32:02]
+  vlad32 used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[02/19/2023 00:32:02]
+  Rosina Stogner started repairing Суперконденсатор
+[02/19/2023 00:32:02]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:02]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:03]
+  Milton Tamashiro started repairing Суперконденсатор
+[02/19/2023 00:32:04]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:04]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:05]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:05]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:06]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:06]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:08]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:08]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:08]
+  Amira Monroe started repairing Кабельная коробка
+[02/19/2023 00:32:08]
+  Milton Tamashiro started repairing Кабельная коробка
+[02/19/2023 00:32:09]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:09]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:09]
+  Amira Monroe unequipped Отвертка
+[02/19/2023 00:32:10]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:10]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:10]
+  Rosina Stogner unequipped Отвертка
+[02/19/2023 00:32:11]
+  Чпок В Пупок attacked by vlad32. Рваная рана: 3.0 Кровотечение: 5.3 Оглушение: 0.2
+[02/19/2023 00:32:11]
+  vlad32 used Нож ныряльщика on Чпок В Пупок.
+[02/19/2023 00:32:12]
+  kynlan4ic attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:12]
+  vlad32 used Нож ныряльщика on kynlan4ic.
+[02/19/2023 00:32:14]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:32:14]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 5.0 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:14]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:15]
+  vlad32 used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[02/19/2023 00:32:16]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:16]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:17]
+  vlad32 used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[02/19/2023 00:32:17]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:17]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:24]
+  Amira Monroe equipped Сварочный аппарат
+[02/19/2023 00:32:24]
+  Rosina Stogner equipped Сварочный аппарат
+[02/19/2023 00:32:24]
+  Vanessa Castro equipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Amira Monroe unequipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:25]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:25]
+  Alita Holter equipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Milton Tamashiro equipped Гаечный ключ
+[02/19/2023 00:32:25]
+  Saul Ulrich equipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Darwin Reynolds equipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Amira Monroe equipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Rosina Stogner unequipped Сварочный аппарат
+[02/19/2023 00:32:25]
+  Darwin Reynolds unequipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Alita Holter unequipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Milton Tamashiro unequipped Гаечный ключ
+[02/19/2023 00:32:26]
+  Saul Ulrich unequipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Vanessa Castro unequipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Darius Swanger equipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Alita Holter equipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Milton Tamashiro equipped Гаечный ключ
+[02/19/2023 00:32:26]
+  Saul Ulrich equipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Darwin Reynolds equipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Rosina Stogner equipped Сварочный аппарат
+[02/19/2023 00:32:26]
+  Vanessa Castro equipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Amira Monroe unequipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Vanessa Castro unequipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Saul Ulrich unequipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:27]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:27]
+  Milton Tamashiro unequipped Гаечный ключ
+[02/19/2023 00:32:27]
+  Maudie Duplantier: Я теряю много крови!
+[02/19/2023 00:32:27]
+  Alita Holter unequipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Alita Holter equipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:32:27]
+  Saul Ulrich equipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Amira Monroe equipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Vanessa Castro equipped Сварочный аппарат
+[02/19/2023 00:32:27]
+  Rosina Stogner unequipped Сварочный аппарат
+[02/19/2023 00:32:28]
+  Darius Swanger unequipped Сварочный аппарат
+[02/19/2023 00:32:28]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:28]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:28]
+  Darius Swanger equipped Сварочный аппарат
+[02/19/2023 00:32:28]
+  Rosina Stogner equipped Сварочный аппарат
+[02/19/2023 00:32:29]
+  Saul Ulrich unequipped Сварочный аппарат
+[02/19/2023 00:32:29]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:29]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:29]
+  Darius Swanger unequipped Сварочный аппарат
+[02/19/2023 00:32:29]
+  Darius Swanger equipped Сварочный аппарат
+[02/19/2023 00:32:29]
+  Saul Ulrich equipped Сварочный аппарат
+[02/19/2023 00:32:30]
+  Milton Tamashiro opened Настраиваемая дверь
+[02/19/2023 00:32:30]
+  Milton Tamashiro closed Настраиваемая дверь
+[02/19/2023 00:32:37]
+  Alita Holter unequipped Сварочный аппарат
+[02/19/2023 00:32:37]
+  Milton Tamashiro unequipped Отвертка
+[02/19/2023 00:32:37]
+  Amira Monroe unequipped Сварочный аппарат
+[02/19/2023 00:32:37]
+  Vanessa Castro unequipped Сварочный аппарат
+[02/19/2023 00:32:38]
+  Darwin Reynolds unequipped Сварочный аппарат
+[02/19/2023 00:32:38]
+  Rosina Stogner unequipped Сварочный аппарат
+[02/19/2023 00:32:38]
+  Amira Monroe equipped Отвертка
+[02/19/2023 00:32:38]
+  Milton Tamashiro equipped Отвертка
+[02/19/2023 00:32:39]
+  Ilene Maxwell attacked by vlad32. Рваная рана: 4.8 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:39]
+  vlad32 used Нож ныряльщика on Ilene Maxwell.
+[02/19/2023 00:32:39]
+  Saul Ulrich unequipped Сварочный аппарат
+[02/19/2023 00:32:39]
+  Rosina Stogner equipped Отвертка
+[02/19/2023 00:32:39]
+  Darius Swanger unequipped Сварочный аппарат
+[02/19/2023 00:32:39]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:39]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Milton Tamashiro attacked by vlad32. Рваная рана: 5.0 Кровотечение: 7.5 Оглушение: 0.2
+[02/19/2023 00:32:40]
+  vlad32 used Нож ныряльщика on Milton Tamashiro.
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:40]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:41]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:42]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:43]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Milton Tamashiro: У меня кровь!
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:44]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner opened Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner closed Настраиваемая дверь
+[02/19/2023 00:32:45]
+  Rosina Stogner closed Настраиваемая дверь

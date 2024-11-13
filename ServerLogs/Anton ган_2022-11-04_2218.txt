@@ -1,0 +1,736 @@
+﻿[11/04/2022 22:07:04]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:07:04]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:07:05]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/04/2022 22:07:05]
+  igameCrog connected a wire from Кабельная коробка (power_value_out) to Кабельная коробка (power)
+[11/04/2022 22:07:07]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Лампа (power)
+[11/04/2022 22:07:07]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:07:07]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:07:16]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:07:16]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:07:19]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:07:19]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:07:19]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:07:25]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:07:25]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:07:29]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:07:29]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:07:33]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:07:36]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:07:39]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:07:39]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:07:43]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:07:43]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:07:43]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:07:44]
+  Pedro Walls started repairing Кабельная коробка
+[11/04/2022 22:07:47]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 22:07:52]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:07:52]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:07:55]
+  igameCrog connected a wire from Кабельная коробка (power) to Станция зарядки (power_in)
+[11/04/2022 22:07:56]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:07:56]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:08:05]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:08:05]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:08:08]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:08:08]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:08:08]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:08:14]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:08:15]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:08:17]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:08:17]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:08:20]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:08:20]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:08:22]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Суперконденсатор (power_in)
+[11/04/2022 22:08:23]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Суперконденсатор (power_in)
+[11/04/2022 22:08:24]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:08:25]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:08:25]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:08:25]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:08:26]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:08:28]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:08:28]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:08:30]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:08:33]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:08:33]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:08:36]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Лампа (power)
+[11/04/2022 22:08:36]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:08:36]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:08:36]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:08:37]
+  igameCrog disconnected a wire from Кабельная коробка (power) to Лампа (power)
+[11/04/2022 22:08:37]
+  Pedro Walls started repairing Монитор состояния
+[11/04/2022 22:08:41]
+  Pedro Walls: Если останусь в живых, подам в отставку!
+[11/04/2022 22:08:44]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:08:44]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:08:48]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:08:48]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:08:48]
+  igameCrog connected a wire from Кабельная коробка (power) to Лампа (power)
+[11/04/2022 22:08:50]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 22:08:53]
+  igameCrog disconnected a wire from Кабельная коробка (power_value_out) to Кабельная коробка (power)
+[11/04/2022 22:08:53]
+  igameCrog connected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[11/04/2022 22:09:00]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:09:00]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:09:03]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:09:03]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:09:03]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:09:13]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:09:13]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:09:15]
+  igameCrog equipped Водолазный скафандр
+[11/04/2022 22:09:17]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:09:17]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:09:24]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:09:24]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:09:28]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:09:28]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:09:28]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:09:35]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:09:35]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:09:38]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:09:38]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:09:45]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:09:45]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:09:46]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:09:48]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:09:48]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:09:48]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:09:49]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:09:54]
+  kynlan4ic docked Remora to Venture
+[11/04/2022 22:09:57]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:09:57]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:10:00]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:10:00]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:10:01]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:10:02]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:10:03]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:10:03]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:10:08]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:10:08]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:10:09]
+  Dan Pollard started repairing Большой двигатель
+[11/04/2022 22:10:13]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 22:10:13]
+  Seth Fonte has died (Cause of death: Внутренняя травма)
+[11/04/2022 22:10:14]
+  igameCrog placed Магазин для ПП in Пояс инструментов (ID: 4963)
+[11/04/2022 22:10:14]
+  igameCrog removed Магазин для ПП from Пояс инструментов (ID: 4963)
+[11/04/2022 22:10:14]
+  igameCrog placed Магазин для ПП in Пистолет-пулемет (ID: 4600)
+[11/04/2022 22:10:14]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:10:14]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:10:16]
+  The Heuer has died (Cause of death: Внутренняя травма)
+[11/04/2022 22:10:17]
+  igameCrog removed Магазин для ПП from Пояс инструментов (ID: 4963)
+[11/04/2022 22:10:18]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:10:18]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:10:21]
+  Pedro Walls unequipped Отвертка
+[11/04/2022 22:10:21]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:10:22]
+  Pedro Walls equipped Отвертка
+[11/04/2022 22:10:26]
+  igameCrog picked up Револьвер
+[11/04/2022 22:10:30]
+  igameCrog picked up Патрон револьвера
+[11/04/2022 22:10:30]
+  igameCrog picked up Патрон револьвера
+[11/04/2022 22:10:30]
+  igameCrog picked up Патрон револьвера
+[11/04/2022 22:10:30]
+  igameCrog picked up Патрон револьвера
+[11/04/2022 22:10:30]
+  igameCrog picked up Патрон револьвера
+[11/04/2022 22:10:30]
+  igameCrog picked up Патрон револьвера
+[11/04/2022 22:10:33]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:10:33]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:10:35]
+  Pedro Walls used Гаечный ключ on The Heuer.
+[11/04/2022 22:10:35]
+  Pedro Walls used Отвертка on The Heuer.
+[11/04/2022 22:10:36]
+  Супостат equipped Плазменный резак
+[11/04/2022 22:10:37]
+  Pedro Walls used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:10:38]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:10:39]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:10:39]
+  Dan Pollard: Помогите, я истекаю кровью!
+[11/04/2022 22:10:46]
+  Pedro Walls unequipped Гаечный ключ
+[11/04/2022 22:10:47]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:10:50]
+  Pedro Walls: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:10:50]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 22:10:50]
+  kynlan4ic dropped Кислородный баллон
+[11/04/2022 22:10:50]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 4599)
+[11/04/2022 22:10:53]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:10:58]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4963)
+[11/04/2022 22:10:58]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4963)
+[11/04/2022 22:10:58]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 4595)
+[11/04/2022 22:11:02]
+  igameCrog equipped Лом
+[11/04/2022 22:11:07]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:11:07]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:11:08]
+  Pedro Walls equipped Гаечный ключ
+[11/04/2022 22:11:08]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:11:10]
+  Pedro Walls used Гаечный ключ on The Heuer.
+[11/04/2022 22:11:11]
+  Dan Pollard: Помогите, я истекаю кровью!
+[11/04/2022 22:11:16]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:16]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:16]
+  Супостат attacked by igameCrog. Огнестрельная рана: 3.4375 Кровотечение: 5.1562505 Оглушение: 0.15
+[11/04/2022 22:11:17]
+  Супостат attacked by igameCrog. Огнестрельная рана: 3.4375 Кровотечение: 5.1562505 Оглушение: 0.15
+[11/04/2022 22:11:17]
+  Супостат attacked by igameCrog. Огнестрельная рана: 3.4375 Кровотечение: 5.1562505 Оглушение: 0.15
+[11/04/2022 22:11:18]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:11:19]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:11:19]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:19]
+  Pedro Walls: Я теряю много крови!
+[11/04/2022 22:11:20]
+  Супостат attacked by igameCrog. Огнестрельная рана: 3.4375 Кровотечение: 5.1562505 Оглушение: 0.15
+[11/04/2022 22:11:20]
+  Супостат attacked by igameCrog. Огнестрельная рана: 3.4375 Кровотечение: 5.1562505 Оглушение: 0.15
+[11/04/2022 22:11:20]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:21]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:21]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:21]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:22]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:22]
+  Супостат attacked by igameCrog. Огнестрельная рана: 6.25 Кровотечение: 9.375 Оглушение: 0.15
+[11/04/2022 22:11:27]
+  Dan Pollard: Что-то в горле першит.
+[11/04/2022 22:11:28]
+  Pedro Walls: Я чувствую жуткую слабость. Все тело болит.
+[11/04/2022 22:11:34]
+  igameCrog dropped Подводная маска
+[11/04/2022 22:11:39]
+  kynlan4ic removed Одноразовый водолазный скафандр from Human
+[11/04/2022 22:11:40]
+  igameCrog equipped Револьвер
+[11/04/2022 22:11:40]
+  Супостат attacked by igameCrog. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/04/2022 22:11:42]
+  Супостат attacked by igameCrog. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/04/2022 22:11:42]
+  Супостат has died (Cause of death: Огнестрельная рана)
+[11/04/2022 22:11:42]
+  Супостат attacked by igameCrog. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/04/2022 22:11:45]
+  Dan Pollard: Помогите, я истекаю кровью!
+[11/04/2022 22:11:51]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 22:11:51]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 22:11:51]
+  Pedro Walls: У меня что-то во рту...
+[11/04/2022 22:11:52]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 22:11:53]
+  Pedro Walls: Я теряю много крови!
+[11/04/2022 22:11:59]
+  igameCrog placed Водолазный скафандр in Human
+[11/04/2022 22:12:05]
+  Outer wall repaired by kynlan4ic
+[11/04/2022 22:12:08]
+  igameCrog used item Бинт
+[11/04/2022 22:12:09]
+  Inner wall repaired by kynlan4ic
+[11/04/2022 22:12:09]
+  igameCrog used item Морфин
+[11/04/2022 22:12:11]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:12:17]
+  Dan Pollard: Я теряю много крови!
+[11/04/2022 22:12:18]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:12:19]
+  Dan Pollard: У меня что-то во рту...
+[11/04/2022 22:12:22]
+  Dan Pollard used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:12:26]
+  Dan Pollard used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:12:27]
+  Dan Pollard used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:12:29]
+  igameCrog picked up Подводная маска
+[11/04/2022 22:12:31]
+  Dan Pollard used Гаечный ключ on Seth Fonte.
+[11/04/2022 22:12:32]
+  igameCrog placed Револьвер in Пояс инструментов (ID: 4963)
+[11/04/2022 22:12:34]
+  igameCrog placed Кислородный баллон in Средний стальной шкаф (ID: 4383)
+[11/04/2022 22:12:34]
+  Супостат closed Настраиваемый люк
+[11/04/2022 22:12:35]
+  Супостат undocked Venture from Remora
+[11/04/2022 22:12:45]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:12:50]
+  Dan Pollard: Невозможно добраться: Кабельная коробка!
+[11/04/2022 22:12:50]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 22:12:51]
+  Dan Pollard: Помогите, я истекаю кровью!
+[11/04/2022 22:12:56]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:13:00]
+  igameCrog set the recharge speed of Батарея челнока to 20 %
+[11/04/2022 22:13:01]
+  igameCrog set the recharge speed of Батарея челнока to 70 %
+[11/04/2022 22:13:03]
+  igameCrog set the recharge speed of Батарея челнока to 80 %
+[11/04/2022 22:13:03]
+  igameCrog set the recharge speed of Батарея челнока to 90 %
+[11/04/2022 22:13:03]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/04/2022 22:13:05]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:13:05]
+  Dan Pollard equipped Гаечный ключ
+[11/04/2022 22:13:05]
+  Dan Pollard started repairing Дверь с окном и кнопками
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 20 %
+[11/04/2022 22:13:07]
+  kynlan4ic: ttttttSSSSSSSS
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 40 %
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 50 %
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 60 %
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 80 %
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 90 %
+[11/04/2022 22:13:07]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/04/2022 22:13:10]
+  igameCrog set the recharge speed of Батарея челнока to 30 %
+[11/04/2022 22:13:10]
+  igameCrog set the recharge speed of Батарея челнока to 50 %
+[11/04/2022 22:13:10]
+  igameCrog set the recharge speed of Батарея челнока to 60 %
+[11/04/2022 22:13:11]
+  igameCrog set the recharge speed of Батарея челнока to 70 %
+[11/04/2022 22:13:11]
+  igameCrog set the recharge speed of Батарея челнока to 80 %
+[11/04/2022 22:13:11]
+  igameCrog set the recharge speed of Батарея челнока to 90 %
+[11/04/2022 22:13:11]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/04/2022 22:13:14]
+  Dan Pollard unequipped Гаечный ключ
+[11/04/2022 22:13:14]
+  Dan Pollard equipped Отвертка
+[11/04/2022 22:13:14]
+  igameCrog set the recharge speed of Батарея челнока to 10 %
+[11/04/2022 22:13:14]
+  igameCrog set the recharge speed of Батарея челнока to 40 %
+[11/04/2022 22:13:14]
+  igameCrog set the recharge speed of Батарея челнока to 60 %
+[11/04/2022 22:13:14]
+  igameCrog set the recharge speed of Батарея челнока to 80 %
+[11/04/2022 22:13:14]
+  igameCrog set the recharge speed of Батарея челнока to 90 %
+[11/04/2022 22:13:15]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/04/2022 22:13:15]
+  Dan Pollard started repairing Суперконденсатор
+[11/04/2022 22:13:18]
+  igameCrog set the recharge speed of Батарея челнока to 10 %
+[11/04/2022 22:13:18]
+  igameCrog set the recharge speed of Батарея челнока to 60 %
+[11/04/2022 22:13:18]
+  igameCrog set the recharge speed of Батарея челнока to 70 %
+[11/04/2022 22:13:18]
+  igameCrog set the recharge speed of Батарея челнока to 100 %
+[11/04/2022 22:13:23]
+  Dan Pollard: Помогите, я истекаю кровью!
+[11/04/2022 22:13:23]
+  Dan Pollard started repairing Суперконденсатор
+[11/04/2022 22:13:26]
+  kynlan4ic opened Настраиваемый люк
+[11/04/2022 22:13:29]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:13:29]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 22:13:29]
+  kynlan4ic closed Настраиваемая дверь
+[11/04/2022 22:13:31]
+  kynlan4ic closed Настраиваемый люк
+[11/04/2022 22:13:33]
+  kynlan4ic closed Настраиваемая дверь
+[11/04/2022 22:13:33]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 22:13:35]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:13:35]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:13:36]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:13:41]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:13:46]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:13:51]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:13:54]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:13:55]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:13:56]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:13:57]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:13:59]
+  igameCrog used item Морфин
+[11/04/2022 22:14:07]
+  Dan Pollard started repairing Ядерный реактор
+[11/04/2022 22:14:14]
+  Dan Pollard started repairing Монитор состояния
+[11/04/2022 22:14:14]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:14:17]
+  Супостат placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 4173)
+[11/04/2022 22:14:22]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:14:23]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:14:28]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:14:33]
+  Console command "control супостат" executed by kynlan4ic.
+[11/04/2022 22:14:34]
+  Супостат picked up Водолазный скафандр
+[11/04/2022 22:14:35]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:14:37]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[11/04/2022 22:14:40]
+  Pedro Walls has died (Cause of death: Укусы)
+[11/04/2022 22:14:43]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:14:48]
+  Супостат closed Настраиваемая дверь
+[11/04/2022 22:14:49]
+  Dan Pollard started repairing Кабельная коробка
+[11/04/2022 22:14:53]
+  Dan Pollard unequipped Отвертка
+[11/04/2022 22:14:54]
+  Супостат opened Настраиваемая дверь
+[11/04/2022 22:14:54]
+  The respawn shuttle is leaving.
+[11/04/2022 22:14:59]
+  Dan Pollard equipped Топливный стержень
+[11/04/2022 22:15:02]
+  Hector Pool: Надо найти водолазный скафандр!
+[11/04/2022 22:15:04]
+  Roberta Stogner: Надо найти водолазный скафандр!
+[11/04/2022 22:15:05]
+  Astrid Marchi: Мне нужно подводное снаряжение!
+[11/04/2022 22:15:18]
+  Супостат opened Настраиваемая дверь
+[11/04/2022 22:15:22]
+  Супостат opened Настраиваемая дверь
+[11/04/2022 22:15:25]
+  Супостат has died (Cause of death: Unknown)
+[11/04/2022 22:15:25]
+  Astrid Marchi has died (Cause of death: Unknown)
+[11/04/2022 22:15:25]
+  Hector Pool has died (Cause of death: Unknown)
+[11/04/2022 22:15:25]
+  Roberta Stogner has died (Cause of death: Unknown)
+[11/04/2022 22:15:25]
+  The respawn shuttle has left.
+[11/04/2022 22:15:25]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:15:25]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:15:27]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:15:27]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:15:27]
+  Dan Pollard has died (Cause of death: Внутренняя травма)
+[11/04/2022 22:15:29]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:15:29]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:15:33]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:15:33]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:15:36]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:15:36]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:15:38]
+  Pedro Walls closed Настраиваемая дверь
+[11/04/2022 22:15:38]
+  Pedro Walls opened Настраиваемая дверь
+[11/04/2022 22:15:38]
+  Pedro Walls opened Настраиваемая дверь
+[11/04/2022 22:15:38]
+  Pedro Walls closed Настраиваемая дверь
+[11/04/2022 22:15:40]
+  igameCrog opened Настраиваемая дверь
+[11/04/2022 22:15:40]
+  igameCrog closed Настраиваемая дверь
+[11/04/2022 22:15:44]
+  kynlan4ic opened Настраиваемая дверь
+[11/04/2022 22:15:44]
+  kynlan4ic closed Настраиваемая дверь
+[11/04/2022 22:15:47]
+  Pedro Walls closed Настраиваемая дверь
+[11/04/2022 22:15:47]
+  Pedro Walls opened Настраиваемая дверь
+[11/04/2022 22:15:47]
+  igameCrog closed Настраиваемый люк
+[11/04/2022 22:15:52]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:15:52]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:15:52]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:15:52]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:15:54]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:15:54]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:15:56]
+  Pedro Walls opened Настраиваемая дверь
+[11/04/2022 22:15:56]
+  Pedro Walls closed Настраиваемая дверь
+[11/04/2022 22:15:56]
+  Pedro Walls closed Настраиваемая дверь
+[11/04/2022 22:15:56]
+  Pedro Walls opened Настраиваемая дверь
+[11/04/2022 22:15:57]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:15:57]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:15:58]
+  Seth Fonte opened Настраиваемая дверь
+[11/04/2022 22:15:58]
+  Seth Fonte closed Настраиваемая дверь
+[11/04/2022 22:16:01]
+  The Heuer opened Настраиваемая дверь
+[11/04/2022 22:16:01]
+  The Heuer closed Настраиваемая дверь
+[11/04/2022 22:16:01]
+  The Heuer closed Настраиваемая дверь
+[11/04/2022 22:16:01]
+  The Heuer opened Настраиваемая дверь
+[11/04/2022 22:16:02]
+  The Heuer opened Настраиваемая дверь
+[11/04/2022 22:16:02]
+  The Heuer closed Настраиваемая дверь
+[11/04/2022 22:16:03]
+  igameCrog picked up Шоковая дубинка
+[11/04/2022 22:16:08]
+  The Heuer attacked by igameCrog. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/04/2022 22:16:08]
+  igameCrog used Шоковая дубинка (Аккумулятор) on The Heuer.
+[11/04/2022 22:16:10]
+  Pedro Walls attacked by igameCrog. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/04/2022 22:16:10]
+  igameCrog used Шоковая дубинка (Аккумулятор) on Pedro Walls.
+[11/04/2022 22:16:10]
+  Console command "teleportcharacter igameCrog" executed by kynlan4ic.
+[11/04/2022 22:16:18]
+  Lelah Aker closed Настраиваемая дверь
+[11/04/2022 22:16:18]
+  Lelah Aker opened Настраиваемая дверь
+[11/04/2022 22:16:19]
+  Seth Fonte attacked by igameCrog. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/04/2022 22:16:19]
+  igameCrog used Шоковая дубинка (Аккумулятор) on Seth Fonte.
+[11/04/2022 22:16:19]
+  Lelah Aker opened Настраиваемая дверь
+[11/04/2022 22:16:19]
+  Lelah Aker closed Настраиваемая дверь
+[11/04/2022 22:16:20]
+  Супостат attacked by igameCrog. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[11/04/2022 22:16:20]
+  igameCrog used Шоковая дубинка (Аккумулятор) on Супостат.
+[11/04/2022 22:16:28]
+  kynlan4ic picked up Кислородный баллон
+[11/04/2022 22:16:28]
+  kynlan4ic dropped Кислородный баллон
+[11/04/2022 22:16:28]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 4599)
+[11/04/2022 22:16:35]
+  Dispatching the respawn shuttle.
+[11/04/2022 22:16:35]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/04/2022 22:16:35]
+  Respawning bot Astrid Marchi as Офицер службы безопасности
+[11/04/2022 22:16:35]
+  Respawning bot Hector Pool as Механик
+[11/04/2022 22:16:35]
+  Respawning bot Roberta Stogner as Помощник
+[11/04/2022 22:16:39]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/04/2022 22:16:42]
+  igameCrog dropped Лом
+[11/04/2022 22:16:43]
+  kynlan4ic picked up Плазменный резак
+[11/04/2022 22:17:26]
+  igameCrog has died (Cause of death: Внутренняя травма)
+[11/04/2022 22:18:11]
+  kynlan4ic is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[11/04/2022 22:18:26]
+  The respawn shuttle is leaving.
+[11/04/2022 22:18:41]
+  kynlan4ic docked Remora to Аванпост Hyperenor Linea
+[11/04/2022 22:18:46]
+  Ending round (submarine reached the end of the level)
+[11/04/2022 22:18:46]
+  Ending the round...

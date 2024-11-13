@@ -1,0 +1,1601 @@
+﻿[11/07/2022 20:32:04]
+  Roslyn Marquez: Мне требуется жидкий кислородит!
+[11/07/2022 20:32:05]
+  Tyson Kidd started repairing Батарея
+[11/07/2022 20:32:05]
+  kynlan4ic picked up Водолазный скафандр
+[11/07/2022 20:32:05]
+  Chance Hines started repairing Батарея
+[11/07/2022 20:32:06]
+  Priscilla Jones: Невозможно добраться: Батарея!
+[11/07/2022 20:32:07]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:32:07]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:32:07]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:32:07]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:32:08]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:32:08]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:32:11]
+  Roslyn Marquez equipped Сварочный аппарат
+[11/07/2022 20:32:12]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:32:12]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:32:12]
+  Roslyn Fesler equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:32:12]
+  Outer wall repaired by Roslyn Marquez
+[11/07/2022 20:32:13]
+  Roslyn Marquez: Стыковочный порт: протечек не осталось!
+[11/07/2022 20:32:13]
+  Outer wall breached by Crawler
+[11/07/2022 20:32:15]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:32:16]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:32:16]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:32:16]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:32:16]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:32:16]
+  Tyson Kidd: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:19]
+  Roslyn Marquez unequipped Сварочный аппарат
+[11/07/2022 20:32:21]
+  Priscilla Jones: Надо найти водолазный скафандр!
+[11/07/2022 20:32:21]
+  Stephane Palmieri equipped Шоковая дубинка
+[11/07/2022 20:32:21]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:22]
+  Chance Hines failed to repair Фабрикатор
+[11/07/2022 20:32:22]
+  Larita Baumgardner: Не удалось зарядить боеприпасами: Магнитная пушка!
+[11/07/2022 20:32:23]
+  Larita Baumgardner: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:32:23]
+  kynlan4ic opened Настраиваемая дверь с окном
+[11/07/2022 20:32:23]
+  Larita Baumgardner: Закончились боеприпасы для магнитной пушки!
+[11/07/2022 20:32:24]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:32:24]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:32:24]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:32:24]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:24]
+  Arron Krall: Верхняя передняя часть: протечек не осталось!
+[11/07/2022 20:32:24]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:32:25]
+  Outer wall repaired by Tyson Kidd
+[11/07/2022 20:32:25]
+  Tyson Kidd: Соединительный отсек: минус одна протечка!
+[11/07/2022 20:32:26]
+  Inner wall breached by Crawler
+[11/07/2022 20:32:26]
+  Chance Hines started repairing Деконструктор
+[11/07/2022 20:32:26]
+  Outer wall breached by Crawler
+[11/07/2022 20:32:26]
+  Arron Krall: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:27]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:32:28]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:32:28]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:32:29]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,245,255,125".
+[11/07/2022 20:32:31]
+  Stephane Palmieri unequipped Шоковая дубинка
+[11/07/2022 20:32:33]
+  Stephane Palmieri: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:32:33]
+  Stephane Palmieri: Закончились боеприпасы для магнитной пушки!
+[11/07/2022 20:32:33]
+  Stephane Palmieri: Не удалось зарядить боеприпасами: Магнитная пушка!
+[11/07/2022 20:32:34]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:32:34]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:32:35]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:32:35]
+  Outer wall repaired by Arron Krall
+[11/07/2022 20:32:36]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,245,255,125".
+[11/07/2022 20:32:37]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:32:38]
+  Chance Hines started repairing Малый насос
+[11/07/2022 20:32:38]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:32:41]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,0,255,125".
+[11/07/2022 20:32:42]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,2,255,125".
+[11/07/2022 20:32:42]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:32:45]
+  Outer wall breached by Crawler
+[11/07/2022 20:32:46]
+  igameCrog picked up Информационный экран сканера здоровья
+[11/07/2022 20:32:47]
+  Tyson Kidd: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:48]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,29,49,100".
+[11/07/2022 20:32:49]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,2,49,100".
+[11/07/2022 20:32:52]
+  Larita Baumgardner: Не удалось зарядить боеприпасами: Магнитная пушка!
+[11/07/2022 20:32:53]
+  Larita Baumgardner: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:32:53]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,2,49,100".
+[11/07/2022 20:32:53]
+  Priscilla Jones started repairing Медицинский фабрикатор
+[11/07/2022 20:32:53]
+  Larita Baumgardner: Закончились боеприпасы для магнитной пушки!
+[11/07/2022 20:32:55]
+  Chance Hines started repairing Двигатель
+[11/07/2022 20:32:58]
+  Roslyn Marquez: Надо найти водолазный скафандр!
+[11/07/2022 20:33:00]
+  Tyson Kidd: Невозможно добраться: Ядерный реактор!
+[11/07/2022 20:33:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4050)
+[11/07/2022 20:33:00]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4050)
+[11/07/2022 20:33:00]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/07/2022 20:33:01]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,49,100".
+[11/07/2022 20:33:02]
+  Stephane Palmieri equipped Шоковая дубинка
+[11/07/2022 20:33:02]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/07/2022 20:33:02]
+  Chance Hines unequipped Гаечный ключ
+[11/07/2022 20:33:02]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:33:02]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:33:02]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:33:03]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,51,100".
+[11/07/2022 20:33:03]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:33:03]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:33:04]
+  Arron Krall: Надо найти водолазный скафандр!
+[11/07/2022 20:33:04]
+  Chance Hines unequipped Гаечный ключ
+[11/07/2022 20:33:04]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:33:05]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:33:05]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:33:05]
+  Chance Hines: Помогите, я истекаю кровью!
+[11/07/2022 20:33:05]
+  kynlan4ic equipped Револьвер
+[11/07/2022 20:33:05]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:33:05]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:33:05]
+  Larita Baumgardner equipped Шоковая дубинка
+[11/07/2022 20:33:05]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:33:06]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:33:06]
+  Priscilla Jones equipped Сварочный аппарат
+[11/07/2022 20:33:06]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,51,100".
+[11/07/2022 20:33:07]
+  Roslyn Fesler equipped Сварочный аппарат
+[11/07/2022 20:33:08]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:33:08]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,51,104".
+[11/07/2022 20:33:09]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[11/07/2022 20:33:09]
+  Client "kynlan4ic" ended the round.
+[11/07/2022 20:33:09]
+  Ending the round...
+[11/07/2022 20:33:10]
+  Round ended.
+[11/07/2022 20:33:26]
+  igameCrog покидает сервер.
+[11/07/2022 20:33:27]
+  Starting a new round...
+[11/07/2022 20:33:37]
+  Annette Petersen equipped Лом
+[11/07/2022 20:33:37]
+  Mathew Pickett equipped Гаечный ключ
+[11/07/2022 20:33:37]
+  Brian Books equipped Отвертка
+[11/07/2022 20:33:37]
+  Миссия: Уничтожение роя
+[11/07/2022 20:33:37]
+  Небольшой рой монстров (Ползун) терроризирует суда, следующие по маршруту Шахта Moytura - Институт астробиологии Minos Linea. Команде, способной нейтрализовать его, полагается достойная награда в размере 2,500 кред.
+[11/07/2022 20:33:37]
+  Миссия: Убийство большого ползуна
+[11/07/2022 20:33:37]
+  Поступили сообщения о необычайно большом ползуне, нападающем на суда на маршруте Шахта Moytura - Институт астробиологии Minos Linea. Команда, которая его уничтожит, получит достойную награду в размере 1,200 кред.
+[11/07/2022 20:33:37]
+  Миссия: Пассажирские перевозки
+[11/07/2022 20:33:37]
+  Нескольких пассажиров нужно отвезти в точку Институт астробиологии Minos Linea. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[11/07/2022 20:33:37]
+  Миссия: Доставка материалов для аванпоста шахтеров
+[11/07/2022 20:33:37]
+  В точку «Институт астробиологии Minos Linea» необходимо доставить партию строительных материалов. Заказчик - местный бригадир - готов заплатить вам 200 кред.
+[11/07/2022 20:33:37]
+  Миссия: Гигантский шипостай
+[11/07/2022 20:33:37]
+  Поступили сообщения о чрезвычайно крупном и агрессивном шипостае, нападающем на суда на маршруте Шахта Moytura - Институт астробиологии Minos Linea. Тому, кто убьет это опасное создание, полагается достойная награда в размере 3,500 кред.
+[11/07/2022 20:33:37]
+  Game mode: Кампания
+[11/07/2022 20:33:37]
+  Submarine: Orca
+[11/07/2022 20:33:37]
+  Level seed: Minos LineaMoytura
+[11/07/2022 20:33:37]
+  Mission: Уничтожение роя
+[11/07/2022 20:33:37]
+  Mission: Убийство большого ползуна
+[11/07/2022 20:33:37]
+  Mission: Пассажирские перевозки
+[11/07/2022 20:33:37]
+  Mission: Доставка материалов для аванпоста шахтеров
+[11/07/2022 20:33:37]
+  Mission: Гигантский шипостай
+[11/07/2022 20:33:38]
+  Round started.
+[11/07/2022 20:33:40]
+  Annette Petersen unequipped Лом
+[11/07/2022 20:33:40]
+  Brian Books unequipped Отвертка
+[11/07/2022 20:33:40]
+  Mathew Pickett unequipped Гаечный ключ
+[11/07/2022 20:33:45]
+  Roslyn Marquez equipped Контейнер для хранения
+[11/07/2022 20:33:46]
+  Roslyn Fesler equipped Свинец
+[11/07/2022 20:33:50]
+  Арти Дулитл equipped Контейнер для хранения
+[11/07/2022 20:33:54]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[11/07/2022 20:33:56]
+  Fanny Preston equipped Кислородный баллон
+[11/07/2022 20:33:58]
+  Святый сын Жорик set the value "Channel" of the item "Наушники" to "0".
+[11/07/2022 20:34:01]
+  Roslyn Fesler equipped Стальной слиток
+[11/07/2022 20:34:02]
+  kynlan4ic docked Orca to Шахта Moytura
+[11/07/2022 20:34:03]
+  Ending the round...
+[11/07/2022 20:34:04]
+  Round ended.
+[11/07/2022 20:34:06]
+  Starting a new round...
+[11/07/2022 20:34:10]
+  Game mode: Кампания
+[11/07/2022 20:34:10]
+  Submarine: Orca
+[11/07/2022 20:34:10]
+  Level seed: Moytura
+[11/07/2022 20:34:10]
+  Norman Day equipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Norman Day unequipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Norman Day equipped Отвертка
+[11/07/2022 20:34:10]
+  Lynn Radebaugh equipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Lynn Radebaugh unequipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Lynn Radebaugh equipped Отвертка
+[11/07/2022 20:34:10]
+  Carlos Mansfield equipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Carlos Mansfield unequipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Carlos Mansfield equipped Отвертка
+[11/07/2022 20:34:10]
+  Igor Mead equipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Igor Mead unequipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Igor Mead equipped Отвертка
+[11/07/2022 20:34:10]
+  Igor Mead unequipped Отвертка
+[11/07/2022 20:34:10]
+  Igor Mead equipped Лом
+[11/07/2022 20:34:10]
+  Creola Dews equipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Creola Dews unequipped Гаечный ключ
+[11/07/2022 20:34:10]
+  Creola Dews equipped Отвертка
+[11/07/2022 20:34:11]
+  Mitrofan Carey equipped Отвертка
+[11/07/2022 20:34:11]
+  Bryce Stalvey equipped Отвертка
+[11/07/2022 20:34:11]
+  Bill Cork equipped Отвертка
+[11/07/2022 20:34:11]
+  Roslyn Fesler equipped Стальной слиток
+[11/07/2022 20:34:12]
+  Round started.
+[11/07/2022 20:34:12]
+  Romeo Deras equipped Лом
+[11/07/2022 20:34:12]
+  Shelly Mooney equipped Гаечный ключ
+[11/07/2022 20:34:12]
+  Brady Avery equipped Лом
+[11/07/2022 20:34:12]
+  Terrance Radice equipped Лом
+[11/07/2022 20:34:12]
+  Norman Day unequipped Отвертка
+[11/07/2022 20:34:12]
+  Shelly Mooney unequipped Гаечный ключ
+[11/07/2022 20:34:12]
+  Romeo Deras unequipped Лом
+[11/07/2022 20:34:12]
+  Brady Avery unequipped Лом
+[11/07/2022 20:34:13]
+  Igor Mead unequipped Лом
+[11/07/2022 20:34:13]
+  Bryce Stalvey unequipped Отвертка
+[11/07/2022 20:34:13]
+  Bill Cork unequipped Отвертка
+[11/07/2022 20:34:13]
+  Terrance Radice unequipped Лом
+[11/07/2022 20:34:13]
+  Mitrofan Carey unequipped Отвертка
+[11/07/2022 20:34:23]
+  Святый сын Жорик set the value "Channel" of the item "Наушники" to "0".
+[11/07/2022 20:34:25]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[11/07/2022 20:34:38]
+  kynlan4ic equipped Ящик взрывчатых снарядов шрапнельного орудия
+[11/07/2022 20:34:38]
+  Святый сын Жорик equipped Отвертка
+[11/07/2022 20:34:38]
+  Святый сын Жорик equipped Гаечный ключ
+[11/07/2022 20:34:40]
+  kynlan4ic dropped Ящик взрывчатых снарядов шрапнельного орудия
+[11/07/2022 20:34:41]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:34:45]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,245,255,12".
+[11/07/2022 20:34:47]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,245,255,1".
+[11/07/2022 20:34:53]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "15,1,1,1".
+[11/07/2022 20:34:55]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Деконструктор (ID: 341)
+[11/07/2022 20:34:56]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "2,1,1,3".
+[11/07/2022 20:34:56]
+  kynlan4ic activated Деконструктор
+[11/07/2022 20:35:02]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "2,1,1,92".
+[11/07/2022 20:35:04]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:35:09]
+  Codi Stogner: Пробовал ползуштет?
+[11/07/2022 20:35:10]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,255".
+[11/07/2022 20:35:11]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Деконструктор (ID: 341)
+[11/07/2022 20:35:28]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "95,49,49,100".
+[11/07/2022 20:35:30]
+  kynlan4ic equipped Металлический ящик
+[11/07/2022 20:35:30]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,49,49,100".
+[11/07/2022 20:35:32]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "92,49,49,100".
+[11/07/2022 20:35:33]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,92,49,100".
+[11/07/2022 20:35:35]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,92,100".
+[11/07/2022 20:35:36]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,100".
+[11/07/2022 20:35:38]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,92,100".
+[11/07/2022 20:35:41]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,100".
+[11/07/2022 20:35:41]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:41]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Цинк in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Свинец in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:42]
+  kynlan4ic placed Свинец in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  kynlan4ic placed Магний in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  kynlan4ic placed Магний in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  kynlan4ic placed Магний in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  kynlan4ic placed Магний in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  kynlan4ic placed Магний in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  kynlan4ic placed Магний in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:43]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,188,255,100".
+[11/07/2022 20:35:43]
+  kynlan4ic placed Осколок сернита in Большой стальной шкаф (ID: 381)
+[11/07/2022 20:35:44]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,100".
+[11/07/2022 20:35:47]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "220,255,255,100".
+[11/07/2022 20:35:48]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:48]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:48]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:48]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:48]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:49]
+  kynlan4ic placed Ториевый топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:49]
+  kynlan4ic placed Ториевый топливный стержень in Средний стальной шкаф (ID: 827)
+[11/07/2022 20:35:49]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "244,255,255,100".
+[11/07/2022 20:35:52]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "28,255,255,100".
+[11/07/2022 20:35:53]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 341)
+[11/07/2022 20:35:57]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:36:01]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:36:03]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,245,255,157".
+[11/07/2022 20:36:07]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Деконструктор (ID: 341)
+[11/07/2022 20:36:07]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,157,255,255".
+[11/07/2022 20:36:09]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,255".
+[11/07/2022 20:36:09]
+  kynlan4ic activated Деконструктор
+[11/07/2022 20:36:21]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:36:32]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:36:41]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,49,100".
+[11/07/2022 20:36:44]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:36:55]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:37:06]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:37:14]
+  Roslyn Fesler unequipped Стальной слиток
+[11/07/2022 20:37:19]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,161,59,100".
+[11/07/2022 20:37:23]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:37:31]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "5,245,255,125".
+[11/07/2022 20:37:37]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,255".
+[11/07/2022 20:37:40]
+  Creola Dews unequipped Отвертка
+[11/07/2022 20:37:46]
+  kynlan4ic purchased 1 item(s) for 408 кр.
+ - Ящик с боеприпасами для магнитной пушки x3
+[11/07/2022 20:37:48]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,22,255,125".
+[11/07/2022 20:37:49]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,22,255,125".
+[11/07/2022 20:38:03]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,100".
+[11/07/2022 20:38:33]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,255,255,125".
+[11/07/2022 20:38:39]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,255,255,229".
+[11/07/2022 20:38:45]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,255,255,255".
+[11/07/2022 20:38:50]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,1,255,255".
+[11/07/2022 20:38:51]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "135,255,255,255".
+[11/07/2022 20:39:00]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,255".
+[11/07/2022 20:39:17]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,125".
+[11/07/2022 20:39:23]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,51,125".
+[11/07/2022 20:39:26]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,125".
+[11/07/2022 20:39:30]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,137,125".
+[11/07/2022 20:39:35]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,125".
+[11/07/2022 20:39:46]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "139,240,255,125".
+[11/07/2022 20:39:49]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "139,232,255,125".
+[11/07/2022 20:39:52]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "139,232,248,125".
+[11/07/2022 20:40:04]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[11/07/2022 20:40:13]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,255".
+[11/07/2022 20:40:19]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "255,255,255,255".
+[11/07/2022 20:40:23]
+  Святый сын Жорик unequipped Отвертка
+[11/07/2022 20:40:23]
+  Святый сын Жорик unequipped Гаечный ключ
+[11/07/2022 20:40:23]
+  Святый сын Жорик equipped Металлический ящик
+[11/07/2022 20:40:25]
+  Святый сын Жорик dropped Металлический ящик
+[11/07/2022 20:41:42]
+  Client "kynlan4ic" ended the round.
+[11/07/2022 20:41:42]
+  Ending the round...
+[11/07/2022 20:41:43]
+  Round ended.
+[11/07/2022 20:41:45]
+  Starting a new round...
+[11/07/2022 20:41:56]
+  Миссия: Уничтожение роя
+[11/07/2022 20:41:56]
+  Небольшой рой монстров (Ползун) терроризирует суда, следующие по маршруту Шахта Moytura - Институт астробиологии Minos Linea. Команде, способной нейтрализовать его, полагается достойная награда в размере 2,500 кред.
+[11/07/2022 20:41:56]
+  Миссия: Убийство большого ползуна
+[11/07/2022 20:41:56]
+  Поступили сообщения о необычайно большом ползуне, нападающем на суда на маршруте Шахта Moytura - Институт астробиологии Minos Linea. Команда, которая его уничтожит, получит достойную награду в размере 1,200 кред.
+[11/07/2022 20:41:56]
+  Миссия: Гигантский шипостай
+[11/07/2022 20:41:56]
+  Поступили сообщения о чрезвычайно крупном и агрессивном шипостае, нападающем на суда на маршруте Шахта Moytura - Институт астробиологии Minos Linea. Тому, кто убьет это опасное создание, полагается достойная награда в размере 3,500 кред.
+[11/07/2022 20:41:56]
+  Game mode: Кампания
+[11/07/2022 20:41:56]
+  Submarine: Orca
+[11/07/2022 20:41:56]
+  Level seed: Minos LineaMoytura
+[11/07/2022 20:41:56]
+  Mission: Уничтожение роя
+[11/07/2022 20:41:56]
+  Mission: Убийство большого ползуна
+[11/07/2022 20:41:56]
+  Mission: Гигантский шипостай
+[11/07/2022 20:41:56]
+  Page Lawrence equipped Отвертка
+[11/07/2022 20:41:57]
+  Winston Higgins equipped Сварочный аппарат
+[11/07/2022 20:41:57]
+  Lavinia Rhymer equipped Лом
+[11/07/2022 20:41:57]
+  Round started.
+[11/07/2022 20:42:05]
+  Roslyn Fesler equipped Хлорин
+[11/07/2022 20:42:12]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[11/07/2022 20:42:15]
+  Святый сын Жорик set the value "Channel" of the item "Наушники" to "0".
+[11/07/2022 20:42:17]
+  kynlan4ic equipped Ящик со взрывчаткой
+[11/07/2022 20:42:19]
+  kynlan4ic dropped Ящик со взрывчаткой
+[11/07/2022 20:42:20]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:42:20]
+  Roslyn Fesler equipped Кислородный баллон
+[11/07/2022 20:42:25]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:42:30]
+  kynlan4ic equipped Металлический ящик
+[11/07/2022 20:42:34]
+  kynlan4ic dropped Металлический ящик
+[11/07/2022 20:42:35]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:42:41]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:42:46]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:42:49]
+  Roslyn Fesler equipped Хлорин
+[11/07/2022 20:42:51]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:42:54]
+  Arron Krall: Кто-нибудь слышал что-нибудь о профсоюзах?
+[11/07/2022 20:42:58]
+  Roslyn Marquez: Да, и что с того?
+[11/07/2022 20:43:00]
+  Arron Krall: Думаю, нам надо создать профсоюз.
+[11/07/2022 20:43:03]
+  Arron Krall: Было бы неплохо повысить стандарты безопасности, увеличить зарплаты, добиться достойной пенсии...
+[11/07/2022 20:43:08]
+  Roslyn Marquez: Думаешь, ты доживешь до пенсии?
+[11/07/2022 20:43:11]
+  Arron Krall: Справедливо.
+[11/07/2022 20:43:22]
+  Roslyn Fesler equipped Калий
+[11/07/2022 20:43:56]
+  Roslyn Fesler equipped Калий
+[11/07/2022 20:44:18]
+  Roslyn Fesler equipped Калий
+[11/07/2022 20:44:39]
+  Roslyn Fesler equipped Хлорин
+[11/07/2022 20:44:58]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:44:58]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:44:58]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:44:59]
+  Fanny Preston equipped Отвертка
+[11/07/2022 20:45:03]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:45:03]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:45:05]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:45:06]
+  Fanny Preston unequipped Отвертка
+[11/07/2022 20:45:07]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:45:07]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:45:11]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:45:18]
+  Priscilla Jones: Загружаю в реактор дополнительное топливо!
+[11/07/2022 20:45:18]
+  Priscilla Jones equipped Топливный стержень
+[11/07/2022 20:45:35]
+  Святый сын Жорик picked up Красный провод
+[11/07/2022 20:45:35]
+  Святый сын Жорик picked up Красный провод
+[11/07/2022 20:45:35]
+  Святый сын Жорик picked up Красный провод
+[11/07/2022 20:45:39]
+  Святый сын Жорик picked up Оранжевый провод
+[11/07/2022 20:45:39]
+  Святый сын Жорик picked up Оранжевый провод
+[11/07/2022 20:45:41]
+  Святый сын Жорик picked up Зеленый провод
+[11/07/2022 20:45:42]
+  Святый сын Жорик picked up Провод
+[11/07/2022 20:45:42]
+  Святый сын Жорик picked up Провод
+[11/07/2022 20:45:42]
+  Святый сын Жорик picked up Провод
+[11/07/2022 20:45:42]
+  Святый сын Жорик picked up Провод
+[11/07/2022 20:45:43]
+  Святый сын Жорик placed Провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:43]
+  Святый сын Жорик placed Провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:43]
+  Святый сын Жорик placed Провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:43]
+  Святый сын Жорик placed Провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:44]
+  Святый сын Жорик placed Красный провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:44]
+  Святый сын Жорик placed Красный провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:44]
+  Святый сын Жорик placed Красный провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:45]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:45:45]
+  Святый сын Жорик placed Оранжевый провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:45]
+  Святый сын Жорик placed Оранжевый провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:45]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:45:46]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:45:47]
+  Chance Hines started repairing Кабельная коробка
+[11/07/2022 20:45:48]
+  Святый сын Жорик placed Зеленый провод in Пояс инструментов (ID: 4750)
+[11/07/2022 20:45:48]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:45:48]
+  Roslyn Fesler equipped ЭМ-граната
+[11/07/2022 20:45:48]
+  Fanny Preston equipped Отвертка
+[11/07/2022 20:45:52]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:45:53]
+  Fanny Preston started repairing Кабельная коробка
+[11/07/2022 20:46:01]
+  Chance Hines started repairing Кабельная коробка
+[11/07/2022 20:46:03]
+  Roslyn Fesler equipped Титан
+[11/07/2022 20:46:05]
+  Tyson Kidd failed to repair Кабельная коробка
+[11/07/2022 20:46:06]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:46:06]
+  Chance Hines failed to repair Кабельная коробка
+[11/07/2022 20:46:08]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:46:09]
+  Fanny Preston failed to repair Кабельная коробка
+[11/07/2022 20:46:10]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:46:11]
+  Chance Hines started repairing Кабельная коробка
+[11/07/2022 20:46:13]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:46:14]
+  Fanny Preston unequipped Отвертка
+[11/07/2022 20:46:14]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:46:18]
+  Roslyn Fesler equipped Топливный стержень
+[11/07/2022 20:46:19]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:46:20]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:47:03]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:47:06]
+  Roslyn Fesler: Стреляю!
+[11/07/2022 20:47:07]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:47:07]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:47:07]
+  Fanny Preston equipped Отвертка
+[11/07/2022 20:47:07]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:47:07]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:47:09]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:09]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:09]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:09]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:09]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:10]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:11]
+  Priscilla Jones started repairing Кабельная коробка
+[11/07/2022 20:47:11]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:47:13]
+  Святый сын Жорик equipped Водолазный скафандр
+[11/07/2022 20:47:13]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:13]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/07/2022 20:47:14]
+  Inner wall breached by Crawler
+[11/07/2022 20:47:14]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/07/2022 20:47:14]
+  Stephane Palmieri equipped Шоковая дубинка
+[11/07/2022 20:47:15]
+  Stephane Palmieri: Надо найти водолазный скафандр!
+[11/07/2022 20:47:15]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:15]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:15]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:15]
+  Outer wall breached by Crawler_large
+[11/07/2022 20:47:15]
+  Fanny Preston: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:16]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:17]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:18]
+  Roslyn Fesler launched Цепная пушка (projectile: Болт для цепной пушки)
+[11/07/2022 20:47:18]
+  Crawler_large has died (Cause of death: Рваная рана)
+[11/07/2022 20:47:18]
+  Inner wall breached by Crawler
+[11/07/2022 20:47:20]
+  Outer wall breached by Crawler
+[11/07/2022 20:47:22]
+  Stephane Palmieri unequipped Шоковая дубинка
+[11/07/2022 20:47:22]
+  Stephane Palmieri equipped Шоковая дубинка
+[11/07/2022 20:47:25]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:47:25]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:47:26]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:47:26]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:47:26]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:47:27]
+  Inner wall breached by Crawler
+[11/07/2022 20:47:27]
+  Chance Hines started repairing Кабельная коробка
+[11/07/2022 20:47:28]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:47:28]
+  Inner wall breached by Crawler
+[11/07/2022 20:47:29]
+  Stephane Palmieri unequipped Шоковая дубинка
+[11/07/2022 20:47:32]
+  Tyson Kidd: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:33]
+  Арти Дулитл equipped Боевой водолазный скафандр
+[11/07/2022 20:47:34]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/07/2022 20:47:34]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/07/2022 20:47:34]
+  Stephane Palmieri: Огонь!
+[11/07/2022 20:47:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:35]
+  Outer wall breached by Crawler
+[11/07/2022 20:47:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:40]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:40]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:41]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:47:41]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:47:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:42]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:42]
+  Stephane Palmieri: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:47:42]
+  Roslyn Fesler equipped Ящик взрывчатых снарядов шрапнельного орудия
+[11/07/2022 20:47:42]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:47:42]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:47:43]
+  Stephane Palmieri equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:47:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:49]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:47:49]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:47:49]
+  Priscilla Jones: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:50]
+  Fanny Preston unequipped Отвертка
+[11/07/2022 20:47:50]
+  Fanny Preston equipped Гаечный ключ
+[11/07/2022 20:47:50]
+  Roslyn Marquez: Мне нужен кислород!
+[11/07/2022 20:47:50]
+  Fanny Preston: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:50]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:50]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:47:50]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:51]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:47:51]
+  Priscilla Jones started repairing Люк с кнопками
+[11/07/2022 20:47:52]
+  Arron Krall: Мне нужно подводное снаряжение!
+[11/07/2022 20:47:52]
+  Арти Дулитл: Надо найти водолазный скафандр!
+[11/07/2022 20:47:52]
+  Inner wall breached by Spineling
+[11/07/2022 20:47:54]
+  Fanny Preston unequipped Гаечный ключ
+[11/07/2022 20:47:54]
+  Fanny Preston equipped Сварочный аппарат
+[11/07/2022 20:47:55]
+  Roslyn Fesler: Надо найти водолазный скафандр!
+[11/07/2022 20:47:55]
+  Roslyn Fesler: Помогите, я истекаю кровью!
+[11/07/2022 20:47:56]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:47:56]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:47:57]
+  Chance Hines unequipped Гаечный ключ
+[11/07/2022 20:47:57]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:47:57]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:47:57]
+  Chance Hines: Я теряю много крови!
+[11/07/2022 20:47:57]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:47:57]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:47:58]
+  Inner wall breached by Spineling_giant
+[11/07/2022 20:47:58]
+  Inner wall breached by Spineling_giant
+[11/07/2022 20:47:58]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:47:59]
+  Inner wall breached by Spineling
+[11/07/2022 20:48:01]
+  Inner wall breached by Spineling
+[11/07/2022 20:48:01]
+  Roslyn Fesler equipped Сварочный аппарат
+[11/07/2022 20:48:02]
+  Priscilla Jones used Гаечный ключ on Crawler.
+[11/07/2022 20:48:02]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:04]
+  Roslyn Marquez: Надо найти водолазный скафандр!
+[11/07/2022 20:48:04]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:04]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:05]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:48:05]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:48:05]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:48:05]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:48:05]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:48:05]
+  Outer wall breached by Spineling_giant
+[11/07/2022 20:48:06]
+  Fanny Preston unequipped Сварочный аппарат
+[11/07/2022 20:48:07]
+  Fanny Preston equipped Гаечный ключ
+[11/07/2022 20:48:07]
+  Larita Baumgardner: Помогите, я истекаю кровью!
+[11/07/2022 20:48:07]
+  Larita Baumgardner equipped Нож ныряльщика
+[11/07/2022 20:48:08]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:48:09]
+  Inner wall breached by Spineling
+[11/07/2022 20:48:12]
+  Arron Krall: Помогите, я истекаю кровью!
+[11/07/2022 20:48:12]
+  Fanny Preston unequipped Гаечный ключ
+[11/07/2022 20:48:12]
+  Fanny Preston equipped Сварочный аппарат
+[11/07/2022 20:48:12]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:48:13]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:48:13]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:48:14]
+  Stephane Palmieri: Нечем дышать!
+[11/07/2022 20:48:15]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[11/07/2022 20:48:16]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:16]
+  Crawler attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:16]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:16]
+  Crawler attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:16]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:17]
+  Crawler attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:17]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:17]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:19]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:48:20]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:48:20]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:48:20]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:20]
+  Spineling attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:20]
+  Roslyn Marquez equipped Сварочный аппарат
+[11/07/2022 20:48:21]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:21]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:48:21]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:48:21]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:48:21]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:22]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:22]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:48:22]
+  Fanny Preston unequipped Сварочный аппарат
+[11/07/2022 20:48:22]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:22]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:23]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:23]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:23]
+  Fanny Preston equipped Гаечный ключ
+[11/07/2022 20:48:23]
+  Crawler attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:23]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:23]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:24]
+  Roslyn Marquez unequipped Сварочный аппарат
+[11/07/2022 20:48:24]
+  Roslyn Marquez equipped Сварочный аппарат
+[11/07/2022 20:48:24]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:24]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:48:24]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:24]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:48:24]
+  Tyson Kidd equipped Гаечный ключ
+[11/07/2022 20:48:24]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:24]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:24]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:24]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:24]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:25]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:25]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:25]
+  Tyson Kidd unequipped Гаечный ключ
+[11/07/2022 20:48:25]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:48:25]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:25]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:25]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:25]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:25]
+  Арти Дулитл: Надо найти водолазный скафандр!
+[11/07/2022 20:48:25]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:26]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:26]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:26]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:26]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:26]
+  Crawler attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:26]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:27]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:27]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:27]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:27]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:27]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:27]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:27]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:27]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:28]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:28]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:28]
+  Inner wall breached by Spineling
+[11/07/2022 20:48:28]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:28]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:28]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:28]
+  Roslyn Marquez: Невозможно добраться: Roslyn Fesler!
+[11/07/2022 20:48:28]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:29]
+  Roslyn Marquez: Медицинский отсек: здесь Roslyn Fesler без сознания!
+[11/07/2022 20:48:29]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:29]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:29]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:29]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:30]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:30]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:30]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:48:30]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:30]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:30]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:30]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:30]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:31]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:31]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:31]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:31]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:31]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:31]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:31]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:31]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:32]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:32]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:32]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:32]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:32]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:32]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:32]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:32]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:48:33]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:33]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:33]
+  Spineling attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:33]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:33]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:33]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:33]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:33]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:34]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:34]
+  Tyson Kidd started repairing Навигационный терминал
+[11/07/2022 20:48:34]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:34]
+  Roslyn Marquez: Мне нужно подводное снаряжение!
+[11/07/2022 20:48:34]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:35]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:35]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:35]
+  Outer wall breached by Spineling
+[11/07/2022 20:48:35]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:35]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:35]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:35]
+  Chance Hines started repairing Дверь с кнопками
+[11/07/2022 20:48:36]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:36]
+  Spineling_giant attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:36]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:36]
+  Spineling_giant attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:36]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:36]
+  Roslyn Marquez: Я теряю много крови!
+[11/07/2022 20:48:36]
+  Spineling_giant attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:36]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:37]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:37]
+  Spineling_giant attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:37]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:37]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:37]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:37]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:37]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:38]
+  Spineling_giant attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:38]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:38]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:38]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:38]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:38]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:38]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:39]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:39]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:39]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:39]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:39]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:39]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:39]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:39]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:40]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:40]
+  Larita Baumgardner: У меня кровь!
+[11/07/2022 20:48:40]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:40]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:40]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:40]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:40]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:41]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:41]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:41]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:41]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:41]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:41]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:42]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:42]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:42]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:42]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:42]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:43]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:43]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:43]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:43]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:43]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:43]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:43]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:44]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:44]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:44]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:44]
+  Priscilla Jones started repairing Двигатель
+[11/07/2022 20:48:44]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:44]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:44]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:44]
+  Святый сын Жорик launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/07/2022 20:48:44]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:45]
+  Crawlerbroodmother attacked by Святый сын Жорик. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/07/2022 20:48:50]
+  Outer wall breached by Spineling
+[11/07/2022 20:48:53]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:48:53]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:48:53]
+  Tyson Kidd: А-А-А-А-А-А!
+[11/07/2022 20:48:54]
+  Арти Дулитл: Я теряю много крови!
+[11/07/2022 20:48:54]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:48:54]
+  Roslyn Marquez: Камера балласта C: высокий уровень давления!
+[11/07/2022 20:48:55]
+  Inner wall repaired by Arron Krall
+[11/07/2022 20:48:55]
+  Arron Krall: Центральный проход: протечек не осталось!
+[11/07/2022 20:48:55]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:48:55]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:48:56]
+  Святый сын Жорик equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:48:56]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:48:56]
+  Chance Hines unequipped Гаечный ключ
+[11/07/2022 20:48:56]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:48:56]
+  Roslyn Marquez: Невозможно добраться: Stephane Palmieri!
+[11/07/2022 20:48:56]
+  Fanny Preston unequipped Гаечный ключ
+[11/07/2022 20:48:56]
+  Fanny Preston equipped Сварочный аппарат
+[11/07/2022 20:48:57]
+  Арти Дулитл: Медицинский отсек: здесь поднимается давление!
+[11/07/2022 20:48:57]
+  Larita Baumgardner: Медицинский отсек: здесь поднимается давление!
+[11/07/2022 20:48:58]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:48:58]
+  Priscilla Jones: Я теряю много крови!
+[11/07/2022 20:48:58]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[11/07/2022 20:48:58]
+  Tyson Kidd: Помогите, я истекаю кровью!
+[11/07/2022 20:48:58]
+  Larita Baumgardner: Невозможно добраться: Перископ!
+[11/07/2022 20:49:01]
+  Stephane Palmieri has died (Cause of death: Баротравма)
+[11/07/2022 20:49:01]
+  Roslyn Fesler has died (Cause of death: Баротравма)
+[11/07/2022 20:49:01]
+  Larita Baumgardner has died (Cause of death: Баротравма)
+[11/07/2022 20:49:01]
+  Арти Дулитл has died (Cause of death: Баротравма)
+[11/07/2022 20:49:01]
+  Roslyn Marquez has died (Cause of death: Баротравма)
+[11/07/2022 20:49:03]
+  Святый сын Жорик dropped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:49:04]
+  Fanny Preston unequipped Сварочный аппарат
+[11/07/2022 20:49:04]
+  Fanny Preston equipped Гаечный ключ
+[11/07/2022 20:49:05]
+  Fanny Preston unequipped Гаечный ключ
+[11/07/2022 20:49:05]
+  Fanny Preston equipped Сварочный аппарат
+[11/07/2022 20:49:06]
+  Fanny Preston: Помогите, я истекаю кровью!
+[11/07/2022 20:49:06]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:49:06]
+  Chance Hines: У меня кровь!
+[11/07/2022 20:49:07]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:49:07]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:49:07]
+  Chance Hines closed Настраиваемая дверь с окном
+[11/07/2022 20:49:07]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:49:07]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:49:09]
+  Святый сын Жорик removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 471)
+[11/07/2022 20:49:12]
+  Chance Hines opened Настраиваемый люк
+[11/07/2022 20:49:14]
+  Tyson Kidd: Помогите мне!
+[11/07/2022 20:49:14]
+  Chance Hines: Невозможно добраться: Суперконденсатор!
+[11/07/2022 20:49:14]
+  Chance Hines opened Настраиваемая дверь с окном
+[11/07/2022 20:49:14]
+  Chance Hines opened Настраиваемая дверь с окном
+[11/07/2022 20:49:14]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:49:14]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:49:15]
+  Fanny Preston unequipped Сварочный аппарат
+[11/07/2022 20:49:15]
+  Fanny Preston equipped Гаечный ключ
+[11/07/2022 20:49:16]
+  Chance Hines unequipped Гаечный ключ

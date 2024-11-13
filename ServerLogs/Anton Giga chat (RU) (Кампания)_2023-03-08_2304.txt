@@ -1,0 +1,40 @@
+﻿[03/08/2023 22:54:35]
+  Starting the server...
+[03/08/2023 22:54:35]
+  Using SteamP2P networking.
+[03/08/2023 22:54:36]
+  Server started
+[03/08/2023 22:54:41]
+  Игрок kynlan4ic присоединился к серверу.
+[03/08/2023 22:54:41]
+  Saving client permissions
+[03/08/2023 22:54:41]
+  Saving client permissions
+[03/08/2023 22:54:43]
+  Gamemode changed to Кампания
+[03/08/2023 22:55:03]
+  Игрок Супостат499 присоединился к серверу.
+[03/08/2023 22:55:03]
+  Saving client permissions
+[03/08/2023 22:55:19]
+  Игрок igameCrog присоединился к серверу.
+[03/08/2023 22:55:19]
+  Saving client permissions
+[03/08/2023 22:56:11]
+  kynlan4ic changed IsPublic to True
+[03/08/2023 22:56:11]
+  kynlan4ic changed PlayStyle to Serious
+[03/08/2023 22:56:11]
+  kynlan4ic changed LosMode to Transparent
+[03/08/2023 22:56:11]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/08/2023 22:56:11]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/08/2023 22:56:11]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/08/2023 23:02:49]
+  Супостат499 покидает сервер.
+[03/08/2023 23:04:20]
+  Saving banlist
+[03/08/2023 23:04:20]
+  Shutting down the server...

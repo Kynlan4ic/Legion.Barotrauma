@@ -1,0 +1,51 @@
+﻿Barotrauma Dedicated Server crash report (generated on 03/09/2023 21:09:59)
+
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+
+Game version 0.21.6.0 (ReleaseWindows, branch release, revision 480a2279e0)
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra, Dors, Umkhumbi, Uzurbator3000, SITE 18 SCP 3.5 FIXED DOORS 3.5, EK Matriarch Mk-VII, The Plague Rat, Super Plague Rat, Fat Fish, Bronze Age, Cast Iron, Nemesis, QF8, IHN Kalvair, Wellerman, Unnamed, Челнок R-155, CzechSaboteur, Челнок R-170, Гага дрын, The Deep Manatee, Gato Revamped, Wyvern, Shiftless, TR-56, EK | Armory, Improved Husks, EK | Gunnery, DynamicEuropa, ADV Beacon Stations, Stations from beyond, Backpacks, 32x Stack, SFB with DE, Beacons Extended, Combat Overhaul Redux(COR)
+Level seed: no level loaded
+Loaded submarine: None
+Selected screen: Barotrauma.NetLobbyScreen
+Server (Round hadn't been started)
+
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+
+
+Exception: ChildServerRelay readTask did not run to completion: status was WaitingForActivation. (System.Exception)
+Target site: Barotrauma.Option`1[System.Int32] ReadIncomingMsgs()
+Stack trace: 
+   at Barotrauma.Networking.ChildServerRelay.ReadIncomingMsgs() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 155
+   at Barotrauma.Networking.ChildServerRelay.<UpdateRead>g__readBytes|26_0(Span`1 readTo) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 183
+   at Barotrauma.Networking.ChildServerRelay.UpdateRead() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 175
+   at System.Threading.Thread.StartCallback()
+
+
+Last debug messages:
+   03/09/2023 21:09:59 - [03/09/2023 21:09:59]
+  Saving banlist
+   03/09/2023 21:09:40 - [03/09/2023 21:09:40]
+  Gamemode changed to Кампания
+   03/09/2023 21:09:39 - [03/09/2023 21:09:39]
+  Saving client permissions
+   03/09/2023 21:09:39 - [03/09/2023 21:09:39]
+  Saving client permissions
+   03/09/2023 21:09:39 - [03/09/2023 21:09:39]
+  Игрок kynlan4ic присоединился к серверу.
+   03/09/2023 21:09:34 - [03/09/2023 21:09:34]
+  Server started
+   03/09/2023 21:09:31 - [03/09/2023 21:09:31]
+  Using SteamP2P networking.
+   03/09/2023 21:09:31 - [03/09/2023 21:09:31]
+  Starting the server...
+   03/09/2023 21:09:29 - Selected shuttle: Челнок R-155
+   03/09/2023 21:09:29 - Selected sub: EK_Matriarch_Lance_Mk-V
+   03/09/2023 21:09:26 - Overriding an affliction or a buff with the identifier 'strengthen' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+   03/09/2023 21:09:26 - Overriding an affliction or a buff with the identifier 'stonewall' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+   03/09/2023 21:09:26 - Overriding an affliction or a buff with the identifier 'powerattack' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+   03/09/2023 21:09:26 - Overriding an affliction or a buff with the identifier 'lonewolf' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'

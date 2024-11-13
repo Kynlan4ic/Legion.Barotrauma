@@ -1,0 +1,1602 @@
+﻿[11/02/2022 01:10:50]
+  Saving client permissions
+[11/02/2022 01:10:50]
+  Saving client permissions
+[11/02/2022 01:10:51]
+  Gamemode changed to Кампания
+[11/02/2022 01:10:54]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/02/2022 01:10:58]
+  Gamemode changed to Миссия
+[11/02/2022 01:11:00]
+  Gamemode changed to Кампания
+[11/02/2022 01:11:22]
+  Gamemode changed to Миссия
+[11/02/2022 01:11:50]
+  Client "kynlan4ic" started the round.
+[11/02/2022 01:11:50]
+  Starting a new round...
+[11/02/2022 01:12:22]
+  Миссия: Добыча артефакта
+[11/02/2022 01:12:22]
+  Центр Set: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.
+[11/02/2022 01:12:22]
+  Game mode: Миссия
+[11/02/2022 01:12:22]
+  Submarine: Sardine
+[11/02/2022 01:12:22]
+  Level seed: yUrssXtQ
+[11/02/2022 01:12:22]
+  Mission: Добыча артефакта
+[11/02/2022 01:12:22]
+  Round started.
+[11/02/2022 01:12:22]
+  Fractalguardian equipped Гарпун стража
+[11/02/2022 01:12:22]
+  Barry Hajek: Загружаю в реактор дополнительное топливо!
+[11/02/2022 01:12:22]
+  Stella Tseng: Все готовы? Очень на это надеюсь. Назад мы поворачивать не будем.
+[11/02/2022 01:12:22]
+  Alvaro Ellison: Загружаю в реактор дополнительное топливо!
+[11/02/2022 01:12:22]
+  Barry Hajek equipped Топливный стержень
+[11/02/2022 01:12:22]
+  Barry Hajek unequipped Топливный стержень
+[11/02/2022 01:12:30]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 01:12:41]
+  kynlan4ic: Stella Tseng, прокладывай курс вперед!
+[11/02/2022 01:12:42]
+  Stella Tseng: Принято.
+[11/02/2022 01:12:51]
+  kynlan4ic picked up Водолазный скафандр
+[11/02/2022 01:12:53]
+  kynlan4ic equipped Водолазный скафандр
+[11/02/2022 01:12:56]
+  kynlan4ic picked up Яйца велонацепса каликса
+[11/02/2022 01:13:02]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 01:13:03]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 01:13:03]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 01:13:10]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 368)
+[11/02/2022 01:13:17]
+  kynlan4ic equipped Яйца велонацепса каликса
+[11/02/2022 01:13:18]
+  kynlan4ic used Яйца велонацепса каликса on Stella Tseng.
+[11/02/2022 01:13:21]
+  Stella Tseng: На радаре ледяные шпили!
+[11/02/2022 01:13:46]
+  kynlan4ic is a traitor and the current goals are:
+- Ваша цель: Бредоген. Вы найдете ее здесь: Медицинский отсек. (В процессе)
+
+[11/02/2022 01:13:50]
+  Noriko Hurley equipped Контейнер для хранения
+[11/02/2022 01:14:18]
+  kynlan4ic picked up Сварочный аппарат
+[11/02/2022 01:14:19]
+  kynlan4ic picked up Морфин
+[11/02/2022 01:14:19]
+  kynlan4ic picked up Морфин
+[11/02/2022 01:14:21]
+  Stella Tseng: На радаре ледяные шпили!
+[11/02/2022 01:14:30]
+  kynlan4ic: Alice Summitt, займись орудиями!
+[11/02/2022 01:14:31]
+  Alice Summitt: Слушаюсь!
+[11/02/2022 01:14:34]
+  kynlan4ic: David Hocker, займись оружием!
+[11/02/2022 01:14:35]
+  David Hocker: Так точно!
+[11/02/2022 01:14:36]
+  David Hocker: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 01:14:37]
+  David Hocker equipped Снаряд рельсотрона
+[11/02/2022 01:14:37]
+  David Hocker: Цель зафиксирована: ледяной шпиль!
+[11/02/2022 01:14:37]
+  David Hocker: Огонь!
+[11/02/2022 01:14:37]
+  David Hocker launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 01:14:38]
+  David Hocker equipped Снаряд рельсотрона
+[11/02/2022 01:14:42]
+  David Hocker launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 01:14:43]
+  David Hocker equipped Снаряд рельсотрона
+[11/02/2022 01:14:44]
+  Stella Tseng: Кажется, у меня жар.
+[11/02/2022 01:14:57]
+  kynlan4ic picked up Бинт
+[11/02/2022 01:14:57]
+  kynlan4ic picked up Бинт
+[11/02/2022 01:14:57]
+  kynlan4ic picked up Бинт
+[11/02/2022 01:14:57]
+  kynlan4ic picked up Бинт
+[11/02/2022 01:14:58]
+  kynlan4ic placed Бинт in Форма медика (ID: 5937)
+[11/02/2022 01:14:58]
+  kynlan4ic placed Бинт in Форма медика (ID: 5937)
+[11/02/2022 01:14:58]
+  kynlan4ic placed Бинт in Форма медика (ID: 5937)
+[11/02/2022 01:14:58]
+  kynlan4ic placed Бинт in Форма медика (ID: 5937)
+[11/02/2022 01:15:09]
+  David Hocker: У меня новая цель! Не могу понять, что это такое...
+[11/02/2022 01:15:09]
+  David Hocker: Стреляю!
+[11/02/2022 01:15:09]
+  David Hocker launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 01:15:09]
+  David Hocker: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 01:15:10]
+  David Hocker equipped Снаряд рельсотрона
+[11/02/2022 01:15:10]
+  Mudraptor_unarmored has died (Cause of death: Повреждение глубоких тканей)
+[11/02/2022 01:15:13]
+  Outer wall breached by Mudraptor
+[11/02/2022 01:15:13]
+  Alice Summitt: Стреляю!
+[11/02/2022 01:15:13]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:13]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:14]
+  Outer wall breached by Mudraptor_unarmored
+[11/02/2022 01:15:14]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:14]
+  David Hocker launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 01:15:14]
+  Mudraptor_unarmored has died (Cause of death: Повреждение глубоких тканей)
+[11/02/2022 01:15:14]
+  Outer wall breached by David Hocker
+[11/02/2022 01:15:14]
+  Outer wall breached by David Hocker
+[11/02/2022 01:15:14]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:15]
+  David Hocker equipped Снаряд рельсотрона
+[11/02/2022 01:15:15]
+  David Hocker: У нас осталось не так уж много снарядов рельсотрона.
+[11/02/2022 01:15:15]
+  David Hocker: Кажется, есть попадание!
+[11/02/2022 01:15:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:17]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:17]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:17]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:18]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:18]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:18]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:19]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:19]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:19]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:19]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:20]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:20]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:20]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:20]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:21]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:21]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:21]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:22]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:22]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:22]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:22]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:23]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:23]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:23]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:24]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:24]
+  kynlan4ic picked up Топливный стержень
+[11/02/2022 01:15:24]
+  kynlan4ic picked up Топливный стержень
+[11/02/2022 01:15:24]
+  kynlan4ic picked up Топливный стержень
+[11/02/2022 01:15:24]
+  kynlan4ic picked up Топливный стержень
+[11/02/2022 01:15:24]
+  kynlan4ic picked up Топливный стержень
+[11/02/2022 01:15:24]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:24]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:24]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:25]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:25]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:25]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:25]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:26]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:26]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:27]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:27]
+  kynlan4ic picked up Сварочный аппарат
+[11/02/2022 01:15:27]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:27]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:28]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:28]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:28]
+  Mudraptor has died (Cause of death: Рваная рана)
+[11/02/2022 01:15:28]
+  Alice Summitt: Враг уничтожен!
+[11/02/2022 01:15:28]
+  kynlan4ic placed Сварочный аппарат in Большой стальной шкаф (ID: 727)
+[11/02/2022 01:15:28]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:29]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:29]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:29]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:31]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[11/02/2022 01:15:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:15:31]
+  Alice Summitt: Враг уничтожен!
+[11/02/2022 01:15:32]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:15:35]
+  Alvaro Ellison: Медицинский отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 01:15:35]
+  Outer wall repaired by Alvaro Ellison
+[11/02/2022 01:15:36]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:15:38]
+  kynlan4ic picked up Водолазный скафандр
+[11/02/2022 01:15:45]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:15:57]
+  Outer wall repaired by Noriko Hurley
+[11/02/2022 01:16:07]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:16:08]
+  Stella Tseng: У меня что-то во рту...
+[11/02/2022 01:16:24]
+  Alice Summitt: У меня новая цель! Не могу понять, что это такое...
+[11/02/2022 01:16:25]
+  Outer wall breached by Bonethresher
+[11/02/2022 01:16:25]
+  Outer wall breached by Bonethresher
+[11/02/2022 01:16:25]
+  Outer wall breached by Bonethresher
+[11/02/2022 01:16:26]
+  Alice Summitt: Стреляю!
+[11/02/2022 01:16:26]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:26]
+  David Hocker: У меня новая цель! Не могу понять, что это такое...
+[11/02/2022 01:16:27]
+  David Hocker: Стреляю!
+[11/02/2022 01:16:27]
+  David Hocker launched Рельсотрон (projectile: Снаряд рельсотрона)
+[11/02/2022 01:16:27]
+  David Hocker: У меня тут Рельсотрон! Заряжаю боеприпасы!
+[11/02/2022 01:16:27]
+  Tigerthresher has died (Cause of death: Повреждение глубоких тканей)
+[11/02/2022 01:16:27]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:27]
+  David Hocker equipped Снаряд рельсотрона
+[11/02/2022 01:16:27]
+  David Hocker: У нас осталось не так уж много снарядов рельсотрона.
+[11/02/2022 01:16:27]
+  David Hocker: И-и-и-и... Готово!
+[11/02/2022 01:16:27]
+  Stella Tseng: Замечен ледяной шпиль!
+[11/02/2022 01:16:28]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:28]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:29]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:30]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:33]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:33]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:33]
+  Bonethresher has died (Cause of death: Рваная рана)
+[11/02/2022 01:16:33]
+  Alice Summitt: И-и-и-и... Готово!
+[11/02/2022 01:16:37]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:37]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:16:37]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:37]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:38]
+  Outer wall repaired by Renata Riles
+[11/02/2022 01:16:38]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:38]
+  Outer wall repaired by Renata Riles
+[11/02/2022 01:16:38]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:38]
+  Renata Riles: Медицинский отсек: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 01:16:38]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:38]
+  kynlan4ic: Renata Riles, займись протечками!
+[11/02/2022 01:16:38]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:38]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:16:39]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:16:39]
+  Renata Riles: Есть!
+[11/02/2022 01:16:40]
+  kynlan4ic: Merrill Berner, займись протечками!
+[11/02/2022 01:16:40]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:16:40]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:16:41]
+  Merrill Berner: Принято.
+[11/02/2022 01:16:42]
+  kynlan4ic: Alvaro Ellison, займись поврежденными устройствами!
+[11/02/2022 01:16:43]
+  Alvaro Ellison: Само собой!
+[11/02/2022 01:16:43]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:16:44]
+  kynlan4ic: Renata Riles, отремонтируй механические приборы!
+[11/02/2022 01:16:45]
+  Alvaro Ellison started repairing Монитор состояния
+[11/02/2022 01:16:45]
+  Renata Riles: Вас понял!
+[11/02/2022 01:16:48]
+  kynlan4ic: Darius Berner, положи все на свои места!
+[11/02/2022 01:16:49]
+  Darius Berner: Так точно!
+[11/02/2022 01:16:49]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:16:51]
+  kynlan4ic: Alvaro Ellison, займись электроприборами!
+[11/02/2022 01:16:52]
+  Alvaro Ellison: Вас понял!
+[11/02/2022 01:16:53]
+  kynlan4ic: Renata Riles, займись ремонтом поврежденных систем!
+[11/02/2022 01:16:54]
+  Renata Riles: Слушаюсь!
+[11/02/2022 01:16:55]
+  Darius Berner equipped Плазменный резак
+[11/02/2022 01:16:59]
+  Darius Berner equipped Ручной сонар
+[11/02/2022 01:17:03]
+  Darius Berner equipped Фонарик
+[11/02/2022 01:17:04]
+  Outer wall breached by Tigerthresher
+[11/02/2022 01:17:06]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 368)
+[11/02/2022 01:17:07]
+  Darius Berner equipped Стабилоцин
+[11/02/2022 01:17:10]
+  kynlan4ic: Alice Summitt, займись оружием!
+[11/02/2022 01:17:10]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:17:11]
+  Alice Summitt: Слушаюсь!
+[11/02/2022 01:17:11]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:17:13]
+  Alice Summitt: У меня новая цель!
+[11/02/2022 01:17:14]
+  Alice Summitt: Огонь!
+[11/02/2022 01:17:14]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:14]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:15]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:16]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:17:16]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:17]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:17:17]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:17]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:17]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:18]
+  Alvaro Ellison started repairing Батарея
+[11/02/2022 01:17:19]
+  Darius Berner equipped Этанол
+[11/02/2022 01:17:19]
+  Renata Riles started repairing Батарея
+[11/02/2022 01:17:22]
+  Alvaro Ellison started repairing Батарея
+[11/02/2022 01:17:23]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:17:25]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:17:25]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:17:26]
+  Alvaro Ellison: Орудийный отсек: протечек не осталось!
+[11/02/2022 01:17:26]
+  kynlan4ic: Barry Hajek, займись оружием!
+[11/02/2022 01:17:27]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:17:27]
+  Barry Hajek: Принято.
+[11/02/2022 01:17:27]
+  Stella Tseng: На радаре ледяные шпили!
+[11/02/2022 01:17:28]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:17:28]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:17:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:31]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:32]
+  Darius Berner equipped Опиум
+[11/02/2022 01:17:32]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:33]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[11/02/2022 01:17:33]
+  Alice Summitt launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:17:33]
+  Alice Summitt: И-и-и-и... Готово!
+[11/02/2022 01:17:34]
+  kynlan4ic picked up Серная кислота
+[11/02/2022 01:17:44]
+  Renata Riles started repairing Генератор кислорода
+[11/02/2022 01:17:45]
+  Darius Berner equipped Антибиотики широкого спектра
+[11/02/2022 01:17:46]
+  kynlan4ic used item Серная кислота
+[11/02/2022 01:17:48]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:17:48]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:17:53]
+  David Hocker equipped Шоковая дубинка
+[11/02/2022 01:17:53]
+  Alice Summitt equipped Шоковая дубинка
+[11/02/2022 01:17:54]
+  David Hocker unequipped Шоковая дубинка
+[11/02/2022 01:17:55]
+  David Hocker equipped Шоковая дубинка
+[11/02/2022 01:17:56]
+  Alice Summitt unequipped Шоковая дубинка
+[11/02/2022 01:17:57]
+  Alice Summitt equipped Шоковая дубинка
+[11/02/2022 01:17:57]
+  David Hocker used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[11/02/2022 01:18:01]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:18:02]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:18:02]
+  kynlan4ic equipped Шприц-пистолет
+[11/02/2022 01:18:03]
+  Renata Riles started repairing Кабельная коробка
+[11/02/2022 01:18:03]
+  David Hocker used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[11/02/2022 01:18:04]
+  Alice Summitt used Шоковая дубинка (Аккумулятор) on David Hocker.
+[11/02/2022 01:18:04]
+  Alvaro Ellison started repairing Кабельная коробка
+[11/02/2022 01:18:05]
+  David Hocker unequipped Шоковая дубинка
+[11/02/2022 01:18:05]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:18:07]
+  Alice Summitt unequipped Шоковая дубинка
+[11/02/2022 01:18:07]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:19:02]
+  kynlan4ic picked up Водолазный скафандр
+[11/02/2022 01:19:10]
+  kynlan4ic picked up Подводный скутер
+[11/02/2022 01:19:11]
+  kynlan4ic picked up Ручной сонар
+[11/02/2022 01:19:24]
+  Stella Tseng has died (Cause of death: Внутренняя травма)
+[11/02/2022 01:19:30]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:19:31]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:19:31]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:19:32]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:19:32]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:19:32]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:19:33]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:19:33]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:19:33]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:19:33]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:19:33]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:19:34]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:19:34]
+  Alvaro Ellison used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:19:34]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:19:34]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:19:35]
+  Alice Summitt equipped Шоковая дубинка
+[11/02/2022 01:19:35]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:19:35]
+  David Hocker equipped Шоковая дубинка
+[11/02/2022 01:19:35]
+  Merrill Berner: У меня кровь!
+[11/02/2022 01:19:35]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:19:35]
+  Alice Summitt unequipped Шоковая дубинка
+[11/02/2022 01:19:35]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:19:36]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:19:36]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:19:36]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:19:36]
+  Alice Summitt equipped Шоковая дубинка
+[11/02/2022 01:19:36]
+  David Hocker unequipped Шоковая дубинка
+[11/02/2022 01:19:36]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:19:36]
+  David Hocker equipped Шоковая дубинка
+[11/02/2022 01:19:37]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:19:37]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:19:37]
+  Alice Summitt used Шоковая дубинка (Аккумулятор) on Barry Hajek.
+[11/02/2022 01:19:40]
+  Alice Summitt used Шоковая дубинка (Аккумулятор) on Stella Tseng.
+[11/02/2022 01:19:41]
+  David Hocker used Шоковая дубинка (Аккумулятор) on Stella Tseng.
+[11/02/2022 01:19:41]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:19:41]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:19:41]
+  Barry Hajek equipped Отвертка
+[11/02/2022 01:19:41]
+  Alice Summitt unequipped Шоковая дубинка
+[11/02/2022 01:19:41]
+  Alice Summitt equipped Нож ныряльщика
+[11/02/2022 01:19:41]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:19:41]
+  David Hocker unequipped Шоковая дубинка
+[11/02/2022 01:19:41]
+  David Hocker equipped Нож ныряльщика
+[11/02/2022 01:19:42]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:42]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:43]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:44]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:19:44]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:44]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:44]
+  David Hocker: У меня кровь!
+[11/02/2022 01:19:44]
+  Alice Summitt: Помогите, я истекаю кровью!
+[11/02/2022 01:19:44]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:19:44]
+  Inner wall breached by David Hocker
+[11/02/2022 01:19:45]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:45]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:45]
+  Inner wall breached by Alice Summitt
+[11/02/2022 01:19:46]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:46]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:19:46]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:46]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:19:47]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:47]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:48]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:48]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 282)
+[11/02/2022 01:19:48]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:19:48]
+  Inner wall repaired by Renata Riles
+[11/02/2022 01:19:48]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:48]
+  Renata Riles: Отсек генератора кислорода: все протечки устранены!
+[11/02/2022 01:19:49]
+  Inner wall breached by David Hocker
+[11/02/2022 01:19:49]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:49]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:50]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:50]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:51]
+  David Hocker used Нож ныряльщика on Alice Summitt.
+[11/02/2022 01:19:52]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:52]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 369)
+[11/02/2022 01:19:52]
+  David Hocker used Нож ныряльщика on Barry Hajek.
+[11/02/2022 01:19:53]
+  Alice Summitt used Нож ныряльщика on David Hocker.
+[11/02/2022 01:19:53]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:19:53]
+  David Hocker used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:19:53]
+  David Hocker unequipped Нож ныряльщика
+[11/02/2022 01:19:53]
+  David Hocker equipped Шоковая дубинка
+[11/02/2022 01:19:54]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:19:54]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:19:54]
+  Barry Hajek unequipped Отвертка
+[11/02/2022 01:19:54]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:19:54]
+  Alice Summitt unequipped Нож ныряльщика
+[11/02/2022 01:19:54]
+  Alice Summitt equipped Шоковая дубинка
+[11/02/2022 01:19:55]
+  Barry Hajek: Я теряю много крови!
+[11/02/2022 01:19:55]
+  David Hocker used Шоковая дубинка (Аккумулятор) on Stella Tseng.
+[11/02/2022 01:19:56]
+  Alice Summitt used Шоковая дубинка (Аккумулятор) on David Hocker.
+[11/02/2022 01:19:56]
+  Alice Summitt unequipped Шоковая дубинка
+[11/02/2022 01:19:56]
+  Alice Summitt equipped Нож ныряльщика
+[11/02/2022 01:19:57]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:19:57]
+  Barry Hajek equipped Отвертка
+[11/02/2022 01:19:57]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:19:57]
+  Outer wall breached by Tigerthresher
+[11/02/2022 01:19:57]
+  Alice Summitt used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:19:58]
+  Norman Krall equipped Отвертка
+[11/02/2022 01:19:58]
+  Norman Krall unequipped Отвертка
+[11/02/2022 01:19:58]
+  Alice Summitt used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:19:59]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:19:59]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:19:59]
+  Norman Krall equipped Отвертка
+[11/02/2022 01:19:59]
+  Alice Summitt used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:20:00]
+  Alice Summitt used Нож ныряльщика on Norman Krall.
+[11/02/2022 01:20:01]
+  Alice Summitt used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:20:02]
+  Alice Summitt used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:20:03]
+  Alice Summitt used Нож ныряльщика on Stella Tseng.
+[11/02/2022 01:20:04]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:20:04]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:20:04]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:04]
+  Barry Hajek unequipped Отвертка
+[11/02/2022 01:20:04]
+  Norman Krall: Помогите, я истекаю кровью!
+[11/02/2022 01:20:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:04]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:05]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:06]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:07]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:08]
+  Norman Krall unequipped Отвертка
+[11/02/2022 01:20:08]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:20:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:09]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:09]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[11/02/2022 01:20:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 01:20:09]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:10]
+  Tigerthresher attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[11/02/2022 01:20:12]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:20:13]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:20:13]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:20:14]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:20:14]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:20:14]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:20:14]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:20:14]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:20:14]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:20:15]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:20:16]
+  Renata Riles used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:20:16]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:20:16]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:20:17]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:20:20]
+  kynlan4ic equipped Сварочный аппарат
+[11/02/2022 01:20:22]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:20:23]
+  Outer wall repaired by kynlan4ic
+[11/02/2022 01:20:23]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:20:24]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:24]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:20:24]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:25]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:20:25]
+  Inner wall repaired by Renata Riles
+[11/02/2022 01:20:25]
+  Renata Riles: Балласт: протечек не осталось!
+[11/02/2022 01:20:25]
+  Inner wall repaired by Renata Riles
+[11/02/2022 01:20:27]
+  Noriko Hurley: Помогите, я истекаю кровью!
+[11/02/2022 01:20:27]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:20:27]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:20:27]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:20:27]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:20:28]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:20:29]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:20:29]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:29]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:20:29]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:20:29]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:20:29]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:20:29]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:20:30]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:20:30]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:30]
+  Barry Hajek: Помогите, я истекаю кровью!
+[11/02/2022 01:20:30]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:20:30]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:20:30]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:20:30]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:20:31]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:31]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:20:31]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:20:31]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:20:32]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:32]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:20:33]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:20:34]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:20:36]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:20:37]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:20:38]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:20:38]
+  Norman Krall: Помогите, я истекаю кровью!
+[11/02/2022 01:20:40]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:20:40]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:20:41]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:42]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:20:43]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:20:43]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:20:44]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:20:44]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:20:45]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:20:45]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:20:45]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:20:45]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:20:45]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:20:45]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:20:46]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:20:46]
+  Alvaro Ellison started repairing Кабельная коробка
+[11/02/2022 01:20:46]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:20:46]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:20:46]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:20:47]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:47]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:20:47]
+  David Hocker has died (Cause of death: Кровопотеря)
+[11/02/2022 01:20:49]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:20:49]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:20:50]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:50]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:20:52]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:20:55]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:20:55]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:20:55]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:20:56]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:20:56]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:20:56]
+  Merrill Berner: У меня кровь!
+[11/02/2022 01:20:56]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:20:57]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:20:57]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:20:57]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:20:57]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:20:58]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:20:58]
+  kynlan4ic: Alice Summitt, защищай команду!
+[11/02/2022 01:20:59]
+  Renata Riles started repairing Навигационный терминал
+[11/02/2022 01:20:59]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:00]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:21:00]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:00]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:21:00]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:21:00]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:00]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:01]
+  Barry Hajek used Гаечный ключ on Noriko Hurley.
+[11/02/2022 01:21:01]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:21:01]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:21:02]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:21:02]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:21:02]
+  Alice Summitt has died (Cause of death: Кровопотеря)
+[11/02/2022 01:21:03]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:03]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:21:03]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:21:03]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:21:03]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:04]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:21:04]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:21:04]
+  Barry Hajek used Гаечный ключ on Noriko Hurley.
+[11/02/2022 01:21:04]
+  Barry Hajek: У меня кровь!
+[11/02/2022 01:21:05]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:21:05]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:06]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:08]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:21:08]
+  Barry Hajek used Гаечный ключ on Noriko Hurley.
+[11/02/2022 01:21:09]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:09]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:10]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:21:13]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:21:16]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:16]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:18]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:18]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:21:19]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:21:20]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:21:20]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:21]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:22]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:23]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:21:23]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:21:23]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:21:24]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:24]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:27]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:21:27]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:21:27]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:21:27]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:21:28]
+  Merrill Berner used Гаечный ключ on Alvaro Ellison.
+[11/02/2022 01:21:29]
+  Alvaro Ellison used Гаечный ключ on Merrill Berner.
+[11/02/2022 01:21:29]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:21:29]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:21:29]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:21:30]
+  Merrill Berner used Гаечный ключ on Alvaro Ellison.
+[11/02/2022 01:21:30]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:21:30]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:21:30]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:30]
+  Noriko Hurley: Что-то в горле першит.
+[11/02/2022 01:21:31]
+  Barry Hajek: Я чувствую жуткую слабость. Все тело болит.
+[11/02/2022 01:21:31]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:21:31]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:21:31]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:31]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:31]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:21:31]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:31]
+  Merrill Berner: Я теряю много крови!
+[11/02/2022 01:21:33]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:33]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:33]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:21:33]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:21:33]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:21:34]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:21:34]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:35]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:21:35]
+  Alvaro Ellison used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:37]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:21:37]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:21:38]
+  Merrill Berner: Я чувствую жуткую слабость. Все тело болит.
+[11/02/2022 01:21:38]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:38]
+  Alvaro Ellison started repairing Кабельная коробка
+[11/02/2022 01:21:38]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:21:38]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:21:38]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:39]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:39]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:40]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:41]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:21:42]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:21:42]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:21:42]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:42]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:44]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:21:44]
+  Renata Riles started repairing Кабельная коробка
+[11/02/2022 01:21:44]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:21:45]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:45]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:45]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:45]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:45]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:21:45]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:21:47]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:47]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:47]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:21:47]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:21:48]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:21:48]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:21:48]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:21:48]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:21:49]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:49]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:21:49]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:21:49]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:21:50]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:21:50]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:21:51]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:51]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:21:52]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:21:52]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:21:52]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:52]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:53]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:21:53]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:21:53]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:21:54]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:21:54]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:21:54]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:21:54]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:21:56]
+  Merrill Berner used Гаечный ключ on Renata Riles.
+[11/02/2022 01:21:57]
+  Renata Riles used Гаечный ключ on Merrill Berner.
+[11/02/2022 01:21:59]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:21:59]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:21:59]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:21:59]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:21:59]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:21:59]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:22:00]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:22:00]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:22:00]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:22:00]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:00]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:22:00]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:22:01]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:02]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:22:02]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:22:02]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:22:02]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:22:03]
+  Merrill Berner: Помогите, я истекаю кровью!
+[11/02/2022 01:22:03]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:22:03]
+  Merrill Berner used Гаечный ключ on Renata Riles.
+[11/02/2022 01:22:04]
+  Renata Riles used Гаечный ключ on Merrill Berner.
+[11/02/2022 01:22:05]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:22:05]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:22:05]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:22:05]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:22:05]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:22:05]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:22:06]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:22:06]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:22:08]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:22:08]
+  Renata Riles equipped Гаечный ключ
+[11/02/2022 01:22:08]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:22:08]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:22:09]
+  kynlan4ic picked up Плазменный резак
+[11/02/2022 01:22:10]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:22:10]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:22:10]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:22:10]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:22:11]
+  Renata Riles unequipped Гаечный ключ
+[11/02/2022 01:22:11]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:22:11]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:22:12]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:22:12]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:22:12]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:22:13]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:22:13]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:22:14]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:14]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:22:14]
+  Renata Riles started repairing Кабельная коробка
+[11/02/2022 01:22:14]
+  Alvaro Ellison used Гаечный ключ on Merrill Berner.
+[11/02/2022 01:22:16]
+  Merrill Berner used Гаечный ключ on Alvaro Ellison.
+[11/02/2022 01:22:16]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:22:16]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:22:16]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:22:16]
+  Merrill Berner: У меня что-то во рту...
+[11/02/2022 01:22:17]
+  Alvaro Ellison used Гаечный ключ on Merrill Berner.
+[11/02/2022 01:22:17]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:22:18]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:22:18]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:22:19]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:22:19]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:22:19]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:22:19]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:22:19]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:22:19]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:22:19]
+  Alvaro Ellison equipped Гаечный ключ
+[11/02/2022 01:22:20]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:22:20]
+  Alvaro Ellison unequipped Гаечный ключ
+[11/02/2022 01:22:20]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:22:21]
+  kynlan4ic placed Бинт in Форма медика (ID: 5937)
+[11/02/2022 01:22:21]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:23]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:22:23]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:22:24]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:22:24]
+  Merrill Berner used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:22:24]
+  kynlan4ic placed Морфин in Форма медика (ID: 5937)
+[11/02/2022 01:22:24]
+  kynlan4ic placed Морфин in Форма медика (ID: 5937)
+[11/02/2022 01:22:24]
+  kynlan4ic placed Морфин in Форма медика (ID: 5937)
+[11/02/2022 01:22:25]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:22:25]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:22:25]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:22:27]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:27]
+  Merrill Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:27]
+  Merrill Berner equipped Гаечный ключ
+[11/02/2022 01:22:28]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:22:28]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:22:28]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:22:28]
+  Norman Krall unequipped Гаечный ключ
+[11/02/2022 01:22:29]
+  Merrill Berner used Гаечный ключ on Noriko Hurley.
+[11/02/2022 01:22:30]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:22:30]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:22:30]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:22:30]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:22:30]
+  Norman Krall equipped Гаечный ключ
+[11/02/2022 01:22:30]
+  Merrill Berner unequipped Гаечный ключ
+[11/02/2022 01:22:30]
+  Merrill Berner equipped Сварочный аппарат
+[11/02/2022 01:22:31]
+  Renata Riles started repairing Батарея
+[11/02/2022 01:22:31]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:22:31]
+  Alvaro Ellison equipped Сварочный аппарат
+[11/02/2022 01:22:31]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:22:31]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:22:31]
+  Barry Hajek used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:22:32]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:32]
+  Darius Berner equipped Гаечный ключ
+[11/02/2022 01:22:35]
+  Darius Berner unequipped Гаечный ключ
+[11/02/2022 01:22:35]
+  Darius Berner equipped Сварочный аппарат
+[11/02/2022 01:22:36]
+  Barry Hajek: Я теряю много крови!
+[11/02/2022 01:22:39]
+  Darius Berner unequipped Сварочный аппарат
+[11/02/2022 01:22:39]
+  Noriko Hurley unequipped Сварочный аппарат
+[11/02/2022 01:22:40]
+  Barry Hajek unequipped Гаечный ключ
+[11/02/2022 01:22:41]
+  Alvaro Ellison unequipped Сварочный аппарат
+[11/02/2022 01:22:41]
+  Renata Riles unequipped Сварочный аппарат
+[11/02/2022 01:22:41]
+  Barry Hajek equipped Гаечный ключ
+[11/02/2022 01:22:42]
+  Alvaro Ellison equipped Отвертка
+[11/02/2022 01:22:42]
+  Renata Riles equipped Отвертка
+[11/02/2022 01:22:42]
+  Noriko Hurley equipped Сварочный аппарат
+[11/02/2022 01:22:44]
+  Alvaro Ellison started repairing Батарея
+[11/02/2022 01:22:44]
+  Renata Riles unequipped Отвертка
+[11/02/2022 01:22:44]
+  Renata Riles equipped Сварочный аппарат
+[11/02/2022 01:22:44]
+  Norman Krall used Гаечный ключ on Stella Tseng.
+[11/02/2022 01:22:45]
+  Alvaro Ellison unequipped Отвертка
+[11/02/2022 01:22:45]
+  Alvaro Ellison equipped Сварочный аппарат

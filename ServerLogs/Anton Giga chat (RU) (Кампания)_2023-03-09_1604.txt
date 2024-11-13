@@ -1,0 +1,968 @@
+﻿[03/09/2023 15:53:45]
+  Drago equipped Шоковая дубинка
+[03/09/2023 15:53:56]
+  Drago picked up Отвертка
+[03/09/2023 15:53:58]
+  Drago picked up Гаечный ключ
+[03/09/2023 15:53:58]
+  Waltuh started repairing Батарея
+[03/09/2023 15:53:59]
+  Drago picked up Пояс инструментов
+[03/09/2023 15:54:01]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:54:16]
+  Inner wall repaired by kynlan4ic
+[03/09/2023 15:54:21]
+  Drago placed Физраствор in Пояс инструментов (ID: 5298)
+[03/09/2023 15:54:28]
+  Drago equipped Отвертка
+[03/09/2023 15:54:28]
+  Drago equipped Гаечный ключ
+[03/09/2023 15:54:32]
+  Drago failed to repair Кабельная коробка
+[03/09/2023 15:54:35]
+  Waltuh started repairing Суперконденсатор
+[03/09/2023 15:54:37]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:54:38]
+  Drago started repairing Кабельная коробка
+[03/09/2023 15:54:41]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:55:01]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:55:10]
+  Waltuh started repairing Большой двигатель
+[03/09/2023 15:55:14]
+  Faxemelian: Пункт управления: здесь протечка!
+[03/09/2023 15:55:18]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:55:18]
+  Drago started repairing Навигационный терминал
+[03/09/2023 15:55:30]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:55:31]
+  Waltuh failed to repair Ядерный реактор
+[03/09/2023 15:55:32]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:55:36]
+  Drago started repairing Зарядник для цепной пушки
+[03/09/2023 15:55:38]
+  Waltuh failed to repair Ядерный реактор
+[03/09/2023 15:55:42]
+  kynlan4ic placed Гарпун in Хозяйственный шкаф (ID: 1441)
+[03/09/2023 15:55:49]
+  Waltuh started repairing Ядерный реактор
+[03/09/2023 15:55:56]
+  Drago started repairing Зарядник магнитной пушки
+[03/09/2023 15:56:00]
+  Waltuh started repairing Ядерный реактор
+[03/09/2023 15:56:00]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 5239)
+[03/09/2023 15:56:00]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 5239)
+[03/09/2023 15:56:01]
+  Faxemelian failed to repair Малый насос
+[03/09/2023 15:56:02]
+  Faxemelian started repairing Малый насос
+[03/09/2023 15:56:03]
+  Drago dropped Водолазный скафандр
+[03/09/2023 15:56:07]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:56:07]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:56:08]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:56:08]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:56:10]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:56:11]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:56:12]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:56:15]
+  Faxemelian started repairing Малый насос
+[03/09/2023 15:56:18]
+  kynlan4ic dropped Боевой водолазный скафандр
+[03/09/2023 15:56:28]
+  Drago failed to repair Фабрикатор
+[03/09/2023 15:56:29]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:56:29]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:56:30]
+  Drago failed to repair Фабрикатор
+[03/09/2023 15:56:30]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:56:31]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:56:31]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:56:31]
+  Faxemelian failed to repair Медицинский фабрикатор
+[03/09/2023 15:56:32]
+  Drago failed to repair Деконструктор
+[03/09/2023 15:56:33]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:56:33]
+  Drago started repairing Деконструктор
+[03/09/2023 15:56:34]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:56:46]
+  Faxemelian started repairing Медицинский фабрикатор
+[03/09/2023 15:56:46]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/09/2023 15:56:47]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:56:47]
+  kynlan4ic equipped Контейнер для хранения
+[03/09/2023 15:56:47]
+  kynlan4ic picked up Контейнер для хранения
+[03/09/2023 15:56:48]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:56:49]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 1445)
+[03/09/2023 15:56:49]
+  kynlan4ic equipped Контейнер для хранения
+[03/09/2023 15:56:49]
+  kynlan4ic picked up Контейнер для хранения
+[03/09/2023 15:56:50]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 1445)
+[03/09/2023 15:56:51]
+  Drago failed to repair Фабрикатор
+[03/09/2023 15:56:54]
+  Drago started repairing Фабрикатор
+[03/09/2023 15:56:55]
+  Faxemelian started repairing Батарея
+[03/09/2023 15:56:56]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 15:56:56]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:56:58]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/09/2023 15:56:59]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 15:57:00]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 15:57:08]
+  kynlan4ic placed Кислородный баллон in Подводная маска (ID: 5262)
+[03/09/2023 15:57:08]
+  kynlan4ic removed Кислородный баллон from Подводная маска (ID: 5262)
+[03/09/2023 15:57:08]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:57:12]
+  Faxemelian started repairing Кабельная коробка
+[03/09/2023 15:57:13]
+  Waltuh placed Одноразовый водолазный скафандр in Фабрикатор (ID: 628)
+[03/09/2023 15:57:15]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 15:57:17]
+  Faxemelian started repairing Кабельная коробка
+[03/09/2023 15:57:17]
+  Waltuh placed Одноразовый водолазный скафандр in Деконструктор (ID: 627)
+[03/09/2023 15:57:18]
+  Waltuh activated Деконструктор
+[03/09/2023 15:57:21]
+  Faxemelian started repairing Кабельная коробка
+[03/09/2023 15:57:30]
+  Waltuh started repairing Монитор состояния
+[03/09/2023 15:57:31]
+  Faxemelian picked up Топливный стержень
+[03/09/2023 15:57:36]
+  Drago started fabricating Бинт in Медицинский фабрикатор
+[03/09/2023 15:57:37]
+  Faxemelian placed Топливный стержень in Ядерный реактор (ID: 1647)
+[03/09/2023 15:57:44]
+  Faxemelian failed to repair Малый насос
+[03/09/2023 15:57:50]
+  Faxemelian started repairing Малый насос
+[03/09/2023 15:57:58]
+  Drago picked up Бинт
+[03/09/2023 15:57:58]
+  Drago picked up Бинт
+[03/09/2023 15:57:58]
+  Drago picked up Бинт
+[03/09/2023 15:57:58]
+  Drago picked up Бинт
+[03/09/2023 15:57:58]
+  Drago picked up Бинт
+[03/09/2023 15:57:58]
+  Drago picked up Бинт
+[03/09/2023 15:58:02]
+  Faxemelian started repairing Малый насос
+[03/09/2023 15:58:17]
+  Waltuh picked up Клоунский костюм
+[03/09/2023 15:58:19]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:19]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:19]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:19]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:19]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:20]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:58:20]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:58:20]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:20]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:20]
+  Hammerhead_m attacked by Drago. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:21]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:21]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:22]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:22]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:22]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:22]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:25]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:25]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:25]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:25]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:25]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:26]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:27]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:27]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 15:58:27]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:28]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:29]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:29]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:29]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:29]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:29]
+  Hammerhead_m attacked by Drago. Рваная рана: 2.3 Кровотечение: 0.4
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:30]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:30]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:30]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:30]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:30]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:30]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:31]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:31]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:31]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:31]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:31]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:31]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:31]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:31]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:32]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:32]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:32]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:34]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:34]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:34]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:34]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:34]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:34]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:58:35]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:35]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:36]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:36]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:36]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:36]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:36]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:36]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:36]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:36]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:36]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:36]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:36]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:36]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Hammerhead_m attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:37]
+  Faxemelian dropped Водолазный скафандр
+[03/09/2023 15:58:37]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:38]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:38]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:38]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:39]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:39]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:39]
+  Игрок арбузная волосня присоединился к серверу.
+[03/09/2023 15:58:39]
+  Saving client permissions
+[03/09/2023 15:58:40]
+  Hammerhead_m attacked by Drago. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:58:40]
+  Hammerhead_m attacked by Drago. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:58:40]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:43]
+  Drago picked up Водолазный скафандр
+[03/09/2023 15:58:47]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:47]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:47]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:47]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:47]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:47]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:47]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:47]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:48]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:58:48]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:48]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:49]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:49]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:50]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:51]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:51]
+  Crawler attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:54]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:54]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:55]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:55]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:56]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:56]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:56]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:58:56]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:56]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:56]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:58:56]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:56]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:58:56]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:56]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:56]
+  Crawlerbroodmother attacked by Drago. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:58:59]
+  Outer wall breached by Waltuh
+[03/09/2023 15:58:59]
+  Outer wall breached by Waltuh
+[03/09/2023 15:59:01]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:59:01]
+  Faxemelian placed Кислородный баллон in Подводная маска (ID: 532)
+[03/09/2023 15:59:08]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 15:59:12]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:59:12]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 15:59:12]
+  Faxemelian dropped Кислородный баллон
+[03/09/2023 15:59:12]
+  Faxemelian placed Кислородный баллон in Подводная маска (ID: 532)
+[03/09/2023 15:59:12]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:59:13]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:59:13]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:59:14]
+  Waltuh launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:59:19]
+  Faxemelian placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:59:25]
+  kynlan4ic picked up Кислородный баллон
+[03/09/2023 15:59:25]
+  kynlan4ic dropped Кислородный баллон
+[03/09/2023 15:59:25]
+  kynlan4ic placed Кислородный баллон in Боевой водолазный скафандр (ID: 1709)
+[03/09/2023 15:59:26]
+  Outer wall breached by Crawlerbroodmother
+[03/09/2023 15:59:26]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:27]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:27]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:27]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:27]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Outer wall breached by Drago
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:28]
+  Drago launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:59:34]
+  Faxemelian picked up Водолазный скафандр
+[03/09/2023 15:59:37]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 15:59:38]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 15:59:38]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 15:59:42]
+  Waltuh picked up Водолазный скафандр
+[03/09/2023 15:59:47]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:59:49]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 15:59:50]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 15:59:52]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 15:59:55]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 15:59:56]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 16:00:03]
+  Faxemelian started repairing Большой двигатель
+[03/09/2023 16:00:11]
+  Waltuh adjusted reactor settings: Temperature: 5004, Fission rate: 30, Turbine output: 58, Autotemp ON
+[03/09/2023 16:00:15]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:00:16]
+  Inner wall repaired by Faxemelian
+[03/09/2023 16:00:16]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:00:17]
+  Игрок Shizzs присоединился к серверу.
+[03/09/2023 16:00:17]
+  Saving client permissions
+[03/09/2023 16:00:17]
+  Inner wall repaired by Faxemelian
+[03/09/2023 16:00:17]
+  Inner wall repaired by Faxemelian
+[03/09/2023 16:00:18]
+  Drago: Пункт управления: здесь пробит корпус!
+[03/09/2023 16:00:19]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 16:00:19]
+  Dispatching the respawn shuttle.
+[03/09/2023 16:00:19]
+  Respawning арбузная волосня (STEAM_1:0:524794504) as Инженер
+[03/09/2023 16:00:20]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:00:20]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:00:21]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:00:21]
+  арбузная волосня set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 16:00:23]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:00:24]
+  Waltuh started repairing Батарея
+[03/09/2023 16:00:30]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:00:31]
+  Waltuh picked up Инопланетная кровь
+[03/09/2023 16:00:33]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:00:34]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:00:36]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:00:46]
+  Faxemelian started repairing Большой двигатель
+[03/09/2023 16:00:50]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:00:51]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 16:00:55]
+  Faxemelian placed Кислородный баллон in Подводная маска (ID: 532)
+[03/09/2023 16:00:55]
+  Faxemelian removed Кислородный баллон from Подводная маска (ID: 532)
+[03/09/2023 16:00:55]
+  Faxemelian placed Кислородный баллон in Водолазный скафандр (ID: 23)
+[03/09/2023 16:00:55]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:01:03]
+  Inner wall repaired by Faxemelian
+[03/09/2023 16:01:05]
+  Drago picked up Кислородный баллон
+[03/09/2023 16:01:05]
+  Drago dropped Кислородный баллон
+[03/09/2023 16:01:05]
+  Drago placed Кислородный баллон in Водолазный скафандр (ID: 455)
+[03/09/2023 16:01:14]
+  Drago placed Бинт in Пояс инструментов (ID: 5298)
+[03/09/2023 16:01:14]
+  Drago placed Бинт in Пояс инструментов (ID: 5298)
+[03/09/2023 16:01:14]
+  Drago placed Бинт in Пояс инструментов (ID: 5298)
+[03/09/2023 16:01:14]
+  Drago placed Бинт in Пояс инструментов (ID: 5298)
+[03/09/2023 16:01:14]
+  Drago placed Бинт in Пояс инструментов (ID: 5298)
+[03/09/2023 16:01:14]
+  Drago placed Бинт in Пояс инструментов (ID: 5298)
+[03/09/2023 16:01:16]
+  Drago failed to repair Навигационный терминал
+[03/09/2023 16:01:16]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:01:17]
+  Inner wall repaired by Faxemelian
+[03/09/2023 16:01:20]
+  Hammerhead_m has died (Cause of death: Травма от удара тупым предметом)
+[03/09/2023 16:01:22]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:01:24]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:01:38]
+  Waltuh failed to repair Большой двигатель
+[03/09/2023 16:01:44]
+  Waltuh started repairing Большой двигатель
+[03/09/2023 16:01:46]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:01:49]
+  Drago: Пункт управления: здесь протечка!
+[03/09/2023 16:01:57]
+  Waltuh started repairing Большой двигатель
+[03/09/2023 16:02:03]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:02:19]
+  Faxemelian placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:02:19]
+  Faxemelian removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:02:19]
+  Faxemelian placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 5290)
+[03/09/2023 16:02:27]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 16:02:32]
+  Drago equipped Ящик с химикатами
+[03/09/2023 16:02:32]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:02:35]
+  Drago dropped Ящик с химикатами
+[03/09/2023 16:02:41]
+  Drago equipped Металлический ящик
+[03/09/2023 16:02:43]
+  Drago dropped Металлический ящик
+[03/09/2023 16:02:58]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 16:02:58]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:03:03]
+  Waltuh failed to repair Большой двигатель
+[03/09/2023 16:03:05]
+  Drago started repairing Насос
+[03/09/2023 16:03:09]
+  Waltuh failed to repair Большой двигатель
+[03/09/2023 16:03:14]
+  Outer wall repaired by Faxemelian
+[03/09/2023 16:03:22]
+  Waltuh failed to repair Большой двигатель
+[03/09/2023 16:03:29]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 16:03:31]
+  Waltuh failed to repair Большой двигатель
+[03/09/2023 16:03:34]
+  Inner wall repaired by kynlan4ic
+[03/09/2023 16:03:42]
+  Inner wall repaired by Faxemelian
+[03/09/2023 16:03:43]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:03:43]
+  kynlan4ic removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 1226)
+[03/09/2023 16:03:43]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 1717)
+[03/09/2023 16:03:46]
+  Faxemelian picked up Кислородный баллон
+[03/09/2023 16:03:46]
+  Faxemelian dropped Кислородный баллон
+[03/09/2023 16:03:46]
+  Faxemelian placed Кислородный баллон in Водолазный скафандр (ID: 23)
+[03/09/2023 16:03:50]
+  Drago started repairing Кабельная коробка
+[03/09/2023 16:03:57]
+  Faxemelian equipped Аккордеон
+[03/09/2023 16:04:00]
+  Ending round by votes (3/2)
+[03/09/2023 16:04:00]
+  Ending the round...

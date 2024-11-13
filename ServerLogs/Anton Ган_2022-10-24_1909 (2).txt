@@ -1,0 +1,1600 @@
+﻿[10/24/2022 19:01:38]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:01:38]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:01:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:42]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:01:42]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:01:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:43]
+  Lucas Freeman started repairing Зарядник магнитной пушки
+[10/24/2022 19:01:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:46]
+  Trudy Little has died (Cause of death: Нехватка кислорода)
+[10/24/2022 19:01:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:01:51]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:01:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:01:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:01:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:01:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:01:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:01:57]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:01:57]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:01:59]
+  The respawn shuttle has left.
+[10/24/2022 19:02:02]
+  Pete Quinn started repairing Батарея
+[10/24/2022 19:02:08]
+  Macey Avery: Надо найти водолазный скафандр!
+[10/24/2022 19:02:11]
+  Dispatching the respawn shuttle.
+[10/24/2022 19:02:11]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 19:02:11]
+  Respawning bot Joyce Roman as Офицер службы безопасности
+[10/24/2022 19:02:11]
+  Respawning bot Todd Preston as Помощник
+[10/24/2022 19:02:11]
+  Respawning bot Trudy Little as Инженер
+[10/24/2022 19:02:11]
+  Respawning bot Joshua Weaver as Механик
+[10/24/2022 19:02:11]
+  Respawning bot Rob Planck as Механик
+[10/24/2022 19:02:11]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:02:11]
+  Lucas Freeman equipped Кислородный баллон
+[10/24/2022 19:02:13]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 19:02:14]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:14]
+  Inner wall breached by Hammerheadgold
+[10/24/2022 19:02:14]
+  Inner wall breached by Hammerheadgold
+[10/24/2022 19:02:14]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:15]
+  Jackie Gumbs equipped Кислородный баллон
+[10/24/2022 19:02:15]
+  Jackie Gumbs: Мне нужен кислородный баллон!
+[10/24/2022 19:02:16]
+  Joshua Weaver opened Настраиваемая дверь
+[10/24/2022 19:02:19]
+  igameCrog: Камера балласта B: здесь пробит корпус!
+[10/24/2022 19:02:21]
+  Rob Planck equipped Кислородный баллон
+[10/24/2022 19:02:23]
+  Lucas Freeman equipped Сварочный аппарат
+[10/24/2022 19:02:26]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:02:26]
+  Pete Quinn equipped Сварочный аппарат
+[10/24/2022 19:02:29]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:02:30]
+  Pete Quinn unequipped Сварочный аппарат
+[10/24/2022 19:02:30]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:02:30]
+  Joshua Weaver: Эти проклятые создания тут повсюду!
+[10/24/2022 19:02:30]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:30]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:30]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:31]
+  Bettyann Lester: Меняем кислородные баллоны!
+[10/24/2022 19:02:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:34]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:02:34]
+  Jackie Gumbs: Надо найти водолазный скафандр!
+[10/24/2022 19:02:35]
+  Joyce Roman equipped Кислородный баллон
+[10/24/2022 19:02:35]
+  iliya_kind placed Наручники in Средний стальной шкаф с окном (ID: 3571)
+[10/24/2022 19:02:35]
+  iliya_kind removed Подводный скутер from Средний стальной шкаф с окном (ID: 3571)
+[10/24/2022 19:02:35]
+  iliya_kind picked up Подводный скутер
+[10/24/2022 19:02:35]
+  Lucas Freeman unequipped Сварочный аппарат
+[10/24/2022 19:02:35]
+  Lucas Freeman equipped Сварочный аппарат
+[10/24/2022 19:02:35]
+  Lucas Freeman unequipped Сварочный аппарат
+[10/24/2022 19:02:35]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:02:35]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:02:35]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:37]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:02:39]
+  iliya_kind picked up Подводная маска
+[10/24/2022 19:02:40]
+  Macey Avery: Надо найти водолазный скафандр!
+[10/24/2022 19:02:40]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:02:40]
+  Lucas Freeman equipped Сварочный аппарат
+[10/24/2022 19:02:41]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:02:41]
+  Pete Quinn equipped Сварочный аппарат
+[10/24/2022 19:02:41]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:02:42]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:42]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:42]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:42]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:02:43]
+  iliya_kind picked up Закаленный лом
+[10/24/2022 19:02:44]
+  Lucas Freeman unequipped Сварочный аппарат
+[10/24/2022 19:02:44]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:02:44]
+  Lucas Freeman failed to repair Навигационный терминал
+[10/24/2022 19:02:46]
+  Pete Quinn unequipped Сварочный аппарат
+[10/24/2022 19:02:46]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:02:47]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:02:48]
+  Rob Planck equipped Водолазный скафандр
+[10/24/2022 19:02:49]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:02:49]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:02:52]
+  Joyce Roman: Мне нужно подводное снаряжение!
+[10/24/2022 19:02:53]
+  Rob Planck: Надо найти водолазный скафандр!
+[10/24/2022 19:02:53]
+  Trudy Little: Надо найти водолазный скафандр!
+[10/24/2022 19:02:54]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:02:55]
+  Joshua Weaver: Ищу безопасное место!
+[10/24/2022 19:02:56]
+  Pete Quinn started repairing Суперконденсатор
+[10/24/2022 19:02:56]
+  Lucas Freeman started repairing Малый насос
+[10/24/2022 19:02:56]
+  Jackie Gumbs equipped Сварочный аппарат
+[10/24/2022 19:02:57]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4543)
+[10/24/2022 19:02:57]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4543)
+[10/24/2022 19:02:57]
+  igameCrog placed Кислородный баллон in Подводная маска (ID: 4168)
+[10/24/2022 19:02:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:02:58]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:03:00]
+  Rob Planck equipped Сварочный аппарат
+[10/24/2022 19:03:01]
+  Outer wall repaired by Jackie Gumbs
+[10/24/2022 19:03:02]
+  Outer wall repaired by Rob Planck
+[10/24/2022 19:03:02]
+  Rob Planck: Моторный отсек: протечек не осталось!
+[10/24/2022 19:03:03]
+  Outer wall repaired by Jackie Gumbs
+[10/24/2022 19:03:05]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:03:05]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:03:07]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:03:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:03:07]
+  Joyce Roman equipped Сварочный аппарат
+[10/24/2022 19:03:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:03:08]
+  David Monroe equipped Сварочный аппарат
+[10/24/2022 19:03:08]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:03:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:03:08]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:03:08]
+  Bettyann Lester equipped Кислородный баллон
+[10/24/2022 19:03:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:03:08]
+  Outer wall repaired by Rob Planck
+[10/24/2022 19:03:09]
+  Rob Planck: Пункт управления: минус одна протечка!
+[10/24/2022 19:03:09]
+  Joyce Roman: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/24/2022 19:03:09]
+  Rob Planck unequipped Сварочный аппарат
+[10/24/2022 19:03:09]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4543)
+[10/24/2022 19:03:09]
+  Joyce Roman unequipped Сварочный аппарат
+[10/24/2022 19:03:09]
+  Minh Rowe equipped Сварочный аппарат
+[10/24/2022 19:03:10]
+  Macey Avery: Надо найти водолазный скафандр!
+[10/24/2022 19:03:11]
+  Inner wall repaired by Minh Rowe
+[10/24/2022 19:03:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:03:16]
+  David Monroe unequipped Сварочный аппарат
+[10/24/2022 19:03:17]
+  igameCrog equipped Лом
+[10/24/2022 19:03:19]
+  Pete Quinn started repairing Монитор состояния
+[10/24/2022 19:03:20]
+  David Monroe equipped Нож ныряльщика
+[10/24/2022 19:03:20]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:03:21]
+  Joshua Weaver: Помогите!
+[10/24/2022 19:03:23]
+  iliya_kind equipped Подводный скутер
+[10/24/2022 19:03:24]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:25]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[10/24/2022 19:03:25]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[10/24/2022 19:03:25]
+  Bettyann Lester equipped Кислородный баллон
+[10/24/2022 19:03:27]
+  Lucas Freeman started repairing Двигатель
+[10/24/2022 19:03:29]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:03:29]
+  Pete Quinn equipped Сварочный аппарат
+[10/24/2022 19:03:29]
+  Outer wall repaired by Pete Quinn
+[10/24/2022 19:03:29]
+  Pete Quinn: Пункт управления: минус одна протечка!
+[10/24/2022 19:03:30]
+  Pete Quinn unequipped Сварочный аппарат
+[10/24/2022 19:03:30]
+  Pete Quinn equipped Гаечный ключ
+[10/24/2022 19:03:30]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:03:32]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:03:32]
+  Lucas Freeman equipped Сварочный аппарат
+[10/24/2022 19:03:32]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:03:32]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:03:33]
+  Pete Quinn started repairing Навигационный терминал
+[10/24/2022 19:03:33]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:03:33]
+  Bettyann Lester equipped Кислородный баллон
+[10/24/2022 19:03:34]
+  Jackie Gumbs: Верхняя средняя часть: выполняю ремонт. Осталось несколько отверстий!
+[10/24/2022 19:03:34]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:03:34]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:03:35]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:03:38]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:03:38]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:03:39]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:39]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:39]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:39]
+  Inner wall breached by Hammerheadgold
+[10/24/2022 19:03:39]
+  Joshua Weaver: Я теряю много крови!
+[10/24/2022 19:03:40]
+  Macey Avery: Мне нужно подводное снаряжение!
+[10/24/2022 19:03:42]
+  Joshua Weaver: Помогите!
+[10/24/2022 19:03:44]
+  David Monroe closed Настраиваемая дверь
+[10/24/2022 19:03:44]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:03:44]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:03:45]
+  Bettyann Lester: Меняем кислородные баллоны!
+[10/24/2022 19:03:45]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:03:46]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:03:46]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:03:47]
+  iliya_kind unequipped Пистолет-пулемет
+[10/24/2022 19:03:47]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:03:47]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:03:48]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:03:48]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:03:48]
+  Outer wall repaired by Lucas Freeman
+[10/24/2022 19:03:48]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:03:49]
+  Joshua Weaver opened Настраиваемая дверь
+[10/24/2022 19:03:49]
+  Jackie Gumbs: Верхняя средняя часть: все протечки устранены!
+[10/24/2022 19:03:49]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:03:50]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:03:50]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:03:51]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Полка с боеприпасами (ID: 563)
+[10/24/2022 19:03:53]
+  Outer wall repaired by Jackie Gumbs
+[10/24/2022 19:03:54]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:03:55]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:03:55]
+  Inner wall breached by David Monroe
+[10/24/2022 19:03:55]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:03:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:55]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:03:56]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:03:56]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:03:57]
+  Joshua Weaver: Мне нужно подводное снаряжение!
+[10/24/2022 19:03:59]
+  Todd Preston: Надо найти водолазный скафандр!
+[10/24/2022 19:03:59]
+  Joyce Roman: Мне нужно подводное снаряжение!
+[10/24/2022 19:03:59]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:00]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:04:00]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:04:01]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:01]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[10/24/2022 19:04:01]
+  Jackie Gumbs unequipped Сварочный аппарат
+[10/24/2022 19:04:02]
+  Joshua Weaver: Ищу безопасное место!
+[10/24/2022 19:04:02]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:04:04]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:04]
+  Pete Quinn started repairing Кабельная коробка
+[10/24/2022 19:04:05]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:04:05]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:05]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:04:05]
+  Pete Quinn equipped Сварочный аппарат
+[10/24/2022 19:04:05]
+  Pete Quinn unequipped Сварочный аппарат
+[10/24/2022 19:04:05]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:04:05]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:04:05]
+  Pete Quinn equipped Гаечный ключ
+[10/24/2022 19:04:05]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:04:05]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:04:06]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 146)
+[10/24/2022 19:04:06]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:04:07]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:04:07]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 146)
+[10/24/2022 19:04:07]
+  Lucas Freeman unequipped Сварочный аппарат
+[10/24/2022 19:04:07]
+  Lucas Freeman equipped Сварочный аппарат
+[10/24/2022 19:04:07]
+  Lucas Freeman unequipped Сварочный аппарат
+[10/24/2022 19:04:07]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:04:08]
+  Lucas Freeman: Надо найти водолазный скафандр!
+[10/24/2022 19:04:09]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:04:09]
+  Pete Quinn equipped Гаечный ключ
+[10/24/2022 19:04:09]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:04:09]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:04:09]
+  Pete Quinn failed to repair Кабельная коробка
+[10/24/2022 19:04:09]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:10]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[10/24/2022 19:04:10]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:04:10]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:04:11]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:12]
+  Macey Avery: Надо найти водолазный скафандр!
+[10/24/2022 19:04:12]
+  Joshua Weaver: У меня кровь!
+[10/24/2022 19:04:12]
+  Inner wall breached by David Monroe
+[10/24/2022 19:04:12]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:13]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:04:13]
+  Pete Quinn equipped Гаечный ключ
+[10/24/2022 19:04:14]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:04:14]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:04:14]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:04:14]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[10/24/2022 19:04:16]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:04:16]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:04:16]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:16]
+  Bettyann Lester: Загружаю в реактор дополнительное топливо!
+[10/24/2022 19:04:17]
+  Bettyann Lester equipped Топливный стержень
+[10/24/2022 19:04:18]
+  Jackie Gumbs equipped Сварочный аппарат
+[10/24/2022 19:04:19]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:04:19]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:04:19]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:20]
+  Inner wall breached by David Monroe
+[10/24/2022 19:04:20]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:20]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:04:20]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:04:21]
+  Pete Quinn started repairing Кабельная коробка
+[10/24/2022 19:04:21]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:21]
+  Joyce Roman equipped Топливный стержень
+[10/24/2022 19:04:21]
+  Outer wall repaired by Jackie Gumbs
+[10/24/2022 19:04:21]
+  Jackie Gumbs: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/24/2022 19:04:22]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:04:23]
+  Joshua Weaver: Помогите мне!
+[10/24/2022 19:04:24]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:04:25]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:25]
+  Joshua Weaver used Гаечный ключ on David Monroe.
+[10/24/2022 19:04:26]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:27]
+  Lucas Freeman started repairing Малый насос
+[10/24/2022 19:04:27]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:30]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:04:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:30]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:04:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:31]
+  Bettyann Lester equipped Водолазный скафандр
+[10/24/2022 19:04:31]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:31]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:04:31]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:04:31]
+  Pete Quinn equipped Гаечный ключ
+[10/24/2022 19:04:31]
+  Pete Quinn: Надо найти водолазный скафандр!
+[10/24/2022 19:04:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:31]
+  Joshua Weaver unequipped Гаечный ключ
+[10/24/2022 19:04:31]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:04:32]
+  David Monroe closed Настраиваемая дверь
+[10/24/2022 19:04:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:33]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:04:33]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:04:33]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:04:33]
+  Joshua Weaver equipped Гаечный ключ
+[10/24/2022 19:04:33]
+  Joshua Weaver opened Настраиваемая дверь
+[10/24/2022 19:04:33]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:04:34]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:04:34]
+  David Monroe used Нож ныряльщика on Joshua Weaver.
+[10/24/2022 19:04:34]
+  Jackie Gumbs unequipped Сварочный аппарат
+[10/24/2022 19:04:35]
+  David Monroe unequipped Нож ныряльщика
+[10/24/2022 19:04:41]
+  Lucas Freeman started repairing Двигатель
+[10/24/2022 19:04:44]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:04:47]
+  Macey Avery started repairing Малый насос
+[10/24/2022 19:04:48]
+  kynlan4ic dropped Водолазный скафандр
+[10/24/2022 19:04:49]
+  David Monroe opened Настраиваемый люк
+[10/24/2022 19:04:50]
+  igameCrog used item Морфин
+[10/24/2022 19:04:51]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:04:51]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:04:51]
+  Bettyann Lester equipped Водолазный скафандр
+[10/24/2022 19:04:55]
+  Macey Avery: Мне нужно подводное снаряжение!
+[10/24/2022 19:04:55]
+  Bettyann Lester: Мне нужно подводное снаряжение!
+[10/24/2022 19:04:56]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:04:57]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:04:57]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:04:58]
+  iliya_kind equipped Закаленный лом
+[10/24/2022 19:04:58]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:04:58]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:04:58]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:04:58]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:04:59]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:05:08]
+  David Monroe equipped Сварочный аппарат
+[10/24/2022 19:05:09]
+  kynlan4ic: Macey Avery, займись ремонтом поврежденных систем!
+[10/24/2022 19:05:10]
+  Macey Avery: Есть!
+[10/24/2022 19:05:10]
+  kynlan4ic: Lucas Freeman, займись ремонтом поврежденных систем!
+[10/24/2022 19:05:10]
+  Pete Quinn started repairing Батарея
+[10/24/2022 19:05:10]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:05:11]
+  Lucas Freeman: Вас понял!
+[10/24/2022 19:05:12]
+  Lucas Freeman: Мне нужно подводное снаряжение!
+[10/24/2022 19:05:15]
+  David Monroe closed Настраиваемая дверь
+[10/24/2022 19:05:15]
+  David Monroe closed Настраиваемый люк
+[10/24/2022 19:05:17]
+  Macey Avery started repairing Дверь с кнопками
+[10/24/2022 19:05:21]
+  Lucas Freeman started repairing Дверь с кнопками
+[10/24/2022 19:05:21]
+  Macey Avery started repairing Настраиваемый люк
+[10/24/2022 19:05:22]
+  Pete Quinn started repairing Батарея
+[10/24/2022 19:05:27]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:05:27]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:05:27]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:05:28]
+  Joshua Weaver has died (Cause of death: Кровопотеря)
+[10/24/2022 19:05:36]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:05:36]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:05:36]
+  Outer wall repaired by David Monroe
+[10/24/2022 19:05:37]
+  Outer wall repaired by David Monroe
+[10/24/2022 19:05:37]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:05:37]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:05:37]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:05:37]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:05:39]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:05:39]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:05:40]
+  Lucas Freeman started repairing Суперконденсатор
+[10/24/2022 19:05:40]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:40]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:41]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:05:41]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:05:41]
+  Outer wall repaired by David Monroe
+[10/24/2022 19:05:42]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:05:42]
+  Pete Quinn equipped Гаечный ключ
+[10/24/2022 19:05:42]
+  Pete Quinn unequipped Гаечный ключ
+[10/24/2022 19:05:42]
+  Pete Quinn equipped Отвертка
+[10/24/2022 19:05:42]
+  David Monroe opened Настраиваемая дверь
+[10/24/2022 19:05:42]
+  Pete Quinn unequipped Отвертка
+[10/24/2022 19:05:42]
+  Trudy Little opened Настраиваемая дверь с окном
+[10/24/2022 19:05:43]
+  Joshua Weaver equipped Сварочный аппарат
+[10/24/2022 19:05:43]
+  Rob Planck equipped Сварочный аппарат
+[10/24/2022 19:05:43]
+  Joshua Weaver: Эти проклятые создания тут повсюду!
+[10/24/2022 19:05:43]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:05:43]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:05:44]
+  Rob Planck: Помогите!
+[10/24/2022 19:05:44]
+  Macey Avery started repairing Суперконденсатор
+[10/24/2022 19:05:44]
+  Todd Preston: Мне нужно подводное снаряжение!
+[10/24/2022 19:05:44]
+  Inner wall repaired by David Monroe
+[10/24/2022 19:05:44]
+  Lucas Freeman failed to repair Суперконденсатор
+[10/24/2022 19:05:45]
+  Todd Preston has died (Cause of death: Баротравма)
+[10/24/2022 19:05:46]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:46]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:47]
+  Outer wall repaired by David Monroe
+[10/24/2022 19:05:48]
+  Lucas Freeman started repairing Суперконденсатор
+[10/24/2022 19:05:48]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:48]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:50]
+  Inner wall repaired by David Monroe
+[10/24/2022 19:05:50]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:50]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:50]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:50]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:51]
+  Macey Avery started repairing Суперконденсатор
+[10/24/2022 19:05:51]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:51]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:52]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:52]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:52]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:52]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:53]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:53]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:53]
+  Lucas Freeman failed to repair Кабельная коробка
+[10/24/2022 19:05:53]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:53]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:54]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:54]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:54]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:54]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:54]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:54]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:55]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:55]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:55]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:55]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:55]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:55]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  Inner wall repaired by David Monroe
+[10/24/2022 19:05:56]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:56]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  David Monroe unequipped Сварочный аппарат
+[10/24/2022 19:05:57]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:57]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:05:58]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:00]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:00]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:00]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:00]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:00]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:00]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:01]
+  Macey Avery started repairing Кабельная коробка
+[10/24/2022 19:06:04]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:04]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:11]
+  Macey Avery started repairing Кабельная коробка
+[10/24/2022 19:06:15]
+  Joshua Weaver unequipped Сварочный аппарат
+[10/24/2022 19:06:17]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:06:17]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:06:17]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:06:17]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:06:19]
+  Bettyann Lester: Мне нужно подводное снаряжение!
+[10/24/2022 19:06:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:21]
+  Lucas Freeman started repairing Кабельная коробка
+[10/24/2022 19:06:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:21]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:06:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:21]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:06:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:22]
+  Rob Planck unequipped Сварочный аппарат
+[10/24/2022 19:06:23]
+  kynlan4ic picked up Водолазный скафандр
+[10/24/2022 19:06:23]
+  Macey Avery started repairing Кабельная коробка
+[10/24/2022 19:06:24]
+  Lucas Freeman started repairing Ядерный реактор
+[10/24/2022 19:06:24]
+  Jackie Gumbs: Мне нужно подводное снаряжение!
+[10/24/2022 19:06:26]
+  Joshua Weaver equipped Водолазный скафандр
+[10/24/2022 19:06:27]
+  Pete Quinn: Надо найти водолазный скафандр!
+[10/24/2022 19:06:31]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:06:31]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:06:31]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:06:31]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:06:32]
+  Jackie Gumbs equipped Сварочный аппарат
+[10/24/2022 19:06:32]
+  Outer wall repaired by Jackie Gumbs
+[10/24/2022 19:06:32]
+  Jackie Gumbs: Воздушный шлюз: протечек не осталось!
+[10/24/2022 19:06:33]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:33]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:33]
+  Joshua Weaver equipped Одноразовый водолазный скафандр
+[10/24/2022 19:06:33]
+  iliya_kind placed Одноразовый водолазный скафандр in Human
+[10/24/2022 19:06:34]
+  Rob Planck: Мне нужно подводное снаряжение!
+[10/24/2022 19:06:35]
+  Lucas Freeman started repairing Генератор кислорода
+[10/24/2022 19:06:35]
+  Pete Quinn equipped Сварочный аппарат
+[10/24/2022 19:06:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:36]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:36]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:06:37]
+  Outer wall repaired by Pete Quinn
+[10/24/2022 19:06:37]
+  Pete Quinn: Пункт управления: выполняю ремонт. Осталось несколько отверстий!
+[10/24/2022 19:06:38]
+  Jackie Gumbs unequipped Сварочный аппарат
+[10/24/2022 19:06:39]
+  Macey Avery failed to repair Малый насос
+[10/24/2022 19:06:40]
+  Outer wall repaired by Pete Quinn
+[10/24/2022 19:06:40]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:40]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:40]
+  Pete Quinn: Пункт управления: протечек не осталось!
+[10/24/2022 19:06:41]
+  Pete Quinn unequipped Сварочный аппарат
+[10/24/2022 19:06:41]
+  Lucas Freeman started repairing Малый насос
+[10/24/2022 19:06:43]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:43]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:44]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:44]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:45]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:45]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:46]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:46]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:46]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:46]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:46]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:46]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:47]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:49]
+  Jackie Gumbs equipped Водолазный скафандр
+[10/24/2022 19:06:49]
+  Joyce Roman equipped Шоковая дубинка
+[10/24/2022 19:06:49]
+  Joyce Roman: А-А-А-А-А-А!
+[10/24/2022 19:06:51]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:51]
+  Lucas Freeman started repairing Зарядник магнитной пушки
+[10/24/2022 19:06:51]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:51]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:06:52]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:06:53]
+  Joyce Roman: У меня кровь!
+[10/24/2022 19:06:53]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:06:53]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:06:54]
+  Macey Avery started repairing Зарядник магнитной пушки
+[10/24/2022 19:06:54]
+  Joyce Roman: Мне нужно подводное снаряжение!
+[10/24/2022 19:06:54]
+  Joyce Roman used Шоковая дубинка (Аккумулятор) on Hammerheadgold.
+[10/24/2022 19:07:00]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:07:00]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:07:00]
+  iliya_kind equipped Одноразовый водолазный скафандр
+[10/24/2022 19:07:01]
+  Lucas Freeman started repairing Навигационный терминал
+[10/24/2022 19:07:01]
+  Joyce Roman used Шоковая дубинка (Аккумулятор) on Hammerheadgold.
+[10/24/2022 19:07:02]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:07:02]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:07:03]
+  Joyce Roman equipped Водолазный скафандр
+[10/24/2022 19:07:03]
+  Macey Avery started repairing Навигационный терминал
+[10/24/2022 19:07:03]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:07:03]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:07:04]
+  Joyce Roman used Шоковая дубинка (Аккумулятор) on Hammerheadgold.
+[10/24/2022 19:07:07]
+  Lucas Freeman: Надо найти водолазный скафандр!
+[10/24/2022 19:07:08]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:07:08]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:07:09]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:07:09]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:07:09]
+  Pete Quinn equipped Водолазный скафандр
+[10/24/2022 19:07:11]
+  Lucas Freeman started repairing Кабельная коробка
+[10/24/2022 19:07:12]
+  Joyce Roman has died (Cause of death: Укусы)
+[10/24/2022 19:07:13]
+  Macey Avery: Надо найти водолазный скафандр!
+[10/24/2022 19:07:14]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[10/24/2022 19:07:16]
+  Pete Quinn: Мне нужен кислород!
+[10/24/2022 19:07:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:18]
+  Lucas Freeman: Меняем кислородные баллоны!
+[10/24/2022 19:07:18]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:07:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:18]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:07:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:18]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:07:18]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:07:18]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:07:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:18]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:07:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:20]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:07:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:20]
+  Macey Avery started repairing Кабельная коробка
+[10/24/2022 19:07:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:21]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:07:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:07:22]
+  Lucas Freeman failed to repair Кабельная коробка
+[10/24/2022 19:07:27]
+  Macey Avery started repairing Кабельная коробка
+[10/24/2022 19:07:28]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:07:30]
+  Lucas Freeman started repairing Батарея
+[10/24/2022 19:07:31]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 19:07:31]
+  kynlan4ic dropped Кислородный баллон
+[10/24/2022 19:07:31]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 4174)
+[10/24/2022 19:07:33]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:07:33]
+  Macey Avery started repairing Батарея
+[10/24/2022 19:07:36]
+  iliya_kind equipped Нож ныряльщика
+[10/24/2022 19:07:37]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:07:37]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:07:41]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:07:41]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:07:41]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:07:41]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:07:42]
+  Macey Avery started repairing Кабельная коробка
+[10/24/2022 19:07:42]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:07:42]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:07:42]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:07:42]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:07:43]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:07:43]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:07:43]
+  Lucas Freeman failed to repair Малый насос
+[10/24/2022 19:07:47]
+  Rob Planck equipped Водолазный скафандр
+[10/24/2022 19:07:47]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:07:47]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:07:47]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:07:47]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:07:49]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 19:07:50]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:07:50]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:07:50]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 19:07:50]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:07:50]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:07:50]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 19:07:51]
+  Macey Avery started repairing Малый насос
+[10/24/2022 19:07:51]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 19:07:52]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 165)
+[10/24/2022 19:07:53]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 165)
+[10/24/2022 19:07:53]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:07:53]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:07:55]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:07:55]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:07:55]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/24/2022 19:07:55]
+  iliya_kind dropped Водолазный скафандр
+[10/24/2022 19:07:55]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 19:07:55]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/24/2022 19:07:56]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:07:56]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:07:57]
+  Lucas Freeman started repairing Суперконденсатор
+[10/24/2022 19:08:00]
+  Joshua Weaver equipped Водолазный скафандр
+[10/24/2022 19:08:01]
+  Rob Planck equipped Водолазный скафандр
+[10/24/2022 19:08:02]
+  Macey Avery started repairing Суперконденсатор
+[10/24/2022 19:08:03]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:08:07]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:08:13]
+  Joshua Weaver equipped Водолазный скафандр
+[10/24/2022 19:08:13]
+  The respawn shuttle is leaving.
+[10/24/2022 19:08:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:19]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:08:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:19]
+  iliya_kind picked up Сварочный аппарат
+[10/24/2022 19:08:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:20]
+  Outer wall breached by kynlan4ic
+[10/24/2022 19:08:20]
+  Trudy Little equipped Гаечный ключ
+[10/24/2022 19:08:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:20]
+  Outer wall breached by kynlan4ic
+[10/24/2022 19:08:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:21]
+  Trudy Little: Ищу безопасное место!
+[10/24/2022 19:08:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:08:24]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:24]
+  Inner wall breached by Hammerheadgold
+[10/24/2022 19:08:24]
+  Inner wall breached by Hammerheadgold
+[10/24/2022 19:08:24]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:36]
+  Joshua Weaver: Мне нужно подводное снаряжение!
+[10/24/2022 19:08:39]
+  Rob Planck: Мне нужно подводное снаряжение!
+[10/24/2022 19:08:39]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:44]
+  Macey Avery: Надо найти водолазный скафандр!
+[10/24/2022 19:08:45]
+  iliya_kind equipped Пистолет-пулемет
+[10/24/2022 19:08:45]
+  The respawn shuttle has left.
+[10/24/2022 19:08:45]
+  iliya_kind equipped Сварочный аппарат
+[10/24/2022 19:08:51]
+  Macey Avery equipped Сварочный аппарат
+[10/24/2022 19:08:51]
+  Jackie Gumbs: Надо найти водолазный скафандр!
+[10/24/2022 19:08:52]
+  Trudy Little unequipped Гаечный ключ
+[10/24/2022 19:08:53]
+  Macey Avery unequipped Сварочный аппарат
+[10/24/2022 19:08:58]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:58]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:58]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:58]
+  Outer wall breached by Hammerheadgold
+[10/24/2022 19:08:58]
+  Lucas Freeman: Мне нужно подводное снаряжение!
+[10/24/2022 19:08:58]
+  Pete Quinn: Надо найти водолазный скафандр!
+[10/24/2022 19:09:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:00]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:09:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:00]
+  Bettyann Lester: Мне нужно подводное снаряжение!
+[10/24/2022 19:09:00]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:09:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:01]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:09:01]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:09:01]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:09:01]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:09:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:01]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:09:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:09]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:09:09]
+  iliya_kind picked up Кислородный баллон
+[10/24/2022 19:09:09]
+  iliya_kind dropped Кислородный баллон
+[10/24/2022 19:09:09]
+  iliya_kind placed Кислородный баллон in Водолазный скафандр (ID: 4175)
+[10/24/2022 19:09:10]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:09:12]
+  Lucas Freeman failed to repair Батарея
+[10/24/2022 19:09:14]
+  Macey Avery started repairing Батарея
+[10/24/2022 19:09:16]
+  Lucas Freeman started repairing Батарея
+[10/24/2022 19:09:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:18]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:09:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:18]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:09:18]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:09:18]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:09:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:19]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:09:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:19]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[10/24/2022 19:09:19]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:09:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:20]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:09:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:20]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:09:20]
+  Lucas Freeman failed to repair Батарея
+[10/24/2022 19:09:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:21]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:09:21]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:09:21]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 11.25 Кровотечение: 0.75 Оглушение: 0.025
+[10/24/2022 19:09:21]
+  Macey Avery: Невозможно добраться: Насос!
+[10/24/2022 19:09:21]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:09:21]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:09:22]
+  Macey Avery started repairing Батарея
+[10/24/2022 19:09:24]
+  igameCrog has died (Cause of death: Нехватка кислорода)
+[10/24/2022 19:09:24]
+  Lucas Freeman started repairing Батарея
+[10/24/2022 19:09:25]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:09:25]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:09:26]
+  Rob Planck: Мне нужно подводное снаряжение!
+[10/24/2022 19:09:28]
+  Lucas Freeman: Невозможно добраться: Насос!
+[10/24/2022 19:09:29]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:09:30]
+  Macey Avery unequipped Отвертка
+[10/24/2022 19:09:30]
+  Macey Avery equipped Сварочный аппарат
+[10/24/2022 19:09:30]
+  Macey Avery: Воздушный шлюз: минус одна протечка!
+[10/24/2022 19:09:36]
+  Dispatching the respawn shuttle.
+[10/24/2022 19:09:36]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/24/2022 19:09:36]
+  Respawning bot Joyce Roman as Офицер службы безопасности
+[10/24/2022 19:09:36]
+  Respawning bot Todd Preston as Помощник
+[10/24/2022 19:09:36]
+  Respawning bot Trudy Little as Инженер
+[10/24/2022 19:09:36]
+  Respawning bot Joshua Weaver as Механик
+[10/24/2022 19:09:36]
+  Respawning bot Joyce Roman as Офицер службы безопасности
+[10/24/2022 19:09:36]
+  Respawning bot Todd Preston as Помощник
+[10/24/2022 19:09:36]
+  Joyce Roman: Мне нужно подводное снаряжение!
+[10/24/2022 19:09:37]
+  Jackie Gumbs equipped Сварочный аппарат
+[10/24/2022 19:09:38]
+  Outer wall repaired by Jackie Gumbs
+[10/24/2022 19:09:38]
+  Lucas Freeman equipped Гаечный ключ
+[10/24/2022 19:09:39]
+  Macey Avery unequipped Сварочный аппарат
+[10/24/2022 19:09:39]
+  Macey Avery equipped Гаечный ключ
+[10/24/2022 19:09:39]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 19:09:42]
+  Lucas Freeman unequipped Гаечный ключ
+[10/24/2022 19:09:42]
+  Lucas Freeman equipped Отвертка
+[10/24/2022 19:09:42]
+  Macey Avery unequipped Гаечный ключ
+[10/24/2022 19:09:42]
+  Macey Avery equipped Отвертка
+[10/24/2022 19:09:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 19:09:45]
+  Lucas Freeman started repairing Суперконденсатор
+[10/24/2022 19:09:45]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/24/2022 19:09:45]
+  Hammerheadgold attacked by kynlan4ic. Рваная рана: 8.25 Кровотечение: 0.1 Оглушение: 0.025
+[10/24/2022 19:09:45]
+  Jackie Gumbs: Пункт управления: минус одна протечка!
+[10/24/2022 19:09:45]
+  Macey Avery started repairing Навигационный терминал
+[10/24/2022 19:09:47]
+  igameCrog picked up Одноразовый водолазный скафандр
+[10/24/2022 19:09:49]
+  Lucas Freeman unequipped Отвертка
+[10/24/2022 19:09:49]
+  Lucas Freeman equipped Гаечный ключ

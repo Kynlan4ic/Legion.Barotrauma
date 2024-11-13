@@ -1,0 +1,128 @@
+﻿[11/09/2022 21:17:09]
+  Starting the server...
+[11/09/2022 21:17:09]
+  Using SteamP2P networking.
+[11/09/2022 21:17:09]
+  Server started
+[11/09/2022 21:17:09]
+  Игрок kynlan4ic присоединился к серверу.
+[11/09/2022 21:17:09]
+  Saving client permissions
+[11/09/2022 21:17:10]
+  Saving client permissions
+[11/09/2022 21:17:10]
+  Gamemode changed to Кампания
+[11/09/2022 21:19:18]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/09/2022 21:20:49]
+  Игрок rus7ak присоединился к серверу.
+[11/09/2022 21:20:49]
+  Saving client permissions
+[11/09/2022 21:21:16]
+  kynlan4ic changed PlayStyle to Serious
+[11/09/2022 21:21:16]
+  kynlan4ic changed LosMode to Transparent
+[11/09/2022 21:21:16]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/09/2022 21:21:16]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/09/2022 21:21:18]
+  kynlan4ic is ready to start the game.
+[11/09/2022 21:21:25]
+  rus7ak is ready to start the game.
+[11/09/2022 21:21:28]
+  Starting a new round...
+[11/09/2022 21:21:29]
+  kynlan4ic is not ready to start the game.
+[11/09/2022 21:21:33]
+  rus7ak is not ready to start the game.
+[11/09/2022 21:21:52]
+  Миссия: Карта руин
+[11/09/2022 21:21:52]
+  Для дальнейших исследований ученым потребовалось составить карту руин в точке «Город Salthole». Отправьтесь в руины и просканируйте отмеченные комнаты предоставленным сканером.
+[11/09/2022 21:21:53]
+  Game mode: Кампания
+[11/09/2022 21:21:53]
+  Submarine: Orca
+[11/09/2022 21:21:53]
+  Level seed: Minos LineaSalthole
+[11/09/2022 21:21:53]
+  Mission: Карта руин
+[11/09/2022 21:21:53]
+  Candace Berner equipped Отвертка
+[11/09/2022 21:21:53]
+  Ulof Hallett equipped Лом
+[11/09/2022 21:21:53]
+  Masako Atterbury equipped Сварочный аппарат
+[11/09/2022 21:21:55]
+  Round started.
+[11/09/2022 21:21:57]
+  Fractalguardian2 equipped Паровая пушка стража
+[11/09/2022 21:21:57]
+  Fractalguardian equipped Гарпун стража
+[11/09/2022 21:22:05]
+  Roslyn Fesler equipped Медаль коалиции
+[11/09/2022 21:22:10]
+  Roslyn Marquez: rus7ak проходит лечение здесь: моторный отсек!
+[11/09/2022 21:22:11]
+  Roslyn Marquez: rus7ak нуждается в помощи! Срочно требуется экстракт взрывного граната, фентанил, опиум или морфин!
+[11/09/2022 21:22:18]
+  Roslyn Marquez equipped Экстракт взрывного граната
+[11/09/2022 21:22:19]
+  Roslyn Fesler equipped Топливный стержень
+[11/09/2022 21:22:41]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[11/09/2022 21:22:43]
+  Priscilla Jones: Кто-нибудь слышал что-нибудь о профсоюзах?
+[11/09/2022 21:22:46]
+  kynlan4ic equipped Металлический ящик
+[11/09/2022 21:22:51]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 192)
+[11/09/2022 21:22:51]
+  kynlan4ic equipped Металлический ящик
+[11/09/2022 21:22:53]
+  Roslyn Fesler equipped Сканер руин
+[11/09/2022 21:22:54]
+  kynlan4ic dropped Металлический ящик
+[11/09/2022 21:22:57]
+  kynlan4ic picked up Металлический ящик
+[11/09/2022 21:23:00]
+  kynlan4ic picked up Лейка
+[11/09/2022 21:23:01]
+  kynlan4ic picked up Ториевый топливный стержень
+[11/09/2022 21:23:01]
+  kynlan4ic picked up Ториевый топливный стержень
+[11/09/2022 21:23:02]
+  kynlan4ic dropped Металлический ящик
+[11/09/2022 21:23:11]
+  Roslyn Marquez: rus7ak получает первую помощь здесь: моторный отсек!
+[11/09/2022 21:23:13]
+  Roslyn Marquez: rus7ak чувствует себя хорошо!
+[11/09/2022 21:23:13]
+  kynlan4ic placed Ториевый топливный стержень in Средний стальной шкаф (ID: 806)
+[11/09/2022 21:23:13]
+  kynlan4ic placed Ториевый топливный стержень in Средний стальной шкаф (ID: 806)
+[11/09/2022 21:23:20]
+  Игрок rus7ak отключился от игры. Причина: Время истекло
+[11/09/2022 21:23:54]
+  kynlan4ic picked up Медаль коалиции
+[11/09/2022 21:23:54]
+  kynlan4ic picked up Медаль коалиции
+[11/09/2022 21:23:54]
+  kynlan4ic picked up Медаль коалиции
+[11/09/2022 21:23:54]
+  kynlan4ic picked up Медаль коалиции
+[11/09/2022 21:23:54]
+  kynlan4ic picked up Медаль коалиции
+[11/09/2022 21:24:15]
+  Арти Дулитл equipped Фосфор
+[11/09/2022 21:24:23]
+  Арти Дулитл equipped Фосфор
+[11/09/2022 21:24:25]
+  Roslyn Fesler equipped Сканер руин
+[11/09/2022 21:24:36]
+  Roslyn Fesler equipped Сканер руин
+[11/09/2022 21:24:41]
+  Client "kynlan4ic" ended the round.
+[11/09/2022 21:24:41]
+  Ending the round...

@@ -1,0 +1,1604 @@
+﻿[10/24/2022 23:37:31]
+  Saving client permissions
+[10/24/2022 23:37:31]
+  Saving client permissions
+[10/24/2022 23:38:04]
+  kynlan4ic changed PlayStyle to Casual
+[10/24/2022 23:38:04]
+  kynlan4ic changed LosMode to None
+[10/24/2022 23:38:04]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/24/2022 23:38:04]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/24/2022 23:38:11]
+  Игрок igameCrog присоединился к серверу.
+[10/24/2022 23:38:11]
+  Saving client permissions
+[10/24/2022 23:39:16]
+  Игрок iliya_kind присоединился к серверу.
+[10/24/2022 23:39:16]
+  Saving client permissions
+[10/24/2022 23:39:20]
+  igameCrog is ready to start the game.
+[10/24/2022 23:39:27]
+  iliya_kind is ready to start the game.
+[10/24/2022 23:39:31]
+  kynlan4ic changed PlayStyle to Casual
+[10/24/2022 23:39:31]
+  kynlan4ic changed LosMode to None
+[10/24/2022 23:39:31]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/24/2022 23:39:31]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/24/2022 23:39:33]
+  kynlan4ic is ready to start the game.
+[10/24/2022 23:39:34]
+  Client "kynlan4ic" started the round.
+[10/24/2022 23:39:34]
+  Starting a new round...
+[10/24/2022 23:40:02]
+  Миссия: Зачистка руин
+[10/24/2022 23:40:02]
+  Уничтожьте всех стражей и их защитные модули в руинах в точке «Аванпост Milda».
+[10/24/2022 23:40:02]
+  Game mode: Миссия
+[10/24/2022 23:40:02]
+  Submarine: Berilia
+[10/24/2022 23:40:02]
+  Level seed: O3kb2EyY
+[10/24/2022 23:40:02]
+  Mission: Зачистка руин
+[10/24/2022 23:40:02]
+  Round started.
+[10/24/2022 23:40:02]
+  Fractalguardian equipped Гарпун стража
+[10/24/2022 23:40:02]
+  Fractalguardian equipped Гарпун стража
+[10/24/2022 23:40:03]
+  Fractalguardian2 equipped Паровая пушка стража
+[10/24/2022 23:40:03]
+  Fractalguardian equipped Гарпун стража
+[10/24/2022 23:40:03]
+  Fractalguardian equipped Гарпун стража
+[10/24/2022 23:40:03]
+  Susy Terry: Мне на днях в руки попала старая памятка для моряков.
+[10/24/2022 23:40:03]
+  Susy Terry: И из-за этой странной древней терминологии я многих вещей там вообще не понимаю.
+[10/24/2022 23:40:05]
+  Susy Terry: Вот, например, что такое астролябия?
+[10/24/2022 23:40:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:40:20]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:40:33]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:40:34]
+  kynlan4ic: Carmen Escobar, займись оружием!
+[10/24/2022 23:40:35]
+  Carmen Escobar: Принято.
+[10/24/2022 23:40:37]
+  kynlan4ic: iliya_kind, встань за орудия!
+[10/24/2022 23:40:40]
+  kynlan4ic: Carmen Escobar, займись орудиями!
+[10/24/2022 23:40:42]
+  Carmen Escobar: Есть!
+[10/24/2022 23:40:53]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:40:53]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:40:53]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:40:53]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:40:53]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:40:53]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:40:55]
+  iliya_kind placed Наручники in Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:55]
+  iliya_kind removed Магазин для ПП from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:55]
+  iliya_kind picked up Магазин для ПП
+[10/24/2022 23:40:58]
+  iliya_kind placed Шоковая дубинка in Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind removed Резиновый патрон для дробовика from Средний стальной шкаф (ID: 773)
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:40:58]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:41:00]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:00]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:00]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:00]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:00]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:00]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:05]
+  Outer wall breached by igameCrog
+[10/24/2022 23:41:07]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:12]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/24/2022 23:41:23]
+  igameCrog picked up Подводная маска
+[10/24/2022 23:41:25]
+  igameCrog picked up Кислородный баллон
+[10/24/2022 23:41:26]
+  igameCrog placed Морфин in Форма врача (ID: 6908)
+[10/24/2022 23:41:29]
+  igameCrog placed Морфин in Форма врача (ID: 6908)
+[10/24/2022 23:41:30]
+  igameCrog picked up Бинт
+[10/24/2022 23:41:31]
+  iliya_kind placed Магазин для ПП in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:31]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:31]
+  iliya_kind picked up Подводное ружье
+[10/24/2022 23:41:32]
+  igameCrog placed Бинт in Форма врача (ID: 6908)
+[10/24/2022 23:41:32]
+  igameCrog placed Бинт in Форма врача (ID: 6908)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind placed Резиновый патрон для дробовика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:33]
+  iliya_kind picked up Револьвер
+[10/24/2022 23:41:38]
+  igameCrog picked up Водолазный скафандр
+[10/24/2022 23:41:40]
+  Carmen Escobar: У меня новая цель! Не могу понять, что это такое...
+[10/24/2022 23:41:40]
+  Carmen Escobar: Стреляю!
+[10/24/2022 23:41:40]
+  Carmen Escobar launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 23:41:40]
+  iliya_kind is a traitor and the current goals are:
+- Священная кровь некроморфа была спрятана в открытой вентиляции. Найдите эту кровь быстро, пока кто-нибудь еще не наткнулся на них! (В процессе)
+
+[10/24/2022 23:41:42]
+  Carmen Escobar launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 23:41:43]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:41:43]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:41:43]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:41:43]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:41:43]
+  iliya_kind placed Взрывной гарпун in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind placed Взрывной гарпун in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind placed Взрывной гарпун in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind placed Взрывной гарпун in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind placed Взрывной гарпун in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind placed Взрывной гарпун in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind removed Огнемет from Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:43]
+  iliya_kind picked up Огнемет
+[10/24/2022 23:41:44]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:41:44]
+  Carmen Escobar launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 23:41:45]
+  Outer wall breached by Tigerthresher
+[10/24/2022 23:41:46]
+  iliya_kind placed Патрон револьвера in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind placed Патрон револьвера in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind placed Патрон револьвера in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind placed Патрон револьвера in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind placed Патрон револьвера in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind placed Патрон револьвера in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind removed Пистолет-пулемет from Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:46]
+  iliya_kind picked up Пистолет-пулемет
+[10/24/2022 23:41:47]
+  iliya_kind picked up Дробовик
+[10/24/2022 23:41:48]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:41:49]
+  Outer wall breached by Tigerthresher
+[10/24/2022 23:41:50]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:50]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:50]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:50]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:50]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:50]
+  iliya_kind picked up Патрон револьвера
+[10/24/2022 23:41:52]
+  Carmen Escobar launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 23:41:52]
+  igameCrog picked up Яйца велонацепса каликса
+[10/24/2022 23:41:53]
+  Outer wall breached by Tigerthresher
+[10/24/2022 23:41:53]
+  Carmen Escobar launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 23:41:54]
+  Bonethresher has died (Cause of death: Рваная рана)
+[10/24/2022 23:41:55]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:41:55]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:41:55]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:41:55]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:41:55]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:41:55]
+  iliya_kind picked up Взрывной гарпун
+[10/24/2022 23:41:56]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:41:57]
+  Carmen Escobar launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/24/2022 23:41:58]
+  iliya_kind placed Нож ныряльщика in Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:58]
+  iliya_kind removed Магазин для ПП from Защищенный стальной шкаф (ID: 1632)
+[10/24/2022 23:41:58]
+  iliya_kind picked up Магазин для ПП
+[10/24/2022 23:41:59]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:00]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/24/2022 23:42:02]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:42:04]
+  iliya_kind equipped Магазин для ПП
+[10/24/2022 23:42:09]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:42:12]
+  kynlan4ic: Carmen Escobar, защищай команду!
+[10/24/2022 23:42:12]
+  Carmen Escobar equipped Шоковая дубинка
+[10/24/2022 23:42:13]
+  Carmen Escobar: Мне нужно подводное снаряжение!
+[10/24/2022 23:42:13]
+  Carmen Escobar: Слушаюсь!
+[10/24/2022 23:42:15]
+  kynlan4ic: iliya_kind, уничтожь врагов!
+[10/24/2022 23:42:19]
+  iliya_kind equipped Подводное ружье
+[10/24/2022 23:42:20]
+  Outer wall breached by Tigerthresher
+[10/24/2022 23:42:20]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[10/24/2022 23:42:22]
+  Carmen Escobar used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/24/2022 23:42:23]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 40 Кровотечение: 40 Оглушение: 0.5
+[10/24/2022 23:42:23]
+  Carmen Escobar used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/24/2022 23:42:25]
+  Inner wall breached by iliya_kind
+[10/24/2022 23:42:25]
+  iliya_kind equipped Револьвер
+[10/24/2022 23:42:28]
+  iliya_kind equipped Огнемет
+[10/24/2022 23:42:30]
+  Carmen Escobar used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/24/2022 23:42:30]
+  Carmen Escobar: Я теряю много крови!
+[10/24/2022 23:42:32]
+  Carmen Escobar used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/24/2022 23:42:32]
+  Lanny Thompkins equipped Гаечный ключ
+[10/24/2022 23:42:32]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:42:32]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:42:32]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:42:32]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:42:32]
+  Carmen Escobar unequipped Шоковая дубинка
+[10/24/2022 23:42:32]
+  Carmen Escobar equipped Нож ныряльщика
+[10/24/2022 23:42:33]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:42:33]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:42:33]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:42:33]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:42:33]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:42:34]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:42:34]
+  Carmen Escobar used Нож ныряльщика on Tigerthresher.
+[10/24/2022 23:42:34]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:42:34]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:42:34]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:42:34]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:42:35]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:42:35]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:42:35]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:42:35]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:42:35]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:42:36]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:42:36]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:42:36]
+  Carmen Escobar used Нож ныряльщика on Tigerthresher.
+[10/24/2022 23:42:36]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:42:36]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:42:37]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:42:37]
+  Inner wall breached by Bonethresher
+[10/24/2022 23:42:39]
+  Carmen Escobar used Нож ныряльщика on iliya_kind.
+[10/24/2022 23:42:42]
+  Lanny Thompkins unequipped Гаечный ключ
+[10/24/2022 23:42:44]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:42:44]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:42:44]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:42:44]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:42:44]
+  Outer wall breached by Tigerthresher
+[10/24/2022 23:42:44]
+  iliya_kind has died (Cause of death: Укусы)
+[10/24/2022 23:42:45]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:42:45]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:42:45]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:42:46]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:42:46]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:42:48]
+  Carmen Escobar used Нож ныряльщика on Tigerthresher.
+[10/24/2022 23:42:48]
+  Lanny Thompkins equipped Гаечный ключ
+[10/24/2022 23:42:48]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:42:48]
+  Lanny Thompkins unequipped Гаечный ключ
+[10/24/2022 23:42:49]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:42:49]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:42:49]
+  Lanny Thompkins equipped Гаечный ключ
+[10/24/2022 23:42:49]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:42:49]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:42:49]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:42:50]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:42:50]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:42:50]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:42:50]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:42:50]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:42:50]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:42:51]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:42:51]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:42:51]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:42:51]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:42:51]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:42:52]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:42:52]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:42:52]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:42:52]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:42:52]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:42:52]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:42:54]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:42:54]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:42:55]
+  The respawn shuttle is leaving.
+[10/24/2022 23:42:56]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:43:00]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:43:00]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:43:00]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:43:01]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:43:01]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:43:01]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:43:01]
+  Lanny Thompkins unequipped Гаечный ключ
+[10/24/2022 23:43:02]
+  kynlan4ic equipped Револьвер
+[10/24/2022 23:43:02]
+  Carmen Escobar has died (Cause of death: Укусы)
+[10/24/2022 23:43:02]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:43:02]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:43:02]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:43:09]
+  igameCrog used item Яйца велонацепса каликса
+[10/24/2022 23:43:12]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:43:13]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:43:14]
+  igameCrog launched ПУ для глубинных бомб (projectile: Глубинная приманка)
+[10/24/2022 23:43:15]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 23:43:19]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:43:26]
+  The respawn shuttle has left.
+[10/24/2022 23:43:27]
+  Susy Terry: Мне нужно подводное снаряжение!
+[10/24/2022 23:43:27]
+  Lanny Thompkins: Надо найти водолазный скафандр!
+[10/24/2022 23:43:29]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:43:36]
+  Lanny Thompkins equipped Гаечный ключ
+[10/24/2022 23:43:37]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:43:37]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:43:37]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:43:37]
+  Lanny Thompkins: У меня кровь!
+[10/24/2022 23:43:38]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:43:38]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:43:38]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:43:38]
+  Lanny Thompkins used Гаечный ключ on Tigerthresher.
+[10/24/2022 23:43:38]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:43:38]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:43:39]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:43:39]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:43:39]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:43:39]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:43:39]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:43:39]
+  Priscilla Callahan: Надо найти водолазный скафандр!
+[10/24/2022 23:43:39]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:43:39]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:43:40]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:43:41]
+  Lanny Thompkins used Гаечный ключ on Tigerthresher.
+[10/24/2022 23:43:41]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:43:41]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:43:41]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:43:42]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:43:43]
+  Lanny Thompkins used Гаечный ключ on Tigerthresher.
+[10/24/2022 23:43:43]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:43:46]
+  iliya_kind equipped Гранатомет
+[10/24/2022 23:43:46]
+  iliya_kind picked up Гранатомет
+[10/24/2022 23:43:49]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:43:49]
+  Lanny Thompkins used Гаечный ключ on Tigerthresher.
+[10/24/2022 23:43:49]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:43:49]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:43:50]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:43:50]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:43:50]
+  igameCrog is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[10/24/2022 23:43:51]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:43:51]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:43:52]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:43:53]
+  Shin Burke: Надо найти водолазный скафандр!
+[10/24/2022 23:43:53]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:43:54]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:43:56]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:43:59]
+  kynlan4ic picked up Водолазный скафандр
+[10/24/2022 23:44:00]
+  Lanny Thompkins has died (Cause of death: Укусы)
+[10/24/2022 23:44:02]
+  Tigerthresher attacked by iliya_kind. Повреждение глубоких тканей: 50
+[10/24/2022 23:44:02]
+  Inner wall breached by iliya_kind
+[10/24/2022 23:44:02]
+  Inner wall breached by iliya_kind
+[10/24/2022 23:44:02]
+  Inner wall breached by iliya_kind
+[10/24/2022 23:44:02]
+  Inner wall breached by iliya_kind
+[10/24/2022 23:44:03]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:44:03]
+  David Robertson equipped Отвертка
+[10/24/2022 23:44:04]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:44:04]
+  kynlan4ic closed Настраиваемая дверь
+[10/24/2022 23:44:04]
+  kynlan4ic opened Настраиваемая дверь
+[10/24/2022 23:44:04]
+  David Robertson unequipped Отвертка
+[10/24/2022 23:44:05]
+  kynlan4ic opened Настраиваемая дверь
+[10/24/2022 23:44:05]
+  kynlan4ic closed Настраиваемая дверь
+[10/24/2022 23:44:07]
+  kynlan4ic closed Настраиваемая дверь
+[10/24/2022 23:44:07]
+  kynlan4ic opened Настраиваемая дверь
+[10/24/2022 23:44:08]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:44:09]
+  kynlan4ic opened Настраиваемая дверь
+[10/24/2022 23:44:09]
+  kynlan4ic closed Настраиваемая дверь
+[10/24/2022 23:44:11]
+  iliya_kind dropped Гранатомет
+[10/24/2022 23:44:12]
+  iliya_kind equipped Нож ныряльщика
+[10/24/2022 23:44:13]
+  Susy Terry equipped Сварочный аппарат
+[10/24/2022 23:44:13]
+  Susy Terry: Мне нужно подводное снаряжение!
+[10/24/2022 23:44:13]
+  kynlan4ic picked up Подводный скутер
+[10/24/2022 23:44:13]
+  Lanny Thompkins attacked by iliya_kind. Рваная рана: 3.25 Кровотечение: 4.875 Оглушение: 0.2
+[10/24/2022 23:44:13]
+  iliya_kind used Нож ныряльщика on Lanny Thompkins.
+[10/24/2022 23:44:14]
+  kynlan4ic picked up Фонарик
+[10/24/2022 23:44:14]
+  kynlan4ic picked up Аккумулятор
+[10/24/2022 23:44:14]
+  kynlan4ic picked up Аккумулятор
+[10/24/2022 23:44:14]
+  kynlan4ic picked up Аккумулятор
+[10/24/2022 23:44:15]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 23:44:15]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 23:44:15]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 23:44:15]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 23:44:15]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 23:44:15]
+  Inner wall breached by iliya_kind
+[10/24/2022 23:44:15]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/24/2022 23:44:15]
+  iliya_kind used Нож ныряльщика on Tigerthresher.
+[10/24/2022 23:44:16]
+  kynlan4ic picked up Ручной сонар
+[10/24/2022 23:44:17]
+  Lanny Thompkins attacked by iliya_kind. Рваная рана: 3.25 Кровотечение: 4.875 Оглушение: 0.2
+[10/24/2022 23:44:17]
+  iliya_kind used Нож ныряльщика on Lanny Thompkins.
+[10/24/2022 23:44:17]
+  kynlan4ic picked up Сигнальный огонь
+[10/24/2022 23:44:17]
+  kynlan4ic picked up Сигнальный огонь
+[10/24/2022 23:44:17]
+  kynlan4ic picked up Сигнальный огонь
+[10/24/2022 23:44:17]
+  kynlan4ic picked up Сигнальный огонь
+[10/24/2022 23:44:17]
+  kynlan4ic picked up Сигнальный огонь
+[10/24/2022 23:44:19]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/24/2022 23:44:19]
+  iliya_kind used Нож ныряльщика on Tigerthresher.
+[10/24/2022 23:44:19]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:44:23]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 23:44:26]
+  iliya_kind has died (Cause of death: Укусы)
+[10/24/2022 23:44:30]
+  Outer wall repaired by Susy Terry
+[10/24/2022 23:44:30]
+  Susy Terry: Трюм: протечек не осталось!
+[10/24/2022 23:44:30]
+  Susy Terry unequipped Сварочный аппарат
+[10/24/2022 23:44:30]
+  Susy Terry equipped Сварочный аппарат
+[10/24/2022 23:44:31]
+  Outer wall breached by Bonethresher
+[10/24/2022 23:44:37]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:44:37]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:44:37]
+  Respawning bot Lanny Thompkins as Помощник
+[10/24/2022 23:44:37]
+  The respawn shuttle is leaving.
+[10/24/2022 23:44:37]
+  Lanny Thompkins: Надо найти водолазный скафандр!
+[10/24/2022 23:44:38]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:44:46]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:44:56]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:44:59]
+  igameCrog attacked by kynlan4ic. Огнестрельная рана: 9.59 Кровотечение: 12.84375 Оглушение: 0.3
+[10/24/2022 23:45:03]
+  Susy Terry: igameCrog получает первую помощь здесь: пункт управления!
+[10/24/2022 23:45:03]
+  Susy Terry: igameCrog в полном порядке!
+[10/24/2022 23:45:04]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:45:04]
+  Cleopatra Hajek equipped Гаечный ключ
+[10/24/2022 23:45:04]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:45:04]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:45:05]
+  kynlan4ic equipped Металлический ящик
+[10/24/2022 23:45:05]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:45:05]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:45:05]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:45:05]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:45:05]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:45:05]
+  Lanny Thompkins: Я теряю много крови!
+[10/24/2022 23:45:06]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:45:07]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:45:07]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:45:07]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:45:07]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:45:08]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:45:08]
+  The respawn shuttle has left.
+[10/24/2022 23:45:08]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:45:10]
+  kynlan4ic picked up Автоматический дробовик
+[10/24/2022 23:45:14]
+  kynlan4ic dropped Металлический ящик
+[10/24/2022 23:45:16]
+  Lanny Thompkins has died (Cause of death: Укусы)
+[10/24/2022 23:45:19]
+  Susy Terry unequipped Сварочный аппарат
+[10/24/2022 23:45:19]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:45:19]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:45:19]
+  Darwin Lyons unequipped Гаечный ключ
+[10/24/2022 23:45:19]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:45:19]
+  Cleopatra Hajek unequipped Гаечный ключ
+[10/24/2022 23:45:19]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:45:20]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:45:20]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:45:20]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:24]
+  igameCrog picked up Морфин
+[10/24/2022 23:45:25]
+  Cleopatra Hajek equipped Сварочный аппарат
+[10/24/2022 23:45:27]
+  Outer wall breached by Tigerthresher
+[10/24/2022 23:45:27]
+  iliya_kind picked up Водолазный скафандр
+[10/24/2022 23:45:29]
+  Susy Terry equipped Сварочный аппарат
+[10/24/2022 23:45:29]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:45:29]
+  Cleopatra Hajek: Надо найти водолазный скафандр!
+[10/24/2022 23:45:30]
+  Susy Terry: Я теряю много крови!
+[10/24/2022 23:45:30]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:45:31]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:45:31]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:45:32]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:45:32]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:45:33]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:45:33]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:45:33]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:45:33]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:45:33]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:45:33]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:45:34]
+  Candace Lucas equipped Сварочный аппарат
+[10/24/2022 23:45:34]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:45:34]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:45:35]
+  Darwin Lyons used Гаечный ключ on Susy Terry.
+[10/24/2022 23:45:36]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:45:37]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:45:37]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:45:38]
+  Priscilla Callahan: Мне нужно подводное снаряжение!
+[10/24/2022 23:45:38]
+  Darwin Lyons: Помогите, я истекаю кровью!
+[10/24/2022 23:45:38]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:45:38]
+  Sherry Bushman: Мне нужно подводное снаряжение!
+[10/24/2022 23:45:42]
+  kynlan4ic dropped Автоматический дробовик
+[10/24/2022 23:45:51]
+  Sherry Bushman used Гаечный ключ on Tigerthresher.
+[10/24/2022 23:45:52]
+  iliya_kind picked up Автоматический дробовик
+[10/24/2022 23:45:53]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:45:57]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:45:57]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:45:57]
+  Cleopatra Hajek unequipped Сварочный аппарат
+[10/24/2022 23:45:57]
+  Candace Lucas unequipped Сварочный аппарат
+[10/24/2022 23:45:57]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:45:57]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:45:57]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:45:57]
+  Sherry Bushman unequipped Гаечный ключ
+[10/24/2022 23:45:59]
+  Susy Terry has died (Cause of death: Укусы)
+[10/24/2022 23:46:01]
+  Darwin Lyons has died (Cause of death: Укусы)
+[10/24/2022 23:46:03]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:46:05]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:46:07]
+  igameCrog picked up Топливный бак сварочного аппарата
+[10/24/2022 23:46:07]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:46:09]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:46:09]
+  Shin Burke: Мне нужно подводное снаряжение!
+[10/24/2022 23:46:18]
+  kynlan4ic dropped Водолазный скафандр
+[10/24/2022 23:46:20]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:46:29]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:46:30]
+  David Robertson: Мне нужно подводное снаряжение!
+[10/24/2022 23:46:30]
+  iliya_kind equipped Шоковая дубинка
+[10/24/2022 23:46:31]
+  Shin Burke unequipped Сварочный аппарат
+[10/24/2022 23:46:32]
+  Tigerthresher attacked by iliya_kind. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[10/24/2022 23:46:32]
+  iliya_kind used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/24/2022 23:46:34]
+  Tigerthresher attacked by iliya_kind. Травма от удара тупым предметом: 4 Оглушение: 0.2
+[10/24/2022 23:46:34]
+  iliya_kind used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/24/2022 23:46:34]
+  iliya_kind equipped Нож ныряльщика
+[10/24/2022 23:46:36]
+  Tigerthresher attacked by iliya_kind. Рваная рана: 10 Кровотечение: 10 Оглушение: 0.2
+[10/24/2022 23:46:36]
+  iliya_kind used Нож ныряльщика on Tigerthresher.
+[10/24/2022 23:46:39]
+  iliya_kind has died (Cause of death: Укусы)
+[10/24/2022 23:46:41]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:46:45]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/24/2022 23:46:46]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:46:49]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:46:49]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/24/2022 23:46:49]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:46:49]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:46:49]
+  The respawn shuttle is leaving.
+[10/24/2022 23:46:49]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:46:51]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:46:51]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:46:52]
+  Console command "enablecheats" executed by kynlan4ic.
+[10/24/2022 23:46:59]
+  David Robertson unequipped Гаечный ключ
+[10/24/2022 23:46:59]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:47:01]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:47:04]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:47:04]
+  Cleopatra Hajek: Надо найти водолазный скафандр!
+[10/24/2022 23:47:05]
+  igameCrog picked up Кислородный баллон
+[10/24/2022 23:47:05]
+  igameCrog dropped Кислородный баллон
+[10/24/2022 23:47:05]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 6599)
+[10/24/2022 23:47:08]
+  igameCrog placed Кислородный баллон in Большой стальной шкаф (ID: 2278)
+[10/24/2022 23:47:08]
+  David Robertson: Надо найти водолазный скафандр!
+[10/24/2022 23:47:08]
+  Darwin Lyons: Задыхаюсь.
+[10/24/2022 23:47:09]
+  Candace Lucas: Надо найти водолазный скафандр!
+[10/24/2022 23:47:09]
+  Priscilla Callahan: Мне нужно подводное снаряжение!
+[10/24/2022 23:47:11]
+  Shin Burke: Мне нужно подводное снаряжение!
+[10/24/2022 23:47:12]
+  iliya_kind has died (Cause of death: Укусы)
+[10/24/2022 23:47:12]
+  Igor Thompkins: Мне нужно подводное снаряжение!
+[10/24/2022 23:47:16]
+  Darwin Lyons equipped Гаечный ключ
+[10/24/2022 23:47:17]
+  Darwin Lyons: У меня кровь!
+[10/24/2022 23:47:19]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:47:19]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:47:19]
+  Sherry Bushman equipped Гаечный ключ
+[10/24/2022 23:47:19]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:47:20]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:47:20]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:47:21]
+  The respawn shuttle has left.
+[10/24/2022 23:47:22]
+  kynlan4ic equipped Металлический ящик
+[10/24/2022 23:47:22]
+  Darwin Lyons closed Настраиваемая дверь
+[10/24/2022 23:47:22]
+  Darwin Lyons opened Настраиваемая дверь
+[10/24/2022 23:47:25]
+  Inner wall breached by Tigerthresher
+[10/24/2022 23:47:26]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:27]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:27]
+  Candace Lucas: У меня кровь!
+[10/24/2022 23:47:28]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:29]
+  Console command "enablecheats" executed by kynlan4ic.
+[10/24/2022 23:47:29]
+  David Robertson: Помогите, я истекаю кровью!
+[10/24/2022 23:47:30]
+  Darwin Lyons closed Настраиваемая дверь
+[10/24/2022 23:47:30]
+  Darwin Lyons opened Настраиваемая дверь
+[10/24/2022 23:47:31]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:47:31]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:47:31]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:47:31]
+  The respawn shuttle is leaving.
+[10/24/2022 23:47:31]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:47:32]
+  Cleopatra Hajek: У меня кровь!
+[10/24/2022 23:47:32]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:47:33]
+  David Robertson equipped Гаечный ключ
+[10/24/2022 23:47:33]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:33]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:34]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:36]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:47:36]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:37]
+  Candace Lucas has died (Cause of death: Укусы)
+[10/24/2022 23:47:37]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:37]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:47:38]
+  Darwin Lyons used Гаечный ключ on Tigerthresher.
+[10/24/2022 23:47:40]
+  Igor Thompkins: Помогите, я истекаю кровью!
+[10/24/2022 23:47:42]
+  kynlan4ic dropped Металлический ящик
+[10/24/2022 23:47:43]
+  Sherry Bushman: Я теряю много крови!
+[10/24/2022 23:47:44]
+  David Robertson has died (Cause of death: Укусы)
+[10/24/2022 23:47:44]
+  Cleopatra Hajek has died (Cause of death: Укусы)
+[10/24/2022 23:47:47]
+  Darwin Lyons: Помогите, я истекаю кровью!
+[10/24/2022 23:47:50]
+  Shin Burke: Помогите, я истекаю кровью!
+[10/24/2022 23:47:51]
+  Igor Thompkins: Мне нужно подводное снаряжение!
+[10/24/2022 23:47:53]
+  Priscilla Callahan: Мне нужно подводное снаряжение!
+[10/24/2022 23:47:55]
+  Darwin Lyons has died (Cause of death: Укусы)
+[10/24/2022 23:47:56]
+  Darwin Lyons has died (Cause of death: Укусы)
+[10/24/2022 23:47:58]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:47:58]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:47:58]
+  Shin Burke unequipped Сварочный аппарат
+[10/24/2022 23:47:58]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:47:59]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:47:59]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:47:59]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:47:59]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:47:59]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[10/24/2022 23:47:59]
+  iliya_kind has died (Cause of death: Нехватка кислорода)
+[10/24/2022 23:48:00]
+  Shin Burke unequipped Сварочный аппарат
+[10/24/2022 23:48:00]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:48:01]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:48:01]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:48:02]
+  The respawn shuttle has left.
+[10/24/2022 23:48:03]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:48:03]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:48:03]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:48:03]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:48:03]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:48:03]
+  Igor Thompkins equipped Гаечный ключ
+[10/24/2022 23:48:03]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:48:03]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:48:03]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:48:03]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:48:04]
+  Igor Thompkins unequipped Гаечный ключ
+[10/24/2022 23:48:04]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:48:04]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:48:04]
+  Igor Thompkins equipped Гаечный ключ
+[10/24/2022 23:48:05]
+  Shin Burke unequipped Сварочный аппарат
+[10/24/2022 23:48:05]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:48:05]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:48:05]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:48:05]
+  Igor Thompkins unequipped Гаечный ключ
+[10/24/2022 23:48:05]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:48:05]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:06]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:48:06]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:48:06]
+  Shin Burke unequipped Сварочный аппарат
+[10/24/2022 23:48:06]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:48:06]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:48:06]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:48:06]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:06]
+  Igor Thompkins unequipped Сварочный аппарат
+[10/24/2022 23:48:06]
+  Igor Thompkins equipped Гаечный ключ
+[10/24/2022 23:48:07]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:48:07]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:48:07]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:08]
+  Igor Thompkins unequipped Гаечный ключ
+[10/24/2022 23:48:08]
+  Igor Thompkins equipped Сварочный аппарат
+[10/24/2022 23:48:08]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:08]
+  Shin Burke unequipped Сварочный аппарат
+[10/24/2022 23:48:08]
+  Shin Burke equipped Гаечный ключ
+[10/24/2022 23:48:08]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:48:08]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:48:08]
+  Shin Burke unequipped Гаечный ключ
+[10/24/2022 23:48:08]
+  Shin Burke equipped Сварочный аппарат
+[10/24/2022 23:48:08]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:48:08]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:48:09]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:09]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:10]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:11]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:11]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:12]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 23:48:13]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:48:13]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/24/2022 23:48:13]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:48:13]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:48:13]
+  Respawning bot Candace Lucas as Механик
+[10/24/2022 23:48:13]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:48:13]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:48:14]
+  The respawn shuttle is leaving.
+[10/24/2022 23:48:14]
+  David Robertson: Мне нужно подводное снаряжение!
+[10/24/2022 23:48:14]
+  Candace Lucas: Надо найти водолазный скафандр!
+[10/24/2022 23:48:14]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:48:14]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:48:15]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:48:15]
+  Igor Thompkins: У меня кровь!
+[10/24/2022 23:48:15]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:48:17]
+  Sherry Bushman: Я теряю много крови!
+[10/24/2022 23:48:19]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 23:48:21]
+  Candace Lucas: У меня кровь!
+[10/24/2022 23:48:25]
+  Shin Burke has died (Cause of death: Укусы)
+[10/24/2022 23:48:25]
+  Darwin Lyons: Помогите, я истекаю кровью!
+[10/24/2022 23:48:26]
+  David Robertson: Я теряю много крови!
+[10/24/2022 23:48:27]
+  Igor Thompkins: Кажется, у меня жар.
+[10/24/2022 23:48:27]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:48:27]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:48:27]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:48:27]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:48:28]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:48:28]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:48:28]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:48:28]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:48:30]
+  Sherry Bushman: Я чувствую жуткую слабость. Все тело болит.
+[10/24/2022 23:48:32]
+  Darwin Lyons: Я теряю сознание!
+[10/24/2022 23:48:32]
+  Darwin Lyons: Нечем дышать!
+[10/24/2022 23:48:35]
+  David Robertson: Задыхаюсь.
+[10/24/2022 23:48:37]
+  Sherry Bushman used Гаечный ключ on Husk.
+[10/24/2022 23:48:38]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 23:48:39]
+  Tigerthresher has died (Cause of death: Нехватка кислорода)
+[10/24/2022 23:48:41]
+  Candace Lucas has died (Cause of death: Укусы)
+[10/24/2022 23:48:42]
+  Darwin Lyons has died (Cause of death: Баротравма)
+[10/24/2022 23:48:42]
+  David Robertson has died (Cause of death: Баротравма)
+[10/24/2022 23:48:42]
+  Darwin Lyons has died (Cause of death: Баротравма)
+[10/24/2022 23:48:43]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[10/24/2022 23:48:43]
+  iliya_kind has died (Cause of death: Нехватка кислорода)
+[10/24/2022 23:48:45]
+  The respawn shuttle has left.
+[10/24/2022 23:48:45]
+  Igor Thompkins has died (Cause of death: Укусы)
+[10/24/2022 23:48:45]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:48:46]
+  igameCrog has died (Cause of death: Укусы)
+[10/24/2022 23:48:46]
+  Priscilla Callahan: Надо найти водолазный скафандр!
+[10/24/2022 23:48:48]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:48:48]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:48:49]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:48:49]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:48:50]
+  Priscilla Callahan: Я теряю много крови!
+[10/24/2022 23:48:51]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:48:51]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:48:56]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:48:56]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/24/2022 23:48:56]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/24/2022 23:48:56]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:48:56]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:48:56]
+  Respawning bot Shin Burke as Помощник
+[10/24/2022 23:48:56]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:48:56]
+  Respawning bot Igor Thompkins as Механик
+[10/24/2022 23:48:56]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:48:56]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:48:58]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:48:58]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:48:58]
+  The respawn shuttle is leaving.
+[10/24/2022 23:48:58]
+  David Robertson: Надо найти водолазный скафандр!
+[10/24/2022 23:48:58]
+  Shin Burke: Мне нужно подводное снаряжение!
+[10/24/2022 23:48:58]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:48:58]
+  Igor Thompkins: Надо найти водолазный скафандр!
+[10/24/2022 23:48:58]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:48:58]
+  David Robertson: Мне нужно подводное снаряжение!
+[10/24/2022 23:48:58]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:48:58]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:48:58]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:48:58]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:48:58]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 23:48:59]
+  Priscilla Callahan: Что-то в горле першит.
+[10/24/2022 23:48:59]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:48:59]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:49:00]
+  David Robertson: Камера балласта A: здесь поднимается давление!
+[10/24/2022 23:49:00]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 23:49:00]
+  Darwin Lyons: Камера балласта A: высокий уровень давления!
+[10/24/2022 23:49:00]
+  Igor Thompkins: Трюм: здесь поднимается давление!
+[10/24/2022 23:49:01]
+  Shin Burke: Трюм: здесь поднимается давление!
+[10/24/2022 23:49:02]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  igameCrog has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  iliya_kind has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  David Robertson has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  Darwin Lyons has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  Darwin Lyons has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  David Robertson has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  Darwin Lyons has died (Cause of death: Баротравма)
+[10/24/2022 23:49:02]
+  Darwin Lyons has died (Cause of death: Баротравма)
+[10/24/2022 23:49:03]
+  Shin Burke: Помогите, я истекаю кровью!
+[10/24/2022 23:49:04]
+  Igor Thompkins: У меня кровь!
+[10/24/2022 23:49:04]
+  Priscilla Callahan unequipped Сварочный аппарат
+[10/24/2022 23:49:04]
+  Priscilla Callahan equipped Гаечный ключ
+[10/24/2022 23:49:06]
+  Priscilla Callahan unequipped Гаечный ключ
+[10/24/2022 23:49:06]
+  Priscilla Callahan equipped Сварочный аппарат
+[10/24/2022 23:49:08]
+  Priscilla Callahan: У меня что-то во рту...
+[10/24/2022 23:49:09]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 23:49:14]
+  Shin Burke has died (Cause of death: Баротравма)
+[10/24/2022 23:49:16]
+  Igor Thompkins: Я теряю сознание!
+[10/24/2022 23:49:17]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 23:49:17]
+  Claude Bushman: Надо найти водолазный скафандр!
+[10/24/2022 23:49:21]
+  Sherry Bushman has died (Cause of death: Укусы)
+[10/24/2022 23:49:22]
+  Husk has died (Cause of death: Укусы)
+[10/24/2022 23:49:24]
+  Igor Thompkins has died (Cause of death: Укусы)
+[10/24/2022 23:49:27]
+  Claude Bushman: У меня кровь!
+[10/24/2022 23:49:28]
+  The respawn shuttle has left.
+[10/24/2022 23:49:39]
+  Dispatching the respawn shuttle.
+[10/24/2022 23:49:39]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/24/2022 23:49:39]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/24/2022 23:49:39]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[10/24/2022 23:49:39]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:49:39]
+  Respawning bot Shin Burke as Помощник
+[10/24/2022 23:49:39]
+  Respawning bot Sherry Bushman as Помощник
+[10/24/2022 23:49:39]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:39]
+  Respawning bot Igor Thompkins as Механик
+[10/24/2022 23:49:39]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:41]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:49:41]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:41]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:41]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:49:41]
+  Respawning bot Shin Burke as Помощник
+[10/24/2022 23:49:41]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:41]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:41]
+  Respawning bot David Robertson as Помощник
+[10/24/2022 23:49:41]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:41]
+  Respawning bot Darwin Lyons as Инженер
+[10/24/2022 23:49:42]
+  The respawn shuttle is leaving.
+[10/24/2022 23:49:42]
+  David Robertson: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  Shin Burke: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  Sherry Bushman: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Igor Thompkins: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  David Robertson: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  David Robertson: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  Shin Burke: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  David Robertson: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Мне нужно подводное снаряжение!
+[10/24/2022 23:49:42]
+  Darwin Lyons: Надо найти водолазный скафандр!
+[10/24/2022 23:49:42]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:49:42]
+  Claude Bushman equipped Гаечный ключ
+[10/24/2022 23:49:42]
+  Claude Bushman unequipped Гаечный ключ
+[10/24/2022 23:49:42]
+  Claude Bushman equipped Сварочный аппарат
+[10/24/2022 23:49:43]
+  Claude Bushman unequipped Сварочный аппарат
+[10/24/2022 23:49:43]
+  Claude Bushman equipped Гаечный ключ

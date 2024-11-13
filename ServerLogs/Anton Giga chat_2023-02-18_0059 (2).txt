@@ -1,0 +1,1600 @@
+﻿[02/18/2023 00:41:10]
+  Kathy Rosewood: Я хочу домой!
+[02/18/2023 00:41:10]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 00:41:11]
+  kynlan4ic placed Кислородный баллон in Вещмешок (ID: 3245)
+[02/18/2023 00:41:12]
+  Outer wall repaired by Summer Carey
+[02/18/2023 00:41:15]
+  kynlan4ic placed Бинт in Вещмешок (ID: 3245)
+[02/18/2023 00:41:15]
+  vlad32 used item Налоксон
+[02/18/2023 00:41:20]
+  vlad32 used item Антирад
+[02/18/2023 00:41:22]
+  Inner wall repaired by Darrin Hutchinson
+[02/18/2023 00:41:22]
+  vlad32 used item Морфин
+[02/18/2023 00:41:23]
+  kynlan4ic dropped Вещмешок
+[02/18/2023 00:41:28]
+  vlad32 equipped Подводный скутер
+[02/18/2023 00:41:33]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:41:43]
+  vlad32 equipped Бинт
+[02/18/2023 00:41:46]
+  kynlan4ic: Summer Carey, отремонтируй электросистемы!
+[02/18/2023 00:41:47]
+  Darrin Hutchinson: Верхняя средняя часть: все протечки устранены!
+[02/18/2023 00:41:47]
+  Summer Carey: Так точно!
+[02/18/2023 00:41:48]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:41:48]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:41:50]
+  kynlan4ic: Summer Carey, начинай устранять протечки!
+[02/18/2023 00:41:51]
+  Summer Carey: Есть!
+[02/18/2023 00:41:55]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:41:55]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:42:07]
+  vlad32 equipped Бинт
+[02/18/2023 00:42:09]
+  vlad32 started repairing Навигационный терминал
+[02/18/2023 00:42:19]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:42:19]
+  Alfredia Green: Реакторный отсек: все протечки устранены!
+[02/18/2023 00:42:23]
+  Inner wall repaired by Alfredia Green
+[02/18/2023 00:42:23]
+  Alfredia Green: Задний балласт: выполняю ремонт. Осталось несколько отверстий!
+[02/18/2023 00:42:23]
+  Outer wall repaired by Darrin Hutchinson
+[02/18/2023 00:42:23]
+  Darrin Hutchinson: Передний балласт: выполняю ремонт. Осталось несколько отверстий!
+[02/18/2023 00:42:34]
+  kynlan4ic closed Настраиваемый люк
+[02/18/2023 00:42:35]
+  kynlan4ic undocked Hemulen from Wellerman
+[02/18/2023 00:42:36]
+  Inner wall repaired by Alfredia Green
+[02/18/2023 00:42:37]
+  Alfredia Green: Моторный отсек: минус одна протечка!
+[02/18/2023 00:42:40]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/18/2023 00:42:42]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 00:42:52]
+  vlad32 picked up Гаечный ключ
+[02/18/2023 00:42:56]
+  Inner wall repaired by Darrin Hutchinson
+[02/18/2023 00:42:57]
+  Darrin Hutchinson: Инженерный отсек: протечек не осталось!
+[02/18/2023 00:42:57]
+  kynlan4ic unequipped Сварочный аппарат
+[02/18/2023 00:42:57]
+  Inner wall repaired by Darrin Hutchinson
+[02/18/2023 00:42:57]
+  Darrin Hutchinson: Задний балласт: минус одна протечка!
+[02/18/2023 00:42:58]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 00:43:01]
+  Inner wall repaired by Alfredia Green
+[02/18/2023 00:43:01]
+  Alfredia Green: Верхняя средняя часть: протечек не осталось!
+[02/18/2023 00:43:02]
+  vlad32 dropped Наручники
+[02/18/2023 00:43:02]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 00:43:03]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 00:43:04]
+  Inner wall repaired by Summer Carey
+[02/18/2023 00:43:04]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 00:43:05]
+  Summer Carey: Багажный отсек: протечек не осталось!
+[02/18/2023 00:43:05]
+  Inner wall repaired by Darrin Hutchinson
+[02/18/2023 00:43:06]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 00:43:07]
+  Inner wall repaired by Darrin Hutchinson
+[02/18/2023 00:43:07]
+  Darrin Hutchinson: Верхняя средняя часть: все протечки устранены!
+[02/18/2023 00:43:08]
+  vlad32 set the recharge speed of Суперконденсатор to 60 %
+[02/18/2023 00:43:08]
+  vlad32 set the recharge speed of Суперконденсатор to 70 %
+[02/18/2023 00:43:08]
+  vlad32 set the recharge speed of Суперконденсатор to 80 %
+[02/18/2023 00:43:08]
+  Inner wall repaired by Alfredia Green
+[02/18/2023 00:43:08]
+  vlad32 set the recharge speed of Суперконденсатор to 90 %
+[02/18/2023 00:43:08]
+  Alfredia Green: Задний балласт: выполняю ремонт. Осталось несколько отверстий!
+[02/18/2023 00:43:09]
+  vlad32 set the recharge speed of Суперконденсатор to 80 %
+[02/18/2023 00:43:09]
+  vlad32 set the recharge speed of Суперконденсатор to 50 %
+[02/18/2023 00:43:09]
+  vlad32 set the recharge speed of Суперконденсатор to 20 %
+[02/18/2023 00:43:09]
+  vlad32 set the recharge speed of Суперконденсатор to 10 %
+[02/18/2023 00:43:09]
+  vlad32 set the recharge speed of Суперконденсатор to 0 %
+[02/18/2023 00:43:11]
+  Alfredia Green: Задний балласт: протечек не осталось!
+[02/18/2023 00:43:11]
+  vlad32 started repairing Зарядник для цепной пушки
+[02/18/2023 00:43:18]
+  kynlan4ic equipped Сварочный аппарат
+[02/18/2023 00:43:26]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:43:27]
+  Inner wall repaired by kynlan4ic
+[02/18/2023 00:43:32]
+  Outer wall repaired by kynlan4ic
+[02/18/2023 00:43:43]
+  vlad32 picked up Сварочный аппарат
+[02/18/2023 00:43:45]
+  vlad32 placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:43:45]
+  vlad32 removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 305)
+[02/18/2023 00:43:45]
+  vlad32 placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 2688)
+[02/18/2023 00:43:45]
+  Inner wall repaired by Alfredia Green
+[02/18/2023 00:43:45]
+  Alfredia Green: Инженерный отсек: протечек не осталось!
+[02/18/2023 00:43:45]
+  vlad32 equipped Кислородный баллон
+[02/18/2023 00:43:46]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 00:43:56]
+  vlad32 equipped Бинт
+[02/18/2023 00:43:57]
+  Darrin Hutchinson: Передний балласт: минус одна протечка!
+[02/18/2023 00:44:03]
+  vlad32 failed to repair Кабельная коробка
+[02/18/2023 00:44:04]
+  vlad32 failed to repair Кабельная коробка
+[02/18/2023 00:44:04]
+  vlad32 started repairing Кабельная коробка
+[02/18/2023 00:44:13]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:44:13]
+  Alfredia Green: Задний балласт: протечек не осталось!
+[02/18/2023 00:44:16]
+  Inner wall repaired by Summer Carey
+[02/18/2023 00:44:22]
+  Inner wall repaired by Alfredia Green
+[02/18/2023 00:44:22]
+  Inner wall repaired by kynlan4ic
+[02/18/2023 00:44:26]
+  Darrin Hutchinson: Моторный отсек: протечек не осталось!
+[02/18/2023 00:44:26]
+  Inner wall repaired by kynlan4ic
+[02/18/2023 00:44:40]
+  Outer wall repaired by Darrin Hutchinson
+[02/18/2023 00:44:45]
+  vlad32 picked up Подводная маска
+[02/18/2023 00:44:54]
+  kynlan4ic picked up Экстракт каликса
+[02/18/2023 00:44:56]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:44:56]
+  Alfredia Green: Багажный отсек: протечек не осталось!
+[02/18/2023 00:44:57]
+  vlad32 equipped Бинт
+[02/18/2023 00:44:59]
+  kynlan4ic used item Экстракт каликса
+[02/18/2023 00:44:59]
+  vlad32 failed to repair Батарея
+[02/18/2023 00:45:00]
+  vlad32 started repairing Батарея
+[02/18/2023 00:45:24]
+  vlad32 started repairing Батарея
+[02/18/2023 00:45:28]
+  Summer Carey: Мне нужен кислородный баллон!
+[02/18/2023 00:45:34]
+  Darrin Hutchinson: Мне нужен кислородный баллон!
+[02/18/2023 00:45:37]
+  Alfredia Green: Мне нужен кислород!
+[02/18/2023 00:45:42]
+  kynlan4ic equipped Медконтейнер
+[02/18/2023 00:45:44]
+  kynlan4ic placed Медконтейнер in Грузовой модуль (ID: 47)
+[02/18/2023 00:45:48]
+  vlad32 started repairing Ядерный реактор
+[02/18/2023 00:45:49]
+  Inner wall repaired by Summer Carey
+[02/18/2023 00:45:49]
+  Summer Carey: Орудийный отсек: протечек не осталось!
+[02/18/2023 00:45:52]
+  vlad32 dropped Одноразовый водолазный скафандр
+[02/18/2023 00:45:55]
+  Darrin Hutchinson unequipped Сварочный аппарат
+[02/18/2023 00:45:55]
+  Darrin Hutchinson equipped Гаечный ключ
+[02/18/2023 00:45:56]
+  Darrin Hutchinson unequipped Гаечный ключ
+[02/18/2023 00:45:56]
+  Darrin Hutchinson equipped Отвертка
+[02/18/2023 00:45:57]
+  vlad32 has died (Cause of death: Баротравма)
+[02/18/2023 00:45:57]
+  Darrin Hutchinson started repairing Кабельная коробка
+[02/18/2023 00:46:00]
+  Alfredia Green unequipped Сварочный аппарат
+[02/18/2023 00:46:00]
+  Alfredia Green equipped Кислородный баллон
+[02/18/2023 00:46:00]
+  Alfredia Green equipped Сварочный аппарат
+[02/18/2023 00:46:00]
+  Alfredia Green unequipped Сварочный аппарат
+[02/18/2023 00:46:08]
+  Alfredia Green equipped Кислородный баллон
+[02/18/2023 00:46:13]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 00:46:13]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[02/18/2023 00:46:13]
+  Darrin Hutchinson failed to repair Кабельная коробка
+[02/18/2023 00:46:17]
+  Darrin Hutchinson unequipped Отвертка
+[02/18/2023 00:46:17]
+  Darrin Hutchinson equipped Гаечный ключ
+[02/18/2023 00:46:18]
+  Outer wall repaired by Summer Carey
+[02/18/2023 00:46:20]
+  Darrin Hutchinson started repairing Фабрикатор
+[02/18/2023 00:46:20]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:46:20]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:46:30]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:46:30]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:46:30]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:46:30]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:46:30]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:46:30]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:46:30]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:46:30]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:46:30]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:46:31]
+  Darrin Hutchinson failed to repair Фабрикатор
+[02/18/2023 00:46:35]
+  Darrin Hutchinson unequipped Гаечный ключ
+[02/18/2023 00:46:35]
+  Darrin Hutchinson equipped Сварочный аппарат
+[02/18/2023 00:46:35]
+  Darrin Hutchinson unequipped Сварочный аппарат
+[02/18/2023 00:46:35]
+  Darrin Hutchinson equipped Гаечный ключ
+[02/18/2023 00:46:35]
+  Darrin Hutchinson unequipped Гаечный ключ
+[02/18/2023 00:46:35]
+  Darrin Hutchinson equipped Отвертка
+[02/18/2023 00:46:35]
+  Darrin Hutchinson unequipped Отвертка
+[02/18/2023 00:46:35]
+  Darrin Hutchinson equipped Гаечный ключ
+[02/18/2023 00:46:43]
+  Alfredia Green equipped Ружье
+[02/18/2023 00:46:46]
+  Darrin Hutchinson failed to repair Деконструктор
+[02/18/2023 00:46:46]
+  Darrin Hutchinson started repairing Деконструктор
+[02/18/2023 00:46:46]
+  kynlan4ic picked up Сварочный аппарат
+[02/18/2023 00:46:47]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:46:47]
+  kynlan4ic equipped Кислородный баллон
+[02/18/2023 00:46:47]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 00:46:49]
+  kynlan4ic placed Кислородный баллон in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:49]
+  Alfredia Green equipped Водолазный скафандр
+[02/18/2023 00:46:51]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:52]
+  kynlan4ic removed Ружье from Human
+[02/18/2023 00:46:54]
+  kynlan4ic placed Автоматический пистолет in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:55]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:57]
+  kynlan4ic placed Нож ныряльщика in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:58]
+  kynlan4ic placed Бинт in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:58]
+  kynlan4ic placed Бинт in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:58]
+  kynlan4ic placed Бинт in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:58]
+  kynlan4ic placed Бинт in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:58]
+  kynlan4ic placed Бинт in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:46:58]
+  kynlan4ic placed Бинт in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:47:00]
+  kynlan4ic unequipped Ружье
+[02/18/2023 00:47:01]
+  Alfredia Green equipped Кислородный баллон
+[02/18/2023 00:47:03]
+  kynlan4ic placed Оранжевый провод in Human
+[02/18/2023 00:47:04]
+  Summer Carey started repairing Суперконденсатор
+[02/18/2023 00:47:04]
+  Darrin Hutchinson started repairing Двигатель
+[02/18/2023 00:47:05]
+  kynlan4ic placed Ружье in Средний стальной шкаф (ID: 305)
+[02/18/2023 00:47:08]
+  Alfredia Green: Summer Carey проходит лечение здесь: орудийный отсек!
+[02/18/2023 00:47:09]
+  Alfredia Green: Summer Carey нуждается в помощи! Срочно требуется экстракт взрывного граната или морфин!
+[02/18/2023 00:47:12]
+  Alfredia Green equipped Морфин
+[02/18/2023 00:47:17]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 00:47:17]
+  Alfredia Green: Summer Carey в полном порядке!
+[02/18/2023 00:47:20]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:47:20]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:47:22]
+  Summer Carey started repairing Навигационный терминал
+[02/18/2023 00:47:28]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 00:47:33]
+  Alfredia Green equipped Экстракт взрывного граната
+[02/18/2023 00:47:35]
+  Darrin Hutchinson unequipped Гаечный ключ
+[02/18/2023 00:47:35]
+  Darrin Hutchinson equipped Отвертка
+[02/18/2023 00:47:39]
+  Darrin Hutchinson started repairing Кабельная коробка
+[02/18/2023 00:47:44]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:47:44]
+  Darrin Hutchinson unequipped Отвертка
+[02/18/2023 00:47:44]
+  Darrin Hutchinson equipped Гаечный ключ
+[02/18/2023 00:47:46]
+  Darrin Hutchinson failed to repair Зарядник магнитной пушки
+[02/18/2023 00:47:46]
+  Darrin Hutchinson failed to repair Зарядник магнитной пушки
+[02/18/2023 00:47:46]
+  Darrin Hutchinson failed to repair Зарядник магнитной пушки
+[02/18/2023 00:47:46]
+  Darrin Hutchinson failed to repair Зарядник магнитной пушки
+[02/18/2023 00:47:46]
+  Darrin Hutchinson started repairing Зарядник магнитной пушки
+[02/18/2023 00:47:47]
+  Alfredia Green equipped Экстракт взрывного граната
+[02/18/2023 00:47:54]
+  Summer Carey started repairing Ядерный реактор
+[02/18/2023 00:48:05]
+  Darrin Hutchinson failed to repair Зарядник магнитной пушки
+[02/18/2023 00:48:05]
+  Darrin Hutchinson started repairing Зарядник магнитной пушки
+[02/18/2023 00:48:05]
+  Alfredia Green equipped Кислородный баллон
+[02/18/2023 00:48:07]
+  Summer Carey started repairing Батарея
+[02/18/2023 00:48:10]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:13]
+  Summer Carey started repairing Батарея
+[02/18/2023 00:48:13]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:14]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:15]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:16]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:17]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:48:19]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:48:19]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:48:26]
+  Summer Carey started repairing Монитор состояния
+[02/18/2023 00:48:33]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:48:33]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:48:37]
+  Summer Carey started repairing Дверь с кнопками
+[02/18/2023 00:48:39]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:45]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:45]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:45]
+  Dona Poole equipped Шоковая дубинка
+[02/18/2023 00:48:45]
+  Dona Poole: Мне нужно подводное снаряжение!
+[02/18/2023 00:48:45]
+  Darrin Hutchinson failed to repair Малый насос
+[02/18/2023 00:48:49]
+  kynlan4ic: Darrin Hutchinson, займись орудиями!
+[02/18/2023 00:48:49]
+  Darrin Hutchinson started repairing Малый насос
+[02/18/2023 00:48:50]
+  Dona Poole: Я теряю много крови!
+[02/18/2023 00:48:50]
+  Kathy Rosewood equipped Сварочный аппарат
+[02/18/2023 00:48:50]
+  Kathy Rosewood: Отвали от меня!
+[02/18/2023 00:48:50]
+  Dona Poole used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:48:51]
+  Summer Carey started repairing Насос
+[02/18/2023 00:48:51]
+  kynlan4ic: Darrin Hutchinson, займись орудиями!
+[02/18/2023 00:48:52]
+  Darrin Hutchinson: Так точно!
+[02/18/2023 00:48:52]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:48:52]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:48:53]
+  Dona Poole used Шоковая дубинка(Аккумулятор) on Обшивка челнока A20.
+[02/18/2023 00:48:53]
+  Dona Poole used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:48:54]
+  Kathy Rosewood unequipped Сварочный аппарат
+[02/18/2023 00:48:54]
+  Dona Poole used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:48:54]
+  Kathy Rosewood equipped Сварочный аппарат
+[02/18/2023 00:48:55]
+  Dona Poole used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:48:56]
+  Dona Poole unequipped Шоковая дубинка
+[02/18/2023 00:48:56]
+  Dona Poole equipped Нож ныряльщика
+[02/18/2023 00:48:56]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:48:56]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:48:57]
+  Darrin Hutchinson unequipped Гаечный ключ
+[02/18/2023 00:48:57]
+  The respawn shuttle is leaving.
+[02/18/2023 00:48:58]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A02.
+[02/18/2023 00:48:58]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:48:59]
+  Inner wall breached by Crawlerhusk
+[02/18/2023 00:49:00]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:00]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:01]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:01]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:49:01]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:49:01]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:02]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:02]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:03]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:03]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:04]
+  Kathy Rosewood: Мне нужно подводное снаряжение!
+[02/18/2023 00:49:04]
+  Outer wall breached by Dona Poole
+[02/18/2023 00:49:04]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:04]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:05]
+  Summer Carey started repairing Малый насос
+[02/18/2023 00:49:05]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:05]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:06]
+  Kathy Rosewood unequipped Сварочный аппарат
+[02/18/2023 00:49:07]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:07]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:08]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A20.
+[02/18/2023 00:49:08]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:09]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A20.
+[02/18/2023 00:49:10]
+  Dona Poole used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:49:10]
+  Kathy Rosewood equipped Сварочный аппарат
+[02/18/2023 00:49:11]
+  Kathy Rosewood: Отвали от меня!
+[02/18/2023 00:49:13]
+  Dona Poole used Нож ныряльщика on Обшивка челнока A05.
+[02/18/2023 00:49:13]
+  Kathy Rosewood unequipped Сварочный аппарат
+[02/18/2023 00:49:13]
+  Kathy Rosewood equipped Сварочный аппарат
+[02/18/2023 00:49:14]
+  Dona Poole: А-А-А-А-А-А!
+[02/18/2023 00:49:16]
+  Summer Carey started repairing Насос
+[02/18/2023 00:49:19]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:49:23]
+  Dona Poole: Я теряю много крови!
+[02/18/2023 00:49:27]
+  Kathy Rosewood unequipped Сварочный аппарат
+[02/18/2023 00:49:27]
+  Kathy Rosewood equipped Гаечный ключ
+[02/18/2023 00:49:27]
+  Inner wall breached by Crawlerhusk
+[02/18/2023 00:49:28]
+  Dona Poole has died (Cause of death: Unknown)
+[02/18/2023 00:49:28]
+  Kathy Rosewood has died (Cause of death: Unknown)
+[02/18/2023 00:49:28]
+  The respawn shuttle has left.
+[02/18/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:29]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:29]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:29]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:30]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:31]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:31]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:31]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:49:31]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:32]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:32]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:32]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:49:32]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:49:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:32]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:33]
+  Inner wall repaired by Summer Carey
+[02/18/2023 00:49:33]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:33]
+  Summer Carey: Задний балласт: все протечки устранены!
+[02/18/2023 00:49:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:33]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:33]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:33]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:34]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:34]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:34]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:34]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:49:34]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:49:34]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:35]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:35]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:35]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:49:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:35]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:36]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:36]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:49:36]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:36]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:36]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:37]
+  Alfredia Green equipped Сварочный аппарат
+[02/18/2023 00:49:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:37]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:37]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:49:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:37]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:37]
+  Darrin Hutchinson: Огонь!
+[02/18/2023 00:49:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:38]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:38]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:38]
+  Alfredia Green: Мне нужен кислородный баллон!
+[02/18/2023 00:49:38]
+  Summer Carey: Надо найти водолазный скафандр!
+[02/18/2023 00:49:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:38]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:38]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:49:38]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:39]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:39]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:39]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:39]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:39]
+  Outer wall breached by Darrin Hutchinson
+[02/18/2023 00:49:39]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:39]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:40]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:40]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:40]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:49:40]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:40]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:49:40]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:41]
+  Alfredia Green unequipped Кислородный баллон
+[02/18/2023 00:49:41]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:41]
+  Alfredia Green: Мне нужно подводное снаряжение!
+[02/18/2023 00:49:41]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:41]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson: Кажется, есть попадание!
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:42]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:43]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:43]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:43]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:43]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:45]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:45]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:45]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:45]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:45]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:45]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:46]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:46]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:46]
+  Darrin Hutchinson launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/18/2023 00:49:46]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:49:46]
+  Darrin Hutchinson: Кажется, есть попадание!
+[02/18/2023 00:49:52]
+  Summer Carey: Передний балласт: протечек не осталось!
+[02/18/2023 00:49:55]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:49:58]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:49:58]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:49:59]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:49:59]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:49:59]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:49:59]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:49:59]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:49:59]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:50:04]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 222)
+[02/18/2023 00:50:05]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:50:05]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:50:13]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:50:13]
+  Alfredia Green: Пункт управления: все протечки устранены!
+[02/18/2023 00:50:15]
+  Alfredia Green unequipped Сварочный аппарат
+[02/18/2023 00:50:20]
+  Summer Carey started repairing Малый насос
+[02/18/2023 00:50:28]
+  Dispatching the respawn shuttle.
+[02/18/2023 00:50:28]
+  Respawning vlad32 (STEAM_1:0:579729700) as Офицер службы безопасности
+[02/18/2023 00:50:30]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 00:50:36]
+  Summer Carey started repairing Малый насос
+[02/18/2023 00:50:48]
+  Summer Carey started repairing Малый насос
+[02/18/2023 00:50:54]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:51:24]
+  vlad32 picked up Одноразовый водолазный скафандр
+[02/18/2023 00:51:26]
+  vlad32 picked up Подводный скутер
+[02/18/2023 00:51:30]
+  vlad32 placed Аккумулятор in Средний стальной шкаф с окном (ID: 2180)
+[02/18/2023 00:51:30]
+  vlad32 removed Аккумулятор from Средний стальной шкаф с окном (ID: 2180)
+[02/18/2023 00:51:30]
+  vlad32 placed Аккумулятор in Подводный скутер (ID: 2742)
+[02/18/2023 00:51:31]
+  vlad32 equipped Подводный скутер
+[02/18/2023 00:51:42]
+  Console command "teleport vlad31" executed by kynlan4ic.
+[02/18/2023 00:51:47]
+  Alfredia Green equipped Отвертка
+[02/18/2023 00:51:51]
+  Alfredia Green equipped Пистолет-пулемет
+[02/18/2023 00:51:56]
+  Console command "teleport vlad31 kynlna4ic" executed by kynlan4ic.
+[02/18/2023 00:51:58]
+  vlad32 opened Настраиваемая дверь с окном
+[02/18/2023 00:52:02]
+  The respawn shuttle is leaving.
+[02/18/2023 00:52:05]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:52:14]
+  Summer Carey started repairing Генератор кислорода челнока
+[02/18/2023 00:52:23]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:52:23]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:52:23]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:52:23]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:52:23]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:52:33]
+  The respawn shuttle has left.
+[02/18/2023 00:52:49]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:52:53]
+  Summer Carey started repairing Монитор состояния
+[02/18/2023 00:52:57]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:53:09]
+  vlad32 equipped Шоковая дубинка
+[02/18/2023 00:53:10]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:10]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:12]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:12]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:13]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:13]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:14]
+  vlad32 equipped Нож ныряльщика
+[02/18/2023 00:53:14]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:14]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:15]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:15]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:15]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:15]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:16]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:16]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:17]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:17]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:17]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:17]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:18]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:18]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:18]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:18]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:19]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:19]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:20]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:20]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:21]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:21]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:21]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:21]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:22]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:22]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:22]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:22]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:23]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:23]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:23]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:53:23]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:23]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:24]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:24]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:25]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:25]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:25]
+  Crawlerhusk attacked by vlad32. Травма от удара тупым предметом: 4.0 Оглушение: 0.1
+[02/18/2023 00:53:25]
+  vlad32 used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 00:53:26]
+  Crawlerhusk attacked by vlad32. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.1
+[02/18/2023 00:53:26]
+  vlad32 used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 00:53:50]
+  Alfredia Green equipped Кислородный баллон
+[02/18/2023 00:54:02]
+  vlad32 has died (Cause of death: Укусы)
+[02/18/2023 00:54:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:06]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:06]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:06]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:07]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:08]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:08]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:08]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:09]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:09]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:09]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/18/2023 00:54:09]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:09]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:10]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:10]
+  Darrin Hutchinson: Суперконденсатор заряжается. Уже 50%!
+[02/18/2023 00:54:11]
+  Alfredia Green equipped Подводное ружье
+[02/18/2023 00:54:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:15]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:16]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:18]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:19]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:20]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:20]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:20]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:21]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:21]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:21]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:54:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:54:27]
+  vlad32 attacked by kynlan4ic. Рваная рана: 6.2 Кровотечение: 0.6
+[02/18/2023 00:54:28]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:28]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:54:58]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:54:59]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:55:02]
+  Dispatching the respawn shuttle.
+[02/18/2023 00:55:02]
+  Respawning vlad32 (STEAM_1:0:579729700) as Офицер службы безопасности
+[02/18/2023 00:55:03]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:55:03]
+  Summer Carey: Земля в иллюминаторе, Земля в иллюминаторе...
+[02/18/2023 00:55:04]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 00:55:07]
+  Summer Carey: Земля в иллюминаторе видна...
+[02/18/2023 00:55:11]
+  vlad32 picked up Подводная маска
+[02/18/2023 00:55:12]
+  vlad32 picked up Аккумулятор
+[02/18/2023 00:55:14]
+  vlad32 picked up Подводный скутер
+[02/18/2023 00:55:14]
+  vlad32 picked up Аккумулятор
+[02/18/2023 00:55:14]
+  vlad32 dropped Аккумулятор
+[02/18/2023 00:55:14]
+  vlad32 placed Аккумулятор in Подводный скутер (ID: 2877)
+[02/18/2023 00:55:46]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:55:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:55:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:55:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:55:51]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:56:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:00]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:56:00]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:01]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:01]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:01]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:02]
+  Inner wall breached by kynlan4ic
+[02/18/2023 00:56:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:02]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:56:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:03]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:04]
+  vlad32 equipped Шоковая дубинка
+[02/18/2023 00:56:05]
+  vlad32 equipped Нож ныряльщика
+[02/18/2023 00:56:06]
+  vlad32 equipped Подводный скутер
+[02/18/2023 00:56:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:08]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:08]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:08]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:09]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:56:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:10]
+  vlad32 dropped Наручники
+[02/18/2023 00:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:11]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 00:56:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:13]
+  Inner wall breached by kynlan4ic
+[02/18/2023 00:56:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:56:14]
+  vlad32 picked up Одноразовый водолазный скафандр
+[02/18/2023 00:56:15]
+  Alfredia Green equipped Сварочный аппарат
+[02/18/2023 00:56:16]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:56:18]
+  Outer wall repaired by Alfredia Green
+[02/18/2023 00:56:18]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 00:56:19]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:56:20]
+  Summer Carey: Воздушный шлюз: минус одна протечка!
+[02/18/2023 00:56:23]
+  Alfredia Green unequipped Сварочный аппарат
+[02/18/2023 00:56:23]
+  Alfredia Green equipped Автоматический пистолет
+[02/18/2023 00:56:25]
+  Outer wall repaired by Summer Carey
+[02/18/2023 00:56:26]
+  Summer Carey: Воздушный шлюз: все протечки устранены!
+[02/18/2023 00:56:26]
+  vlad32 opened Настраиваемая дверь с окном
+[02/18/2023 00:56:28]
+  Alfredia Green equipped Сварочный аппарат
+[02/18/2023 00:56:28]
+  Alfredia Green unequipped Сварочный аппарат
+[02/18/2023 00:56:29]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:56:29]
+  Summer Carey equipped Дробовик
+[02/18/2023 00:56:35]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:56:35]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:56:48]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:56:51]
+  Summer Carey started repairing Кабельная коробка
+[02/18/2023 00:56:55]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:57:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:10]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:57:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:10]
+  Outer wall breached by kynlan4ic
+[02/18/2023 00:57:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:16]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:57:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:20]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:23]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:34]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:45]
+  Summer Carey equipped Отвертка
+[02/18/2023 00:57:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 00:57:47]
+  vlad32 attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 00:57:48]
+  Summer Carey started repairing Навигационный терминал
+[02/18/2023 00:57:52]
+  Summer Carey unequipped Отвертка
+[02/18/2023 00:57:52]
+  vlad32 closed Настраиваемая дверь с окном
+[02/18/2023 00:57:54]
+  vlad32 opened Настраиваемая дверь с окном
+[02/18/2023 00:57:56]
+  vlad32 closed Настраиваемая дверь с окном
+[02/18/2023 00:58:12]
+  vlad32 docked Hemulen to Wellerman
+[02/18/2023 00:58:26]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 00:58:26]
+  vlad32 closed Настраиваемый люк
+[02/18/2023 00:58:27]
+  vlad32 undocked Hemulen from Wellerman
+[02/18/2023 00:58:36]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 245)
+[02/18/2023 00:58:36]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:58:36]
+  vlad32 docked Hemulen to Wellerman
+[02/18/2023 00:58:38]
+  vlad32 undocked Hemulen from Wellerman
+[02/18/2023 00:58:38]
+  vlad32 docked Hemulen to Wellerman
+[02/18/2023 00:58:39]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 00:58:40]
+  vlad32 closed Настраиваемый люк
+[02/18/2023 00:58:40]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 00:58:40]
+  vlad32 undocked Hemulen from Wellerman
+[02/18/2023 00:58:40]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 00:58:45]
+  kynlan4ic equipped Плазменный резак
+[02/18/2023 00:58:56]
+  Inner wall breached by Crawlerhusk
+[02/18/2023 00:58:56]
+  kynlan4ic picked up Ружье
+[02/18/2023 00:58:58]
+  kynlan4ic equipped Ружье
+[02/18/2023 00:59:00]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 33.0 Кровотечение: 33.0 Оглушение: 0.4
+[02/18/2023 00:59:04]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 33.0 Кровотечение: 33.0 Оглушение: 0.4
+[02/18/2023 00:59:06]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[02/18/2023 00:59:06]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 33.0 Кровотечение: 33.0 Оглушение: 0.4
+[02/18/2023 00:59:09]
+  kynlan4ic placed Ружье in Защищенный стальной шкаф (ID: 415)
+[02/18/2023 00:59:12]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:59:12]
+  Summer Carey equipped Сварочный аппарат
+[02/18/2023 00:59:14]
+  The respawn shuttle is leaving.
+[02/18/2023 00:59:14]
+  Summer Carey unequipped Сварочный аппарат
+[02/18/2023 00:59:14]
+  Summer Carey equipped Гаечный ключ
+[02/18/2023 00:59:15]
+  Summer Carey started repairing Дверь с кнопками
+[02/18/2023 00:59:17]
+  Alfredia Green: kynlan4ic получает первую помощь здесь: орудийный отсек!
+[02/18/2023 00:59:19]
+  Alfredia Green: kynlan4ic нуждается в помощи! Срочно требуется антибиотики широкого спектра, каликсанид, экстракт взрывного граната или морфин!
+[02/18/2023 00:59:22]
+  Alfredia Green equipped Экстракт взрывного граната
+[02/18/2023 00:59:23]
+  Summer Carey unequipped Гаечный ключ
+[02/18/2023 00:59:23]
+  Summer Carey equipped Сварочный аппарат

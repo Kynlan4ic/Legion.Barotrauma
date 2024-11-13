@@ -1,0 +1,268 @@
+﻿[03/10/2023 16:55:59]
+  vlad32 picked up Сварочный аппарат
+[03/10/2023 16:56:00]
+  Arron Gregory: kynlan4ic в полном порядке!
+[03/10/2023 16:56:01]
+  vlad32 placed .38 magazine in Human
+[03/10/2023 16:56:01]
+  vlad32 removed Отвертка from Human
+[03/10/2023 16:56:01]
+  vlad32 picked up Отвертка
+[03/10/2023 16:56:03]
+  vlad32 picked up .38 magazine
+[03/10/2023 16:56:06]
+  kynlan4ic equipped Сварочный аппарат
+[03/10/2023 16:56:11]
+  Inner wall repaired by kynlan4ic
+[03/10/2023 16:56:16]
+  Arron Gregory equipped Сварочный аппарат
+[03/10/2023 16:56:17]
+  vlad32 placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3298)
+[03/10/2023 16:56:18]
+  vlad32 equipped Сварочный аппарат
+[03/10/2023 16:56:21]
+  Outer wall repaired by vlad32
+[03/10/2023 16:56:32]
+  vlad32 equipped Нож ныряльщика
+[03/10/2023 16:56:32]
+  vlad32 equipped Отвертка
+[03/10/2023 16:56:33]
+  kynlan4ic picked up Гидроксиапатит
+[03/10/2023 16:56:36]
+  vlad32 started repairing Двигатель
+[03/10/2023 16:56:37]
+  kynlan4ic placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/10/2023 16:56:53]
+  kynlan4ic picked up Топливный стержень
+[03/10/2023 16:56:56]
+  kynlan4ic picked up Топливный стержень
+[03/10/2023 16:56:56]
+  kynlan4ic dropped Топливный стержень
+[03/10/2023 16:56:56]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/10/2023 16:56:57]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 9, Turbine output: 98, Autotemp ON
+[03/10/2023 16:56:59]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф с окном (ID: 603)
+[03/10/2023 16:57:02]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 29, Turbine output: 98, Autotemp ON
+[03/10/2023 16:57:06]
+  vlad32 started repairing Суперконденсатор
+[03/10/2023 16:57:09]
+  kynlan4ic adjusted reactor settings: Temperature: 379, Fission rate: 51, Turbine output: 98, Autotemp OFF
+[03/10/2023 16:57:10]
+  kynlan4ic adjusted reactor settings: Temperature: 333, Fission rate: 51, Turbine output: 93, Autotemp OFF
+[03/10/2023 16:57:11]
+  kynlan4ic adjusted reactor settings: Temperature: 906, Fission rate: 51, Turbine output: 81, Autotemp OFF
+[03/10/2023 16:57:12]
+  kynlan4ic adjusted reactor settings: Temperature: 1793, Fission rate: 51, Turbine output: 69, Autotemp OFF
+[03/10/2023 16:57:13]
+  kynlan4ic adjusted reactor settings: Temperature: 2793, Fission rate: 51, Turbine output: 68, Autotemp OFF
+[03/10/2023 16:57:14]
+  kynlan4ic adjusted reactor settings: Temperature: 2269, Fission rate: 51, Turbine output: 78, Autotemp OFF
+[03/10/2023 16:57:16]
+  kynlan4ic adjusted reactor settings: Temperature: 1621, Fission rate: 50, Turbine output: 78, Autotemp OFF
+[03/10/2023 16:57:17]
+  kynlan4ic adjusted reactor settings: Temperature: 1065, Fission rate: 50, Turbine output: 92, Autotemp OFF
+[03/10/2023 16:57:18]
+  kynlan4ic adjusted reactor settings: Temperature: 537, Fission rate: 50, Turbine output: 83, Autotemp OFF
+[03/10/2023 16:57:19]
+  kynlan4ic adjusted reactor settings: Temperature: 257, Fission rate: 50, Turbine output: 92, Autotemp OFF
+[03/10/2023 16:57:20]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 50, Turbine output: 91, Autotemp OFF
+[03/10/2023 16:57:21]
+  kynlan4ic adjusted reactor settings: Temperature: 365, Fission rate: 50, Turbine output: 77, Autotemp OFF
+[03/10/2023 16:57:23]
+  vlad32 started repairing Суперконденсатор
+[03/10/2023 16:57:23]
+  kynlan4ic adjusted reactor settings: Temperature: 798, Fission rate: 50, Turbine output: 74, Autotemp OFF
+[03/10/2023 16:57:24]
+  kynlan4ic adjusted reactor settings: Temperature: 1196, Fission rate: 50, Turbine output: 65, Autotemp OFF
+[03/10/2023 16:57:25]
+  kynlan4ic adjusted reactor settings: Temperature: 1587, Fission rate: 50, Turbine output: 68, Autotemp OFF
+[03/10/2023 16:57:26]
+  kynlan4ic adjusted reactor settings: Temperature: 1252, Fission rate: 50, Turbine output: 88, Autotemp OFF
+[03/10/2023 16:57:27]
+  kynlan4ic adjusted reactor settings: Temperature: 252, Fission rate: 50, Turbine output: 87, Autotemp OFF
+[03/10/2023 16:57:28]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 50, Turbine output: 83, Autotemp OFF
+[03/10/2023 16:57:29]
+  kynlan4ic adjusted reactor settings: Temperature: 152, Fission rate: 50, Turbine output: 72, Autotemp OFF
+[03/10/2023 16:57:32]
+  vlad32 started repairing Батарея
+[03/10/2023 16:57:38]
+  kynlan4ic adjusted reactor settings: Temperature: 901, Fission rate: 50, Turbine output: 72, Autotemp ON
+[03/10/2023 16:57:46]
+  Arron Gregory unequipped Сварочный аппарат
+[03/10/2023 16:57:46]
+  Arron Gregory equipped Морфин
+[03/10/2023 16:57:46]
+  Arron Gregory unequipped Морфин
+[03/10/2023 16:57:52]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 412)
+[03/10/2023 16:57:53]
+  vlad32 failed to repair Батарея
+[03/10/2023 16:57:55]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 4)
+[03/10/2023 16:57:58]
+  vlad32 set the recharge speed of Батарея to 60 %
+[03/10/2023 16:57:58]
+  vlad32 set the recharge speed of Батарея to 90 %
+[03/10/2023 16:58:01]
+  vlad32 started repairing Батарея
+[03/10/2023 16:58:02]
+  kynlan4ic picked up Гидроксиапатит
+[03/10/2023 16:58:03]
+  kynlan4ic picked up Яйцо грязевого раптора
+[03/10/2023 16:58:04]
+  kynlan4ic placed Гидроксиапатит in Средний стальной шкаф (ID: 665)
+[03/10/2023 16:58:05]
+  kynlan4ic placed Яйцо грязевого раптора in Средний стальной шкаф (ID: 665)
+[03/10/2023 16:58:09]
+  kynlan4ic picked up Анаболические стероиды
+[03/10/2023 16:58:11]
+  kynlan4ic picked up Подводная маска
+[03/10/2023 16:58:14]
+  kynlan4ic placed Подводная маска in Хозяйственный шкаф (ID: 462)
+[03/10/2023 16:58:16]
+  kynlan4ic picked up Подводная маска
+[03/10/2023 16:58:17]
+  kynlan4ic placed Подводная маска in Хозяйственный шкаф (ID: 462)
+[03/10/2023 16:58:19]
+  vlad32 started repairing Кабельная коробка
+[03/10/2023 16:58:23]
+  kynlan4ic placed Анаболические стероиды in Аптечка (ID: 132)
+[03/10/2023 16:58:30]
+  vlad32 started repairing Кабельная коробка
+[03/10/2023 16:58:37]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/10/2023 16:58:41]
+  vlad32 started repairing Кабельная коробка
+[03/10/2023 16:58:44]
+  kynlan4ic picked up Удостоверение личности
+[03/10/2023 16:58:45]
+  kynlan4ic placed Удостоверение личности in Human
+[03/10/2023 16:58:49]
+  vlad32 started repairing Ядерный реактор
+[03/10/2023 16:58:51]
+  kynlan4ic placed Удостоверение личности in Хозяйственный шкаф (ID: 460)
+[03/10/2023 16:59:13]
+  kynlan4ic equipped P-8 Pilot
+[03/10/2023 16:59:29]
+  kynlan4ic picked up Удостоверение личности
+[03/10/2023 16:59:36]
+  vlad32 started repairing Настраиваемый люк
+[03/10/2023 16:59:38]
+  Arron Gregory: kynlan4ic в полном порядке!
+[03/10/2023 16:59:45]
+  Darwin Brady: Меняем кислородные баллоны!
+[03/10/2023 16:59:45]
+  Darwin Brady: У меня этот кислородный баллон - последний.
+[03/10/2023 16:59:47]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[03/10/2023 16:59:51]
+  vlad32 started repairing Настраиваемый люк
+[03/10/2023 16:59:55]
+  Outer wall repaired by vlad32
+[03/10/2023 17:00:04]
+  vlad32 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 406)
+[03/10/2023 17:00:10]
+  kynlan4ic equipped Медконтейнер
+[03/10/2023 17:00:11]
+  kynlan4ic dropped Медконтейнер
+[03/10/2023 17:00:23]
+  Arron Gregory: kynlan4ic получает первую помощь здесь: моторный отсек!
+[03/10/2023 17:00:31]
+  Arron Gregory equipped M18 Colt Europan
+[03/10/2023 17:00:39]
+  vlad32 started repairing Навигационный терминал
+[03/10/2023 17:00:41]
+  Console command "control "Darwin Brady"" executed by kynlan4ic.
+[03/10/2023 17:00:42]
+  Darwin Brady set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 17:00:45]
+  Arron Gregory: Слышишь?
+[03/10/2023 17:00:53]
+  vlad32: что
+[03/10/2023 17:01:02]
+  vlad32 started repairing Суперконденсатор
+[03/10/2023 17:01:18]
+  vlad32 started repairing Суперконденсатор
+[03/10/2023 17:01:26]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/10/2023 17:01:28]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 17:01:36]
+  Console command "control "Darwin Brady"" executed by kynlan4ic.
+[03/10/2023 17:01:38]
+  Darwin Brady set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 17:01:41]
+  vlad32 started repairing Зарядник магнитной пушки
+[03/10/2023 17:01:54]
+  vlad32 started repairing Зарядник магнитной пушки
+[03/10/2023 17:02:09]
+  vlad32 picked up Водолазный скафандр
+[03/10/2023 17:02:11]
+  vlad32 picked up Кислородный баллон
+[03/10/2023 17:02:19]
+  Outer wall repaired by Darwin Brady
+[03/10/2023 17:02:47]
+  vlad32 placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 411)
+[03/10/2023 17:02:48]
+  Darwin Brady placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 412)
+[03/10/2023 17:02:49]
+  vlad32 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[03/10/2023 17:02:51]
+  Darwin Brady placed Кислородный баллон in Генератор кислорода (ID: 165)
+[03/10/2023 17:02:57]
+  Darwin Brady placed Кислородный баллон in Подводная маска (ID: 3279)
+[03/10/2023 17:03:05]
+  vlad32 failed to repair Двигатель
+[03/10/2023 17:03:08]
+  Darwin Brady has gained the talent 'Дармоед'
+[03/10/2023 17:03:11]
+  vlad32 started repairing Двигатель
+[03/10/2023 17:03:22]
+  vlad32 failed to repair Двигатель
+[03/10/2023 17:03:30]
+  Arron Gregory: vlad32 проходит лечение здесь: моторный отсек!
+[03/10/2023 17:03:31]
+  Arron Gregory: vlad32 нуждается в помощи! Срочно требуется деусицин, морфин или опиум!
+[03/10/2023 17:03:35]
+  Arron Gregory equipped Морфин
+[03/10/2023 17:03:39]
+  Arron Gregory: vlad32 в полном порядке!
+[03/10/2023 17:03:40]
+  Darwin Brady equipped Отвертка
+[03/10/2023 17:03:41]
+  Darwin Brady failed to repair Кабельная коробка
+[03/10/2023 17:03:45]
+  vlad32 started repairing Кабельная коробка
+[03/10/2023 17:03:55]
+  vlad32 started repairing Кабельная коробка
+[03/10/2023 17:03:57]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/10/2023 17:03:58]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 17:04:03]
+  vlad32 failed to repair Кабельная коробка
+[03/10/2023 17:04:18]
+  vlad32 started repairing Кабельная коробка
+[03/10/2023 17:04:28]
+  vlad32 failed to repair Кабельная коробка
+[03/10/2023 17:04:34]
+  Arron Gregory: vlad32 проходит лечение здесь: реакторный отсек!
+[03/10/2023 17:04:36]
+  Arron Gregory: vlad32 нуждается в помощи! Срочно требуется морфин или опиум!
+[03/10/2023 17:04:38]
+  Arron Gregory equipped Морфин
+[03/10/2023 17:04:42]
+  vlad32 failed to repair Кабельная коробка
+[03/10/2023 17:04:45]
+  Arron Gregory: Мне жаль, vlad32, это все, что я могу сделать!
+[03/10/2023 17:04:50]
+  vlad32 failed to repair Кабельная коробка
+[03/10/2023 17:05:48]
+  kynlan4ic docked Dugong to Asterius Linea
+[03/10/2023 17:05:49]
+  Ending the round...

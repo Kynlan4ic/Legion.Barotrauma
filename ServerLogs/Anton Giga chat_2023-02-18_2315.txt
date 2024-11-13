@@ -1,0 +1,1600 @@
+﻿[02/18/2023 22:59:52]
+  Starting the server...
+[02/18/2023 22:59:52]
+  Using SteamP2P networking.
+[02/18/2023 22:59:52]
+  Server started
+[02/18/2023 22:59:52]
+  Игрок kynlan4ic присоединился к серверу.
+[02/18/2023 22:59:52]
+  Saving client permissions
+[02/18/2023 22:59:52]
+  Saving client permissions
+[02/18/2023 23:00:06]
+  Игрок vlad32 присоединился к серверу.
+[02/18/2023 23:00:06]
+  Saving client permissions
+[02/18/2023 23:00:40]
+  vlad32: [EQ
+[02/18/2023 23:00:41]
+  vlad32: ХУЙ
+[02/18/2023 23:00:42]
+  vlad32: ХУЙ
+[02/18/2023 23:00:43]
+  vlad32: ХУЙ
+[02/18/2023 23:00:44]
+  vlad32: ХУЙ
+[02/18/2023 23:00:50]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:50]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:51]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:51]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:51]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:51]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:52]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:52]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:52]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:52]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:53]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:53]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:53]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:53]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:54]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:54]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:54]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:54]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:00:55]
+  kynlan4ic: ХУЙ
+[02/18/2023 23:01:05]
+  Игрок igameCrog присоединился к серверу.
+[02/18/2023 23:01:05]
+  Saving client permissions
+[02/18/2023 23:01:07]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/18/2023 23:01:07]
+  Saving client permissions
+[02/18/2023 23:01:21]
+  Console command "enablecheats" executed by kynlan4ic.
+[02/18/2023 23:01:25]
+  kynlan4ic changed PlayStyle to Casual
+[02/18/2023 23:01:25]
+  kynlan4ic changed LosMode to Opaque
+[02/18/2023 23:01:25]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/18/2023 23:01:25]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/18/2023 23:01:25]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/18/2023 23:01:49]
+  Client "igameCrog" started the round.
+[02/18/2023 23:01:49]
+  Starting a new round...
+[02/18/2023 23:01:53]
+  Миссия: Взрывной груз
+[02/18/2023 23:01:53]
+  Местный торговец оружием предлагает 200 кред. за доставку груза взрывчатки его клиенту в точке Укрепление Bramerton.
+[02/18/2023 23:01:53]
+  Game mode: Миссия
+[02/18/2023 23:01:53]
+  Submarine: CzechSaboteur
+[02/18/2023 23:01:53]
+  Level seed: BdljtJeR
+[02/18/2023 23:01:53]
+  Mission: Взрывной груз
+[02/18/2023 23:01:54]
+  Round started.
+[02/18/2023 23:02:01]
+  Summer Rangel: Земля в иллюминаторе, Земля в иллюминаторе...
+[02/18/2023 23:02:04]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:02:05]
+  Summer Rangel: Земля в иллюминаторе видна...
+[02/18/2023 23:02:09]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:02:15]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:02:21]
+  kynlan4ic picked up Отвертка
+[02/18/2023 23:02:22]
+  kynlan4ic equipped Отвертка
+[02/18/2023 23:02:29]
+  Чпок В Пупок adjusted reactor settings: Temperature: 4818, Fission rate: 44, Turbine output: 22, Autotemp ON
+[02/18/2023 23:02:30]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,245".
+[02/18/2023 23:02:32]
+  Чпок В Пупок adjusted reactor settings: Temperature: 6447, Fission rate: 40, Turbine output: 21, Autotemp OFF
+[02/18/2023 23:02:33]
+  Чпок В Пупок adjusted reactor settings: Temperature: 6461, Fission rate: 40, Turbine output: 21, Autotemp ON
+[02/18/2023 23:02:36]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:02:39]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,253".
+[02/18/2023 23:02:46]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,65".
+[02/18/2023 23:02:49]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,97".
+[02/18/2023 23:02:50]
+  igameCrog picked up Отвертка
+[02/18/2023 23:02:51]
+  igameCrog picked up Гаечный ключ
+[02/18/2023 23:02:52]
+  igameCrog picked up Пояс инструментов
+[02/18/2023 23:02:53]
+  igameCrog picked up Сварочный аппарат
+[02/18/2023 23:02:53]
+  igameCrog picked up Плазменный резак
+[02/18/2023 23:02:53]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,255".
+[02/18/2023 23:02:57]
+  igameCrog equipped Отвертка
+[02/18/2023 23:03:00]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,250,255".
+[02/18/2023 23:03:06]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,235,250,255".
+[02/18/2023 23:03:07]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "96,0,0,253".
+[02/18/2023 23:03:13]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "96,115,0,253".
+[02/18/2023 23:03:17]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[02/18/2023 23:03:17]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "96,115,106,253".
+[02/18/2023 23:03:24]
+  Чпок В Пупок equipped Отвертка
+[02/18/2023 23:03:25]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[02/18/2023 23:03:32]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,25".
+[02/18/2023 23:03:36]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,255,255,255".
+[02/18/2023 23:03:40]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "150,255,255,255".
+[02/18/2023 23:03:41]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "150,255,255,255".
+[02/18/2023 23:03:46]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "150,143,255,255".
+[02/18/2023 23:03:52]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "150,143,150,255".
+[02/18/2023 23:04:17]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/18/2023 23:04:21]
+  igameCrog picked up Экстракт каликса
+[02/18/2023 23:04:21]
+  igameCrog picked up Экстракт каликса
+[02/18/2023 23:04:22]
+  igameCrog picked up Этанол
+[02/18/2023 23:04:26]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 2629)
+[02/18/2023 23:04:28]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 2629)
+[02/18/2023 23:04:41]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,25".
+[02/18/2023 23:04:43]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,0".
+[02/18/2023 23:04:49]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,6".
+[02/18/2023 23:04:59]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,90".
+[02/18/2023 23:05:02]
+  Чпок В Пупок set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,255".
+[02/18/2023 23:05:05]
+  kynlan4ic equipped Снаряд рельсотрона
+[02/18/2023 23:05:05]
+  kynlan4ic picked up Снаряд рельсотрона
+[02/18/2023 23:05:07]
+  kynlan4ic dropped Снаряд рельсотрона
+[02/18/2023 23:05:07]
+  kynlan4ic removed Снаряд рельсотрона from Зарядник рельсотрона (ID: 403)
+[02/18/2023 23:05:08]
+  kynlan4ic removed Снаряд рельсотрона from Зарядник рельсотрона (ID: 403)
+[02/18/2023 23:05:08]
+  kynlan4ic removed Снаряд рельсотрона from Зарядник рельсотрона (ID: 403)
+[02/18/2023 23:05:09]
+  Jerald Hinton equipped Снаряд рельсотрона
+[02/18/2023 23:05:11]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 23:05:13]
+  Jerald Hinton equipped Снаряд рельсотрона
+[02/18/2023 23:05:13]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 23:05:13]
+  vlad32 picked up Подводный скутер
+[02/18/2023 23:05:13]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 23:05:14]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 23:05:14]
+  vlad32 equipped Подводный скутер
+[02/18/2023 23:05:14]
+  Console command "spawnitem nuclearshell cursor" executed by kynlan4ic.
+[02/18/2023 23:05:15]
+  Dominick Dollinger equipped Ядерный снаряд
+[02/18/2023 23:05:16]
+  Santiago Whitely equipped Снаряд рельсотрона
+[02/18/2023 23:05:16]
+  igameCrog unequipped Отвертка
+[02/18/2023 23:05:16]
+  igameCrog equipped Ящик с химикатами
+[02/18/2023 23:05:16]
+  kynlan4ic equipped Ядерный снаряд
+[02/18/2023 23:05:18]
+  igameCrog picked up Этанол
+[02/18/2023 23:05:18]
+  igameCrog picked up Этанол
+[02/18/2023 23:05:19]
+  Jerald Hinton equipped Снаряд рельсотрона
+[02/18/2023 23:05:20]
+  igameCrog dropped Ящик с химикатами
+[02/18/2023 23:05:20]
+  Dominick Dollinger equipped Ядерный снаряд
+[02/18/2023 23:05:20]
+  kynlan4ic placed Ядерный снаряд in Зарядник рельсотрона (ID: 403)
+[02/18/2023 23:05:20]
+  kynlan4ic removed Снаряд рельсотрона from Зарядник рельсотрона (ID: 403)
+[02/18/2023 23:05:20]
+  kynlan4ic equipped Снаряд рельсотрона
+[02/18/2023 23:05:20]
+  kynlan4ic picked up Снаряд рельсотрона
+[02/18/2023 23:05:21]
+  igameCrog equipped Металлический ящик
+[02/18/2023 23:05:21]
+  kynlan4ic dropped Снаряд рельсотрона
+[02/18/2023 23:05:26]
+  igameCrog picked up Шоковая дубинка
+[02/18/2023 23:05:28]
+  igameCrog placed Шоковая дубинка in Пояс инструментов (ID: 2629)
+[02/18/2023 23:05:30]
+  kynlan4ic launched Рельсотрон (projectile: Ядерный снаряд)
+[02/18/2023 23:05:30]
+  igameCrog placed Этанол in Форма врача (ID: 2606)
+[02/18/2023 23:05:30]
+  igameCrog placed Этанол in Форма врача (ID: 2606)
+[02/18/2023 23:05:30]
+  igameCrog placed Этанол in Форма врача (ID: 2606)
+[02/18/2023 23:05:34]
+  igameCrog dropped Металлический ящик
+[02/18/2023 23:05:36]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/18/2023 23:05:38]
+  igameCrog equipped Медконтейнер
+[02/18/2023 23:05:41]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:05:41]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:43]
+  igameCrog placed Бинт in Форма врача (ID: 2606)
+[02/18/2023 23:05:44]
+  igameCrog placed Бинт in Медконтейнер (ID: 2556)
+[02/18/2023 23:05:46]
+  kynlan4ic launched Рельсотрон (projectile: Ядерный снаряд)
+[02/18/2023 23:05:47]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:05:48]
+  Lynn Radice equipped Ядерный снаряд
+[02/18/2023 23:05:48]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:05:48]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:05:48]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:05:48]
+  Dominick Dollinger equipped Гаечный ключ
+[02/18/2023 23:05:50]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:05:50]
+  Lynn Radice unequipped Сварочный аппарат
+[02/18/2023 23:05:50]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:05:50]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:05:50]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:05:50]
+  Summer Rangel equipped Шоковая дубинка
+[02/18/2023 23:05:50]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:05:50]
+  Summer Rangel: Мне нужно подводное снаряжение!
+[02/18/2023 23:05:51]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:05:51]
+  Summer Rangel unequipped Шоковая дубинка
+[02/18/2023 23:05:51]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:05:51]
+  Dominick Dollinger unequipped Гаечный ключ
+[02/18/2023 23:05:51]
+  Astrid Mosley unequipped Гаечный ключ
+[02/18/2023 23:05:51]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:05:51]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:05:51]
+  Summer Rangel equipped Шоковая дубинка
+[02/18/2023 23:05:51]
+  Dominick Dollinger equipped Гаечный ключ
+[02/18/2023 23:05:51]
+  Darwin Fonte equipped Гаечный ключ
+[02/18/2023 23:05:51]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:05:52]
+  Astrid Mosley unequipped Гаечный ключ
+[02/18/2023 23:05:52]
+  Summer Rangel unequipped Шоковая дубинка
+[02/18/2023 23:05:53]
+  Summer Rangel equipped Шоковая дубинка
+[02/18/2023 23:05:53]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:05:56]
+  Santiago Whitely: Надо найти водолазный скафандр!
+[02/18/2023 23:05:56]
+  Emerald Riddle: Мне нужно подводное снаряжение!
+[02/18/2023 23:05:56]
+  Erline Delange: Надо найти водолазный скафандр!
+[02/18/2023 23:05:56]
+  Dominick Dollinger: Мне нужно подводное снаряжение!
+[02/18/2023 23:05:56]
+  igameCrog dropped Морфин
+[02/18/2023 23:06:00]
+  igameCrog dropped Медконтейнер
+[02/18/2023 23:06:00]
+  vlad32 has died (Cause of death: Укусы)
+[02/18/2023 23:06:00]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 23:06:00]
+  Summer Rangel unequipped Шоковая дубинка
+[02/18/2023 23:06:00]
+  Summer Rangel equipped Шоковая дубинка
+[02/18/2023 23:06:01]
+  Lynn Radice unequipped Сварочный аппарат
+[02/18/2023 23:06:01]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:06:01]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:06:02]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:06:02]
+  Darwin Fonte unequipped Гаечный ключ
+[02/18/2023 23:06:02]
+  Lynn Radice: Мне нужно подводное снаряжение!
+[02/18/2023 23:06:03]
+  Astrid Mosley unequipped Гаечный ключ
+[02/18/2023 23:06:04]
+  Jerald Hinton equipped Морфин
+[02/18/2023 23:06:04]
+  Dominick Dollinger unequipped Гаечный ключ
+[02/18/2023 23:06:06]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:06:07]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:06:07]
+  Emerald Riddle unequipped Сварочный аппарат
+[02/18/2023 23:06:07]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:06:07]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:06:08]
+  Emerald Riddle unequipped Сварочный аппарат
+[02/18/2023 23:06:08]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:06:08]
+  Darwin Fonte equipped Сварочный аппарат
+[02/18/2023 23:06:08]
+  Darwin Fonte: Надо найти водолазный скафандр!
+[02/18/2023 23:06:08]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:06:09]
+  Jerald Hinton: Надо найти водолазный скафандр!
+[02/18/2023 23:06:09]
+  kynlan4ic picked up Плазменный резак
+[02/18/2023 23:06:10]
+  Boyd Quinn: Надо найти водолазный скафандр!
+[02/18/2023 23:06:10]
+  Astrid Mosley: Надо найти водолазный скафандр!
+[02/18/2023 23:06:11]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:06:11]
+  kynlan4ic picked up Подводный скутер
+[02/18/2023 23:06:12]
+  Inner wall breached by Crawlerhusk
+[02/18/2023 23:06:14]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:06:14]
+  Inner wall breached by Crawlerhusk
+[02/18/2023 23:06:18]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:06:18]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:06:18]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:06:18]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:06:19]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:06:20]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:06:20]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:06:20]
+  Emerald Riddle unequipped Сварочный аппарат
+[02/18/2023 23:06:20]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:06:20]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:06:20]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:06:21]
+  kynlan4ic launched Рельсотрон (projectile: Снаряд рельсотрона)
+[02/18/2023 23:06:21]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:06:22]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/18/2023 23:06:22]
+  Summer Rangel: Мне нужно подводное снаряжение!
+[02/18/2023 23:06:22]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:06:22]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:06:22]
+  Astrid Mosley unequipped Гаечный ключ
+[02/18/2023 23:06:22]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:06:22]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:06:22]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:06:23]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:06:24]
+  kynlan4ic equipped Ядерный снаряд
+[02/18/2023 23:06:25]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:06:26]
+  kynlan4ic placed Ядерный снаряд in Зарядник рельсотрона (ID: 403)
+[02/18/2023 23:06:26]
+  Santiago Whitely: Надо найти водолазный скафандр!
+[02/18/2023 23:06:26]
+  Emerald Riddle: Мне нужно подводное снаряжение!
+[02/18/2023 23:06:27]
+  kynlan4ic launched Рельсотрон (projectile: Ядерный снаряд)
+[02/18/2023 23:06:27]
+  Dominick Dollinger: Надо найти водолазный скафандр!
+[02/18/2023 23:06:27]
+  Inner wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Inner wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:06:27]
+  kynlan4ic has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 23:06:27]
+  Erline Delange has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 23:06:27]
+  Summer Rangel has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 23:06:27]
+  Boyd Quinn has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 23:06:27]
+  Crawlerhusk has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 23:06:27]
+  Crawlerhusk has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 23:06:33]
+  Jerald Hinton: Камера балласта B: давление достигло опасного уровня!
+[02/18/2023 23:06:33]
+  Astrid Mosley: Камера балласта B: высокий уровень давления!
+[02/18/2023 23:06:34]
+  igameCrog has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Чпок В Пупок has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Dominick Dollinger has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Emerald Riddle has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Lynn Radice has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Darwin Fonte has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Astrid Mosley has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Santiago Whitely has died (Cause of death: Баротравма)
+[02/18/2023 23:06:34]
+  Jerald Hinton has died (Cause of death: Баротравма)
+[02/18/2023 23:07:00]
+  Dispatching the respawn shuttle.
+[02/18/2023 23:07:00]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[02/18/2023 23:07:00]
+  Respawning vlad32 (STEAM_1:0:579729700) as Офицер службы безопасности
+[02/18/2023 23:07:00]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[02/18/2023 23:07:00]
+  Respawning Чпок В Пупок (STEAM_1:1:442373355) as Механик
+[02/18/2023 23:07:00]
+  Respawning bot Emerald Riddle as Механик
+[02/18/2023 23:07:00]
+  Respawning bot Erline Delange as Врач
+[02/18/2023 23:07:00]
+  Respawning bot Lynn Radice as Механик
+[02/18/2023 23:07:00]
+  Respawning bot Summer Rangel as Офицер службы безопасности
+[02/18/2023 23:07:00]
+  Respawning bot Dominick Dollinger as Инженер
+[02/18/2023 23:07:00]
+  Respawning bot Darwin Fonte as Помощник
+[02/18/2023 23:07:00]
+  Respawning bot Astrid Mosley as Помощник
+[02/18/2023 23:07:01]
+  Respawning bot Santiago Whitely as Помощник
+[02/18/2023 23:07:01]
+  Respawning bot Boyd Quinn as Механик
+[02/18/2023 23:07:01]
+  Respawning bot Jerald Hinton as Механик
+[02/18/2023 23:07:03]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:07:04]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:07:05]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:07:05]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[02/18/2023 23:07:07]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:07:07]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:07:15]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:07:15]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:07:18]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[02/18/2023 23:07:23]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:07:26]
+  Summer Rangel: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:28]
+  Erline Delange: Надо найти водолазный скафандр!
+[02/18/2023 23:07:28]
+  Jerald Hinton: Надо найти водолазный скафандр!
+[02/18/2023 23:07:28]
+  Astrid Mosley: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:28]
+  Boyd Quinn: Надо найти водолазный скафандр!
+[02/18/2023 23:07:28]
+  Emerald Riddle: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:28]
+  Dominick Dollinger: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:29]
+  Darwin Fonte: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:29]
+  Lynn Radice: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:29]
+  Santiago Whitely: Мне нужно подводное снаряжение!
+[02/18/2023 23:07:34]
+  Чпок В Пупок equipped Подводный скутер
+[02/18/2023 23:07:34]
+  vlad32 has died (Cause of death: Баротравма)
+[02/18/2023 23:07:34]
+  Чпок В Пупок has died (Cause of death: Баротравма)
+[02/18/2023 23:07:34]
+  igameCrog has died (Cause of death: Баротравма)
+[02/18/2023 23:07:40]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:07:41]
+  kynlan4ic dropped Подводный скутер
+[02/18/2023 23:07:45]
+  kynlan4ic picked up Подводный скутер
+[02/18/2023 23:07:45]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:07:45]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:07:45]
+  kynlan4ic picked up Кислородный баллон
+[02/18/2023 23:07:47]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:07:50]
+  kynlan4ic placed Подводный скутер in Хозяйственный шкаф (ID: 2459)
+[02/18/2023 23:07:51]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:08:10]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 23:08:20]
+  Console command "spawn Spineling_giant cursor" executed by igameCrog.
+[02/18/2023 23:08:23]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:08:23]
+  Santiago Whitely: Отвали от меня!
+[02/18/2023 23:08:25]
+  kynlan4ic unequipped Подводный скутер
+[02/18/2023 23:08:25]
+  kynlan4ic equipped Вещмешок
+[02/18/2023 23:08:26]
+  Santiago Whitely: Помогите, я истекаю кровью!
+[02/18/2023 23:08:28]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:08:28]
+  kynlan4ic dropped Вещмешок
+[02/18/2023 23:08:33]
+  kynlan4ic equipped Револьвер
+[02/18/2023 23:08:35]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 23:08:37]
+  Spineling_giant has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 23:08:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:44]
+  Erline Delange attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 23:08:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:44]
+  Erline Delange attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 23:08:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:48]
+  Erline Delange attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 23:08:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:48]
+  Erline Delange attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 23:08:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:48]
+  Erline Delange attacked by kynlan4ic. Рваная рана: 5.8 Кровотечение: 0.6
+[02/18/2023 23:08:48]
+  Darwin Fonte equipped Гаечный ключ
+[02/18/2023 23:08:49]
+  Erline Delange: Отвали от меня!
+[02/18/2023 23:08:49]
+  Darwin Fonte: Эти проклятые создания тут повсюду!
+[02/18/2023 23:08:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 23:08:49]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:08:50]
+  Astrid Mosley: А-А-А-А-А-А!
+[02/18/2023 23:08:52]
+  Erline Delange: Я теряю много крови!
+[02/18/2023 23:08:57]
+  Dominick Dollinger equipped Гаечный ключ
+[02/18/2023 23:08:57]
+  Dominick Dollinger: Эти проклятые создания тут повсюду!
+[02/18/2023 23:08:58]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:08:59]
+  Darwin Fonte unequipped Гаечный ключ
+[02/18/2023 23:09:00]
+  Santiago Whitely: Помогите, я истекаю кровью!
+[02/18/2023 23:09:10]
+  Erline Delange: Эти проклятые создания тут повсюду!
+[02/18/2023 23:09:11]
+  Astrid Mosley: Помогите!
+[02/18/2023 23:09:21]
+  Darwin Fonte equipped Гаечный ключ
+[02/18/2023 23:09:21]
+  Darwin Fonte: Ищу безопасное место!
+[02/18/2023 23:09:24]
+  Erline Delange: Я теряю много крови!
+[02/18/2023 23:09:31]
+  Astrid Mosley: Помогите!
+[02/18/2023 23:09:31]
+  Darwin Fonte unequipped Гаечный ключ
+[02/18/2023 23:09:34]
+  Santiago Whitely: Я теряю много крови!
+[02/18/2023 23:09:48]
+  Console command "power 999999" executed by igameCrog.
+[02/18/2023 23:09:51]
+  Astrid Mosley: Отвали от меня!
+[02/18/2023 23:09:52]
+  Astrid Mosley: Помогите, я истекаю кровью!
+[02/18/2023 23:09:56]
+  Astrid Mosley used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:09:56]
+  Erline Delange: Я теряю много крови!
+[02/18/2023 23:09:57]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:09:57]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:09:57]
+  Santiago Whitely: Отвали от меня!
+[02/18/2023 23:09:58]
+  Boyd Quinn: А-А-А-А-А-А!
+[02/18/2023 23:09:59]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:09:59]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:09:59]
+  Darwin Fonte equipped Гаечный ключ
+[02/18/2023 23:10:00]
+  Santiago Whitely used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:10:00]
+  Darwin Fonte: Помогите!
+[02/18/2023 23:10:00]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:10:00]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:10:01]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:10:01]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:10:03]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:10:03]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:10:05]
+  Santiago Whitely: У меня кровь!
+[02/18/2023 23:10:06]
+  Boyd Quinn: Помогите, я истекаю кровью!
+[02/18/2023 23:10:08]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:10:08]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:10:09]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 23:10:10]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 23:10:10]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 23:10:11]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 23:10:12]
+  Inner wall repaired by Boyd Quinn
+[02/18/2023 23:10:13]
+  Astrid Mosley: Отвали от меня!
+[02/18/2023 23:10:13]
+  Darwin Fonte used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:10:14]
+  Darwin Fonte used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:10:15]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:10:15]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:10:15]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 23:10:16]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:10:16]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:10:17]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 16.8 Кровотечение: 25.0 Оглушение: 0.2
+[02/18/2023 23:10:17]
+  Santiago Whitely: Помогите мне!
+[02/18/2023 23:10:18]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:10:18]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:10:18]
+  Boyd Quinn: Помогите!
+[02/18/2023 23:10:21]
+  Darwin Fonte: Помогите мне!
+[02/18/2023 23:10:23]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:10:24]
+  kynlan4ic picked up Лом
+[02/18/2023 23:10:24]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:10:25]
+  Erline Delange: Помогите мне!
+[02/18/2023 23:10:25]
+  kynlan4ic equipped Лом
+[02/18/2023 23:10:26]
+  Astrid Mosley: Помогите, я истекаю кровью!
+[02/18/2023 23:10:28]
+  Erline Delange: У меня кровь!
+[02/18/2023 23:10:28]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:10:30]
+  Darwin Fonte unequipped Гаечный ключ
+[02/18/2023 23:10:30]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:10:31]
+  Lynn Radice: Эти проклятые создания тут повсюду!
+[02/18/2023 23:10:34]
+  The respawn shuttle is leaving.
+[02/18/2023 23:10:37]
+  Santiago Whitely: У меня кровь!
+[02/18/2023 23:10:38]
+  Boyd Quinn: Помогите, я истекаю кровью!
+[02/18/2023 23:10:42]
+  Astrid Mosley: А-А-А-А-А-А!
+[02/18/2023 23:10:45]
+  Erline Delange: Отвали от меня!
+[02/18/2023 23:10:47]
+  Dominick Dollinger: А-А-А-А-А-А!
+[02/18/2023 23:10:50]
+  Console command "godmode" executed by kynlan4ic.
+[02/18/2023 23:10:52]
+  Lynn Radice: Эти проклятые создания тут повсюду!
+[02/18/2023 23:10:54]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:10:57]
+  Santiago Whitely: Что-то в горле першит.
+[02/18/2023 23:10:59]
+  Astrid Mosley: Я чувствую жуткую слабость. Все тело болит.
+[02/18/2023 23:11:01]
+  Astrid Mosley: Я теряю много крови!
+[02/18/2023 23:11:03]
+  kynlan4ic unequipped Гаечный ключ
+[02/18/2023 23:11:04]
+  kynlan4ic unequipped Сварочный аппарат
+[02/18/2023 23:11:04]
+  Darwin Fonte has died (Cause of death: Unknown)
+[02/18/2023 23:11:04]
+  Santiago Whitely has died (Cause of death: Unknown)
+[02/18/2023 23:11:04]
+  Boyd Quinn has died (Cause of death: Unknown)
+[02/18/2023 23:11:04]
+  The respawn shuttle has left.
+[02/18/2023 23:11:04]
+  kynlan4ic unequipped Лом
+[02/18/2023 23:11:04]
+  kynlan4ic equipped Вещмешок
+[02/18/2023 23:11:05]
+  Erline Delange: Помогите мне!
+[02/18/2023 23:11:06]
+  kynlan4ic unequipped Подводный скутер
+[02/18/2023 23:11:08]
+  kynlan4ic dropped Подводный скутер
+[02/18/2023 23:11:12]
+  Lynn Radice: Отвали от меня!
+[02/18/2023 23:11:15]
+  kynlan4ic unequipped Сварочный аппарат
+[02/18/2023 23:11:16]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 23:11:16]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[02/18/2023 23:11:17]
+  kynlan4ic dropped Сварочный аппарат
+[02/18/2023 23:11:18]
+  Astrid Mosley: Ищу безопасное место!
+[02/18/2023 23:11:20]
+  kynlan4ic dropped Вещмешок
+[02/18/2023 23:11:25]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:11:25]
+  kynlan4ic equipped Гаечный ключ
+[02/18/2023 23:11:26]
+  Erline Delange: Помогите мне!
+[02/18/2023 23:11:33]
+  Lynn Radice: Помогите мне!
+[02/18/2023 23:11:38]
+  Lynn Radice: Помогите, я истекаю кровью!
+[02/18/2023 23:11:39]
+  Astrid Mosley: Помогите мне!
+[02/18/2023 23:11:40]
+  Lynn Radice: Что-то в горле першит.
+[02/18/2023 23:11:42]
+  kynlan4ic equipped Лом
+[02/18/2023 23:11:44]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:44]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:45]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:45]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:46]
+  Erline Delange: Помогите мне!
+[02/18/2023 23:11:46]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:46]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:48]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:48]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:50]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:50]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:52]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:52]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:53]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:53]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:53]
+  kynlan4ic used Лом on Обшивка A 32 градуса.
+[02/18/2023 23:11:54]
+  Lynn Radice: Помогите!
+[02/18/2023 23:11:55]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:11:57]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:57]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:59]
+  kynlan4ic used Лом on Большая вертикальная внутренняя стена.
+[02/18/2023 23:11:59]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:11:59]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:11:59]
+  Astrid Mosley: Помогите!
+[02/18/2023 23:12:00]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:00]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:01]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:01]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:03]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:03]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:04]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:04]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:04]
+  Dispatching the respawn shuttle.
+[02/18/2023 23:12:04]
+  Respawning vlad32 (STEAM_1:0:579729700) as Офицер службы безопасности
+[02/18/2023 23:12:04]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[02/18/2023 23:12:05]
+  Respawning Чпок В Пупок (STEAM_1:1:442373355) as Механик
+[02/18/2023 23:12:05]
+  Respawning bot Emerald Riddle as Механик
+[02/18/2023 23:12:05]
+  Respawning bot Erline Delange as Врач
+[02/18/2023 23:12:05]
+  Respawning bot Lynn Radice as Механик
+[02/18/2023 23:12:05]
+  Respawning bot Summer Rangel as Офицер службы безопасности
+[02/18/2023 23:12:05]
+  Respawning bot Dominick Dollinger as Инженер
+[02/18/2023 23:12:05]
+  Respawning bot Darwin Fonte as Помощник
+[02/18/2023 23:12:05]
+  Respawning bot Astrid Mosley as Помощник
+[02/18/2023 23:12:05]
+  Respawning bot Santiago Whitely as Помощник
+[02/18/2023 23:12:05]
+  Respawning bot Boyd Quinn as Механик
+[02/18/2023 23:12:05]
+  Respawning bot Jerald Hinton as Механик
+[02/18/2023 23:12:06]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:06]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:07]
+  Erline Delange: Отвали от меня!
+[02/18/2023 23:12:08]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:12:09]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:12:09]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.5
+[02/18/2023 23:12:09]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:10]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 23:12:10]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:10]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:11]
+  Crawlerhusk has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 23:12:11]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:11]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:11]
+  Outer wall breached by kynlan4ic
+[02/18/2023 23:12:11]
+  kynlan4ic used Лом on Обшивка A 32 градуса.
+[02/18/2023 23:12:12]
+  Lynn Radice: Я теряю много крови!
+[02/18/2023 23:12:13]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:13]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:14]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:12:14]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:12:21]
+  Astrid Mosley: Помогите мне!
+[02/18/2023 23:12:26]
+  Astrid Mosley: У меня что-то во рту...
+[02/18/2023 23:12:26]
+  Erline Delange: У меня нет оружия для самообороны!
+[02/18/2023 23:12:27]
+  Erline Delange: Эти проклятые создания тут повсюду!
+[02/18/2023 23:12:37]
+  Erline Delange: Надо найти водолазный скафандр!
+[02/18/2023 23:12:37]
+  Dominick Dollinger: Надо найти водолазный скафандр!
+[02/18/2023 23:12:37]
+  Emerald Riddle: Надо найти водолазный скафандр!
+[02/18/2023 23:12:37]
+  Summer Rangel: Мне нужно подводное снаряжение!
+[02/18/2023 23:12:37]
+  Darwin Fonte: Надо найти водолазный скафандр!
+[02/18/2023 23:12:37]
+  Astrid Mosley: Мне нужно подводное снаряжение!
+[02/18/2023 23:12:37]
+  Santiago Whitely: Мне нужно подводное снаряжение!
+[02/18/2023 23:12:37]
+  Boyd Quinn: Мне нужно подводное снаряжение!
+[02/18/2023 23:12:37]
+  Lynn Radice: Надо найти водолазный скафандр!
+[02/18/2023 23:12:38]
+  Jerald Hinton: Надо найти водолазный скафандр!
+[02/18/2023 23:12:44]
+  Emerald Riddle: У меня кровь!
+[02/18/2023 23:12:44]
+  vlad32 has died (Cause of death: Баротравма)
+[02/18/2023 23:12:44]
+  Чпок В Пупок has died (Cause of death: Баротравма)
+[02/18/2023 23:12:44]
+  igameCrog has died (Cause of death: Баротравма)
+[02/18/2023 23:12:45]
+  Jerald Hinton: У меня кровь!
+[02/18/2023 23:12:47]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:12:47]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:12:47]
+  Emerald Riddle: А-А-А-А-А-А!
+[02/18/2023 23:12:47]
+  Jerald Hinton: Помогите!
+[02/18/2023 23:12:47]
+  Erline Delange: Ищу безопасное место!
+[02/18/2023 23:12:49]
+  Summer Rangel equipped Шоковая дубинка
+[02/18/2023 23:12:49]
+  Summer Rangel: Ищу безопасное место!
+[02/18/2023 23:12:50]
+  Dominick Dollinger equipped Гаечный ключ
+[02/18/2023 23:12:50]
+  Erline Delange: У меня нет оружия для самообороны!
+[02/18/2023 23:12:50]
+  Summer Rangel equipped Шоковая дубинка
+[02/18/2023 23:12:50]
+  Dominick Dollinger: Помогите мне!
+[02/18/2023 23:12:50]
+  Astrid Mosley equipped Гаечный ключ
+[02/18/2023 23:12:51]
+  Astrid Mosley: Эти проклятые создания тут повсюду!
+[02/18/2023 23:12:51]
+  Erline Delange: Помогите мне!
+[02/18/2023 23:12:51]
+  Summer Rangel: А-А-А-А-А-А!
+[02/18/2023 23:12:51]
+  Summer Rangel: У меня кровь!
+[02/18/2023 23:12:52]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:12:52]
+  Summer Rangel used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 23:12:52]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:12:52]
+  Darwin Fonte equipped Гаечный ключ
+[02/18/2023 23:12:52]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:12:53]
+  Emerald Riddle: Эти проклятые создания тут повсюду!
+[02/18/2023 23:12:53]
+  Boyd Quinn: Помогите!
+[02/18/2023 23:12:53]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:12:53]
+  Lynn Radice: Ищу безопасное место!
+[02/18/2023 23:12:53]
+  Santiago Whitely: Отвали от меня!
+[02/18/2023 23:12:53]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:12:53]
+  Darwin Fonte: А-А-А-А-А-А!
+[02/18/2023 23:12:54]
+  Jerald Hinton: Отвали от меня!
+[02/18/2023 23:12:55]
+  Summer Rangel: Помогите, я истекаю кровью!
+[02/18/2023 23:12:56]
+  Erline Delange: Помогите, я истекаю кровью!
+[02/18/2023 23:12:57]
+  Dominick Dollinger: Ищу безопасное место!
+[02/18/2023 23:12:59]
+  Summer Rangel used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 23:13:00]
+  Dominick Dollinger unequipped Гаечный ключ
+[02/18/2023 23:13:00]
+  Summer Rangel used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 23:13:00]
+  Astrid Mosley unequipped Гаечный ключ
+[02/18/2023 23:13:01]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:13:01]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:13:02]
+  Darwin Fonte unequipped Гаечный ключ
+[02/18/2023 23:13:02]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:13:03]
+  Emerald Riddle unequipped Сварочный аппарат
+[02/18/2023 23:13:03]
+  Lynn Radice unequipped Сварочный аппарат
+[02/18/2023 23:13:03]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:13:07]
+  Emerald Riddle equipped Сварочный аппарат
+[02/18/2023 23:13:08]
+  Emerald Riddle: А-А-А-А-А-А!
+[02/18/2023 23:13:09]
+  Erline Delange: У меня нет оружия для самообороны!
+[02/18/2023 23:13:10]
+  Erline Delange: Помогите!
+[02/18/2023 23:13:10]
+  Summer Rangel: Помогите!
+[02/18/2023 23:13:11]
+  Summer Rangel: Помогите!
+[02/18/2023 23:13:12]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:13:13]
+  Emerald Riddle: Эти проклятые создания тут повсюду!
+[02/18/2023 23:13:13]
+  Summer Rangel used Шоковая дубинка(Аккумулятор) on Crawlerhusk.
+[02/18/2023 23:13:13]
+  Lynn Radice: Ищу безопасное место!
+[02/18/2023 23:13:14]
+  Summer Rangel unequipped Шоковая дубинка
+[02/18/2023 23:13:14]
+  Summer Rangel equipped Нож ныряльщика
+[02/18/2023 23:13:15]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:13:19]
+  Summer Rangel used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 23:13:20]
+  Erline Delange: А-А-А-А-А-А!
+[02/18/2023 23:13:21]
+  Dominick Dollinger: Помогите!
+[02/18/2023 23:13:22]
+  Lynn Radice unequipped Сварочный аппарат
+[02/18/2023 23:13:24]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:13:24]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:13:24]
+  Boyd Quinn: Помогите!
+[02/18/2023 23:13:25]
+  Santiago Whitely: Эти проклятые создания тут повсюду!
+[02/18/2023 23:13:25]
+  Summer Rangel: Я теряю много крови!
+[02/18/2023 23:13:28]
+  Dominick Dollinger equipped Гаечный ключ
+[02/18/2023 23:13:28]
+  Dominick Dollinger: Помогите!
+[02/18/2023 23:13:29]
+  Jerald Hinton has died (Cause of death: Кровопотеря)
+[02/18/2023 23:13:29]
+  Summer Rangel: Помогите, я истекаю кровью!
+[02/18/2023 23:13:29]
+  Erline Delange: Я теряю много крови!
+[02/18/2023 23:13:29]
+  Summer Rangel used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 23:13:30]
+  Erline Delange: Помогите!
+[02/18/2023 23:13:31]
+  Summer Rangel: Эти проклятые создания тут повсюду!
+[02/18/2023 23:13:31]
+  Summer Rangel: А-А-А-А-А-А!
+[02/18/2023 23:13:31]
+  Lynn Radice equipped Сварочный аппарат
+[02/18/2023 23:13:33]
+  Client "Чпок В Пупок" sent a server command "ConsoleCommands". Permission denied.
+[02/18/2023 23:13:33]
+  Summer Rangel used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 23:13:34]
+  Lynn Radice: Отвали от меня!
+[02/18/2023 23:13:37]
+  Summer Rangel used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 23:13:38]
+  Client "Чпок В Пупок" sent a server command "ConsoleCommands". Permission denied.
+[02/18/2023 23:13:38]
+  Emerald Riddle has died (Cause of death: Кровопотеря)
+[02/18/2023 23:13:43]
+  Santiago Whitely used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:13:43]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:13:43]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:13:44]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:13:44]
+  Console command "spawnitem shotgun cursor" executed by kynlan4ic.
+[02/18/2023 23:13:46]
+  Erline Delange: У меня нет оружия для самообороны!
+[02/18/2023 23:13:46]
+  Summer Rangel used Нож ныряльщика on Crawlerhusk.
+[02/18/2023 23:13:47]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:13:48]
+  Santiago Whitely: Помогите, я истекаю кровью!
+[02/18/2023 23:13:50]
+  Erline Delange: А-А-А-А-А-А!
+[02/18/2023 23:13:51]
+  Summer Rangel: А-А-А-А-А-А!
+[02/18/2023 23:13:54]
+  Lynn Radice: Ищу безопасное место!
+[02/18/2023 23:13:56]
+  Summer Rangel has died (Cause of death: Кровопотеря)
+[02/18/2023 23:13:57]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:13:57]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:13:58]
+  Erline Delange: У меня голова кружится.
+[02/18/2023 23:14:02]
+  Erline Delange: Я теряю много крови!
+[02/18/2023 23:14:04]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:14:05]
+  Чпок В Пупок: give weapon drobovik i superlodku
+[02/18/2023 23:14:06]
+  Erline Delange: Кажется, у меня жар.
+[02/18/2023 23:14:08]
+  Dominick Dollinger: Помогите!
+[02/18/2023 23:14:11]
+  Erline Delange: Отвали от меня!
+[02/18/2023 23:14:12]
+  kynlan4ic equipped Трубка капитана
+[02/18/2023 23:14:13]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:14]
+  Dominick Dollinger: Ищу безопасное место!
+[02/18/2023 23:14:14]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:14:16]
+  Boyd Quinn: У меня кровь!
+[02/18/2023 23:14:16]
+  Dominick Dollinger: Я теряю много крови!
+[02/18/2023 23:14:17]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:14:17]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:14:17]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:14:18]
+  Lynn Radice: Отвали от меня!
+[02/18/2023 23:14:19]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:14:19]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:20]
+  Dominick Dollinger used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:14:21]
+  Santiago Whitely: Я теряю много крови!
+[02/18/2023 23:14:22]
+  kynlan4ic used Лом on Обшивка A 0 градусов.
+[02/18/2023 23:14:22]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:14:22]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:14:23]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:23]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:23]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:14:25]
+  Dominick Dollinger used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:14:25]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:14:25]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:26]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:26]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:27]
+  kynlan4ic used Лом on Обшивка A 0 градусов.
+[02/18/2023 23:14:27]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:14:27]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:14:28]
+  Dominick Dollinger used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:14:28]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:14:28]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:28]
+  Dominick Dollinger: Помогите!
+[02/18/2023 23:14:30]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:30]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:32]
+  Erline Delange: Эти проклятые создания тут повсюду!
+[02/18/2023 23:14:32]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:14:32]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:14:32]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:14:33]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:14:33]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:35]
+  Dominick Dollinger used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:14:35]
+  Dominick Dollinger: Помогите мне!
+[02/18/2023 23:14:35]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:14:35]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:36]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:36]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:38]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:38]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:39]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:39]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:40]
+  Boyd Quinn: Верхний стыковочный порт: выполняю ремонт. Осталось несколько отверстий!
+[02/18/2023 23:14:41]
+  Outer wall repaired by Boyd Quinn
+[02/18/2023 23:14:41]
+  Summer Rangel has died (Cause of death: Укусы)
+[02/18/2023 23:14:42]
+  Dominick Dollinger used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:14:42]
+  Santiago Whitely unequipped Гаечный ключ
+[02/18/2023 23:14:42]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:42]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:42]
+  Outer wall repaired by Boyd Quinn
+[02/18/2023 23:14:44]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:44]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:45]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:45]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:46]
+  kynlan4ic used Лом on Обшивка A 0 градусов.
+[02/18/2023 23:14:46]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:46]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:48]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:48]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:48]
+  Dominick Dollinger used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:14:48]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:14:48]
+  Dominick Dollinger: Помогите мне!
+[02/18/2023 23:14:49]
+  Dominick Dollinger: У меня кровь!
+[02/18/2023 23:14:49]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:49]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:49]
+  Santiago Whitely equipped Гаечный ключ
+[02/18/2023 23:14:50]
+  Boyd Quinn: Помогите, я истекаю кровью!
+[02/18/2023 23:14:52]
+  Erline Delange: Отвали от меня!
+[02/18/2023 23:14:55]
+  Santiago Whitely: Я теряю много крови!
+[02/18/2023 23:14:55]
+  Dominick Dollinger: А-А-А-А-А-А!
+[02/18/2023 23:14:55]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:55]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:14:56]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:14:56]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:14:58]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:14:58]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:14:59]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:14:59]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:00]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:00]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:02]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:02]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:04]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:04]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:05]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:05]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:06]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:06]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:06]
+  Boyd Quinn: Я чувствую жуткую слабость. Все тело болит.
+[02/18/2023 23:15:09]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:09]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:10]
+  Dominick Dollinger has died (Cause of death: Укусы)
+[02/18/2023 23:15:10]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:10]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:13]
+  Outer wall breached by Crawlerhusk
+[02/18/2023 23:15:13]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:13]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:13]
+  Erline Delange: Ищу безопасное место!
+[02/18/2023 23:15:14]
+  Crawlerhusk has died (Cause of death: Травма от удара тупым предметом)
+[02/18/2023 23:15:14]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:14]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:15]
+  Darwin Fonte equipped Гаечный ключ
+[02/18/2023 23:15:15]
+  Jerald Hinton equipped Сварочный аппарат
+[02/18/2023 23:15:16]
+  Crawlerhusk attacked by kynlan4ic. Травма от удара тупым предметом: 10.0 Оглушение: 0.3
+[02/18/2023 23:15:16]
+  kynlan4ic used Лом on Crawlerhusk.
+[02/18/2023 23:15:16]
+  Erline Delange: Мне нужно оружие!
+[02/18/2023 23:15:16]
+  Jerald Hinton: Отвали от меня!
+[02/18/2023 23:15:16]
+  Darwin Fonte: Отвали от меня!
+[02/18/2023 23:15:17]
+  Erline Delange: Эти проклятые создания тут повсюду!
+[02/18/2023 23:15:18]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:15:18]
+  Boyd Quinn equipped Гаечный ключ
+[02/18/2023 23:15:19]
+  Boyd Quinn unequipped Гаечный ключ
+[02/18/2023 23:15:19]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:15:23]
+  Erline Delange: У меня нет оружия для самообороны!
+[02/18/2023 23:15:23]
+  Darwin Fonte used Гаечный ключ on Crawlerhusk.
+[02/18/2023 23:15:24]
+  Darwin Fonte: Я теряю много крови!
+[02/18/2023 23:15:24]
+  Boyd Quinn: Помогите, я истекаю кровью!
+[02/18/2023 23:15:25]
+  Boyd Quinn unequipped Сварочный аппарат
+[02/18/2023 23:15:25]
+  Jerald Hinton unequipped Сварочный аппарат
+[02/18/2023 23:15:27]
+  Erline Delange: У меня что-то во рту...
+[02/18/2023 23:15:32]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:33]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:33]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:33]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:33]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:34]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:34]
+  Console command "spawnitem shotgun cursor" executed by kynlan4ic.
+[02/18/2023 23:15:35]
+  Astrid Mosley has died (Cause of death: Внутренняя травма)
+[02/18/2023 23:15:36]
+  Erline Delange: Отвали от меня!
+[02/18/2023 23:15:36]
+  Santiago Whitely has died (Cause of death: Кровопотеря)
+[02/18/2023 23:15:38]
+  Boyd Quinn equipped Сварочный аппарат
+[02/18/2023 23:15:38]
+  Dominick Dollinger: Помогите!
+[02/18/2023 23:15:38]
+  Console command "spawnitem shotgunshell cursor" executed by kynlan4ic.
+[02/18/2023 23:15:40]
+  kynlan4ic picked up Патрон для дробовика
+[02/18/2023 23:15:41]
+  kynlan4ic picked up Патрон для дробовика

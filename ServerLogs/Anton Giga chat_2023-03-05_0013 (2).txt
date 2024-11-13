@@ -1,0 +1,1600 @@
+﻿[03/04/2023 23:46:59]
+  Rowena Colpitts opened Настраиваемый люк
+[03/04/2023 23:46:59]
+  Rowena Colpitts opened Настраиваемый люк
+[03/04/2023 23:47:00]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/04/2023 23:47:01]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/04/2023 23:47:02]
+  Rowena Colpitts opened Настраиваемый люк
+[03/04/2023 23:47:02]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:47:05]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/04/2023 23:47:07]
+  Delbert Graves picked up Ручной сонар
+[03/04/2023 23:47:07]
+  Rowena Colpitts closed Настраиваемая дверь с окном
+[03/04/2023 23:47:09]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/04/2023 23:47:10]
+  Delbert Graves opened Настраиваемый люк
+[03/04/2023 23:47:11]
+  Delbert Graves opened Настраиваемый люк
+[03/04/2023 23:47:11]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/04/2023 23:47:11]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/04/2023 23:47:12]
+  Rowena Colpitts closed Настраиваемая дверь с окном
+[03/04/2023 23:47:13]
+  Delbert Graves opened Настраиваемый люк
+[03/04/2023 23:47:15]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/04/2023 23:47:17]
+  Rowena Colpitts opened Настраиваемый люк
+[03/04/2023 23:47:22]
+  Delbert Graves equipped Ручной сонар
+[03/04/2023 23:47:55]
+  Delbert Graves equipped Плазменный резак
+[03/04/2023 23:47:56]
+  Delbert Graves equipped Подводное ружье
+[03/04/2023 23:48:10]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:48:10]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/04/2023 23:48:11]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:48:21]
+  vlad32: я тут
+[03/04/2023 23:48:23]
+  Delbert Graves equipped ТП
+[03/04/2023 23:48:36]
+  vlad32: негрс
+[03/04/2023 23:48:38]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:48:38]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:48:40]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:48:42]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 23:48:45]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:48:46]
+  Dominick Mansfield: Загружаю в реактор дополнительное топливо!
+[03/04/2023 23:48:48]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:48:48]
+  Dominick Mansfield equipped Топливный стержень
+[03/04/2023 23:48:52]
+  Delbert Graves removed Кислородный баллон from УЗК (ID: 3998)
+[03/04/2023 23:48:53]
+  Delbert Graves placed Кислородный баллон in УЗК (ID: 3998)
+[03/04/2023 23:48:53]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 24, Turbine output: 42, Autotemp ON
+[03/04/2023 23:48:57]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:48:57]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:48:58]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:49:00]
+  Spineling has died (Cause of death: Огнестрельная рана)
+[03/04/2023 23:49:01]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:49:02]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 23:49:02]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/04/2023 23:49:04]
+  Rowena Colpitts: Меняем кислородные баллоны!
+[03/04/2023 23:49:05]
+  Spineling has died (Cause of death: Огнестрельная рана)
+[03/04/2023 23:49:07]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:49:07]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:49:08]
+  Spineling has died (Cause of death: Огнестрельная рана)
+[03/04/2023 23:49:14]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:49:20]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:50:15]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/04/2023 23:50:16]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 23:50:23]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:50:24]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:50:26]
+  Console command "control "Delbert Graves"" executed by kynlan4ic.
+[03/04/2023 23:50:27]
+  Delbert Graves set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 23:50:28]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:50:31]
+  Delbert Graves removed Кислородный баллон from УЗК (ID: 3998)
+[03/04/2023 23:50:31]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:50:32]
+  Delbert Graves placed Кислородный баллон in УЗК (ID: 3998)
+[03/04/2023 23:50:38]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:50:56]
+  Rowena Colpitts: Меняем кислородные баллоны!
+[03/04/2023 23:51:07]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 23:51:08]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 23:51:10]
+  Dominick Mansfield started repairing Малый насос
+[03/04/2023 23:51:14]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 23:51:17]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 23:51:39]
+  vlad32 picked up Магний
+[03/04/2023 23:51:39]
+  vlad32 picked up Магний
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:40]
+  vlad32 picked up Пластик
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:41]
+  vlad32 placed Пластик in Фабрикатор (ID: 209)
+[03/04/2023 23:51:42]
+  vlad32 picked up Магазин для ПП
+[03/04/2023 23:51:43]
+  kynlan4ic: Rowena Colpitts, спасибо, что следуешь за мной!
+[03/04/2023 23:51:44]
+  kynlan4ic: Rowena Colpitts, спасибо за помощь с механическими устройствами!
+[03/04/2023 23:51:45]
+  Rowena Colpitts closed Настраиваемый люк
+[03/04/2023 23:51:45]
+  kynlan4ic: Rowena Colpitts, отремонтируй механические приборы!
+[03/04/2023 23:51:46]
+  Rowena Colpitts opened Настраиваемая дверь с окном
+[03/04/2023 23:51:46]
+  Rowena Colpitts: Есть!
+[03/04/2023 23:51:50]
+  vlad32 equipped Металлический ящик
+[03/04/2023 23:51:53]
+  vlad32 placed Магазин для ПП in Металлический ящик (ID: 3842)
+[03/04/2023 23:51:55]
+  vlad32 placed Магний in Металлический ящик (ID: 3842)
+[03/04/2023 23:51:55]
+  vlad32 placed Магний in Металлический ящик (ID: 3842)
+[03/04/2023 23:51:55]
+  kynlan4ic: Rowena Colpitts, займись протечками!
+[03/04/2023 23:51:56]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/04/2023 23:51:56]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 23:51:56]
+  Rowena Colpitts: Само собой!
+[03/04/2023 23:51:56]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 23:51:56]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 23:51:58]
+  vlad32 dropped Металлический ящик
+[03/04/2023 23:51:59]
+  Sara Lyons started repairing Генератор кислорода
+[03/04/2023 23:51:59]
+  Dominick Mansfield started repairing Генератор кислорода
+[03/04/2023 23:52:05]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 23:52:07]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:52:07]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:09]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:10]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:52:10]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:11]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 23:52:12]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:13]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:52:13]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:15]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:15]
+  vlad32 removed Контейнер для хранения from Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:15]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:52:15]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:16]
+  Delbert Graves placed УЗК in Шкаф для подводного снаряжения (ID: 81)
+[03/04/2023 23:52:17]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:17]
+  vlad32 removed Контейнер для хранения from Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:17]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:52:17]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:18]
+  Delbert Graves placed Ручной сонар in Средний стальной шкаф с окном (ID: 927)
+[03/04/2023 23:52:20]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:21]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:52:22]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:52:28]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 23:52:30]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:52:34]
+  Delbert Graves placed Кислородный баллон in Хозяйственный шкаф (ID: 291)
+[03/04/2023 23:52:34]
+  Delbert Graves placed Кислородный баллон in Хозяйственный шкаф (ID: 291)
+[03/04/2023 23:52:34]
+  Delbert Graves placed Кислородный баллон in Хозяйственный шкаф (ID: 291)
+[03/04/2023 23:52:34]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:35]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:52:36]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:52:41]
+  Delbert Graves placed Кислородный баллон in Генератор кислорода (ID: 301)
+[03/04/2023 23:52:41]
+  Delbert Graves removed Кислородный баллон from Генератор кислорода (ID: 301)
+[03/04/2023 23:52:41]
+  Delbert Graves placed Кислородный баллон in Подводная маска (ID: 9741)
+[03/04/2023 23:52:47]
+  Delbert Graves picked up Криолит
+[03/04/2023 23:52:47]
+  Delbert Graves picked up Криолит
+[03/04/2023 23:52:47]
+  Delbert Graves picked up Криолит
+[03/04/2023 23:52:48]
+  Delbert Graves picked up Титанит
+[03/04/2023 23:52:48]
+  Delbert Graves picked up Титанит
+[03/04/2023 23:52:48]
+  Delbert Graves picked up Титанит
+[03/04/2023 23:52:50]
+  Delbert Graves placed Лангбейнит in Контейнер для хранения (ID: 1232)
+[03/04/2023 23:52:50]
+  Delbert Graves placed Лангбейнит in Контейнер для хранения (ID: 1232)
+[03/04/2023 23:52:50]
+  Delbert Graves placed Лангбейнит in Контейнер для хранения (ID: 1232)
+[03/04/2023 23:52:50]
+  Delbert Graves placed Лангбейнит in Контейнер для хранения (ID: 1232)
+[03/04/2023 23:52:57]
+  Delbert Graves placed Криолит in Контейнер для хранения (ID: 2197)
+[03/04/2023 23:52:57]
+  Delbert Graves placed Криолит in Контейнер для хранения (ID: 2197)
+[03/04/2023 23:52:57]
+  Delbert Graves placed Криолит in Контейнер для хранения (ID: 2197)
+[03/04/2023 23:52:57]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:52:58]
+  Delbert Graves placed Титанит in Контейнер для хранения (ID: 1231)
+[03/04/2023 23:52:58]
+  Delbert Graves placed Титанит in Контейнер для хранения (ID: 1231)
+[03/04/2023 23:52:58]
+  Delbert Graves placed Титанит in Контейнер для хранения (ID: 1231)
+[03/04/2023 23:52:59]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:53:00]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:53:00]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:53:02]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:53:02]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:53:02]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:53:04]
+  vlad32 placed Ружье in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:53:05]
+  vlad32 picked up Ружье
+[03/04/2023 23:53:07]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:53:08]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:53:16]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:53:25]
+  Rowena Colpitts: Спокойное море моряка ничему не научит.
+[03/04/2023 23:53:30]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:53:30]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:53:34]
+  kynlan4ic: Deborah Lavey, займись поврежденными устройствами!
+[03/04/2023 23:53:35]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:53:35]
+  Deborah Lavey: Слушаюсь!
+[03/04/2023 23:53:38]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:53:44]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:53:45]
+  kynlan4ic: Deborah Lavey, убедись, что все батареи заряжены!
+[03/04/2023 23:53:46]
+  Deborah Lavey: Так точно!
+[03/04/2023 23:53:46]
+  kynlan4ic: Deborah Lavey, заряди эти батареи!
+[03/04/2023 23:53:47]
+  Deborah Lavey: Вас понял!
+[03/04/2023 23:53:56]
+  Delbert Graves equipped Металлический ящик
+[03/04/2023 23:53:57]
+  Delbert Graves placed Жало хаска in Металлический ящик (ID: 3223)
+[03/04/2023 23:53:59]
+  Delbert Graves dropped Металлический ящик
+[03/04/2023 23:54:04]
+  Deborah Lavey equipped Отвертка
+[03/04/2023 23:54:04]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:54:04]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:54:09]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:54:09]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 23:54:15]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:54:20]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:54:21]
+  Deborah Lavey unequipped Отвертка
+[03/04/2023 23:54:38]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:54:39]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:54:39]
+  Deborah Lavey equipped Отвертка
+[03/04/2023 23:54:41]
+  Deborah Lavey started repairing Навигационный терминал
+[03/04/2023 23:54:43]
+  Sara Lyons started repairing Навигационный терминал
+[03/04/2023 23:54:45]
+  Deborah Lavey unequipped Отвертка
+[03/04/2023 23:54:45]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:54:49]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:54:56]
+  Deborah Lavey equipped Отвертка
+[03/04/2023 23:54:56]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:54:56]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:54:59]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:55:01]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 23:55:04]
+  vlad32 equipped Ящик со взрывчаткой
+[03/04/2023 23:55:05]
+  vlad32 dropped Ящик со взрывчаткой
+[03/04/2023 23:55:06]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:55:06]
+  kynlan4ic: В вйос
+[03/04/2023 23:55:08]
+  vlad32 equipped Металлический ящик
+[03/04/2023 23:55:10]
+  vlad32 dropped Металлический ящик
+[03/04/2023 23:55:10]
+  kynlan4ic: Зайди в войс
+[03/04/2023 23:55:10]
+  Deborah Lavey unequipped Отвертка
+[03/04/2023 23:55:11]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:55:14]
+  vlad32 equipped Ящик взрывных снарядов
+[03/04/2023 23:55:15]
+  vlad32 dropped Ящик взрывных снарядов
+[03/04/2023 23:55:19]
+  vlad32 dropped Ящик со взрывчаткой
+[03/04/2023 23:55:24]
+  vlad32 equipped Металлический ящик
+[03/04/2023 23:55:24]
+  vlad32 picked up Металлический ящик
+[03/04/2023 23:55:26]
+  vlad32 placed Металлический ящик in Стеллаж для ящиков (ID: 82)
+[03/04/2023 23:55:27]
+  vlad32 equipped Ящик со взрывчаткой
+[03/04/2023 23:55:27]
+  vlad32 picked up Ящик со взрывчаткой
+[03/04/2023 23:55:29]
+  vlad32 placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 82)
+[03/04/2023 23:55:30]
+  vlad32 equipped Ящик со взрывчаткой
+[03/04/2023 23:55:30]
+  vlad32 picked up Ящик со взрывчаткой
+[03/04/2023 23:55:39]
+  vlad32 placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 82)
+[03/04/2023 23:55:40]
+  vlad32 equipped Металлический ящик
+[03/04/2023 23:55:40]
+  vlad32 picked up Металлический ящик
+[03/04/2023 23:55:41]
+  vlad32 placed Металлический ящик in Стеллаж для ящиков (ID: 82)
+[03/04/2023 23:56:01]
+  vlad32: КОСТЯ
+[03/04/2023 23:56:07]
+  kynlan4ic: Wha
+[03/04/2023 23:56:08]
+  vlad32: ПРОИСХОДИТ
+[03/04/2023 23:56:12]
+  vlad32: БЫДЛО
+[03/04/2023 23:56:14]
+  kynlan4ic: Что?
+[03/04/2023 23:56:19]
+  vlad32 equipped Металлический ящик
+[03/04/2023 23:56:20]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/04/2023 23:56:21]
+  vlad32 dropped Металлический ящик
+[03/04/2023 23:56:21]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/04/2023 23:56:43]
+  Deborah Lavey equipped Отвертка
+[03/04/2023 23:56:43]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:56:44]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:56:45]
+  vlad32 equipped Яйцо грязевого раптора
+[03/04/2023 23:56:46]
+  Deborah Lavey started repairing Кабельная коробка
+[03/04/2023 23:56:48]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:56:51]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:56:58]
+  vlad32 picked up Нож ныряльщика
+[03/04/2023 23:56:59]
+  vlad32 placed Нож ныряльщика in Средний стальной шкаф (ID: 243)
+[03/04/2023 23:56:59]
+  Deborah Lavey unequipped Отвертка
+[03/04/2023 23:56:59]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:57:00]
+  vlad32 picked up Лейка
+[03/04/2023 23:57:00]
+  vlad32 equipped Лейка
+[03/04/2023 23:57:08]
+  vlad32 placed Лейка in Средний стальной шкаф (ID: 243)
+[03/04/2023 23:57:11]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 23:57:11]
+  Rowena Colpitts equipped Топливный стержень
+[03/04/2023 23:57:13]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/04/2023 23:57:13]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/04/2023 23:57:13]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 23:57:29]
+  Console command "control "Delbert Graves"" executed by kynlan4ic.
+[03/04/2023 23:57:29]
+  vlad32: ты куда вышел
+[03/04/2023 23:57:30]
+  Delbert Graves set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 23:57:34]
+  Deborah Lavey equipped Отвертка
+[03/04/2023 23:57:34]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:57:34]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:57:35]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/04/2023 23:57:37]
+  Deborah Lavey failed to repair Кабельная коробка
+[03/04/2023 23:57:37]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:57:38]
+  Delbert Graves equipped Боевой водолазный скафандр
+[03/04/2023 23:57:40]
+  Delbert Graves placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 561)
+[03/04/2023 23:57:41]
+  Delbert Graves equipped Боевой водолазный скафандр
+[03/04/2023 23:57:43]
+  Delbert Graves placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 157)
+[03/04/2023 23:57:48]
+  vlad32 equipped Боевой водолазный скафандр
+[03/04/2023 23:57:48]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:57:50]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 23:57:51]
+  Delbert Graves placed Плазменный резак in Средний стальной шкаф с окном (ID: 927)
+[03/04/2023 23:57:51]
+  Delbert Graves removed Сварочный аппарат from Средний стальной шкаф с окном (ID: 927)
+[03/04/2023 23:57:51]
+  Delbert Graves picked up Сварочный аппарат
+[03/04/2023 23:57:52]
+  Deborah Lavey unequipped Отвертка
+[03/04/2023 23:57:53]
+  Delbert Graves picked up Плазменный резак
+[03/04/2023 23:58:01]
+  vlad32 placed Боевой водолазный скафандр in Фабрикатор (ID: 209)
+[03/04/2023 23:58:08]
+  vlad32 picked up Боевой водолазный скафандр
+[03/04/2023 23:58:10]
+  vlad32 picked up Баллон с кислородитом
+[03/04/2023 23:58:11]
+  vlad32 placed Боевой водолазный скафандр in Фабрикатор (ID: 209)
+[03/04/2023 23:58:16]
+  vlad32 placed Слиток из титана и алюминия in Фабрикатор (ID: 209)
+[03/04/2023 23:58:19]
+  vlad32 dropped Металлический ящик
+[03/04/2023 23:58:30]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 23:58:30]
+  vlad32 picked up Контейнер для хранения
+[03/04/2023 23:58:32]
+  vlad32 picked up Резина
+[03/04/2023 23:58:36]
+  vlad32 placed Резина in Фабрикатор (ID: 209)
+[03/04/2023 23:58:38]
+  vlad32 picked up Резина
+[03/04/2023 23:58:39]
+  vlad32 placed Резина in Фабрикатор (ID: 209)
+[03/04/2023 23:58:40]
+  vlad32 started fabricating Гидрокостюм in Фабрикатор
+[03/04/2023 23:58:44]
+  vlad32 placed Контейнер для хранения in Большой стальной шкаф (ID: 250)
+[03/04/2023 23:58:58]
+  vlad32 picked up Гидрокостюм
+[03/04/2023 23:58:59]
+  vlad32 placed Баллон с кислородитом in Гидрокостюм (ID: 1885)
+[03/04/2023 23:59:31]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/04/2023 23:59:32]
+  vlad32 removed Боевой водолазный скафандр from Шкаф для подводного снаряжения (ID: 561)
+[03/04/2023 23:59:32]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 23:59:33]
+  vlad32 placed Гидрокостюм in Шкаф для подводного снаряжения (ID: 561)
+[03/04/2023 23:59:40]
+  Console command "control "Delbert Graves"" executed by kynlan4ic.
+[03/04/2023 23:59:41]
+  Delbert Graves set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 23:59:44]
+  Deborah Lavey equipped Отвертка
+[03/04/2023 23:59:44]
+  Sara Lyons equipped Отвертка
+[03/04/2023 23:59:44]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 23:59:46]
+  Delbert Graves equipped Контейнер для хранения
+[03/04/2023 23:59:46]
+  Delbert Graves picked up Контейнер для хранения
+[03/04/2023 23:59:48]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 23:59:48]
+  Delbert Graves placed Кислородный баллон in Контейнер для хранения (ID: 3385)
+[03/04/2023 23:59:48]
+  Delbert Graves removed Кислородный баллон from Контейнер для хранения (ID: 3385)
+[03/04/2023 23:59:48]
+  Delbert Graves placed Кислородный баллон in Плазменный резак (ID: 3924)
+[03/04/2023 23:59:49]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 23:59:50]
+  Delbert Graves picked up Кислородный баллон
+[03/04/2023 23:59:51]
+  Delbert Graves placed Контейнер для хранения in Средний стальной шкаф с окном (ID: 892)
+[03/04/2023 23:59:53]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 23:59:57]
+  Delbert Graves placed Кислородный баллон in Генератор кислорода (ID: 301)
+[03/04/2023 23:59:59]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:00:00]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:00:08]
+  Delbert Graves picked up УЗК
+[03/05/2023 00:00:11]
+  Delbert Graves equipped Металлический ящик
+[03/05/2023 00:00:15]
+  Delbert Graves picked up Сканер руин
+[03/05/2023 00:00:16]
+  Delbert Graves dropped Металлический ящик
+[03/05/2023 00:00:28]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:00:30]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:00:30]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:00:30]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:00:33]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:00:34]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:00:35]
+  Delbert Graves closed Настраиваемая дверь с окном
+[03/05/2023 00:00:35]
+  Delbert Graves opened Настраиваемый люк
+[03/05/2023 00:00:38]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:00:45]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:00:45]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:00:48]
+  Outer wall breached by Delbert Graves
+[03/05/2023 00:00:49]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:00:50]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:00:50]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:00:53]
+  Deborah Lavey started repairing Кабельная коробка
+[03/05/2023 00:00:53]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:00:53]
+  vlad32 equipped Металлический ящик
+[03/05/2023 00:00:54]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:00:54]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:00:55]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:00:55]
+  vlad32 dropped Металлический ящик
+[03/05/2023 00:00:58]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:00:59]
+  vlad32 picked up Слиток из титана и алюминия
+[03/05/2023 00:00:59]
+  vlad32 picked up Слиток из титана и алюминия
+[03/05/2023 00:00:59]
+  vlad32 picked up Слиток из титана и алюминия
+[03/05/2023 00:01:00]
+  vlad32 dropped Металлический ящик
+[03/05/2023 00:01:02]
+  vlad32 placed Слиток из титана и алюминия in Фабрикатор (ID: 209)
+[03/05/2023 00:01:02]
+  vlad32 placed Слиток из титана и алюминия in Фабрикатор (ID: 209)
+[03/05/2023 00:01:02]
+  vlad32 placed Слиток из титана и алюминия in Фабрикатор (ID: 209)
+[03/05/2023 00:01:03]
+  vlad32 started fabricating Абордажный топор in Фабрикатор
+[03/05/2023 00:01:15]
+  vlad32 picked up Абордажный топор
+[03/05/2023 00:01:16]
+  vlad32 equipped Абордажный топор
+[03/05/2023 00:01:25]
+  vlad32 used Абордажный топор on Базовая стена – верх.
+[03/05/2023 00:01:25]
+  Sara Lyons attacked by vlad32.
+[03/05/2023 00:01:25]
+  vlad32 used Абордажный топор on Sara Lyons.
+[03/05/2023 00:01:25]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:01:25]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:01:26]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:01:28]
+  Deborah Lavey started repairing Кабельная коробка
+[03/05/2023 00:01:28]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:01:28]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:01:28]
+  Deborah Lavey equipped Гаечный ключ
+[03/05/2023 00:01:30]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:01:30]
+  Sara Lyons equipped Гаечный ключ
+[03/05/2023 00:01:31]
+  Rowena Colpitts started repairing Малый насос
+[03/05/2023 00:01:34]
+  Deborah Lavey unequipped Гаечный ключ
+[03/05/2023 00:01:34]
+  Outer wall breached by Delbert Graves
+[03/05/2023 00:01:34]
+  Sara Lyons unequipped Гаечный ключ
+[03/05/2023 00:01:37]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:01:49]
+  vlad32 placed Яйцо грязевого раптора in Пояс инструментов (ID: 2072)
+[03/05/2023 00:01:50]
+  Delbert Graves equipped Сканер руин
+[03/05/2023 00:01:51]
+  Delbert Graves attached Сканер руин to a wall
+[03/05/2023 00:01:52]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:01:53]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:01:53]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:01:55]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:01:57]
+  vlad32 picked up Сонарный маяк
+[03/05/2023 00:01:58]
+  vlad32 equipped Сонарный маяк
+[03/05/2023 00:01:58]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:02:01]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:02:01]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:02:03]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:02:03]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:02:07]
+  Inner wall breached by Delbert Graves
+[03/05/2023 00:02:07]
+  vlad32 placed Сонарный маяк in Средний стальной шкаф (ID: 243)
+[03/05/2023 00:02:11]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:02:12]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:02:12]
+  Deborah Lavey equipped Гаечный ключ
+[03/05/2023 00:02:12]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:02:12]
+  Sara Lyons equipped Гаечный ключ
+[03/05/2023 00:02:12]
+  Dominick Mansfield equipped Гаечный ключ
+[03/05/2023 00:02:13]
+  Bennie Castro: Здесь ужасно тихо.
+[03/05/2023 00:02:14]
+  Inner wall breached by Delbert Graves
+[03/05/2023 00:02:15]
+  Rowena Colpitts started repairing Генератор кислорода
+[03/05/2023 00:02:17]
+  Deborah Lavey unequipped Гаечный ключ
+[03/05/2023 00:02:17]
+  Sara Lyons unequipped Гаечный ключ
+[03/05/2023 00:02:18]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/05/2023 00:02:32]
+  Claire Suarez: Огонь!
+[03/05/2023 00:02:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:32]
+  Outer wall breached by Claire Suarez
+[03/05/2023 00:02:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:34]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 6352)
+[03/05/2023 00:02:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:35]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:02:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:35]
+  Outer wall breached by Claire Suarez
+[03/05/2023 00:02:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:36]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:02:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:02:43]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 6352)
+[03/05/2023 00:02:43]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:02:43]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:02:43]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:02:44]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:02:44]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:02:44]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:02:45]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:02:48]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:02:50]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:02:54]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 5227)
+[03/05/2023 00:02:55]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:02:55]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:02:55]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:02:55]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:02:55]
+  Delbert Graves sent a signal "1" from Инопланетный терминал
+[03/05/2023 00:02:55]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:02:55]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:02:56]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:02:56]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:03:02]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:03:06]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:03:11]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:03:11]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:03:12]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:03:13]
+  Deborah Lavey started repairing Кабельная коробка
+[03/05/2023 00:03:15]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:03:15]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:03:17]
+  vlad32 (as Winston Kidd) picked up Удостоверение личности
+[03/05/2023 00:03:17]
+  vlad32 (as Winston Kidd) dropped Удостоверение личности
+[03/05/2023 00:03:17]
+  vlad32 (as Winston Kidd) placed Удостоверение личности in Defensebot
+[03/05/2023 00:03:20]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:03:26]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:03:26]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:03:27]
+  Delbert Graves unequipped Сканер руин
+[03/05/2023 00:03:27]
+  Delbert Graves detached Сканер руин from a wall
+[03/05/2023 00:03:29]
+  Delbert Graves equipped Инопланетная вещица
+[03/05/2023 00:03:30]
+  vlad32 picked up Удостоверение личности
+[03/05/2023 00:03:30]
+  vlad32 dropped Удостоверение личности
+[03/05/2023 00:03:30]
+  vlad32 placed Удостоверение личности in Defensebot
+[03/05/2023 00:03:31]
+  Delbert Graves equipped Сканер руин
+[03/05/2023 00:03:41]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:03:41]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:03:41]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:03:44]
+  Deborah Lavey started repairing Навигационный терминал
+[03/05/2023 00:03:44]
+  Sara Lyons started repairing Навигационный терминал
+[03/05/2023 00:03:49]
+  Claire Suarez: Огонь!
+[03/05/2023 00:03:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:50]
+  Outer wall breached by Claire Suarez
+[03/05/2023 00:03:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:52]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:03:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:53]
+  Outer wall breached by Claire Suarez
+[03/05/2023 00:03:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:54]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 5699)
+[03/05/2023 00:03:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:54]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:03:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/05/2023 00:03:54]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:03:55]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:03:55]
+  Delbert Graves sent a signal "1" from Инопланетный терминал
+[03/05/2023 00:03:56]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:03:56]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:04:01]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 5711)
+[03/05/2023 00:04:02]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:04:02]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:04:02]
+  Delbert Graves sent a signal "1" from Инопланетный терминал
+[03/05/2023 00:04:02]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:04:18]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:04:19]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:04:19]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:04:19]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 6756)
+[03/05/2023 00:04:20]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:04:20]
+  vlad32 equipped Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:04:21]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:04:21]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:04:21]
+  Sara Lyons started repairing Суперконденсатор
+[03/05/2023 00:04:21]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:04:22]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:04:23]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:04:24]
+  vlad32 placed Физикориевые боеприпасы для цепной пушки in Деконструктор (ID: 210)
+[03/05/2023 00:04:26]
+  vlad32 picked up Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:04:28]
+  Delbert Graves attached Сканер руин to a wall
+[03/05/2023 00:04:29]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:04:36]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 7269)
+[03/05/2023 00:04:36]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:04:37]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:04:37]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:04:37]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:04:37]
+  Delbert Graves opened Инопланетный люк
+[03/05/2023 00:04:37]
+  Delbert Graves sent a signal "1" from Инопланетный терминал
+[03/05/2023 00:04:38]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:04:42]
+  vlad32 placed Физикориевые боеприпасы для цепной пушки in Фабрикатор (ID: 209)
+[03/05/2023 00:04:44]
+  vlad32 picked up Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:04:54]
+  vlad32 dropped Физикориевые боеприпасы для цепной пушки
+[03/05/2023 00:04:59]
+  Delbert Graves unequipped Сканер руин
+[03/05/2023 00:04:59]
+  Delbert Graves detached Сканер руин from a wall
+[03/05/2023 00:05:07]
+  Delbert Graves equipped Сканер руин
+[03/05/2023 00:05:34]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:05:34]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:05:35]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:05:37]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:05:40]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:05:43]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:05:50]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:06:07]
+  Carlton Craig equipped Водолазный скафандр
+[03/05/2023 00:06:19]
+  Delbert Graves placed Кислородный баллон in Плазменный резак (ID: 3924)
+[03/05/2023 00:06:19]
+  Delbert Graves removed Кислородный баллон from Плазменный резак (ID: 3924)
+[03/05/2023 00:06:19]
+  Delbert Graves placed Кислородный баллон in УЗК (ID: 3998)
+[03/05/2023 00:06:25]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/05/2023 00:06:26]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/05/2023 00:06:27]
+  Delbert Graves closed Настраиваемая дверь с окном
+[03/05/2023 00:06:31]
+  Delbert Graves placed Кислородный баллон in Плазменный резак (ID: 3924)
+[03/05/2023 00:06:31]
+  Delbert Graves removed Кислородный баллон from Плазменный резак (ID: 3924)
+[03/05/2023 00:06:31]
+  Delbert Graves placed Кислородный баллон in УЗК (ID: 3998)
+[03/05/2023 00:06:46]
+  vlad32 picked up Экзокостюм
+[03/05/2023 00:06:49]
+  Delbert Graves placed Кислородный баллон in Генератор кислорода (ID: 301)
+[03/05/2023 00:06:52]
+  vlad32 dropped Экзокостюм
+[03/05/2023 00:06:54]
+  vlad32 picked up Аккумулятор
+[03/05/2023 00:06:55]
+  vlad32 picked up Аккумулятор
+[03/05/2023 00:06:56]
+  Delbert Graves placed Кислородный баллон in УЗК (ID: 3998)
+[03/05/2023 00:06:56]
+  Delbert Graves removed Кислородный баллон from УЗК (ID: 3998)
+[03/05/2023 00:06:56]
+  Delbert Graves placed Кислородный баллон in Генератор кислорода (ID: 301)
+[03/05/2023 00:06:56]
+  vlad32 picked up Экзокостюм
+[03/05/2023 00:06:58]
+  vlad32 placed Аккумулятор in Экзокостюм (ID: 1353)
+[03/05/2023 00:07:16]
+  Delbert Graves placed Кислородный баллон in Плазменный резак (ID: 3924)
+[03/05/2023 00:07:17]
+  vlad32 used Абордажный топор on Базовая стена – верх.
+[03/05/2023 00:07:30]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/05/2023 00:07:31]
+  Delbert Graves opened Настраиваемый люк
+[03/05/2023 00:07:33]
+  Delbert Graves opened Настраиваемый люк
+[03/05/2023 00:07:34]
+  vlad32 placed Аккумулятор in Экзокостюм (ID: 1353)
+[03/05/2023 00:07:44]
+  vlad32 opened Настраиваемая дверь с окном
+[03/05/2023 00:07:44]
+  vlad32 opened Настраиваемая дверь с окном
+[03/05/2023 00:07:48]
+  vlad32 closed Настраиваемая дверь с окном
+[03/05/2023 00:07:49]
+  vlad32 opened Настраиваемый люк
+[03/05/2023 00:07:53]
+  vlad32 closed Настраиваемый люк
+[03/05/2023 00:07:56]
+  vlad32 picked up Подводный скутер
+[03/05/2023 00:07:57]
+  vlad32 equipped Подводный скутер
+[03/05/2023 00:08:12]
+  Carlton Craig equipped Водолазный скафандр
+[03/05/2023 00:08:33]
+  Delbert Graves attached Сканер руин to a wall
+[03/05/2023 00:08:43]
+  Delbert Graves placed Инопланетная вещица in Инопланетный терминал (ID: 7051)
+[03/05/2023 00:08:44]
+  Delbert Graves sent a signal "" from Инопланетный терминал
+[03/05/2023 00:08:44]
+  Delbert Graves opened Инопланетная дверь
+[03/05/2023 00:08:44]
+  Delbert Graves sent a signal "1" from Инопланетный терминал
+[03/05/2023 00:08:45]
+  Delbert Graves sent a signal "1" from Инопланетный терминал
+[03/05/2023 00:08:46]
+  Delbert Graves picked up Инопланетная вещица
+[03/05/2023 00:09:04]
+  Информация о миссии: Руины просканированы - Руины просканированы. Доставьте сканер и собранные данные в точку "Tectamus Linea".
+[03/05/2023 00:09:05]
+  Delbert Graves unequipped Сканер руин
+[03/05/2023 00:09:05]
+  Delbert Graves detached Сканер руин from a wall
+[03/05/2023 00:10:10]
+  Delbert Graves opened Настраиваемый люк
+[03/05/2023 00:10:12]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/05/2023 00:10:14]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/05/2023 00:10:19]
+  vlad32 opened Настраиваемый люк
+[03/05/2023 00:10:23]
+  vlad32 opened Настраиваемый люк
+[03/05/2023 00:10:25]
+  Delbert Graves placed Инопланетная вещица in Хозяйственный шкаф (ID: 306)
+[03/05/2023 00:10:26]
+  vlad32 closed Настраиваемый люк
+[03/05/2023 00:10:27]
+  vlad32 equipped Нож ныряльщика
+[03/05/2023 00:10:28]
+  vlad32 opened Настраиваемая дверь с окном
+[03/05/2023 00:10:31]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:10:31]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:10:31]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:10:31]
+  Delbert Graves placed Сканер руин in Металлический ящик (ID: 9235)
+[03/05/2023 00:10:32]
+  Delbert Graves dropped Металлический ящик
+[03/05/2023 00:10:34]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:10:35]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:10:36]
+  Delbert Graves placed Плазменный резак in Средний стальной шкаф с окном (ID: 927)
+[03/05/2023 00:10:36]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:10:41]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:10:41]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:10:42]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:10:43]
+  Deborah Lavey started repairing Кабельная коробка
+[03/05/2023 00:10:44]
+  Delbert Graves opened Настраиваемый люк
+[03/05/2023 00:10:45]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:10:45]
+  Delbert Graves opened Настраиваемый люк
+[03/05/2023 00:10:57]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:10:57]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:10:57]
+  Delbert Graves picked up Воспламенитовый кристалл
+[03/05/2023 00:10:57]
+  Delbert Graves picked up Воспламенитовый кристалл
+[03/05/2023 00:10:57]
+  Delbert Graves picked up Осколок кислородита
+[03/05/2023 00:10:57]
+  Delbert Graves picked up Осколок кислородита
+[03/05/2023 00:11:03]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:11:03]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/05/2023 00:11:04]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:11:05]
+  vlad32 dropped Экзокостюм
+[03/05/2023 00:11:07]
+  vlad32 picked up Экзокостюм
+[03/05/2023 00:11:08]
+  Delbert Graves closed Настраиваемый люк
+[03/05/2023 00:11:09]
+  Delbert Graves opened Настраиваемая дверь с окном
+[03/05/2023 00:11:10]
+  Delbert Graves closed Настраиваемая дверь с окном
+[03/05/2023 00:11:10]
+  vlad32 picked up Кислородный баллон
+[03/05/2023 00:11:13]
+  vlad32 picked up Аккумулятор
+[03/05/2023 00:11:15]
+  vlad32 picked up Аккумулятор
+[03/05/2023 00:11:17]
+  vlad32 dropped Экзокостюм
+[03/05/2023 00:11:19]
+  Delbert Graves placed УЗК in Шкаф для подводного снаряжения (ID: 81)
+[03/05/2023 00:11:22]
+  vlad32 placed Аккумулятор in Батарея (ID: 208)
+[03/05/2023 00:11:23]
+  vlad32 placed Аккумулятор in Батарея (ID: 208)
+[03/05/2023 00:11:27]
+  vlad32 equipped Пистолет-пулемет
+[03/05/2023 00:11:39]
+  Delbert Graves placed Воспламенитовый кристалл in Большой стальной шкаф (ID: 956)
+[03/05/2023 00:11:39]
+  Delbert Graves placed Воспламенитовый кристалл in Большой стальной шкаф (ID: 956)
+[03/05/2023 00:11:40]
+  Delbert Graves placed Осколок кислородита in Контейнер для хранения (ID: 3221)
+[03/05/2023 00:11:40]
+  Delbert Graves placed Осколок кислородита in Контейнер для хранения (ID: 3221)
+[03/05/2023 00:12:06]
+  Console command "control "Rowena Colpitts"" executed by kynlan4ic.
+[03/05/2023 00:12:07]
+  Rowena Colpitts set the value "Channel" of the item "Наушники" to "0".
+[03/05/2023 00:12:11]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/05/2023 00:12:12]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/05/2023 00:12:13]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:12:13]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:12:14]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:12:15]
+  Deborah Lavey started repairing Кабельная коробка
+[03/05/2023 00:12:17]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:12:17]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:12:21]
+  Dominick Mansfield unequipped Отвертка
+[03/05/2023 00:12:28]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:12:29]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:12:55]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[03/05/2023 00:12:56]
+  Bennie Castro: Стреляю!
+[03/05/2023 00:12:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:12:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:00]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:01]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Dominick Mansfield: Загружаю в реактор дополнительное топливо!
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:02]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:03]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:13:04]
+  Dominick Mansfield equipped Топливный стержень
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:04]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:05]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:07]
+  Sara Lyons started repairing Кабельная коробка
+[03/05/2023 00:13:09]
+  Sara Lyons unequipped Отвертка
+[03/05/2023 00:13:13]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 54, Turbine output: 91, Autotemp ON
+[03/05/2023 00:13:14]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/05/2023 00:13:14]
+  Rowena Colpitts equipped Топливный стержень
+[03/05/2023 00:13:16]
+  vlad32 adjusted reactor settings: Temperature: 2332, Fission rate: 58, Turbine output: 92, Autotemp ON
+[03/05/2023 00:13:17]
+  Rowena Colpitts equipped Гаечный ключ
+[03/05/2023 00:13:19]
+  Deborah Lavey unequipped Отвертка
+[03/05/2023 00:13:22]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:22]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:22]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:22]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:22]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:23]
+  vlad32 picked up Еда для питомца
+[03/05/2023 00:13:23]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:24]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:25]
+  vlad32 equipped Еда для питомца
+[03/05/2023 00:13:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro: Стреляю!
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  vlad32 dropped Еда для питомца
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:26]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:27]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:27]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:27]
+  Sara Lyons equipped Отвертка
+[03/05/2023 00:13:27]
+  Deborah Lavey equipped Отвертка
+[03/05/2023 00:13:27]
+  Dominick Mansfield equipped Отвертка
+[03/05/2023 00:13:27]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:27]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:28]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:29]
+  Carlton Craig: vlad32 проходит лечение здесь: реакторный отсек!
+[03/05/2023 00:13:29]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:30]
+  Carlton Craig: Мне требуется фентанил, морфин, жидкий тоник или опиум!
+[03/05/2023 00:13:30]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:31]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:32]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:32]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:32]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/05/2023 00:13:32]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:32]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:32]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/05/2023 00:13:32]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)

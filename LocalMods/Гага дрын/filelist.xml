@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Гага дрын" modversion="1.0.3" corepackage="False" gameversion="0.21.6.0">
+  <Submarine file="%ModDir%/Гага дрын.sub" />
+  <Submarine file="%ModDir%/Bojová ponorka.sub" />
+</contentpackage>

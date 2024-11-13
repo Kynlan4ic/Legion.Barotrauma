@@ -1,0 +1,563 @@
+﻿[02/22/2023 18:00:32]
+  Арти Дулитл equipped Водолазный скафандр
+[02/22/2023 18:00:35]
+  Sergei Bergman equipped Отвертка
+[02/22/2023 18:00:35]
+  Jean Lawson equipped Отвертка
+[02/22/2023 18:00:40]
+  Ashley Gallagher started repairing Двигатель
+[02/22/2023 18:00:40]
+  Sergei Bergman started repairing Кабельная коробка
+[02/22/2023 18:00:41]
+  Jean Lawson unequipped Отвертка
+[02/22/2023 18:00:41]
+  Jean Lawson equipped Отвертка
+[02/22/2023 18:00:44]
+  Sergei Bergman unequipped Отвертка
+[02/22/2023 18:00:46]
+  Sergei Bergman: Мне нужно подводное снаряжение!
+[02/22/2023 18:00:50]
+  Jean Lawson unequipped Отвертка
+[02/22/2023 18:00:55]
+  Josef Parker equipped Водолазный скафандр
+[02/22/2023 18:00:58]
+  Elliana Marquez equipped Водолазный скафандр
+[02/22/2023 18:01:01]
+  Jean Lawson equipped Отвертка
+[02/22/2023 18:01:02]
+  Jean Lawson started repairing Ядерный реактор
+[02/22/2023 18:01:04]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/22/2023 18:01:04]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/22/2023 18:01:04]
+  Jean Lawson unequipped Отвертка
+[02/22/2023 18:01:04]
+  Ashley Gallagher: Жилой отсек: протечек не осталось!
+[02/22/2023 18:01:04]
+  Jean Lawson: Надо найти водолазный скафандр!
+[02/22/2023 18:01:05]
+  Sergei Bergman equipped Сварочный аппарат
+[02/22/2023 18:01:09]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/22/2023 18:01:09]
+  Ashley Gallagher equipped Гаечный ключ
+[02/22/2023 18:01:11]
+  Sergei Bergman unequipped Сварочный аппарат
+[02/22/2023 18:01:14]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/22/2023 18:01:14]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/22/2023 18:01:19]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/22/2023 18:01:19]
+  Ashley Gallagher equipped Гаечный ключ
+[02/22/2023 18:01:19]
+  Ashley Gallagher started repairing Двигатель
+[02/22/2023 18:01:22]
+  Арти Дулитл equipped Боевой водолазный скафандр
+[02/22/2023 18:01:23]
+  Jean Lawson equipped Отвертка
+[02/22/2023 18:01:23]
+  Jean Lawson started repairing Ядерный реактор
+[02/22/2023 18:01:24]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/22/2023 18:01:25]
+  Jean Lawson unequipped Отвертка
+[02/22/2023 18:01:30]
+  Арти Дулитл equipped Ящик с боеприпасами для магнитной пушки
+[02/22/2023 18:01:49]
+  Richard Hajek: Стреляю!
+[02/22/2023 18:01:49]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:49]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:50]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:50]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:50]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:51]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:51]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:51]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:51]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:52]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:52]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:52]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:52]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:53]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:53]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:53]
+  Crawler has died (Cause of death: Рваная рана)
+[02/22/2023 18:01:53]
+  Richard Hajek: Кажется, есть попадание!
+[02/22/2023 18:01:54]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:54]
+  Outer wall breached by Crawler
+[02/22/2023 18:01:54]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:54]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:54]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:55]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:55]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:55]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:56]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:56]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:56]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:56]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/22/2023 18:01:56]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:57]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:57]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:57]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:57]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:58]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:58]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:58]
+  Outer wall repaired by Ashley Gallagher
+[02/22/2023 18:01:58]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:58]
+  Richard Hajek launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/22/2023 18:01:59]
+  Crawler has died (Cause of death: Рваная рана)
+[02/22/2023 18:01:59]
+  Информация о миссии: Цель уничтожена - Рой уничтожен. Выведите подлодку из пещеры, чтобы получить награду.
+[02/22/2023 18:01:59]
+  Richard Hajek: Цель уничтожена!
+[02/22/2023 18:02:00]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/22/2023 18:02:22]
+  Sergei Bergman equipped Отвертка
+[02/22/2023 18:02:23]
+  Ashley Gallagher equipped Отвертка
+[02/22/2023 18:02:24]
+  Jean Lawson equipped Отвертка
+[02/22/2023 18:02:26]
+  Sergei Bergman started repairing Кабельная коробка
+[02/22/2023 18:02:28]
+  kynlan4ic docked Orca to Старательский участок Adonis Linea
+[02/22/2023 18:02:28]
+  kynlan4ic has gained 416 experience (4404 -> 4820)
+[02/22/2023 18:02:28]
+  vlad32 has gained 416 experience (4404 -> 4820)
+[02/22/2023 18:02:28]
+  Арти Дулитл has gained 416 experience (0 -> 416)
+[02/22/2023 18:02:28]
+  Ashley Gallagher has gained 416 experience (4404 -> 4820)
+[02/22/2023 18:02:28]
+  Carlton Craig has gained 416 experience (712 -> 1128)
+[02/22/2023 18:02:28]
+  Jean Lawson has gained 416 experience (1354 -> 1770)
+[02/22/2023 18:02:28]
+  Elliana Marquez has gained 416 experience (4404 -> 4820)
+[02/22/2023 18:02:28]
+  Josef Parker has gained 416 experience (3996 -> 4412)
+[02/22/2023 18:02:28]
+  Richard Hajek has gained 416 experience (4404 -> 4820)
+[02/22/2023 18:02:28]
+  Sergei Bergman has gained 416 experience (1354 -> 1770)
+[02/22/2023 18:02:28]
+  Renata Nicolosi has gained 416 experience (3738 -> 4154)
+[02/22/2023 18:02:28]
+  Bettyann Aguilar has gained 416 experience (842 -> 1258)
+[02/22/2023 18:02:28]
+  kynlan4ic has gained 372 experience (4820 -> 5192)
+[02/22/2023 18:02:28]
+  vlad32 has gained 372 experience (4820 -> 5192)
+[02/22/2023 18:02:28]
+  Арти Дулитл has gained 372 experience (416 -> 788)
+[02/22/2023 18:02:28]
+  Ashley Gallagher has gained 372 experience (4820 -> 5192)
+[02/22/2023 18:02:28]
+  Carlton Craig has gained 372 experience (1128 -> 1500)
+[02/22/2023 18:02:28]
+  Jean Lawson has gained 372 experience (1770 -> 2142)
+[02/22/2023 18:02:28]
+  Elliana Marquez has gained 372 experience (4820 -> 5192)
+[02/22/2023 18:02:28]
+  Josef Parker has gained 372 experience (4412 -> 4784)
+[02/22/2023 18:02:28]
+  Richard Hajek has gained 372 experience (4820 -> 5192)
+[02/22/2023 18:02:28]
+  Sergei Bergman has gained 372 experience (1770 -> 2142)
+[02/22/2023 18:02:28]
+  Renata Nicolosi has gained 372 experience (4154 -> 4526)
+[02/22/2023 18:02:28]
+  Bettyann Aguilar has gained 372 experience (1258 -> 1630)
+[02/22/2023 18:02:28]
+  Ending the round...
+[02/22/2023 18:02:29]
+  Round ended.
+[02/22/2023 18:02:31]
+  Starting a new round...
+[02/22/2023 18:02:36]
+  Game mode: Кампания
+[02/22/2023 18:02:36]
+  Submarine: Orca
+[02/22/2023 18:02:36]
+  Level seed: Adonis Linea
+[02/22/2023 18:02:36]
+  Kizzie Tamashiro equipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Kizzie Tamashiro unequipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Kizzie Tamashiro equipped Отвертка
+[02/22/2023 18:02:36]
+  Terrance Little equipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Terrance Little unequipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Terrance Little equipped Отвертка
+[02/22/2023 18:02:36]
+  Maurice Lavey equipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Maurice Lavey unequipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Maurice Lavey equipped Отвертка
+[02/22/2023 18:02:36]
+  Leanne Parks equipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Leanne Parks unequipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Leanne Parks equipped Отвертка
+[02/22/2023 18:02:36]
+  Leanne Parks unequipped Отвертка
+[02/22/2023 18:02:36]
+  Leanne Parks equipped Лом
+[02/22/2023 18:02:36]
+  Aryanna Sacks equipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Aryanna Sacks unequipped Гаечный ключ
+[02/22/2023 18:02:36]
+  Aryanna Sacks equipped Отвертка
+[02/22/2023 18:02:37]
+  Dahlia Lavey equipped Гаечный ключ
+[02/22/2023 18:02:37]
+  Mauricio Walls equipped Гаечный ключ
+[02/22/2023 18:02:37]
+  Keven Rock equipped Лом
+[02/22/2023 18:02:37]
+  Ashley Gallagher equipped Отвертка
+[02/22/2023 18:02:37]
+  Jean Lawson equipped Отвертка
+[02/22/2023 18:02:37]
+  Sergei Bergman equipped Отвертка
+[02/22/2023 18:02:37]
+  Round started.
+[02/22/2023 18:02:37]
+  Dimitry Wheeling equipped Гаечный ключ
+[02/22/2023 18:02:38]
+  Astrid Wiley equipped Отвертка
+[02/22/2023 18:02:38]
+  Micheal Chaney equipped Гаечный ключ
+[02/22/2023 18:02:38]
+  Keven Rock unequipped Лом
+[02/22/2023 18:02:38]
+  Mauricio Walls unequipped Гаечный ключ
+[02/22/2023 18:02:38]
+  Leanne Parks unequipped Лом
+[02/22/2023 18:02:38]
+  Micheal Chaney unequipped Гаечный ключ
+[02/22/2023 18:02:38]
+  Kizzie Tamashiro unequipped Отвертка
+[02/22/2023 18:02:38]
+  Ashley Gallagher unequipped Отвертка
+[02/22/2023 18:02:38]
+  Dahlia Lavey unequipped Гаечный ключ
+[02/22/2023 18:02:38]
+  Dimitry Wheeling unequipped Гаечный ключ
+[02/22/2023 18:02:38]
+  Jean Lawson unequipped Отвертка
+[02/22/2023 18:02:39]
+  Sergei Bergman unequipped Отвертка
+[02/22/2023 18:02:39]
+  Astrid Wiley unequipped Отвертка
+[02/22/2023 18:02:41]
+  Astrid Wiley: Привет! Добро пожаловать в наше скромное пристанище.
+[02/22/2023 18:02:52]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/22/2023 18:02:58]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/22/2023 18:03:27]
+  Creola Graves: Я с вас глаз не спущу.
+[02/22/2023 18:13:13]
+  Micheal Chaney: Здесь самая лучшая еда в торговых автоматах. Пирожки с протеином водорослей такие вкусные!
+[02/22/2023 18:13:18]
+  Creola Graves: На вкус они как грязь, как и любые другие пирожки с протеином водорослей, из любых других торговых автоматов.
+[02/22/2023 18:13:23]
+  Micheal Chaney: Вы понятия не имеете о действительно вкусной пище.
+[02/22/2023 18:18:50]
+  vlad32 has gained the talent 'Улучшенная модель'
+[02/22/2023 18:22:30]
+  Dahlia Lavey: Мне такой странный сон приснился... Как будто я божество какое-то или типа того...
+[02/22/2023 18:26:30]
+  Console command "spawnitem huskeggs inventory" executed by kynlan4ic.
+[02/22/2023 18:26:39]
+  kynlan4ic equipped Экстракт каликса
+[02/22/2023 18:26:54]
+  Игрок igameCrog присоединился к серверу.
+[02/22/2023 18:26:54]
+  Saving client permissions
+[02/22/2023 18:27:58]
+  kynlan4ic placed Экстракт каликса in Шкаф для хранения токсинов (ID: 306)
+[02/22/2023 18:28:01]
+  kynlan4ic picked up Яйца велонацепса каликса
+[02/22/2023 18:28:45]
+  Respawning everyone in main sub.
+[02/22/2023 18:28:45]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[02/22/2023 18:28:47]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/22/2023 18:28:48]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:28:51]
+  igameCrog dropped Медконтейнер
+[02/22/2023 18:28:53]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:28:56]
+  igameCrog dropped Медконтейнер
+[02/22/2023 18:28:58]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:29:00]
+  igameCrog dropped Медконтейнер
+[02/22/2023 18:29:18]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:29:18]
+  igameCrog picked up Медконтейнер
+[02/22/2023 18:29:23]
+  igameCrog placed Медконтейнер in Стеллаж для ящиков (ID: 154)
+[02/22/2023 18:30:15]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[02/22/2023 18:30:19]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[02/22/2023 18:30:20]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[02/22/2023 18:30:27]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Деконструктор (ID: 282)
+[02/22/2023 18:30:27]
+  kynlan4ic activated Деконструктор
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:34]
+  igameCrog picked up Бинт
+[02/22/2023 18:30:55]
+  kynlan4ic equipped Медконтейнер
+[02/22/2023 18:30:57]
+  kynlan4ic dropped Медконтейнер
+[02/22/2023 18:31:07]
+  igameCrog picked up Медконтейнер
+[02/22/2023 18:31:10]
+  igameCrog picked up Морфин
+[02/22/2023 18:31:10]
+  igameCrog picked up Морфин
+[02/22/2023 18:31:12]
+  igameCrog placed Медконтейнер in Стеллаж для ящиков (ID: 154)
+[02/22/2023 18:31:23]
+  igameCrog picked up Этанол
+[02/22/2023 18:31:23]
+  igameCrog picked up Этанол
+[02/22/2023 18:31:23]
+  igameCrog picked up Этанол
+[02/22/2023 18:31:25]
+  igameCrog picked up Пояс инструментов
+[02/22/2023 18:31:28]
+  Astrid Wiley: Сегодня вода какая-то мутная.
+[02/22/2023 18:32:06]
+  igameCrog picked up Отвертка
+[02/22/2023 18:32:19]
+  kynlan4ic picked up Слиток из титана и алюминия
+[02/22/2023 18:32:19]
+  kynlan4ic picked up Медь
+[02/22/2023 18:32:20]
+  kynlan4ic picked up Этанол
+[02/22/2023 18:32:20]
+  kynlan4ic picked up Этанол
+[02/22/2023 18:32:20]
+  kynlan4ic picked up Этанол
+[02/22/2023 18:32:20]
+  kynlan4ic picked up Алюминий
+[02/22/2023 18:32:21]
+  kynlan4ic equipped Железо
+[02/22/2023 18:32:21]
+  kynlan4ic picked up Железо
+[02/22/2023 18:32:23]
+  igameCrog picked up Гаечный ключ
+[02/22/2023 18:32:23]
+  kynlan4ic placed Алюминий in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:24]
+  kynlan4ic placed Этанол in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:24]
+  kynlan4ic placed Этанол in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:24]
+  kynlan4ic placed Этанол in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:24]
+  kynlan4ic placed Слиток из титана и алюминия in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:25]
+  kynlan4ic placed Медь in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:25]
+  igameCrog placed Бинт in Форма медика (ID: 3639)
+[02/22/2023 18:32:26]
+  kynlan4ic placed Железо in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:32:27]
+  igameCrog placed Морфин in Форма медика (ID: 3639)
+[02/22/2023 18:32:27]
+  igameCrog placed Морфин in Форма медика (ID: 3639)
+[02/22/2023 18:32:27]
+  igameCrog placed Морфин in Форма медика (ID: 3639)
+[02/22/2023 18:32:41]
+  igameCrog picked up Этанол
+[02/22/2023 18:32:41]
+  igameCrog picked up Этанол
+[02/22/2023 18:32:41]
+  igameCrog picked up Этанол
+[02/22/2023 18:34:38]
+  igameCrog picked up Неизвестный генетический материал
+[02/22/2023 18:34:40]
+  igameCrog picked up Спайщик генов
+[02/22/2023 18:35:15]
+  igameCrog placed Неизвестный генетический материал in Исследовательский терминал (ID: 2438)
+[02/22/2023 18:35:25]
+  igameCrog picked up Неизвестный генетический материал
+[02/22/2023 18:35:36]
+  kynlan4ic transferred 400 mk to igameCrog from the bank.
+[02/22/2023 18:35:52]
+  kynlan4ic picked up Стабилоцин
+[02/22/2023 18:36:20]
+  kynlan4ic dropped Стабилоцин
+[02/22/2023 18:36:36]
+  igameCrog placed Неизвестный генетический материал in Исследовательский терминал (ID: 2438)
+[02/22/2023 18:36:38]
+  igameCrog placed Стабилоцин in Исследовательский терминал (ID: 2438)
+[02/22/2023 18:36:39]
+  igameCrog activated Исследовательский терминал
+[02/22/2023 18:37:01]
+  igameCrog picked up Генетический материал (Охотник)
+[02/22/2023 18:37:15]
+  igameCrog equipped Гаечный ключ
+[02/22/2023 18:37:56]
+  kynlan4ic equipped Шоковая дубинка
+[02/22/2023 18:39:03]
+  igameCrog placed Генетический материал (Охотник) in Спайщик генов (ID: 1735)
+[02/22/2023 18:40:46]
+  igameCrog picked up Боевой водолазный скафандр
+[02/22/2023 18:40:49]
+  igameCrog dropped Боевой водолазный скафандр
+[02/22/2023 18:40:57]
+  igameCrog equipped Шприц-пистолет
+[02/22/2023 18:42:17]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[02/22/2023 18:42:40]
+  igameCrog used item Морфин
+[02/22/2023 18:42:55]
+  kynlan4ic dropped Медконтейнер
+[02/22/2023 18:42:56]
+  kynlan4ic equipped Медконтейнер
+[02/22/2023 18:42:57]
+  Mauricio Walls: Мне кажется или здесь вода шумит как-то особенно громко?
+[02/22/2023 18:42:57]
+  kynlan4ic dropped Медконтейнер
+[02/22/2023 18:42:58]
+  kynlan4ic equipped Медконтейнер
+[02/22/2023 18:42:59]
+  igameCrog placed Спайщик генов in Шкаф для хранения токсинов (ID: 306)
+[02/22/2023 18:42:59]
+  kynlan4ic dropped Медконтейнер
+[02/22/2023 18:43:02]
+  Dahlia Lavey: А может, это у кого-то слуховые галлюцинации?
+[02/22/2023 18:43:29]
+  kynlan4ic picked up Серная кислота
+[02/22/2023 18:43:30]
+  kynlan4ic equipped Серная кислота
+[02/22/2023 18:43:48]
+  kynlan4ic placed Серная кислота in Шкаф для хранения токсинов (ID: 306)
+[02/22/2023 18:43:50]
+  kynlan4ic picked up Спайщик генов
+[02/22/2023 18:44:04]
+  kynlan4ic picked up Экстракт каликса
+[02/22/2023 18:44:06]
+  kynlan4ic placed Экстракт каликса in Шкаф для хранения токсинов (ID: 306)
+[02/22/2023 18:44:15]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:44:17]
+  igameCrog placed Медконтейнер in Медицинский фабрикатор (ID: 304)
+[02/22/2023 18:44:18]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:44:20]
+  igameCrog dropped Медконтейнер
+[02/22/2023 18:44:21]
+  igameCrog equipped Медконтейнер
+[02/22/2023 18:44:22]
+  igameCrog placed Медконтейнер in Медицинский фабрикатор (ID: 304)
+[02/22/2023 18:44:48]
+  Aryanna Sacks unequipped Отвертка
+[02/22/2023 18:45:01]
+  igameCrog equipped Контейнер для хранения
+[02/22/2023 18:45:01]
+  igameCrog picked up Контейнер для хранения
+[02/22/2023 18:45:04]
+  kynlan4ic purchased 1 item(s) for 1,180 кр.
+ - Спайщик генов x5
+[02/22/2023 18:45:05]
+  igameCrog placed Контейнер для хранения in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:45:06]
+  igameCrog equipped Контейнер для хранения
+[02/22/2023 18:45:06]
+  igameCrog picked up Контейнер для хранения
+[02/22/2023 18:45:08]
+  igameCrog placed Контейнер для хранения in Большой стальной шкаф (ID: 322)
+[02/22/2023 18:45:50]
+  Client "kynlan4ic" ended the round.
+[02/22/2023 18:45:50]
+  Ending the round...

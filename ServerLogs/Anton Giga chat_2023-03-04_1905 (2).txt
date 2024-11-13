@@ -1,0 +1,1600 @@
+﻿[03/04/2023 18:43:34]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/04/2023 18:43:35]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/04/2023 18:43:37]
+  Igor Mason: Albertine Stanley, позаботься о реакторе!
+[03/04/2023 18:43:37]
+  vlad32 adjusted reactor settings: Temperature: 2698, Fission rate: 16, Turbine output: 2, Autotemp OFF
+[03/04/2023 18:43:38]
+  Albertine Stanley: Вас понял!
+[03/04/2023 18:43:38]
+  vlad32 adjusted reactor settings: Temperature: 2346, Fission rate: 16, Turbine output: 7, Autotemp OFF
+[03/04/2023 18:43:41]
+  Albertine Stanley: Загружаю в реактор дополнительное топливо!
+[03/04/2023 18:43:42]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:43:42]
+  Albertine Stanley equipped Топливный стержень
+[03/04/2023 18:43:44]
+  vlad32 adjusted reactor settings: Temperature: 1954, Fission rate: 16, Turbine output: 7, Autotemp OFF
+[03/04/2023 18:43:45]
+  Igor Mason: Само собой!
+[03/04/2023 18:43:58]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/04/2023 18:44:00]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 18:44:01]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 18:44:02]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 18:44:06]
+  vlad32 picked up Плазменный резак
+[03/04/2023 18:44:08]
+  vlad32 placed Кислородный баллон in Плазменный резак (ID: 11089)
+[03/04/2023 18:44:08]
+  vlad32 removed Баллон с кислородитом from Плазменный резак (ID: 11089)
+[03/04/2023 18:44:08]
+  vlad32 placed Баллон с кислородитом in Боевой водолазный скафандр (ID: 2629)
+[03/04/2023 18:44:10]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 11088)
+[03/04/2023 18:44:15]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 18:44:15]
+  kynlan4ic closed Настраиваемая дверь
+[03/04/2023 18:44:16]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 18:44:16]
+  kynlan4ic opened Настраиваемая дверь
+[03/04/2023 18:44:17]
+  kynlan4ic closed Настраиваемая дверь
+[03/04/2023 18:44:17]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 18:44:31]
+  kynlan4ic picked up Зеленый провод
+[03/04/2023 18:44:36]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:44:36]
+  vlad32 placed Отвертка in Средний стальной шкаф (ID: 10158)
+[03/04/2023 18:44:37]
+  kynlan4ic picked up Отвертка
+[03/04/2023 18:44:38]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:44:41]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:44:43]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:44:50]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:44:50]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:44:50]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:44:50]
+  Joe Parchman failed to repair Навигационный терминал
+[03/04/2023 18:44:50]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:44:50]
+  Sara Lyons started repairing Навигационный терминал
+[03/04/2023 18:44:50]
+  Rowena Colpitts started repairing Навигационный терминал
+[03/04/2023 18:44:52]
+  kynlan4ic equipped Отвертка
+[03/04/2023 18:44:53]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:44:58]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:44:58]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:44:58]
+  kynlan4ic equipped Зеленый провод
+[03/04/2023 18:44:59]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:45:00]
+  kynlan4ic connected a wire to Кабельная коробка (power)
+[03/04/2023 18:45:03]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:45:05]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:45:05]
+  Rosina Mungo equipped Гаечный ключ
+[03/04/2023 18:45:06]
+  vlad32 adjusted reactor settings: Temperature: 1992, Fission rate: 16, Turbine output: 7, Autotemp OFF
+[03/04/2023 18:45:06]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:45:07]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:45:07]
+  Igor Mason equipped Гаечный ключ
+[03/04/2023 18:45:10]
+  vlad32 adjusted reactor settings: Temperature: 4125, Fission rate: 16, Turbine output: 7, Autotemp OFF
+[03/04/2023 18:45:15]
+  Igor Mason unequipped Гаечный ключ
+[03/04/2023 18:45:18]
+  Rosina Mungo unequipped Гаечный ключ
+[03/04/2023 18:45:19]
+  kynlan4ic connected a wire from Монитор сонара (power_in) to Кабельная коробка (power)
+[03/04/2023 18:45:19]
+  Информация о миссии:  - Маяк снова работает.
+[03/04/2023 18:45:34]
+  kynlan4ic started repairing Ядерный реактор
+[03/04/2023 18:45:40]
+  kynlan4ic started repairing Ядерный реактор
+[03/04/2023 18:45:42]
+  vlad32 picked up Плазменный резак
+[03/04/2023 18:45:42]
+  kynlan4ic placed Отвертка in Средний стальной шкаф (ID: 10158)
+[03/04/2023 18:45:43]
+  vlad32 placed Кислородный баллон in Генератор кислорода (ID: 10096)
+[03/04/2023 18:45:44]
+  kynlan4ic picked up Сварочный аппарат
+[03/04/2023 18:45:45]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/04/2023 18:45:47]
+  vlad32 picked up Отвертка
+[03/04/2023 18:45:47]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 10158)
+[03/04/2023 18:45:47]
+  vlad32 placed Отвертка in Пояс инструментов (ID: 11088)
+[03/04/2023 18:45:48]
+  vlad32 placed Гаечный ключ in Пояс инструментов (ID: 11088)
+[03/04/2023 18:45:50]
+  vlad32 picked up Схема на базе ППВМ
+[03/04/2023 18:45:55]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:45:55]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:45:55]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:45:56]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:45:57]
+  kynlan4ic picked up Гидроксиапатит
+[03/04/2023 18:45:58]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:46:00]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:46:01]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:46:04]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:46:04]
+  kynlan4ic opened Настраиваемая дверь
+[03/04/2023 18:46:04]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 18:46:09]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 18:46:09]
+  kynlan4ic closed Настраиваемая дверь
+[03/04/2023 18:46:11]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:46:11]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:46:16]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:46:16]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:46:21]
+  kynlan4ic dropped Топливный бак сварочного аппарата
+[03/04/2023 18:46:21]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:46:23]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:46:24]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 18:46:25]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 18:46:25]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:46:25]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:46:25]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:46:25]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 18:46:25]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:46:26]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 18:46:26]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 18:46:28]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:46:28]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:46:28]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 561)
+[03/04/2023 18:46:32]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/04/2023 18:46:33]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:46:37]
+  kynlan4ic placed Гидроксиапатит in Контейнер для хранения (ID: 1238)
+[03/04/2023 18:46:39]
+  vlad32 placed Кислородный баллон in Плазменный резак (ID: 11089)
+[03/04/2023 18:46:39]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:46:39]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:46:40]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 11088)
+[03/04/2023 18:46:45]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:46:45]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:46:46]
+  vlad32 picked up Топливный стержень
+[03/04/2023 18:46:46]
+  vlad32 dropped Сварочный аппарат
+[03/04/2023 18:46:46]
+  vlad32 placed Сварочный аппарат in Пояс инструментов (ID: 11088)
+[03/04/2023 18:46:50]
+  vlad32 opened Настраиваемая дверь
+[03/04/2023 18:46:50]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:46:52]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:46:52]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:46:52]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:46:52]
+  vlad32 closed Настраиваемая дверь
+[03/04/2023 18:46:52]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:46:52]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:46:52]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:46:53]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:46:55]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:46:55]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:46:55]
+  vlad32 opened Настраиваемая дверь
+[03/04/2023 18:46:59]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:47:06]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:47:06]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:47:08]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:47:08]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:47:08]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:47:10]
+  vlad32 opened Настраиваемая дверь с окном
+[03/04/2023 18:47:14]
+  vlad32 dropped Боевой водолазный скафандр
+[03/04/2023 18:47:18]
+  Console command "control "Claire Suarez"" executed by kynlan4ic.
+[03/04/2023 18:47:19]
+  Claire Suarez set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 18:47:28]
+  Claire Suarez equipped Гранатомет
+[03/04/2023 18:47:31]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:47:32]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:47:37]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:47:38]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:48:04]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:48:04]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:48:09]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:48:09]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:48:16]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 18:48:17]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 18:48:17]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 18:48:17]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 18:48:20]
+  Dominick Mansfield started repairing Генератор кислорода
+[03/04/2023 18:48:23]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 18:48:26]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Качок'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Физическая подготовка'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Усиление'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Эксперт по боеприпасам'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'По уставу'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Абордажная команда'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Убийца'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Дерзкий дельфин'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Спецотдел'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Автоматчик'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Сила напарника'
+[03/04/2023 18:48:32]
+  Claire Suarez has gained the talent 'Суперпорох'
+[03/04/2023 18:48:34]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 18:48:34]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 18:48:35]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/04/2023 18:48:35]
+  Rowena Colpitts equipped Револьвер
+[03/04/2023 18:48:36]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/04/2023 18:48:37]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:48:38]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:48:38]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:48:38]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:48:44]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:48:44]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:48:44]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:48:46]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:48:47]
+  Igor Mason failed to repair Навигационный терминал
+[03/04/2023 18:48:51]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:48:51]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:48:55]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:48:58]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:48:58]
+  Console command "control "Joe Parchman"" executed by kynlan4ic.
+[03/04/2023 18:48:58]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:48:59]
+  Joe Parchman set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 18:49:03]
+  Igor Mason equipped Морфин
+[03/04/2023 18:49:08]
+  Igor Mason equipped Бинт
+[03/04/2023 18:49:16]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:49:16]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:49:17]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:49:19]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:49:21]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:49:21]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:49:23]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:49:25]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:49:34]
+  Joe Parchman has gained the talent 'Бегство'
+[03/04/2023 18:49:34]
+  Joe Parchman has gained the talent 'Почтальон'
+[03/04/2023 18:49:34]
+  Joe Parchman has gained the talent 'Обмен опытом'
+[03/04/2023 18:49:34]
+  Joe Parchman has gained the talent 'Мститель'
+[03/04/2023 18:49:45]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:49:49]
+  Console command "control "Sara Lyons"" executed by kynlan4ic.
+[03/04/2023 18:49:50]
+  Sara Lyons set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 18:49:50]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:49:55]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:49:56]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:49:56]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:50:00]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 18:50:00]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:50:02]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:50:05]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:50:12]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:50:50]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 18:50:50]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 18:50:51]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 18:50:51]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:50:51]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:50:52]
+  Dominick Mansfield failed to repair Малый насос
+[03/04/2023 18:50:54]
+  Joe Parchman started repairing Малый насос
+[03/04/2023 18:50:55]
+  Rowena Colpitts started repairing Малый насос
+[03/04/2023 18:50:56]
+  Rosina Mungo failed to repair Кабельная коробка
+[03/04/2023 18:50:56]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 18:50:56]
+  vlad32 picked up Пистолет-пулемет
+[03/04/2023 18:50:57]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 18:50:58]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 18:50:59]
+  vlad32 dropped Металлический ящик
+[03/04/2023 18:51:00]
+  vlad32 placed Магазин для ПП in Пистолет-пулемет (ID: 3915)
+[03/04/2023 18:51:01]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:51:01]
+  vlad32 equipped Пистолет-пулемет
+[03/04/2023 18:51:05]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:51:06]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:51:08]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:51:12]
+  vlad32 placed Боеприпасы защитного бота in Defensebot
+[03/04/2023 18:51:12]
+  vlad32 removed Магазин для ПП from Defensebot
+[03/04/2023 18:51:12]
+  vlad32 picked up Магазин для ПП
+[03/04/2023 18:51:15]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:51:20]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:51:20]
+  Rosina Mungo equipped Бинт
+[03/04/2023 18:51:21]
+  vlad32 placed Магазин для ПП in Металлический ящик (ID: 3906)
+[03/04/2023 18:51:23]
+  vlad32 placed Магазин для ПП in Металлический ящик (ID: 3906)
+[03/04/2023 18:51:24]
+  vlad32 placed Автоматический пистолет in Металлический ящик (ID: 3906)
+[03/04/2023 18:51:28]
+  Rosina Mungo equipped Морфин
+[03/04/2023 18:51:34]
+  vlad32 picked up Магазин для ПП
+[03/04/2023 18:51:39]
+  vlad32 dropped Металлический ящик
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Бегство'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Тормоз'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Вдохновляющий мотив'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Обмен опытом'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Зачисление в клоуны'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Водный хулиган'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Классный клаксон'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Истинный талант'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Список ожидания'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Безвредный'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Страховка'
+[03/04/2023 18:52:15]
+  Sara Lyons has gained the talent 'Везде друзья'
+[03/04/2023 18:52:17]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[03/04/2023 18:52:18]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/04/2023 18:52:19]
+  vlad32 (as ???) placed Удостоверение личности in Defensebot
+[03/04/2023 18:52:25]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:52:26]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:52:31]
+  Igor Mason failed to repair Кабельная коробка
+[03/04/2023 18:52:39]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:52:39]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:52:44]
+  Igor Mason equipped Бинт
+[03/04/2023 18:52:46]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:52:46]
+  Igor Mason equipped Отвертка
+[03/04/2023 18:52:49]
+  vlad32 picked up Удостоверение личности
+[03/04/2023 18:52:51]
+  Igor Mason failed to repair Кабельная коробка
+[03/04/2023 18:52:55]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:52:59]
+  vlad32 adjusted reactor settings: Temperature: 4222, Fission rate: 84, Turbine output: 85, Autotemp ON
+[03/04/2023 18:53:08]
+  Igor Mason unequipped Отвертка
+[03/04/2023 18:53:08]
+  Igor Mason equipped Морфин
+[03/04/2023 18:53:12]
+  Igor Mason equipped Бинт
+[03/04/2023 18:53:16]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:53:16]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/04/2023 18:53:16]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:53:23]
+  Igor Mason: Само собой!
+[03/04/2023 18:53:29]
+  Igor Mason: Albertine Stanley, займись ремонтом поврежденных систем!
+[03/04/2023 18:53:30]
+  Albertine Stanley: Вас понял!
+[03/04/2023 18:53:35]
+  Igor Mason: Dorthy Nicolosi, займись орудиями!
+[03/04/2023 18:53:36]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:53:36]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:53:36]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:53:36]
+  Dorthy Nicolosi: Слушаюсь!
+[03/04/2023 18:53:36]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:53:38]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 18:53:40]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:53:40]
+  Igor Mason: Zachary Mendel, займись орудиями!
+[03/04/2023 18:53:41]
+  Zachary Mendel: Вас понял!
+[03/04/2023 18:53:41]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:53:41]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:53:46]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:53:52]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:53:59]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:53:59]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:54:01]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/04/2023 18:54:01]
+  Albertine Stanley failed to repair Кабельная коробка
+[03/04/2023 18:54:03]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 81)
+[03/04/2023 18:54:13]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:54:13]
+  kynlan4ic placed Блок C-4 in Средний стальной шкаф с окном (ID: 891)
+[03/04/2023 18:54:13]
+  kynlan4ic placed Блок C-4 in Средний стальной шкаф с окном (ID: 891)
+[03/04/2023 18:54:13]
+  kynlan4ic placed Блок C-4 in Средний стальной шкаф с окном (ID: 891)
+[03/04/2023 18:54:17]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:54:17]
+  Albertine Stanley equipped Морфин
+[03/04/2023 18:54:22]
+  Albertine Stanley equipped Бинт
+[03/04/2023 18:54:23]
+  kynlan4ic picked up Плазменный резак
+[03/04/2023 18:54:27]
+  Albertine Stanley equipped Бинт
+[03/04/2023 18:54:28]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 927)
+[03/04/2023 18:54:33]
+  kynlan4ic picked up Лом
+[03/04/2023 18:54:38]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/04/2023 18:54:40]
+  vlad32 picked up Боевой водолазный скафандр
+[03/04/2023 18:54:40]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 18:54:41]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 18:54:43]
+  vlad32 opened Настраиваемая дверь с окном
+[03/04/2023 18:54:44]
+  vlad32 opened Настраиваемая дверь с окном
+[03/04/2023 18:54:47]
+  vlad32 closed Настраиваемая дверь с окном
+[03/04/2023 18:54:48]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:54:50]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:54:54]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[03/04/2023 18:54:58]
+  kynlan4ic equipped Лом
+[03/04/2023 18:55:02]
+  Bennie Castro: Огонь!
+[03/04/2023 18:55:07]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:07]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:07]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:07]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:07]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:07]
+  Outer wall breached by Bennie Castro
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:08]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:55:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 18:55:09]
+  Husk has died (Cause of death: Рваная рана)
+[03/04/2023 18:55:09]
+  Bennie Castro: Враг уничтожен!
+[03/04/2023 18:55:09]
+  Claire Suarez: Враг уничтожен!
+[03/04/2023 18:55:09]
+  Delbert Graves: И-и-и-и... Готово!
+[03/04/2023 18:55:09]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:55:14]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:55:15]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:55:18]
+  vlad32 picked up Удостоверение личности
+[03/04/2023 18:55:24]
+  vlad32 dropped Удостоверение личности
+[03/04/2023 18:55:28]
+  Igor Mason: Zachary Mendel, займись орудиями!
+[03/04/2023 18:55:28]
+  Rosina Mungo equipped Гаечный ключ
+[03/04/2023 18:55:28]
+  Albertine Stanley equipped Гаечный ключ
+[03/04/2023 18:55:29]
+  Zachary Mendel: Слушаюсь!
+[03/04/2023 18:55:31]
+  vlad32 grabbed Jutta Case's body and received 16 mk.
+[03/04/2023 18:55:33]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:55:34]
+  vlad32 removed Одежда обитателя аванпоста from Human
+[03/04/2023 18:55:34]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:55:34]
+  Bennie Castro: Неизвестная цель обнаружена!
+[03/04/2023 18:55:35]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:55:35]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:55:35]
+  Sara Lyons started repairing Навигационный терминал
+[03/04/2023 18:55:36]
+  Rosina Mungo unequipped Гаечный ключ
+[03/04/2023 18:55:36]
+  Albertine Stanley unequipped Гаечный ключ
+[03/04/2023 18:55:37]
+  Rowena Colpitts started repairing Навигационный терминал
+[03/04/2023 18:55:38]
+  vlad32 unequipped Подводный скутер
+[03/04/2023 18:55:38]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 18:55:39]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:55:44]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:55:47]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:55:48]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:55:49]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 18:55:50]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 18:55:52]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:55:52]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:55:52]
+  vlad32 placed Схема на базе ППВМ in Контейнер для хранения (ID: 10890)
+[03/04/2023 18:55:52]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:55:53]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:55:53]
+  vlad32 placed Подводный скутер in Контейнер для хранения (ID: 10890)
+[03/04/2023 18:55:53]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:55:56]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:55:56]
+  vlad32 picked up Подводный скутер
+[03/04/2023 18:55:57]
+  kynlan4ic equipped Меткий карабин
+[03/04/2023 18:55:59]
+  vlad32 picked up Схема на базе ППВМ
+[03/04/2023 18:55:59]
+  kynlan4ic grabbed Jc Sawyer's body and received 8 mk.
+[03/04/2023 18:56:01]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:56:01]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:56:05]
+  vlad32 placed Схема на базе ППВМ in Контейнер для хранения (ID: 10890)
+[03/04/2023 18:56:05]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:56:06]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:56:06]
+  vlad32 placed Топливный стержень in Контейнер для хранения (ID: 10890)
+[03/04/2023 18:56:08]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:56:08]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:56:08]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:56:08]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:56:09]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:56:10]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 18:56:10]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:56:11]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:56:11]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:56:12]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:56:12]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:56:13]
+  vlad32 opened Настраиваемая дверь с окном
+[03/04/2023 18:56:14]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:56:16]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:56:18]
+  vlad32 dropped Контейнер для хранения
+[03/04/2023 18:56:25]
+  vlad32 closed Настраиваемая дверь с окном
+[03/04/2023 18:56:25]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:26]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:56:26]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:26]
+  vlad32 equipped Подводный скутер
+[03/04/2023 18:56:27]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8 Оглушение: 0.2
+[03/04/2023 18:56:29]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:56:34]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:34]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:35]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:37]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8 Оглушение: 0.2
+[03/04/2023 18:56:39]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:39]
+  Husk attacked by kynlan4ic. Огнестрельная рана: 13.8 Кровотечение: 13.8
+[03/04/2023 18:56:40]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:40]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:40]
+  Outer wall breached by kynlan4ic
+[03/04/2023 18:56:40]
+  Husk has died (Cause of death: Огнестрельная рана)
+[03/04/2023 18:56:40]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:40]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3 Оглушение: 0.3
+[03/04/2023 18:56:41]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:41]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:44]
+  Zachary Mendel: Надо бы нам кофеварку здесь завести.
+[03/04/2023 18:56:47]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:47]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:47]
+  Igor Mason: Я не пью кофе.
+[03/04/2023 18:56:49]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:50]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:50]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:56:51]
+  Husk has died (Cause of death: Огнестрельная рана)
+[03/04/2023 18:56:51]
+  Husk attacked by vlad32. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[03/04/2023 18:57:04]
+  vlad32 equipped Ящик физикориевых снарядов
+[03/04/2023 18:57:04]
+  vlad32 picked up Ящик физикориевых снарядов
+[03/04/2023 18:57:10]
+  Igor Mason: Marissa Lawson, встань за орудия!
+[03/04/2023 18:57:11]
+  Marissa Lawson: Принято.
+[03/04/2023 18:57:28]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:57:28]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:57:31]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:57:31]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:57:32]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:57:32]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:57:32]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:57:33]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 18:57:35]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 18:57:35]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:57:36]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:57:36]
+  vlad32 opened Настраиваемая дверь с окном
+[03/04/2023 18:57:37]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:57:38]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:57:39]
+  Joe Parchman failed to repair Кабельная коробка
+[03/04/2023 18:57:40]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:57:41]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:57:42]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:57:43]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:57:45]
+  vlad32 dropped Ящик физикориевых снарядов
+[03/04/2023 18:57:47]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:57:47]
+  Dominick Mansfield: Загружаю в реактор дополнительное топливо!
+[03/04/2023 18:57:53]
+  Dominick Mansfield equipped Топливный стержень
+[03/04/2023 18:57:55]
+  vlad32 picked up Топливный стержень
+[03/04/2023 18:57:59]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 30, Turbine output: 61, Autotemp ON
+[03/04/2023 18:58:01]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:58:02]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:58:02]
+  kynlan4ic equipped Контейнер для хранения
+[03/04/2023 18:58:02]
+  kynlan4ic picked up Контейнер для хранения
+[03/04/2023 18:58:03]
+  vlad32 adjusted reactor settings: Temperature: 2753, Fission rate: 43, Turbine output: 60, Autotemp ON
+[03/04/2023 18:58:06]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 695)
+[03/04/2023 18:58:06]
+  kynlan4ic dropped Контейнер для хранения
+[03/04/2023 18:58:07]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:58:09]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:58:16]
+  vlad32 closed Настраиваемая дверь с окном
+[03/04/2023 18:58:17]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 18:58:20]
+  Albertine Stanley: Загружаю в реактор дополнительное топливо!
+[03/04/2023 18:58:20]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:22]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:24]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:24]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:24]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:24]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:24]
+  Crawlerhusk attacked by kynlan4ic. Огнестрельная рана: 4.8 Кровотечение: 6.0
+[03/04/2023 18:58:25]
+  Albertine Stanley equipped Топливный стержень
+[03/04/2023 18:58:28]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[03/04/2023 18:58:29]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 18:58:29]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[03/04/2023 18:58:29]
+  Delbert Graves: Враг уничтожен!
+[03/04/2023 18:58:30]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/04/2023 18:58:30]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[03/04/2023 18:58:32]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/04/2023 18:58:35]
+  kynlan4ic picked up Гарпун
+[03/04/2023 18:58:36]
+  kynlan4ic picked up Гарпун
+[03/04/2023 18:58:36]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:58:37]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:58:37]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:58:38]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:58:39]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 18:58:40]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 18:58:41]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 18:58:42]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:58:42]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:58:45]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:58:50]
+  vlad32 picked up Сварочный аппарат
+[03/04/2023 18:58:51]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:58:52]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:58:52]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:58:52]
+  vlad32 grabbed Tisha Schmitt's body and received 22 mk.
+[03/04/2023 18:58:54]
+  vlad32 picked up Морфин
+[03/04/2023 18:58:57]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:58:57]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:58:58]
+  vlad32 removed Форма врача from Human
+[03/04/2023 18:59:05]
+  Rowena Colpitts equipped Топливный стержень
+[03/04/2023 18:59:07]
+  vlad32 unequipped Подводный скутер
+[03/04/2023 18:59:07]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 18:59:09]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:59:09]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:59:11]
+  vlad32 placed Сварочный аппарат in Контейнер для хранения (ID: 11012)
+[03/04/2023 18:59:13]
+  vlad32 placed Морфин in Контейнер для хранения (ID: 11012)
+[03/04/2023 18:59:13]
+  Albertine Stanley failed to repair Кабельная коробка
+[03/04/2023 18:59:17]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:59:18]
+  vlad32 placed Бинт in Контейнер для хранения (ID: 11012)
+[03/04/2023 18:59:21]
+  vlad32 dropped Контейнер для хранения
+[03/04/2023 18:59:22]
+  Rosina Mungo equipped Гаечный ключ
+[03/04/2023 18:59:23]
+  vlad32 picked up Лом
+[03/04/2023 18:59:23]
+  vlad32 equipped Лом
+[03/04/2023 18:59:24]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:59:24]
+  Albertine Stanley equipped Гаечный ключ
+[03/04/2023 18:59:31]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 18:59:31]
+  Sara Lyons equipped Отвертка
+[03/04/2023 18:59:31]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 18:59:31]
+  Joe Parchman equipped Отвертка
+[03/04/2023 18:59:33]
+  Joe Parchman failed to repair Кабельная коробка
+[03/04/2023 18:59:33]
+  Igor Mason: Marissa Lawson, займись орудиями!
+[03/04/2023 18:59:33]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 18:59:34]
+  Marissa Lawson: Принято.
+[03/04/2023 18:59:35]
+  vlad32 placed Лом in Пояс инструментов (ID: 11088)
+[03/04/2023 18:59:36]
+  Albertine Stanley unequipped Гаечный ключ
+[03/04/2023 18:59:36]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 18:59:36]
+  Rosina Mungo unequipped Гаечный ключ
+[03/04/2023 18:59:36]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 18:59:38]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 18:59:39]
+  Carlton Craig: Joe Parchman получает первую помощь здесь: соединительный отсек!
+[03/04/2023 18:59:40]
+  Carlton Craig: Joe Parchman нуждается в помощи! Срочно требуется бинт, экстракт взрывного граната, эластичный бинт или морфин!
+[03/04/2023 18:59:42]
+  Carlton Craig equipped Экстракт взрывного граната
+[03/04/2023 18:59:43]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 18:59:45]
+  vlad32 grabbed Arron Castillo's body and received 12 mk.
+[03/04/2023 18:59:45]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 18:59:46]
+  Igor Mason: Marissa Lawson, займись оружием!
+[03/04/2023 18:59:47]
+  Marissa Lawson: Есть!
+[03/04/2023 18:59:47]
+  Carlton Craig: Joe Parchman в полном порядке!
+[03/04/2023 18:59:48]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 18:59:48]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 18:59:49]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 18:59:53]
+  Albertine Stanley equipped Гаечный ключ
+[03/04/2023 18:59:54]
+  Rosina Mungo equipped Гаечный ключ
+[03/04/2023 18:59:57]
+  Albertine Stanley failed to repair Малый насос
+[03/04/2023 18:59:58]
+  kynlan4ic picked up Кислородный баллон
+[03/04/2023 18:59:59]
+  vlad32 picked up Лом
+[03/04/2023 19:00:03]
+  Rosina Mungo unequipped Гаечный ключ
+[03/04/2023 19:00:05]
+  vlad32 picked up Плазменный резак
+[03/04/2023 19:00:06]
+  vlad32 picked up Кислородный баллон
+[03/04/2023 19:00:07]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 11088)
+[03/04/2023 19:00:08]
+  Albertine Stanley unequipped Гаечный ключ
+[03/04/2023 19:00:15]
+  Albertine Stanley equipped Гаечный ключ
+[03/04/2023 19:00:15]
+  Rosina Mungo equipped Гаечный ключ
+[03/04/2023 19:00:19]
+  vlad32 picked up Морфин
+[03/04/2023 19:00:21]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 19:00:21]
+  Albertine Stanley failed to repair Большой двигатель
+[03/04/2023 19:00:22]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 19:00:22]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 19:00:22]
+  vlad32 unequipped Сварочный аппарат
+[03/04/2023 19:00:24]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 19:00:24]
+  vlad32 picked up Кислородный баллон
+[03/04/2023 19:00:25]
+  vlad32 dropped Сварочный аппарат
+[03/04/2023 19:00:26]
+  Rosina Mungo unequipped Гаечный ключ
+[03/04/2023 19:00:26]
+  Carlton Craig: kynlan4ic проходит лечение здесь: пункт управления!
+[03/04/2023 19:00:27]
+  Carlton Craig: Мне требуется экстракт взрывного граната, морфин, жидкий тоник или опиум!
+[03/04/2023 19:00:28]
+  Carlton Craig equipped Жидкий тоник
+[03/04/2023 19:00:30]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 19:00:30]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 81)
+[03/04/2023 19:00:31]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 19:00:31]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 19:00:31]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 19:00:31]
+  Albertine Stanley unequipped Гаечный ключ
+[03/04/2023 19:00:34]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 19:00:34]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 19:00:36]
+  Sara Lyons started repairing Генератор кислорода
+[03/04/2023 19:00:36]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 19:00:36]
+  Joe Parchman equipped Отвертка
+[03/04/2023 19:00:38]
+  Carlton Craig equipped Жидкий тоник
+[03/04/2023 19:00:38]
+  Rowena Colpitts started repairing Генератор кислорода
+[03/04/2023 19:00:38]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 19:00:38]
+  Sara Lyons equipped Отвертка
+[03/04/2023 19:00:40]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 19:00:40]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 19:00:41]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 19:00:43]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 19:00:44]
+  Carlton Craig equipped Морфин
+[03/04/2023 19:00:44]
+  vlad32 picked up Плазменный резак
+[03/04/2023 19:00:47]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 19:00:47]
+  Carlton Craig: kynlan4ic в полном порядке!
+[03/04/2023 19:00:48]
+  vlad32 equipped Подводный скутер
+[03/04/2023 19:00:53]
+  kynlan4ic placed Лом in Хозяйственный шкаф (ID: 291)
+[03/04/2023 19:00:53]
+  vlad32 placed Кислородный баллон in Плазменный резак (ID: 11089)
+[03/04/2023 19:00:55]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 19:00:55]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 11088)
+[03/04/2023 19:00:56]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 19:01:02]
+  kynlan4ic placed Кислородный баллон in Контейнер для хранения (ID: 3456)
+[03/04/2023 19:01:02]
+  vlad32 opened Настраиваемый люк
+[03/04/2023 19:01:04]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 19:01:04]
+  Sara Lyons equipped Отвертка
+[03/04/2023 19:01:04]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 19:01:05]
+  Joe Parchman equipped Отвертка
+[03/04/2023 19:01:05]
+  vlad32 closed Настраиваемый люк
+[03/04/2023 19:01:06]
+  vlad32 opened Настраиваемая дверь с окном
+[03/04/2023 19:01:06]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 19:01:09]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 19:01:09]
+  kynlan4ic equipped Ящик со взрывчаткой
+[03/04/2023 19:01:13]
+  kynlan4ic dropped Ящик со взрывчаткой
+[03/04/2023 19:01:14]
+  kynlan4ic equipped Металлический ящик
+[03/04/2023 19:01:15]
+  vlad32 placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 157)
+[03/04/2023 19:01:16]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 19:01:18]
+  kynlan4ic placed Гремелка in Металлический ящик (ID: 1694)
+[03/04/2023 19:01:19]
+  kynlan4ic placed Меткий карабин in Металлический ящик (ID: 1694)
+[03/04/2023 19:01:20]
+  kynlan4ic dropped Металлический ящик
+[03/04/2023 19:01:21]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 19:01:22]
+  vlad32 equipped Металлический ящик
+[03/04/2023 19:01:22]
+  kynlan4ic equipped Металлический ящик
+[03/04/2023 19:01:23]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  kynlan4ic placed Гарпун in Металлический ящик (ID: 2077)
+[03/04/2023 19:01:24]
+  vlad32 dropped Металлический ящик
+[03/04/2023 19:01:25]
+  kynlan4ic dropped Металлический ящик
+[03/04/2023 19:01:41]
+  kynlan4ic equipped Контейнер для хранения
+[03/04/2023 19:01:41]
+  kynlan4ic picked up Контейнер для хранения
+[03/04/2023 19:01:42]
+  kynlan4ic equipped Контейнер для хранения
+[03/04/2023 19:01:45]
+  kynlan4ic picked up Подводный скутер
+[03/04/2023 19:01:48]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф с окном (ID: 887)
+[03/04/2023 19:01:51]
+  kynlan4ic equipped Контейнер для хранения
+[03/04/2023 19:01:51]
+  kynlan4ic picked up Контейнер для хранения
+[03/04/2023 19:01:52]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:01:53]
+  vlad32 picked up Плазменный резак
+[03/04/2023 19:01:53]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:01:54]
+  vlad32 placed Лом in Пояс инструментов (ID: 11088)
+[03/04/2023 19:01:56]
+  kynlan4ic removed Жало хаска from Контейнер для хранения (ID: 3113)
+[03/04/2023 19:01:56]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 19:01:57]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 19:01:57]
+  vlad32 placed Плазменный резак in Средний стальной шкаф с окном (ID: 887)
+[03/04/2023 19:01:59]
+  Rosina Mungo failed to repair Кабельная коробка
+[03/04/2023 19:01:59]
+  vlad32 picked up Плазменный резак
+[03/04/2023 19:02:02]
+  kynlan4ic dropped Контейнер для хранения
+[03/04/2023 19:02:03]
+  kynlan4ic dropped Контейнер для хранения
+[03/04/2023 19:02:04]
+  vlad32 placed Плазменный резак in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:02:05]
+  vlad32 equipped Контейнер для хранения
+[03/04/2023 19:02:11]
+  Igor Mason has died (Cause of death: Наркотическая ломка)
+[03/04/2023 19:02:11]
+  vlad32 dropped Контейнер для хранения
+[03/04/2023 19:02:12]
+  kynlan4ic dropped Металлический ящик
+[03/04/2023 19:02:17]
+  kynlan4ic dropped Контейнер для хранения
+[03/04/2023 19:02:17]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:02:21]
+  kynlan4ic dropped Контейнер для хранения
+[03/04/2023 19:02:22]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:02:22]
+  Rosina Mungo equipped Бинт
+[03/04/2023 19:02:22]
+  kynlan4ic equipped Контейнер для хранения
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:24]
+  kynlan4ic picked up Патрон для дробовика
+[03/04/2023 19:02:25]
+  kynlan4ic picked up Осколочная граната
+[03/04/2023 19:02:28]
+  Rosina Mungo equipped Морфин
+[03/04/2023 19:02:28]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 19:02:29]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/04/2023 19:02:30]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 19:02:33]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 892)
+[03/04/2023 19:02:43]
+  kynlan4ic dropped Контейнер для хранения
+[03/04/2023 19:02:46]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:02:47]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Патрон для дробовика in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:47]
+  kynlan4ic placed Осколочная граната in Металлический ящик (ID: 3288)
+[03/04/2023 19:02:48]
+  kynlan4ic dropped Металлический ящик
+[03/04/2023 19:02:53]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:02:55]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 19:02:55]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:02:55]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 19:02:55]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 19:02:56]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 19:02:56]
+  kynlan4ic dropped Подводный скутер
+[03/04/2023 19:02:57]
+  Dominick Mansfield started repairing Малый насос
+[03/04/2023 19:03:00]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 19:03:00]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:03:01]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:03:02]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 19:03:03]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/04/2023 19:03:05]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 19:03:05]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 19:03:10]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:03:10]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:03:12]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 19:03:12]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 19:03:28]
+  Sara Lyons equipped Отвертка
+[03/04/2023 19:03:28]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 19:03:28]
+  Joe Parchman equipped Отвертка
+[03/04/2023 19:03:29]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 19:03:30]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:03:31]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:03:31]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 19:03:34]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 19:03:34]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 19:03:34]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 19:03:34]
+  kynlan4ic placed Осколок кислородита in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:03:34]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 19:03:35]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:03:35]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 19:03:35]
+  kynlan4ic placed Резиновый патрон для дробовика in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:03:35]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:03:36]
+  kynlan4ic placed Дротик для электрошокера in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:03:38]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 19:03:38]
+  kynlan4ic grabbed Claire Colpitts's body and received 7 mk.
+[03/04/2023 19:03:41]
+  kynlan4ic placed Анапарализатор in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:03:47]
+  kynlan4ic placed Бинт in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:03:48]
+  kynlan4ic placed Морфин in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:03:50]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:03:51]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:03:55]
+  Rosina Mungo failed to repair Ядерный реактор
+[03/04/2023 19:03:59]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:04:01]
+  kynlan4ic placed Хлам in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:01]
+  kynlan4ic placed Хлам in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:03]
+  kynlan4ic placed Семя табачной лозы in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:06]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:04:07]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:04:08]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:04:10]
+  Albertine Stanley failed to repair Кабельная коробка
+[03/04/2023 19:04:13]
+  Sara Lyons equipped Отвертка
+[03/04/2023 19:04:14]
+  Joe Parchman equipped Отвертка
+[03/04/2023 19:04:14]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 19:04:15]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 19:04:15]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 19:04:15]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 19:04:16]
+  kynlan4ic placed Топливный стержень in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:16]
+  kynlan4ic placed Отвертка in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:18]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 19:04:18]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 19:04:20]
+  kynlan4ic placed Бинт in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:20]
+  Albertine Stanley failed to repair Кабельная коробка
+[03/04/2023 19:04:21]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:04:24]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 19:04:28]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 19:04:28]
+  kynlan4ic placed Бинт in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:30]
+  kynlan4ic placed Пакет с кровью in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:30]
+  kynlan4ic placed Морфин in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:30]
+  kynlan4ic placed Морфин in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:30]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:04:32]
+  kynlan4ic placed Опиум in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:33]
+  kynlan4ic placed Метамфетамин in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:35]
+  kynlan4ic placed Деусицин in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:36]
+  kynlan4ic placed Антибиотики широкого спектра in Контейнер для хранения (ID: 3628)
+[03/04/2023 19:04:37]
+  kynlan4ic placed Физраствор in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:37]
+  kynlan4ic placed Физраствор in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:37]
+  kynlan4ic placed Физраствор in Контейнер для хранения (ID: 3113)
+[03/04/2023 19:04:54]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 19:04:55]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 19:04:56]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 19:05:04]
+  Rosina Mungo equipped Отвертка
+[03/04/2023 19:05:05]
+  Albertine Stanley equipped Отвертка
+[03/04/2023 19:05:08]
+  Rosina Mungo unequipped Отвертка
+[03/04/2023 19:05:09]
+  kynlan4ic activated Деконструктор
+[03/04/2023 19:05:10]
+  Albertine Stanley unequipped Отвертка
+[03/04/2023 19:05:16]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 695)
+[03/04/2023 19:05:18]
+  Dominick Mansfield equipped Отвертка

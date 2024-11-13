@@ -1,0 +1,1600 @@
+﻿[03/11/2023 18:51:06]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:07]
+  Bonethresher attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 0.8
+[03/11/2023 18:51:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:07]
+  kynlan4ic launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:51:09]
+  igameCrog: Пункт управления: здесь пробит корпус!
+[03/11/2023 18:51:12]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 18:51:12]
+  Lionel Mungo: Передний балласт: минус одна протечка!
+[03/11/2023 18:51:12]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[03/11/2023 18:51:23]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 18:51:24]
+  Arron Gregory equipped Сварочный аппарат
+[03/11/2023 18:51:24]
+  Arron Gregory unequipped Сварочный аппарат
+[03/11/2023 18:51:26]
+  igameCrog equipped Терминал
+[03/11/2023 18:51:27]
+  Супостат499 equipped Защищенный металлический ящик
+[03/11/2023 18:51:27]
+  Супостат499 picked up Защищенный металлический ящик
+[03/11/2023 18:51:30]
+  Супостат499 picked up Бронежилет
+[03/11/2023 18:51:32]
+  Супостат499 placed Защищенный металлический ящик in Стеллаж для ящиков (ID: 336)
+[03/11/2023 18:51:35]
+  Outer wall repaired by Lionel Mungo
+[03/11/2023 18:51:35]
+  Lionel Mungo: Передний балласт: протечек не осталось!
+[03/11/2023 18:51:36]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/11/2023 18:51:37]
+  igameCrog attached Терминал to a wall
+[03/11/2023 18:51:37]
+  igameCrog used Отвертка on Большая вертикальная внутренняя стена.
+[03/11/2023 18:51:44]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 18:51:48]
+  igameCrog connected a wire to Терминал (signal_in)
+[03/11/2023 18:51:55]
+  kynlan4ic picked up Подводный скутер
+[03/11/2023 18:51:57]
+  kynlan4ic picked up Плазменный резак
+[03/11/2023 18:52:00]
+  kynlan4ic equipped Подводный скутер
+[03/11/2023 18:52:02]
+  kynlan4ic opened Настраиваемая дверь
+[03/11/2023 18:52:08]
+  kynlan4ic equipped Плазменный резак
+[03/11/2023 18:52:12]
+  Arron Gregory equipped Водолазный скафандр
+[03/11/2023 18:52:12]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:52:14]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:52:17]
+  Arron Gregory: igameCrog получает первую помощь здесь: реакторный отсек!
+[03/11/2023 18:52:18]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:52:18]
+  igameCrog connected a wire from Ядерный реактор (power_value_out) to Терминал (signal_in)
+[03/11/2023 18:52:20]
+  Arron Gregory: igameCrog нуждается в помощи! Срочно требуется бинт, экстракт взрывного граната, морфин или эластичный бинт!
+[03/11/2023 18:52:20]
+  Arron Gregory equipped Бинт
+[03/11/2023 18:52:28]
+  Arron Gregory: igameCrog чувствует себя хорошо!
+[03/11/2023 18:52:37]
+  Devin Maxwell equipped Кислородный баллон
+[03/11/2023 18:52:48]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:52:52]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:52:56]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:53:20]
+  kynlan4ic placed Брокит in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:53:20]
+  kynlan4ic placed Брокит in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:53:20]
+  kynlan4ic placed Брокит in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:53:21]
+  Lionel Mungo equipped Military Mk-I Hardsuit (Mercenary)
+[03/11/2023 18:53:29]
+  igameCrog connected a wire to Ядерный реактор (load_value_out)
+[03/11/2023 18:53:39]
+  kynlan4ic placed Криолит in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:53:39]
+  kynlan4ic placed Криолит in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:53:41]
+  igameCrog connected a wire from Терминал (signal_in) to Ядерный реактор (load_value_out)
+[03/11/2023 18:53:41]
+  kynlan4ic placed Криолит in Renegade Combat Undershirt (ID: 6622)
+[03/11/2023 18:54:08]
+  Devin Maxwell equipped Гаечный ключ
+[03/11/2023 18:54:08]
+  Lionel Mungo equipped Гаечный ключ
+[03/11/2023 18:54:13]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/11/2023 18:54:14]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/11/2023 18:54:16]
+  Devin Maxwell unequipped Гаечный ключ
+[03/11/2023 18:54:17]
+  Lionel Mungo unequipped Гаечный ключ
+[03/11/2023 18:54:20]
+  igameCrog disconnected a wire from Ядерный реактор (fuel_percentage_left) to Текстовый экран (set_text)
+[03/11/2023 18:54:25]
+  kynlan4ic closed Настраиваемая дверь
+[03/11/2023 18:54:28]
+  kynlan4ic placed Подводный скутер in Большой стальной шкаф (ID: 453)
+[03/11/2023 18:54:29]
+  kynlan4ic placed Плазменный резак in Большой стальной шкаф (ID: 453)
+[03/11/2023 18:54:29]
+  igameCrog disconnected a wire from Текстовый экран (set_text)
+[03/11/2023 18:54:29]
+  igameCrog picked up Коричневый провод
+[03/11/2023 18:54:36]
+  kynlan4ic placed Кислородный баллон in УЗК (ID: 6647)
+[03/11/2023 18:54:36]
+  kynlan4ic removed Кислородный баллон from УЗК (ID: 6647)
+[03/11/2023 18:54:36]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 408)
+[03/11/2023 18:54:38]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 6650)
+[03/11/2023 18:54:38]
+  kynlan4ic removed Кислородный баллон from Пояс инструментов (ID: 6650)
+[03/11/2023 18:54:38]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода челнока (ID: 408)
+[03/11/2023 18:54:40]
+  kynlan4ic picked up Кислородный баллон
+[03/11/2023 18:54:40]
+  igameCrog unequipped Текстовый экран
+[03/11/2023 18:54:40]
+  igameCrog detached Текстовый экран from a wall
+[03/11/2023 18:54:42]
+  igameCrog equipped Текстовый экран
+[03/11/2023 18:54:43]
+  Arron Gregory: Мы уже приплыли?
+[03/11/2023 18:54:45]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 18:54:53]
+  kynlan4ic placed Урановая руда in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:53]
+  kynlan4ic placed Урановая руда in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:53]
+  kynlan4ic placed Урановая руда in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:53]
+  igameCrog unequipped Текстовый экран
+[03/11/2023 18:54:53]
+  igameCrog detached Текстовый экран from a wall
+[03/11/2023 18:54:54]
+  kynlan4ic placed Криолит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:54]
+  kynlan4ic placed Криолит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:54]
+  kynlan4ic placed Криолит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:55]
+  igameCrog equipped Текстовый экран
+[03/11/2023 18:54:58]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 18:54:59]
+  kynlan4ic placed Криолит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:59]
+  kynlan4ic placed Криолит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:54:59]
+  kynlan4ic placed Криолит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:55:02]
+  kynlan4ic placed Брокит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:55:02]
+  kynlan4ic placed Брокит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:55:02]
+  kynlan4ic placed Брокит in Большой стальной шкаф (ID: 438)
+[03/11/2023 18:55:06]
+  igameCrog unequipped Текстовый экран
+[03/11/2023 18:55:06]
+  igameCrog detached Текстовый экран from a wall
+[03/11/2023 18:55:14]
+  igameCrog equipped Текстовый экран
+[03/11/2023 18:55:17]
+  igameCrog attached Текстовый экран to a wall
+[03/11/2023 18:55:26]
+  igameCrog connected a wire to Текстовый экран (set_text)
+[03/11/2023 18:55:40]
+  igameCrog connected a wire from Ядерный реактор (fuel_percentage_left) to Текстовый экран (set_text)
+[03/11/2023 18:55:53]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:55:57]
+  Devin Maxwell started repairing Монитор состояния
+[03/11/2023 18:56:00]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:57:03]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:03]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:03]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:03]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:03]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:03]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:03]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:03]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Outer wall breached by Mudraptor_unarmored
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:04]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor has died (Cause of death: Рваная рана)
+[03/11/2023 18:57:05]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  Outer wall breached by igameCrog
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:05]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:05]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:06]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:06]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 9.0 Кровотечение: 1.1
+[03/11/2023 18:57:07]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:07]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:07]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:08]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  Devin Maxwell equipped Сварочный аппарат
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:08]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:08]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:09]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:09]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:09]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:09]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:09]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:10]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:10]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:10]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:10]
+  Devin Maxwell: Багажный отсек: выполняю ремонт. Осталось несколько отверстий!
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  Mudraptor attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:10]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:10]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  Mudraptor attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 0.9
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:11]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:12]
+  Mudraptor_unarmored attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:57:13]
+  Outer wall repaired by Devin Maxwell
+[03/11/2023 18:57:13]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/11/2023 18:58:14]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:14]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:14]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:14]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:15]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:16]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:17]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:17]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:18]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:19]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:20]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:20]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:21]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:22]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:23]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:24]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Devin Maxwell equipped Отвертка
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:25]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:26]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:26]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:26]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:26]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:26]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:27]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:27]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:27]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:27]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:28]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:28]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:29]
+  Devin Maxwell started repairing Суперконденсатор
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:29]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:29]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:29]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:29]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:30]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:30]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:30]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:30]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:30]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:33]
+  Devin Maxwell started repairing Кабельная коробка
+[03/11/2023 18:58:37]
+  Devin Maxwell unequipped Отвертка
+[03/11/2023 18:58:38]
+  igameCrog equipped Боеприпасы для цепной пушки
+[03/11/2023 18:58:41]
+  igameCrog dropped Боеприпасы для цепной пушки
+[03/11/2023 18:58:43]
+  igameCrog equipped Боеприпасы для цепной пушки
+[03/11/2023 18:58:45]
+  igameCrog dropped Боеприпасы для цепной пушки
+[03/11/2023 18:58:48]
+  igameCrog equipped Боеприпасы для цепной пушки
+[03/11/2023 18:58:48]
+  igameCrog picked up Боеприпасы для цепной пушки
+[03/11/2023 18:58:49]
+  igameCrog dropped Боеприпасы для цепной пушки
+[03/11/2023 18:58:54]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:54]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:54]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:54]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:54]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:54]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:54]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:54]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:54]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:56]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:56]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:56]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:56]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:56]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:56]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:56]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:56]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:57]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:58]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:58]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:58]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  Crawler has died (Cause of death: Рваная рана)
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:58:59]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:59:00]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:59:00]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:59:00]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:59:00]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:59:00]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:59:00]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:59:00]
+  igameCrog launched Цепная пушка (projectile: scatterpellet)
+[03/11/2023 18:59:00]
+  Crawler attacked by igameCrog. Рваная рана: 6.0 Кровотечение: 0.8
+[03/11/2023 18:59:00]
+  Crawler has died (Cause of death: Рваная рана)

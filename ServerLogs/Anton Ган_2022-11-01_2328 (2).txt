@@ -1,0 +1,1600 @@
+﻿[11/01/2022 23:05:03]
+  igameCrog picked up Этанол
+[11/01/2022 23:05:03]
+  igameCrog picked up Этанол
+[11/01/2022 23:05:12]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:05:56]
+  kynlan4ic equipped Сварочный аппарат
+[11/01/2022 23:06:00]
+  igameCrog disconnected a wire from Навигационный терминал (toggle_docking) to Компонент «И» (signal_in1)
+[11/01/2022 23:06:00]
+  igameCrog connected a wire from Навигационный терминал (velocity_in) to Компонент «И» (signal_in1)
+[11/01/2022 23:06:07]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:06:08]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:06:10]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:06:13]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:07:21]
+  kynlan4ic equipped Медконтейнер
+[11/01/2022 23:07:22]
+  kynlan4ic dropped Медконтейнер
+[11/01/2022 23:07:27]
+  kynlan4ic dropped Медконтейнер
+[11/01/2022 23:07:30]
+  kynlan4ic equipped Медконтейнер
+[11/01/2022 23:07:32]
+  kynlan4ic dropped Медконтейнер
+[11/01/2022 23:08:12]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 23:08:12]
+  Ending the round...
+[11/01/2022 23:08:12]
+  Round ended.
+[11/01/2022 23:08:14]
+  Starting a new round...
+[11/01/2022 23:08:18]
+  Миссия: Уничтожение роя
+[11/01/2022 23:08:18]
+  Небольшой рой монстров (Ползун) терроризирует суда, следующие по маршруту Жилой аванпост Alkonost - Eightercua Fossa. Команде, способной нейтрализовать его, полагается достойная награда в размере 2,500 кред.
+[11/01/2022 23:08:18]
+  Game mode: Кампания
+[11/01/2022 23:08:18]
+  Submarine: Barsuk
+[11/01/2022 23:08:18]
+  Level seed: AlkonostEightercua Fossa
+[11/01/2022 23:08:18]
+  Mission: Уничтожение роя
+[11/01/2022 23:08:18]
+  Round started.
+[11/01/2022 23:08:19]
+  Chance Hines equipped Гаечный ключ
+[11/01/2022 23:08:20]
+  Priscilla Jones equipped Гаечный ключ
+[11/01/2022 23:08:20]
+  Tyson Kidd equipped Гаечный ключ
+[11/01/2022 23:08:22]
+  Chance Hines started repairing Двигатель
+[11/01/2022 23:08:22]
+  Tyson Kidd unequipped Гаечный ключ
+[11/01/2022 23:08:23]
+  Priscilla Jones unequipped Гаечный ключ
+[11/01/2022 23:08:28]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 23:08:37]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 23:08:38]
+  Chance Hines unequipped Гаечный ключ
+[11/01/2022 23:08:41]
+  igameCrog equipped Ящик со взрывчаткой
+[11/01/2022 23:08:43]
+  igameCrog dropped Ящик со взрывчаткой
+[11/01/2022 23:08:46]
+  igameCrog equipped Медконтейнер
+[11/01/2022 23:08:48]
+  igameCrog dropped Медконтейнер
+[11/01/2022 23:08:55]
+  igameCrog equipped Ящик с химикатами
+[11/01/2022 23:08:57]
+  igameCrog dropped Ящик с химикатами
+[11/01/2022 23:09:13]
+  Roslyn Fesler: Поскорей бы вернуться домой и откупорить бутылочку «Старого Кадма».
+[11/01/2022 23:09:18]
+  Barney Clements: Сейчас не время горевать по дому. Впереди у нас еще долгий путь.
+[11/01/2022 23:10:24]
+  kynlan4ic equipped Металлический ящик
+[11/01/2022 23:10:31]
+  kynlan4ic picked up Водолазный скафандр
+[11/01/2022 23:10:37]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:10:41]
+  igameCrog placed Инопланетная кровь in Orangeboy
+[11/01/2022 23:10:41]
+  kynlan4ic dropped Металлический ящик
+[11/01/2022 23:10:44]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:10:45]
+  igameCrog picked up Инопланетная кровь
+[11/01/2022 23:10:46]
+  igameCrog placed Инопланетная кровь in Orangeboy
+[11/01/2022 23:10:50]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 92)
+[11/01/2022 23:10:52]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 23:11:19]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:11:20]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:11:20]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:11:22]
+  Tyson Kidd started repairing Монитор состояния
+[11/01/2022 23:11:23]
+  Priscilla Jones started repairing Монитор состояния
+[11/01/2022 23:11:23]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:11:23]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:11:24]
+  Sara Hebert: У меня новая цель! Не могу понять, что это такое...
+[11/01/2022 23:11:24]
+  Sara Hebert: Огонь!
+[11/01/2022 23:11:25]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 23:11:25]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:11:25]
+  Sara Hebert: Враг уничтожен!
+[11/01/2022 23:11:27]
+  Outer wall breached by Spineling
+[11/01/2022 23:11:28]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:11:31]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:11:31]
+  Chance Hines: Нижняя передняя часть: протечек не осталось!
+[11/01/2022 23:11:32]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:11:36]
+  Outer wall breached by Spineling
+[11/01/2022 23:11:36]
+  Inner wall breached by Spineling
+[11/01/2022 23:11:36]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:11:37]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:11:38]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:11:38]
+  Spineling has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 23:11:38]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:11:39]
+  Sara Hebert: И-и-и-и... Готово!
+[11/01/2022 23:11:39]
+  Tyson Kidd: Помогите, я истекаю кровью!
+[11/01/2022 23:11:43]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:12:05]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 23:12:09]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:12:10]
+  Tyson Kidd: Я теряю много крови!
+[11/01/2022 23:12:11]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:12:15]
+  igameCrog dropped Водолазный скафандр
+[11/01/2022 23:12:21]
+  igameCrog equipped Отвертка
+[11/01/2022 23:12:24]
+  igameCrog disconnected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:24]
+  igameCrog connected a wire from Настраиваемая дверь (toggle) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:26]
+  igameCrog disconnected a wire from Настраиваемая дверь (toggle) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:26]
+  igameCrog connected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:27]
+  igameCrog disconnected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:27]
+  igameCrog connected a wire from Настраиваемая дверь (state_out) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:39]
+  igameCrog disconnected a wire from Настраиваемая дверь (state_out) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:41]
+  igameCrog connected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:43]
+  igameCrog disconnected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:43]
+  igameCrog connected a wire from Настраиваемая дверь (toggle) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:44]
+  igameCrog disconnected a wire from Настраиваемая дверь (toggle) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:44]
+  igameCrog connected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:46]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:12:48]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:12:48]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:12:48]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:12:48]
+  Chance Hines started repairing Навигационный терминал
+[11/01/2022 23:12:49]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:12:49]
+  Tyson Kidd started repairing Навигационный терминал
+[11/01/2022 23:12:49]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:12:51]
+  Priscilla Jones started repairing Навигационный терминал
+[11/01/2022 23:12:51]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:12:55]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:12:55]
+  Priscilla Jones: Загружаю в реактор дополнительное топливо!
+[11/01/2022 23:12:55]
+  Priscilla Jones equipped Топливный стержень
+[11/01/2022 23:12:58]
+  igameCrog disconnected a wire from Настраиваемая дверь (set_state) to Компонент «Не» (signal_out)
+[11/01/2022 23:12:58]
+  igameCrog connected a wire from Настраиваемая дверь (toggle) to Компонент «Не» (signal_out)
+[11/01/2022 23:13:10]
+  Priscilla Jones equipped Топливный стержень
+[11/01/2022 23:14:58]
+  Stephane Palmieri: Стреляю!
+[11/01/2022 23:14:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:14:58]
+  Sara Hebert: Стреляю!
+[11/01/2022 23:14:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:14:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:14:59]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:14:59]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:14:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:14:59]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 23:14:59]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:14:59]
+  Sara Hebert: И-и-и-и... Готово!
+[11/01/2022 23:14:59]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:15:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:01]
+  Chance Hines started repairing Кабельная коробка
+[11/01/2022 23:15:01]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:15:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:02]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:15:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:03]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:15:03]
+  Barney Clements: Нижняя передняя часть: протечек не осталось!
+[11/01/2022 23:15:06]
+  Barney Clements: Мне нужно подводное снаряжение!
+[11/01/2022 23:15:06]
+  Barney Clements: Невозможно добраться до течи: Нижняя передняя часть!
+[11/01/2022 23:15:07]
+  Tyson Kidd started repairing Кабельная коробка
+[11/01/2022 23:15:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:08]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 23:15:08]
+  kynlan4ic dropped Кислородный баллон
+[11/01/2022 23:15:08]
+  kynlan4ic placed Кислородный баллон in Подводная маска (ID: 2148)
+[11/01/2022 23:15:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:09]
+  Crawler has died (Cause of death: Unknown)
+[11/01/2022 23:15:09]
+  Stephane Palmieri: Цель уничтожена!
+[11/01/2022 23:15:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:11]
+  Sara Hebert equipped Подводное ружье
+[11/01/2022 23:15:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:11]
+  Sara Hebert: Мне нужно подводное снаряжение!
+[11/01/2022 23:15:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:13]
+  Inner wall breached by Crawler
+[11/01/2022 23:15:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:14]
+  Inner wall breached by Crawler
+[11/01/2022 23:15:14]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/01/2022 23:15:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:15]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:15:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:16]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:16]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:15:16]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:16]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:16]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:17]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:17]
+  Inner wall breached by Crawler
+[11/01/2022 23:15:17]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:17]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:15:18]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:15:19]
+  Stephane Palmieri equipped Дробовик
+[11/01/2022 23:15:19]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/01/2022 23:15:19]
+  Tyson Kidd equipped Водолазный скафандр
+[11/01/2022 23:15:19]
+  Stephane Palmieri unequipped Дробовик
+[11/01/2022 23:15:19]
+  Stephane Palmieri equipped Дробовик
+[11/01/2022 23:15:19]
+  Stephane Palmieri: Невозможно добраться: Ползун!
+[11/01/2022 23:15:19]
+  Stephane Palmieri unequipped Дробовик
+[11/01/2022 23:15:19]
+  Stephane Palmieri equipped Дробовик
+[11/01/2022 23:15:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:20]
+  Stephane Palmieri unequipped Дробовик
+[11/01/2022 23:15:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:20]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:21]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:22]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:22]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:23]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:15:23]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:15:24]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:15:24]
+  Barney Clements equipped Гаечный ключ
+[11/01/2022 23:15:24]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 2141)
+[11/01/2022 23:15:24]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 2141)
+[11/01/2022 23:15:24]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:15:24]
+  Chance Hines equipped Гаечный ключ
+[11/01/2022 23:15:24]
+  Barney Clements unequipped Гаечный ключ
+[11/01/2022 23:15:24]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:15:25]
+  Chance Hines unequipped Гаечный ключ
+[11/01/2022 23:15:25]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:15:25]
+  Priscilla Jones equipped Гаечный ключ
+[11/01/2022 23:15:26]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:15:26]
+  Barney Clements equipped Гаечный ключ
+[11/01/2022 23:15:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:26]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:15:26]
+  Stephane Palmieri equipped Дробовик
+[11/01/2022 23:15:27]
+  Sara Hebert unequipped Подводное ружье
+[11/01/2022 23:15:27]
+  Sara Hebert equipped Нож ныряльщика
+[11/01/2022 23:15:27]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:15:27]
+  Barney Clements: У меня кровь!
+[11/01/2022 23:15:27]
+  Tyson Kidd equipped Гаечный ключ
+[11/01/2022 23:15:27]
+  Roslyn Marquez equipped Сварочный аппарат
+[11/01/2022 23:15:27]
+  Fanny Preston equipped Сварочный аппарат
+[11/01/2022 23:15:27]
+  Roslyn Fesler equipped Гаечный ключ
+[11/01/2022 23:15:27]
+  Jackie Petersen equipped Сварочный аппарат
+[11/01/2022 23:15:27]
+  Roslyn Fesler unequipped Гаечный ключ
+[11/01/2022 23:15:27]
+  Jackie Petersen unequipped Сварочный аппарат
+[11/01/2022 23:15:28]
+  Sara Hebert unequipped Нож ныряльщика
+[11/01/2022 23:15:28]
+  Sara Hebert equipped Подводное ружье
+[11/01/2022 23:15:28]
+  Tyson Kidd unequipped Гаечный ключ
+[11/01/2022 23:15:28]
+  Tyson Kidd equipped Сварочный аппарат
+[11/01/2022 23:15:28]
+  Roslyn Fesler equipped Гаечный ключ
+[11/01/2022 23:15:28]
+  Jackie Petersen equipped Сварочный аппарат
+[11/01/2022 23:15:28]
+  Roslyn Marquez unequipped Сварочный аппарат
+[11/01/2022 23:15:28]
+  Barney Clements unequipped Гаечный ключ
+[11/01/2022 23:15:28]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Jackie Petersen unequipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Fanny Preston unequipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 2141)
+[11/01/2022 23:15:29]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 2141)
+[11/01/2022 23:15:29]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 2141)
+[11/01/2022 23:15:29]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 2141)
+[11/01/2022 23:15:29]
+  Roslyn Marquez equipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Fanny Preston equipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Jackie Petersen equipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Roslyn Fesler unequipped Гаечный ключ
+[11/01/2022 23:15:29]
+  Stephane Palmieri unequipped Дробовик
+[11/01/2022 23:15:29]
+  Fanny Preston unequipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:15:29]
+  Barney Clements equipped Гаечный ключ
+[11/01/2022 23:15:29]
+  Stephane Palmieri equipped Дробовик
+[11/01/2022 23:15:29]
+  Roslyn Fesler equipped Гаечный ключ
+[11/01/2022 23:15:30]
+  Fanny Preston equipped Сварочный аппарат
+[11/01/2022 23:15:30]
+  Roslyn Fesler unequipped Гаечный ключ
+[11/01/2022 23:15:30]
+  Jackie Petersen unequipped Сварочный аппарат
+[11/01/2022 23:15:30]
+  Barney Clements unequipped Гаечный ключ
+[11/01/2022 23:15:30]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:15:30]
+  Roslyn Fesler equipped Гаечный ключ
+[11/01/2022 23:15:30]
+  Jackie Petersen equipped Сварочный аппарат
+[11/01/2022 23:15:31]
+  kynlan4ic equipped Револьвер
+[11/01/2022 23:15:32]
+  Stephane Palmieri unequipped Дробовик
+[11/01/2022 23:15:32]
+  Stephane Palmieri equipped Нож ныряльщика
+[11/01/2022 23:15:33]
+  Sara Hebert: Я теряю много крови!
+[11/01/2022 23:15:33]
+  Stephane Palmieri used Нож ныряльщика on Crawler.
+[11/01/2022 23:15:34]
+  Stephane Palmieri unequipped Нож ныряльщика
+[11/01/2022 23:15:34]
+  Stephane Palmieri equipped Дробовик
+[11/01/2022 23:15:35]
+  Roslyn Fesler attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 23:15:35]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:15:35]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:15:35]
+  Sara Hebert unequipped Подводное ружье
+[11/01/2022 23:15:35]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/01/2022 23:15:35]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:15:35]
+  Roslyn Marquez unequipped Сварочный аппарат
+[11/01/2022 23:15:35]
+  Stephane Palmieri unequipped Дробовик
+[11/01/2022 23:15:35]
+  Priscilla Jones unequipped Гаечный ключ
+[11/01/2022 23:15:35]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:15:35]
+  Fanny Preston unequipped Сварочный аппарат
+[11/01/2022 23:15:35]
+  Roslyn Fesler unequipped Гаечный ключ
+[11/01/2022 23:15:35]
+  Jackie Petersen unequipped Сварочный аппарат
+[11/01/2022 23:15:38]
+  Roslyn Fesler: У меня кровь!
+[11/01/2022 23:15:43]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:15:43]
+  Roslyn Marquez: Sara Hebert проходит лечение здесь: орудийный отсек!
+[11/01/2022 23:15:44]
+  Roslyn Marquez: Roslyn Fesler проходит лечение здесь: орудийный отсек!
+[11/01/2022 23:15:44]
+  Roslyn Marquez: Мне требуется опиум, морфин или жидкий тоник!
+[11/01/2022 23:15:45]
+  Roslyn Marquez: Roslyn Fesler нуждается в помощи! Срочно требуется опиум, морфин, жидкий тоник или бинт!
+[11/01/2022 23:15:45]
+  Roslyn Marquez equipped Жидкий тоник
+[11/01/2022 23:15:53]
+  Tyson Kidd equipped Сварочный аппарат
+[11/01/2022 23:15:54]
+  Roslyn Marquez equipped Бинт
+[11/01/2022 23:15:59]
+  Inner wall repaired by Chance Hines
+[11/01/2022 23:16:02]
+  Roslyn Marquez: Roslyn Fesler чувствует себя хорошо!
+[11/01/2022 23:16:02]
+  Inner wall repaired by Chance Hines
+[11/01/2022 23:16:02]
+  Chance Hines: Пункт управления: все протечки устранены!
+[11/01/2022 23:16:08]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/01/2022 23:16:17]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:16:17]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:16:17]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:16:17]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:16:18]
+  Tyson Kidd started repairing Монитор состояния
+[11/01/2022 23:16:21]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:16:21]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:16:21]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:16:21]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:16:21]
+  Priscilla Jones started repairing Монитор состояния
+[11/01/2022 23:16:23]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/01/2022 23:16:24]
+  igameCrog picked up Инопланетная кровь
+[11/01/2022 23:16:24]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:16:28]
+  igameCrog picked up Инопланетная кровь
+[11/01/2022 23:16:34]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 23:16:37]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:16:37]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:16:38]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:16:38]
+  Outer wall repaired by Chance Hines
+[11/01/2022 23:16:39]
+  Chance Hines: Нижняя передняя часть: протечек не осталось!
+[11/01/2022 23:16:39]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:16:46]
+  Chance Hines equipped Водолазный скафандр
+[11/01/2022 23:16:47]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:17:03]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:17:06]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[11/01/2022 23:17:08]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:17:08]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:17:09]
+  Stephane Palmieri: Стреляю!
+[11/01/2022 23:17:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:09]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:17:09]
+  Outer wall breached by Crawler
+[11/01/2022 23:17:09]
+  Chance Hines failed to repair Кабельная коробка
+[11/01/2022 23:17:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:11]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:17:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:11]
+  Outer wall breached by Crawler
+[11/01/2022 23:17:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:12]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:17:12]
+  Stephane Palmieri: Кажется, есть попадание!
+[11/01/2022 23:17:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:17:14]
+  Outer wall breached by Crawler
+[11/01/2022 23:17:14]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:17:14]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:17:15]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:17:15]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:17:15]
+  Barney Clements: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:17:16]
+  Sara Hebert: Новая цель: Ползун!
+[11/01/2022 23:17:16]
+  kynlan4ic equipped Сварочный аппарат
+[11/01/2022 23:17:17]
+  Sara Hebert: Стреляю!
+[11/01/2022 23:17:18]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:17:19]
+  Crawler has died (Cause of death: Unknown)
+[11/01/2022 23:17:19]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:17:19]
+  Sara Hebert: И-и-и-и... Готово!
+[11/01/2022 23:17:19]
+  Sara Hebert: У меня тут Импульсный лазер! Заряжаю боеприпасы!
+[11/01/2022 23:17:19]
+  Stephane Palmieri: Враг уничтожен!
+[11/01/2022 23:17:19]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 23:17:19]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 23:17:20]
+  Sara Hebert equipped Капсула для импульсного лазера
+[11/01/2022 23:17:20]
+  Outer wall breached by Crawler
+[11/01/2022 23:17:20]
+  Chance Hines: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:17:21]
+  Sara Hebert: Горючего для импульсного лазера осталось мало.
+[11/01/2022 23:17:21]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:17:22]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:17:22]
+  Barney Clements: Пункт управления: все протечки устранены!
+[11/01/2022 23:17:23]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:17:25]
+  Tyson Kidd equipped Ящик с боеприпасами для магнитной пушки
+[11/01/2022 23:17:25]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:17:26]
+  Barney Clements equipped Капсула для импульсного лазера
+[11/01/2022 23:17:26]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 23:17:26]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:17:26]
+  Информация о миссии: Цель уничтожена - Рой уничтожен. Выведите подлодку из пещеры, чтобы получить награду.
+[11/01/2022 23:17:26]
+  Sara Hebert: Цель уничтожена!
+[11/01/2022 23:17:55]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:17:55]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:17:55]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:17:56]
+  Chance Hines started repairing Кабельная коробка
+[11/01/2022 23:17:56]
+  igameCrog has gained the talent 'Чутье исследователя'
+[11/01/2022 23:17:56]
+  igameCrog has gained the talent 'Фельдшер'
+[11/01/2022 23:17:57]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:17:57]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:17:59]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:17:59]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:17:59]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[11/01/2022 23:18:03]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:18:04]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:18:04]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:18:05]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:18:08]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:18:20]
+  kynlan4ic equipped Трубка капитана
+[11/01/2022 23:18:27]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:18:28]
+  Priscilla Jones started repairing Ядерный реактор
+[11/01/2022 23:18:28]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:18:28]
+  Priscilla Jones equipped Гаечный ключ
+[11/01/2022 23:18:29]
+  Tyson Kidd equipped Гаечный ключ
+[11/01/2022 23:18:29]
+  Chance Hines equipped Гаечный ключ
+[11/01/2022 23:18:30]
+  Priscilla Jones started repairing Насос
+[11/01/2022 23:18:31]
+  Chance Hines started repairing Насос
+[11/01/2022 23:18:32]
+  Tyson Kidd unequipped Гаечный ключ
+[11/01/2022 23:18:34]
+  Chance Hines unequipped Гаечный ключ
+[11/01/2022 23:18:35]
+  Priscilla Jones unequipped Гаечный ключ
+[11/01/2022 23:19:02]
+  Stephane Palmieri: Огонь!
+[11/01/2022 23:19:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:04]
+  Sara Hebert: Огонь!
+[11/01/2022 23:19:04]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:05]
+  igameCrog used item Бинт
+[11/01/2022 23:19:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:06]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:19:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:07]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:07]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:08]
+  Chance Hines: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:19:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:08]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 23:19:08]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:08]
+  Sara Hebert: Кажется, есть попадание!
+[11/01/2022 23:19:08]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:19:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:10]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:19:10]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:19:11]
+  Stephane Palmieri: И-и-и-и... Готово!
+[11/01/2022 23:19:11]
+  Barney Clements: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:19:11]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:12]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:13]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:19:13]
+  Barney Clements: Пункт управления: все протечки устранены!
+[11/01/2022 23:19:13]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:15]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:19:15]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:15]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:16]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:17]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:19:17]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:19:17]
+  Sara Hebert: Враг уничтожен!
+[11/01/2022 23:19:18]
+  igameCrog used item Бинт
+[11/01/2022 23:19:19]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:19:21]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:19:23]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:24]
+  igameCrog used item Морфин
+[11/01/2022 23:19:26]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:19:27]
+  Outer wall repaired by Chance Hines
+[11/01/2022 23:19:27]
+  Chance Hines: Пункт управления: все протечки устранены!
+[11/01/2022 23:19:30]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:32]
+  Barney Clements: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:19:32]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:19:34]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:19:36]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:36]
+  Chance Hines: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:19:36]
+  igameCrog used item Бинт
+[11/01/2022 23:19:40]
+  Tyson Kidd equipped Топливный бак сварочного аппарата
+[11/01/2022 23:19:42]
+  Outer wall repaired by Chance Hines
+[11/01/2022 23:19:43]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:43]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:19:48]
+  igameCrog used item Бинт
+[11/01/2022 23:19:49]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:19:50]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:19:52]
+  Outer wall breached by Crawler
+[11/01/2022 23:19:52]
+  kynlan4ic has gained 238 experience (1871 -> 2109)
+[11/01/2022 23:19:52]
+  igameCrog has gained 238 experience (1871 -> 2109)
+[11/01/2022 23:19:52]
+  Ending the round...
+[11/01/2022 23:19:52]
+  Round ended.
+[11/01/2022 23:19:55]
+  Starting a new round...
+[11/01/2022 23:19:59]
+  Миссия: Активировать маяк
+[11/01/2022 23:19:59]
+  Бортовая навигационная система показывает, что здесь неподалеку должен быть старый, не работающий маяк. Если он снова заработает, другим судам будет гораздо проще проходить по этому маршруту, и здесь появятся новые колонии.
+[11/01/2022 23:19:59]
+  Game mode: Кампания
+[11/01/2022 23:19:59]
+  Submarine: Barsuk
+[11/01/2022 23:19:59]
+  Level seed: Eightercua FossaBaal's Vent
+[11/01/2022 23:19:59]
+  Mission: Активировать маяк
+[11/01/2022 23:19:59]
+  kynlan4ic equipped Трубка капитана
+[11/01/2022 23:19:59]
+  igameCrog equipped Отвертка
+[11/01/2022 23:19:59]
+  Round started.
+[11/01/2022 23:20:01]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:20:03]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:20:03]
+  Barney Clements: Пункт управления: все протечки устранены!
+[11/01/2022 23:20:06]
+  Chance Hines: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:20:07]
+  Barney Clements: Невозможно добраться до течи: Стыковочный порт!
+[11/01/2022 23:20:07]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 23:20:07]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:20:11]
+  Console command "money 7000" executed by kynlan4ic.
+[11/01/2022 23:20:17]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 23:20:31]
+  kynlan4ic has gained the talent 'Давным-давно на Европе'
+[11/01/2022 23:20:50]
+  Sara Hebert: Знаешь, мне на днях пришла отличная предпринимательская идея.
+[11/01/2022 23:20:55]
+  Sara Hebert: Вот послушай. Мы станем богачами.
+[11/01/2022 23:20:58]
+  Sara Hebert: Что если кто-то начнет делать кислородные баллоны большего размера?
+[11/01/2022 23:21:03]
+  Sara Hebert: Чтобы воздуха хватало на час или даже на два?
+[11/01/2022 23:21:07]
+  Sara Hebert: Я, конечно, не эксперт, но, думаю, технически это выполнимо.
+[11/01/2022 23:21:12]
+  Fanny Preston: Даже не знаю... Я думаю, тут все не так просто. Иначе бы их уже давно начали производить.
+[11/01/2022 23:21:21]
+  kynlan4ic equipped Револьвер
+[11/01/2022 23:21:38]
+  kynlan4ic equipped Сварочный аппарат
+[11/01/2022 23:21:39]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:21:58]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[11/01/2022 23:22:01]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[11/01/2022 23:22:02]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[11/01/2022 23:22:03]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[11/01/2022 23:22:05]
+  igameCrog used item Морфин
+[11/01/2022 23:22:24]
+  Outer wall breached by Crawler
+[11/01/2022 23:22:25]
+  Outer wall breached by Crawler
+[11/01/2022 23:22:26]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/01/2022 23:22:26]
+  Stephane Palmieri: Цель зафиксирована: Ползун!
+[11/01/2022 23:22:27]
+  Stephane Palmieri: Стреляю!
+[11/01/2022 23:22:27]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:28]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:22:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:30]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:22:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:30]
+  Barney Clements: Реакторный отсек: протечек не осталось!
+[11/01/2022 23:22:30]
+  Barney Clements: Мне нужно подводное снаряжение!
+[11/01/2022 23:22:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:33]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:22:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:33]
+  Outer wall repaired by Chance Hines
+[11/01/2022 23:22:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:34]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:22:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:35]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:22:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:43]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:44]
+  Jackie Petersen equipped Водолазный скафандр
+[11/01/2022 23:22:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:46]
+  Chance Hines equipped Водолазный скафандр
+[11/01/2022 23:22:53]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:22:53]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:22:54]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:22:54]
+  Tyson Kidd started repairing Кабельная коробка
+[11/01/2022 23:22:54]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:22:55]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:22:55]
+  Jackie Petersen equipped Водолазный скафандр
+[11/01/2022 23:22:58]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:22:59]
+  Stephane Palmieri: Стреляю!
+[11/01/2022 23:22:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:22:59]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:23:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:01]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:02]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:11]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:13]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:23:13]
+  Stephane Palmieri: Враг уничтожен!
+[11/01/2022 23:23:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:15]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 23:23:16]
+  Crawler has died (Cause of death: Рваная рана)
+[11/01/2022 23:23:16]
+  Stephane Palmieri: Цель уничтожена!
+[11/01/2022 23:23:16]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 75)
+[11/01/2022 23:23:19]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 75)
+[11/01/2022 23:23:24]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[11/01/2022 23:23:29]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 23:24:07]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:24:07]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:24:08]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:24:08]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 23:24:09]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 23:24:10]
+  Chance Hines failed to repair Кабельная коробка
+[11/01/2022 23:24:14]
+  kynlan4ic placed Кислородный баллон in Подводная маска (ID: 2097)
+[11/01/2022 23:24:14]
+  Tyson Kidd started repairing Кабельная коробка
+[11/01/2022 23:24:15]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:24:15]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:24:15]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:24:20]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:24:24]
+  kynlan4ic picked up Подводный скутер
+[11/01/2022 23:24:32]
+  kynlan4ic picked up Водолазный скафандр
+[11/01/2022 23:24:44]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:24:46]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:24:47]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:24:48]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:24:50]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:24:52]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:24:55]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:24:56]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:24:57]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:25:04]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:25:06]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:25:11]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:25:14]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:25:15]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:25:16]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:25:26]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:25:26]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:25:27]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:25:29]
+  Priscilla Jones started repairing Навигационный терминал
+[11/01/2022 23:25:31]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:25:31]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:25:32]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:25:36]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:25:37]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:25:39]
+  Chance Hines: Надо найти водолазный скафандр!
+[11/01/2022 23:25:39]
+  kynlan4ic equipped Кислородный баллон
+[11/01/2022 23:25:39]
+  Barney Clements: Мне нужно подводное снаряжение!
+[11/01/2022 23:25:40]
+  kynlan4ic equipped Подводный скутер
+[11/01/2022 23:25:43]
+  Tyson Kidd: Надо найти водолазный скафандр!
+[11/01/2022 23:25:46]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 23:25:46]
+  Outer wall repaired by Chance Hines
+[11/01/2022 23:25:49]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:25:49]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:25:49]
+  Barney Clements: Реакторный отсек: минус одна протечка!
+[11/01/2022 23:25:57]
+  kynlan4ic opened Настраиваемый люк
+[11/01/2022 23:25:57]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:25:59]
+  kynlan4ic closed Настраиваемый люк
+[11/01/2022 23:25:59]
+  kynlan4ic opened Настраиваемая дверь
+[11/01/2022 23:26:00]
+  Tyson Kidd equipped Водолазный скафандр
+[11/01/2022 23:26:00]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 75)
+[11/01/2022 23:26:02]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 23:26:05]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:26:09]
+  igameCrog picked up Водолазный скафандр
+[11/01/2022 23:26:12]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:26:13]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:26:17]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:26:17]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:26:21]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:26:21]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:26:21]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:26:21]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 23:26:21]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:26:22]
+  Barney Clements: Реакторный отсек: минус одна протечка!
+[11/01/2022 23:26:22]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:26:22]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:26:23]
+  Outer wall repaired by Barney Clements
+[11/01/2022 23:26:23]
+  Tyson Kidd started repairing Кабельная коробка
+[11/01/2022 23:26:24]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:26:24]
+  igameCrog picked up Инопланетная кровь
+[11/01/2022 23:26:25]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 23:26:28]
+  igameCrog picked up Инопланетная кровь
+[11/01/2022 23:26:29]
+  Tyson Kidd started repairing Кабельная коробка
+[11/01/2022 23:26:33]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:26:33]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:26:34]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[11/01/2022 23:26:35]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[11/01/2022 23:26:35]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[11/01/2022 23:26:35]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[11/01/2022 23:26:36]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:26:38]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:26:41]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:26:42]
+  kynlan4ic placed Топливный стержень in Ядерный реактор (ID: 1631)
+[11/01/2022 23:26:42]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:26:42]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:26:43]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:26:43]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 23:26:43]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[11/01/2022 23:26:45]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[11/01/2022 23:26:46]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 92)
+[11/01/2022 23:26:46]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:26:46]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 23:26:48]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 23:26:52]
+  kynlan4ic turned on Малый насос
+[11/01/2022 23:26:52]
+  kynlan4ic set the pumping speed of Малый насос to -10 %
+[11/01/2022 23:26:52]
+  kynlan4ic set the pumping speed of Малый насос to -20 %
+[11/01/2022 23:26:52]
+  kynlan4ic set the pumping speed of Малый насос to -60 %
+[11/01/2022 23:26:52]
+  kynlan4ic set the pumping speed of Малый насос to -80 %
+[11/01/2022 23:26:53]
+  kynlan4ic set the pumping speed of Малый насос to -100 %
+[11/01/2022 23:26:58]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:26:58]
+  Chance Hines started repairing Кабельная коробка
+[11/01/2022 23:27:00]
+  Информация о миссии:  - Маяк снова работает.
+[11/01/2022 23:27:03]
+  Chance Hines unequipped Отвертка
+[11/01/2022 23:27:10]
+  kynlan4ic: Barney Clements, займись поврежденными устройствами!
+[11/01/2022 23:27:11]
+  Barney Clements: Само собой!
+[11/01/2022 23:27:14]
+  kynlan4ic: Barney Clements, займись механическими приборами!
+[11/01/2022 23:27:15]
+  Barney Clements: Само собой!
+[11/01/2022 23:27:16]
+  kynlan4ic: Tyson Kidd, займись электроприборами!
+[11/01/2022 23:27:17]
+  Tyson Kidd: Принято.
+[11/01/2022 23:27:20]
+  kynlan4ic: Fanny Preston, займись протечками!
+[11/01/2022 23:27:21]
+  Fanny Preston: Принято.
+[11/01/2022 23:27:23]
+  kynlan4ic: Fanny Preston, займись ремонтом поврежденных систем!
+[11/01/2022 23:27:24]
+  Fanny Preston: Слушаюсь!
+[11/01/2022 23:27:26]
+  kynlan4ic: Roslyn Fesler, убери все, что валяется вокруг!
+[11/01/2022 23:27:27]
+  Roslyn Fesler: Так точно!
+[11/01/2022 23:27:35]
+  kynlan4ic: Sara Hebert, заряди орудия подлодки!
+[11/01/2022 23:27:36]
+  Sara Hebert: Вас понял!
+[11/01/2022 23:27:40]
+  kynlan4ic: Tyson Kidd, заряди эти батареи!
+[11/01/2022 23:27:40]
+  Barney Clements equipped Гаечный ключ
+[11/01/2022 23:27:40]
+  Barney Clements: Мне нужно подводное снаряжение!
+[11/01/2022 23:27:41]
+  Fanny Preston equipped Гаечный ключ
+[11/01/2022 23:27:41]
+  Fanny Preston: Надо найти водолазный скафандр!
+[11/01/2022 23:27:41]
+  Tyson Kidd: Само собой!
+[11/01/2022 23:27:41]
+  Priscilla Jones equipped Гаечный ключ
+[11/01/2022 23:27:41]
+  Chance Hines equipped Гаечный ключ
+[11/01/2022 23:27:41]
+  Priscilla Jones: Надо найти водолазный скафандр!
+[11/01/2022 23:27:41]
+  Chance Hines: Мне нужно подводное снаряжение!
+[11/01/2022 23:27:43]
+  Roslyn Fesler equipped ЭМ-граната
+[11/01/2022 23:27:44]
+  Tyson Kidd equipped Гаечный ключ
+[11/01/2022 23:27:45]
+  Tyson Kidd: Надо найти водолазный скафандр!
+[11/01/2022 23:27:46]
+  Priscilla Jones opened Настраиваемая дверь
+[11/01/2022 23:27:47]
+  Chance Hines: Невозможно добраться: Малый насос!
+[11/01/2022 23:27:47]
+  Fanny Preston: Невозможно добраться: Малый насос!
+[11/01/2022 23:27:47]
+  Fanny Preston unequipped Гаечный ключ
+[11/01/2022 23:27:47]
+  Priscilla Jones started repairing Малый насос
+[11/01/2022 23:27:48]
+  Barney Clements started repairing Малый насос
+[11/01/2022 23:27:48]
+  Chance Hines unequipped Гаечный ключ
+[11/01/2022 23:27:49]
+  Tyson Kidd unequipped Гаечный ключ
+[11/01/2022 23:27:49]
+  Roslyn Fesler equipped Осколочная граната
+[11/01/2022 23:27:51]
+  Barney Clements unequipped Гаечный ключ
+[11/01/2022 23:27:52]
+  Priscilla Jones unequipped Гаечный ключ
+[11/01/2022 23:27:53]
+  Roslyn Marquez equipped Водолазный скафандр
+[11/01/2022 23:27:59]
+  kynlan4ic picked up Инопланетная кровь
+[11/01/2022 23:28:03]
+  Roslyn Marquez equipped Водолазный скафандр
+[11/01/2022 23:28:04]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 23:28:05]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[11/01/2022 23:28:08]
+  kynlan4ic picked up Оранжевый провод
+[11/01/2022 23:28:16]
+  Barney Clements equipped Водолазный скафандр
+[11/01/2022 23:28:18]
+  kynlan4ic opened Настраиваемый люк
+[11/01/2022 23:28:18]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:28:35]
+  kynlan4ic closed Настраиваемая дверь
+[11/01/2022 23:28:36]
+  Priscilla Jones: Загружаю в реактор дополнительное топливо!
+[11/01/2022 23:28:37]
+  Priscilla Jones equipped Топливный стержень
+[11/01/2022 23:28:39]
+  Barney Clements equipped Топливный стержень
+[11/01/2022 23:28:42]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 23:28:44]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 23:28:46]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 23:28:47]
+  Barney Clements equipped Отвертка
+[11/01/2022 23:28:47]
+  Fanny Preston equipped Отвертка
+[11/01/2022 23:28:47]
+  Chance Hines equipped Отвертка
+[11/01/2022 23:28:49]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 23:28:49]
+  Tyson Kidd started repairing Монитор состояния

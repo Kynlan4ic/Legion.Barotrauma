@@ -1,0 +1,106 @@
+﻿[11/01/2022 21:56:17]
+  igameCrog connected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/01/2022 21:56:27]
+  igameCrog disconnected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:27]
+  igameCrog connected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:29]
+  igameCrog disconnected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:29]
+  igameCrog connected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[11/01/2022 21:56:48]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 21:56:52]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 21:56:56]
+  Chance Hines equipped Отвертка
+[11/01/2022 21:56:57]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 21:56:57]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 21:56:57]
+  kynlan4ic docked Barsuk to Жилой аванпост Tyre
+[11/01/2022 21:56:57]
+  Ending the round...
+[11/01/2022 21:56:57]
+  Round ended.
+[11/01/2022 21:57:00]
+  Starting a new round...
+[11/01/2022 21:57:03]
+  Game mode: Кампания
+[11/01/2022 21:57:03]
+  Submarine: Barsuk
+[11/01/2022 21:57:03]
+  Level seed: Tyre
+[11/01/2022 21:57:03]
+  Alvaro Hernandez equipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Alvaro Hernandez unequipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Alvaro Hernandez equipped Отвертка
+[11/01/2022 21:57:03]
+  Kerry Duplantier equipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Kerry Duplantier unequipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Kerry Duplantier equipped Отвертка
+[11/01/2022 21:57:03]
+  Rob Larsen equipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Rob Larsen unequipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Rob Larsen equipped Отвертка
+[11/01/2022 21:57:03]
+  Shelly Sexton equipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Shelly Sexton unequipped Гаечный ключ
+[11/01/2022 21:57:03]
+  Shelly Sexton equipped Отвертка
+[11/01/2022 21:57:03]
+  Shelly Sexton unequipped Отвертка
+[11/01/2022 21:57:03]
+  Shelly Sexton equipped Лом
+[11/01/2022 21:57:03]
+  The Cork equipped Гаечный ключ
+[11/01/2022 21:57:03]
+  The Cork unequipped Гаечный ключ
+[11/01/2022 21:57:03]
+  The Cork equipped Отвертка
+[11/01/2022 21:57:03]
+  Dominick Roman equipped Гаечный ключ
+[11/01/2022 21:57:04]
+  igameCrog equipped Отвертка
+[11/01/2022 21:57:04]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 21:57:04]
+  Chance Hines equipped Отвертка
+[11/01/2022 21:57:04]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 21:57:04]
+  Round started.
+[11/01/2022 21:57:04]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 21:57:05]
+  Chance Hines unequipped Отвертка
+[11/01/2022 21:57:05]
+  Dominick Roman unequipped Гаечный ключ
+[11/01/2022 21:57:05]
+  Shelly Sexton unequipped Лом
+[11/01/2022 21:57:05]
+  Alvaro Hernandez unequipped Отвертка
+[11/01/2022 21:57:05]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 21:57:12]
+  Alvaro Hernandez: Надеюсь, вы не планируете задерживаться здесь надолго. У нас и без того проблем хватает.
+[11/01/2022 21:57:13]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 21:57:22]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 21:57:59]
+  igameCrog disconnected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/01/2022 21:57:59]
+  igameCrog connected a wire from Настраиваемый люк (set_state) to Компонент «И» (signal_out)
+[11/01/2022 21:58:00]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 21:58:00]
+  Ending the round...

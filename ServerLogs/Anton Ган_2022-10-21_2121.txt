@@ -1,0 +1,1600 @@
+﻿[10/21/2022 21:07:04]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:07]
+  Darwin Bradley unequipped Отвертка
+[10/21/2022 21:07:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:07:11]
+  Hammerhead attacked by igameCrog. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/21/2022 21:07:33]
+  iliya_kind equipped Подводный скутер
+[10/21/2022 21:07:43]
+  iliya_kind opened Настраиваемая дверь с окном
+[10/21/2022 21:07:49]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 21:07:50]
+  kynlan4ic placed Кислородный баллон in Гидрокостюм (ID: 3660)
+[10/21/2022 21:07:57]
+  igameCrog removed Кислородный баллон from Водолазный скафандр (ID: 3341)
+[10/21/2022 21:07:59]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3341)
+[10/21/2022 21:08:09]
+  igameCrog equipped Сварочный аппарат
+[10/21/2022 21:08:10]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 165)
+[10/21/2022 21:08:23]
+  Alexia Mulford: Яви нам свою силу!
+[10/21/2022 21:08:24]
+  iliya_kind equipped Фонарик
+[10/21/2022 21:08:24]
+  iliya_kind picked up Фонарик
+[10/21/2022 21:08:38]
+  iliya_kind picked up Гидрокостюм
+[10/21/2022 21:08:38]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/21/2022 21:08:41]
+  igameCrog adjusted reactor settings: Temperature: 2711, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 21:08:42]
+  igameCrog adjusted reactor settings: Temperature: 1728, Fission rate: 21, Turbine output: 0, Autotemp ON
+[10/21/2022 21:08:43]
+  Edgar Dorado equipped Кислородный баллон
+[10/21/2022 21:08:43]
+  iliya_kind placed Гидрокостюм in Шкаф для подводного снаряжения (ID: 407)
+[10/21/2022 21:08:45]
+  igameCrog adjusted reactor settings: Temperature: 4178, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 21:08:47]
+  Alexia Mulford equipped Боевой водолазный скафандр
+[10/21/2022 21:08:51]
+  iliya_kind equipped Шоковая дубинка
+[10/21/2022 21:09:00]
+  iliya_kind placed Нож ныряльщика in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:00]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:00]
+  iliya_kind picked up Револьвер
+[10/21/2022 21:09:02]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:02]
+  iliya_kind removed Дробовик from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:02]
+  iliya_kind picked up Дробовик
+[10/21/2022 21:09:03]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:03]
+  iliya_kind removed Пистолет-пулемет from Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:03]
+  iliya_kind picked up Пистолет-пулемет
+[10/21/2022 21:09:08]
+  iliya_kind equipped Гранатомет
+[10/21/2022 21:09:08]
+  iliya_kind picked up Гранатомет
+[10/21/2022 21:09:13]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/21/2022 21:09:13]
+  iliya_kind placed Дементонитовый лом in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:14]
+  kynlan4ic dropped Гидрокостюм
+[10/21/2022 21:09:19]
+  iliya_kind picked up Дементонитовый лом
+[10/21/2022 21:09:30]
+  iliya_kind placed Гранатомет in Защищенный стальной шкаф (ID: 304)
+[10/21/2022 21:09:36]
+  iliya_kind placed Плазменный резак in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 21:09:38]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 21:09:39]
+  igameCrog adjusted reactor settings: Temperature: 4878, Fission rate: 61, Turbine output: 50, Autotemp OFF
+[10/21/2022 21:09:39]
+  iliya_kind picked up Абордажный топор
+[10/21/2022 21:09:40]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:09:41]
+  iliya_kind equipped Абордажный топор
+[10/21/2022 21:09:53]
+  iliya_kind picked up Магазин для ПП
+[10/21/2022 21:09:54]
+  igameCrog adjusted reactor settings: Temperature: 4690, Fission rate: 59, Turbine output: 50, Autotemp OFF
+[10/21/2022 21:09:55]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 21:09:55]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 21:09:55]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 21:09:55]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 21:09:55]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 21:09:55]
+  iliya_kind picked up Резиновый патрон для дробовика
+[10/21/2022 21:09:55]
+  igameCrog adjusted reactor settings: Temperature: 4492, Fission rate: 59, Turbine output: 50, Autotemp OFF
+[10/21/2022 21:09:56]
+  igameCrog adjusted reactor settings: Temperature: 4175, Fission rate: 59, Turbine output: 57, Autotemp OFF
+[10/21/2022 21:09:56]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 21:09:56]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 21:09:56]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 21:09:56]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 21:09:56]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 21:09:56]
+  iliya_kind picked up Патрон револьвера
+[10/21/2022 21:09:57]
+  igameCrog adjusted reactor settings: Temperature: 3202, Fission rate: 59, Turbine output: 91, Autotemp OFF
+[10/21/2022 21:09:59]
+  iliya_kind placed Дементонитовый лом in Средний стальной шкаф с окном (ID: 331)
+[10/21/2022 21:09:59]
+  igameCrog adjusted reactor settings: Temperature: 1152, Fission rate: 59, Turbine output: 100, Autotemp OFF
+[10/21/2022 21:10:00]
+  iliya_kind picked up Гарпун
+[10/21/2022 21:10:00]
+  iliya_kind picked up Гарпун
+[10/21/2022 21:10:00]
+  iliya_kind picked up Гарпун
+[10/21/2022 21:10:00]
+  iliya_kind picked up Гарпун
+[10/21/2022 21:10:00]
+  iliya_kind picked up Гарпун
+[10/21/2022 21:10:00]
+  iliya_kind picked up Гарпун
+[10/21/2022 21:10:23]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 59, Turbine output: 96, Autotemp OFF
+[10/21/2022 21:10:24]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 59, Turbine output: 92, Autotemp ON
+[10/21/2022 21:10:27]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 21:10:29]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[10/21/2022 21:10:40]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:10:41]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:10:43]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 21:10:44]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/21/2022 21:10:46]
+  kynlan4ic: Keven Tate, займись ремонтом поврежденных систем!
+[10/21/2022 21:10:47]
+  Keven Tate: Есть!
+[10/21/2022 21:10:48]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:10:48]
+  Keven Tate: Мне нужно подводное снаряжение!
+[10/21/2022 21:10:49]
+  kynlan4ic: Lindy Blackwell, начинай устранять протечки!
+[10/21/2022 21:10:50]
+  Lindy Blackwell: Слушаюсь!
+[10/21/2022 21:10:51]
+  kynlan4ic: Todd Schmitt, займись поврежденными устройствами!
+[10/21/2022 21:10:52]
+  Todd Schmitt: Принято.
+[10/21/2022 21:10:53]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:10:53]
+  kynlan4ic: Janee Hefner, займись поврежденными устройствами!
+[10/21/2022 21:10:53]
+  Todd Schmitt: Надо найти водолазный скафандр!
+[10/21/2022 21:10:54]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:10:54]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:10:54]
+  Janee Hefner: Есть!
+[10/21/2022 21:10:54]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:10:54]
+  Janee Hefner: Мне нужно подводное снаряжение!
+[10/21/2022 21:10:57]
+  Todd Schmitt: Невозможно добраться: Кабельная коробка!
+[10/21/2022 21:10:57]
+  Janee Hefner: Мне нужен кислород!
+[10/21/2022 21:10:58]
+  Alexia Mulford equipped Гидрокостюм
+[10/21/2022 21:10:58]
+  Janee Hefner unequipped Кислородный баллон
+[10/21/2022 21:10:59]
+  Keven Tate started repairing Настраиваемый люк
+[10/21/2022 21:11:06]
+  Janee Hefner started repairing Малый насос
+[10/21/2022 21:11:08]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:11:09]
+  igameCrog adjusted reactor settings: Temperature: 2768, Fission rate: 52, Turbine output: 56, Autotemp OFF
+[10/21/2022 21:11:10]
+  igameCrog adjusted reactor settings: Temperature: 2739, Fission rate: 52, Turbine output: 70, Autotemp OFF
+[10/21/2022 21:11:11]
+  igameCrog adjusted reactor settings: Temperature: 1755, Fission rate: 52, Turbine output: 100, Autotemp OFF
+[10/21/2022 21:11:12]
+  igameCrog adjusted reactor settings: Temperature: 755, Fission rate: 57, Turbine output: 100, Autotemp OFF
+[10/21/2022 21:11:13]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:11:13]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:11:13]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:11:13]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:11:14]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 72, Turbine output: 100, Autotemp OFF
+[10/21/2022 21:11:14]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:11:14]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:11:15]
+  igameCrog adjusted reactor settings: Temperature: 633, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/21/2022 21:11:15]
+  iliya_kind equipped Револьвер
+[10/21/2022 21:11:17]
+  Todd Schmitt: Невозможно добраться: Малый насос!
+[10/21/2022 21:11:17]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:11:17]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:11:18]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:11:18]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:11:18]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:11:18]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:11:19]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:11:19]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:11:19]
+  Keven Tate started repairing Кабельная коробка
+[10/21/2022 21:11:20]
+  iliya_kind equipped Дробовик
+[10/21/2022 21:11:20]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:11:20]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:11:20]
+  iliya_kind equipped Пистолет-пулемет
+[10/21/2022 21:11:21]
+  Darrin Mansfield equipped Водолазный скафандр
+[10/21/2022 21:11:21]
+  Todd Schmitt started repairing Малый насос
+[10/21/2022 21:11:24]
+  Messiah Gould attacked by iliya_kind. Рваная рана: 18 Кровотечение: 7.5 Оглушение: 0.5
+[10/21/2022 21:11:24]
+  iliya_kind used Абордажный топор on Messiah Gould.
+[10/21/2022 21:11:25]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:11:25]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:11:25]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:11:25]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:11:25]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:11:28]
+  kynlan4ic equipped Револьвер
+[10/21/2022 21:11:29]
+  Keven Tate failed to repair Батарея
+[10/21/2022 21:11:32]
+  iliya_kind placed Фонарик in Human
+[10/21/2022 21:11:32]
+  iliya_kind removed Информационный экран сканера здоровья from Human
+[10/21/2022 21:11:32]
+  iliya_kind picked up Информационный экран сканера здоровья
+[10/21/2022 21:11:32]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:11:32]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:11:33]
+  Keven Tate started repairing Батарея
+[10/21/2022 21:11:33]
+  Messiah Gould attacked by iliya_kind. Рваная рана: 18 Кровотечение: 7.5 Оглушение: 0.5
+[10/21/2022 21:11:33]
+  iliya_kind used Абордажный топор on Messiah Gould.
+[10/21/2022 21:11:35]
+  Janee Hefner failed to repair Батарея
+[10/21/2022 21:11:37]
+  kynlan4ic picked up Плазменный резак
+[10/21/2022 21:11:39]
+  Todd Schmitt: Невозможно добраться: Малый насос!
+[10/21/2022 21:11:39]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:11:41]
+  Tera Maynard attacked by iliya_kind. Рваная рана: 16.199999 Кровотечение: 7.5 Оглушение: 0.5
+[10/21/2022 21:11:41]
+  iliya_kind used Абордажный топор on Tera Maynard.
+[10/21/2022 21:11:41]
+  Tera Maynard: Эй! Ты что ж такое делаешь, а?
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:41]
+  igameCrog placed Морфин in Форма медика (ID: 3524)
+[10/21/2022 21:11:42]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:11:42]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:11:42]
+  Keven Tate started repairing Малый насос
+[10/21/2022 21:11:42]
+  Tera Maynard attacked by iliya_kind. Рваная рана: 16.199999 Кровотечение: 7.5 Оглушение: 0.5
+[10/21/2022 21:11:42]
+  iliya_kind used Абордажный топор on Tera Maynard.
+[10/21/2022 21:11:43]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:11:43]
+  kynlan4ic equipped Плазменный резак
+[10/21/2022 21:11:44]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:11:44]
+  igameCrog placed Каликсанид in Форма медика (ID: 3524)
+[10/21/2022 21:11:46]
+  Dorthy Escobar equipped Шоковая дубинка
+[10/21/2022 21:11:46]
+  igameCrog picked up Топливный стержень
+[10/21/2022 21:11:46]
+  Tera Maynard: У меня кровь!
+[10/21/2022 21:11:48]
+  Dorthy Escobar used Шоковая дубинка (Аккумулятор) on iliya_kind.
+[10/21/2022 21:11:50]
+  Dorthy Escobar used Шоковая дубинка (Аккумулятор) on iliya_kind.
+[10/21/2022 21:11:53]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:11:53]
+  Dorthy Escobar used Шоковая дубинка (Аккумулятор) on iliya_kind.
+[10/21/2022 21:11:55]
+  Dorthy Escobar used Шоковая дубинка (Аккумулятор) on iliya_kind.
+[10/21/2022 21:11:56]
+  Dorthy Escobar unequipped Шоковая дубинка
+[10/21/2022 21:11:56]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:11:56]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:11:56]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:11:56]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:11:56]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:11:56]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:11:56]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:11:56]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 21:11:56]
+  kynlan4ic dropped Кислородный баллон
+[10/21/2022 21:11:56]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 3300)
+[10/21/2022 21:11:57]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:11:57]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:11:58]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:11:59]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:11:59]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:11:59]
+  Janee Hefner: Невозможно добраться: Дверь с кнопками!
+[10/21/2022 21:11:59]
+  Todd Schmitt started repairing Дверь с кнопками
+[10/21/2022 21:11:59]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:11:59]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:11:59]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:12:00]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:12:00]
+  Edgar Dorado: Надо найти водолазный скафандр!
+[10/21/2022 21:12:00]
+  Darrin Mansfield: Надо найти водолазный скафандр!
+[10/21/2022 21:12:01]
+  Keven Tate started repairing Дверь с кнопками
+[10/21/2022 21:12:01]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:12:01]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:12:01]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:12:02]
+  Lindy Blackwell: Надо найти водолазный скафандр!
+[10/21/2022 21:12:02]
+  Tera Maynard: Мне нужно подводное снаряжение!
+[10/21/2022 21:12:02]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:12:06]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:12:06]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:12:07]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 21:12:07]
+  kynlan4ic dropped Кислородный баллон
+[10/21/2022 21:12:07]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 3300)
+[10/21/2022 21:12:08]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:12:08]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:12:08]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:12:09]
+  Janee Hefner started repairing Малый насос
+[10/21/2022 21:12:09]
+  Todd Schmitt started repairing Генератор кислорода
+[10/21/2022 21:12:10]
+  Keven Tate started repairing Малый насос
+[10/21/2022 21:12:10]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:12:10]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:12:11]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:12:12]
+  Darrin Mansfield: Медицинский отсек: минус одна протечка!
+[10/21/2022 21:12:12]
+  Darwin Bradley equipped Водолазный скафандр бездны
+[10/21/2022 21:12:13]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:12:13]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:12:13]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:12:13]
+  Edgar Dorado: Арсенал: минус одна протечка!
+[10/21/2022 21:12:13]
+  Todd Schmitt: Надо найти водолазный скафандр!
+[10/21/2022 21:12:14]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/21/2022 21:12:14]
+  Todd Schmitt: Невозможно добраться: Кабельная коробка!
+[10/21/2022 21:12:14]
+  Keven Tate: Мне нужно подводное снаряжение!
+[10/21/2022 21:12:14]
+  Janee Hefner: Мне нужно подводное снаряжение!
+[10/21/2022 21:12:15]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 21:12:17]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:12:17]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:12:17]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 21:12:17]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:12:17]
+  Outer wall repaired by Lindy Blackwell
+[10/21/2022 21:12:17]
+  Edgar Dorado: Арсенал: протечек не осталось!
+[10/21/2022 21:12:17]
+  Tera Maynard: Арсенал: протечек не осталось!
+[10/21/2022 21:12:18]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:12:18]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:12:18]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:12:18]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:12:19]
+  Janee Hefner started repairing Батарея
+[10/21/2022 21:12:19]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:12:19]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:12:19]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/21/2022 21:12:19]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:12:20]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:12:21]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:12:21]
+  Tera Maynard: Я теряю много крови!
+[10/21/2022 21:12:22]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:12:22]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:12:22]
+  Keven Tate started repairing Насос
+[10/21/2022 21:12:23]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:12:23]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:12:24]
+  igameCrog adjusted reactor settings: Temperature: 2799, Fission rate: 98, Turbine output: 100, Autotemp OFF
+[10/21/2022 21:12:24]
+  Janee Hefner failed to repair Малый насос
+[10/21/2022 21:12:25]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:12:26]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 161)
+[10/21/2022 21:12:27]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:12:27]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:12:27]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:12:28]
+  Edgar Dorado equipped Водолазный скафандр
+[10/21/2022 21:12:28]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:12:28]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:12:28]
+  Todd Schmitt started repairing Малый насос
+[10/21/2022 21:12:29]
+  Janee Hefner failed to repair Кабельная коробка
+[10/21/2022 21:12:30]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:12:30]
+  iliya_kind picked up Боевой водолазный скафандр
+[10/21/2022 21:12:31]
+  Darwin Bradley equipped Водолазный скафандр
+[10/21/2022 21:12:32]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:12:32]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:12:32]
+  Darrin Mansfield equipped Боевой водолазный скафандр
+[10/21/2022 21:12:33]
+  Keven Tate started repairing Кабельная коробка
+[10/21/2022 21:12:34]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:12:34]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:12:35]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/21/2022 21:12:35]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:12:36]
+  Keven Tate started repairing Кабельная коробка
+[10/21/2022 21:12:36]
+  Darwin Bradley equipped Боевой водолазный скафандр
+[10/21/2022 21:12:41]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:12:42]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:12:42]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:12:42]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:12:42]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:12:42]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:12:45]
+  Keven Tate started repairing Малый насос
+[10/21/2022 21:12:45]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:12:45]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:12:46]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:12:47]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:12:47]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/21/2022 21:12:48]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:12:48]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:12:48]
+  igameCrog adjusted reactor settings: Temperature: 16, Fission rate: 1, Turbine output: 0, Autotemp ON
+[10/21/2022 21:12:50]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:13:06]
+  iliya_kind unequipped Дробовик
+[10/21/2022 21:13:06]
+  iliya_kind equipped Ящик пробивных снарядов
+[10/21/2022 21:13:07]
+  Darrin Mansfield: Мне нужно подводное снаряжение!
+[10/21/2022 21:13:07]
+  Edgar Dorado: Надо найти водолазный скафандр!
+[10/21/2022 21:13:07]
+  Lindy Blackwell: Надо найти водолазный скафандр!
+[10/21/2022 21:13:07]
+  Tera Maynard: Надо найти водолазный скафандр!
+[10/21/2022 21:13:07]
+  Darrin Mansfield: Невозможно добраться до течи: Моторный отсек!
+[10/21/2022 21:13:08]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:13:11]
+  Keven Tate: Мне нужно подводное снаряжение!
+[10/21/2022 21:13:11]
+  Keven Tate: Невозможно добраться до течи: Моторный отсек!
+[10/21/2022 21:13:12]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:13:12]
+  iliya_kind dropped Ящик пробивных снарядов
+[10/21/2022 21:13:14]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:13:14]
+  kynlan4ic: Todd Schmitt, начинай устранять протечки!
+[10/21/2022 21:13:15]
+  Todd Schmitt: Вас понял!
+[10/21/2022 21:13:16]
+  Todd Schmitt: Мне нужно подводное снаряжение!
+[10/21/2022 21:13:16]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:13:16]
+  Dorthy Escobar: У меня новая цель! Не могу понять, что это такое...
+[10/21/2022 21:13:17]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:13:17]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:13:18]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:13:19]
+  Outer wall breached by iliya_kind
+[10/21/2022 21:13:19]
+  Messiah Gould attacked by iliya_kind. Рваная рана: 18 Кровотечение: 7.5 Оглушение: 0.5
+[10/21/2022 21:13:19]
+  iliya_kind used Абордажный топор on Messiah Gould.
+[10/21/2022 21:13:19]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:13:20]
+  Janee Hefner equipped Водолазный скафандр
+[10/21/2022 21:13:20]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:13:20]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:13:20]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:13:20]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:13:20]
+  Inner wall breached by Crawlerhusk
+[10/21/2022 21:13:20]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:13:20]
+  Outer wall repaired by Tera Maynard
+[10/21/2022 21:13:21]
+  Tera Maynard: Моторный отсек: все протечки устранены!
+[10/21/2022 21:13:21]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:13:21]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:13:22]
+  Dorthy Escobar: Стреляю!
+[10/21/2022 21:13:22]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:22]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:22]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:23]
+  iliya_kind equipped Дробовик
+[10/21/2022 21:13:25]
+  Outer wall repaired by Keven Tate
+[10/21/2022 21:13:25]
+  Keven Tate: Арсенал: протечек не осталось!
+[10/21/2022 21:13:26]
+  Outer wall repaired by Darrin Mansfield
+[10/21/2022 21:13:26]
+  Darrin Mansfield: Камера балласта B: протечек не осталось!
+[10/21/2022 21:13:26]
+  Inner wall breached by Crawlerhusk
+[10/21/2022 21:13:27]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:13:27]
+  kynlan4ic: Dorthy Escobar, займись оружием!
+[10/21/2022 21:13:28]
+  Dorthy Escobar: Вас понял!
+[10/21/2022 21:13:30]
+  Darwin Bradley equipped Гидрокостюм
+[10/21/2022 21:13:30]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:13:30]
+  Edgar Dorado: Арсенал: протечек не осталось!
+[10/21/2022 21:13:30]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:13:33]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:13:34]
+  Darwin Bradley equipped Гидрокостюм
+[10/21/2022 21:13:36]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:13:36]
+  Darrin Mansfield: Пункт управления: протечек не осталось!
+[10/21/2022 21:13:43]
+  Janee Hefner equipped Сварочный аппарат
+[10/21/2022 21:13:43]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:13:43]
+  Tera Maynard equipped Гаечный ключ
+[10/21/2022 21:13:43]
+  Darwin Bradley equipped Гаечный ключ
+[10/21/2022 21:13:43]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:13:43]
+  igameCrog dropped Кислородный баллон
+[10/21/2022 21:13:43]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3341)
+[10/21/2022 21:13:44]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:13:44]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:13:44]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:13:44]
+  Edgar Dorado equipped Гаечный ключ
+[10/21/2022 21:13:44]
+  Keven Tate: У меня кровь!
+[10/21/2022 21:13:44]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:13:44]
+  Darrin Mansfield equipped Гаечный ключ
+[10/21/2022 21:13:44]
+  Tera Maynard used Гаечный ключ on Darrin Mansfield.
+[10/21/2022 21:13:45]
+  Edgar Dorado used Гаечный ключ on Todd Schmitt.
+[10/21/2022 21:13:45]
+  Tera Maynard used Гаечный ключ on Darrin Mansfield.
+[10/21/2022 21:13:45]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:46]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:13:46]
+  Lindy Blackwell equipped Гаечный ключ
+[10/21/2022 21:13:46]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:46]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:46]
+  Dorthy Escobar launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:46]
+  Dorthy Escobar equipped Нож ныряльщика
+[10/21/2022 21:13:46]
+  Alexia Mulford equipped Сварочный аппарат
+[10/21/2022 21:13:47]
+  Todd Schmitt used Гаечный ключ on Tera Maynard.
+[10/21/2022 21:13:47]
+  Tera Maynard used Гаечный ключ on Darrin Mansfield.
+[10/21/2022 21:13:47]
+  Dorthy Escobar: Мне нужно подводное снаряжение!
+[10/21/2022 21:13:47]
+  Edgar Dorado unequipped Гаечный ключ
+[10/21/2022 21:13:47]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:13:47]
+  Lindy Blackwell unequipped Гаечный ключ
+[10/21/2022 21:13:47]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:13:47]
+  Darrin Mansfield used Гаечный ключ on Todd Schmitt.
+[10/21/2022 21:13:47]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:13:47]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:13:47]
+  Alexia Mulford unequipped Сварочный аппарат
+[10/21/2022 21:13:47]
+  Alexia Mulford equipped Гаечный ключ
+[10/21/2022 21:13:48]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:13:48]
+  Edgar Dorado equipped Гаечный ключ
+[10/21/2022 21:13:48]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:13:48]
+  Lindy Blackwell equipped Гаечный ключ
+[10/21/2022 21:13:48]
+  Alexia Mulford unequipped Гаечный ключ
+[10/21/2022 21:13:48]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:48]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:48]
+  Darrin Mansfield unequipped Гаечный ключ
+[10/21/2022 21:13:48]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:13:49]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:49]
+  Edgar Dorado unequipped Гаечный ключ
+[10/21/2022 21:13:49]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:13:49]
+  Lindy Blackwell unequipped Гаечный ключ
+[10/21/2022 21:13:49]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:13:49]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:49]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:49]
+  Crawlerhusk has died (Cause of death: Unknown)
+[10/21/2022 21:13:49]
+  Tera Maynard unequipped Гаечный ключ
+[10/21/2022 21:13:49]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:13:49]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:13:49]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:13:49]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:13:49]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:13:49]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:49]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:50]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:50]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:50]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:50]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:50]
+  Alexia Mulford equipped Сварочный аппарат
+[10/21/2022 21:13:50]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:50]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:50]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:51]
+  Crawlerhusk attacked by iliya_kind. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.015000001
+[10/21/2022 21:13:51]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:52]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  Janee Hefner unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:53]
+  Darwin Bradley unequipped Гаечный ключ
+[10/21/2022 21:13:53]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:53]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:13:53]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:54]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:54]
+  igameCrog dropped Кислородный баллон
+[10/21/2022 21:13:54]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:13:54]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:54]
+  Dorthy Escobar unequipped Нож ныряльщика
+[10/21/2022 21:13:54]
+  Dorthy Escobar equipped Гранатомет
+[10/21/2022 21:13:54]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:13:59]
+  Janee Hefner started repairing Дверь с кнопками
+[10/21/2022 21:14:00]
+  Alexia Mulford unequipped Сварочный аппарат
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:01]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 4.8 Кровотечение: 6 Оглушение: 0.060000002
+[10/21/2022 21:14:03]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:14:03]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:14:03]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:14:04]
+  Crawlerhusk attacked by iliya_kind. Огнестрельная рана: 16.800001 Кровотечение: 25 Оглушение: 0.18
+[10/21/2022 21:14:05]
+  Crawlerhusk has died (Cause of death: Огнестрельная рана)
+[10/21/2022 21:14:05]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:14:05]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:14:05]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:14:05]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:14:05]
+  Keven Tate started repairing Насос
+[10/21/2022 21:14:06]
+  Dorthy Escobar equipped Нож ныряльщика
+[10/21/2022 21:14:07]
+  Darwin Bradley equipped Боевой водолазный скафандр
+[10/21/2022 21:14:07]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:14:07]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:14:08]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:14:08]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:14:08]
+  Dorthy Escobar unequipped Нож ныряльщика
+[10/21/2022 21:14:08]
+  Dorthy Escobar: Я теряю много крови!
+[10/21/2022 21:14:08]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:14:09]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:14:09]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:14:10]
+  Outer wall breached by Crawlerhusk
+[10/21/2022 21:14:10]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:14:10]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:14:11]
+  Crawlerhusk has died (Cause of death: Травма от удара тупым предметом)
+[10/21/2022 21:14:12]
+  Janee Hefner started repairing Суперконденсатор
+[10/21/2022 21:14:14]
+  Keven Tate started repairing Зарядник магнитной пушки
+[10/21/2022 21:14:15]
+  Keven Tate: Помогите, я истекаю кровью!
+[10/21/2022 21:14:18]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:14:19]
+  Outer wall repaired by Edgar Dorado
+[10/21/2022 21:14:19]
+  Edgar Dorado: Моторный отсек: все протечки устранены!
+[10/21/2022 21:14:20]
+  Darwin Bradley equipped Боевой водолазный скафандр
+[10/21/2022 21:14:20]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:14:23]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/21/2022 21:14:23]
+  Darwin Bradley equipped Водолазный скафандр
+[10/21/2022 21:14:24]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:14:24]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:14:24]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:14:24]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:14:24]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:14:25]
+  Inner wall repaired by Edgar Dorado
+[10/21/2022 21:14:25]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:14:25]
+  Inner wall repaired by Edgar Dorado
+[10/21/2022 21:14:25]
+  Inner wall repaired by Lindy Blackwell
+[10/21/2022 21:14:27]
+  Inner wall repaired by Lindy Blackwell
+[10/21/2022 21:14:27]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:14:27]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:14:28]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:14:30]
+  Keven Tate started repairing Батарея
+[10/21/2022 21:14:32]
+  Janee Hefner started repairing Батарея
+[10/21/2022 21:14:32]
+  Keven Tate started repairing Батарея
+[10/21/2022 21:14:34]
+  kynlan4ic equipped Трубка капитана
+[10/21/2022 21:14:35]
+  Janee Hefner started repairing Батарея
+[10/21/2022 21:14:36]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:14:37]
+  Keven Tate: Мне нужно подводное снаряжение!
+[10/21/2022 21:14:38]
+  Outer wall repaired by Todd Schmitt
+[10/21/2022 21:14:38]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:14:39]
+  kynlan4ic picked up Водолазный скафандр
+[10/21/2022 21:14:40]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:14:40]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:14:41]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:14:41]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:14:41]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:14:41]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:14:41]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:14:41]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:14:42]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:14:42]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:14:43]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:14:43]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:14:44]
+  Todd Schmitt started repairing Суперконденсатор
+[10/21/2022 21:14:44]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:14:45]
+  Janee Hefner started repairing Суперконденсатор
+[10/21/2022 21:14:45]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:14:46]
+  Outer wall repaired by Keven Tate
+[10/21/2022 21:14:46]
+  Keven Tate: Арсенал: протечек не осталось!
+[10/21/2022 21:14:46]
+  kynlan4ic picked up Фонарик
+[10/21/2022 21:14:47]
+  kynlan4ic picked up Ручной сонар
+[10/21/2022 21:14:48]
+  Keven Tate: Помогите, я истекаю кровью!
+[10/21/2022 21:14:49]
+  kynlan4ic picked up Подводный скутер
+[10/21/2022 21:14:50]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:14:51]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:14:52]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:14:52]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:14:52]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:14:52]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:14:53]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:14:54]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:14:54]
+  Todd Schmitt failed to repair Монитор состояния
+[10/21/2022 21:14:56]
+  Keven Tate started repairing Монитор состояния
+[10/21/2022 21:14:56]
+  Tera Maynard equipped Боевой водолазный скафандр
+[10/21/2022 21:14:57]
+  Darrin Mansfield equipped Водолазный скафандр бездны
+[10/21/2022 21:14:57]
+  igameCrog used item Бинт
+[10/21/2022 21:14:58]
+  Edgar Dorado equipped Гидрокостюм
+[10/21/2022 21:14:58]
+  Todd Schmitt started repairing Монитор состояния
+[10/21/2022 21:14:59]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:15:00]
+  igameCrog used item Бинт
+[10/21/2022 21:15:00]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:15:01]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:15:08]
+  Alexia Mulford equipped Кислородный баллон
+[10/21/2022 21:15:09]
+  igameCrog used item Морфин
+[10/21/2022 21:15:13]
+  iliya_kind removed Кислородный баллон from Боевой водолазный скафандр (ID: 3667)
+[10/21/2022 21:15:13]
+  Alexia Mulford: Я чувствую жуткую слабость. Все тело болит.
+[10/21/2022 21:15:15]
+  iliya_kind placed Кислородный баллон in Боевой водолазный скафандр (ID: 3667)
+[10/21/2022 21:15:26]
+  Alexia Mulford equipped Аккумулятор
+[10/21/2022 21:15:38]
+  kynlan4ic equipped Подводный скутер
+[10/21/2022 21:15:48]
+  kynlan4ic equipped Ручной сонар
+[10/21/2022 21:15:48]
+  iliya_kind placed Подводная маска in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 21:15:49]
+  iliya_kind picked up Подводный скутер
+[10/21/2022 21:15:52]
+  iliya_kind placed Информационный экран сканера здоровья in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 21:15:52]
+  iliya_kind removed Фонарик from Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 21:15:52]
+  iliya_kind equipped Фонарик
+[10/21/2022 21:15:52]
+  iliya_kind picked up Фонарик
+[10/21/2022 21:15:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:15:59]
+  iliya_kind equipped Подводный скутер
+[10/21/2022 21:16:05]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/21/2022 21:16:19]
+  kynlan4ic opened Настраиваемый люк
+[10/21/2022 21:16:26]
+  kynlan4ic closed Настраиваемый люк
+[10/21/2022 21:16:31]
+  kynlan4ic opened Настраиваемая дверь
+[10/21/2022 21:16:36]
+  Alexia Mulford: У меня что-то во рту...
+[10/21/2022 21:16:43]
+  iliya_kind dropped Фонарик
+[10/21/2022 21:17:01]
+  igameCrog placed Бинт in Форма медика (ID: 3524)
+[10/21/2022 21:17:06]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:17:09]
+  Darrin Mansfield equipped Кислородный баллон
+[10/21/2022 21:17:09]
+  Darwin Bradley equipped Кислородный баллон
+[10/21/2022 21:17:27]
+  iliya_kind equipped Кислородный баллон
+[10/21/2022 21:17:36]
+  kynlan4ic picked up Клоунская маска
+[10/21/2022 21:17:45]
+  kynlan4ic opened Настраиваемая дверь
+[10/21/2022 21:17:55]
+  igameCrog opened Настраиваемый люк
+[10/21/2022 21:17:57]
+  igameCrog closed Настраиваемый люк
+[10/21/2022 21:17:58]
+  igameCrog opened Настраиваемый люк
+[10/21/2022 21:18:03]
+  igameCrog closed Настраиваемый люк
+[10/21/2022 21:18:13]
+  kynlan4ic opened Настраиваемый люк
+[10/21/2022 21:18:18]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:18:18]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:18:18]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:18:18]
+  Darrin Mansfield: Проверка связи.
+[10/21/2022 21:18:19]
+  Keven Tate started repairing Навигационный терминал
+[10/21/2022 21:18:19]
+  Todd Schmitt started repairing Навигационный терминал
+[10/21/2022 21:18:20]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:18:20]
+  Edgar Dorado: Все хорошо!
+[10/21/2022 21:18:23]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:18:23]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:18:30]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:18:31]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:18:31]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:18:32]
+  igameCrog equipped Отвертка
+[10/21/2022 21:18:32]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:18:33]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:18:35]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:18:36]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:18:37]
+  igameCrog picked up Кислородный баллон
+[10/21/2022 21:18:37]
+  igameCrog dropped Кислородный баллон
+[10/21/2022 21:18:37]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 3341)
+[10/21/2022 21:18:44]
+  igameCrog started repairing Ядерный реактор
+[10/21/2022 21:19:05]
+  iliya_kind placed Фонарик in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 21:19:05]
+  iliya_kind removed Информационный экран сканера здоровья from Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 21:19:05]
+  iliya_kind picked up Информационный экран сканера здоровья
+[10/21/2022 21:19:05]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:19:06]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:19:07]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:19:08]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:19:09]
+  iliya_kind placed Подводный скутер in Средний стальной шкаф с окном (ID: 131)
+[10/21/2022 21:19:10]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:19:10]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:19:12]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:19:12]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:19:12]
+  kynlan4ic dropped Водолазный скафандр
+[10/21/2022 21:19:17]
+  iliya_kind dropped Боевой водолазный скафандр
+[10/21/2022 21:19:25]
+  igameCrog placed Кислородный баллон in Генератор кислорода (ID: 2279)
+[10/21/2022 21:19:48]
+  Alexia Mulford has died (Cause of death: Внутренняя травма)
+[10/21/2022 21:19:48]
+  igameCrog started repairing Суперконденсатор
+[10/21/2022 21:19:52]
+  iliya_kind picked up Боевой водолазный скафандр
+[10/21/2022 21:19:52]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[10/21/2022 21:19:52]
+  iliya_kind dropped Боевой водолазный скафандр
+[10/21/2022 21:19:54]
+  iliya_kind picked up Боевой водолазный скафандр
+[10/21/2022 21:19:54]
+  iliya_kind dropped Одноразовый водолазный скафандр
+[10/21/2022 21:19:57]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:19:57]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:19:57]
+  Janee Hefner equipped Гаечный ключ
+[10/21/2022 21:19:57]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:19:57]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:19:58]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:19:58]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:19:58]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:19:58]
+  Keven Tate equipped Гаечный ключ
+[10/21/2022 21:19:59]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:19:59]
+  Darwin Bradley equipped Гаечный ключ
+[10/21/2022 21:20:00]
+  Keven Tate unequipped Гаечный ключ
+[10/21/2022 21:20:00]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:20:00]
+  Dorthy Escobar equipped Нож ныряльщика
+[10/21/2022 21:20:00]
+  Janee Hefner unequipped Гаечный ключ
+[10/21/2022 21:20:00]
+  Janee Hefner equipped Сварочный аппарат
+[10/21/2022 21:20:00]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:20:00]
+  Darrin Mansfield equipped Гаечный ключ
+[10/21/2022 21:20:00]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:20:00]
+  Edgar Dorado equipped Гаечный ключ
+[10/21/2022 21:20:01]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:20:01]
+  Darwin Bradley unequipped Гаечный ключ
+[10/21/2022 21:20:01]
+  Todd Schmitt: Помогите, я истекаю кровью!
+[10/21/2022 21:20:01]
+  iliya_kind picked up Подводный скутер
+[10/21/2022 21:20:01]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:20:01]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:20:01]
+  Darwin Bradley equipped Гаечный ключ
+[10/21/2022 21:20:01]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:20:01]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:20:02]
+  Darrin Mansfield unequipped Гаечный ключ
+[10/21/2022 21:20:02]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:20:02]
+  Edgar Dorado unequipped Гаечный ключ
+[10/21/2022 21:20:02]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:20:03]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:20:03]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:20:05]
+  Darrin Mansfield: Мне нужно подводное снаряжение!
+[10/21/2022 21:20:05]
+  Edgar Dorado: Надо найти водолазный скафандр!
+[10/21/2022 21:20:06]
+  Dorthy Escobar unequipped Нож ныряльщика
+[10/21/2022 21:20:06]
+  Dorthy Escobar equipped Подводное ружье
+[10/21/2022 21:20:07]
+  Darwin Bradley used Гаечный ключ on Alexia Mulford.
+[10/21/2022 21:20:07]
+  Janee Hefner unequipped Сварочный аппарат
+[10/21/2022 21:20:07]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:20:07]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:20:07]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:20:08]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:20:08]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:20:08]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:20:08]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:20:09]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:20:09]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:20:09]
+  Darrin Mansfield equipped Сварочный аппарат
+[10/21/2022 21:20:09]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:20:10]
+  Darwin Bradley: Я теряю много крови!
+[10/21/2022 21:20:11]
+  Darwin Bradley used Гаечный ключ on Alexia Mulford.
+[10/21/2022 21:20:11]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:20:11]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:20:11]
+  Janee Hefner equipped Сварочный аппарат
+[10/21/2022 21:20:12]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:20:12]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:20:12]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:20:12]
+  Darwin Bradley used Гаечный ключ on Janee Hefner.
+[10/21/2022 21:20:13]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:20:13]
+  Todd Schmitt equipped Гаечный ключ
+[10/21/2022 21:20:13]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:20:14]
+  Todd Schmitt unequipped Гаечный ключ
+[10/21/2022 21:20:14]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:20:15]
+  igameCrog closed Настраиваемая дверь
+[10/21/2022 21:20:18]
+  Darrin Mansfield unequipped Сварочный аппарат
+[10/21/2022 21:20:18]
+  Darrin Mansfield equipped Отвертка
+[10/21/2022 21:20:19]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:20:19]
+  Darrin Mansfield unequipped Отвертка
+[10/21/2022 21:20:19]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:20:20]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:20:20]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:20:22]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:20:22]
+  Janee Hefner unequipped Сварочный аппарат
+[10/21/2022 21:20:23]
+  Todd Schmitt equipped Отвертка
+[10/21/2022 21:20:23]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:20:23]
+  Keven Tate started repairing Кабельная коробка
+[10/21/2022 21:20:23]
+  Janee Hefner equipped Отвертка
+[10/21/2022 21:20:23]
+  Inner wall repaired by Edgar Dorado
+[10/21/2022 21:20:24]
+  Edgar Dorado: Мидель: все протечки устранены!
+[10/21/2022 21:20:24]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:20:25]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:20:27]
+  Keven Tate equipped Отвертка
+[10/21/2022 21:20:27]
+  Todd Schmitt started repairing Кабельная коробка
+[10/21/2022 21:20:28]
+  Darwin Bradley unequipped Гаечный ключ
+[10/21/2022 21:20:28]
+  Janee Hefner started repairing Кабельная коробка
+[10/21/2022 21:20:29]
+  Todd Schmitt unequipped Отвертка
+[10/21/2022 21:20:30]
+  Keven Tate unequipped Отвертка
+[10/21/2022 21:20:31]
+  Janee Hefner unequipped Отвертка
+[10/21/2022 21:20:36]
+  Edgar Dorado unequipped Сварочный аппарат
+[10/21/2022 21:20:39]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:20:40]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:20:42]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:20:43]
+  Dorthy Escobar unequipped Подводное ружье
+[10/21/2022 21:20:43]
+  Dorthy Escobar equipped Нож ныряльщика
+[10/21/2022 21:20:44]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:20:44]
+  Dorthy Escobar unequipped Нож ныряльщика
+[10/21/2022 21:20:44]
+  Dorthy Escobar equipped Электрошокер
+[10/21/2022 21:20:44]
+  Dorthy Escobar equipped Нож ныряльщика
+[10/21/2022 21:20:44]
+  Inner wall repaired by Tera Maynard
+[10/21/2022 21:20:44]
+  Tera Maynard: Мидель: протечек не осталось!
+[10/21/2022 21:20:44]
+  Dorthy Escobar unequipped Электрошокер
+[10/21/2022 21:20:44]
+  Dorthy Escobar unequipped Нож ныряльщика
+[10/21/2022 21:20:44]
+  Dorthy Escobar equipped Абордажный топор
+[10/21/2022 21:20:44]
+  Dorthy Escobar unequipped Абордажный топор
+[10/21/2022 21:20:44]
+  Dorthy Escobar equipped Нож ныряльщика
+[10/21/2022 21:20:45]
+  Dorthy Escobar unequipped Нож ныряльщика
+[10/21/2022 21:20:45]
+  Dorthy Escobar equipped Абордажный топор
+[10/21/2022 21:20:46]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:20:47]
+  Dorthy Escobar used Абордажный топор on Alexia Mulford.
+[10/21/2022 21:20:47]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:20:48]
+  Dorthy Escobar used Абордажный топор on Alexia Mulford.
+[10/21/2022 21:20:50]
+  Keven Tate equipped Сварочный аппарат
+[10/21/2022 21:20:50]
+  Dorthy Escobar used Абордажный топор on Alexia Mulford.
+[10/21/2022 21:20:50]
+  Inner wall repaired by Keven Tate
+[10/21/2022 21:20:50]
+  Keven Tate: Мидель: все протечки устранены!
+[10/21/2022 21:20:51]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:20:51]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:20:52]
+  Keven Tate unequipped Сварочный аппарат
+[10/21/2022 21:20:55]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:20:55]
+  Todd Schmitt: Мидель: все протечки устранены!
+[10/21/2022 21:20:56]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:20:56]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:20:59]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:21:02]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:21:03]
+  Dorthy Escobar used Абордажный топор on Tera Maynard.
+[10/21/2022 21:21:05]
+  Inner wall repaired by Lindy Blackwell
+[10/21/2022 21:21:05]
+  Lindy Blackwell: Мидель: протечек не осталось!
+[10/21/2022 21:21:05]
+  Tera Maynard: Я теряю много крови!
+[10/21/2022 21:21:06]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:21:07]
+  Dorthy Escobar used Абордажный топор on Keven Tate.
+[10/21/2022 21:21:09]
+  Keven Tate: Я теряю много крови!
+[10/21/2022 21:21:11]
+  Edgar Dorado equipped Сварочный аппарат
+[10/21/2022 21:21:11]
+  Inner wall repaired by Edgar Dorado
+[10/21/2022 21:21:11]
+  Edgar Dorado: Мидель: протечек не осталось!
+[10/21/2022 21:21:12]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:21:12]
+  Todd Schmitt: Кажется, у меня жар.
+[10/21/2022 21:21:12]
+  Inner wall repaired by Edgar Dorado
+[10/21/2022 21:21:13]
+  Inner wall breached by Dorthy Escobar
+[10/21/2022 21:21:14]
+  Tera Maynard unequipped Сварочный аппарат
+[10/21/2022 21:21:17]
+  Todd Schmitt equipped Сварочный аппарат
+[10/21/2022 21:21:17]
+  Todd Schmitt unequipped Сварочный аппарат
+[10/21/2022 21:21:17]
+  Lindy Blackwell unequipped Сварочный аппарат
+[10/21/2022 21:21:19]
+  Lindy Blackwell equipped Сварочный аппарат
+[10/21/2022 21:21:19]
+  Dorthy Escobar used Абордажный топор on Todd Schmitt.
+[10/21/2022 21:21:20]
+  Darwin Bradley: Что-то в горле першит.
+[10/21/2022 21:21:20]
+  Dorthy Escobar used Абордажный топор on Lindy Blackwell.
+[10/21/2022 21:21:21]
+  Todd Schmitt: Помогите, я истекаю кровью!
+[10/21/2022 21:21:22]
+  Dorthy Escobar used Абордажный топор on Keven Tate.
+[10/21/2022 21:21:23]
+  Tera Maynard equipped Сварочный аппарат
+[10/21/2022 21:21:24]
+  Lindy Blackwell: Я теряю много крови!
+[10/21/2022 21:21:24]
+  Inner wall repaired by Tera Maynard
+[10/21/2022 21:21:24]
+  Tera Maynard: Мидель: протечек не осталось!
+[10/21/2022 21:21:25]
+  Inner wall breached by Dorthy Escobar

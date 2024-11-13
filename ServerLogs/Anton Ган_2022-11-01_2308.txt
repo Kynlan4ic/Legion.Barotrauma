@@ -1,0 +1,42 @@
+﻿[11/01/2022 23:04:46]
+  igameCrog placed Морфин in Аптечка (ID: 3)
+[11/01/2022 23:04:52]
+  kynlan4ic picked up Водолазный скафандр
+[11/01/2022 23:04:52]
+  igameCrog placed Жидкий тоник in Аптечка (ID: 3)
+[11/01/2022 23:04:56]
+  kynlan4ic dropped Водолазный скафандр
+[11/01/2022 23:05:03]
+  igameCrog picked up Этанол
+[11/01/2022 23:05:03]
+  igameCrog picked up Этанол
+[11/01/2022 23:05:12]
+  kynlan4ic launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 23:05:56]
+  kynlan4ic equipped Сварочный аппарат
+[11/01/2022 23:06:00]
+  igameCrog disconnected a wire from Навигационный терминал (toggle_docking) to Компонент «И» (signal_in1)
+[11/01/2022 23:06:00]
+  igameCrog connected a wire from Навигационный терминал (velocity_in) to Компонент «И» (signal_in1)
+[11/01/2022 23:06:07]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:06:08]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:06:10]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:06:13]
+  Outer wall repaired by kynlan4ic
+[11/01/2022 23:07:21]
+  kynlan4ic equipped Медконтейнер
+[11/01/2022 23:07:22]
+  kynlan4ic dropped Медконтейнер
+[11/01/2022 23:07:27]
+  kynlan4ic dropped Медконтейнер
+[11/01/2022 23:07:30]
+  kynlan4ic equipped Медконтейнер
+[11/01/2022 23:07:32]
+  kynlan4ic dropped Медконтейнер
+[11/01/2022 23:08:11]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 23:08:12]
+  Ending the round...

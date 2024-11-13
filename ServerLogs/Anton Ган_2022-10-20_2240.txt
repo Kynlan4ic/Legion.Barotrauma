@@ -1,0 +1,264 @@
+﻿[10/20/2022 22:30:51]
+  Starting the server...
+[10/20/2022 22:30:51]
+  Using SteamP2P networking.
+[10/20/2022 22:30:51]
+  Server started
+[10/20/2022 22:30:52]
+  Игрок kynlan4ic присоединился к серверу.
+[10/20/2022 22:30:52]
+  Saving client permissions
+[10/20/2022 22:30:52]
+  Saving client permissions
+[10/20/2022 22:32:11]
+  Игрок iliya_kind присоединился к серверу.
+[10/20/2022 22:32:11]
+  Saving client permissions
+[10/20/2022 22:32:37]
+  Игрок igameCrog присоединился к серверу.
+[10/20/2022 22:32:37]
+  Saving client permissions
+[10/20/2022 22:34:35]
+  iliya_kind is ready to start the game.
+[10/20/2022 22:35:00]
+  kynlan4ic is ready to start the game.
+[10/20/2022 22:35:04]
+  igameCrog is ready to start the game.
+[10/20/2022 22:35:05]
+  Client "kynlan4ic" started the round.
+[10/20/2022 22:35:05]
+  Starting a new round...
+[10/20/2022 22:35:09]
+  Миссия: Транспортировка медикаментов
+[10/20/2022 22:35:09]
+  Шахта Skadi's Cauldron вызывает все суда! Один несчастный отравился большой дозой морбузина. Он еще может выжить, если кто-то успеет доставить ему противоядие, но действовать надо быстро... Если все пройдет успешно, вам заплатят 1,000 кред.
+[10/20/2022 22:35:09]
+  Game mode: Миссия
+[10/20/2022 22:35:09]
+  Submarine: R-29
+[10/20/2022 22:35:09]
+  Level seed: 14237854
+[10/20/2022 22:35:09]
+  Mission: Транспортировка медикаментов
+[10/20/2022 22:35:11]
+  Round started.
+[10/20/2022 22:35:17]
+  Synthia Sexton: Знаешь, мне на днях пришла отличная предпринимательская идея.
+[10/20/2022 22:35:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:35:27]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:35:31]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:35:45]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:45]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:45]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 22:35:48]
+  iliya_kind placed Подводное ружье in Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:48]
+  iliya_kind removed Револьвер from Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:48]
+  iliya_kind picked up Револьвер
+[10/20/2022 22:35:51]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:51]
+  iliya_kind removed Подводное ружье from Защищенный стальной шкаф (ID: 798)
+[10/20/2022 22:35:51]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 22:35:53]
+  iliya_kind picked up Дробовик
+[10/20/2022 22:35:55]
+  iliya_kind picked up Пистолет-пулемет
+[10/20/2022 22:35:59]
+  iliya_kind picked up Пуленепробиваемый шлем
+[10/20/2022 22:36:02]
+  iliya_kind picked up Бронежилет
+[10/20/2022 22:36:15]
+  iliya_kind equipped Гитара
+[10/20/2022 22:36:48]
+  igameCrog removed Подводная маска from Средний стальной шкаф (ID: 367)
+[10/20/2022 22:36:50]
+  igameCrog picked up Фонарик
+[10/20/2022 22:36:52]
+  igameCrog picked up Подводный скутер
+[10/20/2022 22:36:55]
+  igameCrog picked up Плазменный резак
+[10/20/2022 22:36:57]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:36:57]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:36:57]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 22:37:01]
+  igameCrog picked up Аккумулятор
+[10/20/2022 22:37:01]
+  igameCrog picked up Аккумулятор
+[10/20/2022 22:37:03]
+  igameCrog picked up Подводная маска
+[10/20/2022 22:37:05]
+  iliya_kind picked up Подводная маска
+[10/20/2022 22:37:06]
+  iliya_kind removed Сварочный аппарат from Хозяйственный шкаф (ID: 580)
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:18]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:37:26]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/20/2022 22:37:27]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:27]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:30]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:36]
+  Dispatching the respawn shuttle.
+[10/20/2022 22:37:36]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/20/2022 22:37:37]
+  Vasili Lavey equipped Сварочный аппарат
+[10/20/2022 22:37:38]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:37:42]
+  Outer wall repaired by Vasili Lavey
+[10/20/2022 22:37:42]
+  Outer wall repaired by Vasili Lavey
+[10/20/2022 22:37:43]
+  Vasili Lavey unequipped Сварочный аппарат
+[10/20/2022 22:37:44]
+  igameCrog has died (Cause of death: Баротравма)
+[10/20/2022 22:37:46]
+  Maudie Donovan equipped Сварочный аппарат
+[10/20/2022 22:37:46]
+  iliya_kind dropped Гитара
+[10/20/2022 22:37:48]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:50]
+  iliya_kind is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[10/20/2022 22:37:50]
+  Maudie Donovan unequipped Сварочный аппарат
+[10/20/2022 22:37:54]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:37:55]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:01]
+  Inner wall breached by Hammerheadgold
+[10/20/2022 22:38:01]
+  Inner wall breached by Hammerhead
+[10/20/2022 22:38:01]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Inner wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:05]
+  Outer wall breached by Hammerhead
+[10/20/2022 22:38:06]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/20/2022 22:38:24]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:24]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:39]
+  The respawn shuttle is leaving.
+[10/20/2022 22:38:42]
+  kynlan4ic opened Настраиваемый люк
+[10/20/2022 22:38:43]
+  kynlan4ic closed Настраиваемый люк
+[10/20/2022 22:38:43]
+  kynlan4ic opened Настраиваемый люк
+[10/20/2022 22:38:44]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:44]
+  Inner wall breached by Hammerheadgold
+[10/20/2022 22:38:44]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:38:47]
+  kynlan4ic closed Настраиваемый люк
+[10/20/2022 22:39:10]
+  The respawn shuttle has left.
+[10/20/2022 22:39:13]
+  iliya_kind picked up Подводный скутер
+[10/20/2022 22:39:15]
+  iliya_kind picked up Фонарик
+[10/20/2022 22:39:20]
+  Inner wall breached by Hammerheadgold
+[10/20/2022 22:39:20]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:21]
+  Dispatching the respawn shuttle.
+[10/20/2022 22:39:21]
+  Respawning igameCrog (STEAM_1:0:584229539) as Помощник
+[10/20/2022 22:39:22]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:34]
+  Outer wall breached by Hammerheadgold
+[10/20/2022 22:39:41]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 22:39:50]
+  kynlan4ic launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/20/2022 22:39:50]
+  Hammerheadgold attacked by kynlan4ic. Повреждение глубоких тканей: 52.5 Кровотечение: 15 Оглушение: 4
+[10/20/2022 22:40:01]
+  kynlan4ic launched Шрапнельное орудие (projectile: Шрапнельный снаряд)
+[10/20/2022 22:40:07]
+  iliya_kind dropped Гитара
+[10/20/2022 22:40:08]
+  iliya_kind equipped Револьвер
+[10/20/2022 22:40:08]
+  iliya_kind equipped Дробовик
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:14]
+  Alla Moses attacked by iliya_kind. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[10/20/2022 22:40:16]
+  Ending round by votes (2/1)
+[10/20/2022 22:40:16]
+  Ending the round...

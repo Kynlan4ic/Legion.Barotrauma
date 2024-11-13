@@ -1,0 +1,1600 @@
+﻿[03/09/2023 15:36:55]
+  Saving client permissions
+[03/09/2023 15:36:55]
+  Saving client permissions
+[03/09/2023 15:36:55]
+  Gamemode changed to Кампания
+[03/09/2023 15:38:25]
+  kynlan4ic changed PlayStyle to Serious
+[03/09/2023 15:38:25]
+  kynlan4ic changed LosMode to Transparent
+[03/09/2023 15:38:25]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/09/2023 15:38:25]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/09/2023 15:38:25]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/09/2023 15:42:28]
+  Игрок Waltuh присоединился к серверу.
+[03/09/2023 15:42:28]
+  Saving client permissions
+[03/09/2023 15:43:03]
+  kynlan4ic: Привет
+[03/09/2023 15:43:12]
+  kynlan4ic is ready to start the game.
+[03/09/2023 15:43:17]
+  Игрок Faxemelian присоединился к серверу.
+[03/09/2023 15:43:17]
+  Saving client permissions
+[03/09/2023 15:43:19]
+  Waltuh is ready to start the game.
+[03/09/2023 15:43:49]
+  kynlan4ic changed PlayStyle to Serious
+[03/09/2023 15:43:49]
+  kynlan4ic changed LosMode to Transparent
+[03/09/2023 15:43:49]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/09/2023 15:43:49]
+  kynlan4ic changed AllowRewiring to False
+[03/09/2023 15:43:49]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/09/2023 15:43:49]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/09/2023 15:43:51]
+  Игрок Shad, Yes! присоединился к серверу.
+[03/09/2023 15:43:51]
+  Saving client permissions
+[03/09/2023 15:44:08]
+  Starting a new round...
+[03/09/2023 15:44:09]
+  kynlan4ic is not ready to start the game.
+[03/09/2023 15:44:11]
+  Waltuh is not ready to start the game.
+[03/09/2023 15:44:42]
+  Миссия: Слава красному носу
+[03/09/2023 15:44:43]
+  Местный клоунский синдикат предлагает 5,000 кред. за доставку клоунских принадлежностей. Пункт назначения: Аванпост Tectamus Linea.
+[03/09/2023 15:44:43]
+  Миссия: Уничтожение роя
+[03/09/2023 15:44:43]
+  Большой рой монстров (Ползун) терроризирует суда, следующие по маршруту Amar - Аванпост Tectamus Linea. Команде, способной нейтрализовать его, полагается достойная награда в размере 3,500 кред.
+[03/09/2023 15:44:43]
+  Миссия: Уничтожение молотоглавов
+[03/09/2023 15:44:44]
+  Крайне свирепые молотоглавы терроризируют суда, плавающие по маршруту Amar - Аванпост Tectamus Linea. Тому, кто истребит этих опасных созданий, полагается достойная награда в размере 1,800 кред.
+[03/09/2023 15:44:44]
+  Game mode: Кампания
+[03/09/2023 15:44:44]
+  Submarine: Camel
+[03/09/2023 15:44:44]
+  Level seed: AmarTectamus Linea
+[03/09/2023 15:44:44]
+  Mission: Слава красному носу
+[03/09/2023 15:44:44]
+  Mission: Уничтожение роя
+[03/09/2023 15:44:44]
+  Mission: Уничтожение молотоглавов
+[03/09/2023 15:44:44]
+  Avery Case equipped Отвертка
+[03/09/2023 15:44:44]
+  Jarrod Tamashiro equipped Пистолет-пулемет
+[03/09/2023 15:44:45]
+  Jared Dudley equipped Сварочный аппарат
+[03/09/2023 15:44:45]
+  Waltuh equipped Велосипедный гудок
+[03/09/2023 15:44:45]
+  Round started.
+[03/09/2023 15:44:50]
+  Waltuh set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 15:44:53]
+  Faxemelian set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 15:44:54]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 15:45:00]
+  Shad, Yes! set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 15:45:00]
+  Faxemelian equipped Металлический ящик
+[03/09/2023 15:45:13]
+  Faxemelian placed Ториевый топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 15:45:13]
+  Faxemelian placed Ториевый топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 15:45:16]
+  Faxemelian dropped Металлический ящик
+[03/09/2023 15:45:19]
+  Shad, Yes!: Я заряжу реактор!
+[03/09/2023 15:45:26]
+  kynlan4ic equipped Ящик с химикатами
+[03/09/2023 15:45:27]
+  kynlan4ic dropped Ящик с химикатами
+[03/09/2023 15:45:31]
+  Waltuh equipped Гаечный ключ
+[03/09/2023 15:45:31]
+  Waltuh equipped Отвертка
+[03/09/2023 15:45:37]
+  Shad, Yes! picked up Топливный стержень
+[03/09/2023 15:45:44]
+  Waltuh started repairing Генератор кислорода
+[03/09/2023 15:45:45]
+  Faxemelian placed Гарпун in Большой стальной шкаф (ID: 1241)
+[03/09/2023 15:45:49]
+  Shad, Yes! placed Топливный стержень in Ядерный реактор (ID: 1647)
+[03/09/2023 15:45:51]
+  Faxemelian dropped Металлический ящик
+[03/09/2023 15:45:54]
+  Faxemelian equipped Отвертка
+[03/09/2023 15:45:54]
+  Faxemelian equipped Сварочный аппарат
+[03/09/2023 15:46:00]
+  Faxemelian unequipped Сварочный аппарат
+[03/09/2023 15:46:00]
+  Faxemelian equipped Боевой водолазный скафандр
+[03/09/2023 15:46:00]
+  Shad, Yes! adjusted reactor settings: Temperature: 5019, Fission rate: 32, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:01]
+  Shad, Yes! adjusted reactor settings: Temperature: 5140, Fission rate: 33, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:04]
+  Faxemelian picked up Аккордеон
+[03/09/2023 15:46:10]
+  Waltuh: Faxemelian, отремонтируй механические приборы!
+[03/09/2023 15:46:10]
+  Faxemelian dropped Боевой водолазный скафандр
+[03/09/2023 15:46:13]
+  Shad, Yes! adjusted reactor settings: Temperature: 5333, Fission rate: 37, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:14]
+  Shad, Yes! adjusted reactor settings: Temperature: 6103, Fission rate: 49, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:15]
+  Shad, Yes! adjusted reactor settings: Temperature: 7119, Fission rate: 49, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:16]
+  Shad, Yes! adjusted reactor settings: Temperature: 8077, Fission rate: 46, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:19]
+  Shad, Yes! adjusted reactor settings: Temperature: 7939, Fission rate: 45, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:20]
+  Shad, Yes! adjusted reactor settings: Temperature: 7472, Fission rate: 40, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:21]
+  Shad, Yes! adjusted reactor settings: Temperature: 6767, Fission rate: 38, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:22]
+  Faxemelian adjusted reactor settings: Temperature: 6391, Fission rate: 37, Turbine output: 14, Autotemp ON
+[03/09/2023 15:46:23]
+  Shad, Yes! adjusted reactor settings: Temperature: 6345, Fission rate: 38, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:29]
+  Faxemelian picked up Топливный стержень
+[03/09/2023 15:46:30]
+  Waltuh: Faxemelian, займись электроприборами!
+[03/09/2023 15:46:32]
+  Faxemelian placed Топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 15:46:35]
+  Shad, Yes! adjusted reactor settings: Temperature: 6352, Fission rate: 38, Turbine output: 14, Autotemp OFF
+[03/09/2023 15:46:35]
+  Faxemelian picked up Подводная маска
+[03/09/2023 15:46:36]
+  Shad, Yes! adjusted reactor settings: Temperature: 5946, Fission rate: 38, Turbine output: 29, Autotemp OFF
+[03/09/2023 15:46:37]
+  Shad, Yes! adjusted reactor settings: Temperature: 4976, Fission rate: 38, Turbine output: 42, Autotemp OFF
+[03/09/2023 15:46:38]
+  Shad, Yes! adjusted reactor settings: Temperature: 4227, Fission rate: 38, Turbine output: 36, Autotemp OFF
+[03/09/2023 15:46:39]
+  Shad, Yes! adjusted reactor settings: Temperature: 3986, Fission rate: 38, Turbine output: 40, Autotemp OFF
+[03/09/2023 15:46:39]
+  Faxemelian equipped Гаечный ключ
+[03/09/2023 15:46:40]
+  Shad, Yes! adjusted reactor settings: Temperature: 3519, Fission rate: 38, Turbine output: 48, Autotemp OFF
+[03/09/2023 15:46:41]
+  Shad, Yes! adjusted reactor settings: Temperature: 3093, Fission rate: 38, Turbine output: 47, Autotemp OFF
+[03/09/2023 15:46:42]
+  Shad, Yes! adjusted reactor settings: Temperature: 2754, Fission rate: 38, Turbine output: 68, Autotemp OFF
+[03/09/2023 15:46:43]
+  Shad, Yes! adjusted reactor settings: Temperature: 1754, Fission rate: 38, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:44]
+  Shad, Yes! adjusted reactor settings: Temperature: 1350, Fission rate: 38, Turbine output: 58, Autotemp OFF
+[03/09/2023 15:46:45]
+  Shad, Yes! adjusted reactor settings: Temperature: 1687, Fission rate: 38, Turbine output: 64, Autotemp OFF
+[03/09/2023 15:46:45]
+  Faxemelian started repairing Медицинский фабрикатор
+[03/09/2023 15:46:46]
+  Shad, Yes! adjusted reactor settings: Temperature: 1128, Fission rate: 38, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:47]
+  Shad, Yes! adjusted reactor settings: Temperature: 1010, Fission rate: 41, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:48]
+  Shad, Yes! adjusted reactor settings: Temperature: 1822, Fission rate: 62, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:49]
+  Shad, Yes! adjusted reactor settings: Temperature: 2822, Fission rate: 70, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:50]
+  Faxemelian started repairing Медицинский фабрикатор
+[03/09/2023 15:46:50]
+  Shad, Yes! adjusted reactor settings: Temperature: 3822, Fission rate: 69, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:51]
+  Shad, Yes! adjusted reactor settings: Temperature: 4822, Fission rate: 68, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:52]
+  Shad, Yes! adjusted reactor settings: Temperature: 5822, Fission rate: 75, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:53]
+  Shad, Yes! adjusted reactor settings: Temperature: 6822, Fission rate: 74, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:54]
+  Shad, Yes! adjusted reactor settings: Temperature: 7786, Fission rate: 74, Turbine output: 69, Autotemp OFF
+[03/09/2023 15:46:55]
+  Shad, Yes! adjusted reactor settings: Temperature: 7876, Fission rate: 74, Turbine output: 70, Autotemp OFF
+[03/09/2023 15:46:56]
+  Shad, Yes! adjusted reactor settings: Temperature: 8088, Fission rate: 74, Turbine output: 48, Autotemp OFF
+[03/09/2023 15:46:57]
+  Outer wall breached by Crawler
+[03/09/2023 15:46:57]
+  Outer wall breached by Crawler
+[03/09/2023 15:46:57]
+  Outer wall breached by Crawler
+[03/09/2023 15:46:57]
+  Shad, Yes! adjusted reactor settings: Temperature: 9104, Fission rate: 74, Turbine output: 41, Autotemp OFF
+[03/09/2023 15:46:57]
+  Faxemelian equipped Сварочный аппарат
+[03/09/2023 15:47:01]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:01]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:01]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:01]
+  Outer wall breached by Crawler
+[03/09/2023 15:47:01]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:02]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:02]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:03]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:03]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:04]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:04]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:05]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:05]
+  Shad, Yes! adjusted reactor settings: Temperature: 10000, Fission rate: 72, Turbine output: 41, Autotemp OFF
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:05]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:06]
+  Shad, Yes! adjusted reactor settings: Temperature: 9633, Fission rate: 30, Turbine output: 41, Autotemp OFF
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:06]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:06]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:07]
+  Shad, Yes! adjusted reactor settings: Temperature: 8633, Fission rate: 20, Turbine output: 41, Autotemp OFF
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:07]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Shad, Yes! adjusted reactor settings: Temperature: 7633, Fission rate: 25, Turbine output: 41, Autotemp OFF
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:08]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:08]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:09]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:09]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:09]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:09]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:09]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:10]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:11]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:11]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:11]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:11]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:11]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:12]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  kynlan4ic equipped Огнетушитель
+[03/09/2023 15:47:13]
+  kynlan4ic picked up Огнетушитель
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:13]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:13]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:14]
+  Shad, Yes! покидает сервер.
+[03/09/2023 15:47:14]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:14]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:14]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:14]
+  Inner wall breached by Hammerhead_m
+[03/09/2023 15:47:14]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:14]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:16]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:16]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:17]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:17]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:17]
+  Crawlerbroodmother attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:18]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:19]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:19]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:19]
+  kynlan4ic placed Огнетушитель in Стойка огнетушителя (ID: 1145)
+[03/09/2023 15:47:19]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:20]
+  Crawler attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:23]
+  kynlan4ic picked up Водолазный скафандр
+[03/09/2023 15:47:24]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:24]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:24]
+  Outer wall breached by Hammerhead_m
+[03/09/2023 15:47:25]
+  Faxemelian equipped Плазменный резак
+[03/09/2023 15:47:25]
+  kynlan4ic equipped Нож ныряльщика
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  kynlan4ic equipped Револьвер
+[03/09/2023 15:47:26]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:26]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:27]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:27]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:27]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:28]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:28]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:28]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:28]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:28]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:28]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:29]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:29]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:30]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/09/2023 15:47:31]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/09/2023 15:47:31]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/09/2023 15:47:34]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:34]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:34]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:34]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:34]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:34]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:34]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:34]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:34]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:34]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:34]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:35]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:35]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:36]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:36]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:37]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:37]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:37]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:37]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:37]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:38]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:38]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:38]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:38]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:38]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:38]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:38]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:38]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:39]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:39]
+  Hammerhead_m attacked by Waltuh. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:39]
+  Outer wall breached by Crawler
+[03/09/2023 15:47:42]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:42]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:42]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:42]
+  Waltuh launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:47]
+  Faxemelian picked up Водолазный скафандр
+[03/09/2023 15:47:48]
+  Shad, Yes! has died (Cause of death: Баротравма)
+[03/09/2023 15:47:48]
+  Waltuh has died (Cause of death: Баротравма)
+[03/09/2023 15:47:51]
+  Outer wall breached by Crawler
+[03/09/2023 15:47:58]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:58]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:58]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:58]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:58]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:58]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:47:58]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:47:59]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  Outer wall breached by Crawler
+[03/09/2023 15:48:00]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:00]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:00]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:48:00]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m has died (Cause of death: Рваная рана)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:01]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:01]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:02]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:02]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:02]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:02]
+  Hammerhead_m attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[03/09/2023 15:48:02]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:02]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:02]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:02]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:02]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:03]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:05]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:05]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:05]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:05]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:06]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:06]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:48:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:06]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:48:07]
+  Faxemelian adjusted reactor settings: Temperature: 1058, Fission rate: 25, Turbine output: 41, Autotemp ON
+[03/09/2023 15:48:08]
+  Outer wall breached by Crawler
+[03/09/2023 15:48:10]
+  Faxemelian started repairing Ядерный реактор
+[03/09/2023 15:48:11]
+  Outer wall breached by Crawlerbroodmother
+[03/09/2023 15:48:12]
+  Outer wall breached by Crawler
+[03/09/2023 15:48:13]
+  Faxemelian failed to repair Ядерный реактор
+[03/09/2023 15:48:18]
+  Inner wall breached by Crawler
+[03/09/2023 15:48:27]
+  Игрок Drago присоединился к серверу.
+[03/09/2023 15:48:27]
+  Saving client permissions
+[03/09/2023 15:48:31]
+  Faxemelian started repairing Батарея
+[03/09/2023 15:48:32]
+  Outer wall breached by Crawler
+[03/09/2023 15:48:43]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 5239)
+[03/09/2023 15:48:43]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 5239)
+[03/09/2023 15:48:43]
+  kynlan4ic placed Патрон револьвера in Револьвер (ID: 5239)
+[03/09/2023 15:48:44]
+  Dispatching the respawn shuttle.
+[03/09/2023 15:48:44]
+  Respawning Waltuh (STEAM_1:0:207971231) as Помощник
+[03/09/2023 15:48:46]
+  Waltuh set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 15:48:48]
+  Waltuh picked up Одноразовый водолазный скафандр
+[03/09/2023 15:48:54]
+  Outer wall breached by Crawler
+[03/09/2023 15:48:54]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/09/2023 15:48:55]
+  Inner wall repaired by Faxemelian
+[03/09/2023 15:48:55]
+  Waltuh picked up Кислородный баллон
+[03/09/2023 15:48:55]
+  Waltuh picked up Кислородный баллон
+[03/09/2023 15:48:55]
+  Waltuh picked up Кислородный баллон
+[03/09/2023 15:48:55]
+  Waltuh picked up Подводная маска
+[03/09/2023 15:48:56]
+  Crawler attacked by kynlan4ic. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[03/09/2023 15:48:56]
+  Waltuh picked up Плазменный резак
+[03/09/2023 15:48:56]
+  Waltuh picked up Подводный скутер
+[03/09/2023 15:48:56]
+  Waltuh picked up Лом
+[03/09/2023 15:48:57]
+  Waltuh picked up Ручной сонар
+[03/09/2023 15:49:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:03]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[03/09/2023 15:49:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:03]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:04]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:04]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:05]
+  Outer wall breached by Crawlerbroodmother
+[03/09/2023 15:49:17]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:49:18]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[03/09/2023 15:49:18]
+  kynlan4ic picked up Боеприпасы для цепной пушки
+[03/09/2023 15:49:19]
+  kynlan4ic removed Боеприпасы для цепной пушки from Зарядник для цепной пушки (ID: 619)
+[03/09/2023 15:49:19]
+  kynlan4ic placed Боеприпасы для цепной пушки in Зарядник для цепной пушки (ID: 619)
+[03/09/2023 15:49:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:24]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:25]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:26]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/09/2023 15:49:27]
+  The respawn shuttle is leaving.
+[03/09/2023 15:49:27]
+  Waltuh equipped Подводный скутер
+[03/09/2023 15:49:29]
+  Faxemelian started repairing Настраиваемый люк
+[03/09/2023 15:49:43]
+  Faxemelian started repairing Настраиваемый люк
+[03/09/2023 15:49:43]
+  Outer wall breached by Crawlerbroodmother
+[03/09/2023 15:49:47]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:49:51]
+  kynlan4ic equipped Отвертка
+[03/09/2023 15:49:52]
+  kynlan4ic started repairing Суперконденсатор
+[03/09/2023 15:49:55]
+  Waltuh equipped Отвертка
+[03/09/2023 15:49:55]
+  Waltuh equipped Гаечный ключ
+[03/09/2023 15:49:57]
+  Waltuh started repairing Батарея
+[03/09/2023 15:49:58]
+  The respawn shuttle has left.
+[03/09/2023 15:50:02]
+  kynlan4ic failed to repair Суперконденсатор
+[03/09/2023 15:50:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:16]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:16]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:16]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:17]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:17]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:20]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:21]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 15:50:21]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[03/09/2023 15:50:25]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:25]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Полка с боеприпасами (ID: 1318)
+[03/09/2023 15:50:25]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Полка с боеприпасами (ID: 1318)
+[03/09/2023 15:50:25]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/09/2023 15:50:25]
+  kynlan4ic picked up Ящик с боеприпасами для магнитной пушки
+[03/09/2023 15:50:27]
+  kynlan4ic removed Ящик с боеприпасами для магнитной пушки from Зарядник магнитной пушки (ID: 1500)
+[03/09/2023 15:50:27]
+  Waltuh started repairing Ядерный реактор
+[03/09/2023 15:50:27]
+  kynlan4ic placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 1500)
+[03/09/2023 15:50:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:29]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:31]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:35]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:38]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:40]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:40]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:41]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:41]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:41]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:41]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:42]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:42]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:42]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:42]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:43]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:43]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:43]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:43]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:43]
+  Waltuh started repairing Большой двигатель
+[03/09/2023 15:50:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:43]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:44]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:44]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:44]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:46]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:47]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:47]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:48]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:48]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:48]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:48]
+  Dispatching the respawn shuttle.
+[03/09/2023 15:50:48]
+  Respawning Drago (STEAM_1:1:71524234) as Офицер службы безопасности
+[03/09/2023 15:50:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:49]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:49]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:49]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:50]
+  Drago set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 15:50:50]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:50]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:50]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:50]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:51]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:51]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:51]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:51]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:52]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:53]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:53]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:54]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:55]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:55]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:55]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:55]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:56]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:56]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:56]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:57]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:57]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:57]
+  Crawlerbroodmother has died (Cause of death: Рваная рана)
+[03/09/2023 15:50:57]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:58]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:58]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:58]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:58]
+  Outer wall repaired by Faxemelian
+[03/09/2023 15:50:58]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:59]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/09/2023 15:50:59]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:50:59]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[03/09/2023 15:51:06]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:51:09]
+  Faxemelian started repairing Кабельная коробка
+[03/09/2023 15:51:11]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/09/2023 15:51:11]
+  kynlan4ic dropped Водолазный скафандр
+[03/09/2023 15:51:16]
+  Drago picked up Одноразовый водолазный скафандр
+[03/09/2023 15:51:19]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:51:20]
+  Faxemelian started repairing Кабельная коробка
+[03/09/2023 15:51:20]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 15:51:22]
+  Faxemelian started repairing Кабельная коробка
+[03/09/2023 15:51:26]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 15:51:28]
+  The respawn shuttle is leaving.
+[03/09/2023 15:51:32]
+  kynlan4ic picked up Топливный стержень
+[03/09/2023 15:51:32]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:51:34]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 626)
+[03/09/2023 15:51:41]
+  Inner wall repaired by Faxemelian
+[03/09/2023 15:51:47]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:51:53]
+  kynlan4ic picked up Сварочный аппарат
+[03/09/2023 15:51:57]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:51:59]
+  The respawn shuttle has left.
+[03/09/2023 15:52:01]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 15:52:02]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:52:09]
+  kynlan4ic equipped Сварочный аппарат
+[03/09/2023 15:52:13]
+  Faxemelian placed Кислородный баллон in Генератор кислорода (ID: 1431)
+[03/09/2023 15:52:18]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:52:18]
+  Faxemelian started repairing Батарея
+[03/09/2023 15:52:32]
+  Faxemelian started repairing Батарея
+[03/09/2023 15:52:34]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/09/2023 15:52:34]
+  Waltuh failed to repair Ядерный реактор
+[03/09/2023 15:52:35]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/09/2023 15:52:36]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[03/09/2023 15:52:36]
+  kynlan4ic dropped Топливный бак сварочного аппарата
+[03/09/2023 15:52:36]
+  kynlan4ic placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 1717)
+[03/09/2023 15:52:37]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 15:52:40]
+  Waltuh failed to repair Ядерный реактор
+[03/09/2023 15:52:48]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:52:49]
+  Drago equipped Металлический ящик
+[03/09/2023 15:52:51]
+  Drago dropped Металлический ящик
+[03/09/2023 15:52:52]
+  Drago picked up Водолазный скафандр
+[03/09/2023 15:52:52]
+  Drago dropped Одноразовый водолазный скафандр
+[03/09/2023 15:52:56]
+  Drago placed Кислородный баллон in Металлический ящик (ID: 1649)
+[03/09/2023 15:52:56]
+  Drago removed Кислородный баллон from Металлический ящик (ID: 1649)
+[03/09/2023 15:52:56]
+  Drago placed Кислородный баллон in Водолазный скафандр (ID: 455)
+[03/09/2023 15:52:57]
+  Outer wall repaired by kynlan4ic
+[03/09/2023 15:52:57]
+  Waltuh adjusted reactor settings: Temperature: 5002, Fission rate: 47, Turbine output: 45, Autotemp ON
+[03/09/2023 15:52:58]
+  Drago picked up Кислородный баллон
+[03/09/2023 15:52:58]
+  Drago picked up Кислородный баллон
+[03/09/2023 15:52:58]
+  Drago picked up Кислородный баллон
+[03/09/2023 15:53:00]
+  Drago dropped Металлический ящик
+[03/09/2023 15:53:05]
+  Waltuh started repairing Малый насос
+[03/09/2023 15:53:14]
+  Waltuh started repairing Малый насос
+[03/09/2023 15:53:17]
+  Drago equipped Контейнер для хранения
+[03/09/2023 15:53:17]
+  Drago picked up Контейнер для хранения
+[03/09/2023 15:53:19]
+  Drago picked up Органическое волокно
+[03/09/2023 15:53:19]
+  Drago picked up Органическое волокно
+[03/09/2023 15:53:19]
+  Drago picked up Органическое волокно
+[03/09/2023 15:53:19]
+  Drago picked up Органическое волокно
+[03/09/2023 15:53:21]
+  Drago placed Контейнер для хранения in Большой стальной шкаф (ID: 638)
+[03/09/2023 15:53:24]
+  Waltuh failed to repair Кабельная коробка
+[03/09/2023 15:53:24]
+  Faxemelian placed Кислородный баллон in Плазменный резак (ID: 5292)
+[03/09/2023 15:53:24]
+  Faxemelian removed Кислородный баллон from Плазменный резак (ID: 5292)
+[03/09/2023 15:53:24]
+  Faxemelian placed Кислородный баллон in Водолазный скафандр (ID: 63)
+[03/09/2023 15:53:24]
+  Drago picked up Органическое волокно
+[03/09/2023 15:53:24]
+  Drago picked up Органическое волокно
+[03/09/2023 15:53:29]
+  Waltuh started repairing Кабельная коробка
+[03/09/2023 15:53:32]
+  Faxemelian placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 1226)
+[03/09/2023 15:53:32]
+  Faxemelian removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 1226)
+[03/09/2023 15:53:32]
+  Faxemelian placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 5290)
+[03/09/2023 15:53:33]
+  Drago picked up Топливный бак сварочного аппарата
+[03/09/2023 15:53:42]
+  Waltuh failed to repair Батарея
+[03/09/2023 15:53:44]
+  Waltuh started repairing Батарея
+[03/09/2023 15:53:45]
+  Drago equipped Нож ныряльщика
+[03/09/2023 15:53:46]
+  Drago equipped Шоковая дубинка
+[03/09/2023 15:53:56]
+  Drago picked up Отвертка
+[03/09/2023 15:53:58]
+  Drago picked up Гаечный ключ
+[03/09/2023 15:53:58]
+  Waltuh started repairing Батарея

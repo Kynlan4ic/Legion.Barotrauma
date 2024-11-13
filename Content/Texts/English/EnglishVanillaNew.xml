@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+  
+<!-- When adding new text, do it so at the bottom under the 'New values' & 'Modified values' sections. If it's a new tag entirely, put it under the new additions one; If it's an update to an existing value, put it under the changed values one. -->
+<!-- DO NOT EDIT EXISTING TAGS FOR ALREADY TRANSLATED LINES -> if you need a new tag for something, add it under the 'New values' header and comment if there's some other tag that should be replaced -->
+
+<!-- Modified values after January 11 (These are missing from the latest localization pass) -->
+  
+<entitydescription.morbusine>A highly potent neurotoxin, which causes an eventual shutdown of lungs and muscles, greatly hindering movement.</entitydescription.morbusine>
+<entitydescription.cyanide>A highly toxic chemical, which causes a rapid death once a sufficiently large dose has been administered.</entitydescription.cyanide>
+<entitydescription.radiotoxin>A highly radioactive substance, which causes radiation sickness and eventual liquification of inner organs.</entitydescription.radiotoxin>
+<entitydescription.sufforin>A stealthy neurotoxin, undetectable in early stages. Causes a loss of vision and in the end, death.</entitydescription.sufforin>
+
+</infotexts>

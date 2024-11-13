@@ -1,0 +1,1601 @@
+﻿[02/26/2023 19:48:21]
+  Joe Donovan: Здесь самая лучшая еда в торговых автоматах. Пирожки с протеином водорослей такие вкусные!
+[02/26/2023 19:48:26]
+  Cara Santillan: На вкус они как грязь, как и любые другие пирожки с протеином водорослей, из любых других торговых автоматов.
+[02/26/2023 19:48:31]
+  Joe Donovan: Вы понятия не имеете о действительно вкусной пище.
+[02/26/2023 19:49:25]
+  Client "kynlan4ic" ended the round.
+[02/26/2023 19:49:25]
+  Ending the round...
+[02/26/2023 19:49:25]
+  Round ended.
+[02/26/2023 19:49:35]
+  Starting a new round...
+[02/26/2023 19:49:50]
+  Game mode: Кампания
+[02/26/2023 19:49:50]
+  Submarine: Orca
+[02/26/2023 19:49:50]
+  Level seed: Thrudur
+[02/26/2023 19:49:50]
+  Roselle Beltran equipped Гаечный ключ
+[02/26/2023 19:49:50]
+  Roselle Beltran unequipped Гаечный ключ
+[02/26/2023 19:49:50]
+  Roselle Beltran equipped Отвертка
+[02/26/2023 19:49:50]
+  Marco Stein equipped Гаечный ключ
+[02/26/2023 19:49:51]
+  Marco Stein unequipped Гаечный ключ
+[02/26/2023 19:49:51]
+  Marco Stein equipped Отвертка
+[02/26/2023 19:49:51]
+  Antony Celina Ryder equipped Гаечный ключ
+[02/26/2023 19:49:51]
+  Antony Celina Ryder unequipped Гаечный ключ
+[02/26/2023 19:49:51]
+  Antony Celina Ryder equipped Отвертка
+[02/26/2023 19:49:51]
+  Barry Roman equipped Гаечный ключ
+[02/26/2023 19:49:51]
+  Barry Roman unequipped Гаечный ключ
+[02/26/2023 19:49:51]
+  Barry Roman equipped Отвертка
+[02/26/2023 19:49:51]
+  Barry Roman unequipped Отвертка
+[02/26/2023 19:49:51]
+  Barry Roman equipped Лом
+[02/26/2023 19:49:52]
+  John Cuevas equipped Гаечный ключ
+[02/26/2023 19:49:52]
+  John Cuevas unequipped Гаечный ключ
+[02/26/2023 19:49:52]
+  John Cuevas equipped Отвертка
+[02/26/2023 19:49:52]
+  Bennie Castro equipped ЭМ-граната
+[02/26/2023 19:49:52]
+  Claire Suarez equipped ЭМ-граната
+[02/26/2023 19:49:52]
+  Delbert Graves equipped Осколочная граната
+[02/26/2023 19:49:52]
+  Round started.
+[02/26/2023 19:49:52]
+  Roselle Beltran unequipped Отвертка
+[02/26/2023 19:49:52]
+  Barry Roman unequipped Лом
+[02/26/2023 19:49:52]
+  Carlton Craig: Sara Lyons получает первую помощь здесь: верхняя задняя часть!
+[02/26/2023 19:49:53]
+  Jude Sawyer: Я с вас глаз не спущу.
+[02/26/2023 19:50:00]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 19:50:13]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 19:50:14]
+  Carlton Craig: Мне жаль, vlad32, это все, что я могу сделать!
+[02/26/2023 19:50:15]
+  Carlton Craig: Sara Lyons чувствует себя хорошо!
+[02/26/2023 19:50:15]
+  Carlton Craig: vlad32 получает первую помощь здесь: верхняя задняя часть!
+[02/26/2023 19:50:17]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 19:50:37]
+  Son Pickett: Жизнь на станции скучная, но мне это больше по душе, чем ходить на подлодке.
+[02/26/2023 19:52:30]
+  John Cuevas unequipped Отвертка
+[02/26/2023 19:53:40]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 19:53:42]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 90)
+[02/26/2023 19:53:45]
+  kynlan4ic equipped Водолазный скафандр бездны
+[02/26/2023 19:53:46]
+  kynlan4ic dropped Водолазный скафандр бездны
+[02/26/2023 19:53:48]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 19:53:49]
+  kynlan4ic dropped Боевой водолазный скафандр
+[02/26/2023 19:53:50]
+  kynlan4ic equipped Водолазный скафандр
+[02/26/2023 19:54:08]
+  kynlan4ic picked up Пластик
+[02/26/2023 19:54:08]
+  kynlan4ic picked up Пластик
+[02/26/2023 19:54:08]
+  kynlan4ic picked up Пластик
+[02/26/2023 19:54:08]
+  kynlan4ic picked up Пластик
+[02/26/2023 19:54:10]
+  kynlan4ic placed Водолазный скафандр in Фабрикатор (ID: 218)
+[02/26/2023 19:54:15]
+  kynlan4ic picked up Противоударное волокно
+[02/26/2023 19:54:16]
+  kynlan4ic picked up Слиток из титана и алюминия
+[02/26/2023 19:54:17]
+  kynlan4ic picked up Резина
+[02/26/2023 19:54:21]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 1254)
+[02/26/2023 19:54:21]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 1254)
+[02/26/2023 19:54:21]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 1254)
+[02/26/2023 19:54:21]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 1254)
+[02/26/2023 19:54:23]
+  kynlan4ic placed Противоударное волокно in Фабрикатор (ID: 218)
+[02/26/2023 19:54:24]
+  kynlan4ic placed Слиток из титана и алюминия in Фабрикатор (ID: 218)
+[02/26/2023 19:54:25]
+  kynlan4ic placed Резина in Фабрикатор (ID: 218)
+[02/26/2023 19:54:28]
+  kynlan4ic started fabricating Боевой водолазный скафандр in Фабрикатор
+[02/26/2023 19:54:35]
+  kynlan4ic equipped Водолазный скафандр бездны
+[02/26/2023 19:54:43]
+  kynlan4ic dropped Водолазный скафандр бездны
+[02/26/2023 19:54:44]
+  kynlan4ic equipped Водолазный скафандр бездны
+[02/26/2023 19:54:46]
+  kynlan4ic dropped Водолазный скафандр бездны
+[02/26/2023 19:54:46]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 19:54:48]
+  kynlan4ic dropped Боевой водолазный скафандр
+[02/26/2023 19:54:53]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 19:54:54]
+  kynlan4ic dropped Боевой водолазный скафандр
+[02/26/2023 19:54:56]
+  kynlan4ic equipped Водолазный скафандр
+[02/26/2023 19:54:57]
+  kynlan4ic dropped Водолазный скафандр
+[02/26/2023 19:56:50]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 19:57:29]
+  igameCrog equipped Контейнер для хранения
+[02/26/2023 19:57:29]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 19:57:30]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 243)
+[02/26/2023 19:57:32]
+  igameCrog equipped Медконтейнер
+[02/26/2023 19:57:34]
+  igameCrog dropped Медконтейнер
+[02/26/2023 19:57:37]
+  igameCrog equipped Металлический ящик
+[02/26/2023 19:57:38]
+  igameCrog dropped Металлический ящик
+[02/26/2023 19:57:44]
+  igameCrog equipped Медконтейнер
+[02/26/2023 19:57:46]
+  igameCrog dropped Медконтейнер
+[02/26/2023 19:57:47]
+  igameCrog equipped Медконтейнер
+[02/26/2023 19:57:49]
+  igameCrog dropped Медконтейнер
+[02/26/2023 19:57:50]
+  igameCrog equipped Медконтейнер
+[02/26/2023 19:57:52]
+  igameCrog placed Медконтейнер in Медицинский фабрикатор (ID: 241)
+[02/26/2023 19:57:53]
+  igameCrog equipped Медконтейнер
+[02/26/2023 19:57:56]
+  igameCrog dropped Медконтейнер
+[02/26/2023 19:58:02]
+  igameCrog dropped Медконтейнер
+[02/26/2023 19:58:04]
+  igameCrog removed Медконтейнер from Медицинский фабрикатор (ID: 241)
+[02/26/2023 19:58:23]
+  kynlan4ic picked up Боевой водолазный скафандр
+[02/26/2023 19:58:25]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 19:58:28]
+  igameCrog picked up Инопланетная безделушка
+[02/26/2023 19:58:28]
+  kynlan4ic placed Кислородный баллон in Боевой водолазный скафандр (ID: 4917)
+[02/26/2023 19:58:30]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 19:58:35]
+  igameCrog picked up Контейнер для перевозки артефактов
+[02/26/2023 19:58:40]
+  igameCrog placed Контейнер для перевозки артефактов in Хозяйственный шкаф (ID: 234)
+[02/26/2023 19:58:41]
+  kynlan4ic dropped Боевой водолазный скафандр
+[02/26/2023 19:58:45]
+  igameCrog placed Инопланетная безделушка in Хозяйственный шкаф (ID: 234)
+[02/26/2023 19:58:53]
+  igameCrog picked up Инопланетная безделушка
+[02/26/2023 19:59:01]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 19:59:10]
+  igameCrog picked up Яйцо ползуна
+[02/26/2023 19:59:12]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 219)
+[02/26/2023 19:59:12]
+  igameCrog picked up Яйцо ползуна
+[02/26/2023 19:59:12]
+  kynlan4ic activated Деконструктор
+[02/26/2023 19:59:13]
+  igameCrog placed Инопланетная безделушка in Хозяйственный шкаф (ID: 315)
+[02/26/2023 19:59:29]
+  igameCrog placed Яйцо ползуна in Средний стальной шкаф (ID: 252)
+[02/26/2023 19:59:31]
+  igameCrog placed Яйцо ползуна in Средний стальной шкаф (ID: 252)
+[02/26/2023 19:59:46]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 19:59:48]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 243)
+[02/26/2023 20:00:01]
+  kynlan4ic picked up Противоударное волокно
+[02/26/2023 20:00:03]
+  kynlan4ic picked up Слиток из титана и алюминия
+[02/26/2023 20:00:04]
+  kynlan4ic picked up Резина
+[02/26/2023 20:00:06]
+  kynlan4ic placed Водолазный скафандр in Фабрикатор (ID: 218)
+[02/26/2023 20:00:07]
+  kynlan4ic picked up Водолазный скафандр
+[02/26/2023 20:00:10]
+  kynlan4ic placed Водолазный скафандр in Фабрикатор (ID: 218)
+[02/26/2023 20:00:11]
+  kynlan4ic picked up Водолазный скафандр
+[02/26/2023 20:00:14]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 20:00:16]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:00:17]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 2878)
+[02/26/2023 20:00:20]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 20:00:21]
+  kynlan4ic placed Водолазный скафандр in Фабрикатор (ID: 218)
+[02/26/2023 20:00:22]
+  kynlan4ic placed Противоударное волокно in Фабрикатор (ID: 218)
+[02/26/2023 20:00:23]
+  kynlan4ic placed Слиток из титана и алюминия in Фабрикатор (ID: 218)
+[02/26/2023 20:00:23]
+  kynlan4ic placed Резина in Фабрикатор (ID: 218)
+[02/26/2023 20:00:24]
+  kynlan4ic started fabricating Боевой водолазный скафандр in Фабрикатор
+[02/26/2023 20:00:49]
+  igameCrog equipped Металлический ящик
+[02/26/2023 20:00:50]
+  igameCrog dropped Металлический ящик
+[02/26/2023 20:00:55]
+  igameCrog equipped Металлический ящик
+[02/26/2023 20:00:56]
+  igameCrog dropped Металлический ящик
+[02/26/2023 20:00:59]
+  igameCrog dropped Медконтейнер
+[02/26/2023 20:01:24]
+  Antony Celina Ryder unequipped Отвертка
+[02/26/2023 20:02:32]
+  igameCrog purchased 1 item(s) for 237 кр.
+ - Текстовый экран x1
+[02/26/2023 20:03:57]
+  Antony Celina Ryder: Скоро парад восхождения Юпитера!
+[02/26/2023 20:04:00]
+  Barry Roman: Говорят, на этот раз все будет отлично организовано. Уже не терпится попробовать вкусной жареной акульей тигрятинки!
+[02/26/2023 20:04:14]
+  kynlan4ic picked up Боевой водолазный скафандр
+[02/26/2023 20:04:15]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 20:04:20]
+  kynlan4ic placed Боевой водолазный скафандр in Фабрикатор (ID: 218)
+[02/26/2023 20:04:20]
+  igameCrog picked up Лейка
+[02/26/2023 20:04:22]
+  igameCrog equipped Лейка
+[02/26/2023 20:04:24]
+  kynlan4ic picked up Слиток из титана и алюминия
+[02/26/2023 20:04:25]
+  kynlan4ic picked up Резина
+[02/26/2023 20:04:26]
+  kynlan4ic picked up Резина
+[02/26/2023 20:04:29]
+  kynlan4ic placed Слиток из титана и алюминия in Фабрикатор (ID: 218)
+[02/26/2023 20:04:30]
+  kynlan4ic placed Резина in Фабрикатор (ID: 218)
+[02/26/2023 20:04:30]
+  kynlan4ic placed Резина in Фабрикатор (ID: 218)
+[02/26/2023 20:04:30]
+  igameCrog placed Лейка in Средний стальной шкаф (ID: 252)
+[02/26/2023 20:05:07]
+  igameCrog picked up Резина
+[02/26/2023 20:05:07]
+  igameCrog picked up Резина
+[02/26/2023 20:05:08]
+  igameCrog placed Резина in Фабрикатор (ID: 218)
+[02/26/2023 20:05:08]
+  igameCrog placed Резина in Фабрикатор (ID: 218)
+[02/26/2023 20:05:20]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:06:13]
+  kynlan4ic picked up Подводная маска
+[02/26/2023 20:06:17]
+  kynlan4ic placed Подводная маска in Хозяйственный шкаф (ID: 300)
+[02/26/2023 20:07:32]
+  Marco Stein unequipped Отвертка
+[02/26/2023 20:08:25]
+  Client "kynlan4ic" ended the round.
+[02/26/2023 20:08:26]
+  Ending the round...
+[02/26/2023 20:08:26]
+  Round ended.
+[02/26/2023 20:08:29]
+  Starting a new round...
+[02/26/2023 20:08:44]
+  Миссия: Добыча минералов (Торианит)
+[02/26/2023 20:08:47]
+  Говорят, где-то между точками Исследовательская станция Thrudur и Добывающий центр Astypalaea Linea есть Торианит, целые залежи. Привезите оттуда ресурс (Торианит), 6 - этого будет достаточно. Ваша доля - 33%.
+[02/26/2023 20:08:47]
+  Миссия: Добыча артефакта
+[02/26/2023 20:08:47]
+  Исследовательская станция Thrudur: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.
+[02/26/2023 20:08:47]
+  Миссия: Разбор обломков
+[02/26/2023 20:08:47]
+  В точке "Исследовательская станция Thrudur" только что был получен сигнал бедствия с судна, которое считалось пропавшим вместе с находившимися на его борту особо секретными зашифрованными данными. Ваше приоритетное задание - найти журнал капитана и вернуть его.
+[02/26/2023 20:08:47]
+  Game mode: Кампания
+[02/26/2023 20:08:47]
+  Submarine: Orca
+[02/26/2023 20:08:47]
+  Level seed: ThrudurAstypalaea Linea
+[02/26/2023 20:08:47]
+  Mission: Добыча минералов ([resourcename1])
+[02/26/2023 20:08:47]
+  Mission: Добыча артефакта
+[02/26/2023 20:08:47]
+  Mission: Разбор обломков
+[02/26/2023 20:08:47]
+  Manuel Tootle equipped Электрошокер
+[02/26/2023 20:08:47]
+  Maybell Dimauro equipped Сварочный аппарат
+[02/26/2023 20:08:47]
+  Virgilio Mosley equipped Меткий карабин
+[02/26/2023 20:08:47]
+  Warner Kramer equipped Сварочный аппарат
+[02/26/2023 20:08:47]
+  Bennie Castro equipped ЭМ-граната
+[02/26/2023 20:08:47]
+  Claire Suarez equipped ЭМ-граната
+[02/26/2023 20:08:47]
+  Delbert Graves equipped Осколочная граната
+[02/26/2023 20:08:47]
+  Round started.
+[02/26/2023 20:08:47]
+  Fractalguardian2 equipped Паровая пушка стража
+[02/26/2023 20:08:47]
+  Fractalguardian equipped Гарпун стража
+[02/26/2023 20:08:54]
+  Neal Bradley equipped ЭМ-граната
+[02/26/2023 20:09:08]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 20:09:12]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/26/2023 20:09:13]
+  Console command "godmode" executed by kynlan4ic.
+[02/26/2023 20:09:18]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 20:09:20]
+  kynlan4ic picked up Гарпун
+[02/26/2023 20:09:21]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 20:09:25]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 20:09:26]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 20:09:31]
+  kynlan4ic placed Металлический ящик in Медицинский фабрикатор (ID: 241)
+[02/26/2023 20:09:32]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 20:09:41]
+  Rowena Colpitts: Здесь ужасно тихо.
+[02/26/2023 20:10:08]
+  Neal Bradley equipped Электрошокер
+[02/26/2023 20:10:12]
+  vlad32 placed Ружейный патрон in Ружье (ID: 8090)
+[02/26/2023 20:10:12]
+  vlad32 equipped Ружье
+[02/26/2023 20:10:41]
+  Sara Lyons equipped Табачный бутон
+[02/26/2023 20:10:55]
+  Claire Suarez: Стреляю!
+[02/26/2023 20:10:55]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:10:56]
+  Delbert Graves: Стреляю!
+[02/26/2023 20:10:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:10:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:10:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:10:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:10:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:00]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/26/2023 20:11:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:00]
+  Delbert Graves: Враг уничтожен!
+[02/26/2023 20:11:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:06]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:06]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:06]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:06]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:07]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:07]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:07]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:08]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:08]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:08]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:08]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:09]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:09]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:09]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:09]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:10]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:10]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[02/26/2023 20:11:10]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:10]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:11]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:11]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:12]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:12]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[02/26/2023 20:11:12]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 12.0 Кровотечение: 3.0
+[02/26/2023 20:11:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:14]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[02/26/2023 20:11:14]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[02/26/2023 20:11:15]
+  Carlton Craig equipped Табачный бутон
+[02/26/2023 20:11:16]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:17]
+  Bennie Castro: Цель зафиксирована: Грязевой раптор!
+[02/26/2023 20:11:17]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:18]
+  Bennie Castro: Стреляю!
+[02/26/2023 20:11:18]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:19]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:11:19]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:19]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:11:19]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:11:19]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:11:19]
+  Mudraptor has died (Cause of death: Рваная рана)
+[02/26/2023 20:11:19]
+  Bennie Castro: И-и-и-и... Готово!
+[02/26/2023 20:11:19]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[02/26/2023 20:11:19]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[02/26/2023 20:11:19]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 12.0 Кровотечение: 3.0
+[02/26/2023 20:11:19]
+  Claire Suarez: И-и-и-и... Готово!
+[02/26/2023 20:11:21]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[02/26/2023 20:11:37]
+  Claire Suarez: Стреляю!
+[02/26/2023 20:11:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:38]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:38]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:38]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:38]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:39]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:39]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:39]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:40]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:40]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:40]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:40]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:42]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:42]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:42]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:43]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:43]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:43]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:44]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:47]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:47]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:48]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:52]
+  Claire Suarez: У меня новая цель! Не могу понять, что это такое...
+[02/26/2023 20:11:52]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:52]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:53]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:53]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:53]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:54]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:54]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:54]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:54]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:55]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:59]
+  Crawler has died (Cause of death: Рваная рана)
+[02/26/2023 20:11:59]
+  Claire Suarez: И-и-и-и... Готово!
+[02/26/2023 20:11:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:11:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:00]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:01]
+  Delbert Graves: Огонь!
+[02/26/2023 20:12:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:04]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:05]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:05]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:05]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:05]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:06]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:06]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:09]
+  Claire Suarez: Стреляю!
+[02/26/2023 20:12:09]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:10]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:10]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:10]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:10]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:11]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:11]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:11]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:11]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:12]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:13]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:16]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:16]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:16]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:17]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:17]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:17]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:17]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:19]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:20]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:20]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:20]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:20]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:20]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:21]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:21]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:22]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:25]
+  kynlan4ic picked up Боевой водолазный скафандр
+[02/26/2023 20:12:28]
+  kynlan4ic picked up Плазменный резак
+[02/26/2023 20:12:34]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:34]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:35]
+  Delbert Graves: Огонь!
+[02/26/2023 20:12:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:35]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:35]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:35]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:36]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:36]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:36]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:36]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:37]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:37]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:45]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 20:12:46]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 20:12:47]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 20:12:49]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 7968)
+[02/26/2023 20:12:49]
+  kynlan4ic removed Кислородный баллон from Пояс инструментов (ID: 7968)
+[02/26/2023 20:12:49]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:12:51]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:12:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 20:12:52]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[02/26/2023 20:12:52]
+  Claire Suarez: И-и-и-и... Готово!
+[02/26/2023 20:12:52]
+  Delbert Graves: Кажется, есть попадание!
+[02/26/2023 20:12:54]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:12:54]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:12:54]
+  Outer wall breached by vlad32
+[02/26/2023 20:12:55]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:12:55]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:12:55]
+  vlad32 launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:12:56]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:12:56]
+  Claire Suarez: Стреляю!
+[02/26/2023 20:12:56]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:56]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:56]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:57]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 7968)
+[02/26/2023 20:12:57]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 7968)
+[02/26/2023 20:12:57]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 7968)
+[02/26/2023 20:12:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:12:59]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:13:00]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:13:00]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:13:00]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:13:00]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:13:01]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/26/2023 20:13:15]
+  vlad32 picked up Боевой водолазный скафандр
+[02/26/2023 20:13:16]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/26/2023 20:13:17]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/26/2023 20:13:17]
+  kynlan4ic opened Настраиваемый люк
+[02/26/2023 20:13:20]
+  vlad32 opened Настраиваемая дверь с окном
+[02/26/2023 20:13:21]
+  vlad32 opened Настраиваемая дверь с окном
+[02/26/2023 20:13:23]
+  vlad32 closed Настраиваемая дверь с окном
+[02/26/2023 20:13:24]
+  Bennie Castro: Неизвестная цель обнаружена!
+[02/26/2023 20:13:24]
+  vlad32 opened Настраиваемый люк
+[02/26/2023 20:13:24]
+  vlad32 equipped Подводный скутер
+[02/26/2023 20:13:28]
+  vlad32 closed Настраиваемый люк
+[02/26/2023 20:13:29]
+  Bennie Castro: Огонь!
+[02/26/2023 20:13:46]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:47]
+  kynlan4ic picked up Морфин
+[02/26/2023 20:13:47]
+  kynlan4ic picked up Бинт
+[02/26/2023 20:13:48]
+  kynlan4ic picked up Анапарализатор
+[02/26/2023 20:13:48]
+  vlad32 grabbed Walker Graves's body and received 25 mk.
+[02/26/2023 20:13:52]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  vlad32 placed Топливный стержень in Human
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 20:13:54]
+  Husk has died (Cause of death: Рваная рана)
+[02/26/2023 20:13:54]
+  Bennie Castro: Враг уничтожен!
+[02/26/2023 20:13:54]
+  Claire Suarez: Кажется, есть попадание!
+[02/26/2023 20:14:09]
+  kynlan4ic placed Плавательный пузырь in Пояс инструментов (ID: 7968)
+[02/26/2023 20:14:11]
+  vlad32 removed Защитный комплект from Human
+[02/26/2023 20:14:11]
+  vlad32 removed Наушники from Human
+[02/26/2023 20:14:12]
+  vlad32 removed Удостоверение с места кораблекрушения from Human
+[02/26/2023 20:14:12]
+  kynlan4ic opened Настраиваемый люк
+[02/26/2023 20:14:13]
+  vlad32 removed Пояс инструментов from Human
+[02/26/2023 20:14:13]
+  kynlan4ic closed Настраиваемый люк
+[02/26/2023 20:14:15]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/26/2023 20:14:20]
+  kynlan4ic placed Морфин in Аптечка (ID: 242)
+[02/26/2023 20:14:21]
+  kynlan4ic placed Бинт in Аптечка (ID: 242)
+[02/26/2023 20:14:21]
+  kynlan4ic placed Анапарализатор in Аптечка (ID: 242)
+[02/26/2023 20:14:23]
+  kynlan4ic placed Плавательный пузырь in Шкаф для хранения токсинов (ID: 243)
+[02/26/2023 20:14:29]
+  kynlan4ic equipped Контейнер для хранения
+[02/26/2023 20:14:29]
+  kynlan4ic picked up Контейнер для хранения
+[02/26/2023 20:14:36]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/26/2023 20:14:36]
+  kynlan4ic opened Настраиваемый люк
+[02/26/2023 20:14:40]
+  vlad32 equipped Нож ныряльщика
+[02/26/2023 20:14:56]
+  vlad32 picked up Лом
+[02/26/2023 20:14:56]
+  kynlan4ic dropped Контейнер для хранения
+[02/26/2023 20:14:58]
+  vlad32 equipped Лом
+[02/26/2023 20:14:58]
+  kynlan4ic equipped Подводное ружье
+[02/26/2023 20:15:02]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:15:03]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:15:03]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:15:03]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:15:06]
+  Neal Bradley started repairing Кабельная коробка
+[02/26/2023 20:15:08]
+  Dominick Mansfield started repairing Кабельная коробка
+[02/26/2023 20:15:09]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:15:09]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:15:09]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:15:10]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:15:15]
+  vlad32 placed Лом in Пояс инструментов (ID: 8082)
+[02/26/2023 20:15:24]
+  vlad32 removed Снаряд рельсотрона from Зарядник рельсотрона (обломки) (ID: 7153)
+[02/26/2023 20:15:25]
+  vlad32 removed Снаряд рельсотрона from Зарядник рельсотрона (обломки) (ID: 7153)
+[02/26/2023 20:15:26]
+  vlad32 removed Снаряд рельсотрона from Зарядник рельсотрона (обломки) (ID: 7153)
+[02/26/2023 20:15:28]
+  vlad32 picked up Лом
+[02/26/2023 20:15:30]
+  kynlan4ic unequipped Подводное ружье
+[02/26/2023 20:15:38]
+  kynlan4ic dropped Контейнер для хранения
+[02/26/2023 20:15:40]
+  kynlan4ic equipped Подводное ружье
+[02/26/2023 20:15:44]
+  vlad32 placed Лом in Пояс инструментов (ID: 8082)
+[02/26/2023 20:15:46]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[02/26/2023 20:15:48]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[02/26/2023 20:15:49]
+  Crawlerhusk attacked by vlad32. Огнестрельная рана: 33.0 Кровотечение: 33.0 Оглушение: 0.4
+[02/26/2023 20:15:50]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/26/2023 20:15:50]
+  Crawlerhusk attacked by kynlan4ic. Рваная рана: 35.0 Кровотечение: 35.0 Оглушение: 0.3
+[02/26/2023 20:15:51]
+  kynlan4ic picked up Гарпун
+[02/26/2023 20:15:51]
+  kynlan4ic picked up Гарпун
+[02/26/2023 20:15:52]
+  kynlan4ic picked up Гарпун
+[02/26/2023 20:15:52]
+  Bennie Castro: У меня новая цель!
+[02/26/2023 20:15:53]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 7992)
+[02/26/2023 20:15:53]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 7992)
+[02/26/2023 20:15:53]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 7992)
+[02/26/2023 20:15:53]
+  vlad32 grabbed Virgilio Mosley's body and received 13 mk.
+[02/26/2023 20:15:55]
+  kynlan4ic unequipped Подводное ружье
+[02/26/2023 20:15:58]
+  kynlan4ic unequipped Меткий карабин
+[02/26/2023 20:16:06]
+  vlad32 picked up Униформа охранника аванпоста
+[02/26/2023 20:16:09]
+  vlad32 placed Униформа охранника аванпоста in Human
+[02/26/2023 20:16:28]
+  kynlan4ic closed Настраиваемый люк
+[02/26/2023 20:16:29]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/26/2023 20:16:30]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/26/2023 20:16:33]
+  vlad32 picked up Лом
+[02/26/2023 20:16:44]
+  kynlan4ic placed Гаечный ключ in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:16:46]
+  kynlan4ic picked up Гаечный ключ
+[02/26/2023 20:16:47]
+  kynlan4ic placed Меткий карабин in Хозяйственный шкаф (ID: 811)
+[02/26/2023 20:16:48]
+  kynlan4ic dropped Гаечный ключ
+[02/26/2023 20:16:49]
+  vlad32 placed Лом in Пояс инструментов (ID: 8082)
+[02/26/2023 20:16:49]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:16:49]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:16:49]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:16:50]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:16:52]
+  vlad32 grabbed Inga Combs's body and received 37 mk.
+[02/26/2023 20:16:53]
+  Neal Bradley started repairing Кабельная коробка
+[02/26/2023 20:16:54]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/26/2023 20:16:54]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:16:55]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/26/2023 20:16:55]
+  kynlan4ic opened Настраиваемый люк
+[02/26/2023 20:16:57]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:16:57]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:17:01]
+  vlad32 picked up Лом
+[02/26/2023 20:17:03]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:17:07]
+  Rowena Colpitts equipped Гаечный ключ
+[02/26/2023 20:17:15]
+  vlad32 placed Лом in Пояс инструментов (ID: 8082)
+[02/26/2023 20:17:21]
+  kynlan4ic placed Подводная маска in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:21]
+  vlad32 picked up Лом
+[02/26/2023 20:17:22]
+  kynlan4ic placed Бинт in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:22]
+  kynlan4ic removed Подводная маска from Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:38]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:17:39]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:17:39]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:17:40]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:17:40]
+  Neal Bradley started repairing Кабельная коробка
+[02/26/2023 20:17:41]
+  kynlan4ic placed Мешок семян in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:42]
+  kynlan4ic placed Сварочный аппарат in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:43]
+  kynlan4ic placed Хлам in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:44]
+  vlad32 grabbed Manuel Tootle's body and received 11 mk.
+[02/26/2023 20:17:44]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:17:45]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:17:45]
+  kynlan4ic unequipped Сварочный аппарат
+[02/26/2023 20:17:46]
+  vlad32 picked up Бинт
+[02/26/2023 20:17:47]
+  kynlan4ic placed Сварочный аппарат in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:52]
+  kynlan4ic placed Морфин in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:52]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:17:53]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:17:54]
+  kynlan4ic placed Антибиотики широкого спектра in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:17:56]
+  kynlan4ic grabbed Warner Kramer's body and received 39 mk.
+[02/26/2023 20:18:02]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 7968)
+[02/26/2023 20:18:02]
+  kynlan4ic removed Кислородный баллон from Пояс инструментов (ID: 7968)
+[02/26/2023 20:18:02]
+  kynlan4ic placed Кислородный баллон in Боевой водолазный скафандр (ID: 3138)
+[02/26/2023 20:18:07]
+  vlad32 grabbed Maybell Dimauro's body and received 48 mk.
+[02/26/2023 20:18:10]
+  kynlan4ic placed Кислотная граната in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:18:11]
+  kynlan4ic placed Судовой журнал in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:18:11]
+  Информация о миссии: Данные извлечены - Журнал с зашифрованными данными найден. Доставьте его в Добывающий центр Astypalaea Linea, чтобы получить награду.
+[02/26/2023 20:18:12]
+  kynlan4ic placed Игрушечный молот in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:18:13]
+  kynlan4ic picked up Судовой журнал
+[02/26/2023 20:18:17]
+  kynlan4ic placed Хлам in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:18:21]
+  vlad32 placed Лом in Пояс инструментов (ID: 8082)
+[02/26/2023 20:18:23]
+  kynlan4ic unequipped Сварочный аппарат
+[02/26/2023 20:18:24]
+  kynlan4ic placed Сварочный аппарат in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:18:27]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:18:27]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:18:27]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:18:28]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:18:28]
+  Rowena Colpitts started repairing Навигационный терминал
+[02/26/2023 20:18:29]
+  Neal Bradley started repairing Навигационный терминал
+[02/26/2023 20:18:32]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:18:33]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:18:36]
+  vlad32 picked up Лом
+[02/26/2023 20:18:38]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:18:39]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:18:51]
+  kynlan4ic closed Настраиваемый люк
+[02/26/2023 20:18:52]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/26/2023 20:18:53]
+  vlad32 picked up Кислородный баллон
+[02/26/2023 20:18:54]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/26/2023 20:18:56]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:18:56]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:18:56]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:18:56]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:18:57]
+  Sara Lyons started repairing Кабельная коробка
+[02/26/2023 20:18:59]
+  Rowena Colpitts started repairing Кабельная коробка
+[02/26/2023 20:19:00]
+  Neal Bradley started repairing Кабельная коробка
+[02/26/2023 20:19:01]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:19:02]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:19:04]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 868)
+[02/26/2023 20:19:05]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:19:05]
+  Sara Lyons equipped Гаечный ключ
+[02/26/2023 20:19:06]
+  Neal Bradley equipped Гаечный ключ
+[02/26/2023 20:19:06]
+  Rowena Colpitts equipped Гаечный ключ
+[02/26/2023 20:19:07]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:19:09]
+  Dominick Mansfield equipped Гаечный ключ
+[02/26/2023 20:19:12]
+  Dominick Mansfield started repairing Генератор кислорода
+[02/26/2023 20:19:13]
+  Neal Bradley started repairing Генератор кислорода
+[02/26/2023 20:19:13]
+  Sara Lyons started repairing Генератор кислорода
+[02/26/2023 20:19:13]
+  kynlan4ic placed Хлам in Деконструктор (ID: 219)
+[02/26/2023 20:19:13]
+  kynlan4ic placed Хлам in Деконструктор (ID: 219)
+[02/26/2023 20:19:14]
+  Rowena Colpitts started repairing Генератор кислорода
+[02/26/2023 20:19:14]
+  Neal Bradley unequipped Гаечный ключ
+[02/26/2023 20:19:15]
+  Sara Lyons unequipped Гаечный ключ
+[02/26/2023 20:19:15]
+  vlad32 picked up Сварочный аппарат
+[02/26/2023 20:19:16]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:16]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:16]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:16]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:16]
+  Rowena Colpitts unequipped Гаечный ключ
+[02/26/2023 20:19:18]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:18]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:18]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:18]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2677)
+[02/26/2023 20:19:18]
+  Dominick Mansfield unequipped Гаечный ключ
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:19]
+  kynlan4ic picked up Медь
+[02/26/2023 20:19:21]
+  kynlan4ic equipped Контейнер для хранения
+[02/26/2023 20:19:21]
+  kynlan4ic picked up Контейнер для хранения
+[02/26/2023 20:19:23]
+  kynlan4ic dropped Контейнер для хранения
+[02/26/2023 20:19:24]
+  kynlan4ic placed Контейнер для хранения in Большой стальной шкаф (ID: 259)
+[02/26/2023 20:19:25]
+  kynlan4ic equipped Контейнер для хранения
+[02/26/2023 20:19:25]
+  kynlan4ic picked up Контейнер для хранения
+[02/26/2023 20:19:26]
+  kynlan4ic placed Контейнер для хранения in Большой стальной шкаф (ID: 259)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:28]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:30]
+  kynlan4ic picked up Пластик
+[02/26/2023 20:19:30]
+  kynlan4ic picked up Пластик
+[02/26/2023 20:19:30]
+  kynlan4ic picked up Пластик
+[02/26/2023 20:19:30]
+  kynlan4ic picked up Пластик
+[02/26/2023 20:19:30]
+  kynlan4ic picked up Пластик
+[02/26/2023 20:19:30]
+  kynlan4ic picked up Пластик
+[02/26/2023 20:19:31]
+  kynlan4ic picked up Резина
+[02/26/2023 20:19:31]
+  kynlan4ic picked up Резина
+[02/26/2023 20:19:31]
+  kynlan4ic picked up Резина
+[02/26/2023 20:19:31]
+  kynlan4ic picked up Резина
+[02/26/2023 20:19:31]
+  Neal Bradley equipped Контейнер для хранения
+[02/26/2023 20:19:33]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:33]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:33]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:33]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:33]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:33]
+  kynlan4ic placed Пластик in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:34]
+  kynlan4ic placed Резина in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:34]
+  kynlan4ic placed Резина in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:34]
+  kynlan4ic placed Резина in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:34]
+  kynlan4ic placed Резина in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:19:37]
+  kynlan4ic equipped Контейнер для хранения
+[02/26/2023 20:19:37]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:19:37]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:19:42]
+  kynlan4ic placed Сварочный аппарат in Деконструктор (ID: 219)
+[02/26/2023 20:19:43]
+  kynlan4ic placed Сварочный аппарат in Деконструктор (ID: 219)
+[02/26/2023 20:19:50]
+  kynlan4ic placed Сварочный аппарат in Деконструктор (ID: 219)
+[02/26/2023 20:19:51]
+  kynlan4ic placed Сварочный аппарат in Деконструктор (ID: 219)
+[02/26/2023 20:19:52]
+  kynlan4ic placed Игрушечный молот in Деконструктор (ID: 219)
+[02/26/2023 20:19:55]
+  kynlan4ic placed Сварочный аппарат in Деконструктор (ID: 219)
+[02/26/2023 20:19:55]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:19:55]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:19:56]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:19:56]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:19:56]
+  kynlan4ic activated Деконструктор
+[02/26/2023 20:19:58]
+  vlad32 opened Настраиваемый люк
+[02/26/2023 20:19:59]
+  Dominick Mansfield started repairing Кабельная коробка
+[02/26/2023 20:20:01]
+  vlad32 closed Настраиваемый люк
+[02/26/2023 20:20:01]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:20:03]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:20:03]
+  vlad32 opened Настраиваемая дверь с окном
+[02/26/2023 20:20:03]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:20:05]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:20:08]
+  kynlan4ic placed Морфин in Аптечка (ID: 242)
+[02/26/2023 20:20:09]
+  kynlan4ic placed Бинт in Аптечка (ID: 242)
+[02/26/2023 20:20:09]
+  kynlan4ic placed Антибиотики широкого спектра in Аптечка (ID: 242)
+[02/26/2023 20:20:11]
+  vlad32 placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 571)
+[02/26/2023 20:20:12]
+  vlad32 dropped Кислородный баллон
+[02/26/2023 20:20:12]
+  kynlan4ic placed Кислотная граната in Хозяйственный шкаф (ID: 315)
+[02/26/2023 20:20:23]
+  vlad32 equipped Сварочный аппарат
+[02/26/2023 20:20:24]
+  kynlan4ic deactivated Деконструктор
+[02/26/2023 20:20:24]
+  kynlan4ic placed Мешок семян in Деконструктор (ID: 219)
+[02/26/2023 20:20:26]
+  kynlan4ic placed Топливный бак сварочного аппарата in Деконструктор (ID: 219)
+[02/26/2023 20:20:26]
+  vlad32 dropped Сварочный аппарат
+[02/26/2023 20:20:28]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[02/26/2023 20:20:29]
+  kynlan4ic picked up Сварочный аппарат
+[02/26/2023 20:20:32]
+  kynlan4ic placed Топливный бак сварочного аппарата in Деконструктор (ID: 219)
+[02/26/2023 20:20:33]
+  kynlan4ic placed Сварочный аппарат in Деконструктор (ID: 219)
+[02/26/2023 20:20:33]
+  vlad32 placed Лом in Пояс инструментов (ID: 8082)
+[02/26/2023 20:20:34]
+  kynlan4ic activated Деконструктор
+[02/26/2023 20:20:35]
+  Sara Lyons equipped Кислородный баллон
+[02/26/2023 20:20:35]
+  kynlan4ic unequipped Сварочный аппарат
+[02/26/2023 20:20:44]
+  kynlan4ic picked up Сварочный аппарат
+[02/26/2023 20:20:44]
+  kynlan4ic dropped Сварочный аппарат
+[02/26/2023 20:20:44]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 868)
+[02/26/2023 20:20:49]
+  vlad32 removed Информационный экран сканера здоровья from Большой стальной шкаф (ID: 259)
+[02/26/2023 20:20:49]
+  kynlan4ic placed Топливный бак сварочного аппарата in Большой стальной шкаф (ID: 966)
+[02/26/2023 20:20:50]
+  kynlan4ic placed Сварочный аппарат in Большой стальной шкаф (ID: 966)
+[02/26/2023 20:20:58]
+  kynlan4ic dropped Автоматический пистолет
+[02/26/2023 20:21:01]
+  kynlan4ic dropped Автоматический пистолет
+[02/26/2023 20:21:02]
+  vlad32 picked up Информационный экран сканера здоровья
+[02/26/2023 20:21:06]
+  Neal Bradley equipped Гаечный ключ
+[02/26/2023 20:21:07]
+  kynlan4ic equipped Семя взрывного граната
+[02/26/2023 20:21:07]
+  Dominick Mansfield equipped Гаечный ключ
+[02/26/2023 20:21:07]
+  Rowena Colpitts equipped Гаечный ключ
+[02/26/2023 20:21:07]
+  Sara Lyons equipped Гаечный ключ
+[02/26/2023 20:21:08]
+  vlad32 equipped Автоматический пистолет
+[02/26/2023 20:21:09]
+  kynlan4ic dropped Семя взрывного граната
+[02/26/2023 20:21:09]
+  Dominick Mansfield started repairing Малый насос
+[02/26/2023 20:21:11]
+  kynlan4ic equipped Углерод
+[02/26/2023 20:21:13]
+  Rowena Colpitts started repairing Малый насос
+[02/26/2023 20:21:13]
+  vlad32 placed Информационный экран сканера здоровья in Большой стальной шкаф (ID: 259)
+[02/26/2023 20:21:13]
+  Rowena Colpitts unequipped Гаечный ключ
+[02/26/2023 20:21:14]
+  Sara Lyons unequipped Гаечный ключ
+[02/26/2023 20:21:14]
+  Neal Bradley unequipped Гаечный ключ
+[02/26/2023 20:21:15]
+  Dominick Mansfield unequipped Гаечный ключ
+[02/26/2023 20:21:17]
+  kynlan4ic placed Углерод in Большой стальной шкаф (ID: 259)
+[02/26/2023 20:21:20]
+  kynlan4ic placed Медь in Контейнер для хранения (ID: 2407)
+[02/26/2023 20:21:23]
+  kynlan4ic placed Велосипедный гудок in Деконструктор (ID: 219)
+[02/26/2023 20:21:29]
+  kynlan4ic dropped Семя бича раптора
+[02/26/2023 20:21:30]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:21:31]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:21:31]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:21:31]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:21:33]
+  kynlan4ic placed Алюминий in Большой стальной шкаф (ID: 259)
+[02/26/2023 20:21:36]
+  Dominick Mansfield started repairing Кабельная коробка
+[02/26/2023 20:21:38]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:21:38]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:21:39]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:21:44]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:21:46]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф с окном (ID: 901)
+[02/26/2023 20:21:51]
+  kynlan4ic dropped Боевой водолазный скафандр
+[02/26/2023 20:21:59]
+  kynlan4ic placed Органическое волокно in Большой стальной шкаф (ID: 259)
+[02/26/2023 20:22:06]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 20:22:06]
+  Rowena Colpitts equipped Отвертка
+[02/26/2023 20:22:06]
+  Sara Lyons equipped Отвертка
+[02/26/2023 20:22:07]
+  Neal Bradley equipped Отвертка
+[02/26/2023 20:22:07]
+  Neal Bradley started repairing Кабельная коробка
+[02/26/2023 20:22:08]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 7968)
+[02/26/2023 20:22:08]
+  kynlan4ic removed Кислородный баллон from Пояс инструментов (ID: 7968)
+[02/26/2023 20:22:08]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 310)
+[02/26/2023 20:22:09]
+  Rowena Colpitts unequipped Отвертка
+[02/26/2023 20:22:10]
+  Dominick Mansfield started repairing Кабельная коробка
+[02/26/2023 20:22:11]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 20:22:14]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 20:22:18]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 20:22:21]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 937)
+[02/26/2023 20:22:25]
+  kynlan4ic picked up Меткий карабин

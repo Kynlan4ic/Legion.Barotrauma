@@ -1,0 +1,158 @@
+﻿[03/04/2023 14:49:00]
+  Starting the server...
+[03/04/2023 14:49:00]
+  Using SteamP2P networking.
+[03/04/2023 14:49:00]
+  Server started
+[03/04/2023 14:49:00]
+  Игрок kynlan4ic присоединился к серверу.
+[03/04/2023 14:49:00]
+  Saving client permissions
+[03/04/2023 14:49:00]
+  Saving client permissions
+[03/04/2023 14:49:00]
+  Gamemode changed to Кампания
+[03/04/2023 18:20:40]
+  Игрок vlad32 присоединился к серверу.
+[03/04/2023 18:20:40]
+  Saving client permissions
+[03/04/2023 18:20:49]
+  vlad32 is ready to start the game.
+[03/04/2023 18:21:16]
+  Starting a new round...
+[03/04/2023 18:21:21]
+  vlad32 is not ready to start the game.
+[03/04/2023 18:21:30]
+  Game mode: Кампания
+[03/04/2023 18:21:30]
+  Submarine: Orca
+[03/04/2023 18:21:30]
+  Level seed: Corick Linea
+[03/04/2023 18:21:31]
+  Marc Fonte equipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Marc Fonte unequipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Marc Fonte equipped Отвертка
+[03/04/2023 18:21:31]
+  Jess Kinney equipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Jess Kinney unequipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Jess Kinney equipped Отвертка
+[03/04/2023 18:21:31]
+  Trudy Navarro equipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Trudy Navarro unequipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Trudy Navarro equipped Отвертка
+[03/04/2023 18:21:31]
+  Eldridge Aker equipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Eldridge Aker unequipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Eldridge Aker equipped Отвертка
+[03/04/2023 18:21:31]
+  Eldridge Aker unequipped Отвертка
+[03/04/2023 18:21:31]
+  Eldridge Aker equipped Лом
+[03/04/2023 18:21:31]
+  Ruthie Roman equipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Ruthie Roman unequipped Гаечный ключ
+[03/04/2023 18:21:31]
+  Ruthie Roman equipped Отвертка
+[03/04/2023 18:21:32]
+  Kerry Gordon equipped Гаечный ключ
+[03/04/2023 18:21:32]
+  Ilene Larsen equipped Лом
+[03/04/2023 18:21:34]
+  Round started.
+[03/04/2023 18:21:34]
+  Raphael Ulrich equipped Лом
+[03/04/2023 18:21:35]
+  Lindy Lowe equipped Гаечный ключ
+[03/04/2023 18:21:35]
+  Eldridge Aker unequipped Лом
+[03/04/2023 18:21:35]
+  Marc Fonte unequipped Отвертка
+[03/04/2023 18:21:35]
+  Ilene Larsen unequipped Лом
+[03/04/2023 18:21:35]
+  Lindy Lowe unequipped Гаечный ключ
+[03/04/2023 18:21:36]
+  Kerry Gordon unequipped Гаечный ключ
+[03/04/2023 18:21:40]
+  Trudy Gordon: Приветствую. Надеюсь, проблем от вас не будет.
+[03/04/2023 18:21:50]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/04/2023 18:22:12]
+  Dorsey Severance attacked by kynlan4ic. Укусы: 1.5 Оглушение: 0.3
+[03/04/2023 18:22:13]
+  Dorsey Severance: Не надо!
+[03/04/2023 18:22:13]
+  Bennie Castro equipped Нож ныряльщика
+[03/04/2023 18:22:14]
+  Stella Tootle equipped Револьвер
+[03/04/2023 18:22:15]
+  Bennie Castro used Нож ныряльщика on kynlan4ic.
+[03/04/2023 18:22:16]
+  Trudy Gordon equipped Пистолет-пулемет
+[03/04/2023 18:22:16]
+  Bennie Castro used Нож ныряльщика on Dorsey Severance.
+[03/04/2023 18:22:17]
+  Dorsey Severance: Верхняя задняя часть: здесь срочно требуется медицинская помощь!
+[03/04/2023 18:22:18]
+  Keri Cluck equipped Электрошокер
+[03/04/2023 18:22:19]
+  Bennie Castro: Эти проклятые создания тут повсюду!
+[03/04/2023 18:22:20]
+  Stella Tootle unequipped Револьвер
+[03/04/2023 18:22:20]
+  Stella Tootle equipped Шоковая дубинка
+[03/04/2023 18:22:21]
+  Stella Tootle unequipped Шоковая дубинка
+[03/04/2023 18:22:21]
+  Stella Tootle equipped Револьвер
+[03/04/2023 18:22:22]
+  Dorsey Severance: Вы слышали? Сектанты-оболочечники напали на здание суда в столице!
+[03/04/2023 18:22:23]
+  kynlan4ic opened Настраиваемая дверь
+[03/04/2023 18:22:26]
+  Bennie Castro unequipped Нож ныряльщика
+[03/04/2023 18:22:26]
+  Stella Tootle unequipped Револьвер
+[03/04/2023 18:22:26]
+  Keri Cluck unequipped Электрошокер
+[03/04/2023 18:22:26]
+  Trudy Gordon unequipped Пистолет-пулемет
+[03/04/2023 18:22:27]
+  Joel Elliott: А какой аванпост сейчас столица?
+[03/04/2023 18:22:27]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 18:22:33]
+  kynlan4ic closed Настраиваемая дверь
+[03/04/2023 18:22:42]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/04/2023 18:22:47]
+  kynlan4ic opened Настраиваемая дверь
+[03/04/2023 18:22:49]
+  kynlan4ic closed Настраиваемая дверь
+[03/04/2023 18:23:00]
+  vlad32 equipped Ящик пробивных снарядов
+[03/04/2023 18:23:02]
+  vlad32 dropped Ящик пробивных снарядов
+[03/04/2023 18:23:24]
+  vlad32 equipped Металлический ящик
+[03/04/2023 18:23:26]
+  vlad32 dropped Металлический ящик
+[03/04/2023 18:23:28]
+  vlad32 equipped Ящик со взрывчаткой
+[03/04/2023 18:23:29]
+  vlad32 dropped Ящик со взрывчаткой
+[03/04/2023 18:24:29]
+  Ruthie Roman unequipped Отвертка
+[03/04/2023 18:25:59]
+  Client "kynlan4ic" ended the round.
+[03/04/2023 18:26:01]
+  Ending the round...

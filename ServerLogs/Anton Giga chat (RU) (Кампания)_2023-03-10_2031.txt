@@ -1,0 +1,284 @@
+﻿[03/10/2023 20:28:56]
+  Супостат499 adjusted reactor settings: Temperature: 1746, Fission rate: 24, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:28:57]
+  kynlan4ic adjusted reactor settings: Temperature: 746, Fission rate: 24, Turbine output: 84, Autotemp OFF
+[03/10/2023 20:28:59]
+  kynlan4ic adjusted reactor settings: Temperature: 0, Fission rate: 24, Turbine output: 82, Autotemp OFF
+[03/10/2023 20:29:00]
+  kynlan4ic adjusted reactor settings: Temperature: 203, Fission rate: 24, Turbine output: 56, Autotemp OFF
+[03/10/2023 20:29:01]
+  Darwin Brady equipped Водолазный скафандр
+[03/10/2023 20:29:01]
+  igameCrog adjusted reactor settings: Temperature: 1203, Fission rate: 30, Turbine output: 56, Autotemp OFF
+[03/10/2023 20:29:02]
+  kynlan4ic adjusted reactor settings: Temperature: 2195, Fission rate: 24, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:03]
+  igameCrog adjusted reactor settings: Temperature: 2024, Fission rate: 26, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:05]
+  kynlan4ic adjusted reactor settings: Temperature: 2411, Fission rate: 25, Turbine output: 76, Autotemp OFF
+[03/10/2023 20:29:06]
+  kynlan4ic adjusted reactor settings: Temperature: 1869, Fission rate: 25, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:07]
+  kynlan4ic adjusted reactor settings: Temperature: 2330, Fission rate: 25, Turbine output: 64, Autotemp OFF
+[03/10/2023 20:29:08]
+  Супостат499 adjusted reactor settings: Temperature: 3178, Fission rate: 33, Turbine output: 59, Autotemp OFF
+[03/10/2023 20:29:09]
+  kynlan4ic adjusted reactor settings: Temperature: 4194, Fission rate: 33, Turbine output: 61, Autotemp OFF
+[03/10/2023 20:29:10]
+  kynlan4ic adjusted reactor settings: Temperature: 4489, Fission rate: 33, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:15]
+  kynlan4ic adjusted reactor settings: Temperature: 4439, Fission rate: 36, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:16]
+  kynlan4ic adjusted reactor settings: Temperature: 5260, Fission rate: 55, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:17]
+  kynlan4ic adjusted reactor settings: Temperature: 6260, Fission rate: 74, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:18]
+  Супостат499 placed Кислородный баллон in Рюкзак (ID: 3530)
+[03/10/2023 20:29:18]
+  Супостат499 removed Кислородный баллон from Рюкзак (ID: 3530)
+[03/10/2023 20:29:18]
+  Супостат499 placed Кислородный баллон in Плазменный резак (ID: 3666)
+[03/10/2023 20:29:18]
+  kynlan4ic adjusted reactor settings: Temperature: 7260, Fission rate: 38, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:19]
+  kynlan4ic adjusted reactor settings: Temperature: 7727, Fission rate: 22, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:20]
+  kynlan4ic adjusted reactor settings: Temperature: 6727, Fission rate: 29, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:21]
+  kynlan4ic adjusted reactor settings: Temperature: 5727, Fission rate: 30, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:22]
+  kynlan4ic adjusted reactor settings: Temperature: 4727, Fission rate: 38, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:23]
+  kynlan4ic adjusted reactor settings: Temperature: 5173, Fission rate: 38, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:27]
+  kynlan4ic adjusted reactor settings: Temperature: 6048, Fission rate: 37, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:28]
+  kynlan4ic adjusted reactor settings: Temperature: 5536, Fission rate: 34, Turbine output: 63, Autotemp OFF
+[03/10/2023 20:29:32]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:29:34]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:29:35]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:29:36]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:29:37]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 20:29:37]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 20:29:39]
+  kynlan4ic adjusted reactor settings: Temperature: 4690, Fission rate: 34, Turbine output: 66, Autotemp OFF
+[03/10/2023 20:29:40]
+  kynlan4ic adjusted reactor settings: Temperature: 4193, Fission rate: 34, Turbine output: 74, Autotemp OFF
+[03/10/2023 20:29:40]
+  Devin Maxwell started repairing Генератор кислорода челнока
+[03/10/2023 20:29:41]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 20:29:41]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:29:41]
+  kynlan4ic adjusted reactor settings: Temperature: 3857, Fission rate: 34, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:29:41]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 20:29:41]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:29:45]
+  Devin Maxwell started repairing Монитор состояния
+[03/10/2023 20:29:45]
+  Darwin Brady failed to repair Батарея
+[03/10/2023 20:29:50]
+  igameCrog equipped Отвертка
+[03/10/2023 20:29:51]
+  Darwin Brady started repairing Батарея
+[03/10/2023 20:29:52]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 20:29:55]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:29:56]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:30:00]
+  kynlan4ic closed Дверь с кнопками
+[03/10/2023 20:30:00]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 20:30:04]
+  Супостат499 placed Касситерит in Рюкзак (ID: 3530)
+[03/10/2023 20:30:04]
+  Супостат499 placed Касситерит in Рюкзак (ID: 3530)
+[03/10/2023 20:30:04]
+  Супостат499 placed Касситерит in Рюкзак (ID: 3530)
+[03/10/2023 20:30:12]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:30:12]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 20:30:13]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:30:15]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 20:30:16]
+  Супостат499 closed Дверь с кнопками
+[03/10/2023 20:30:17]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:30:17]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:30:17]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:30:17]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:30:18]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 20:30:20]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 20:30:26]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 20:30:26]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 20:30:29]
+  Супостат499 adjusted reactor settings: Temperature: 3670, Fission rate: 24, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:30]
+  Darwin Brady failed to repair Генератор кислорода челнока
+[03/10/2023 20:30:31]
+  Супостат499 adjusted reactor settings: Temperature: 2660, Fission rate: 0, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:32]
+  Супостат499 adjusted reactor settings: Temperature: 1510, Fission rate: 9, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:33]
+  Супостат499 adjusted reactor settings: Temperature: 510, Fission rate: 34, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:34]
+  Супостат499 adjusted reactor settings: Temperature: 977, Fission rate: 39, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:34]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  Супостат499 adjusted reactor settings: Temperature: 1977, Fission rate: 36, Turbine output: 73, Autotemp OFF
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:35]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:36]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:37]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:38]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 20:30:39]
+  igameCrog equipped Коричневый провод
+[03/10/2023 20:30:39]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 742)
+[03/10/2023 20:30:41]
+  Супостат499 placed Military Mk-I Hardsuit (Mercenary) in Шкаф для подводного снаряжения (ID: 742)
+[03/10/2023 20:30:43]
+  igameCrog connected a wire to Ядерный реактор (shutdown)
+[03/10/2023 20:30:46]
+  Супостат499 picked up Водолазный скафандр
+[03/10/2023 20:30:47]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:30:48]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:30:51]
+  Darwin Brady started repairing Батарея
+[03/10/2023 20:30:53]
+  Devin Maxwell failed to repair Батарея
+[03/10/2023 20:30:57]
+  Супостат499 placed Водолазный скафандр in Деконструктор (ID: 627)
+[03/10/2023 20:30:57]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 20:30:58]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:30:58]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:30:58]
+  Супостат499 placed Физраствор in Средний стальной шкаф (ID: 1330)
+[03/10/2023 20:30:59]
+  Супостат499 activated Деконструктор
+[03/10/2023 20:31:03]
+  igameCrog equipped Выключатель
+[03/10/2023 20:31:04]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:31:04]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:31:04]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 20:31:07]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:31:07]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:31:12]
+  igameCrog attached Выключатель to a wall
+[03/10/2023 20:31:21]
+  Супостат499 placed Касситерит in Деконструктор (ID: 627)
+[03/10/2023 20:31:21]
+  Супостат499 placed Касситерит in Деконструктор (ID: 627)
+[03/10/2023 20:31:21]
+  Супостат499 placed Касситерит in Деконструктор (ID: 627)
+[03/10/2023 20:31:23]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 20:31:24]
+  Darwin Brady equipped Отвертка
+[03/10/2023 20:31:25]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 20:31:28]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 20:31:30]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 20:31:30]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 20:31:32]
+  Супостат499 activated Деконструктор
+[03/10/2023 20:31:42]
+  igameCrog equipped Гаечный ключ
+[03/10/2023 20:31:53]
+  kynlan4ic docked Wellerman to Шахта Jaavuari
+[03/10/2023 20:31:53]
+  igameCrog equipped Коричневый провод
+[03/10/2023 20:31:54]
+  Ending the round...

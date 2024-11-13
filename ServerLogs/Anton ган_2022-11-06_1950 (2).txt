@@ -1,0 +1,1600 @@
+﻿[11/06/2022 19:16:40]
+  Saving client permissions
+[11/06/2022 19:16:40]
+  Saving client permissions
+[11/06/2022 19:17:03]
+  Игрок igameCrog присоединился к серверу.
+[11/06/2022 19:17:03]
+  Saving client permissions
+[11/06/2022 19:17:24]
+  kynlan4ic changed PlayStyle to Casual
+[11/06/2022 19:17:24]
+  kynlan4ic changed LosMode to Transparent
+[11/06/2022 19:17:24]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/06/2022 19:17:24]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/06/2022 19:17:34]
+  kynlan4ic changed PlayStyle to Casual
+[11/06/2022 19:17:34]
+  kynlan4ic changed LosMode to Transparent
+[11/06/2022 19:17:34]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/06/2022 19:17:34]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/06/2022 19:17:39]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:17:39]
+  Saving client permissions
+[11/06/2022 19:18:50]
+  Gamemode changed to Миссия
+[11/06/2022 19:19:18]
+  kynlan4ic is ready to start the game.
+[11/06/2022 19:19:25]
+  Client "kynlan4ic" started the round.
+[11/06/2022 19:19:25]
+  Starting a new round...
+[11/06/2022 19:19:30]
+  Миссия: Активировать маяк
+[11/06/2022 19:19:30]
+  Маяк на маршруте Центр Set - Шахта Skadi's Cauldron не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[11/06/2022 19:19:30]
+  Game mode: Миссия
+[11/06/2022 19:19:30]
+  Submarine: Челнок R-155
+[11/06/2022 19:19:30]
+  Level seed: 5Af7zvQ4
+[11/06/2022 19:19:30]
+  Mission: Активировать маяк
+[11/06/2022 19:19:30]
+  Round started.
+[11/06/2022 19:19:33]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:19:34]
+  Joel Patel: Здесь ужасно тихо.
+[11/06/2022 19:19:36]
+  Joel Patel: У меня наушник, вообще, работает?
+[11/06/2022 19:19:38]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:19:40]
+  Shelly Harp: Слышу тебя четко и ясно.
+[11/06/2022 19:19:49]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/06/2022 19:19:51]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[11/06/2022 19:19:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:19:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:19:52]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:20:18]
+  rus7ak set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:20:44]
+  igameCrog picked up Подводная маска
+[11/06/2022 19:20:47]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 19:20:47]
+  igameCrog picked up Кислородный баллон
+[11/06/2022 19:20:48]
+  igameCrog picked up Плазменный резак
+[11/06/2022 19:20:48]
+  igameCrog picked up Подводный скутер
+[11/06/2022 19:20:51]
+  igameCrog placed Подводный скутер in Хозяйственный шкаф (ID: 186)
+[11/06/2022 19:21:27]
+  rus7ak equipped Сварочный аппарат
+[11/06/2022 19:21:30]
+  kynlan4ic picked up Подводный скутер
+[11/06/2022 19:21:32]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:21:33]
+  igameCrog placed Плазменный резак in Хозяйственный шкаф (ID: 186)
+[11/06/2022 19:21:33]
+  kynlan4ic picked up Лом
+[11/06/2022 19:21:33]
+  kynlan4ic removed Плазменный резак from Хозяйственный шкаф (ID: 186)
+[11/06/2022 19:21:40]
+  kynlan4ic dropped Плазменный резак
+[11/06/2022 19:21:51]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:21:51]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:21:53]
+  kynlan4ic closed Настраиваемый люк
+[11/06/2022 19:21:53]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:22:25]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:22:25]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:23:51]
+  rus7ak equipped Гаечный ключ
+[11/06/2022 19:23:51]
+  rus7ak equipped Отвертка
+[11/06/2022 19:23:56]
+  kynlan4ic equipped Подводный скутер
+[11/06/2022 19:24:00]
+  igameCrog has died (Cause of death: Баротравма)
+[11/06/2022 19:24:03]
+  kynlan4ic opened Настраиваемая дверь
+[11/06/2022 19:24:06]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:07]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:08]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:09]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:11]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:12]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:13]
+  kynlan4ic closed Настраиваемая дверь
+[11/06/2022 19:24:15]
+  kynlan4ic opened Настраиваемый люк
+[11/06/2022 19:24:20]
+  rus7ak has died (Cause of death: Баротравма)
+[11/06/2022 19:24:21]
+  Arkadi Rangel: Надо найти водолазный скафандр!
+[11/06/2022 19:24:21]
+  Shelly Harp: Мне нужно подводное снаряжение!
+[11/06/2022 19:24:21]
+  Mikaela Sykes: Надо найти водолазный скафандр!
+[11/06/2022 19:24:22]
+  Roberta Rivera: Мне нужно подводное снаряжение!
+[11/06/2022 19:24:22]
+  Joel Patel: Надо найти водолазный скафандр!
+[11/06/2022 19:24:25]
+  Ending round (submarine reached the end of the level)
+[11/06/2022 19:24:25]
+  Ending the round...
+[11/06/2022 19:24:25]
+  Round ended.
+[11/06/2022 19:25:00]
+  Gamemode changed to Кампания
+[11/06/2022 19:25:04]
+  igameCrog is ready to start the game.
+[11/06/2022 19:26:07]
+  kynlan4ic changed PlayStyle to Casual
+[11/06/2022 19:26:07]
+  kynlan4ic changed LosMode to Transparent
+[11/06/2022 19:26:07]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/06/2022 19:26:07]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/06/2022 19:26:20]
+  Starting a new round...
+[11/06/2022 19:26:23]
+  igameCrog is not ready to start the game.
+[11/06/2022 19:26:27]
+  Игрок rus7ak сменил имя на rustam336.
+[11/06/2022 19:26:38]
+  Renato Chaney equipped Лом
+[11/06/2022 19:26:38]
+  Everette Heuer equipped Отвертка
+[11/06/2022 19:26:38]
+  Миссия: Доставка химикатов
+[11/06/2022 19:26:38]
+  Исследователи из точки Аванпост Thasus Linea ищут того, кто сможет выполнить доставку опасных химикатов. Пункт назначения: Шахта Moytura. Награда: 1,120 кред.
+[11/06/2022 19:26:38]
+  Миссия: Уничтожение роя
+[11/06/2022 19:26:38]
+  Большой рой монстров (Ползун) терроризирует суда, следующие по маршруту Аванпост Thasus Linea - Шахта Moytura. Команде, способной нейтрализовать его, полагается достойная награда в размере 3,500 кред.
+[11/06/2022 19:26:38]
+  Миссия: Пассажирские перевозки
+[11/06/2022 19:26:38]
+  Нескольких пассажиров нужно отвезти в точку Шахта Moytura. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[11/06/2022 19:26:38]
+  Game mode: Кампания
+[11/06/2022 19:26:38]
+  Submarine: Dugong
+[11/06/2022 19:26:38]
+  Level seed: MoyturaThasus Linea
+[11/06/2022 19:26:38]
+  Mission: Доставка химикатов
+[11/06/2022 19:26:38]
+  Mission: Уничтожение роя
+[11/06/2022 19:26:38]
+  Mission: Пассажирские перевозки
+[11/06/2022 19:26:38]
+  Round started.
+[11/06/2022 19:26:38]
+  Everette Heuer unequipped Отвертка
+[11/06/2022 19:26:39]
+  Renato Chaney unequipped Лом
+[11/06/2022 19:26:41]
+  Roslyn Fesler equipped Аккумулятор
+[11/06/2022 19:26:46]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:26:50]
+  Roslyn Marquez: Tyson Kidd получает первую помощь здесь: реакторный отсек!
+[11/06/2022 19:26:51]
+  Roslyn Marquez: Tyson Kidd нуждается в помощи! Срочно требуется морфин, опиум или фентанил!
+[11/06/2022 19:26:54]
+  Roslyn Marquez equipped Морфин
+[11/06/2022 19:26:55]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:26:56]
+  Roslyn Fesler equipped Метамфетамин
+[11/06/2022 19:27:00]
+  Roslyn Marquez: Tyson Kidd чувствует себя хорошо!
+[11/06/2022 19:27:05]
+  Roslyn Fesler equipped Энергонапиток
+[11/06/2022 19:27:12]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:27:14]
+  Roslyn Fesler equipped Морфин
+[11/06/2022 19:27:15]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:27:22]
+  Roslyn Fesler equipped Медаль коалиции
+[11/06/2022 19:27:28]
+  Roslyn Fesler equipped Взрывной гранат
+[11/06/2022 19:27:28]
+  Roslyn Fesler equipped Взрывной гранат
+[11/06/2022 19:27:33]
+  Roslyn Fesler: На помощь, меня ранили!
+[11/06/2022 19:27:35]
+  Roslyn Fesler equipped Аккумулятор
+[11/06/2022 19:27:50]
+  Roslyn Fesler equipped Кислородный баллон
+[11/06/2022 19:27:57]
+  Disconnecting client rustam336. Syncing the client with the server took too long.
+[11/06/2022 19:27:57]
+  Игрок rustam336 отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 19:28:38]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:28:57]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:28:57]
+  Пользователь rus7ak ранее использовал имя "rustam336" на сервере.
+[11/06/2022 19:28:57]
+  Saving client permissions
+[11/06/2022 19:29:01]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:29:07]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:29:09]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:29:11]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:29:13]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:29:22]
+  kynlan4ic equipped Капсула для импульсного лазера
+[11/06/2022 19:29:25]
+  kynlan4ic dropped Капсула для импульсного лазера
+[11/06/2022 19:29:27]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:29:28]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:29:30]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:29:32]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:29:33]
+  kynlan4ic equipped Глубинная приманка
+[11/06/2022 19:29:34]
+  kynlan4ic dropped Глубинная приманка
+[11/06/2022 19:29:35]
+  kynlan4ic equipped Ящик с химикатами
+[11/06/2022 19:29:54]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 19:29:56]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:29:58]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:30:01]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:30:06]
+  igameCrog: t
+[11/06/2022 19:30:10]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:30:12]
+  rus7ak was kicked because they were expecting a very old network event (2951 (created 12.23 s ago, 12.2 s older than last event sent to anyone) Events queued: 161, last sent to all: 2950
+[11/06/2022 19:30:12]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[11/06/2022 19:30:18]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:30:24]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:30:27]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:30:28]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:30:28]
+  igameCrog equipped Глубинная приманка
+[11/06/2022 19:30:32]
+  igameCrog dropped Глубинная приманка
+[11/06/2022 19:30:41]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:30:42]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:30:43]
+  igameCrog equipped Металлический ящик
+[11/06/2022 19:30:45]
+  igameCrog dropped Металлический ящик
+[11/06/2022 19:30:47]
+  kynlan4ic: Priscilla Jones, заряди орудия подлодки!
+[11/06/2022 19:30:48]
+  igameCrog equipped Металлический ящик
+[11/06/2022 19:30:48]
+  Priscilla Jones: Принято.
+[11/06/2022 19:30:51]
+  igameCrog dropped Металлический ящик
+[11/06/2022 19:30:52]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:30:56]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:30:57]
+  kynlan4ic: Fanny Preston, наполни кислородные баллоны!
+[11/06/2022 19:30:58]
+  Fanny Preston: Слушаюсь!
+[11/06/2022 19:31:18]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:31:18]
+  Saving client permissions
+[11/06/2022 19:31:41]
+  kynlan4ic: Stephane Palmieri, займись орудиями!
+[11/06/2022 19:31:42]
+  Stephane Palmieri: Вас понял!
+[11/06/2022 19:31:48]
+  kynlan4ic: Arron Krall, займись орудиями!
+[11/06/2022 19:31:49]
+  Arron Krall: Вас понял!
+[11/06/2022 19:32:19]
+  igameCrog picked up Отвертка
+[11/06/2022 19:32:21]
+  igameCrog placed Отвертка in Human
+[11/06/2022 19:32:26]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:32:27]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:32:27]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:32:28]
+  Tyson Kidd failed to repair Кабельная коробка
+[11/06/2022 19:32:28]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:32:29]
+  Fanny Preston failed to repair Кабельная коробка
+[11/06/2022 19:32:29]
+  Chance Hines failed to repair Кабельная коробка
+[11/06/2022 19:32:31]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:32:33]
+  Tyson Kidd started repairing Кабельная коробка
+[11/06/2022 19:32:34]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:32:34]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:32:35]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:32:36]
+  igameCrog equipped Ящик с химикатами
+[11/06/2022 19:32:36]
+  igameCrog picked up Ящик с химикатами
+[11/06/2022 19:32:36]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:32:37]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:32:37]
+  Renato Chaney: Ворюга! Положи сейчас же обратно, и я сделаю вид, что ничего не было.
+[11/06/2022 19:32:40]
+  igameCrog placed Ящик с химикатами in Стеллаж для ящиков (ID: 1134)
+[11/06/2022 19:32:52]
+  Stephane Palmieri: У меня новая цель! Не могу понять, что это такое...
+[11/06/2022 19:32:53]
+  Stephane Palmieri: Стреляю!
+[11/06/2022 19:32:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:53]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:32:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:54]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:54]
+  Outer wall breached by Hammerhead
+[11/06/2022 19:32:54]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:32:55]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:56]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:58]
+  Chance Hines equipped Сварочный аппарат
+[11/06/2022 19:32:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:59]
+  Fanny Preston equipped Сварочный аппарат
+[11/06/2022 19:32:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:32:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:00]
+  Outer wall repaired by Chance Hines
+[11/06/2022 19:33:00]
+  rus7ak was kicked because they were expecting a very old network event (4821 (created 12.68 s ago, 12.63 s older than last event sent to anyone) Events queued: 356, last sent to all: 4820
+[11/06/2022 19:33:00]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (ожидание устаревшего события)
+[11/06/2022 19:33:01]
+  Fanny Preston unequipped Сварочный аппарат
+[11/06/2022 19:33:01]
+  Chance Hines unequipped Сварочный аппарат
+[11/06/2022 19:33:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:03]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:04]
+  igameCrog picked up Водолазный скафандр
+[11/06/2022 19:33:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:04]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:05]
+  Outer wall breached by Hammerhead
+[11/06/2022 19:33:05]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:06]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:07]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:08]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:09]
+  Chance Hines equipped Сварочный аппарат
+[11/06/2022 19:33:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:09]
+  Tyson Kidd equipped Сварочный аппарат
+[11/06/2022 19:33:09]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:10]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:33:10]
+  igameCrog equipped Сварочный аппарат
+[11/06/2022 19:33:10]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:33:10]
+  Saving client permissions
+[11/06/2022 19:33:10]
+  Hammerhead has died (Cause of death: Рваная рана)
+[11/06/2022 19:33:10]
+  Stephane Palmieri: Враг уничтожен!
+[11/06/2022 19:33:12]
+  Outer wall repaired by Chance Hines
+[11/06/2022 19:33:13]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/06/2022 19:33:14]
+  Chance Hines unequipped Сварочный аппарат
+[11/06/2022 19:33:18]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:33:19]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:33:19]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:33:19]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:33:21]
+  Tyson Kidd started repairing Суперконденсатор
+[11/06/2022 19:33:23]
+  Priscilla Jones started repairing Суперконденсатор
+[11/06/2022 19:33:23]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:33:25]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:33:25]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:33:27]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:33:27]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 300)
+[11/06/2022 19:33:40]
+  kynlan4ic picked up Медаль коалиции
+[11/06/2022 19:33:40]
+  kynlan4ic picked up Медаль коалиции
+[11/06/2022 19:33:40]
+  kynlan4ic picked up Медаль коалиции
+[11/06/2022 19:33:42]
+  kynlan4ic equipped Медаль коалиции
+[11/06/2022 19:33:44]
+  igameCrog attacked by kynlan4ic.
+[11/06/2022 19:33:44]
+  kynlan4ic used Медаль коалиции on igameCrog.
+[11/06/2022 19:33:44]
+  igameCrog has gained 750 experience (2824 -> 3574)
+[11/06/2022 19:33:44]
+  kynlan4ic equipped Медаль коалиции
+[11/06/2022 19:33:48]
+  igameCrog picked up Взрывной гранат
+[11/06/2022 19:33:48]
+  igameCrog picked up Взрывной гранат
+[11/06/2022 19:34:01]
+  igameCrog equipped Взрывной гранат
+[11/06/2022 19:34:01]
+  igameCrog equipped Взрывной гранат
+[11/06/2022 19:34:03]
+  igameCrog threw Взрывной гранат
+[11/06/2022 19:34:07]
+  igameCrog dropped Взрывной гранат
+[11/06/2022 19:34:12]
+  kynlan4ic has gained the talent 'Командир'
+[11/06/2022 19:34:16]
+  igameCrog placed Взрывной гранат in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:34:19]
+  igameCrog removed Взрывной гранат from Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:34:19]
+  kynlan4ic placed Медаль коалиции in Защищенный стальной шкаф (ID: 600)
+[11/06/2022 19:34:19]
+  kynlan4ic placed Медаль коалиции in Защищенный стальной шкаф (ID: 600)
+[11/06/2022 19:34:31]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:34:31]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:34:32]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:34:35]
+  Tyson Kidd started repairing Ядерный реактор
+[11/06/2022 19:34:36]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:34:39]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:34:39]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:34:52]
+  kynlan4ic picked up Медаль коалиции
+[11/06/2022 19:34:52]
+  kynlan4ic picked up Медаль коалиции
+[11/06/2022 19:34:56]
+  kynlan4ic placed Медаль коалиции in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:34:56]
+  kynlan4ic placed Медаль коалиции in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:34:59]
+  Игрок rus7ak отключился от игры. Причина: Время истекло
+[11/06/2022 19:35:04]
+  igameCrog picked up Медаль коалиции
+[11/06/2022 19:35:06]
+  igameCrog equipped Медаль коалиции
+[11/06/2022 19:35:09]
+  kynlan4ic attacked by igameCrog.
+[11/06/2022 19:35:09]
+  igameCrog used Медаль коалиции on kynlan4ic.
+[11/06/2022 19:35:09]
+  kynlan4ic has gained 750 experience (2824 -> 3574)
+[11/06/2022 19:35:17]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:35:17]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:35:17]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:35:17]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:35:18]
+  igameCrog picked up Медаль коалиции
+[11/06/2022 19:35:18]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:35:18]
+  kynlan4ic: ё
+[11/06/2022 19:35:19]
+  igameCrog equipped Медаль коалиции
+[11/06/2022 19:35:20]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:35:20]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:35:21]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:35:21]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:35:26]
+  kynlan4ic attacked by igameCrog.
+[11/06/2022 19:35:26]
+  igameCrog used Медаль коалиции on kynlan4ic.
+[11/06/2022 19:35:26]
+  kynlan4ic has gained 750 experience (3574 -> 4324)
+[11/06/2022 19:35:49]
+  kynlan4ic has gained the talent 'Бродячий торговец'
+[11/06/2022 19:36:37]
+  kynlan4ic equipped Ящик со взрывчаткой
+[11/06/2022 19:36:41]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:36:41]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:36:41]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:36:41]
+  Chance Hines started repairing Кабельная коробка
+[11/06/2022 19:36:42]
+  Tyson Kidd started repairing Кабельная коробка
+[11/06/2022 19:36:42]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:36:43]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:36:44]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:36:44]
+  Saving client permissions
+[11/06/2022 19:36:45]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:36:45]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:36:48]
+  igameCrog equipped Ящик со взрывчаткой
+[11/06/2022 19:36:51]
+  kynlan4ic picked up Водолазный скафандр
+[11/06/2022 19:36:51]
+  igameCrog dropped Ящик со взрывчаткой
+[11/06/2022 19:36:56]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:36:58]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:37:01]
+  kynlan4ic dropped Ящик со взрывчаткой
+[11/06/2022 19:37:12]
+  kynlan4ic equipped Ящик с химикатами
+[11/06/2022 19:37:20]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 19:37:32]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:37:43]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:37:50]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:37:50]
+  kynlan4ic equipped Вещмешок
+[11/06/2022 19:37:51]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:37:51]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:37:51]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:37:51]
+  Fanny Preston started repairing Кабельная коробка
+[11/06/2022 19:37:51]
+  Tyson Kidd started repairing Кабельная коробка
+[11/06/2022 19:37:52]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:37:53]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:37:54]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:37:55]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:37:56]
+  kynlan4ic dropped Вещмешок
+[11/06/2022 19:37:58]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:37:59]
+  igameCrog has gained the talent 'Курс механики'
+[11/06/2022 19:38:00]
+  rus7ak has died (Cause of death: Disconnected)
+[11/06/2022 19:38:03]
+  kynlan4ic equipped Капсула для импульсного лазера
+[11/06/2022 19:38:06]
+  kynlan4ic dropped Капсула для импульсного лазера
+[11/06/2022 19:38:08]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:38:08]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:38:10]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:38:11]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:38:13]
+  kynlan4ic dropped Капсула для импульсного лазера
+[11/06/2022 19:38:13]
+  Tyson Kidd started repairing Навигационный терминал
+[11/06/2022 19:38:14]
+  Disconnecting client rus7ak. Syncing the client with the server took too long.
+[11/06/2022 19:38:14]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 19:38:14]
+  Priscilla Jones started repairing Навигационный терминал
+[11/06/2022 19:38:16]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:38:17]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:38:17]
+  Priscilla Jones started repairing Монитор состояния
+[11/06/2022 19:38:20]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:38:20]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:38:20]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 19:38:23]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:38:27]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:38:30]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:38:34]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:38:34]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:38:36]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:38:41]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:38:41]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:38:44]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:38:48]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:38:55]
+  igameCrog dropped Ящик со взрывчаткой
+[11/06/2022 19:39:01]
+  igameCrog dropped Ящик со взрывчаткой
+[11/06/2022 19:39:03]
+  kynlan4ic dropped Вещмешок
+[11/06/2022 19:39:06]
+  Priscilla Jones equipped Гаечный ключ
+[11/06/2022 19:39:06]
+  Chance Hines equipped Гаечный ключ
+[11/06/2022 19:39:07]
+  Tyson Kidd equipped Гаечный ключ
+[11/06/2022 19:39:07]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:39:07]
+  Fanny Preston equipped Гаечный ключ
+[11/06/2022 19:39:08]
+  igameCrog dropped Металлический ящик
+[11/06/2022 19:39:09]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:39:09]
+  Chance Hines started repairing Генератор кислорода
+[11/06/2022 19:39:10]
+  igameCrog dropped Металлический ящик
+[11/06/2022 19:39:11]
+  Tyson Kidd unequipped Гаечный ключ
+[11/06/2022 19:39:13]
+  Priscilla Jones unequipped Гаечный ключ
+[11/06/2022 19:39:13]
+  Chance Hines unequipped Гаечный ключ
+[11/06/2022 19:39:13]
+  Fanny Preston unequipped Гаечный ключ
+[11/06/2022 19:39:13]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:39:16]
+  igameCrog equipped Ящик с химикатами
+[11/06/2022 19:39:19]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:39:22]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:39:22]
+  Saving client permissions
+[11/06/2022 19:39:23]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:39:24]
+  igameCrog dropped Ящик с химикатами
+[11/06/2022 19:39:24]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:39:24]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:39:24]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:39:24]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 19:39:25]
+  Chance Hines failed to repair Кабельная коробка
+[11/06/2022 19:39:26]
+  Fanny Preston started repairing Кабельная коробка
+[11/06/2022 19:39:26]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:39:27]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:39:28]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:39:28]
+  igameCrog equipped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:39:28]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:39:29]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:39:29]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:39:32]
+  igameCrog dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:39:34]
+  kynlan4ic dropped Капсула для импульсного лазера
+[11/06/2022 19:39:38]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:39:40]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:39:41]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:39:42]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:39:43]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:39:43]
+  kynlan4ic dropped Капсула для импульсного лазера
+[11/06/2022 19:39:44]
+  Chance Hines failed to repair Кабельная коробка
+[11/06/2022 19:39:45]
+  igameCrog equipped Вещмешок
+[11/06/2022 19:39:45]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:39:46]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:39:48]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:39:49]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:39:51]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:39:52]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:39:53]
+  kynlan4ic equipped Ящик со взрывчаткой
+[11/06/2022 19:39:54]
+  igameCrog dropped Вещмешок
+[11/06/2022 19:39:55]
+  kynlan4ic dropped Ящик со взрывчаткой
+[11/06/2022 19:39:55]
+  Tyson Kidd: Слышишь?
+[11/06/2022 19:39:55]
+  kynlan4ic equipped Ящик с химикатами
+[11/06/2022 19:39:56]
+  Fanny Preston: Что?
+[11/06/2022 19:39:57]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 19:39:57]
+  Tyson Kidd: Как будто что-то скребется когтями по корпусу.
+[11/06/2022 19:39:58]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:39:59]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:40:02]
+  Tyson Kidd: Наверное, воображение разыгралось.
+[11/06/2022 19:40:03]
+  igameCrog dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:40:04]
+  kynlan4ic equipped Вещмешок
+[11/06/2022 19:40:10]
+  igameCrog equipped Медконтейнер
+[11/06/2022 19:40:11]
+  kynlan4ic picked up Пояс инструментов
+[11/06/2022 19:40:14]
+  kynlan4ic dropped Вещмешок
+[11/06/2022 19:40:19]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:40:20]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:40:26]
+  kynlan4ic equipped Вещмешок
+[11/06/2022 19:40:29]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:40:30]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:40:30]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:40:30]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:40:30]
+  kynlan4ic picked up Револьвер
+[11/06/2022 19:40:30]
+  Tyson Kidd started repairing Кабельная коробка
+[11/06/2022 19:40:31]
+  kynlan4ic picked up Револьвер
+[11/06/2022 19:40:32]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:40:33]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:40:34]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:40:34]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:40:37]
+  igameCrog dropped Медконтейнер
+[11/06/2022 19:40:39]
+  kynlan4ic placed Револьвер in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:40:40]
+  kynlan4ic placed Револьвер in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:40:44]
+  kynlan4ic placed Нож ныряльщика in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:40:45]
+  kynlan4ic placed Шоковая дубинка in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:40:46]
+  kynlan4ic placed Наручники in Средний стальной шкаф с окном (ID: 627)
+[11/06/2022 19:40:56]
+  kynlan4ic dropped Вещмешок
+[11/06/2022 19:41:01]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:41:07]
+  igameCrog equipped Вещмешок
+[11/06/2022 19:41:08]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:41:08]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:41:08]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:41:09]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:41:10]
+  Chance Hines started repairing Кабельная коробка
+[11/06/2022 19:41:10]
+  Fanny Preston started repairing Кабельная коробка
+[11/06/2022 19:41:11]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:41:11]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:41:11]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:41:14]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:41:15]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:41:15]
+  igameCrog dropped Вещмешок
+[11/06/2022 19:41:21]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:41:27]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:41:28]
+  Disconnecting client rus7ak. Syncing the client with the server took too long.
+[11/06/2022 19:41:28]
+  Игрок rus7ak отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/06/2022 19:41:34]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:42:01]
+  Игрок rus7ak присоединился к серверу.
+[11/06/2022 19:42:01]
+  Saving client permissions
+[11/06/2022 19:42:05]
+  kynlan4ic equipped Металлический ящик
+[11/06/2022 19:42:10]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:42:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:42:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:42:15]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:42:22]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:42:28]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:42:28]
+  kynlan4ic dropped Кислородный баллон
+[11/06/2022 19:42:28]
+  kynlan4ic placed Кислородный баллон in Водолазный скафандр (ID: 294)
+[11/06/2022 19:42:51]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:42:55]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:42:59]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:43:02]
+  kynlan4ic dropped Ящик со взрывчаткой
+[11/06/2022 19:43:06]
+  kynlan4ic dropped Ящик с химикатами
+[11/06/2022 19:43:10]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:43:13]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:43:17]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:43:17]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:43:17]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:43:17]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:43:19]
+  Fanny Preston started repairing Кабельная коробка
+[11/06/2022 19:43:19]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:43:19]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:43:21]
+  kynlan4ic dropped Вещмешок
+[11/06/2022 19:43:21]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:43:23]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:43:23]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:43:25]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:43:29]
+  kynlan4ic dropped Металлический ящик
+[11/06/2022 19:43:31]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:43:33]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/06/2022 19:43:36]
+  kynlan4ic equipped Медконтейнер
+[11/06/2022 19:43:36]
+  Dispatching the respawn shuttle.
+[11/06/2022 19:43:36]
+  Respawning rus7ak (STEAM_1:0:605122191) as Механик
+[11/06/2022 19:43:38]
+  kynlan4ic dropped Медконтейнер
+[11/06/2022 19:43:38]
+  igameCrog equipped Металлический ящик
+[11/06/2022 19:43:39]
+  rus7ak set the value "Channel" of the item "Наушники" to "0".
+[11/06/2022 19:43:40]
+  igameCrog dropped Металлический ящик
+[11/06/2022 19:43:44]
+  igameCrog picked up Топливный стержень
+[11/06/2022 19:44:01]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 709)
+[11/06/2022 19:44:03]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 708)
+[11/06/2022 19:44:04]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 708)
+[11/06/2022 19:44:04]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 708)
+[11/06/2022 19:44:07]
+  kynlan4ic: Priscilla Jones, заряди реактор!
+[11/06/2022 19:44:08]
+  Priscilla Jones: Слушаюсь!
+[11/06/2022 19:44:09]
+  Priscilla Jones: Загружаю в реактор дополнительное топливо!
+[11/06/2022 19:44:09]
+  Priscilla Jones equipped Топливный стержень
+[11/06/2022 19:44:13]
+  Chance Hines equipped Топливный стержень
+[11/06/2022 19:44:13]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:44:14]
+  Priscilla Jones started repairing Ядерный реактор
+[11/06/2022 19:44:15]
+  igameCrog set the recharge speed of Батарея to 60 %
+[11/06/2022 19:44:15]
+  igameCrog set the recharge speed of Батарея to 70 %
+[11/06/2022 19:44:16]
+  igameCrog set the recharge speed of Батарея to 40 %
+[11/06/2022 19:44:16]
+  igameCrog set the recharge speed of Батарея to 10 %
+[11/06/2022 19:44:16]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:44:17]
+  igameCrog set the recharge speed of Батарея to 0 %
+[11/06/2022 19:44:17]
+  igameCrog set the recharge speed of Батарея to 30 %
+[11/06/2022 19:44:17]
+  igameCrog set the recharge speed of Батарея to 60 %
+[11/06/2022 19:44:18]
+  igameCrog set the recharge speed of Батарея to 50 %
+[11/06/2022 19:44:29]
+  Stephane Palmieri: У меня новая цель! Не могу понять, что это такое...
+[11/06/2022 19:44:29]
+  Stephane Palmieri: Огонь!
+[11/06/2022 19:44:29]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:30]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:31]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:32]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:34]
+  Outer wall breached by Mudraptor_unarmored
+[11/06/2022 19:44:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:35]
+  Outer wall breached by Mudraptor_unarmored
+[11/06/2022 19:44:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:36]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:37]
+  Chance Hines equipped Сварочный аппарат
+[11/06/2022 19:44:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:37]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:37]
+  Outer wall repaired by Chance Hines
+[11/06/2022 19:44:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:38]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:38]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[11/06/2022 19:44:38]
+  Stephane Palmieri: Кажется, есть попадание!
+[11/06/2022 19:44:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:39]
+  Chance Hines unequipped Сварочный аппарат
+[11/06/2022 19:44:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:39]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:40]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:40]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:40]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:41]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:42]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:42]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:43]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:43]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:43]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:44]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:45]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:46]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:47]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:48]
+  Outer wall breached by Mudraptor_unarmored
+[11/06/2022 19:44:48]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:49]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:50]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:50]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:50]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:51]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:51]
+  kynlan4ic placed Кислородный баллон in Подводная маска (ID: 3104)
+[11/06/2022 19:44:51]
+  kynlan4ic removed Кислородный баллон from Подводная маска (ID: 3104)
+[11/06/2022 19:44:51]
+  kynlan4ic placed Кислородный баллон in Полка для хранения кислородных баллонов (ID: 298)
+[11/06/2022 19:44:51]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:53]
+  Outer wall breached by Mudraptor_unarmored
+[11/06/2022 19:44:54]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:54]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:54]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:54]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:55]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:44:55]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:10]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:45:10]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:45:11]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:45:11]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:45:11]
+  Tyson Kidd started repairing Кабельная коробка
+[11/06/2022 19:45:12]
+  Stephane Palmieri: Огонь!
+[11/06/2022 19:45:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:12]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:45:12]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:45:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:12]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:45:12]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:13]
+  Outer wall breached by Mudraptor_unarmored
+[11/06/2022 19:45:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:13]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:14]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:45:14]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[11/06/2022 19:45:14]
+  Stephane Palmieri: Цель уничтожена!
+[11/06/2022 19:45:15]
+  Tyson Kidd failed to repair Суперконденсатор
+[11/06/2022 19:45:15]
+  Chance Hines failed to repair Суперконденсатор
+[11/06/2022 19:45:16]
+  Fanny Preston started repairing Суперконденсатор
+[11/06/2022 19:45:18]
+  Priscilla Jones started repairing Суперконденсатор
+[11/06/2022 19:45:18]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:45:19]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:45:20]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:45:24]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:45:36]
+  Fanny Preston equipped Сварочный аппарат
+[11/06/2022 19:45:36]
+  Chance Hines: Надо найти водолазный скафандр!
+[11/06/2022 19:45:37]
+  Outer wall repaired by Fanny Preston
+[11/06/2022 19:45:38]
+  Outer wall repaired by Fanny Preston
+[11/06/2022 19:45:38]
+  Fanny Preston: Моторный отсек: все протечки устранены!
+[11/06/2022 19:45:39]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:45:39]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:45:40]
+  Fanny Preston unequipped Сварочный аппарат
+[11/06/2022 19:45:55]
+  rus7ak picked up Одноразовый водолазный скафандр
+[11/06/2022 19:46:06]
+  kynlan4ic placed Сварочный аппарат in Пояс инструментов (ID: 249)
+[11/06/2022 19:46:06]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:46:06]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:46:08]
+  Chance Hines started repairing Кабельная коробка
+[11/06/2022 19:46:08]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:46:08]
+  kynlan4ic placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 249)
+[11/06/2022 19:46:09]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:46:10]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 19:46:13]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:46:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:46:14]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:46:15]
+  kynlan4ic picked up Кислородный баллон
+[11/06/2022 19:46:16]
+  rus7ak picked up Кислородный баллон
+[11/06/2022 19:46:16]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 249)
+[11/06/2022 19:46:16]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 249)
+[11/06/2022 19:46:16]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 249)
+[11/06/2022 19:46:17]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:46:17]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:46:18]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:46:18]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:46:19]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:46:21]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:46:21]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:46:22]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:46:22]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:46:26]
+  kynlan4ic equipped Глубинная приманка
+[11/06/2022 19:46:28]
+  kynlan4ic dropped Глубинная приманка
+[11/06/2022 19:46:37]
+  The respawn shuttle is leaving.
+[11/06/2022 19:46:49]
+  igameCrog picked up Водолазный скафандр
+[11/06/2022 19:46:53]
+  igameCrog placed Кислородный баллон in Хозяйственный шкаф (ID: 759)
+[11/06/2022 19:47:03]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:47:03]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:47:04]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:47:04]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:47:04]
+  Fanny Preston started repairing Кабельная коробка
+[11/06/2022 19:47:05]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:47:05]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:47:07]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:47:07]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:47:08]
+  The respawn shuttle has left.
+[11/06/2022 19:47:09]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:47:14]
+  Fanny Preston equipped Кислородный баллон
+[11/06/2022 19:47:54]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:47:54]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:47:55]
+  Fanny Preston equipped Отвертка
+[11/06/2022 19:47:56]
+  Tyson Kidd equipped Отвертка
+[11/06/2022 19:47:57]
+  Tyson Kidd started repairing Монитор состояния
+[11/06/2022 19:47:57]
+  rus7ak dropped Одноразовый водолазный скафандр
+[11/06/2022 19:47:59]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:48:00]
+  Priscilla Jones started repairing Монитор состояния
+[11/06/2022 19:48:01]
+  Fanny Preston unequipped Отвертка
+[11/06/2022 19:48:01]
+  Tyson Kidd unequipped Отвертка
+[11/06/2022 19:48:03]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 300)
+[11/06/2022 19:48:07]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:48:55]
+  Chance Hines equipped Отвертка
+[11/06/2022 19:48:56]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:48:57]
+  Priscilla Jones started repairing Кабельная коробка
+[11/06/2022 19:48:59]
+  Chance Hines unequipped Отвертка
+[11/06/2022 19:49:01]
+  igameCrog picked up Топливный стержень
+[11/06/2022 19:49:02]
+  Priscilla Jones unequipped Отвертка
+[11/06/2022 19:49:09]
+  kynlan4ic picked up Гаечный ключ
+[11/06/2022 19:49:12]
+  kynlan4ic equipped Гаечный ключ
+[11/06/2022 19:49:21]
+  igameCrog picked up Топливный стержень
+[11/06/2022 19:49:21]
+  igameCrog dropped Топливный стержень
+[11/06/2022 19:49:21]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 457)
+[11/06/2022 19:49:22]
+  Priscilla Jones: Загружаю в реактор дополнительное топливо!
+[11/06/2022 19:49:23]
+  Priscilla Jones equipped Топливный стержень
+[11/06/2022 19:49:26]
+  kynlan4ic placed Гаечный ключ in Human
+[11/06/2022 19:49:26]
+  kynlan4ic picked up Отвертка
+[11/06/2022 19:49:27]
+  Fanny Preston equipped Топливный стержень
+[11/06/2022 19:49:28]
+  Stephane Palmieri: Новая цель: ледяной шпиль!
+[11/06/2022 19:49:28]
+  Stephane Palmieri: Огонь!
+[11/06/2022 19:49:28]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:33]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:34]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:35]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/06/2022 19:49:40]
+  kynlan4ic equipped Отвертка
+[11/06/2022 19:49:44]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "147,255,255,120".
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:47]
+  rus7ak picked up Топливный стержень
+[11/06/2022 19:49:49]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,255,255,120".
+[11/06/2022 19:49:55]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,117,255,120".
+[11/06/2022 19:50:02]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,117,101,120".
+[11/06/2022 19:50:03]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,117,101,120".
+[11/06/2022 19:50:07]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,117,101,246".
+[11/06/2022 19:50:10]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "136,117,101,246".
+[11/06/2022 19:50:11]
+  rus7ak placed Топливный стержень in Ядерный реактор (ID: 457)
+[11/06/2022 19:50:11]
+  igameCrog equipped Отвертка
+[11/06/2022 19:50:14]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "253,117,101,246".
+[11/06/2022 19:50:14]
+  Jackie Petersen: Как здесь паршиво!
+[11/06/2022 19:50:16]
+  Jackie Petersen: Я хочу домой!
+[11/06/2022 19:50:17]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "253,42,101,246".
+[11/06/2022 19:50:24]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "253,42,0,246".
+[11/06/2022 19:50:24]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,80".
+[11/06/2022 19:50:26]
+  Roslyn Fesler equipped Топливный стержень
+[11/06/2022 19:50:26]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "0,0,0,80".
+[11/06/2022 19:50:29]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 757)
+[11/06/2022 19:50:30]
+  Priscilla Jones equipped Отвертка
+[11/06/2022 19:50:30]
+  Fanny Preston equipped Отвертка

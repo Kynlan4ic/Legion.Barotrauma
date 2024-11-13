@@ -1,0 +1,618 @@
+﻿[10/28/2022 22:09:30]
+  Starting the server...
+[10/28/2022 22:09:30]
+  Using SteamP2P networking.
+[10/28/2022 22:09:30]
+  Server started
+[10/28/2022 22:09:30]
+  Игрок kynlan4ic присоединился к серверу.
+[10/28/2022 22:09:30]
+  Saving client permissions
+[10/28/2022 22:09:30]
+  Saving client permissions
+[10/28/2022 22:11:50]
+  Игрок igameCrog присоединился к серверу.
+[10/28/2022 22:11:50]
+  Saving client permissions
+[10/28/2022 22:13:09]
+  Игрок Супостат присоединился к серверу.
+[10/28/2022 22:13:09]
+  Saving client permissions
+[10/28/2022 22:16:23]
+  Client "kynlan4ic" started the round.
+[10/28/2022 22:16:23]
+  Starting a new round...
+[10/28/2022 22:16:30]
+  Миссия: Добыча артефакта
+[10/28/2022 22:16:30]
+  Центр Set: исследователи, работающие в этом районе, засекли инфразвуковой сигнал, похожий на тот, что излучают инопланетные артефакты, ранее обнаруженные на Европе. Изучите источник сигнала и добудьте предполагаемый артефакт.
+[10/28/2022 22:16:30]
+  Game mode: Миссия
+[10/28/2022 22:16:30]
+  Submarine: Sardine
+[10/28/2022 22:16:30]
+  Level seed: Cq1w29ix
+[10/28/2022 22:16:30]
+  Mission: Добыча артефакта
+[10/28/2022 22:16:30]
+  Jarrod Ouellette equipped Сварочный аппарат
+[10/28/2022 22:16:31]
+  Joseph Carey equipped Пистолет-пулемет
+[10/28/2022 22:16:31]
+  Mikaela Case equipped Прототип паровой пушки
+[10/28/2022 22:16:31]
+  Chuck Nicolosi equipped Плазменный резак
+[10/28/2022 22:16:32]
+  Round started.
+[10/28/2022 22:16:34]
+  Fractalguardian equipped Гарпун стража
+[10/28/2022 22:16:34]
+  Fractalguardian equipped Гарпун стража
+[10/28/2022 22:16:39]
+  Orval Feinman: Спокойное море моряка ничему не научит.
+[10/28/2022 22:16:39]
+  Ivan Tyson: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:16:40]
+  Armanda Moses: Загружаю в реактор дополнительное топливо!
+[10/28/2022 22:16:42]
+  Ivan Tyson equipped Топливный стержень
+[10/28/2022 22:17:03]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  kynlan4ic picked up Топливный стержень
+[10/28/2022 22:17:34]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:17:44]
+  igameCrog picked up Яйца велонацепса каликса
+[10/28/2022 22:17:47]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:48]
+  igameCrog picked up Бинт
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:49]
+  igameCrog picked up Морфин
+[10/28/2022 22:17:52]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:17:53]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:17:55]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:18:00]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:18:05]
+  igameCrog picked up Пояс инструментов
+[10/28/2022 22:18:11]
+  igameCrog placed Шприц-пистолет in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:13]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:15]
+  igameCrog placed Бинт in Форма врача (ID: 7407)
+[10/28/2022 22:18:17]
+  igameCrog placed Бинт in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:22]
+  igameCrog picked up Антирад
+[10/28/2022 22:18:24]
+  igameCrog picked up Каликсанид
+[10/28/2022 22:18:30]
+  igameCrog placed Антирад in Форма врача (ID: 7407)
+[10/28/2022 22:18:32]
+  igameCrog placed Каликсанид in Форма врача (ID: 7407)
+[10/28/2022 22:18:35]
+  igameCrog placed Яйца велонацепса каликса in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:37]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:42]
+  Супостат is a traitor and the current goals are:
+- Ваша цель: Бредоген. Вы найдете ее здесь: Медицинский отсек. (В процессе)
+
+[10/28/2022 22:18:44]
+  igameCrog placed Морфин in Пояс инструментов (ID: 7456)
+[10/28/2022 22:18:47]
+  Armanda Moses equipped Контейнер для хранения
+[10/28/2022 22:19:21]
+  igameCrog picked up Подводная маска
+[10/28/2022 22:19:24]
+  igameCrog picked up Ручной сонар
+[10/28/2022 22:19:24]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:19:28]
+  igameCrog placed Подводный скутер in Пояс инструментов (ID: 7456)
+[10/28/2022 22:20:14]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:14]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:18]
+  Inner wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:24]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:25]
+  Outer wall breached by Mudraptor
+[10/28/2022 22:20:26]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:27]
+  kynlan4ic: Ivan Tyson, займись протечками!
+[10/28/2022 22:20:27]
+  igameCrog picked up Водолазный скафандр
+[10/28/2022 22:20:28]
+  Ivan Tyson: Само собой!
+[10/28/2022 22:20:29]
+  Ivan Tyson: Надо найти водолазный скафандр!
+[10/28/2022 22:20:30]
+  kynlan4ic: Adam Ellison, защищай команду!
+[10/28/2022 22:20:30]
+  Adam Ellison equipped Шоковая дубинка
+[10/28/2022 22:20:30]
+  Adam Ellison: Надо найти водолазный скафандр!
+[10/28/2022 22:20:31]
+  Adam Ellison: Принято.
+[10/28/2022 22:20:33]
+  Adam Ellison unequipped Шоковая дубинка
+[10/28/2022 22:20:33]
+  Adam Ellison equipped Шоковая дубинка
+[10/28/2022 22:20:33]
+  Inner wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:34]
+  Inner wall breached by Mudraptor_unarmored
+[10/28/2022 22:20:34]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:36]
+  Супостат picked up Водолазный скафандр
+[10/28/2022 22:20:38]
+  Armanda Moses equipped Гаечный ключ
+[10/28/2022 22:20:38]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:20:38]
+  Ivan Tyson: Я теряю много крови!
+[10/28/2022 22:20:39]
+  Jan Huber: Надо найти водолазный скафандр!
+[10/28/2022 22:20:39]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:39]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:40]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:40]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:40]
+  Armanda Moses: Надо найти водолазный скафандр!
+[10/28/2022 22:20:41]
+  Orval Feinman unequipped Гаечный ключ
+[10/28/2022 22:20:42]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:20:43]
+  Orval Feinman unequipped Гаечный ключ
+[10/28/2022 22:20:43]
+  Orval Feinman equipped Отвертка
+[10/28/2022 22:20:43]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:43]
+  Ivan Tyson equipped Отвертка
+[10/28/2022 22:20:43]
+  Orval Feinman: Надо найти водолазный скафандр!
+[10/28/2022 22:20:43]
+  Adam Ellison unequipped Шоковая дубинка
+[10/28/2022 22:20:43]
+  Adam Ellison equipped Нож ныряльщика
+[10/28/2022 22:20:44]
+  Adam Ellison: У меня кровь!
+[10/28/2022 22:20:44]
+  Adam Ellison unequipped Нож ныряльщика
+[10/28/2022 22:20:44]
+  Adam Ellison equipped Шоковая дубинка
+[10/28/2022 22:20:44]
+  Ivan Tyson unequipped Отвертка
+[10/28/2022 22:20:44]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:45]
+  Adam Ellison used Шоковая дубинка (Аккумулятор) on Mudraptor_unarmored.
+[10/28/2022 22:20:54]
+  kynlan4ic picked up Водолазный скафандр
+[10/28/2022 22:20:55]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:55]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:55]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:55]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:56]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:56]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:57]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:57]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:57]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:57]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:58]
+  Orval Feinman unequipped Отвертка
+[10/28/2022 22:20:58]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:20:58]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:58]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:20:59]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:20:59]
+  Ivan Tyson equipped Гаечный ключ
+[10/28/2022 22:20:59]
+  Ivan Tyson unequipped Гаечный ключ
+[10/28/2022 22:20:59]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:21:02]
+  Armanda Moses unequipped Гаечный ключ
+[10/28/2022 22:21:02]
+  Armanda Moses equipped Гаечный ключ
+[10/28/2022 22:21:02]
+  Orval Feinman unequipped Гаечный ключ
+[10/28/2022 22:21:02]
+  Orval Feinman equipped Гаечный ключ
+[10/28/2022 22:21:09]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:21:09]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:21:10]
+  Ivan Tyson: Помогите, я истекаю кровью!
+[10/28/2022 22:21:10]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:21:11]
+  Ivan Tyson unequipped Сварочный аппарат
+[10/28/2022 22:21:11]
+  Jan Huber: Мне нужно подводное снаряжение!
+[10/28/2022 22:21:12]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:21:12]
+  Armanda Moses: Мне нужно подводное снаряжение!
+[10/28/2022 22:21:14]
+  Orval Feinman: Мне нужно подводное снаряжение!
+[10/28/2022 22:21:19]
+  Adam Ellison has died (Cause of death: Укусы)
+[10/28/2022 22:21:19]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:21:21]
+  igameCrog equipped Подводный скутер
+[10/28/2022 22:21:23]
+  Orval Feinman: Балласт: высокий уровень давления!
+[10/28/2022 22:21:24]
+  Orval Feinman has died (Cause of death: Баротравма)
+[10/28/2022 22:21:24]
+  Armanda Moses has died (Cause of death: Баротравма)
+[10/28/2022 22:21:24]
+  Jan Huber has died (Cause of death: Баротравма)
+[10/28/2022 22:21:29]
+  kynlan4ic equipped Револьвер
+[10/28/2022 22:21:30]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 5.3199997 Кровотечение: 2.5 Оглушение: 0.3
+[10/28/2022 22:21:31]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:32]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:33]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:34]
+  Mudraptor_unarmored has died (Cause of death: Огнестрельная рана)
+[10/28/2022 22:21:34]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:35]
+  Ivan Tyson equipped Сварочный аппарат
+[10/28/2022 22:21:37]
+  Mudraptor_unarmored attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/28/2022 22:21:44]
+  Ivan Tyson: Помогите, я истекаю кровью!
+[10/28/2022 22:21:48]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:21:48]
+  igameCrog picked up Пакет с кровью
+[10/28/2022 22:21:50]
+  kynlan4ic equipped Кислородный баллон
+[10/28/2022 22:21:52]
+  kynlan4ic equipped Подводный скутер
+[10/28/2022 22:21:58]
+  igameCrog used item Пакет с кровью
+[10/28/2022 22:21:58]
+  igameCrog used item Пакет с кровью
+[10/28/2022 22:22:16]
+  igameCrog used item Яйца велонацепса каликса
+[10/28/2022 22:22:16]
+  Ivan Tyson: Помогите, я истекаю кровью!
+[10/28/2022 22:22:17]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/28/2022 22:22:21]
+  igameCrog used item Бинт
+[10/28/2022 22:22:25]
+  igameCrog used item Бинт
+[10/28/2022 22:22:27]
+  Dispatching the respawn shuttle.
+[10/28/2022 22:22:27]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/28/2022 22:22:27]
+  Respawning bot Armanda Moses as Помощник
+[10/28/2022 22:22:27]
+  Respawning bot Orval Feinman as Инженер
+[10/28/2022 22:22:28]
+  Respawning bot Adam Ellison as Офицер службы безопасности
+[10/28/2022 22:22:28]
+  Respawning bot Jan Huber as Врач
+[10/28/2022 22:22:30]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:22:36]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/28/2022 22:23:09]
+  Mudraptor_unarmored has died (Cause of death: Травма от удара тупым предметом)
+[10/28/2022 22:23:12]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:23:14]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:23:14]
+  Ivan Tyson: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/28/2022 22:23:27]
+  Outer wall breached by Mudraptor_unarmored
+[10/28/2022 22:23:31]
+  Orval Feinman: Мне нужно подводное снаряжение!
+[10/28/2022 22:23:34]
+  Jan Huber: Мне нужно подводное снаряжение!
+[10/28/2022 22:23:35]
+  Adam Ellison: Мне нужно подводное снаряжение!
+[10/28/2022 22:23:45]
+  Armanda Moses: Надо найти водолазный скафандр!
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:23:49]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:23:51]
+  kynlan4ic picked up Плазменный резак
+[10/28/2022 22:23:57]
+  kynlan4ic picked up Ручной сонар
+[10/28/2022 22:24:13]
+  kynlan4ic equipped Кислородный баллон
+[10/28/2022 22:24:16]
+  kynlan4ic equipped Подводный скутер
+[10/28/2022 22:24:42]
+  Ivan Tyson: Орудийный отсек: минус одна протечка!
+[10/28/2022 22:24:44]
+  Ivan Tyson: Орудийный отсек: протечек не осталось!
+[10/28/2022 22:25:00]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:01]
+  Inner wall repaired by Ivan Tyson
+[10/28/2022 22:25:01]
+  Ivan Tyson: Балласт: выполняю ремонт. Осталось несколько отверстий!
+[10/28/2022 22:25:15]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:15]
+  Ivan Tyson: Воздушный шлюз: минус одна протечка!
+[10/28/2022 22:25:24]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:27]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:28]
+  Ivan Tyson: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/28/2022 22:25:29]
+  Outer wall repaired by Ivan Tyson
+[10/28/2022 22:25:31]
+  Ivan Tyson: Меняем кислородные баллоны!
+[10/28/2022 22:25:33]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:25:33]
+  igameCrog dropped Кислородный баллон
+[10/28/2022 22:25:33]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 369)
+[10/28/2022 22:25:33]
+  Ivan Tyson has died (Cause of death: Баротравма)
+[10/28/2022 22:25:33]
+  igameCrog has died (Cause of death: Баротравма)
+[10/28/2022 22:27:01]
+  Armanda Moses: Если останусь в живых, подам в отставку!
+[10/28/2022 22:27:33]
+  The respawn shuttle is leaving.
+[10/28/2022 22:27:40]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[10/28/2022 22:27:51]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/28/2022 22:27:54]
+  Jan Huber opened Настраиваемая дверь
+[10/28/2022 22:27:57]
+  Jan Huber opened Настраиваемая дверь
+[10/28/2022 22:27:58]
+  Jan Huber opened Настраиваемая дверь
+[10/28/2022 22:28:01]
+  Orval Feinman opened Настраиваемая дверь
+[10/28/2022 22:28:01]
+  Orval Feinman opened Настраиваемая дверь
+[10/28/2022 22:28:02]
+  Orval Feinman opened Настраиваемая дверь
+[10/28/2022 22:28:04]
+  Orval Feinman has died (Cause of death: Unknown)
+[10/28/2022 22:28:04]
+  Adam Ellison has died (Cause of death: Unknown)
+[10/28/2022 22:28:04]
+  Jan Huber has died (Cause of death: Unknown)
+[10/28/2022 22:28:04]
+  The respawn shuttle has left.
+[10/28/2022 22:28:12]
+  Супостат has died (Cause of death: Внутренняя травма)
+[10/28/2022 22:28:14]
+  Dispatching the respawn shuttle.
+[10/28/2022 22:28:14]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/28/2022 22:28:14]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/28/2022 22:28:14]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[10/28/2022 22:28:15]
+  Respawning bot Armanda Moses as Помощник
+[10/28/2022 22:28:15]
+  Respawning bot Orval Feinman as Инженер
+[10/28/2022 22:28:15]
+  Respawning bot Adam Ellison as Офицер службы безопасности
+[10/28/2022 22:28:16]
+  Respawning bot Jan Huber as Врач
+[10/28/2022 22:28:18]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:28:19]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:28:19]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[10/28/2022 22:28:22]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:28:26]
+  igameCrog picked up Подводная маска
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:28]
+  igameCrog picked up Кислородный баллон
+[10/28/2022 22:28:30]
+  kynlan4ic picked up Подводный скутер
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  kynlan4ic picked up Кислородный баллон
+[10/28/2022 22:28:31]
+  igameCrog picked up Подводный скутер
+[10/28/2022 22:28:32]
+  kynlan4ic picked up Плазменный резак
+[10/28/2022 22:28:32]
+  kynlan4ic picked up Ручной сонар
+[10/28/2022 22:28:33]
+  igameCrog placed Подводный скутер in Средний стальной шкаф (ID: 6973)
+[10/28/2022 22:28:34]
+  igameCrog picked up Гаечный ключ
+[10/28/2022 22:28:36]
+  igameCrog picked up Дементонитовый лом
+[10/28/2022 22:28:37]
+  igameCrog picked up Отвертка
+[10/28/2022 22:28:41]
+  igameCrog removed Плазменный резак from Средний стальной шкаф (ID: 6973)
+[10/28/2022 22:28:47]
+  kynlan4ic is a traitor and the current goals are:
+- Изучите печени членов экипажа. Найдите ту, что похожа на печень ползуна. (В процессе)
+
+[10/28/2022 22:28:47]
+  igameCrog equipped Плазменный резак
+[10/28/2022 22:28:55]
+  igameCrog picked up Пояс инструментов
+[10/28/2022 22:29:00]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:01]
+  igameCrog placed Дементонитовый лом in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:04]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:05]
+  igameCrog placed Морфин in Форма врача (ID: 7625)
+[10/28/2022 22:29:08]
+  igameCrog placed Бинт in Форма врача (ID: 7625)
+[10/28/2022 22:29:10]
+  igameCrog placed Шприц-пистолет in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:13]
+  Супостат picked up Подводный скутер
+[10/28/2022 22:29:13]
+  kynlan4ic equipped Револьвер
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 7659)
+[10/28/2022 22:29:14]
+  Супостат picked up Подводная маска
+[10/28/2022 22:29:17]
+  Супостат picked up Лом
+[10/28/2022 22:29:19]
+  Супостат picked up Закаленный лом
+[10/28/2022 22:29:43]
+  kynlan4ic docked Venture to Шахта Skadi's Cauldron
+[10/28/2022 22:30:01]
+  Ending round (submarine reached the end of the level)
+[10/28/2022 22:30:01]
+  Ending the round...

@@ -1,0 +1,330 @@
+﻿Barotrauma Client crash report (generated on 03/09/2023 21:10:06)
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+18B4B1F1463515508F0783BBFA6953EC
+
+Game version 0.21.6.0 (ReleaseWindows, branch release, revision 480a2279e0)
+Graphics mode: 1440x900 (BorderlessWindowed)
+VSync ON
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra, Dors, Umkhumbi, Uzurbator3000, SITE 18 SCP 3.5 FIXED DOORS 3.5, EK Matriarch Mk-VII, The Plague Rat, Super Plague Rat, Fat Fish, Bronze Age, Cast Iron, Nemesis, QF8, IHN Kalvair, Wellerman, Unnamed, Челнок R-155, CzechSaboteur, Челнок R-170, Гага дрын, The Deep Manatee, Gato Revamped, Wyvern, Shiftless, TR-56, EK | Armory, Improved Husks, EK | Gunnery, DynamicEuropa, ADV Beacon Stations, Stations from beyond, Backpacks, 32x Stack, SFB with DE, Beacons Extended, Combat Overhaul Redux(COR)
+Level seed: no level loaded
+Loaded submarine: None
+Selected screen: Barotrauma.NetLobbyScreen
+SteamManager initialized
+Client (Round hadn't been started)
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+    GPU name: NVIDIA GeForce GTX 1650
+    Display mode: {Width:1440 Height:900 Format:Color AspectRatio:1.6}
+    GPU status: Normal
+
+Exception: readStream was disconnected unexpectedly (System.Exception)
+Target site: Void CheckPipeConnected(System.String, System.IO.Pipes.AnonymousPipeServerStream)
+Stack trace: 
+   at Barotrauma.Networking.ChildServerRelay.CheckPipeConnected(String name, AnonymousPipeServerStream pipe) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 164
+   at Barotrauma.Networking.ChildServerRelay.UpdateRead() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Networking\ChildServerRelay.cs:line 175
+
+Last debug messages:
+[03/09/2023 21:10:06] WARNING: Tried to restore enabled packages multiple times/without performing a backup
+[03/09/2023 21:10:06] Exiting...
+[03/09/2023 21:09:41] Lobby created!
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'strengthen' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'stonewall' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'powerattack' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'lonewolf' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'foolhardy' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'berserker' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:08:37] Overriding an affliction or a buff with the identifier 'revengesquad' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2938755466/Override/Afflictions.xml'
+[03/09/2023 21:05:41] Unlocked mission "Пассажирские перевозки" in the connection from "Worm Cave" to "Udaeus Linea".
+[03/09/2023 21:05:39] Unlocked mission "Уничтожение молотоглавов" in the connection from "Worm Cave" to "Callanish".
+[03/09/2023 21:05:36] Unlocked mission "Доставка материалов для аванпоста шахтеров" in the connection from "Worm Cave" to "Udaeus Linea".
+[03/09/2023 21:05:34] Unlocked mission "Уничтожение роя" in the connection from "Worm Cave" to "Callanish".
+[03/09/2023 21:05:31] Unlocked mission "Добыча артефакта" in the connection from "Worm Cave" to "Callanish".
+[03/09/2023 21:04:30] Unlocked mission "Доставка материалов для аванпоста шахтеров" in the connection from "Worm Cave" to "Udaeus Linea".
+[03/09/2023 21:03:35] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/09/2023 21:03:31] Generating an outpost for the start of the level... (Location: Worm Cave, level type: Outpost)
+[03/09/2023 21:03:31] Level identifier: outpostlevel
+[03/09/2023 21:03:19] Transitioning to Worm Cave (current location: Glaukos Linea, selected location: Worm Cave, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextLocation)
+[03/09/2023 20:46:17] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/09/2023 20:46:13] Generating an outpost for the end of the level... (Location: Worm Cave, level type: LocationConnection)
+[03/09/2023 20:46:12] Level identifier: coldcavernsbasic
+[03/09/2023 20:46:01] No messages defined for the location type change Hydroponics -> Biosphere
+[03/09/2023 20:46:01] Transitioning to Glaukos LineaWorm Cave (current location: Glaukos Linea, selected location: Worm Cave, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextEmptyLocation)
+[03/09/2023 20:42:57] Unlocked mission "Random Encounter" in the connection from "Аванпост Chandelle Crevasse" to "Glaukos Linea".
+[03/09/2023 20:36:03] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/09/2023 20:35:58] Generating an outpost for the start of the level... (Location: Аванпост Chandelle Crevasse, level type: LocationConnection)
+[03/09/2023 20:35:57] Level identifier: coldcavernsbasic
+[03/09/2023 20:35:45] Transitioning to Chandelle CrevasseGlaukos Linea (current location: Аванпост Chandelle Crevasse, selected location: Glaukos Linea, leaving sub: Barsuk, at start: True, at end: False, transition type: LeaveLocation)
+[03/09/2023 20:33:19] Unlocked mission "Доставка материалов для аванпоста шахтеров" in the connection from "Аванпост Chandelle Crevasse" to "Annwn".
+[03/09/2023 20:33:17] Unlocked mission "Уничтожение роя" in the connection from "Аванпост Chandelle Crevasse" to "Callanish".
+[03/09/2023 20:33:15] Unlocked mission "Добыча минералов (Урановая руда)" in the connection from "Аванпост Chandelle Crevasse" to "Callanish".
+[03/09/2023 20:33:12] Unlocked mission "Убийство большого ползуна" in the connection from "Аванпост Chandelle Crevasse" to "Pelagon Linea".
+[03/09/2023 20:33:10] Unlocked mission "Пассажирские перевозки" in the connection from "Аванпост Chandelle Crevasse" to "Pelagon Linea".
+[03/09/2023 20:33:08] Unlocked mission "Уничтожение большой стаи" in the connection from "Аванпост Chandelle Crevasse" to "Pelagon Linea".
+[03/09/2023 20:33:06] Unlocked mission "Уничтожение молотоглавов" in the connection from "Аванпост Chandelle Crevasse" to "Callanish".
+[03/09/2023 20:30:44] WARNING: Could not compress a texture because the dimensions aren't a multiple of 4 (path: C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2613901395/Techno-Backpack/Techno-Backpack.png, size: 237x201)
+[03/09/2023 20:30:40] money 90000
+[03/09/2023 20:30:17] Unlocked mission "Strange Pirate Vessel" in the connection from "Аванпост Chandelle Crevasse" to "Pelagon Linea".
+[03/09/2023 20:29:29] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/09/2023 20:29:25] Generating an outpost for the start of the level... (Location: Аванпост Chandelle Crevasse, level type: Outpost)
+[03/09/2023 20:29:25] Level identifier: outpostlevel
+[03/09/2023 20:26:55] Unlocked mission "Добыча минералов (Лангбейнит)" in the connection from "Аванпост Chandelle Crevasse" to "Pelagon Linea".
+[03/09/2023 20:26:05] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/09/2023 20:25:59] Generating an outpost for the start of the level... (Location: Аванпост Chandelle Crevasse, level type: Outpost)
+[03/09/2023 20:25:59] Level identifier: outpostlevel
+[03/09/2023 20:25:45] Transitioning to Chandelle Crevasse (current location: Callanish, selected location: Аванпост Chandelle Crevasse, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextLocation)
+[03/09/2023 20:10:44] Unlocked mission "Random Encounter" in the connection from "Callanish" to "Androgeos Linea".
+[03/09/2023 20:00:20] Godmode on
+[03/09/2023 20:00:20] godmode_mainsub
+[03/09/2023 20:00:16] Steam achievements have been disabled during this play session.
+[03/09/2023 20:00:16] Enabled cheat commands.
+[03/09/2023 20:00:16] enablecheats
+[03/09/2023 19:59:56] Could not find a spawn point for a SpawnAction (spawn location: BeaconStation (tag: beacon_bandit), skipping.
+[03/09/2023 19:59:44] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/09/2023 19:59:35] Generating an outpost for the end of the level... (Location: Аванпост Chandelle Crevasse, level type: LocationConnection)
+[03/09/2023 19:59:34] Level identifier: coldcavernsadvanced
+[03/09/2023 19:59:34] WARNING: Could not compress a texture because the dimensions aren't a multiple of 4 (path: C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2613901395/Icons/Heavy.png, size: 240x174)
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "WasteyardDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "WasteyardDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "HuskgroundsDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "HuskgroundsDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "Lair". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "Lair". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:06] WARNING: Invalid location type change in location type "Construction". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/09/2023 19:59:04] Overriding an affliction or a buff with the identifier 'huskinfection' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2085783214/Afflictions.xml'
+[03/09/2023 19:28:52] WARNING: Tried to restore enabled packages multiple times/without performing a backup
+[03/09/2023 19:27:15] Server running slowly (55 updates/s)!
+[03/09/2023 19:27:12] StreaK
+[03/09/2023 19:27:12] vlad32
+[03/09/2023 19:27:12] kynlan4ic
+[03/09/2023 19:27:12] StreaK
+[03/09/2023 19:27:12] vlad32
+[03/09/2023 19:27:12] kynlan4ic
+[03/09/2023 19:27:12] StreaK
+[03/09/2023 19:27:12] vlad32
+[03/09/2023 19:27:12] kynlan4ic
+[03/09/2023 19:27:11] StreaK
+[03/09/2023 19:27:11] vlad32
+[03/09/2023 19:27:11] kynlan4ic
+[03/09/2023 19:27:11] StreaK
+[03/09/2023 19:27:11] vlad32
+[03/09/2023 19:27:11] kynlan4ic
+[03/09/2023 19:27:11] StreaK
+[03/09/2023 19:27:11] vlad32
+[03/09/2023 19:27:11] kynlan4ic
+[03/09/2023 19:27:11] StreaK
+[03/09/2023 19:27:11] vlad32
+[03/09/2023 19:27:11] kynlan4ic
+[03/09/2023 19:27:11] StreaK
+[03/09/2023 19:27:11] vlad32
+[03/09/2023 19:27:11] kynlan4ic
+[03/09/2023 19:27:10] StreaK
+[03/09/2023 19:27:10] vlad32
+[03/09/2023 19:27:10] kynlan4ic
+[03/09/2023 19:27:10] StreaK
+[03/09/2023 19:27:10] vlad32
+[03/09/2023 19:27:10] kynlan4ic
+[03/09/2023 19:27:10] StreaK
+[03/09/2023 19:27:10] vlad32
+[03/09/2023 19:27:10] kynlan4ic
+[03/09/2023 19:27:10] StreaK
+[03/09/2023 19:27:10] vlad32
+[03/09/2023 19:27:10] kynlan4ic
+[03/09/2023 19:27:09] StreaK
+[03/09/2023 19:27:09] vlad32
+[03/09/2023 19:27:09] kynlan4ic
+[03/09/2023 19:27:09] StreaK
+[03/09/2023 19:27:09] vlad32
+[03/09/2023 19:27:09] kynlan4ic
+[03/09/2023 19:26:57] StreaK
+[03/09/2023 19:26:57] vlad32
+[03/09/2023 19:26:57] kynlan4ic
+[03/09/2023 19:21:59] StreaK
+[03/09/2023 19:21:59] Poplar
+[03/09/2023 19:21:59] vlad32
+[03/09/2023 19:21:59] kynlan4ic
+[03/09/2023 19:21:56] Poplar
+[03/09/2023 19:21:56] vlad32
+[03/09/2023 19:21:56] kynlan4ic
+[03/09/2023 19:21:43] Poplar
+[03/09/2023 19:21:43] vlad32
+[03/09/2023 19:21:43] kynlan4ic
+[03/09/2023 19:21:31] Mavrodi
+[03/09/2023 19:21:31] Poplar
+[03/09/2023 19:21:31] vlad32
+[03/09/2023 19:21:31] kynlan4ic
+[03/09/2023 19:21:31] Mavrodi
+[03/09/2023 19:21:31] Poplar
+[03/09/2023 19:21:31] vlad32
+[03/09/2023 19:21:31] kynlan4ic
+[03/09/2023 19:21:31] Mavrodi
+[03/09/2023 19:21:31] Poplar
+[03/09/2023 19:21:31] vlad32
+[03/09/2023 19:21:31] kynlan4ic
+[03/09/2023 19:21:31] Mavrodi
+[03/09/2023 19:21:31] Poplar
+[03/09/2023 19:21:31] vlad32
+[03/09/2023 19:21:31] kynlan4ic
+[03/09/2023 19:21:30] Mavrodi
+[03/09/2023 19:21:30] Poplar
+[03/09/2023 19:21:30] vlad32
+[03/09/2023 19:21:30] kynlan4ic
+[03/09/2023 19:21:30] Mavrodi
+[03/09/2023 19:21:30] Poplar
+[03/09/2023 19:21:30] vlad32
+[03/09/2023 19:21:30] kynlan4ic
+[03/09/2023 19:21:29] Mavrodi
+[03/09/2023 19:21:29] Poplar
+[03/09/2023 19:21:29] vlad32
+[03/09/2023 19:21:29] kynlan4ic
+[03/09/2023 19:21:29] Mavrodi
+[03/09/2023 19:21:29] Poplar
+[03/09/2023 19:21:29] vlad32
+[03/09/2023 19:21:29] kynlan4ic
+[03/09/2023 19:21:27] Mavrodi
+[03/09/2023 19:21:27] Poplar
+[03/09/2023 19:21:27] vlad32
+[03/09/2023 19:21:27] kynlan4ic
+[03/09/2023 19:21:27] Mavrodi
+[03/09/2023 19:21:27] Poplar
+[03/09/2023 19:21:27] vlad32
+[03/09/2023 19:21:27] kynlan4ic
+[03/09/2023 19:21:27] Mavrodi
+[03/09/2023 19:21:27] Poplar
+[03/09/2023 19:21:27] vlad32
+[03/09/2023 19:21:27] kynlan4ic
+[03/09/2023 19:21:27] Mavrodi
+[03/09/2023 19:21:27] Poplar
+[03/09/2023 19:21:27] vlad32
+[03/09/2023 19:21:27] kynlan4ic
+[03/09/2023 19:20:40] Mavrodi
+[03/09/2023 19:20:40] Poplar
+[03/09/2023 19:20:40] vlad32
+[03/09/2023 19:20:40] kynlan4ic
+[03/09/2023 19:19:48] Mavrodi
+[03/09/2023 19:19:48] Poplar
+[03/09/2023 19:19:48] StreaK
+[03/09/2023 19:19:48] vlad32
+[03/09/2023 19:19:48] kynlan4ic
+[03/09/2023 19:19:47] Mavrodi
+[03/09/2023 19:19:47] Poplar
+[03/09/2023 19:19:47] StreaK
+[03/09/2023 19:19:47] vlad32
+[03/09/2023 19:19:47] kynlan4ic
+[03/09/2023 19:19:46] Mavrodi
+[03/09/2023 19:19:46] Poplar
+[03/09/2023 19:19:46] StreaK
+[03/09/2023 19:19:46] vlad32
+[03/09/2023 19:19:46] kynlan4ic
+[03/09/2023 19:19:45] kynlan4ic
+[03/09/2023 19:19:44] Received STARTGAMEFINALIZE packet. Round init status: Started
+[03/09/2023 19:19:44] Task count: 0
+[03/09/2023 19:19:44] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[03/09/2023 19:19:41] Generating an outpost for the start of the level... (Location: Dank, level type: Outpost)
+[03/09/2023 19:19:41] Level identifier: outpostlevel
+[03/09/2023 19:19:26] Server command: money 6000
+[03/09/2023 19:19:26] money 6000
+[03/09/2023 19:19:24] Mavrodi
+[03/09/2023 19:19:24] Poplar
+[03/09/2023 19:19:24] StreaK
+[03/09/2023 19:19:24] vlad32
+[03/09/2023 19:19:24] kynlan4ic
+[03/09/2023 19:19:24] Mavrodi
+[03/09/2023 19:19:24] Poplar
+[03/09/2023 19:19:24] StreaK
+[03/09/2023 19:19:24] vlad32
+[03/09/2023 19:19:24] kynlan4ic
+[03/09/2023 19:19:24] Mavrodi
+[03/09/2023 19:19:24] Poplar
+[03/09/2023 19:19:24] StreaK
+[03/09/2023 19:19:24] vlad32
+[03/09/2023 19:19:24] kynlan4ic
+[03/09/2023 19:19:23] Mavrodi
+[03/09/2023 19:19:23] Poplar
+[03/09/2023 19:19:23] StreaK
+[03/09/2023 19:19:23] vlad32
+[03/09/2023 19:19:23] kynlan4ic
+[03/09/2023 19:19:23] Mavrodi
+[03/09/2023 19:19:23] Poplar
+[03/09/2023 19:19:23] StreaK
+[03/09/2023 19:19:23] vlad32
+[03/09/2023 19:19:23] kynlan4ic
+[03/09/2023 19:19:23] Mavrodi
+[03/09/2023 19:19:23] Poplar
+[03/09/2023 19:19:23] StreaK
+[03/09/2023 19:19:23] vlad32
+[03/09/2023 19:19:23] kynlan4ic
+[03/09/2023 19:19:23] Mavrodi
+[03/09/2023 19:19:23] Poplar
+[03/09/2023 19:19:23] StreaK
+[03/09/2023 19:19:23] vlad32
+[03/09/2023 19:19:23] kynlan4ic
+[03/09/2023 19:19:23] Mavrodi
+[03/09/2023 19:19:23] Poplar
+[03/09/2023 19:19:23] StreaK
+[03/09/2023 19:19:23] vlad32
+[03/09/2023 19:19:23] kynlan4ic
+[03/09/2023 19:19:22] Server running slowly (55 updates/s)!
+[03/09/2023 19:19:22] Mavrodi
+[03/09/2023 19:19:22] Poplar
+[03/09/2023 19:19:22] StreaK
+[03/09/2023 19:19:22] vlad32
+[03/09/2023 19:19:22] kynlan4ic
+[03/09/2023 19:19:22] Mavrodi
+[03/09/2023 19:19:22] Poplar
+[03/09/2023 19:19:22] StreaK
+[03/09/2023 19:19:22] vlad32
+[03/09/2023 19:19:22] kynlan4ic
+[03/09/2023 19:19:22] Mavrodi
+[03/09/2023 19:19:22] Poplar
+[03/09/2023 19:19:22] StreaK
+[03/09/2023 19:19:22] vlad32
+[03/09/2023 19:19:22] kynlan4ic
+[03/09/2023 19:19:22] Mavrodi
+[03/09/2023 19:19:22] Poplar
+[03/09/2023 19:19:22] StreaK
+[03/09/2023 19:19:22] vlad32
+[03/09/2023 19:19:22] kynlan4ic
+[03/09/2023 19:19:21] WARNING: Failed to activate a location type change in the location "Belus Linea". Location index out of bounds (1).
+[03/09/2023 19:19:21] Mavrodi
+[03/09/2023 19:19:21] Poplar
+[03/09/2023 19:19:21] StreaK
+[03/09/2023 19:19:21] vlad32
+[03/09/2023 19:19:21] kynlan4ic
+[03/09/2023 19:16:39] Mavrodi
+[03/09/2023 19:16:39] Poplar
+[03/09/2023 19:16:39] StreaK
+[03/09/2023 19:16:39] vlad32
+[03/09/2023 19:16:39] kynlan4ic
+[03/09/2023 19:14:00] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is chaingunbolt, client entity is coilgunbolt). Ignoring the message...
+[03/09/2023 19:10:57] Server running slowly (58 updates/s)!
+[03/09/2023 19:10:23] Mavrodi
+[03/09/2023 19:10:23] Poplar
+[03/09/2023 19:10:23] Серега1993
+[03/09/2023 19:10:23] StreaK
+[03/09/2023 19:10:23] vlad32
+[03/09/2023 19:10:23] kynlan4ic
+[03/09/2023 19:08:30] Mavrodi
+[03/09/2023 19:08:30] Poplar
+[03/09/2023 19:08:30] Серега1993
+[03/09/2023 19:08:30] Мума
+[03/09/2023 19:08:30] StreaK
+[03/09/2023 19:08:30] vlad32
+[03/09/2023 19:08:30] kynlan4ic
+[03/09/2023 19:07:15] Server running slowly (58 updates/s)!
+[03/09/2023 19:02:32] Server running slowly (56 updates/s)!
+[03/09/2023 19:02:31] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is spinelingspike, client entity is chaingunbolt). Ignoring the message...
+[03/09/2023 18:59:19] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is chaingunbolt, client entity is coilgunbolt). Ignoring the message...
+[03/09/2023 18:59:17] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is chaingunbolt, client entity is coilgunbolt). Ignoring the message...
+[03/09/2023 18:59:16] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is chaingunbolt, client entity is coilgunbolt). Ignoring the message...
+[03/09/2023 18:59:16] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is chaingunbolt, client entity is coilgunbolt). Ignoring the message...
+[03/09/2023 18:58:57] WARNING: Received a potentially invalid ENTITY_POSITION message.Entity identifier does not match (server entity is spinelingspike, client entity is coilgunbolt). Ignoring the message...
+[03/09/2023 18:57:39] Server running slowly (56 updates/s)!
+[03/09/2023 18:56:37] Mavrodi
+[03/09/2023 18:56:37] Poplar
+[03/09/2023 18:56:37] Taiga
+[03/09/2023 18:56:37] Серега1993
+[03/09/2023 18:56:37] Мума

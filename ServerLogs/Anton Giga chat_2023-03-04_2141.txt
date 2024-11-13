@@ -1,0 +1,1600 @@
+﻿[03/04/2023 21:26:43]
+  Round started.
+[03/04/2023 21:26:46]
+  Fractalguardian2 equipped Паровая пушка стража
+[03/04/2023 21:26:46]
+  Fractalguardian equipped Гарпун стража
+[03/04/2023 21:26:46]
+  Fractalguardian equipped Гарпун стража
+[03/04/2023 21:26:56]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:27:01]
+  Joe Parchman equipped Аккумулятор
+[03/04/2023 21:27:11]
+  Joe Parchman equipped Аккумулятор
+[03/04/2023 21:27:11]
+  kynlan4ic set the value "Channel" of the item "Гарнитура с инжектором" to "0".
+[03/04/2023 21:27:28]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/04/2023 21:27:38]
+  Sara Lyons: Мы уже приплыли?
+[03/04/2023 21:27:41]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[03/04/2023 21:27:47]
+  Joe Parchman equipped Аккумулятор
+[03/04/2023 21:27:57]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:28:28]
+  Joe Parchman equipped Аккумулятор
+[03/04/2023 21:28:52]
+  Delbert Graves: Огонь!
+[03/04/2023 21:28:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:52]
+  Claire Suarez: Стреляю!
+[03/04/2023 21:28:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Outer wall breached by Delbert Graves
+[03/04/2023 21:28:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:53]
+  Outer wall breached by Delbert Graves
+[03/04/2023 21:28:53]
+  Outer wall breached by Delbert Graves
+[03/04/2023 21:28:53]
+  Inner wall breached by Delbert Graves
+[03/04/2023 21:28:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:53]
+  Inner wall breached by Claire Suarez
+[03/04/2023 21:28:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:54]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:55]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Inner wall breached by Claire Suarez
+[03/04/2023 21:28:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:28:57]
+  Outer wall breached by Claire Suarez
+[03/04/2023 21:28:59]
+  Carlton Craig: vlad32 получает первую помощь здесь: моторный отсек!
+[03/04/2023 21:29:21]
+  Joe Parchman: Надо найти кислородный баллон!
+[03/04/2023 21:29:35]
+  Sara Lyons equipped Кислородный баллон
+[03/04/2023 21:30:00]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:30:21]
+  Sara Lyons equipped Кислородный баллон
+[03/04/2023 21:30:34]
+  Delbert Graves: Огонь!
+[03/04/2023 21:30:34]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:35]
+  Delbert Graves: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/04/2023 21:30:36]
+  Delbert Graves equipped Ящик пробивных снарядов
+[03/04/2023 21:30:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:37]
+  Bennie Castro: Стреляю!
+[03/04/2023 21:30:37]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:37]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:38]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:38]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:38]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:38]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:38]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:42]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:30:42]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:30:42]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 21:30:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:42]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:30:42]
+  Delbert Graves: Цель уничтожена!
+[03/04/2023 21:30:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:43]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:30:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:43]
+  Sara Lyons opened Настраиваемая дверь с окном
+[03/04/2023 21:30:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:44]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:44]
+  Sara Lyons started repairing Настраиваемый люк
+[03/04/2023 21:30:44]
+  Sara Lyons: Настраиваемый люк не поддается починке!
+[03/04/2023 21:30:44]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:45]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:45]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:45]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:30:45]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:45]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:46]
+  Sara Lyons closed Настраиваемая дверь с окном
+[03/04/2023 21:30:46]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:47]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:47]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:47]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:47]
+  Joe Parchman opened Настраиваемая дверь с окном
+[03/04/2023 21:30:47]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:48]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:48]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:48]
+  Joe Parchman started repairing Настраиваемый люк
+[03/04/2023 21:30:48]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:48]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:30:48]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:49]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:49]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:49]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:50]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:50]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:30:50]
+  Dominick Mansfield started repairing Настраиваемый люк
+[03/04/2023 21:30:50]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:30:50]
+  Delbert Graves: Кажется, есть попадание!
+[03/04/2023 21:30:51]
+  Joe Parchman closed Настраиваемая дверь с окном
+[03/04/2023 21:30:54]
+  Dominick Mansfield opened Настраиваемая дверь с окном
+[03/04/2023 21:30:54]
+  Dominick Mansfield closed Настраиваемая дверь с окном
+[03/04/2023 21:30:56]
+  Joe Parchman started repairing Настраиваемый люк
+[03/04/2023 21:30:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:57]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:58]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:30:58]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:59]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:30:59]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/04/2023 21:30:59]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:31:01]
+  Carlton Craig: vlad32 получает первую помощь здесь: моторный отсек!
+[03/04/2023 21:31:03]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 21:31:09]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:31:10]
+  Delbert Graves: Огонь!
+[03/04/2023 21:31:10]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:10]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:10]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:11]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:11]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:11]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:11]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:12]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:12]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:12]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:13]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:13]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:13]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:13]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:14]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:14]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:14]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:15]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:15]
+  Crawlerhusk has died (Cause of death: Unknown)
+[03/04/2023 21:31:15]
+  Bennie Castro: Кажется, есть попадание!
+[03/04/2023 21:31:15]
+  Delbert Graves: Цель уничтожена!
+[03/04/2023 21:31:15]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:15]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:16]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:16]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:16]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:17]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:17]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:17]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:18]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:19]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:19]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:19]
+  Delbert Graves: И-и-и-и... Готово!
+[03/04/2023 21:31:20]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:20]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:21]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:21]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:21]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:21]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:21]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:22]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:22]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:22]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:22]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:23]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:23]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:23]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:23]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:24]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:24]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:24]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:25]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:25]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:25]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:26]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:26]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:26]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:26]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:26]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:26]
+  Delbert Graves: И-и-и-и... Готово!
+[03/04/2023 21:31:27]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:27]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:27]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:28]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:28]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:28]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:28]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:29]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:29]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:29]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:29]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:29]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:30]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:30]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:30]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:30]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:31]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:31]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:31]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:32]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:32]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:32]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:33]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:33]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:33]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:34]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:34]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:34]
+  Delbert Graves: И-и-и-и... Готово!
+[03/04/2023 21:31:34]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:34]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:34]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:35]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:36]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:37]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:37]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:37]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:39]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:40]
+  Delbert Graves: Стреляю!
+[03/04/2023 21:31:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:41]
+  Delbert Graves: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/04/2023 21:31:43]
+  Delbert Graves equipped Ящик пробивных снарядов
+[03/04/2023 21:31:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:43]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[03/04/2023 21:31:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:31:43]
+  Delbert Graves: Враг уничтожен!
+[03/04/2023 21:32:02]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:32:18]
+  kynlan4ic picked up Плазменный резак
+[03/04/2023 21:32:19]
+  kynlan4ic picked up Подводный скутер
+[03/04/2023 21:32:21]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 21:32:23]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 21:32:24]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 21:32:26]
+  kynlan4ic equipped Подводный скутер
+[03/04/2023 21:32:29]
+  kynlan4ic equipped Плазменный резак
+[03/04/2023 21:32:48]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:32:48]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:32:48]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:32:48]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:32:49]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:32:51]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 21:32:52]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:32:53]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 21:32:54]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 21:32:54]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:32:56]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:32:59]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:33:03]
+  Carlton Craig: vlad32 получает первую помощь здесь: моторный отсек!
+[03/04/2023 21:33:12]
+  Rowena Colpitts equipped Ящик пробивных снарядов
+[03/04/2023 21:33:13]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:33:13]
+  Sara Lyons equipped Аккумулятор
+[03/04/2023 21:33:15]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:33:18]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:33:18]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:33:18]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:33:19]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:33:22]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 21:33:22]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 21:33:25]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:33:31]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:33:31]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:33:33]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:33:35]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 21:33:35]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 21:33:35]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 21:33:37]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:33:42]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:33:44]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:33:45]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:33:47]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:33:47]
+  Rowena Colpitts equipped Аккумулятор
+[03/04/2023 21:33:50]
+  Rowena Colpitts unequipped Аккумулятор
+[03/04/2023 21:33:50]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:33:50]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:33:56]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:33:57]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:33:57]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:33:57]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:33:57]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 21:33:57]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 21:33:57]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/04/2023 21:34:01]
+  kynlan4ic unequipped Плазменный резак
+[03/04/2023 21:34:01]
+  kynlan4ic equipped Амблигонит
+[03/04/2023 21:34:01]
+  kynlan4ic equipped Амблигонит
+[03/04/2023 21:34:02]
+  Joe Parchman started repairing Кабельная коробка
+[03/04/2023 21:34:02]
+  Sara Lyons started repairing Кабельная коробка
+[03/04/2023 21:34:03]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:34:03]
+  kynlan4ic placed Лазулит in Пояс инструментов (ID: 8917)
+[03/04/2023 21:34:03]
+  kynlan4ic placed Лазулит in Пояс инструментов (ID: 8917)
+[03/04/2023 21:34:03]
+  kynlan4ic placed Лазулит in Пояс инструментов (ID: 8917)
+[03/04/2023 21:34:04]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:34:04]
+  Carlton Craig: vlad32 получает первую помощь здесь: моторный отсек!
+[03/04/2023 21:34:04]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:34:05]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:34:11]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:34:17]
+  Rowena Colpitts equipped Ящик с боеприпасами для магнитной пушки
+[03/04/2023 21:34:26]
+  Joe Parchman equipped Дробные боеприпасы для цепной пушки
+[03/04/2023 21:34:31]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 21:34:32]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 21:34:33]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 21:34:39]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 927)
+[03/04/2023 21:34:40]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 927)
+[03/04/2023 21:34:43]
+  kynlan4ic picked up Лазулит
+[03/04/2023 21:34:43]
+  kynlan4ic picked up Лазулит
+[03/04/2023 21:34:43]
+  kynlan4ic picked up Лазулит
+[03/04/2023 21:34:44]
+  kynlan4ic picked up Кусок грозовия
+[03/04/2023 21:34:52]
+  kynlan4ic placed Кусок грозовия in Контейнер для хранения (ID: 3257)
+[03/04/2023 21:34:56]
+  kynlan4ic placed Лазулит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:34:56]
+  kynlan4ic placed Лазулит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:34:56]
+  kynlan4ic placed Лазулит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:35:00]
+  kynlan4ic placed Титанит in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:00]
+  kynlan4ic placed Титанит in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:00]
+  kynlan4ic placed Титанит in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:02]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:02]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:02]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:02]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:35:04]
+  kynlan4ic placed Амблигонит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:35:04]
+  kynlan4ic placed Амблигонит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:35:04]
+  kynlan4ic placed Амблигонит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:35:04]
+  kynlan4ic placed Амблигонит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:35:04]
+  kynlan4ic placed Амблигонит in Контейнер для хранения (ID: 2248)
+[03/04/2023 21:35:05]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:36:04]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:36:04]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/04/2023 21:36:05]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:36:06]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:36:40]
+  Bennie Castro: Стреляю!
+[03/04/2023 21:36:40]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:36:40]
+  Delbert Graves: Стреляю!
+[03/04/2023 21:36:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:41]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:36:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:41]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 21:36:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:42]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:42]
+  Delbert Graves: И-и-и-и... Готово!
+[03/04/2023 21:36:43]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:36:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:43]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:43]
+  Rowena Colpitts started repairing Дверь с кнопками
+[03/04/2023 21:36:43]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:43]
+  Claire Suarez: Стреляю!
+[03/04/2023 21:36:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:44]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:44]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:44]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:45]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:45]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:45]
+  Sara Lyons started repairing Люк с кнопками
+[03/04/2023 21:36:47]
+  Rowena Colpitts started repairing Люк с кнопками
+[03/04/2023 21:36:47]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:47]
+  Sara Lyons started repairing Сливной клапан
+[03/04/2023 21:36:47]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:48]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:48]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:48]
+  Delbert Graves: Кажется, есть попадание!
+[03/04/2023 21:36:48]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:49]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:49]
+  Rowena Colpitts: Помогите, я истекаю кровью!
+[03/04/2023 21:36:49]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:49]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:50]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:50]
+  Delbert Graves: Цель уничтожена!
+[03/04/2023 21:36:50]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:51]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:51]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:51]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:51]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:36:51]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:51]
+  Delbert Graves: Враг уничтожен!
+[03/04/2023 21:36:51]
+  Joe Parchman: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:36:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:52]
+  Dominick Mansfield: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:36:52]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:52]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:52]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:52]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:52]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:53]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:36:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:53]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:53]
+  Bennie Castro: Цель уничтожена!
+[03/04/2023 21:36:53]
+  Sara Lyons: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:36:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:55]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:55]
+  Claire Suarez: И-и-и-и... Готово!
+[03/04/2023 21:36:55]
+  Delbert Graves: Враг уничтожен!
+[03/04/2023 21:36:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Rowena Colpitts started repairing Дверь с кнопками
+[03/04/2023 21:36:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:36:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Claire Suarez: Кажется, есть попадание!
+[03/04/2023 21:36:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:36:58]
+  Sara Lyons: Мне нужно подводное снаряжение!
+[03/04/2023 21:36:59]
+  Rowena Colpitts: Мне нужно подводное снаряжение!
+[03/04/2023 21:36:59]
+  Dominick Mansfield: Мне нужно подводное снаряжение!
+[03/04/2023 21:36:59]
+  Joe Parchman: Мне нужно подводное снаряжение!
+[03/04/2023 21:37:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:01]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:01]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:02]
+  Sara Lyons started repairing Настраиваемый люк
+[03/04/2023 21:37:02]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:03]
+  Dominick Mansfield opened Настраиваемая дверь с окном
+[03/04/2023 21:37:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:03]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:03]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:03]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:03]
+  Delbert Graves: Цель уничтожена!
+[03/04/2023 21:37:04]
+  Dominick Mansfield started repairing Настраиваемый люк
+[03/04/2023 21:37:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:04]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:04]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:05]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:05]
+  Claire Suarez: Кажется, есть попадание!
+[03/04/2023 21:37:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:05]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/04/2023 21:37:05]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:05]
+  Rowena Colpitts closed Настраиваемая дверь с окном
+[03/04/2023 21:37:06]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:06]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:06]
+  Delbert Graves: И-и-и-и... Готово!
+[03/04/2023 21:37:08]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:37:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:09]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:09]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:09]
+  Bennie Castro: И-и-и-и... Готово!
+[03/04/2023 21:37:10]
+  Rowena Colpitts started repairing Дверь с кнопками
+[03/04/2023 21:37:10]
+  Joe Parchman started repairing Дверь с кнопками
+[03/04/2023 21:37:10]
+  Rowena Colpitts started repairing Дверь с кнопками
+[03/04/2023 21:37:10]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:11]
+  Dominick Mansfield opened Настраиваемая дверь с окном
+[03/04/2023 21:37:11]
+  Dominick Mansfield closed Настраиваемая дверь с окном
+[03/04/2023 21:37:11]
+  Bennie Castro: Стреляю!
+[03/04/2023 21:37:12]
+  Joe Parchman started repairing Сливной клапан
+[03/04/2023 21:37:12]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:12]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:12]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:12]
+  Rowena Colpitts started repairing Сливной клапан
+[03/04/2023 21:37:12]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:13]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:13]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:13]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:13]
+  Bennie Castro: Враг уничтожен!
+[03/04/2023 21:37:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:15]
+  Claire Suarez: Огонь!
+[03/04/2023 21:37:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:15]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:15]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:15]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:15]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:15]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:15]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:15]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:15]
+  Claire Suarez: Кажется, есть попадание!
+[03/04/2023 21:37:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:16]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:16]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:17]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:17]
+  Claire Suarez: Цель уничтожена!
+[03/04/2023 21:37:17]
+  Carlton Craig: Rowena Colpitts получает первую помощь здесь: пункт управления!
+[03/04/2023 21:37:18]
+  Joe Parchman started repairing Люк с кнопками
+[03/04/2023 21:37:18]
+  Carlton Craig: Rowena Colpitts нуждается в помощи! Срочно требуется экстракт взрывного граната, морфин, жидкий тоник или опиум!
+[03/04/2023 21:37:18]
+  Rowena Colpitts started repairing Люк с кнопками
+[03/04/2023 21:37:20]
+  Carlton Craig equipped Экстракт взрывного граната
+[03/04/2023 21:37:20]
+  Joe Parchman started repairing Дверь с кнопками
+[03/04/2023 21:37:21]
+  kynlan4ic has gained the talent 'Оружейник'
+[03/04/2023 21:37:21]
+  Rowena Colpitts started repairing Дверь с кнопками
+[03/04/2023 21:37:22]
+  Bennie Castro: Я теряю много крови!
+[03/04/2023 21:37:22]
+  Rowena Colpitts: Помогите, я истекаю кровью!
+[03/04/2023 21:37:22]
+  Joe Parchman started repairing Сливной клапан
+[03/04/2023 21:37:23]
+  Sara Lyons started repairing Сливной клапан
+[03/04/2023 21:37:23]
+  Rowena Colpitts started repairing Сливной клапан
+[03/04/2023 21:37:24]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:24]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:24]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:24]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 21:37:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/04/2023 21:37:25]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:25]
+  Bennie Castro: И-и-и-и... Готово!
+[03/04/2023 21:37:25]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:25]
+  Delbert Graves: Враг уничтожен!
+[03/04/2023 21:37:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:26]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:27]
+  Claire Suarez: И-и-и-и... Готово!
+[03/04/2023 21:37:27]
+  Claire Suarez: Новая цель: Шипостай!
+[03/04/2023 21:37:27]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:27]
+  Claire Suarez: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/04/2023 21:37:28]
+  Claire Suarez equipped Ящик пробивных снарядов
+[03/04/2023 21:37:29]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:29]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:29]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/04/2023 21:37:29]
+  Spineling has died (Cause of death: Рваная рана)
+[03/04/2023 21:37:29]
+  Claire Suarez: И-и-и-и... Готово!
+[03/04/2023 21:37:29]
+  Delbert Graves: Кажется, есть попадание!
+[03/04/2023 21:37:32]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:37:33]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:37:34]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:37:35]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:37:37]
+  Carlton Craig equipped Бинт
+[03/04/2023 21:37:49]
+  Carlton Craig: Rowena Colpitts в полном порядке!
+[03/04/2023 21:37:52]
+  Carlton Craig: Bennie Castro получает первую помощь здесь: пункт управления!
+[03/04/2023 21:37:53]
+  Carlton Craig: Мне требуется экстракт взрывного граната, морфин, жидкий тоник или опиум!
+[03/04/2023 21:37:54]
+  Bennie Castro: Я теряю много крови!
+[03/04/2023 21:37:55]
+  Carlton Craig equipped Экстракт взрывного граната
+[03/04/2023 21:38:10]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:38:14]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:38:14]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:38:14]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:38:15]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:38:17]
+  Joe Parchman: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:17]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:38:17]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:38:17]
+  Sara Lyons: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:17]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:38:17]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:38:17]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:17]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:38:17]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:38:20]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:38:22]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:38:22]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:38:25]
+  kynlan4ic picked up УЗК
+[03/04/2023 21:38:25]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:38:31]
+  Rowena Colpitts equipped Аккумулятор
+[03/04/2023 21:38:34]
+  Rowena Colpitts unequipped Аккумулятор
+[03/04/2023 21:38:34]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:38:34]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:38:35]
+  kynlan4ic equipped Боевой водолазный скафандр
+[03/04/2023 21:38:36]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:38:37]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:38:37]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:38:37]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 81)
+[03/04/2023 21:38:37]
+  Dominick Mansfield equipped Гаечный ключ
+[03/04/2023 21:38:37]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:38:37]
+  kynlan4ic equipped Боевой водолазный скафандр
+[03/04/2023 21:38:40]
+  Joe Parchman: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:40]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 561)
+[03/04/2023 21:38:40]
+  Sara Lyons: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:40]
+  Dominick Mansfield: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:40]
+  kynlan4ic equipped Водолазный скафандр бездны
+[03/04/2023 21:38:40]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:38:42]
+  kynlan4ic dropped Водолазный скафандр бездны
+[03/04/2023 21:38:43]
+  Dominick Mansfield started repairing Малый насос
+[03/04/2023 21:38:44]
+  kynlan4ic equipped Боевой водолазный скафандр
+[03/04/2023 21:38:46]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:38:46]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:38:46]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 157)
+[03/04/2023 21:38:46]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:38:48]
+  kynlan4ic picked up Водолазный скафандр бездны
+[03/04/2023 21:38:48]
+  kynlan4ic dropped УЗК
+[03/04/2023 21:38:48]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/04/2023 21:38:50]
+  kynlan4ic picked up УЗК
+[03/04/2023 21:38:50]
+  kynlan4ic dropped Водолазный скафандр бездны
+[03/04/2023 21:38:51]
+  kynlan4ic dropped УЗК
+[03/04/2023 21:38:56]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:38:56]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:38:56]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:38:56]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:38:59]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:38:59]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:39:00]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:39:00]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:39:00]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:39:00]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:39:03]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:39:05]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:39:06]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:39:10]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:39:17]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:39:21]
+  kynlan4ic picked up УЗК
+[03/04/2023 21:39:22]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:39:25]
+  kynlan4ic picked up Плазменный резак
+[03/04/2023 21:39:25]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 21:39:26]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 21:39:29]
+  Sara Lyons equipped Ящик с боеприпасами для магнитной пушки
+[03/04/2023 21:39:29]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:39:29]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:39:29]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:39:29]
+  kynlan4ic opened Настраиваемый люк
+[03/04/2023 21:39:29]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:39:29]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:39:30]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:39:30]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:39:30]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:39:32]
+  kynlan4ic equipped Плазменный резак
+[03/04/2023 21:39:33]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:39:33]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:39:33]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:39:33]
+  Joe Parchman: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:39:33]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:39:33]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:39:34]
+  Sara Lyons: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:39:34]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:39:34]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:39:35]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:39:40]
+  Claire Suarez: Как правильно – таламусы или таламы?
+[03/04/2023 21:39:40]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:39:44]
+  Delbert Graves: Надеюсь, их не будет больше одного сразу.
+[03/04/2023 21:39:45]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:39:45]
+  Rowena Colpitts equipped Аккумулятор
+[03/04/2023 21:39:48]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:39:49]
+  Rowena Colpitts unequipped Аккумулятор
+[03/04/2023 21:39:49]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:39:49]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:39:49]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:39:49]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:39:56]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:39:57]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:39:57]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:39:59]
+  Rowena Colpitts equipped Аккумулятор
+[03/04/2023 21:40:17]
+  Joe Parchman equipped Аккумулятор
+[03/04/2023 21:40:27]
+  Carlton Craig: vlad32 проходит лечение здесь: моторный отсек!
+[03/04/2023 21:40:34]
+  Rowena Colpitts equipped Аккумулятор
+[03/04/2023 21:40:36]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:40:36]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:40:37]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:40:38]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:40:39]
+  Joe Parchman: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:40:40]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:40:40]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:40:40]
+  Sara Lyons: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:40:40]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:40:40]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:40:41]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:40:41]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:40:41]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:40:41]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:40:41]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:40:41]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:40:41]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:40:41]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:40:41]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:40:41]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:40:41]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:40:43]
+  Dominick Mansfield started repairing Навигационный терминал
+[03/04/2023 21:40:44]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:40:44]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:40:44]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:40:45]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:40:45]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:40:50]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:40:56]
+  kynlan4ic closed Настраиваемый люк
+[03/04/2023 21:40:57]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/04/2023 21:40:58]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/04/2023 21:40:59]
+  kynlan4ic dropped УЗК
+[03/04/2023 21:41:02]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:41:02]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:41:03]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:41:03]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:41:06]
+  Sara Lyons: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:41:06]
+  Sara Lyons unequipped Гаечный ключ
+[03/04/2023 21:41:06]
+  Sara Lyons equipped Отвертка
+[03/04/2023 21:41:06]
+  Rowena Colpitts: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:41:06]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/04/2023 21:41:06]
+  Rowena Colpitts equipped Отвертка
+[03/04/2023 21:41:06]
+  Joe Parchman: Невозможно добраться: Сливной клапан!
+[03/04/2023 21:41:06]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:41:06]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:41:10]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/04/2023 21:41:11]
+  Rowena Colpitts unequipped Отвертка
+[03/04/2023 21:41:18]
+  Dominick Mansfield unequipped Отвертка
+[03/04/2023 21:41:22]
+  Joe Parchman unequipped Отвертка
+[03/04/2023 21:41:22]
+  Joe Parchman equipped Гаечный ключ
+[03/04/2023 21:41:22]
+  Sara Lyons unequipped Отвертка
+[03/04/2023 21:41:22]
+  Sara Lyons equipped Гаечный ключ
+[03/04/2023 21:41:22]
+  Rowena Colpitts equipped Гаечный ключ
+[03/04/2023 21:41:22]
+  Dominick Mansfield equipped Отвертка
+[03/04/2023 21:41:25]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:41:25]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:41:25]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:41:25]
+  kynlan4ic placed Алмаз in Контейнер для хранения (ID: 1449)
+[03/04/2023 21:41:25]
+  Joe Parchman unequipped Гаечный ключ
+[03/04/2023 21:41:25]
+  Joe Parchman equipped Отвертка
+[03/04/2023 21:41:25]
+  Sara Lyons unequipped Гаечный ключ

@@ -1,0 +1,76 @@
+﻿[02/27/2023 20:51:45]
+  Tera Schmitt equipped Отвертка
+[02/27/2023 20:51:45]
+  Tod Monroe: Ищу безопасное место!
+[02/27/2023 20:51:46]
+  Marcellus Hebert unequipped Отвертка
+[02/27/2023 20:51:46]
+  Marcellus Hebert equipped Сварочный аппарат
+[02/27/2023 20:51:46]
+  Tod Monroe: Отвали от меня!
+[02/27/2023 20:51:46]
+  Tera Schmitt: Помогите!
+[02/27/2023 20:51:46]
+  Tod Monroe unequipped Отвертка
+[02/27/2023 20:51:46]
+  Tera Schmitt unequipped Отвертка
+[02/27/2023 20:51:46]
+  Marcellus Hebert: Отвали от меня!
+[02/27/2023 20:51:46]
+  Tod Monroe unequipped Отвертка
+[02/27/2023 20:51:47]
+  Vasili McLeroy: Помогите!
+[02/27/2023 20:51:47]
+  Vasili McLeroy unequipped Отвертка
+[02/27/2023 20:51:47]
+  Vasili McLeroy: А-А-А-А-А-А!
+[02/27/2023 20:51:50]
+  Tera Schmitt unequipped Отвертка
+[02/27/2023 20:51:52]
+  Vasili McLeroy unequipped Отвертка
+[02/27/2023 20:51:54]
+  Marcellus Hebert unequipped Сварочный аппарат
+[02/27/2023 20:51:58]
+  Console command "control igameCrog" executed by igameCrog.
+[02/27/2023 20:51:59]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/27/2023 20:52:07]
+  Console command "control kynlan4ic" executed by kynlan4ic.
+[02/27/2023 20:52:09]
+  Vasili McLeroy: Надо найти водолазный скафандр!
+[02/27/2023 20:52:09]
+  Tod Monroe: Мне нужно подводное снаряжение!
+[02/27/2023 20:52:09]
+  Tod Monroe: Надо найти водолазный скафандр!
+[02/27/2023 20:52:10]
+  Tera Schmitt: Мне нужно подводное снаряжение!
+[02/27/2023 20:52:10]
+  Tera Schmitt: Мне нужно подводное снаряжение!
+[02/27/2023 20:52:10]
+  Marcellus Hebert: Надо найти водолазный скафандр!
+[02/27/2023 20:52:10]
+  Vasili McLeroy: Мне нужно подводное снаряжение!
+[02/27/2023 20:52:15]
+  Marcellus Hebert: У меня кровь!
+[02/27/2023 20:52:16]
+  Tera Schmitt: Я теряю много крови!
+[02/27/2023 20:52:20]
+  Terrance Moses has died (Cause of death: Рваная рана)
+[02/27/2023 20:52:20]
+  kynlan4ic docked Super Plague Rat SONAR 1.0.9 to Город Novaya Moskva
+[02/27/2023 20:52:22]
+  Vasili McLeroy: Я теряю много крови!
+[02/27/2023 20:52:22]
+  Raymon Freeman: Tera Schmitt получает первую помощь здесь: инженерный отсек!
+[02/27/2023 20:52:23]
+  Raymon Freeman: Tera Schmitt нуждается в помощи! Срочно требуется антирад или стабилоцин!
+[02/27/2023 20:52:24]
+  Tod Monroe: Помогите, я истекаю кровью!
+[02/27/2023 20:52:24]
+  Mechislav Gay equipped Гаечный ключ
+[02/27/2023 20:52:24]
+  Marcellus Hebert: У меня что-то во рту...
+[02/27/2023 20:52:25]
+  Ending round (submarine reached the end of the level)
+[02/27/2023 20:52:25]
+  Ending the round...

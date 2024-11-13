@@ -1,0 +1,1190 @@
+﻿[10/21/2022 16:03:31]
+  Starting the server...
+[10/21/2022 16:03:31]
+  Using SteamP2P networking.
+[10/21/2022 16:03:31]
+  Server started
+[10/21/2022 16:03:31]
+  Игрок kynlan4ic присоединился к серверу.
+[10/21/2022 16:03:31]
+  Saving client permissions
+[10/21/2022 16:03:31]
+  Saving client permissions
+[10/21/2022 16:04:46]
+  kynlan4ic changed PlayStyle to Casual
+[10/21/2022 16:04:46]
+  kynlan4ic changed LosMode to Transparent
+[10/21/2022 16:04:46]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/21/2022 16:04:46]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/21/2022 16:04:51]
+  Client "kynlan4ic" started the round.
+[10/21/2022 16:04:51]
+  Starting a new round...
+[10/21/2022 16:04:56]
+  Миссия: Добыча минералов (Урановая руда)
+[10/21/2022 16:04:56]
+  Говорят, где-то между точками Центр Set и Шахта Skadi's Cauldron есть Урановая руда, целые залежи. Привезите оттуда ресурс (Урановая руда), 4 - этого будет достаточно. Ваша доля - 25%.
+[10/21/2022 16:04:56]
+  Game mode: Миссия
+[10/21/2022 16:04:56]
+  Submarine: Sardine
+[10/21/2022 16:04:56]
+  Level seed: TOedmVgi
+[10/21/2022 16:04:56]
+  Mission: Добыча минералов ([resourcename1])
+[10/21/2022 16:04:59]
+  Round started.
+[10/21/2022 16:05:06]
+  Williams Cuevas: Как здесь паршиво!
+[10/21/2022 16:05:06]
+  Zoe Cork: Загружаю в реактор дополнительное топливо!
+[10/21/2022 16:05:06]
+  Seth Avery: Загружаю в реактор дополнительное топливо!
+[10/21/2022 16:05:07]
+  Dahlia Pool: Загружаю в реактор дополнительное топливо!
+[10/21/2022 16:05:07]
+  Williams Cuevas: Я хочу домой!
+[10/21/2022 16:05:21]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 16:06:28]
+  kynlan4ic: Tera Moran, иди за мной!
+[10/21/2022 16:06:29]
+  Tera Moran: Есть!
+[10/21/2022 16:07:03]
+  kynlan4ic picked up Водолазный скафандр
+[10/21/2022 16:07:03]
+  Tera Moran: Надо найти водолазный скафандр!
+[10/21/2022 16:07:28]
+  kynlan4ic picked up Подводный скутер
+[10/21/2022 16:07:29]
+  kynlan4ic picked up Ручной сонар
+[10/21/2022 16:07:30]
+  kynlan4ic picked up Подводная маска
+[10/21/2022 16:09:04]
+  kynlan4ic equipped Подводный скутер
+[10/21/2022 16:09:13]
+  kynlan4ic equipped Трубка капитана
+[10/21/2022 16:09:38]
+  Inner wall breached by Bonethresher
+[10/21/2022 16:09:38]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:09:40]
+  Elmer Welden: Надо найти водолазный скафандр!
+[10/21/2022 16:09:41]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:09:43]
+  Outer wall breached by Tigerthresher
+[10/21/2022 16:09:45]
+  Seth Avery: Надо найти водолазный скафандр!
+[10/21/2022 16:09:45]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:09:45]
+  Zoe Cork: Надо найти водолазный скафандр!
+[10/21/2022 16:09:50]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:09:50]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:09:52]
+  Elmer Welden equipped Шоковая дубинка
+[10/21/2022 16:09:52]
+  Williams Cuevas equipped Гаечный ключ
+[10/21/2022 16:09:54]
+  Elmer Welden used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/21/2022 16:09:54]
+  Zoe Cork: У меня кровь!
+[10/21/2022 16:09:54]
+  Williams Cuevas: Надо найти водолазный скафандр!
+[10/21/2022 16:09:54]
+  Renata Collins: Мне нужно подводное снаряжение!
+[10/21/2022 16:09:54]
+  Tanika Connors equipped Гаечный ключ
+[10/21/2022 16:09:54]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:09:55]
+  Elmer Welden used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/21/2022 16:09:55]
+  Elmer Welden: Помогите, я истекаю кровью!
+[10/21/2022 16:09:56]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:09:57]
+  Jerald Jack equipped Гаечный ключ
+[10/21/2022 16:09:57]
+  Tera Moran equipped Шоковая дубинка
+[10/21/2022 16:09:57]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:09:57]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:09:58]
+  Dahlia Pool unequipped Гаечный ключ
+[10/21/2022 16:09:58]
+  Emilee Green: Мне нужно подводное снаряжение!
+[10/21/2022 16:09:58]
+  Seth Avery unequipped Гаечный ключ
+[10/21/2022 16:09:58]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:09:59]
+  Elmer Welden used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/21/2022 16:09:59]
+  Dahlia Pool: Надо найти водолазный скафандр!
+[10/21/2022 16:09:59]
+  Jerald Jack unequipped Гаечный ключ
+[10/21/2022 16:10:00]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:10:00]
+  Elmer Welden used Шоковая дубинка (Аккумулятор) on Tigerthresher.
+[10/21/2022 16:10:00]
+  Jerald Jack equipped Гаечный ключ
+[10/21/2022 16:10:01]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:01]
+  Elmer Welden unequipped Шоковая дубинка
+[10/21/2022 16:10:01]
+  Elmer Welden equipped Нож ныряльщика
+[10/21/2022 16:10:01]
+  Jerald Jack: Мне нужно подводное снаряжение!
+[10/21/2022 16:10:02]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:10:02]
+  Inner wall breached by Bonethresher
+[10/21/2022 16:10:03]
+  Tera Moran used Шоковая дубинка (Аккумулятор) on Elmer Welden.
+[10/21/2022 16:10:03]
+  Tanika Connors: Мне нужно подводное снаряжение!
+[10/21/2022 16:10:03]
+  kynlan4ic equipped Револьвер
+[10/21/2022 16:10:04]
+  Tera Moran used Шоковая дубинка (Аккумулятор) on Jerald Jack.
+[10/21/2022 16:10:05]
+  Elmer Welden used Нож ныряльщика on Tera Moran.
+[10/21/2022 16:10:05]
+  Williams Cuevas unequipped Гаечный ключ
+[10/21/2022 16:10:05]
+  Williams Cuevas equipped Сварочный аппарат
+[10/21/2022 16:10:05]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:10:06]
+  Elmer Welden attacked by kynlan4ic. Огнестрельная рана: 7.6720004 Кровотечение: 12.84375 Оглушение: 0.3
+[10/21/2022 16:10:06]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:06]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:07]
+  Tera Moran used Шоковая дубинка (Аккумулятор) on Elmer Welden.
+[10/21/2022 16:10:09]
+  Tera Moran attacked by kynlan4ic. Огнестрельная рана: 7.6720004 Кровотечение: 12.84375 Оглушение: 0.3
+[10/21/2022 16:10:09]
+  Tera Moran: Я теряю много крови!
+[10/21/2022 16:10:09]
+  Tera Moran used Шоковая дубинка (Аккумулятор) on Elmer Welden.
+[10/21/2022 16:10:10]
+  Dahlia Pool unequipped Гаечный ключ
+[10/21/2022 16:10:10]
+  Tera Moran unequipped Шоковая дубинка
+[10/21/2022 16:10:10]
+  Tera Moran equipped Нож ныряльщика
+[10/21/2022 16:10:11]
+  Inner wall breached by Elmer Welden
+[10/21/2022 16:10:14]
+  Tera Moran used Нож ныряльщика on Tigerthresher.
+[10/21/2022 16:10:15]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:10:16]
+  Tera Moran used Нож ныряльщика on Tigerthresher.
+[10/21/2022 16:10:16]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:16]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:10:16]
+  Elmer Welden used Нож ныряльщика on Tera Moran.
+[10/21/2022 16:10:17]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:10:17]
+  Dahlia Pool unequipped Гаечный ключ
+[10/21/2022 16:10:17]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:10:19]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:10:20]
+  Tera Moran used Нож ныряльщика on Elmer Welden.
+[10/21/2022 16:10:22]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:22]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:22]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:22]
+  Dahlia Pool unequipped Гаечный ключ
+[10/21/2022 16:10:22]
+  Dahlia Pool equipped Аккумулятор
+[10/21/2022 16:10:22]
+  Williams Cuevas unequipped Сварочный аппарат
+[10/21/2022 16:10:22]
+  Williams Cuevas equipped Гаечный ключ
+[10/21/2022 16:10:23]
+  Tera Moran unequipped Нож ныряльщика
+[10/21/2022 16:10:23]
+  Tera Moran equipped Пистолет-пулемет
+[10/21/2022 16:10:23]
+  Tera Moran unequipped Пистолет-пулемет
+[10/21/2022 16:10:23]
+  Tera Moran equipped Нож ныряльщика
+[10/21/2022 16:10:24]
+  Tera Moran unequipped Нож ныряльщика
+[10/21/2022 16:10:24]
+  Tera Moran equipped Пистолет-пулемет
+[10/21/2022 16:10:24]
+  Williams Cuevas: Надо найти водолазный скафандр!
+[10/21/2022 16:10:26]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/21/2022 16:10:26]
+  Dahlia Pool: Помогите, я истекаю кровью!
+[10/21/2022 16:10:26]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[10/21/2022 16:10:26]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 28 Кровотечение: 25 Оглушение: 0.3
+[10/21/2022 16:10:26]
+  Tera Moran unequipped Пистолет-пулемет
+[10/21/2022 16:10:26]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:10:27]
+  Renata Collins: Надо найти водолазный скафандр!
+[10/21/2022 16:10:28]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:29]
+  Zoe Cork: У меня кровь!
+[10/21/2022 16:10:29]
+  Emilee Green: Я теряю много крови!
+[10/21/2022 16:10:30]
+  Emilee Green: Мне нужно подводное снаряжение!
+[10/21/2022 16:10:30]
+  Dahlia Pool: Надо найти водолазный скафандр!
+[10/21/2022 16:10:31]
+  Jerald Jack has died (Cause of death: Баротравма)
+[10/21/2022 16:10:33]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:10:33]
+  Tanika Connors: Мне нужно подводное снаряжение!
+[10/21/2022 16:10:34]
+  Tanika Connors has died (Cause of death: Баротравма)
+[10/21/2022 16:10:34]
+  Bonethresher attacked by kynlan4ic. Огнестрельная рана: 5.3199997 Кровотечение: 4.75 Оглушение: 0.3
+[10/21/2022 16:10:35]
+  Williams Cuevas has died (Cause of death: Баротравма)
+[10/21/2022 16:10:35]
+  Emilee Green has died (Cause of death: Баротравма)
+[10/21/2022 16:10:36]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:10:36]
+  Zoe Cork: Орудийный отсек: минус одна протечка!
+[10/21/2022 16:10:36]
+  Bonethresher attacked by kynlan4ic. Огнестрельная рана: 5.3199997 Кровотечение: 4.75 Оглушение: 0.3
+[10/21/2022 16:10:38]
+  Dahlia Pool has died (Cause of death: Баротравма)
+[10/21/2022 16:10:40]
+  Tera Moran equipped Пистолет-пулемет
+[10/21/2022 16:10:40]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:40]
+  kynlan4ic equipped Ручной сонар
+[10/21/2022 16:10:40]
+  Tera Moran: Помогите, я истекаю кровью!
+[10/21/2022 16:10:42]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:10:42]
+  Elmer Welden has died (Cause of death: Кровопотеря)
+[10/21/2022 16:10:44]
+  Tera Moran unequipped Пистолет-пулемет
+[10/21/2022 16:10:44]
+  Tera Moran equipped Нож ныряльщика
+[10/21/2022 16:10:44]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:10:46]
+  Outer wall repaired by Seth Avery
+[10/21/2022 16:10:47]
+  Seth Avery: Медицинский отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:10:47]
+  Zoe Cork: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:10:49]
+  Outer wall repaired by Seth Avery
+[10/21/2022 16:10:52]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:10:52]
+  Inner wall breached by Bonethresher
+[10/21/2022 16:10:53]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:10:54]
+  Outer wall repaired by Seth Avery
+[10/21/2022 16:10:56]
+  Renata Collins: У меня кровь!
+[10/21/2022 16:11:00]
+  Zoe Cork: У меня кровь!
+[10/21/2022 16:11:01]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:01]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:11:04]
+  Seth Avery unequipped Гаечный ключ
+[10/21/2022 16:11:04]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:11:04]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:11:04]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:11:04]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:11:04]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:11:05]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:11:05]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:11:06]
+  Seth Avery: Я теряю много крови!
+[10/21/2022 16:11:06]
+  kynlan4ic equipped Водолазный скафандр
+[10/21/2022 16:11:09]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:11:10]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:10]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:11:12]
+  Tera Moran: Я теряю много крови!
+[10/21/2022 16:11:13]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:11:13]
+  Seth Avery unequipped Гаечный ключ
+[10/21/2022 16:11:13]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:11:14]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:11:18]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:11:23]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:24]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:11:24]
+  Inner wall repaired by Seth Avery
+[10/21/2022 16:11:24]
+  Seth Avery: Орудийный отсек: минус одна протечка!
+[10/21/2022 16:11:26]
+  Outer wall repaired by Seth Avery
+[10/21/2022 16:11:28]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:11:35]
+  Zoe Cork: Медицинский отсек: минус одна протечка!
+[10/21/2022 16:11:38]
+  Seth Avery: Я теряю много крови!
+[10/21/2022 16:11:39]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:39]
+  Seth Avery equipped Аккумулятор
+[10/21/2022 16:11:39]
+  Seth Avery unequipped Аккумулятор
+[10/21/2022 16:11:39]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:11:41]
+  Renata Collins has died (Cause of death: Укусы)
+[10/21/2022 16:11:42]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:11:42]
+  Zoe Cork: Медицинский отсек: протечек не осталось!
+[10/21/2022 16:11:46]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:46]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:11:49]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:11:49]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:11:49]
+  Seth Avery unequipped Гаечный ключ
+[10/21/2022 16:11:49]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:11:50]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:11:50]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:11:50]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:50]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:11:51]
+  Tera Moran has died (Cause of death: Укусы)
+[10/21/2022 16:11:52]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:11:52]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:11:52]
+  kynlan4ic picked up Граната с воспламенитом
+[10/21/2022 16:11:52]
+  kynlan4ic picked up Граната с воспламенитом
+[10/21/2022 16:11:53]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:11:53]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:11:53]
+  Seth Avery unequipped Гаечный ключ
+[10/21/2022 16:11:53]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:11:54]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:11:54]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:11:54]
+  kynlan4ic equipped Граната с воспламенитом
+[10/21/2022 16:11:55]
+  Seth Avery unequipped Сварочный аппарат
+[10/21/2022 16:11:55]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:11:55]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:11:55]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:11:55]
+  kynlan4ic threw Граната с воспламенитом
+[10/21/2022 16:11:56]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:11:56]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:11:58]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:11:58]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:11:58]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:11:58]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:12:05]
+  kynlan4ic picked up Дробовик
+[10/21/2022 16:12:07]
+  kynlan4ic equipped Дробовик
+[10/21/2022 16:12:08]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:09]
+  Seth Avery attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:10]
+  Seth Avery has died (Cause of death: Укусы)
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:11]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:12]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:13]
+  Tigerthresher attacked by kynlan4ic. Огнестрельная рана: 8 Кровотечение: 6 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:15]
+  Zoe Cork attacked by kynlan4ic. Огнестрельная рана: 2.6 Кровотечение: 2.925 Оглушение: 0.1
+[10/21/2022 16:12:18]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:12:51]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/21/2022 16:13:01]
+  Dispatching the respawn shuttle.
+[10/21/2022 16:13:01]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/21/2022 16:13:01]
+  Respawning bot Emilee Green as Врач
+[10/21/2022 16:13:01]
+  Respawning bot Elmer Welden as Офицер службы безопасности
+[10/21/2022 16:13:02]
+  Respawning bot Williams Cuevas as Механик
+[10/21/2022 16:13:02]
+  Respawning bot Jerald Jack as Инженер
+[10/21/2022 16:13:02]
+  Respawning bot Tanika Connors as Помощник
+[10/21/2022 16:13:02]
+  Respawning bot Renata Collins as Врач
+[10/21/2022 16:13:03]
+  Respawning bot Tera Moran as Офицер службы безопасности
+[10/21/2022 16:13:03]
+  Respawning bot Seth Avery as Механик
+[10/21/2022 16:13:03]
+  Respawning bot Dahlia Pool as Инженер
+[10/21/2022 16:13:06]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 16:13:30]
+  Zoe Cork has died (Cause of death: Ожог)
+[10/21/2022 16:15:04]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/21/2022 16:15:47]
+  kynlan4ic docked Hemulen to Sardine
+[10/21/2022 16:16:00]
+  kynlan4ic picked up Подводный скутер
+[10/21/2022 16:16:00]
+  kynlan4ic picked up Плазменный резак
+[10/21/2022 16:16:03]
+  kynlan4ic picked up Ручной сонар
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:05]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:16:15]
+  kynlan4ic equipped Плазменный резак
+[10/21/2022 16:17:26]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:26]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:26]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:34]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:36]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:38]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:41]
+  Jerald Jack: Мне нужно подводное снаряжение!
+[10/21/2022 16:17:41]
+  Dahlia Pool: Мне нужно подводное снаряжение!
+[10/21/2022 16:17:42]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:45]
+  Seth Avery: Надо найти водолазный скафандр!
+[10/21/2022 16:17:45]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:45]
+  Tera Moran: Надо найти водолазный скафандр!
+[10/21/2022 16:17:46]
+  Elmer Welden: Мне нужно подводное снаряжение!
+[10/21/2022 16:17:46]
+  Williams Cuevas: Надо найти водолазный скафандр!
+[10/21/2022 16:17:46]
+  Emilee Green: Мне нужно подводное снаряжение!
+[10/21/2022 16:17:46]
+  Renata Collins: Надо найти водолазный скафандр!
+[10/21/2022 16:17:46]
+  Tanika Connors: Надо найти водолазный скафандр!
+[10/21/2022 16:17:47]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:49]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:51]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:54]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:56]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:57]
+  Elmer Welden has died (Cause of death: Баротравма)
+[10/21/2022 16:17:58]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:58]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:17:59]
+  Williams Cuevas equipped Сварочный аппарат
+[10/21/2022 16:18:00]
+  Williams Cuevas: Эти проклятые создания тут повсюду!
+[10/21/2022 16:18:01]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:18:01]
+  Emilee Green has died (Cause of death: Баротравма)
+[10/21/2022 16:18:01]
+  Seth Avery equipped Сварочный аппарат
+[10/21/2022 16:18:01]
+  Dahlia Pool: Спокойное море моряка ничему не научит.
+[10/21/2022 16:18:02]
+  Seth Avery: А-А-А-А-А-А!
+[10/21/2022 16:18:03]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:18:04]
+  Tanika Connors equipped Гаечный ключ
+[10/21/2022 16:18:04]
+  Tanika Connors: Помогите!
+[10/21/2022 16:18:05]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:18:08]
+  Renata Collins opened Настраиваемая дверь с окном
+[10/21/2022 16:18:09]
+  Tera Moran equipped Шоковая дубинка
+[10/21/2022 16:18:10]
+  Tera Moran: Ищу безопасное место!
+[10/21/2022 16:18:12]
+  Seth Avery: Помогите, я истекаю кровью!
+[10/21/2022 16:18:18]
+  Tanika Connors: Помогите, я истекаю кровью!
+[10/21/2022 16:18:20]
+  Williams Cuevas: Помогите!
+[10/21/2022 16:18:22]
+  Jerald Jack equipped Гаечный ключ
+[10/21/2022 16:18:22]
+  Jerald Jack: Отвали от меня!
+[10/21/2022 16:18:23]
+  Seth Avery: Эти проклятые создания тут повсюду!
+[10/21/2022 16:18:25]
+  Tanika Connors: Отвали от меня!
+[10/21/2022 16:18:35]
+  Tera Moran unequipped Шоковая дубинка
+[10/21/2022 16:18:36]
+  Jerald Jack unequipped Гаечный ключ
+[10/21/2022 16:18:45]
+  Tanika Connors: Отвали от меня!
+[10/21/2022 16:18:51]
+  Tanika Connors: Я теряю много крови!
+[10/21/2022 16:18:56]
+  Williams Cuevas unequipped Сварочный аппарат
+[10/21/2022 16:19:03]
+  Seth Avery has died (Cause of death: Укусы)
+[10/21/2022 16:19:07]
+  Jerald Jack equipped Гаечный ключ
+[10/21/2022 16:19:07]
+  Jerald Jack: Отвали от меня!
+[10/21/2022 16:19:08]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:19:10]
+  Williams Cuevas equipped Сварочный аппарат
+[10/21/2022 16:19:10]
+  Williams Cuevas: Помогите!
+[10/21/2022 16:19:11]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:19:11]
+  Dahlia Pool: Отвали от меня!
+[10/21/2022 16:19:12]
+  Williams Cuevas: У меня кровь!
+[10/21/2022 16:19:16]
+  Jerald Jack: Я теряю много крови!
+[10/21/2022 16:19:17]
+  Dahlia Pool unequipped Гаечный ключ
+[10/21/2022 16:19:30]
+  Jerald Jack unequipped Гаечный ключ
+[10/21/2022 16:19:31]
+  Williams Cuevas: Помогите мне!
+[10/21/2022 16:19:48]
+  Jerald Jack: У меня кровь!
+[10/21/2022 16:19:55]
+  Tanika Connors has died (Cause of death: Кровопотеря)
+[10/21/2022 16:19:57]
+  Williams Cuevas has died (Cause of death: Укусы)
+[10/21/2022 16:20:14]
+  Tera Moran: Я теряю много крови!
+[10/21/2022 16:20:22]
+  Tera Moran equipped Шоковая дубинка
+[10/21/2022 16:20:22]
+  Tera Moran: А-А-А-А-А-А!
+[10/21/2022 16:20:22]
+  Jerald Jack: У меня кровь!
+[10/21/2022 16:20:42]
+  Tera Moran: Ищу безопасное место!
+[10/21/2022 16:21:06]
+  Tera Moran has died (Cause of death: Укусы)
+[10/21/2022 16:21:11]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:11]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:14]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:18]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:23]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:23]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:35]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:21:36]
+  Dahlia Pool: Отвали от меня!
+[10/21/2022 16:21:36]
+  Renata Collins: У меня нет оружия для самообороны!
+[10/21/2022 16:21:37]
+  Renata Collins: Ищу безопасное место!
+[10/21/2022 16:21:37]
+  Renata Collins: Помогите, я истекаю кровью!
+[10/21/2022 16:21:48]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:48]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:48]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:21:54]
+  Jerald Jack has died (Cause of death: Кровопотеря)
+[10/21/2022 16:21:55]
+  The respawn shuttle is leaving.
+[10/21/2022 16:21:57]
+  Dahlia Pool: Отвали от меня!
+[10/21/2022 16:22:09]
+  Renata Collins has died (Cause of death: Укусы)
+[10/21/2022 16:22:17]
+  Dahlia Pool: Помогите, я истекаю кровью!
+[10/21/2022 16:22:17]
+  Dahlia Pool: Эти проклятые создания тут повсюду!
+[10/21/2022 16:22:26]
+  The respawn shuttle has left.
+[10/21/2022 16:22:33]
+  Dahlia Pool used Гаечный ключ on Bonethresher.
+[10/21/2022 16:22:50]
+  Dahlia Pool has died (Cause of death: Укусы)
+[10/21/2022 16:23:00]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:23:09]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:23:10]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:23:12]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:23:17]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:23:23]
+  Inner wall breached by Bonethresher
+[10/21/2022 16:23:27]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:23:29]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/21/2022 16:23:39]
+  Dispatching the respawn shuttle.
+[10/21/2022 16:23:39]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/21/2022 16:23:39]
+  Respawning bot Zoe Cork as Помощник
+[10/21/2022 16:23:39]
+  Respawning bot Elmer Welden as Офицер службы безопасности
+[10/21/2022 16:23:40]
+  Respawning bot Renata Collins as Врач
+[10/21/2022 16:23:40]
+  Respawning bot Seth Avery as Механик
+[10/21/2022 16:23:40]
+  Respawning bot Tanika Connors as Помощник
+[10/21/2022 16:23:40]
+  Respawning bot Renata Collins as Врач
+[10/21/2022 16:23:40]
+  Respawning bot Tera Moran as Офицер службы безопасности
+[10/21/2022 16:23:41]
+  Respawning bot Dahlia Pool as Инженер
+[10/21/2022 16:23:43]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 16:33:01]
+  Zoe Cork: Надо было в ботаники идти!
+[10/21/2022 16:33:29]
+  Elmer Welden: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:29]
+  Renata Collins: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:29]
+  Seth Avery: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:29]
+  Tanika Connors: Надо найти водолазный скафандр!
+[10/21/2022 16:33:29]
+  Renata Collins: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:29]
+  Dahlia Pool: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:29]
+  Zoe Cork: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:30]
+  Tera Moran: Мне нужно подводное снаряжение!
+[10/21/2022 16:33:47]
+  kynlan4ic has died (Cause of death: Баротравма)
+[10/21/2022 16:34:04]
+  Tera Moran opened Настраиваемая дверь с окном
+[10/21/2022 16:34:47]
+  The respawn shuttle is leaving.
+[10/21/2022 16:34:56]
+  Dahlia Pool opened Настраиваемая дверь с окном
+[10/21/2022 16:34:56]
+  Dahlia Pool opened Настраиваемая дверь с окном
+[10/21/2022 16:35:09]
+  Elmer Welden opened Настраиваемая дверь с окном
+[10/21/2022 16:35:18]
+  The respawn shuttle has left.
+[10/21/2022 16:35:28]
+  Dispatching the respawn shuttle.
+[10/21/2022 16:35:28]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[10/21/2022 16:35:28]
+  Respawning bot Zoe Cork as Помощник
+[10/21/2022 16:35:28]
+  Respawning bot Elmer Welden as Офицер службы безопасности
+[10/21/2022 16:35:29]
+  Respawning bot Renata Collins as Врач
+[10/21/2022 16:35:29]
+  Respawning bot Seth Avery as Механик
+[10/21/2022 16:35:31]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/21/2022 16:36:42]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:36:43]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:36:48]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:36:50]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:36:53]
+  Tanika Connors: Медицинский отсек: все протечки устранены!
+[10/21/2022 16:36:55]
+  Tanika Connors unequipped Сварочный аппарат
+[10/21/2022 16:37:02]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:37:04]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:37:05]
+  Tanika Connors: Орудийный отсек: все протечки устранены!
+[10/21/2022 16:37:09]
+  Seth Avery equipped Гаечный ключ
+[10/21/2022 16:37:10]
+  Seth Avery started repairing Люк с кнопками
+[10/21/2022 16:37:12]
+  Tanika Connors unequipped Сварочный аппарат
+[10/21/2022 16:37:12]
+  Tanika Connors equipped Гаечный ключ
+[10/21/2022 16:37:15]
+  Renata Collins equipped Аккумулятор
+[10/21/2022 16:37:21]
+  Tanika Connors unequipped Гаечный ключ
+[10/21/2022 16:37:21]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:37:22]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:37:24]
+  Tanika Connors: Пункт управления: все протечки устранены!
+[10/21/2022 16:37:24]
+  Inner wall repaired by Tanika Connors
+[10/21/2022 16:37:24]
+  Tanika Connors: Отсек генератора кислорода: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:37:24]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:37:29]
+  Seth Avery started repairing Дверь с кнопками
+[10/21/2022 16:37:30]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:37:30]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:37:35]
+  Tanika Connors unequipped Сварочный аппарат
+[10/21/2022 16:37:35]
+  Tanika Connors equipped Гаечный ключ
+[10/21/2022 16:37:36]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:37:36]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:37:38]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:37:39]
+  Zoe Cork: Отсек генератора кислорода: протечек не осталось!
+[10/21/2022 16:37:39]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:37:42]
+  Tanika Connors unequipped Гаечный ключ
+[10/21/2022 16:37:42]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:37:42]
+  Zoe Cork equipped Гаечный ключ
+[10/21/2022 16:37:43]
+  Zoe Cork unequipped Гаечный ключ
+[10/21/2022 16:37:45]
+  Renata Collins equipped Плазменный резак
+[10/21/2022 16:37:47]
+  Seth Avery started repairing Генератор кислорода
+[10/21/2022 16:37:50]
+  Renata Collins equipped Гаечный ключ
+[10/21/2022 16:37:50]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:37:59]
+  Zoe Cork: Орудийный отсек: минус одна протечка!
+[10/21/2022 16:37:59]
+  Dahlia Pool equipped Гаечный ключ
+[10/21/2022 16:37:59]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:37:59]
+  Dahlia Pool: Помогите!
+[10/21/2022 16:38:00]
+  Dahlia Pool: У меня кровь!
+[10/21/2022 16:38:02]
+  Seth Avery started repairing Деконструктор
+[10/21/2022 16:38:04]
+  Renata Collins equipped Сварочный аппарат
+[10/21/2022 16:38:05]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:38:05]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:38:06]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:38:09]
+  Tanika Connors: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:38:09]
+  Elmer Welden equipped Шоковая дубинка
+[10/21/2022 16:38:09]
+  Elmer Welden: Отвали от меня!
+[10/21/2022 16:38:12]
+  Outer wall repaired by Renata Collins
+[10/21/2022 16:38:12]
+  Renata Collins: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:38:17]
+  Tanika Connors unequipped Сварочный аппарат
+[10/21/2022 16:38:17]
+  Renata Collins unequipped Сварочный аппарат
+[10/21/2022 16:38:18]
+  Zoe Cork: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:38:21]
+  Seth Avery started repairing Фабрикатор
+[10/21/2022 16:38:22]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:38:25]
+  Tera Moran equipped Сварочный аппарат
+[10/21/2022 16:38:25]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:38:27]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:38:27]
+  Tanika Connors: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:38:27]
+  Outer wall repaired by Tera Moran
+[10/21/2022 16:38:27]
+  Tera Moran: Орудийный отсек: минус одна протечка!
+[10/21/2022 16:38:28]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:38:28]
+  Zoe Cork: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:38:28]
+  Dahlia Pool has died (Cause of death: Укусы)
+[10/21/2022 16:38:29]
+  Outer wall repaired by Tera Moran
+[10/21/2022 16:38:29]
+  Renata Collins equipped Сварочный аппарат
+[10/21/2022 16:38:30]
+  Elmer Welden: Ищу безопасное место!
+[10/21/2022 16:38:31]
+  Outer wall repaired by Tanika Connors
+[10/21/2022 16:38:31]
+  Tanika Connors unequipped Сварочный аппарат
+[10/21/2022 16:38:32]
+  Outer wall repaired by Tera Moran
+[10/21/2022 16:38:32]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:38:32]
+  Tera Moran: Орудийный отсек: все протечки устранены!
+[10/21/2022 16:38:33]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:38:34]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:38:34]
+  Zoe Cork: Моторный отсек: все протечки устранены!
+[10/21/2022 16:38:34]
+  Inner wall repaired by Tera Moran
+[10/21/2022 16:38:36]
+  Elmer Welden used Шоковая дубинка (Аккумулятор) on Bonethresher.
+[10/21/2022 16:38:38]
+  Tera Moran unequipped Сварочный аппарат
+[10/21/2022 16:38:40]
+  Elmer Welden: Я теряю много крови!
+[10/21/2022 16:38:41]
+  Elmer Welden used Шоковая дубинка (Аккумулятор) on Bonethresher.
+[10/21/2022 16:38:42]
+  Seth Avery started repairing Зарядник магнитной пушки
+[10/21/2022 16:38:46]
+  Zoe Cork: Воздушный шлюз: все протечки устранены!
+[10/21/2022 16:38:47]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:38:51]
+  Elmer Welden: Ищу безопасное место!
+[10/21/2022 16:38:59]
+  Tera Moran equipped Нож ныряльщика
+[10/21/2022 16:39:00]
+  Seth Avery started repairing Зарядник магнитной пушки
+[10/21/2022 16:39:09]
+  Elmer Welden has died (Cause of death: Укусы)
+[10/21/2022 16:39:24]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:39:25]
+  Zoe Cork: Балласт: все протечки устранены!
+[10/21/2022 16:39:28]
+  Zoe Cork unequipped Сварочный аппарат
+[10/21/2022 16:39:33]
+  Seth Avery started repairing Зарядник магнитной пушки
+[10/21/2022 16:40:12]
+  Seth Avery started repairing Двигатель
+[10/21/2022 16:40:20]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:21]
+  Tanika Connors equipped Водолазный скафандр
+[10/21/2022 16:40:21]
+  Tanika Connors equipped Сварочный аппарат
+[10/21/2022 16:40:22]
+  Tanika Connors unequipped Сварочный аппарат
+[10/21/2022 16:40:23]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:25]
+  Inner wall breached by Bonethresher
+[10/21/2022 16:40:26]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:26]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:30]
+  Tanika Connors equipped Дробовик
+[10/21/2022 16:40:39]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:43]
+  Seth Avery started repairing Деконструктор
+[10/21/2022 16:40:45]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:50]
+  Zoe Cork equipped Сварочный аппарат
+[10/21/2022 16:40:52]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:40:52]
+  Outer wall breached by Bonethresher
+[10/21/2022 16:40:52]
+  Zoe Cork: Пункт управления: все протечки устранены!
+[10/21/2022 16:40:55]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:40:55]
+  Zoe Cork: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/21/2022 16:41:00]
+  Outer wall repaired by Zoe Cork
+[10/21/2022 16:41:22]
+  Inner wall breached by Bonethresher
+[10/21/2022 16:41:55]
+  Renata Collins: Воздушный шлюз: давление достигло опасного уровня!
+[10/21/2022 16:41:56]
+  Tera Moran: Моторный отсек: давление достигло опасного уровня!
+[10/21/2022 16:41:57]
+  Renata Collins has died (Cause of death: Баротравма)
+[10/21/2022 16:41:58]
+  Tera Moran has died (Cause of death: Баротравма)
+[10/21/2022 16:41:58]
+  Tanika Connors has died (Cause of death: Баротравма)
+[10/21/2022 16:41:59]
+  Seth Avery has died (Cause of death: Баротравма)
+[10/21/2022 16:42:00]
+  Zoe Cork has died (Cause of death: Баротравма)
+[10/21/2022 16:42:02]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/21/2022 16:42:03]
+  Renata Collins has died (Cause of death: Баротравма)
+[10/21/2022 16:42:16]
+  kynlan4ic picked up Подводный скутер
+[10/21/2022 16:42:17]
+  kynlan4ic picked up Плазменный резак
+[10/21/2022 16:42:17]
+  kynlan4ic picked up Ручной сонар
+[10/21/2022 16:42:19]
+  kynlan4ic picked up Аккумулятор
+[10/21/2022 16:42:19]
+  kynlan4ic picked up Аккумулятор
+[10/21/2022 16:42:19]
+  kynlan4ic picked up Аккумулятор
+[10/21/2022 16:42:19]
+  kynlan4ic picked up Аккумулятор
+[10/21/2022 16:42:19]
+  kynlan4ic picked up Аккумулятор
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:20]
+  kynlan4ic picked up Кислородный баллон
+[10/21/2022 16:42:37]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[10/21/2022 16:46:27]
+  kynlan4ic: Seth Avery, заряди реактор!
+[10/21/2022 16:46:27]
+  Seth Avery: Надо найти водолазный скафандр!
+[10/21/2022 16:46:28]
+  Seth Avery: Вас понял!
+[10/21/2022 16:46:33]
+  Seth Avery: Невозможно добраться: Ядерный реактор!
+[10/21/2022 16:46:48]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[10/21/2022 16:46:52]
+  kynlan4ic equipped Подводный скутер
+[10/21/2022 16:46:52]
+  kynlan4ic equipped Плазменный резак
+[10/21/2022 16:46:58]
+  Outer wall breached by kynlan4ic
+[10/21/2022 16:47:13]
+  Renata Collins: Надо найти водолазный скафандр!
+[10/21/2022 16:47:24]
+  Elmer Welden: Мне нужно подводное снаряжение!
+[10/21/2022 16:47:25]
+  Zoe Cork: Мне нужно подводное снаряжение!
+[10/21/2022 16:47:36]
+  Elmer Welden: Ой-ой.
+[10/21/2022 16:47:41]
+  kynlan4ic equipped Ручной сонар
+[10/21/2022 16:51:10]
+  kynlan4ic opened Настраиваемая дверь
+[10/21/2022 16:51:15]
+  kynlan4ic opened Настраиваемый люк
+[10/21/2022 16:51:15]
+  Ending round (submarine reached the end of the level)
+[10/21/2022 16:51:15]
+  Ending the round...

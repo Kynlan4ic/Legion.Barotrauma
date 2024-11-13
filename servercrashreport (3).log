@@ -1,0 +1,58 @@
+﻿Barotrauma Dedicated Server crash report (generated on 11/01/2022 15:08:15)
+
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+
+Game version 0.19.14.0 (ReleaseWindows, branch release, revision 0daf5b87bd)
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra
+Level seed: a1TkUbRo
+Loaded submarine: Sardine (95B549FBD0FCA410702C4731608951F2)
+Selected screen: Barotrauma.GameScreen
+Server (Round had started)
+
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+
+
+Exception: Object reference not set to an instance of an object. (System.NullReferenceException)
+Target site: Barotrauma.LocalizedString get_StartMessageServerText()
+Stack trace: 
+   at Barotrauma.Traitor.Objective.get_StartMessageServerText() in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\Objective.cs:line 67
+   at Barotrauma.Traitor.Greet(GameServer server, String codeWords, String codeResponse, MessageSender messageSender) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\Traitor.cs:line 33
+   at Barotrauma.Traitor.TraitorMission.Start(GameServer server, TraitorManager traitorManager, CharacterTeamType team) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\TraitorMission.cs:line 229
+   at Barotrauma.TraitorManager.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\TraitorManager.cs:line 176
+   at Barotrauma.Networking.GameServer.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Networking\GameServer.cs:line 384
+   at Barotrauma.GameMain.Run() in <DEV>\Barotrauma\BarotraumaServer\ServerSource\GameMain.cs:line 329
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Program.cs:line 78
+
+
+Last debug messages:
+   11/01/2022 15:08:15 - [11/01/2022 15:08:15]
+  Saving banlist
+   11/01/2022 15:08:14 - [11/01/2022 15:08:14]
+  igameCrog adjusted reactor settings: Temperature: 10000, Fission rate: 56, Turbine output: 100, Autotemp OFF
+   11/01/2022 15:08:13 - [11/01/2022 15:08:13]
+  igameCrog adjusted reactor settings: Temperature: 9575, Fission rate: 56, Turbine output: 79, Autotemp OFF
+   11/01/2022 15:08:12 - [11/01/2022 15:08:12]
+  igameCrog adjusted reactor settings: Temperature: 8292, Fission rate: 56, Turbine output: 57, Autotemp OFF
+   11/01/2022 15:08:12 - [11/01/2022 15:08:12]
+  Корка docked Venture to Sardine
+   11/01/2022 15:08:09 - [11/01/2022 15:08:09]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 275)
+   11/01/2022 15:08:02 - [11/01/2022 15:08:02]
+  igameCrog picked up Топливный стержень
+   11/01/2022 15:07:57 - [11/01/2022 15:07:57]
+  Console command "freecam" executed by kynlan4ic.
+   11/01/2022 15:07:57 - [11/01/2022 15:07:57]
+  igameCrog picked up Водолазный скафандр
+   11/01/2022 15:07:54 - [11/01/2022 15:07:54]
+  Console command "control Latcher" executed by kynlan4ic.
+   11/01/2022 15:07:54 - Found multiple matching characters. Use "[charactername] [0-1]" to choose a specific character.
+   11/01/2022 15:07:52 - [11/01/2022 15:07:52]
+  Aserox picked up Подводная маска
+   11/01/2022 15:07:49 - [11/01/2022 15:07:49]
+  Console command "control Latcher" executed by kynlan4ic.
+   11/01/2022 15:07:49 - Found multiple matching characters. Use "[charactername] [0-1]" to choose a specific character.

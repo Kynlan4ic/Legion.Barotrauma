@@ -1,0 +1,1002 @@
+﻿[03/03/2023 17:02:22]
+  Rowena Colpitts started repairing Генератор кислорода
+[03/03/2023 17:02:23]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 17:02:23]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:02:23]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 17:02:23]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:02:24]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 17:02:24]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 17:02:25]
+  Outer wall repaired by kynlan4ic
+[03/03/2023 17:02:29]
+  kynlan4ic closed Настраиваемая дверь
+[03/03/2023 17:02:31]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 17:02:33]
+  Outer wall repaired by kynlan4ic
+[03/03/2023 17:02:33]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 17:02:34]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 17:02:34]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:02:41]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:02:49]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:02:49]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 17:02:50]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:02:52]
+  kynlan4ic dropped Wire
+[03/03/2023 17:02:52]
+  kynlan4ic connected a wire to Кабельная коробка (power)
+[03/03/2023 17:02:53]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 17:02:53]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 17:02:54]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 17:02:57]
+  kynlan4ic disconnected a wire from Кабельная коробка (power)
+[03/03/2023 17:02:58]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 17:03:00]
+  kynlan4ic disconnected a wire from Монитор сонара (power_in)
+[03/03/2023 17:03:00]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 17:03:01]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 17:03:04]
+  kynlan4ic dropped Wire
+[03/03/2023 17:03:04]
+  kynlan4ic connected a wire to Монитор сонара (power_in)
+[03/03/2023 17:03:07]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:03:12]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:03:16]
+  vlad32 picked up Подводный скутер
+[03/03/2023 17:03:17]
+  kynlan4ic disconnected a wire from Монитор сонара (power_in)
+[03/03/2023 17:03:19]
+  vlad32 opened Настраиваемая дверь
+[03/03/2023 17:03:20]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:03:20]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:03:20]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 17:03:24]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 17:03:26]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 17:03:26]
+  kynlan4ic opened Настраиваемая дверь
+[03/03/2023 17:03:31]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:03:35]
+  kynlan4ic placed Кислородный баллон in Пояс инструментов (ID: 9578)
+[03/03/2023 17:03:35]
+  kynlan4ic removed Кислородный баллон from Пояс инструментов (ID: 9578)
+[03/03/2023 17:03:35]
+  kynlan4ic placed Кислородный баллон in Боевой водолазный скафандр (ID: 2257)
+[03/03/2023 17:03:35]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:03:42]
+  kynlan4ic picked up Красный провод
+[03/03/2023 17:03:47]
+  kynlan4ic equipped Красный провод
+[03/03/2023 17:03:49]
+  kynlan4ic connected a wire to Монитор сонара (power_in)
+[03/03/2023 17:03:52]
+  kynlan4ic connected a wire from Кабельная коробка (power) to Монитор сонара (power_in)
+[03/03/2023 17:03:55]
+  Joe Parchman: Яви нам свою силу!
+[03/03/2023 17:04:04]
+  kynlan4ic picked up Оранжевый провод
+[03/03/2023 17:04:06]
+  vlad32 placed Сварочный аппарат in Пояс инструментов (ID: 9630)
+[03/03/2023 17:04:07]
+  kynlan4ic equipped Оранжевый провод
+[03/03/2023 17:04:09]
+  kynlan4ic connected a wire to Кабельная коробка (power)
+[03/03/2023 17:04:16]
+  kynlan4ic connected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 80 %
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 70 %
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 60 %
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 40 %
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 30 %
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 40 %
+[03/03/2023 17:04:18]
+  vlad32 set the recharge speed of Батарея to 80 %
+[03/03/2023 17:04:20]
+  vlad32 set the recharge speed of Батарея to 90 %
+[03/03/2023 17:04:20]
+  vlad32 set the recharge speed of Батарея to 100 %
+[03/03/2023 17:04:20]
+  Информация о миссии:  - Маяк снова работает.
+[03/03/2023 17:04:27]
+  vlad32 picked up Топливный бак сварочного аппарата
+[03/03/2023 17:04:27]
+  vlad32 picked up Топливный бак сварочного аппарата
+[03/03/2023 17:04:27]
+  vlad32 picked up Топливный бак сварочного аппарата
+[03/03/2023 17:04:29]
+  kynlan4ic picked up Оранжевый провод
+[03/03/2023 17:04:36]
+  kynlan4ic dropped Оранжевый провод
+[03/03/2023 17:04:38]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 17:04:38]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:04:38]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:04:39]
+  vlad32 closed Настраиваемая дверь
+[03/03/2023 17:04:40]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 17:04:42]
+  Rowena Colpitts started repairing Малый насос
+[03/03/2023 17:04:43]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:04:43]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 17:04:45]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 17:04:46]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 17:04:46]
+  kynlan4ic dropped Отвертка
+[03/03/2023 17:04:49]
+  vlad32 unequipped Отвертка
+[03/03/2023 17:04:51]
+  vlad32 placed Отвертка in Пояс инструментов (ID: 9630)
+[03/03/2023 17:04:51]
+  kynlan4ic closed Настраиваемый люк
+[03/03/2023 17:04:52]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:04:52]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/03/2023 17:04:52]
+  vlad32 placed Гаечный ключ in Пояс инструментов (ID: 9630)
+[03/03/2023 17:04:54]
+  vlad32 opened Настраиваемый люк
+[03/03/2023 17:04:55]
+  vlad32 opened Настраиваемый люк
+[03/03/2023 17:04:58]
+  vlad32 closed Настраиваемый люк
+[03/03/2023 17:05:00]
+  vlad32 opened Настраиваемая дверь с окном
+[03/03/2023 17:05:04]
+  kynlan4ic placed Сварочный аппарат in Средний стальной шкаф (ID: 860)
+[03/03/2023 17:05:07]
+  vlad32 dropped Боевой водолазный скафандр
+[03/03/2023 17:05:22]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:05:22]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 17:05:22]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:05:24]
+  vlad32 placed Топливный бак сварочного аппарата in Большой стальной шкаф (ID: 958)
+[03/03/2023 17:05:24]
+  vlad32 placed Топливный бак сварочного аппарата in Большой стальной шкаф (ID: 958)
+[03/03/2023 17:05:24]
+  vlad32 placed Топливный бак сварочного аппарата in Большой стальной шкаф (ID: 958)
+[03/03/2023 17:05:26]
+  vlad32 adjusted reactor settings: Temperature: 3748, Fission rate: 56, Turbine output: 51, Autotemp ON
+[03/03/2023 17:05:27]
+  Sara Lyons failed to repair Батарея
+[03/03/2023 17:05:27]
+  Rowena Colpitts started repairing Батарея
+[03/03/2023 17:05:27]
+  Dominick Mansfield started repairing Батарея
+[03/03/2023 17:05:28]
+  Rowena Colpitts started repairing Батарея
+[03/03/2023 17:05:28]
+  Delbert Graves: У меня новая цель! Не могу понять, что это такое...
+[03/03/2023 17:05:28]
+  Delbert Graves: Стреляю!
+[03/03/2023 17:05:28]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:29]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:29]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:29]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:29]
+  Dominick Mansfield started repairing Батарея
+[03/03/2023 17:05:30]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:30]
+  vlad32 adjusted reactor settings: Temperature: 4727, Fission rate: 52, Turbine output: 56, Autotemp ON
+[03/03/2023 17:05:30]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:30]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:30]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:31]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:31]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:05:31]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:05:31]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:31]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 17:05:31]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 17:05:31]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:31]
+  Rowena Colpitts: Мне нужно подводное снаряжение!
+[03/03/2023 17:05:32]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:32]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:33]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 17:05:33]
+  Dominick Mansfield: Надо найти водолазный скафандр!
+[03/03/2023 17:05:33]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:33]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:33]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:34]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:34]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 17:05:34]
+  Sara Lyons: Надо найти водолазный скафандр!
+[03/03/2023 17:05:34]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:37]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:37]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:37]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:37]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:38]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:38]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:38]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:39]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:39]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:39]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:39]
+  Dominick Mansfield: Меняем кислородные баллоны!
+[03/03/2023 17:05:39]
+  Dominick Mansfield: У меня больше нет кислородных баллонов, кроме этого.
+[03/03/2023 17:05:39]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:41]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:41]
+  Outer wall breached by Delbert Graves
+[03/03/2023 17:05:41]
+  Dominick Mansfield started repairing Настраиваемый люк
+[03/03/2023 17:05:42]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/03/2023 17:05:42]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 17:05:42]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:05:42]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:05:42]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 17:05:45]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 17:05:46]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 17:05:48]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 17:05:51]
+  Bennie Castro: Огонь!
+[03/03/2023 17:05:51]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:05:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:05:52]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/03/2023 17:05:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:05:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:05:52]
+  Bonethresher has died (Cause of death: Рваная рана)
+[03/03/2023 17:05:52]
+  Bennie Castro: Цель уничтожена!
+[03/03/2023 17:05:52]
+  Delbert Graves: Цель уничтожена!
+[03/03/2023 17:05:53]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:05:53]
+  Claire Suarez: У меня новая цель! Не могу понять, что это такое...
+[03/03/2023 17:05:53]
+  Claire Suarez: Стреляю!
+[03/03/2023 17:05:53]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:53]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:54]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:54]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:55]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:55]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:56]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:57]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 17:05:57]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 17:05:57]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:05:57]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:57]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:57]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:58]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:58]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 17:05:58]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 17:05:58]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 17:05:58]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:58]
+  Crawler has died (Cause of death: Unknown)
+[03/03/2023 17:05:58]
+  Claire Suarez: Кажется, есть попадание!
+[03/03/2023 17:05:58]
+  Delbert Graves: Стреляю!
+[03/03/2023 17:05:58]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:59]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:59]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:05:59]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:00]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:00]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:00]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:00]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:01]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:01]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:02]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:02]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:02]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:03]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:03]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:03]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:03]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:04]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:04]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:06:04]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:04]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:04]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:05]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:05]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:07]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 17:06:07]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:08]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:08]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 17:06:08]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:08]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:08]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:08]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:09]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:09]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:09]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:09]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:09]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:10]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:10]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:10]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:10]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:11]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:11]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:11]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 17:06:13]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/03/2023 17:06:14]
+  Sara Lyons started repairing Навигационный терминал
+[03/03/2023 17:06:15]
+  Dominick Mansfield started repairing Навигационный терминал
+[03/03/2023 17:06:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:21]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:22]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:06:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:24]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:24]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:24]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:25]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:25]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:27]
+  Bennie Castro: Стреляю!
+[03/03/2023 17:06:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:28]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:28]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:28]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:06:29]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:29]
+  Crawler has died (Cause of death: Внутренняя травма)
+[03/03/2023 17:06:29]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  Crawlerbroodmother attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:29]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:29]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:30]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:30]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/03/2023 17:06:30]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:30]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:30]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:33]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:06:39]
+  Delbert Graves equipped Водолазный скафандр бездны
+[03/03/2023 17:06:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:48]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:49]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:50]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:51]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Crawlerbroodmother has died (Cause of death: Рваная рана)
+[03/03/2023 17:06:52]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:06:52]
+  Bennie Castro: И-и-и-и... Готово!
+[03/03/2023 17:06:53]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:06:54]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:06:54]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/03/2023 17:06:57]
+  Sara Lyons unequipped Отвертка
+[03/03/2023 17:07:03]
+  Dominick Mansfield unequipped Отвертка
+[03/03/2023 17:07:31]
+  Bennie Castro equipped Боевой водолазный скафандр
+[03/03/2023 17:08:00]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/03/2023 17:08:01]
+  kynlan4ic picked up Плазменный резак
+[03/03/2023 17:08:04]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/03/2023 17:08:04]
+  kynlan4ic opened Настраиваемый люк
+[03/03/2023 17:09:31]
+  kynlan4ic closed Настраиваемый люк
+[03/03/2023 17:09:32]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/03/2023 17:09:33]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/03/2023 17:09:37]
+  kynlan4ic removed Водолазный скафандр бездны from Шкаф для подводного снаряжения (ID: 563)
+[03/03/2023 17:09:38]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 563)
+[03/03/2023 17:09:54]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 33)
+[03/03/2023 17:09:54]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 33)
+[03/03/2023 17:09:57]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:09:57]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:09:57]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:09:57]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:09:57]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:09:57]
+  kynlan4ic placed Кварц in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:09:59]
+  kynlan4ic placed Урановая руда in Контейнер для хранения (ID: 1243)
+[03/03/2023 17:10:03]
+  Bennie Castro: Огонь!
+[03/03/2023 17:10:03]
+  Dominick Mansfield equipped Гаечный ключ
+[03/03/2023 17:10:03]
+  Rowena Colpitts unequipped Отвертка
+[03/03/2023 17:10:03]
+  Rowena Colpitts equipped Гаечный ключ
+[03/03/2023 17:10:03]
+  kynlan4ic placed Урановая руда in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:10:03]
+  kynlan4ic placed Урановая руда in Контейнер для хранения (ID: 3038)
+[03/03/2023 17:10:04]
+  Sara Lyons equipped Гаечный ключ
+[03/03/2023 17:10:04]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:04]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:04]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:04]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:04]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:04]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:05]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:05]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:05]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:05]
+  Dominick Mansfield started repairing Настраиваемый люк
+[03/03/2023 17:10:05]
+  Sara Lyons started repairing Настраиваемый люк
+[03/03/2023 17:10:07]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/03/2023 17:10:08]
+  Sara Lyons unequipped Гаечный ключ
+[03/03/2023 17:10:09]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/03/2023 17:10:19]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:20]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:21]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:22]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:23]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:23]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:23]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:32]
+  Claire Suarez: Огонь!
+[03/03/2023 17:10:32]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:32]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:33]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:33]
+  Claire Suarez launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:35]
+  Delbert Graves: Стреляю!
+[03/03/2023 17:10:35]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:35]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:36]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:37]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:38]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:40]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:41]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:41]
+  Delbert Graves launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/03/2023 17:10:43]
+  Bennie Castro: Огонь!
+[03/03/2023 17:10:44]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:45]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:46]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:47]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:57]
+  Sara Lyons equipped Отвертка
+[03/03/2023 17:10:58]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:58]
+  Dominick Mansfield equipped Отвертка
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:59]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/03/2023 17:10:59]
+  Rowena Colpitts equipped Отвертка
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:10:59]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:00]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:00]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:00]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:00]
+  Sara Lyons started repairing Кабельная коробка
+[03/03/2023 17:11:00]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:00]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:00]
+  Bennie Castro launched Цепная пушка (projectile: )
+[03/03/2023 17:11:02]
+  kynlan4ic docked Orca to Жилой аванпост Jaavuari
+[03/03/2023 17:11:02]
+  kynlan4ic has gained 387 experience (47908 -> 48295)
+[03/03/2023 17:11:02]
+  vlad32 has gained 387 experience (31391 -> 31778)
+[03/03/2023 17:11:02]
+  Carlton Craig has gained 387 experience (34866 -> 35253)
+[03/03/2023 17:11:02]
+  Dominick Mansfield has gained 387 experience (32239 -> 32626)
+[03/03/2023 17:11:02]
+  Claire Suarez has gained 387 experience (32239 -> 32626)
+[03/03/2023 17:11:02]
+  Rowena Colpitts has gained 387 experience (32239 -> 32626)
+[03/03/2023 17:11:02]
+  Bennie Castro has gained 387 experience (32239 -> 32626)
+[03/03/2023 17:11:02]
+  Joe Parchman has gained 387 experience (604 -> 991)
+[03/03/2023 17:11:02]
+  Delbert Graves has gained 387 experience (32239 -> 32626)
+[03/03/2023 17:11:02]
+  Sara Lyons has gained 387 experience (29162 -> 29549)
+[03/03/2023 17:11:03]
+  Ending the round...

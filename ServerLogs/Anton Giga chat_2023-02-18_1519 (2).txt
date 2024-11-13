@@ -1,0 +1,1620 @@
+﻿[02/18/2023 14:40:01]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 95)
+[02/18/2023 14:40:01]
+  vlad32 (as Rupert Weaver) dropped Водолазный скафандр
+[02/18/2023 14:40:02]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:40:02]
+  Elliana Marquez equipped Топливный стержень
+[02/18/2023 14:40:03]
+  Ashley Gallagher equipped Топливный стержень
+[02/18/2023 14:40:06]
+  Elliana Marquez equipped Топливный стержень
+[02/18/2023 14:40:08]
+  Ashley Gallagher unequipped Топливный стержень
+[02/18/2023 14:40:08]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:40:08]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:40:09]
+  Ashley Gallagher failed to repair Ядерный реактор
+[02/18/2023 14:40:09]
+  kynlan4ic placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:40:13]
+  Ashley Gallagher started repairing Ядерный реактор
+[02/18/2023 14:40:14]
+  vlad32 (as Rupert Weaver) placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:40:14]
+  vlad32 (as Rupert Weaver) placed Урановая руда in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:40:14]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:40:21]
+  Ashley Gallagher equipped Водолазный скафандр
+[02/18/2023 14:40:21]
+  Ashley Gallagher equipped Топливный стержень
+[02/18/2023 14:40:22]
+  Ashley Gallagher unequipped Топливный стержень
+[02/18/2023 14:40:39]
+  vlad32 (as Rupert Weaver) dropped Подводная маска
+[02/18/2023 14:40:42]
+  vlad32 picked up Подводная маска
+[02/18/2023 14:40:44]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:40:45]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:40:50]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:41:16]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:41:17]
+  Ashley Gallagher failed to repair Кабельная коробка
+[02/18/2023 14:41:21]
+  Elliana Marquez: vlad32 получает первую помощь здесь: орудийный отсек!
+[02/18/2023 14:41:22]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:41:30]
+  Elliana Marquez: Ashley Gallagher в полном порядке!
+[02/18/2023 14:42:01]
+  vlad32 picked up Бейсболка
+[02/18/2023 14:42:15]
+  kynlan4ic docked Barsuk to Укрепление Sermilik
+[02/18/2023 14:42:15]
+  kynlan4ic has gained 129 experience (408 -> 537)
+[02/18/2023 14:42:15]
+  vlad32 (as Rupert Weaver) has gained 129 experience (408 -> 537)
+[02/18/2023 14:42:15]
+  Richard Hajek has gained 129 experience (408 -> 537)
+[02/18/2023 14:42:15]
+  Josef Parker has gained 129 experience (0 -> 129)
+[02/18/2023 14:42:15]
+  Ashley Gallagher has gained 129 experience (408 -> 537)
+[02/18/2023 14:42:15]
+  Elliana Marquez has gained 129 experience (408 -> 537)
+[02/18/2023 14:42:15]
+  kynlan4ic has gained 129 experience (537 -> 666)
+[02/18/2023 14:42:15]
+  vlad32 (as Rupert Weaver) has gained 129 experience (537 -> 666)
+[02/18/2023 14:42:15]
+  Richard Hajek has gained 129 experience (537 -> 666)
+[02/18/2023 14:42:15]
+  Josef Parker has gained 129 experience (129 -> 258)
+[02/18/2023 14:42:15]
+  Ashley Gallagher has gained 129 experience (537 -> 666)
+[02/18/2023 14:42:15]
+  Elliana Marquez has gained 129 experience (537 -> 666)
+[02/18/2023 14:42:15]
+  Ending the round...
+[02/18/2023 14:42:16]
+  Round ended.
+[02/18/2023 14:42:18]
+  Starting a new round...
+[02/18/2023 14:42:21]
+  Game mode: Кампания
+[02/18/2023 14:42:21]
+  Submarine: Barsuk
+[02/18/2023 14:42:21]
+  Level seed: Sermilik
+[02/18/2023 14:42:21]
+  Kendall Stalvey equipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Kendall Stalvey unequipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Kendall Stalvey equipped Отвертка
+[02/18/2023 14:42:21]
+  Cecille Gould equipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Cecille Gould unequipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Cecille Gould equipped Отвертка
+[02/18/2023 14:42:21]
+  Delbert Mungo equipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Delbert Mungo unequipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Delbert Mungo equipped Отвертка
+[02/18/2023 14:42:21]
+  Bell Planck equipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Bell Planck unequipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Bell Planck equipped Отвертка
+[02/18/2023 14:42:21]
+  Bell Planck unequipped Отвертка
+[02/18/2023 14:42:21]
+  Bell Planck equipped Лом
+[02/18/2023 14:42:21]
+  Carlton Burke equipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Carlton Burke unequipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Carlton Burke equipped Отвертка
+[02/18/2023 14:42:21]
+  Delbert Little equipped Отвертка
+[02/18/2023 14:42:21]
+  Darleen Flowers equipped Гаечный ключ
+[02/18/2023 14:42:21]
+  Bell Carey equipped Лом
+[02/18/2023 14:42:22]
+  Round started.
+[02/18/2023 14:42:22]
+  Северо Руис equipped Этанол
+[02/18/2023 14:42:22]
+  Darleen Flowers unequipped Гаечный ключ
+[02/18/2023 14:42:23]
+  Bell Carey unequipped Лом
+[02/18/2023 14:42:23]
+  Delbert Little unequipped Отвертка
+[02/18/2023 14:42:23]
+  Kendall Stalvey unequipped Отвертка
+[02/18/2023 14:42:23]
+  Bell Planck unequipped Лом
+[02/18/2023 14:42:24]
+  Elliana Marquez: У меня нет средств для лечения! vlad32 в беде!
+[02/18/2023 14:42:25]
+  Elliana Marquez: vlad32 проходит лечение здесь: верхняя задняя часть!
+[02/18/2023 14:42:27]
+  Ruthie Jack: Не встревайте в неприятности.
+[02/18/2023 14:42:30]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:42:35]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:42:39]
+  vlad32 (as Rupert Weaver) dropped Подводная маска
+[02/18/2023 14:42:42]
+  vlad32 (as Rupert Weaver) dropped Подводная маска
+[02/18/2023 14:42:44]
+  vlad32 picked up Подводная маска
+[02/18/2023 14:42:44]
+  vlad32 picked up Подводная маска
+[02/18/2023 14:43:00]
+  Carlton Burke unequipped Отвертка
+[02/18/2023 14:43:11]
+  Alita Mosley: Привет!
+[02/18/2023 14:44:43]
+  Delbert Mungo unequipped Отвертка
+[02/18/2023 14:45:08]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 75)
+[02/18/2023 14:45:24]
+  kynlan4ic changed the salary of vlad32 to 10%.
+[02/18/2023 14:45:26]
+  vlad32 dropped Удостоверение личности
+[02/18/2023 14:45:26]
+  kynlan4ic changed the salary of vlad32 to 0%.
+[02/18/2023 14:45:31]
+  kynlan4ic transferred 500 mk to vlad32 from the bank.
+[02/18/2023 14:45:33]
+  vlad32 dropped Наручники
+[02/18/2023 14:45:35]
+  kynlan4ic equipped Контейнер для хранения
+[02/18/2023 14:45:37]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 39)
+[02/18/2023 14:45:56]
+  vlad32 purchased 1 item(s) for 24 кр.
+ - Нож ныряльщика x1
+[02/18/2023 14:48:23]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 14:48:25]
+  vlad32 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 1829)
+[02/18/2023 14:48:56]
+  vlad32 equipped Металлический ящик
+[02/18/2023 14:48:57]
+  vlad32 dropped Металлический ящик
+[02/18/2023 14:49:04]
+  vlad32 placed Лом in Пояс инструментов (ID: 2680)
+[02/18/2023 14:49:06]
+  vlad32 placed Отвертка in Пояс инструментов (ID: 2680)
+[02/18/2023 14:49:09]
+  vlad32 placed Гаечный ключ in Пояс инструментов (ID: 2680)
+[02/18/2023 14:49:11]
+  vlad32 placed Сварочный аппарат in Пояс инструментов (ID: 2680)
+[02/18/2023 14:49:13]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 2680)
+[02/18/2023 14:49:26]
+  vlad32 placed Клоунский костюм in Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:49:26]
+  vlad32 removed Костюм котельника from Хозяйственный шкаф (ID: 614)
+[02/18/2023 14:49:26]
+  vlad32 picked up Костюм котельника
+[02/18/2023 14:49:40]
+  vlad32 equipped Металлический ящик
+[02/18/2023 14:49:43]
+  vlad32 dropped Металлический ящик
+[02/18/2023 14:50:05]
+  vlad32 has gained the talent 'Инженер по двигателям'
+[02/18/2023 14:51:12]
+  vlad32 purchased 1 item(s) for 126 кр.
+ - Револьвер x1
+[02/18/2023 14:51:58]
+  vlad32 picked up Лом
+[02/18/2023 14:51:59]
+  vlad32 equipped Лом
+[02/18/2023 14:53:36]
+  kynlan4ic purchased 2 item(s) for 412 кр.
+ - Капсула для импульсного лазера x1
+ - Ящик с боеприпасами для магнитной пушки x2
+[02/18/2023 14:53:50]
+  Ashley Gallagher: Иногда мне кажется, что мы просто марионетки на ниточках.
+[02/18/2023 14:53:55]
+  Ashley Gallagher: Пляшем и умираем на потеху неведомой сущности, притаившейся где-то за занавесом.
+[02/18/2023 14:54:10]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 14:54:10]
+  Ending the round...
+[02/18/2023 14:54:10]
+  Round ended.
+[02/18/2023 14:54:13]
+  Starting a new round...
+[02/18/2023 14:54:15]
+  Lenny Rios equipped Отвертка
+[02/18/2023 14:54:15]
+  Северо Руис equipped Этанол
+[02/18/2023 14:54:15]
+  Миссия: Пассажирские перевозки
+[02/18/2023 14:54:15]
+  Нескольких пассажиров нужно отвезти в точку Жилой аванпост Dunwice. Обеспечьте их безопасность - если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[02/18/2023 14:54:15]
+  Миссия: Перевозка гражданских лиц
+[02/18/2023 14:54:15]
+  Отвезите пассажира со спутником на соседнюю станцию.
+[02/18/2023 14:54:15]
+  Game mode: Кампания
+[02/18/2023 14:54:15]
+  Submarine: Barsuk
+[02/18/2023 14:54:15]
+  Level seed: SermilikDunwice
+[02/18/2023 14:54:15]
+  Mission: Пассажирские перевозки
+[02/18/2023 14:54:15]
+  Mission: Перевозка гражданских лиц
+[02/18/2023 14:54:16]
+  Round started.
+[02/18/2023 14:54:16]
+  Lenny Rios unequipped Отвертка
+[02/18/2023 14:54:17]
+  Северо Руис unequipped Этанол
+[02/18/2023 14:54:19]
+  Elliana Marquez: vlad32 проходит лечение здесь: реакторный отсек!
+[02/18/2023 14:54:20]
+  Elliana Marquez: vlad32 нуждается в помощи! Срочно требуется морфин или опиум!
+[02/18/2023 14:54:23]
+  Elliana Marquez equipped Морфин
+[02/18/2023 14:54:23]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:54:27]
+  Ashley Gallagher equipped Нож ныряльщика
+[02/18/2023 14:54:29]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:54:29]
+  Elliana Marquez: vlad32 чувствует себя хорошо!
+[02/18/2023 14:54:29]
+  Ashley Gallagher equipped Револьвер
+[02/18/2023 14:54:29]
+  kynlan4ic placed Инопланетная кровь in Аптечка (ID: 3)
+[02/18/2023 14:54:30]
+  Renata Nicolosi equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:54:35]
+  vlad32 equipped Контейнер для хранения
+[02/18/2023 14:54:35]
+  vlad32 picked up Контейнер для хранения
+[02/18/2023 14:54:37]
+  Ashley Gallagher equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:54:37]
+  vlad32 dropped Контейнер для хранения
+[02/18/2023 14:54:41]
+  vlad32 picked up Велосипедный гудок
+[02/18/2023 14:54:41]
+  vlad32 equipped Велосипедный гудок
+[02/18/2023 14:54:43]
+  vlad32 dropped Велосипедный гудок
+[02/18/2023 14:54:50]
+  Ashley Gallagher equipped Велосипедный гудок
+[02/18/2023 14:54:53]
+  vlad32 picked up Револьвер
+[02/18/2023 14:54:54]
+  vlad32 picked up Нож ныряльщика
+[02/18/2023 14:54:55]
+  Ashley Gallagher equipped Капсула для импульсного лазера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:56]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:54:59]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:55:00]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:55:05]
+  Ashley Gallagher: Мне довелось на днях увидеть ползуна. Жуткие твари.
+[02/18/2023 14:55:05]
+  vlad32 equipped Револьвер
+[02/18/2023 14:55:09]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:55:09]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:55:09]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:55:09]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2478)
+[02/18/2023 14:55:09]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2478)
+[02/18/2023 14:55:09]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2478)
+[02/18/2023 14:55:09]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2478)
+[02/18/2023 14:55:09]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2478)
+[02/18/2023 14:55:09]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2478)
+[02/18/2023 14:55:15]
+  kynlan4ic placed Кислородный баллон in Подводная маска (ID: 2512)
+[02/18/2023 14:55:16]
+  kynlan4ic placed Кислородный баллон in Генератор кислорода (ID: 75)
+[02/18/2023 14:55:19]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 237)
+[02/18/2023 14:55:31]
+  kynlan4ic placed Аккумулятор in Подводный скутер (ID: 2506)
+[02/18/2023 14:55:40]
+  kynlan4ic placed Кислородный баллон in Плазменный резак (ID: 2510)
+[02/18/2023 14:55:44]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:55:44]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:55:44]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:55:44]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:55:44]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:55:44]
+  vlad32 picked up Патрон револьвера
+[02/18/2023 14:55:44]
+  kynlan4ic equipped Контейнер для хранения
+[02/18/2023 14:55:45]
+  kynlan4ic placed Контейнер для хранения in Средний стальной шкаф (ID: 39)
+[02/18/2023 14:56:37]
+  vlad32 equipped Нож ныряльщика
+[02/18/2023 14:56:48]
+  vlad32 equipped Лом
+[02/18/2023 14:57:14]
+  kynlan4ic: Renata Nicolosi, займись оружием!
+[02/18/2023 14:57:15]
+  Renata Nicolosi: Есть!
+[02/18/2023 14:57:20]
+  Outer wall breached by Crawler
+[02/18/2023 14:57:21]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:22]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:22]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:23]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:23]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:24]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:25]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:26]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:27]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 14:57:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:27]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:27]
+  Crawler has died (Cause of death: Unknown)
+[02/18/2023 14:57:27]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:57:27]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:27]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:28]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:28]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 14:57:28]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:28]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:28]
+  Ashley Gallagher: Багажный отсек: протечек не осталось!
+[02/18/2023 14:57:28]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:29]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 14:57:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:34]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:34]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:34]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:34]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:35]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:35]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:35]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:36]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:36]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:38]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:38]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:38]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:38]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:39]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:39]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:39]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:39]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:43]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:44]
+  Outer wall breached by Crawler
+[02/18/2023 14:57:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:44]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:45]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:45]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:45]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:45]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:45]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:45]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:45]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:45]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 14:57:45]
+  Crawler attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[02/18/2023 14:57:46]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:46]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 14:57:59]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:58:00]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 14:58:10]
+  kynlan4ic: Josef Parker, убери все, что валяется вокруг!
+[02/18/2023 14:58:11]
+  Josef Parker: Так точно!
+[02/18/2023 14:58:34]
+  vlad32 dropped Револьвер
+[02/18/2023 14:58:38]
+  vlad32 unequipped Револьвер
+[02/18/2023 14:58:40]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:58:41]
+  vlad32 placed Лом in Пояс инструментов (ID: 2518)
+[02/18/2023 14:58:43]
+  Ashley Gallagher started repairing Монитор состояния
+[02/18/2023 14:58:48]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:58:50]
+  vlad32 equipped Револьвер
+[02/18/2023 14:58:52]
+  Ashley Gallagher equipped Гаечный ключ
+[02/18/2023 14:58:57]
+  Ashley Gallagher started repairing Генератор кислорода
+[02/18/2023 14:59:00]
+  Ashley Gallagher unequipped Гаечный ключ
+[02/18/2023 14:59:00]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 14:59:05]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 14:59:09]
+  vlad32 picked up Наручники
+[02/18/2023 14:59:09]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 14:59:18]
+  kynlan4ic docked Barsuk to Жилой аванпост Dunwice
+[02/18/2023 14:59:18]
+  kynlan4ic has gained 102 experience (666 -> 768)
+[02/18/2023 14:59:18]
+  vlad32 has gained 102 experience (666 -> 768)
+[02/18/2023 14:59:18]
+  Richard Hajek has gained 102 experience (666 -> 768)
+[02/18/2023 14:59:18]
+  Elliana Marquez has gained 102 experience (666 -> 768)
+[02/18/2023 14:59:18]
+  Ashley Gallagher has gained 102 experience (666 -> 768)
+[02/18/2023 14:59:18]
+  Renata Nicolosi has gained 102 experience (0 -> 102)
+[02/18/2023 14:59:18]
+  Josef Parker has gained 102 experience (258 -> 360)
+[02/18/2023 14:59:18]
+  kynlan4ic has gained 185 experience (768 -> 953)
+[02/18/2023 14:59:18]
+  vlad32 has gained 185 experience (768 -> 953)
+[02/18/2023 14:59:18]
+  Richard Hajek has gained 185 experience (768 -> 953)
+[02/18/2023 14:59:18]
+  Elliana Marquez has gained 185 experience (768 -> 953)
+[02/18/2023 14:59:18]
+  Ashley Gallagher has gained 185 experience (768 -> 953)
+[02/18/2023 14:59:18]
+  Renata Nicolosi has gained 185 experience (102 -> 287)
+[02/18/2023 14:59:18]
+  Josef Parker has gained 185 experience (360 -> 545)
+[02/18/2023 14:59:18]
+  Ending the round...
+[02/18/2023 14:59:19]
+  Round ended.
+[02/18/2023 14:59:21]
+  Starting a new round...
+[02/18/2023 14:59:23]
+  Game mode: Кампания
+[02/18/2023 14:59:23]
+  Submarine: Barsuk
+[02/18/2023 14:59:23]
+  Level seed: Dunwice
+[02/18/2023 14:59:24]
+  Sara Radice equipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Sara Radice unequipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Sara Radice equipped Отвертка
+[02/18/2023 14:59:24]
+  Len Basnett equipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Len Basnett unequipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Len Basnett equipped Отвертка
+[02/18/2023 14:59:24]
+  Monte Gould equipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Monte Gould unequipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Monte Gould equipped Отвертка
+[02/18/2023 14:59:24]
+  Lane Hinton equipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Lane Hinton unequipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Lane Hinton equipped Отвертка
+[02/18/2023 14:59:24]
+  Lane Hinton unequipped Отвертка
+[02/18/2023 14:59:24]
+  Lane Hinton equipped Лом
+[02/18/2023 14:59:24]
+  Bell Mulford equipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Bell Mulford unequipped Гаечный ключ
+[02/18/2023 14:59:24]
+  Bell Mulford equipped Отвертка
+[02/18/2023 14:59:24]
+  Shayla Gay equipped Лом
+[02/18/2023 14:59:24]
+  Chuck Castillo equipped Лом
+[02/18/2023 14:59:24]
+  Virgilio Molina equipped Лом
+[02/18/2023 14:59:24]
+  Round started.
+[02/18/2023 14:59:25]
+  Mathew Poole equipped Лом
+[02/18/2023 14:59:25]
+  Tessie Collins equipped Отвертка
+[02/18/2023 14:59:25]
+  Lane Hinton unequipped Лом
+[02/18/2023 14:59:25]
+  Sara Radice unequipped Отвертка
+[02/18/2023 14:59:25]
+  Virgilio Molina unequipped Лом
+[02/18/2023 14:59:26]
+  Shayla Gay unequipped Лом
+[02/18/2023 14:59:26]
+  Chuck Castillo unequipped Лом
+[02/18/2023 14:59:26]
+  Tessie Collins unequipped Отвертка
+[02/18/2023 14:59:31]
+  Chuck Castillo: Всем привет! Похоже, у вас был тяжелый рейс.
+[02/18/2023 14:59:32]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 14:59:37]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:00:04]
+  Mathew Poole unequipped Лом
+[02/18/2023 15:00:16]
+  Tessie Collins: Земля в иллюминаторе, Земля в иллюминаторе...
+[02/18/2023 15:00:20]
+  Tessie Collins: Земля в иллюминаторе видна...
+[02/18/2023 15:00:59]
+  vlad32 equipped Контейнер для хранения
+[02/18/2023 15:00:59]
+  vlad32 picked up Контейнер для хранения
+[02/18/2023 15:01:02]
+  vlad32 placed Подводная маска in Контейнер для хранения (ID: 844)
+[02/18/2023 15:01:07]
+  vlad32 placed Револьвер in Контейнер для хранения (ID: 844)
+[02/18/2023 15:01:09]
+  vlad32 picked up Револьвер
+[02/18/2023 15:01:15]
+  vlad32 placed Подводная маска in Контейнер для хранения (ID: 844)
+[02/18/2023 15:01:25]
+  vlad32 dropped Контейнер для хранения
+[02/18/2023 15:01:26]
+  vlad32 equipped Медконтейнер
+[02/18/2023 15:01:28]
+  vlad32 dropped Медконтейнер
+[02/18/2023 15:01:31]
+  kynlan4ic purchased 8 item(s) for 847 кр.
+ - Морфин x1
+ - Информационный экран сканера здоровья x1
+ - Жидкий кислородит x1
+ - Галоперидол x1
+ - Бинт x2
+ - Адреналин x1
+ - Эластичный бинт x1
+ - Фентанил x1
+[02/18/2023 15:01:47]
+  Bell Mulford unequipped Отвертка
+[02/18/2023 15:01:52]
+  kynlan4ic purchased 2 item(s) for 268 кр.
+ - Топливный бак сварочного аппарата x1
+ - Топливный стержень x1
+[02/18/2023 15:02:47]
+  kynlan4ic purchased 1 item(s) for 528 кр.
+ - Патрон револьвера x12
+[02/18/2023 15:03:22]
+  vlad32 picked up Гаечный ключ
+[02/18/2023 15:03:24]
+  vlad32 picked up Отвертка
+[02/18/2023 15:03:26]
+  vlad32 equipped Гаечный ключ
+[02/18/2023 15:03:34]
+  kynlan4ic picked up Гарпун
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:35]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:39]
+  vlad32 placed Топливный стержень in Ядерный реактор (ID: 1)
+[02/18/2023 15:03:41]
+  vlad32 placed Топливный стержень in Ядерный реактор (ID: 1)
+[02/18/2023 15:03:43]
+  vlad32 adjusted reactor settings: Temperature: 9487, Fission rate: 28, Turbine output: 9, Autotemp ON
+[02/18/2023 15:03:46]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:47]
+  vlad32 picked up Топливный стержень
+[02/18/2023 15:03:53]
+  vlad32 placed Гаечный ключ in Пояс инструментов (ID: 2402)
+[02/18/2023 15:03:54]
+  vlad32 placed Отвертка in Пояс инструментов (ID: 2402)
+[02/18/2023 15:04:02]
+  kynlan4ic purchased 1 item(s) for 108 кр.
+ - Гарпун x12
+[02/18/2023 15:04:24]
+  vlad32 picked up Отвертка
+[02/18/2023 15:04:25]
+  vlad32 equipped Отвертка
+[02/18/2023 15:04:47]
+  vlad32 placed Отвертка in Пояс инструментов (ID: 2402)
+[02/18/2023 15:05:43]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 15:05:43]
+  Ending the round...
+[02/18/2023 15:05:44]
+  Round ended.
+[02/18/2023 15:05:46]
+  Starting a new round...
+[02/18/2023 15:05:48]
+  Laurie Pickett equipped Отвертка
+[02/18/2023 15:05:48]
+  Aldo Klein equipped Лом
+[02/18/2023 15:05:48]
+  Миссия: Добыча минералов (Кварц)
+[02/18/2023 15:05:48]
+  Говорят, где-то между точками Жилой аванпост Dunwice и Укрепление Sermilik есть Кварц, целые залежи. Привезите оттуда ресурс (Кварц), 8 - этого будет достаточно. Ваша доля - 25%.
+[02/18/2023 15:05:48]
+  Миссия: Пассажирские перевозки
+[02/18/2023 15:05:48]
+  Нескольких пассажиров нужно отвезти в точку Укрепление Sermilik. Обеспечьте их безопасность - если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[02/18/2023 15:05:48]
+  Game mode: Кампания
+[02/18/2023 15:05:48]
+  Submarine: Barsuk
+[02/18/2023 15:05:48]
+  Level seed: SermilikDunwice
+[02/18/2023 15:05:48]
+  Mission: Добыча минералов ([resourcename1])
+[02/18/2023 15:05:48]
+  Mission: Пассажирские перевозки
+[02/18/2023 15:05:49]
+  Round started.
+[02/18/2023 15:05:50]
+  Laurie Pickett unequipped Отвертка
+[02/18/2023 15:05:50]
+  Aldo Klein unequipped Лом
+[02/18/2023 15:05:55]
+  Josef Parker equipped Сварочный аппарат
+[02/18/2023 15:05:57]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:06:00]
+  Ashley Gallagher equipped Эластичный бинт
+[02/18/2023 15:06:02]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:06:06]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 15:06:07]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 15:06:19]
+  Ashley Gallagher equipped Топливный стержень
+[02/18/2023 15:06:26]
+  Josef Parker equipped Топливный бак сварочного аппарата
+[02/18/2023 15:06:32]
+  Ashley Gallagher equipped Бинт
+[02/18/2023 15:06:35]
+  Josef Parker equipped Жидкий кислородит
+[02/18/2023 15:06:39]
+  Elliana Marquez: Кто-нибудь еще помнит Землю?
+[02/18/2023 15:06:41]
+  Josef Parker: Мой дед был с Земли.
+[02/18/2023 15:06:43]
+  Josef Parker: Мне нравилось слушать его рассказы, хотя наверняка половину своих баек он выдумал.
+[02/18/2023 15:06:48]
+  Josef Parker: Только представь: выходишь из дома, а вокруг голубое небо.
+[02/18/2023 15:06:50]
+  Josef Parker equipped Морфин
+[02/18/2023 15:06:50]
+  Ashley Gallagher equipped Галоперидол
+[02/18/2023 15:06:53]
+  Elliana Marquez: Просто невероятно.
+[02/18/2023 15:06:55]
+  Richard Hajek: Поднимаешь глаза вверх и не боишься, что сгореть в мощном радиационном фоне газового гиганта...
+[02/18/2023 15:07:05]
+  Ashley Gallagher equipped Фентанил
+[02/18/2023 15:07:08]
+  Josef Parker equipped Адреналин
+[02/18/2023 15:07:30]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 15:07:33]
+  vlad32 picked up Подводный скутер
+[02/18/2023 15:07:36]
+  vlad32 closed Настраиваемая дверь
+[02/18/2023 15:07:37]
+  vlad32 equipped Подводный скутер
+[02/18/2023 15:07:44]
+  vlad32 opened Настраиваемая дверь
+[02/18/2023 15:07:47]
+  vlad32 dropped Водолазный скафандр
+[02/18/2023 15:07:48]
+  Renata Nicolosi: Огонь!
+[02/18/2023 15:07:48]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:48]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:48]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:48]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:49]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:49]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:49]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:50]
+  vlad32 placed Подводный скутер in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 15:07:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:51]
+  Outer wall breached by Crawler
+[02/18/2023 15:07:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:52]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:52]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:53]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 15:07:53]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:55]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:55]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:56]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:56]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:56]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:56]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 15:07:56]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:57]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:57]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:57]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:57]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:57]
+  Josef Parker equipped Водолазный скафандр
+[02/18/2023 15:07:58]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:58]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:58]
+  vlad32 picked up Сварочный аппарат
+[02/18/2023 15:07:58]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:07:59]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 15:07:59]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 15:07:59]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:00]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:01]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:01]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:01]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:01]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:02]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:02]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:02]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:02]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:04]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:04]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:05]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:05]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:05]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:06]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:06]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:06]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:06]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:07]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:07]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:07]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:07]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:08]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:08]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:08]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:08]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:09]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:09]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:10]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:10]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:10]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:10]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:10]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 15:08:11]
+  Renata Nicolosi: Кажется, есть попадание!
+[02/18/2023 15:08:11]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:11]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:12]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:12]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:12]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:12]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:13]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:13]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:13]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 15:08:13]
+  Renata Nicolosi: И-и-и-и... Готово!
+[02/18/2023 15:08:14]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:14]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:15]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:15]
+  Renata Nicolosi: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[02/18/2023 15:08:15]
+  Renata Nicolosi equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 15:08:15]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:15]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:15]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:16]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:16]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:16]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:17]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:19]
+  Josef Parker equipped Капсула для импульсного лазера
+[02/18/2023 15:08:21]
+  Ashley Gallagher equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 15:08:23]
+  Renata Nicolosi: Стреляю!
+[02/18/2023 15:08:23]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:27]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:43]
+  vlad32 unequipped Сварочный аппарат
+[02/18/2023 15:08:43]
+  vlad32 equipped Металлический ящик
+[02/18/2023 15:08:46]
+  vlad32 dropped Металлический ящик
+[02/18/2023 15:08:47]
+  vlad32 equipped Медконтейнер
+[02/18/2023 15:08:49]
+  Renata Nicolosi: Новая цель: ледяной шпиль!
+[02/18/2023 15:08:49]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:49]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:49]
+  vlad32 dropped Медконтейнер
+[02/18/2023 15:08:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:50]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:51]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:52]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:52]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:52]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:53]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:53]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:53]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:08:54]
+  Renata Nicolosi: Огонь!
+[02/18/2023 15:08:54]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:09:05]
+  vlad32: уйди
+[02/18/2023 15:09:07]
+  Richard Hajek: Прицел на ледяной шпиль!
+[02/18/2023 15:09:08]
+  Richard Hajek: Огонь!
+[02/18/2023 15:09:09]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 15:09:17]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 15:09:20]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 15:09:24]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 15:09:28]
+  vlad32 equipped Сварочный аппарат
+[02/18/2023 15:09:30]
+  vlad32 equipped Револьвер
+[02/18/2023 15:09:31]
+  Inner wall breached by vlad32
+[02/18/2023 15:09:40]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 15:09:42]
+  kynlan4ic dropped Металлический ящик
+[02/18/2023 15:09:43]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 15:09:44]
+  kynlan4ic dropped Металлический ящик
+[02/18/2023 15:09:49]
+  kynlan4ic picked up Плазменный резак
+[02/18/2023 15:09:50]
+  kynlan4ic picked up Подводный скутер
+[02/18/2023 15:09:57]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 15:09:57]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 15:09:58]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 15:09:58]
+  Ashley Gallagher failed to repair Кабельная коробка
+[02/18/2023 15:09:59]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 15:10:00]
+  kynlan4ic equipped Подводный скутер
+[02/18/2023 15:10:03]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 15:10:05]
+  vlad32 opened Настраиваемая дверь
+[02/18/2023 15:10:08]
+  vlad32 closed Настраиваемая дверь
+[02/18/2023 15:10:09]
+  kynlan4ic equipped Плазменный резак
+[02/18/2023 15:10:21]
+  vlad32 placed Сварочный аппарат in Пояс инструментов (ID: 2622)
+[02/18/2023 15:10:30]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 15:10:30]
+  vlad32 picked up Плазменный резак
+[02/18/2023 15:10:31]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 15:10:31]
+  vlad32 equipped Плазменный резак
+[02/18/2023 15:10:35]
+  Ashley Gallagher failed to repair Кабельная коробка
+[02/18/2023 15:10:40]
+  Elliana Marquez: Ashley Gallagher получает первую помощь здесь: стыковочный порт!
+[02/18/2023 15:10:40]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 15:10:41]
+  Elliana Marquez: Мне требуется бинт, морфин, опиум или эластичный бинт!
+[02/18/2023 15:10:43]
+  Elliana Marquez equipped Морфин
+[02/18/2023 15:10:57]
+  Elliana Marquez equipped Эластичный бинт
+[02/18/2023 15:11:03]
+  vlad32 placed Патрон револьвера in Револьвер (ID: 2630)
+[02/18/2023 15:11:05]
+  Elliana Marquez: Ashley Gallagher чувствует себя хорошо!
+[02/18/2023 15:11:08]
+  Информация о миссии: Минералы добыты - Вы добыли достаточно ресурса (Кварц). Доставьте его на аванпост и получите награду.
+[02/18/2023 15:11:14]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 15:11:17]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 95)
+[02/18/2023 15:11:20]
+  kynlan4ic placed Подводный скутер in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 15:11:20]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 87)
+[02/18/2023 15:11:21]
+  vlad32 dropped Водолазный скафандр
+[02/18/2023 15:11:25]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 15:11:27]
+  vlad32 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:28]
+  kynlan4ic placed Кварц in Хозяйственный шкаф (ID: 614)
+[02/18/2023 15:11:34]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 15:11:35]
+  Ashley Gallagher started repairing Кабельная коробка
+[02/18/2023 15:11:43]
+  Ashley Gallagher started repairing Монитор состояния
+[02/18/2023 15:11:47]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 15:12:01]
+  vlad32 picked up Кислородный баллон
+[02/18/2023 15:12:08]
+  vlad32 placed Кислородный баллон in Генератор кислорода (ID: 75)
+[02/18/2023 15:12:18]
+  Richard Hajek: Огонь!
+[02/18/2023 15:12:19]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 15:12:20]
+  Renata Nicolosi: Стреляю!
+[02/18/2023 15:12:20]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:20]
+  Outer wall breached by Crawler
+[02/18/2023 15:12:21]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 15:12:23]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 15:12:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:24]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:25]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:26]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 15:12:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:26]
+  vlad32 picked up Водолазный скафандр
+[02/18/2023 15:12:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:26]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:27]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[02/18/2023 15:12:27]
+  Richard Hajek launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[02/18/2023 15:12:27]
+  Richard Hajek: Цель уничтожена!
+[02/18/2023 15:12:27]
+  Renata Nicolosi: Кажется, есть попадание!
+[02/18/2023 15:12:28]
+  Josef Parker unequipped Топливный бак сварочного аппарата
+[02/18/2023 15:12:29]
+  Ashley Gallagher: Надо найти водолазный скафандр!
+[02/18/2023 15:12:31]
+  Josef Parker unequipped Сварочный аппарат
+[02/18/2023 15:12:33]
+  vlad32 closed Настраиваемая дверь
+[02/18/2023 15:12:33]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 15:12:35]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 15:12:42]
+  Renata Nicolosi: Цель идентифицирована: Ползун!
+[02/18/2023 15:12:43]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:43]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:44]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:44]
+  Crawler attacked by vlad32. Огнестрельная рана: 28.0 Кровотечение: 25.0 Оглушение: 0.3
+[02/18/2023 15:12:44]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:44]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:44]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:45]
+  Renata Nicolosi launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/18/2023 15:12:45]
+  Crawler has died (Cause of death: Рваная рана)
+[02/18/2023 15:12:45]
+  Renata Nicolosi: Цель уничтожена!
+[02/18/2023 15:12:46]
+  kynlan4ic picked up Водолазный скафандр
+[02/18/2023 15:12:49]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 15:12:52]
+  kynlan4ic closed Настраиваемая дверь
+[02/18/2023 15:12:52]
+  vlad32 picked up Инопланетная кровь
+[02/18/2023 15:12:59]
+  kynlan4ic opened Настраиваемая дверь
+[02/18/2023 15:13:02]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 92)
+[02/18/2023 15:13:07]
+  Ashley Gallagher equipped Отвертка
+[02/18/2023 15:13:09]
+  Ashley Gallagher failed to repair Кабельная коробка
+[02/18/2023 15:13:13]
+  Ashley Gallagher unequipped Отвертка
+[02/18/2023 15:13:34]
+  kynlan4ic: Ashley Gallagher, заряди реактор!
+[02/18/2023 15:13:35]
+  Ashley Gallagher: Само собой!
+[02/18/2023 15:13:36]
+  Ashley Gallagher equipped Сварочный аппарат
+[02/18/2023 15:13:37]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 15:13:37]
+  Ashley Gallagher: Реакторный отсек: минус одна протечка!
+[02/18/2023 15:13:38]
+  Outer wall repaired by Ashley Gallagher
+[02/18/2023 15:13:38]
+  Ashley Gallagher: Реакторный отсек: все протечки устранены!
+[02/18/2023 15:13:38]
+  Ashley Gallagher: Мне нужно подводное снаряжение!
+[02/18/2023 15:13:39]
+  Josef Parker: Надо найти водолазный скафандр!
+[02/18/2023 15:13:39]
+  Ashley Gallagher: Загружаю в реактор дополнительное топливо!
+[02/18/2023 15:13:39]
+  Ashley Gallagher unequipped Сварочный аппарат
+[02/18/2023 15:13:44]
+  Josef Parker equipped Топливный стержень
+[02/18/2023 15:13:47]
+  Josef Parker equipped Ящик с боеприпасами для магнитной пушки
+[02/18/2023 15:13:52]
+  vlad32 placed Плазменный резак in Пояс инструментов (ID: 2622)
+[02/18/2023 15:13:58]
+  vlad32 closed Настраиваемая дверь
+[02/18/2023 15:14:02]
+  Elliana Marquez: Мне нужно подводное снаряжение!
+[02/18/2023 15:14:02]
+  vlad32 opened Настраиваемая дверь
+[02/18/2023 15:14:05]
+  Elliana Marquez: vlad32 получает первую помощь здесь: стыковочный порт!
+[02/18/2023 15:14:06]
+  Elliana Marquez: vlad32 нуждается в помощи! Срочно требуется морфин, опиум или фентанил!
+[02/18/2023 15:14:08]
+  Elliana Marquez equipped Фентанил
+[02/18/2023 15:14:15]
+  Elliana Marquez: vlad32 чувствует себя хорошо!
+[02/18/2023 15:14:17]
+  Elliana Marquez equipped Водолазный скафандр
+[02/18/2023 15:14:27]
+  vlad32 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 93)
+[02/18/2023 15:14:33]
+  vlad32 placed Топливный стержень in Пояс инструментов (ID: 2622)
+[02/18/2023 15:14:33]
+  vlad32 placed Топливный стержень in Пояс инструментов (ID: 2622)
+[02/18/2023 15:14:39]
+  vlad32 placed Инопланетная кровь in Аптечка (ID: 3)
+[02/18/2023 15:14:44]
+  kynlan4ic docked Barsuk to Укрепление Sermilik
+[02/18/2023 15:14:44]
+  kynlan4ic has gained 111 experience (953 -> 1064)
+[02/18/2023 15:14:44]
+  vlad32 has gained 111 experience (953 -> 1064)
+[02/18/2023 15:14:44]
+  Elliana Marquez has gained 111 experience (953 -> 1064)
+[02/18/2023 15:14:44]
+  Renata Nicolosi has gained 111 experience (287 -> 398)
+[02/18/2023 15:14:44]
+  Ashley Gallagher has gained 111 experience (953 -> 1064)
+[02/18/2023 15:14:44]
+  Richard Hajek has gained 111 experience (953 -> 1064)
+[02/18/2023 15:14:44]
+  Josef Parker has gained 111 experience (545 -> 656)
+[02/18/2023 15:14:44]
+  kynlan4ic has gained 102 experience (1064 -> 1166)
+[02/18/2023 15:14:44]
+  vlad32 has gained 102 experience (1064 -> 1166)
+[02/18/2023 15:14:44]
+  Elliana Marquez has gained 102 experience (1064 -> 1166)
+[02/18/2023 15:14:44]
+  Renata Nicolosi has gained 102 experience (398 -> 500)
+[02/18/2023 15:14:44]
+  Ashley Gallagher has gained 102 experience (1064 -> 1166)
+[02/18/2023 15:14:44]
+  Richard Hajek has gained 102 experience (1064 -> 1166)
+[02/18/2023 15:14:44]
+  Josef Parker has gained 102 experience (656 -> 758)
+[02/18/2023 15:14:44]
+  Ending the round...
+[02/18/2023 15:14:44]
+  Round ended.
+[02/18/2023 15:14:47]
+  Starting a new round...
+[02/18/2023 15:14:49]
+  Game mode: Кампания
+[02/18/2023 15:14:49]
+  Submarine: Barsuk
+[02/18/2023 15:14:49]
+  Level seed: Sermilik
+[02/18/2023 15:14:49]
+  Inga Tseng equipped Гаечный ключ
+[02/18/2023 15:14:49]
+  Inga Tseng unequipped Гаечный ключ
+[02/18/2023 15:14:49]
+  Inga Tseng equipped Отвертка
+[02/18/2023 15:14:50]
+  Randall Banks equipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Randall Banks unequipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Randall Banks equipped Отвертка
+[02/18/2023 15:14:50]
+  Alvaro Tootle equipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Alvaro Tootle unequipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Alvaro Tootle equipped Отвертка
+[02/18/2023 15:14:50]
+  Walker Phillips equipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Walker Phillips unequipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Walker Phillips equipped Отвертка
+[02/18/2023 15:14:50]
+  Walker Phillips unequipped Отвертка
+[02/18/2023 15:14:50]
+  Walker Phillips equipped Лом
+[02/18/2023 15:14:50]
+  Terrell Sexton equipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Terrell Sexton unequipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Terrell Sexton equipped Отвертка
+[02/18/2023 15:14:50]
+  Lanny Huynh equipped Отвертка
+[02/18/2023 15:14:50]
+  Mafalda Chapman equipped Гаечный ключ
+[02/18/2023 15:14:50]
+  Elmer Preston equipped Лом
+[02/18/2023 15:14:51]
+  Round started.
+[02/18/2023 15:14:51]
+  Walker Phillips unequipped Лом
+[02/18/2023 15:14:51]
+  Elmer Preston unequipped Лом
+[02/18/2023 15:14:52]
+  Inga Tseng unequipped Отвертка
+[02/18/2023 15:14:52]
+  Lanny Huynh unequipped Отвертка
+[02/18/2023 15:14:52]
+  Mafalda Chapman unequipped Гаечный ключ
+[02/18/2023 15:14:58]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:15:04]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:15:39]
+  Terrell Sexton unequipped Отвертка
+[02/18/2023 15:15:45]
+  Marylee Marchi: Как правильно – таламусы или таламы?
+[02/18/2023 15:15:48]
+  Randall Banks: Надеюсь, их не будет больше одного сразу.
+[02/18/2023 15:15:53]
+  vlad32 purchased 1 item(s) for 44 кр.
+ - Трубка капитана x1
+[02/18/2023 15:16:13]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/18/2023 15:16:16]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/18/2023 15:16:25]
+  kynlan4ic equipped Шоковая дубинка
+[02/18/2023 15:16:30]
+  vlad32 picked up Лом
+[02/18/2023 15:16:30]
+  vlad32 equipped Лом
+[02/18/2023 15:16:31]
+  vlad32 used Лом on Большая горизонтальная внутренняя стена.
+[02/18/2023 15:16:33]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/18/2023 15:16:39]
+  vlad32 placed Лом in Пояс инструментов (ID: 2698)
+[02/18/2023 15:17:13]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 15:17:17]
+  vlad32 purchased 1 item(s) for 102 кр.
+ - Ящик с боеприпасами для магнитной пушки x1
+[02/18/2023 15:17:18]
+  kynlan4ic dropped Металлический ящик
+[02/18/2023 15:17:20]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 15:17:24]
+  kynlan4ic dropped Металлический ящик
+[02/18/2023 15:17:27]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 15:17:32]
+  kynlan4ic dropped Металлический ящик
+[02/18/2023 15:17:35]
+  kynlan4ic equipped Медконтейнер
+[02/18/2023 15:17:39]
+  kynlan4ic dropped Медконтейнер
+[02/18/2023 15:17:42]
+  kynlan4ic equipped Металлический ящик
+[02/18/2023 15:17:49]
+  kynlan4ic dropped Металлический ящик
+[02/18/2023 15:17:52]
+  kynlan4ic equipped Медконтейнер
+[02/18/2023 15:17:56]
+  vlad32 purchased 1 item(s) for 50 кр.
+ - Патрон револьвера x2
+[02/18/2023 15:17:58]
+  kynlan4ic dropped Медконтейнер
+[02/18/2023 15:18:00]
+  kynlan4ic equipped Контейнер для хранения
+[02/18/2023 15:18:02]
+  kynlan4ic placed Контейнер для хранения in Большой стальной шкаф (ID: 114)
+[02/18/2023 15:18:16]
+  vlad32 purchased 1 item(s) for 136 кр.
+ - Взрывной гарпун x2
+[02/18/2023 15:18:46]
+  kynlan4ic: Ashley Gallagher, спасибо за уборку всех вещей на свои места!
+[02/18/2023 15:19:12]
+  Client "kynlan4ic" ended the round.
+[02/18/2023 15:19:12]
+  Ending the round...
+[02/18/2023 15:19:12]
+  Round ended.
+[02/18/2023 15:19:15]
+  Starting a new round...
+[02/18/2023 15:19:17]
+  Миссия: Вредные грязевые рапторы
+[02/18/2023 15:19:17]
+  Поступили сообщения о стае грязевых рапторов, нападающих на суда на маршруте Укрепление Sermilik - Sarpedon Linea. Команда, которая их уничтожит, получит достойную награду в размере 1,500 кред.
+[02/18/2023 15:19:17]
+  Миссия: Уничтожение молотоглавов
+[02/18/2023 15:19:17]
+  Крайне свирепые молотоглавы терроризируют суда, плавающие по маршруту Укрепление Sermilik - Sarpedon Linea. Тому, кто истребит этих опасных созданий, полагается достойная награда в размере 1,000 кред.
+[02/18/2023 15:19:17]
+  Миссия: Добыча минералов (Урановая руда)
+[02/18/2023 15:19:17]
+  Говорят, где-то между точками Укрепление Sermilik и Sarpedon Linea есть Урановая руда, целые залежи. Привезите оттуда ресурс (Урановая руда), 4 - этого будет достаточно. Ваша доля - 25%.
+[02/18/2023 15:19:17]
+  Game mode: Кампания
+[02/18/2023 15:19:17]
+  Submarine: Barsuk
+[02/18/2023 15:19:17]
+  Level seed: SermilikSarpedon Linea
+[02/18/2023 15:19:17]
+  Mission: Вредные грязевые рапторы
+[02/18/2023 15:19:17]
+  Mission: Уничтожение молотоглавов
+[02/18/2023 15:19:17]
+  Mission: Добыча минералов ([resourcename1])
+[02/18/2023 15:19:17]
+  Round started.
+[02/18/2023 15:19:25]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:19:29]
+  Josef Parker equipped Трубка капитана
+[02/18/2023 15:19:30]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[02/18/2023 15:19:38]
+  vlad32 picked up Трубка капитана

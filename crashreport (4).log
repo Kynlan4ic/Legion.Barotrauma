@@ -1,0 +1,134 @@
+﻿Barotrauma Client crash report (generated on 03/10/2023 01:08:35)
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+18B4B1F1463515508F0783BBFA6953EC
+
+Game version 0.21.6.0 (ReleaseWindows, branch release, revision 480a2279e0)
+Graphics mode: 1440x900 (BorderlessWindowed)
+VSync ON
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra, Dors, Umkhumbi, Uzurbator3000, SITE 18 SCP 3.5 FIXED DOORS 3.5, EK Matriarch Mk-VII, The Plague Rat, Super Plague Rat, Fat Fish, Bronze Age, Cast Iron, Nemesis, QF8, IHN Kalvair, Wellerman, Unnamed, Челнок R-155, CzechSaboteur, Челнок R-170, Гага дрын, The Deep Manatee, Gato Revamped, Wyvern, Shiftless, TR-56, EK | Armory, Improved Husks, EK | Gunnery, DynamicEuropa, ADV Beacon Stations, Stations from beyond, Backpacks, 32x Stack, SFB with DE, Beacons Extended
+Level seed: no level loaded
+Loaded submarine: None
+Selected screen: Barotrauma.GameScreen
+SteamManager initialized
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+    GPU name: NVIDIA GeForce GTX 1650
+    Display mode: {Width:1440 Height:900 Format:Color AspectRatio:1.6}
+    GPU status: Normal
+
+Exception: Object reference not set to an instance of an object. (System.NullReferenceException)
+Target site: Boolean AppliesTo(Barotrauma.SubmarineInfo)
+Stack trace: 
+   at Barotrauma.UpgradeMaxLevelMod.AppliesTo(SubmarineInfo sub) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Upgrades\UpgradePrefab.cs:line 219
+   at Barotrauma.UpgradePrefab.GetMaxLevel(SubmarineInfo info) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Upgrades\UpgradePrefab.cs:line 497
+   at Barotrauma.SubmarineInfo.GetSubCrushDepth(SubmarineInfo subInfo, PendingSubInfo& pendingSubInfo) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\SubmarineInfo.cs:line 261
+   at Barotrauma.Map.DrawConnection(SpriteBatch spriteBatch, LocationConnection connection, Rectangle viewArea, Vector2 viewOffset, Location currentDisplayLocation, Nullable`1 overrideColor) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\Map\Map.cs:line 938
+   at Barotrauma.Map.Draw(SpriteBatch spriteBatch, GUICustomComponent mapContainer) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\Map\Map.cs:line 565
+   at Barotrauma.GUICustomComponent.Draw(SpriteBatch spriteBatch) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUICustomComponent.cs:line 43
+   at Barotrauma.GUI.DrawMessageBoxesOnly(SpriteBatch spriteBatch) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 657
+   at Barotrauma.LoadingScreen.Draw(SpriteBatch spriteBatch, GraphicsDevice graphics, Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\LoadingScreen.cs:line 252
+   at Barotrauma.GameMain.Draw(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 1005
+   at Microsoft.Xna.Framework.Game.DoDraw(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 669
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 508
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+
+Last debug messages:
+[03/10/2023 01:07:19] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 01:07:19] Level identifier: outpostlevel
+[03/10/2023 01:07:08] No messages defined for the location type change UnderAttack -> Lair
+[03/10/2023 01:07:08] No messages defined for the location type change Construction -> Settlement
+[03/10/2023 01:07:08] No messages defined for the location type change Construction -> Hydroponics
+[03/10/2023 01:07:08] Could not move to the next location (no connection selected).
+   at System.Environment.get_StackTrace()
+   at Barotrauma.Map.MoveToNextLocation() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Map\Map.cs:line 822
+   at Barotrauma.SinglePlayerCampaign.DoLevelTransition(TransitionType transitionType, LevelData newLevel, Submarine leavingSub, Boolean mirror, List`1 traitorResults)+MoveNext() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameSession\GameModes\SinglePlayerCampaign.cs:line 436
+   at Barotrauma.CoroutineManager.PerformCoroutineStep(CoroutineHandle handle) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 198
+   at Barotrauma.CoroutineManager.IsDone(CoroutineHandle handle) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 229
+   at Barotrauma.CoroutineManager.Update(Boolean paused, Single deltaTime) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 272
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 743
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[03/10/2023 01:07:08] Transitioning to Echion Linea (current location: Delphi Flexus, selected location: null, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextLocation)
+[03/10/2023 01:03:45] Unlocked mission "Random Encounter" in the connection from "Delphi Flexus" to "Echion Linea".
+[03/10/2023 01:00:14] teleportcharacter "Арти Дулитл"
+[03/10/2023 01:00:05] teleportcharacter "Антон Карачков"
+[03/10/2023 00:59:39] Steam achievements have been disabled during this play session.
+[03/10/2023 00:59:39] Enabled cheat commands.
+[03/10/2023 00:59:39] enablecheats
+[03/10/2023 00:59:03] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:58:59] Generating an outpost for the end of the level... (Location: Delphi Flexus, level type: LocationConnection)
+[03/10/2023 00:58:57] Level identifier: coldcavernsbasic
+[03/10/2023 00:58:47] Transitioning to Echion LineaDelphi Flexus (current location: Delphi Flexus, selected location: Echion Linea, leaving sub: Barsuk, at start: False, at end: False, transition type: LeaveLocation)
+[03/10/2023 00:58:27] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:58:26] Level identifier: outpostlevel
+[03/10/2023 00:58:15] Could not move to the next location (no connection selected).
+   at System.Environment.get_StackTrace()
+   at Barotrauma.Map.MoveToNextLocation() in <DEV>\Barotrauma\BarotraumaShared\SharedSource\Map\Map\Map.cs:line 822
+   at Barotrauma.SinglePlayerCampaign.DoLevelTransition(TransitionType transitionType, LevelData newLevel, Submarine leavingSub, Boolean mirror, List`1 traitorResults)+MoveNext() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameSession\GameModes\SinglePlayerCampaign.cs:line 436
+   at Barotrauma.CoroutineManager.PerformCoroutineStep(CoroutineHandle handle) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 198
+   at Barotrauma.CoroutineManager.IsDone(CoroutineHandle handle) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 229
+   at Barotrauma.CoroutineManager.Update(Boolean paused, Single deltaTime) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 272
+   at Barotrauma.GameMain.Update(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 743
+   at Microsoft.Xna.Framework.Game.DoUpdate(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 651
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 500
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+[03/10/2023 00:58:15] Transitioning to Echion Linea (current location: Delphi Flexus, selected location: null, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextLocation)
+[03/10/2023 00:53:17] Unlocked mission "Random Encounter" in the connection from "Delphi Flexus" to "Borvo Mensa".
+[03/10/2023 00:49:37] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:49:34] Generating an outpost for the end of the level... (Location: Delphi Flexus, level type: LocationConnection)
+[03/10/2023 00:49:32] Level identifier: coldcavernsbasic
+[03/10/2023 00:49:22] No messages defined for the location type change Colony -> Construction
+[03/10/2023 00:49:21] Transitioning to Echion LineaDelphi Flexus (current location: Delphi Flexus, selected location: Echion Linea, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextEmptyLocation)
+[03/10/2023 00:43:10] Unlocked mission "Random Encounter" in the connection from "Udaeus Linea" to "Worm Cave".
+[03/10/2023 00:33:03] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:32:59] Generating an outpost for the start of the level... (Location: Udaeus Linea, level type: LocationConnection)
+[03/10/2023 00:32:58] Level identifier: coldcavernsbasic
+[03/10/2023 00:32:47] Transitioning to Udaeus LineaDelphi Flexus (current location: Udaeus Linea, selected location: Delphi Flexus, leaving sub: Barsuk, at start: True, at end: False, transition type: LeaveLocation)
+[03/10/2023 00:30:58] Unlocked mission "Доставка медицинских материалов" in the connection from "Udaeus Linea" to "Worm Cave".
+[03/10/2023 00:30:56] Unlocked mission "Доставка химикатов" in the connection from "Udaeus Linea" to "Sidon Flexus".
+[03/10/2023 00:30:54] Unlocked mission "Вредные грязевые рапторы" in the connection from "Udaeus Linea" to "Delphi Flexus".
+[03/10/2023 00:30:52] Unlocked mission "Уничтожение молотоглавов" in the connection from "Udaeus Linea" to "Delphi Flexus".
+[03/10/2023 00:30:38] Unlocked mission "Убийство большого ползуна" in the connection from "Udaeus Linea" to "Delphi Flexus".
+[03/10/2023 00:29:37] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:29:34] Generating an outpost for the start of the level... (Location: Udaeus Linea, level type: Outpost)
+[03/10/2023 00:29:34] Level identifier: outpostlevel
+[03/10/2023 00:29:22] Transitioning to Udaeus Linea (current location: Worm Cave, selected location: Udaeus Linea, leaving sub: Barsuk, at start: False, at end: True, transition type: ProgressToNextLocation)
+[03/10/2023 00:26:26] Unlocked mission "Random Encounter" in the connection from "Worm Cave" to "Callanish".
+[03/10/2023 00:18:47] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:18:42] Generating an outpost for the end of the level... (Location: Udaeus Linea, level type: LocationConnection)
+[03/10/2023 00:18:39] Generating an outpost for the start of the level... (Location: Worm Cave, level type: LocationConnection)
+[03/10/2023 00:18:38] Level identifier: coldcavernsbasic
+[03/10/2023 00:18:27] Transitioning to Worm CaveUdaeus Linea (current location: Worm Cave, selected location: Udaeus Linea, leaving sub: Barsuk, at start: True, at end: False, transition type: LeaveLocation)
+[03/10/2023 00:16:00] Unlocked mission "Убийство большого ползуна" in the connection from "Worm Cave" to "Callanish".
+[03/10/2023 00:15:50] Unlocked mission "Уничтожение роя" in the connection from "Worm Cave" to "Callanish".
+[03/10/2023 00:15:48] Unlocked mission "Доставка медицинских материалов" in the connection from "Worm Cave" to "Udaeus Linea".
+[03/10/2023 00:15:47] Unlocked mission "Добыча минералов (Урановая руда)" in the connection from "Worm Cave" to "Glaukos Linea".
+[03/10/2023 00:15:25] Unlocked mission "Биологическая угроза" in the connection from "Worm Cave" to "Udaeus Linea".
+[03/10/2023 00:12:42] Invalid stat type type "AttackSpeedMultiplier" in item (ek_tonfa)
+[03/10/2023 00:12:36] Generating an outpost for the start of the level... (Location: Worm Cave, level type: Outpost)
+[03/10/2023 00:12:36] Level identifier: outpostlevel
+[03/10/2023 00:12:35] WARNING: Could not compress a texture because the dimensions aren't a multiple of 4 (path: C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2613901395/Icons/Heavy.png, size: 240x174)
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "WasteyardDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "WasteyardDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "HuskgroundsDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "HuskgroundsDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "Lair". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "Lair". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:03] WARNING: Invalid location type change in location type "Construction". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/10/2023 00:11:00] Overriding an affliction or a buff with the identifier 'huskinfection' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2085783214/Afflictions.xml'
+[03/10/2023 00:10:30] Attempting to open ALC device "OpenAL Soft on Динамики (High Definition Audio Device)"
+[03/10/2023 00:10:27] Logged in as kynlan4ic (SteamID STEAM_1:0:586357324)

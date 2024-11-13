@@ -1,0 +1,1600 @@
+﻿[02/20/2023 22:04:55]
+  Starting the server...
+[02/20/2023 22:04:55]
+  Using SteamP2P networking.
+[02/20/2023 22:04:55]
+  Server started
+[02/20/2023 22:04:55]
+  Игрок kynlan4ic присоединился к серверу.
+[02/20/2023 22:04:55]
+  Saving client permissions
+[02/20/2023 22:04:55]
+  Saving client permissions
+[02/20/2023 22:05:22]
+  Игрок igameCrog присоединился к серверу.
+[02/20/2023 22:05:22]
+  Saving client permissions
+[02/20/2023 22:05:53]
+  Игрок Qwutix присоединился к серверу.
+[02/20/2023 22:05:53]
+  Saving client permissions
+[02/20/2023 22:07:29]
+  Console command "enablecheats" executed by kynlan4ic.
+[02/20/2023 22:08:29]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/20/2023 22:08:29]
+  Saving client permissions
+[02/20/2023 22:11:31]
+  igameCrog is ready to start the game.
+[02/20/2023 22:11:36]
+  kynlan4ic: УХХХХХХХХХХХХХХХХХХХХХХХХ АРТЁМММММММММММММММММММММММ
+[02/20/2023 22:11:39]
+  Qwutix: /nocklip
+[02/20/2023 22:11:39]
+  kynlan4ic is ready to start the game.
+[02/20/2023 22:11:40]
+  Client "kynlan4ic" started the round.
+[02/20/2023 22:11:40]
+  Starting a new round...
+[02/20/2023 22:11:45]
+  Миссия: Активировать маяк
+[02/20/2023 22:11:45]
+  Маяк на маршруте Исследовательский центр Milda - Укрепление Bramerton не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[02/20/2023 22:11:45]
+  Game mode: Миссия
+[02/20/2023 22:11:45]
+  Submarine: Wellerman
+[02/20/2023 22:11:45]
+  Level seed: Ухх АРтём
+[02/20/2023 22:11:45]
+  Mission: Активировать маяк
+[02/20/2023 22:11:47]
+  Round started.
+[02/20/2023 22:11:53]
+  Merrill Poole: Мне довелось на днях увидеть ползуна. Жуткие твари.
+[02/20/2023 22:11:55]
+  Micheal Simpson: Загружаю в реактор дополнительное топливо!
+[02/20/2023 22:11:55]
+  Eliza Aguilar: Загружаю в реактор дополнительное топливо!
+[02/20/2023 22:11:57]
+  Micheal Simpson equipped Топливный стержень
+[02/20/2023 22:11:57]
+  Micheal Simpson unequipped Топливный стержень
+[02/20/2023 22:12:06]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:12:10]
+  kynlan4ic picked up Нож ныряльщика
+[02/20/2023 22:12:10]
+  kynlan4ic picked up Подводное ружье
+[02/20/2023 22:12:11]
+  kynlan4ic picked up Шоковая дубинка
+[02/20/2023 22:12:13]
+  kynlan4ic equipped Подводное ружье
+[02/20/2023 22:12:14]
+  Qwutix set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:12:14]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:12:20]
+  Qwutix picked up Автоматический пистолет
+[02/20/2023 22:12:21]
+  Qwutix picked up Пистолет-пулемет
+[02/20/2023 22:12:23]
+  Qwutix picked up Ружье
+[02/20/2023 22:12:25]
+  kynlan4ic: Lane Fonte, займись орудиями!
+[02/20/2023 22:12:26]
+  Qwutix placed Шоковая дубинка in Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:12:26]
+  Qwutix removed Дробовик from Защищенный стальной шкаф (ID: 415)
+[02/20/2023 22:12:26]
+  Qwutix picked up Дробовик
+[02/20/2023 22:12:26]
+  Lane Fonte: Само собой!
+[02/20/2023 22:12:28]
+  Qwutix dropped Наручники
+[02/20/2023 22:12:29]
+  kynlan4ic: Qwutix, встань за орудия!
+[02/20/2023 22:12:30]
+  Qwutix picked up Шоковая дубинка
+[02/20/2023 22:12:31]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:12:42]
+  Qwutix picked up Бронежилет
+[02/20/2023 22:12:47]
+  kynlan4ic picked up Кислотная граната
+[02/20/2023 22:12:47]
+  Qwutix picked up Шлем стрелка
+[02/20/2023 22:12:50]
+  Qwutix equipped Дробовик
+[02/20/2023 22:12:51]
+  Qwutix equipped Пистолет-пулемет
+[02/20/2023 22:12:52]
+  kynlan4ic placed Кислотная граната in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:12:53]
+  Qwutix equipped Нож ныряльщика
+[02/20/2023 22:13:03]
+  kynlan4ic picked up Кислотная граната
+[02/20/2023 22:13:04]
+  kynlan4ic equipped Кислотная граната
+[02/20/2023 22:13:07]
+  Qwutix equipped Автоматический пистолет
+[02/20/2023 22:13:22]
+  Чпок В Пупок attacked by Qwutix. Огнестрельная рана: 5.0 Кровотечение: 7.5
+[02/20/2023 22:13:24]
+  igameCrog equipped Медконтейнер
+[02/20/2023 22:13:31]
+  igameCrog dropped Медконтейнер
+[02/20/2023 22:13:32]
+  igameCrog equipped Ящик с химикатами
+[02/20/2023 22:13:35]
+  igameCrog picked up Этанол
+[02/20/2023 22:13:35]
+  igameCrog picked up Этанол
+[02/20/2023 22:13:36]
+  igameCrog dropped Ящик с химикатами
+[02/20/2023 22:13:41]
+  igameCrog picked up Серная кислота
+[02/20/2023 22:13:43]
+  igameCrog dropped Медконтейнер
+[02/20/2023 22:13:50]
+  Qwutix equipped Ружье
+[02/20/2023 22:14:16]
+  igameCrog used item Бинт
+[02/20/2023 22:14:26]
+  igameCrog placed Экстракт каликса in Шприц-пистолет (ID: 3074)
+[02/20/2023 22:14:30]
+  Чпок В Пупок picked up Подводная маска
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:31]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:32]
+  igameCrog picked up Бинт
+[02/20/2023 22:14:36]
+  igameCrog picked up Морфин
+[02/20/2023 22:14:41]
+  igameCrog used item Морфин
+[02/20/2023 22:14:42]
+  kynlan4ic equipped Ящик с химикатами
+[02/20/2023 22:14:43]
+  kynlan4ic dropped Ящик с химикатами
+[02/20/2023 22:14:45]
+  kynlan4ic equipped Медконтейнер
+[02/20/2023 22:14:46]
+  kynlan4ic placed Медконтейнер in Стеллаж для ящиков (ID: 125)
+[02/20/2023 22:14:50]
+  igameCrog equipped Шприц-пистолет
+[02/20/2023 22:15:22]
+  Чпок В Пупок picked up Сварочный аппарат
+[02/20/2023 22:16:06]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/20/2023 22:16:13]
+  Qwutix picked up Револьвер
+[02/20/2023 22:16:21]
+  Qwutix picked up Ружье
+[02/20/2023 22:16:26]
+  Qwutix dropped Ружье
+[02/20/2023 22:16:33]
+  kynlan4ic picked up Дробовик
+[02/20/2023 22:16:43]
+  Qwutix picked up Электрошокер
+[02/20/2023 22:16:43]
+  Qwutix dropped Ружье
+[02/20/2023 22:16:43]
+  Qwutix placed Ружье in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:16:45]
+  kynlan4ic picked up Осколочная граната
+[02/20/2023 22:16:47]
+  Qwutix placed Электрошокер in Средний стальной шкаф (ID: 162)
+[02/20/2023 22:16:49]
+  igameCrog picked up Пояс инструментов
+[02/20/2023 22:16:55]
+  Qwutix picked up Подводная маска
+[02/20/2023 22:16:56]
+  Qwutix picked up Кислородный баллон
+[02/20/2023 22:16:58]
+  Qwutix placed Подводная маска in Хозяйственный шкаф (ID: 421)
+[02/20/2023 22:17:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:07]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:07]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:07]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:07]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:08]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:09]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:09]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  Jarvis Palmieri: Надо найти водолазный скафандр!
+[02/20/2023 22:17:10]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:10]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:10]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:11]
+  Crawler has died (Cause of death: Unknown)
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:11]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:11]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:12]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  Antony Larsen: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  Eleanor Velazquez: Надо найти водолазный скафандр!
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:13]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  Julianne Gadberry equipped Сварочный аппарат
+[02/20/2023 22:17:14]
+  Julianne Gadberry: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  Merrill Poole: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:14]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:14]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:14]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:15]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:15]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:16]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:16]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:16]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:16]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:17:16]
+  Crawler attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/20/2023 22:17:17]
+  Inner wall breached by Crawler
+[02/20/2023 22:17:19]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:17:20]
+  igameCrog picked up Подводная маска
+[02/20/2023 22:17:20]
+  Hortensia Huynh equipped Сварочный аппарат
+[02/20/2023 22:17:20]
+  Hortensia Huynh: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:20]
+  Tanika Mendel: Надо найти водолазный скафандр!
+[02/20/2023 22:17:23]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:17:23]
+  Outer wall breached by Crawler
+[02/20/2023 22:17:24]
+  Crawler has died (Cause of death: Рваная рана)
+[02/20/2023 22:17:24]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:24]
+  kynlan4ic picked up Кислородный баллон
+[02/20/2023 22:17:25]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:17:25]
+  Jarvis Palmieri equipped Гаечный ключ
+[02/20/2023 22:17:26]
+  Jarvis Palmieri: Помогите, я истекаю кровью!
+[02/20/2023 22:17:26]
+  Tanika Mendel equipped Гаечный ключ
+[02/20/2023 22:17:26]
+  Inner wall breached by Crawler
+[02/20/2023 22:17:26]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 22:17:26]
+  Merrill Poole equipped Сварочный аппарат
+[02/20/2023 22:17:26]
+  Eleanor Velazquez equipped Гаечный ключ
+[02/20/2023 22:17:27]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:27]
+  igameCrog placed Этанол in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:27]
+  Jarvis Palmieri unequipped Гаечный ключ
+[02/20/2023 22:17:27]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:17:28]
+  Qwutix picked up Водолазный скафандр
+[02/20/2023 22:17:28]
+  Qwutix dropped Бронежилет
+[02/20/2023 22:17:28]
+  Qwutix placed Бронежилет in Human
+[02/20/2023 22:17:28]
+  igameCrog placed Серная кислота in Пояс инструментов (ID: 3089)
+[02/20/2023 22:17:29]
+  Antony Larsen equipped Сварочный аппарат
+[02/20/2023 22:17:30]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:17:30]
+  Jarvis Palmieri equipped Гаечный ключ
+[02/20/2023 22:17:30]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:30]
+  Eliza Aguilar equipped Гаечный ключ
+[02/20/2023 22:17:30]
+  Lane Fonte: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:30]
+  igameCrog picked up Этанол
+[02/20/2023 22:17:30]
+  igameCrog picked up Этанол
+[02/20/2023 22:17:30]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:30]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:30]
+  Micheal Simpson equipped Гаечный ключ
+[02/20/2023 22:17:30]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:31]
+  Jarvis Palmieri unequipped Гаечный ключ
+[02/20/2023 22:17:31]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:17:32]
+  Inner wall breached by Crawler
+[02/20/2023 22:17:33]
+  kynlan4ic picked up Подводная маска
+[02/20/2023 22:17:33]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:34]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:34]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:34]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:35]
+  Lane Fonte: Огонь!
+[02/20/2023 22:17:35]
+  Lane Fonte launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:17:35]
+  Micheal Simpson: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:35]
+  Lane Fonte launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:17:36]
+  Micheal Simpson: Надо найти кислородный баллон!
+[02/20/2023 22:17:36]
+  Merrill Poole unequipped Сварочный аппарат
+[02/20/2023 22:17:36]
+  Lane Fonte launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:17:37]
+  Inner wall breached by Crawler
+[02/20/2023 22:17:41]
+  Eliza Aguilar unequipped Гаечный ключ
+[02/20/2023 22:17:41]
+  Eliza Aguilar: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:42]
+  Merrill Poole equipped Сварочный аппарат
+[02/20/2023 22:17:43]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:43]
+  Hortensia Huynh unequipped Сварочный аппарат
+[02/20/2023 22:17:43]
+  Tanika Mendel unequipped Гаечный ключ
+[02/20/2023 22:17:43]
+  Tanika Mendel equipped Сварочный аппарат
+[02/20/2023 22:17:43]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:17:43]
+  Jarvis Palmieri equipped Гаечный ключ
+[02/20/2023 22:17:44]
+  Jarvis Palmieri unequipped Гаечный ключ
+[02/20/2023 22:17:44]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:17:45]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:45]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:17:45]
+  Jarvis Palmieri equipped Гаечный ключ
+[02/20/2023 22:17:46]
+  Jarvis Palmieri unequipped Гаечный ключ
+[02/20/2023 22:17:46]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:17:46]
+  Hortensia Huynh equipped Сварочный аппарат
+[02/20/2023 22:17:46]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:46]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:47]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[02/20/2023 22:17:47]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:47]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:47]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:47]
+  Inner wall breached by Crawler
+[02/20/2023 22:17:47]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:47]
+  Tanika Mendel unequipped Сварочный аппарат
+[02/20/2023 22:17:47]
+  Tanika Mendel equipped Сварочный аппарат
+[02/20/2023 22:17:47]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:47]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:47]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:47]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[02/20/2023 22:17:47]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:17:47]
+  Jarvis Palmieri equipped Гаечный ключ
+[02/20/2023 22:17:47]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:47]
+  Micheal Simpson unequipped Гаечный ключ
+[02/20/2023 22:17:47]
+  Crawler has died (Cause of death: Травма от удара тупым предметом)
+[02/20/2023 22:17:47]
+  Eliza Aguilar equipped Гаечный ключ
+[02/20/2023 22:17:47]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[02/20/2023 22:17:48]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:48]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:48]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:48]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:48]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:48]
+  Jarvis Palmieri unequipped Гаечный ключ
+[02/20/2023 22:17:48]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:17:48]
+  Crawler attacked by Qwutix. Огнестрельная рана: 10.0 Кровотечение: 10.0
+[02/20/2023 22:17:48]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:17:49]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:17:49]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:17:49]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:17:49]
+  Inner wall repaired by Чпок В Пупок
+[02/20/2023 22:17:49]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 3.5 Кровотечение: 5.3
+[02/20/2023 22:17:50]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:17:51]
+  Lane Fonte unequipped Шоковая дубинка
+[02/20/2023 22:17:51]
+  Lane Fonte equipped Шоковая дубинка
+[02/20/2023 22:17:51]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 22:17:53]
+  Julianne Gadberry: Я теряю много крови!
+[02/20/2023 22:17:53]
+  Merrill Poole unequipped Сварочный аппарат
+[02/20/2023 22:17:53]
+  Merrill Poole: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:54]
+  Outer wall repaired by Чпок В Пупок
+[02/20/2023 22:17:54]
+  Lane Fonte: Невозможно добраться: Перископ!
+[02/20/2023 22:17:55]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:17:55]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:17:55]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:17:55]
+  Jarvis Palmieri attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:55]
+  Tanika Mendel: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:55]
+  Hortensia Huynh: Мне нужно подводное снаряжение!
+[02/20/2023 22:17:55]
+  Hortensia Huynh unequipped Сварочный аппарат
+[02/20/2023 22:17:55]
+  Hortensia Huynh equipped Сварочный аппарат
+[02/20/2023 22:17:56]
+  Jarvis Palmieri: Помогите, я истекаю кровью!
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:17:58]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:18:00]
+  Crawler has died (Cause of death: Ожог кислотой)
+[02/20/2023 22:18:00]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:18:00]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:18:00]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:18:00]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:18:00]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:18:00]
+  Crawler attacked by Qwutix. Огнестрельная рана: 8.0 Кровотечение: 6.0
+[02/20/2023 22:18:00]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 2.8 Кровотечение: 3.2
+[02/20/2023 22:18:01]
+  Lane Fonte: Надо найти водолазный скафандр!
+[02/20/2023 22:18:02]
+  kynlan4ic picked up Водолазный скафандр
+[02/20/2023 22:18:02]
+  Eleanor Velazquez: Мне нужно подводное снаряжение!
+[02/20/2023 22:18:03]
+  Qwutix equipped Шоковая дубинка
+[02/20/2023 22:18:06]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 22:18:06]
+  Merrill Poole: Моторный отсек: здесь поднимается давление!
+[02/20/2023 22:18:07]
+  Tanika Mendel has died (Cause of death: Баротравма)
+[02/20/2023 22:18:07]
+  Merrill Poole has died (Cause of death: Баротравма)
+[02/20/2023 22:18:07]
+  Чпок В Пупок has died (Cause of death: Баротравма)
+[02/20/2023 22:18:08]
+  Micheal Simpson: Надо найти водолазный скафандр!
+[02/20/2023 22:18:13]
+  Eliza Aguilar: Надо найти водолазный скафандр!
+[02/20/2023 22:18:13]
+  Hortensia Huynh has died (Cause of death: Баротравма)
+[02/20/2023 22:18:13]
+  Eliza Aguilar: Верхняя средняя часть: здесь поднимается давление!
+[02/20/2023 22:18:14]
+  Eleanor Velazquez has died (Cause of death: Баротравма)
+[02/20/2023 22:18:14]
+  Micheal Simpson has died (Cause of death: Баротравма)
+[02/20/2023 22:18:14]
+  Lane Fonte has died (Cause of death: Баротравма)
+[02/20/2023 22:18:14]
+  Eliza Aguilar has died (Cause of death: Баротравма)
+[02/20/2023 22:18:14]
+  igameCrog has died (Cause of death: Баротравма)
+[02/20/2023 22:18:20]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:18:25]
+  Outer wall repaired by Antony Larsen
+[02/20/2023 22:18:26]
+  Julianne Gadberry: У меня кровь!
+[02/20/2023 22:18:30]
+  Crawler attacked by Qwutix. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[02/20/2023 22:18:31]
+  Crawler attacked by Qwutix. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[02/20/2023 22:18:31]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[02/20/2023 22:18:31]
+  Crawler attacked by Qwutix. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[02/20/2023 22:18:31]
+  Antony Larsen unequipped Сварочный аппарат
+[02/20/2023 22:18:31]
+  Julianne Gadberry unequipped Сварочный аппарат
+[02/20/2023 22:18:31]
+  Jarvis Palmieri unequipped Сварочный аппарат
+[02/20/2023 22:18:31]
+  Inner wall breached by Qwutix
+[02/20/2023 22:18:32]
+  kynlan4ic equipped Дробовик
+[02/20/2023 22:18:32]
+  Qwutix has lost more than 25 karma in the past minute.
+[02/20/2023 22:18:32]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 5.7 Кровотечение: 8.5
+[02/20/2023 22:18:32]
+  Julianne Gadberry attacked by Qwutix. Огнестрельная рана: 5.7 Кровотечение: 8.5
+[02/20/2023 22:18:32]
+  Antony Larsen equipped Сварочный аппарат
+[02/20/2023 22:18:32]
+  Crawler attacked by Qwutix. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[02/20/2023 22:18:33]
+  Crawler attacked by Qwutix. Огнестрельная рана: 16.3 Кровотечение: 16.3
+[02/20/2023 22:18:33]
+  Julianne Gadberry: Не надо!
+[02/20/2023 22:18:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:45]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:47]
+  Jarvis Palmieri equipped Сварочный аппарат
+[02/20/2023 22:18:49]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 22:18:50]
+  Qwutix launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:18:50]
+  Qwutix launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:18:50]
+  Qwutix launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:18:50]
+  Qwutix launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:18:50]
+  Qwutix launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/20/2023 22:18:52]
+  Console command "spawn charibdisold cursor" executed by igameCrog.
+[02/20/2023 22:18:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:53]
+  Antony Larsen attacked by kynlan4ic. Рваная рана: 4.7 Кровотечение: 0.5
+[02/20/2023 22:18:53]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:54]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:54]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:54]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:54]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:54]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:54]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:55]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:55]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:55]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:55]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:55]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:55]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:56]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:56]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:56]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:56]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:56]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:56]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:56]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:57]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:57]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:57]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:57]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:57]
+  Outer wall breached by Crawlerbroodmother
+[02/20/2023 22:18:57]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:59]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:59]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:59]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:59]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:18:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:18:59]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:00]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:00]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:01]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:02]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:02]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  Outer wall repaired by Jarvis Palmieri
+[02/20/2023 22:19:03]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:03]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  Jarvis Palmieri: Верхняя средняя часть: протечек не осталось!
+[02/20/2023 22:19:03]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:03]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:03]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:03]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:04]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:04]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:04]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:04]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:04]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:04]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:05]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:05]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:05]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:06]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:06]
+  Console command "control charibdisold" executed by igameCrog.
+[02/20/2023 22:19:07]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:07]
+  Dispatching the respawn shuttle.
+[02/20/2023 22:19:07]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[02/20/2023 22:19:07]
+  Respawning Чпок В Пупок (STEAM_1:1:442373355) as Инженер
+[02/20/2023 22:19:07]
+  Respawning bot Tanika Mendel as Помощник
+[02/20/2023 22:19:07]
+  Respawning bot Lane Fonte as Офицер службы безопасности
+[02/20/2023 22:19:08]
+  Respawning bot Eliza Aguilar as Инженер
+[02/20/2023 22:19:08]
+  Respawning bot Hortensia Huynh as Врач
+[02/20/2023 22:19:08]
+  Respawning bot Eleanor Velazquez as Инженер
+[02/20/2023 22:19:08]
+  Respawning bot Micheal Simpson as Помощник
+[02/20/2023 22:19:08]
+  Respawning bot Merrill Poole as Механик
+[02/20/2023 22:19:08]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:10]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:19:11]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:11]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/20/2023 22:19:12]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:13]
+  Чпок В Пупок picked up Одноразовый водолазный скафандр
+[02/20/2023 22:19:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:13]
+  Outer wall breached by kynlan4ic
+[02/20/2023 22:19:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:14]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:15]
+  igameCrog picked up Одноразовый водолазный скафандр
+[02/20/2023 22:19:16]
+  Чпок В Пупок picked up Одноразовый водолазный скафандр
+[02/20/2023 22:19:16]
+  Чпок В Пупок dropped Одноразовый водолазный скафандр
+[02/20/2023 22:19:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:17]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:18]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:18]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:20]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 22:19:20]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 22:19:20]
+  igameCrog picked up Кислородный баллон
+[02/20/2023 22:19:21]
+  igameCrog picked up Подводная маска
+[02/20/2023 22:19:22]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:22]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:22]
+  igameCrog picked up Плазменный резак
+[02/20/2023 22:19:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:23]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:23]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:24]
+  igameCrog picked up Ручной сонар
+[02/20/2023 22:19:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:25]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:25]
+  igameCrog picked up Лом
+[02/20/2023 22:19:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:26]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:27]
+  igameCrog picked up Подводный скутер
+[02/20/2023 22:19:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:28]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:30]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:31]
+  Outer wall breached by Crawler
+[02/20/2023 22:19:35]
+  igameCrog picked up Пояс инструментов
+[02/20/2023 22:19:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:37]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 3387)
+[02/20/2023 22:19:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:37]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:38]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:38]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:38]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:39]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 3387)
+[02/20/2023 22:19:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:39]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:39]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:40]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:41]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:41]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:43]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:44]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:46]
+  Inner wall repaired by Antony Larsen
+[02/20/2023 22:19:46]
+  Antony Larsen: Верхняя средняя часть: минус одна протечка!
+[02/20/2023 22:19:47]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:47]
+  Julianne Gadberry has died (Cause of death: Кровопотеря)
+[02/20/2023 22:19:48]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:48]
+  Micheal Simpson: Надо найти водолазный скафандр!
+[02/20/2023 22:19:48]
+  Hortensia Huynh: Надо найти водолазный скафандр!
+[02/20/2023 22:19:48]
+  Lane Fonte: Мне нужно подводное снаряжение!
+[02/20/2023 22:19:49]
+  Eliza Aguilar: Мне нужно подводное снаряжение!
+[02/20/2023 22:19:49]
+  Tanika Mendel: Мне нужно подводное снаряжение!
+[02/20/2023 22:19:49]
+  Eleanor Velazquez: Мне нужно подводное снаряжение!
+[02/20/2023 22:19:49]
+  Merrill Poole: Надо найти водолазный скафандр!
+[02/20/2023 22:19:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:54]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:56]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:57]
+  Crawlerbroodmother has died (Cause of death: Рваная рана)
+[02/20/2023 22:19:57]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:57]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:57]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:58]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:19:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:19:58]
+  Crawlerbroodmother attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:20:04]
+  kynlan4ic unequipped Дробовик
+[02/20/2023 22:20:04]
+  kynlan4ic equipped Вещмешок
+[02/20/2023 22:20:06]
+  kynlan4ic dropped Вещмешок
+[02/20/2023 22:20:07]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:07]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:20:07]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:07]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:20:09]
+  Qwutix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:09]
+  Crawlerbroodmother attacked by Qwutix. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:20:09]
+  Eleanor Velazquez: У меня нет оружия для самообороны!
+[02/20/2023 22:20:09]
+  Eleanor Velazquez: Отвали от меня!
+[02/20/2023 22:20:10]
+  kynlan4ic picked up Пояс инструментов
+[02/20/2023 22:20:11]
+  kynlan4ic dropped Вещмешок
+[02/20/2023 22:20:15]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:15]
+  Crawler attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/20/2023 22:20:17]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:21]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3387)
+[02/20/2023 22:20:21]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3387)
+[02/20/2023 22:20:21]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3387)
+[02/20/2023 22:20:22]
+  Outer wall repaired by Antony Larsen
+[02/20/2023 22:20:22]
+  Antony Larsen: Орудийный отсек: выполняю ремонт. Осталось несколько отверстий!
+[02/20/2023 22:20:26]
+  Eleanor Velazquez: У меня кровь!
+[02/20/2023 22:20:30]
+  Outer wall repaired by Antony Larsen
+[02/20/2023 22:20:30]
+  Eleanor Velazquez: Помогите мне!
+[02/20/2023 22:20:33]
+  Outer wall repaired by Antony Larsen
+[02/20/2023 22:20:34]
+  Antony Larsen: Воздушный шлюз: минус одна протечка!
+[02/20/2023 22:20:36]
+  Чпок В Пупок closed Дверь с кнопками
+[02/20/2023 22:20:36]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 22:20:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:36]
+  Tanika Mendel attacked by kynlan4ic. Рваная рана: 7.1 Кровотечение: 0.8
+[02/20/2023 22:20:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:37]
+  igameCrog placed Морфин in Форма врача (ID: 3316)
+[02/20/2023 22:20:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/20/2023 22:20:38]
+  Qwutix used item Бинт
+[02/20/2023 22:20:38]
+  Чпок В Пупок closed Дверь с кнопками
+[02/20/2023 22:20:38]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 22:20:39]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/20/2023 22:20:40]
+  Qwutix used item Морфин
+[02/20/2023 22:20:40]
+  Чпок В Пупок opened Настраиваемая дверь
+[02/20/2023 22:20:40]
+  Outer wall repaired by Jarvis Palmieri
+[02/20/2023 22:20:40]
+  Jarvis Palmieri: Моторный отсек: протечек не осталось!
+[02/20/2023 22:20:42]
+  Чпок В Пупок closed Настраиваемая дверь
+[02/20/2023 22:20:42]
+  Qwutix used item Морфин
+[02/20/2023 22:20:44]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:20:44]
+  Eleanor Velazquez: Мне нужно оружие!
+[02/20/2023 22:20:44]
+  Чпок В Пупок unequipped Шприц-пистолет
+[02/20/2023 22:20:46]
+  Чпок В Пупок equipped Шприц-пистолет
+[02/20/2023 22:20:46]
+  Inner wall repaired by Antony Larsen
+[02/20/2023 22:20:46]
+  Antony Larsen: Задний балласт: протечек не осталось!
+[02/20/2023 22:20:47]
+  Antony Larsen: Задний балласт: минус одна протечка!
+[02/20/2023 22:20:48]
+  Чпок В Пупок equipped Отвертка
+[02/20/2023 22:20:49]
+  Чпок В Пупок equipped Гаечный ключ
+[02/20/2023 22:20:51]
+  Eleanor Velazquez: Помогите мне!
+[02/20/2023 22:20:52]
+  Qwutix placed Шлем стрелка in Большой стальной шкаф (ID: 163)
+[02/20/2023 22:20:52]
+  Qwutix removed Фонарик from Большой стальной шкаф (ID: 163)
+[02/20/2023 22:20:52]
+  Qwutix equipped Фонарик
+[02/20/2023 22:20:52]
+  Qwutix picked up Фонарик
+[02/20/2023 22:20:56]
+  Qwutix placed Автоматический пистолет in Большой стальной шкаф (ID: 163)
+[02/20/2023 22:20:56]
+  Qwutix removed Подводный скутер from Большой стальной шкаф (ID: 163)
+[02/20/2023 22:20:56]
+  Qwutix picked up Подводный скутер
+[02/20/2023 22:20:58]
+  Inner wall repaired by Jarvis Palmieri
+[02/20/2023 22:20:59]
+  Eleanor Velazquez: Помогите, я истекаю кровью!
+[02/20/2023 22:21:00]
+  Qwutix picked up Кислородный баллон
+[02/20/2023 22:21:00]
+  Qwutix picked up Кислородный баллон
+[02/20/2023 22:21:00]
+  Qwutix picked up Кислородный баллон
+[02/20/2023 22:21:00]
+  Qwutix picked up Кислородный баллон
+[02/20/2023 22:21:04]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/20/2023 22:21:09]
+  igameCrog equipped Подводный скутер
+[02/20/2023 22:21:11]
+  Jarvis Palmieri: Задний балласт: протечек не осталось!
+[02/20/2023 22:21:11]
+  Eleanor Velazquez: Ищу безопасное место!
+[02/20/2023 22:21:13]
+  Qwutix picked up Гаечный ключ
+[02/20/2023 22:21:16]
+  Eleanor Velazquez: У меня нет оружия для самообороны!
+[02/20/2023 22:21:17]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 22:21:19]
+  kynlan4ic closed Настраиваемая дверь
+[02/20/2023 22:21:22]
+  Outer wall breached by Crawler
+[02/20/2023 22:21:22]
+  Чпок В Пупок started repairing Кабельная коробка
+[02/20/2023 22:21:25]
+  Qwutix equipped Гаечный ключ
+[02/20/2023 22:21:30]
+  Чпок В Пупок started repairing Ядерный реактор
+[02/20/2023 22:21:34]
+  igameCrog closed Дверь с кнопками
+[02/20/2023 22:21:34]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 22:21:39]
+  igameCrog opened Настраиваемая дверь
+[02/20/2023 22:21:39]
+  Inner wall repaired by Antony Larsen
+[02/20/2023 22:21:39]
+  Antony Larsen: Электрика: все протечки устранены!
+[02/20/2023 22:21:41]
+  igameCrog closed Настраиваемая дверь
+[02/20/2023 22:21:43]
+  kynlan4ic opened Настраиваемая дверь
+[02/20/2023 22:21:56]
+  Hortensia Huynh: У меня нет оружия для самообороны!
+[02/20/2023 22:21:56]
+  Eliza Aguilar equipped Гаечный ключ
+[02/20/2023 22:21:56]
+  Чпок В Пупок picked up Водолазный скафандр
+[02/20/2023 22:21:56]
+  Чпок В Пупок dropped Одноразовый водолазный скафандр
+[02/20/2023 22:21:57]
+  Hortensia Huynh: Помогите мне!
+[02/20/2023 22:21:57]
+  Eliza Aguilar: Ищу безопасное место!
+[02/20/2023 22:21:57]
+  Jarvis Palmieri: Мне нужно подводное снаряжение!
+[02/20/2023 22:22:01]
+  igameCrog equipped Вещмешок
+[02/20/2023 22:22:01]
+  Qwutix placed Гаечный ключ in Human
+[02/20/2023 22:22:01]
+  Qwutix removed Отвертка from Human
+[02/20/2023 22:22:01]
+  Qwutix picked up Отвертка
+[02/20/2023 22:22:02]
+  Eliza Aguilar: Помогите, я истекаю кровью!
+[02/20/2023 22:22:03]
+  kynlan4ic: Jarvis Palmieri, начинай устранять протечки!
+[02/20/2023 22:22:04]
+  Jarvis Palmieri: Есть!
+[02/20/2023 22:22:04]
+  Qwutix equipped Отвертка
+[02/20/2023 22:22:06]
+  kynlan4ic: Antony Larsen, займись поврежденными устройствами!
+[02/20/2023 22:22:06]
+  igameCrog placed Лом in Вещмешок (ID: 3299)
+[02/20/2023 22:22:06]
+  igameCrog removed Этанол from Вещмешок (ID: 3299)
+[02/20/2023 22:22:06]
+  igameCrog removed Этанол from Вещмешок (ID: 3299)
+[02/20/2023 22:22:06]
+  igameCrog picked up Этанол
+[02/20/2023 22:22:06]
+  igameCrog picked up Этанол
+[02/20/2023 22:22:07]
+  Antony Larsen: Само собой!
+[02/20/2023 22:22:08]
+  Antony Larsen unequipped Сварочный аппарат
+[02/20/2023 22:22:08]
+  Antony Larsen equipped Отвертка
+[02/20/2023 22:22:08]
+  kynlan4ic: Jarvis Palmieri, займись механическими приборами!
+[02/20/2023 22:22:09]
+  Jarvis Palmieri: Так точно!
+[02/20/2023 22:22:10]
+  kynlan4ic: Чпок В Пупок, займись электроприборами!
+[02/20/2023 22:22:11]
+  Eleanor Velazquez has died (Cause of death: Укусы)
+[02/20/2023 22:22:11]
+  Antony Larsen failed to repair Суперконденсатор
+[02/20/2023 22:22:11]
+  Antony Larsen failed to repair Суперконденсатор
+[02/20/2023 22:22:11]
+  Antony Larsen failed to repair Суперконденсатор
+[02/20/2023 22:22:12]
+  Antony Larsen started repairing Суперконденсатор
+[02/20/2023 22:22:13]
+  Чпок В Пупок picked up Кислородный баллон
+[02/20/2023 22:22:14]
+  Qwutix disconnected a wire from Кабельная коробка (power) to Кабельная коробка (power)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)
+[02/20/2023 22:22:14]
+  igameCrog placed Бинт in Форма врача (ID: 3316)

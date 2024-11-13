@@ -1,0 +1,324 @@
+﻿[11/01/2022 14:55:01]
+  Starting the server...
+[11/01/2022 14:55:01]
+  Using SteamP2P networking.
+[11/01/2022 14:55:01]
+  Server started
+[11/01/2022 14:55:02]
+  Игрок kynlan4ic присоединился к серверу.
+[11/01/2022 14:55:02]
+  Saving client permissions
+[11/01/2022 14:55:02]
+  Saving client permissions
+[11/01/2022 14:55:05]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/01/2022 14:55:11]
+  Игрок igameCrog присоединился к серверу.
+[11/01/2022 14:55:11]
+  Saving client permissions
+[11/01/2022 14:55:38]
+  Игрок Супостат присоединился к серверу.
+[11/01/2022 14:55:38]
+  Saving client permissions
+[11/01/2022 14:55:57]
+  kynlan4ic is ready to start the game.
+[11/01/2022 14:56:10]
+  Client "kynlan4ic" started the round.
+[11/01/2022 14:56:10]
+  Starting a new round...
+[11/01/2022 14:56:14]
+  John Velazquez equipped Гаечный ключ
+[11/01/2022 14:56:15]
+  Thea Jack equipped Лом
+[11/01/2022 14:56:15]
+  Sherita Nicolosi equipped Гаечный ключ
+[11/01/2022 14:56:15]
+  Миссия: Вернуть аванпост
+[11/01/2022 14:56:15]
+  Мы потеряли связь с аванпостом Центр Set, и боюсь, что его кто-то захватил. Уничтожьте реактор аванпоста, чтобы избавиться от захватчиков раз и навсегда.
+[11/01/2022 14:56:15]
+  Game mode: Миссия
+[11/01/2022 14:56:15]
+  Submarine: Sardine
+[11/01/2022 14:56:15]
+  Level seed: RfwxAoiq
+[11/01/2022 14:56:15]
+  Mission: Вернуть аванпост
+[11/01/2022 14:56:16]
+  Round started.
+[11/01/2022 14:56:17]
+  John Velazquez unequipped Гаечный ключ
+[11/01/2022 14:56:17]
+  Sherita Nicolosi unequipped Гаечный ключ
+[11/01/2022 14:56:17]
+  Thea Jack unequipped Лом
+[11/01/2022 14:56:21]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 14:56:21]
+  Chuck Patel: Мне холодно.
+[11/01/2022 14:56:22]
+  Cleopatra Sunderland: Загружаю в реактор дополнительное топливо!
+[11/01/2022 14:56:28]
+  kynlan4ic picked up Водолазный скафандр
+[11/01/2022 14:56:29]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 14:56:29]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 14:56:30]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 14:56:32]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 14:56:35]
+  igameCrog picked up Каликсанид
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:36]
+  igameCrog picked up Морфин
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:37]
+  igameCrog picked up Бинт
+[11/01/2022 14:56:38]
+  igameCrog placed Бинт in Аптечка (ID: 498)
+[11/01/2022 14:56:38]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 14:56:38]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 14:56:38]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 14:56:38]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 14:56:38]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 14:56:38]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 14:56:39]
+  igameCrog placed Морфин in Аптечка (ID: 498)
+[11/01/2022 14:56:42]
+  igameCrog picked up Пакет с кровью
+[11/01/2022 14:56:42]
+  igameCrog picked up Пакет с кровью
+[11/01/2022 14:56:43]
+  igameCrog placed Пакет с кровью in Аптечка (ID: 498)
+[11/01/2022 14:56:43]
+  igameCrog placed Пакет с кровью in Аптечка (ID: 498)
+[11/01/2022 14:56:44]
+  kynlan4ic equipped Металлический ящик
+[11/01/2022 14:56:46]
+  kynlan4ic picked up Плазменный резак
+[11/01/2022 14:56:46]
+  kynlan4ic dropped Металлический ящик
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:46]
+  igameCrog placed Морфин in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:48]
+  igameCrog placed Бинт in Форма врача (ID: 4077)
+[11/01/2022 14:56:49]
+  igameCrog placed Каликсанид in Форма врача (ID: 4077)
+[11/01/2022 14:56:50]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 14:56:51]
+  Супостат picked up Водолазный скафандр
+[11/01/2022 14:56:53]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 14:56:53]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 14:56:53]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 14:56:55]
+  kynlan4ic equipped Водолазный скафандр
+[11/01/2022 14:56:56]
+  Супостат picked up Кислородный баллон
+[11/01/2022 14:56:56]
+  Супостат picked up Кислородный баллон
+[11/01/2022 14:56:56]
+  Супостат picked up Кислородный баллон
+[11/01/2022 14:56:56]
+  Супостат picked up Кислородный баллон
+[11/01/2022 14:56:57]
+  kynlan4ic picked up Подводный скутер
+[11/01/2022 14:56:58]
+  Супостат picked up Кислородный баллон
+[11/01/2022 14:56:59]
+  igameCrog picked up Сварочный аппарат
+[11/01/2022 14:57:00]
+  igameCrog picked up Сварочный аппарат
+[11/01/2022 14:57:00]
+  Супостат picked up Кислородный баллон
+[11/01/2022 14:57:03]
+  igameCrog picked up Пояс инструментов
+[11/01/2022 14:57:04]
+  igameCrog picked up Отвертка
+[11/01/2022 14:57:05]
+  igameCrog picked up Топливный стержень
+[11/01/2022 14:57:05]
+  igameCrog picked up Гаечный ключ
+[11/01/2022 14:57:05]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 14:57:09]
+  igameCrog placed Топливный стержень in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:10]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:12]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:15]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:16]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:18]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:18]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:18]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4095)
+[11/01/2022 14:57:22]
+  igameCrog picked up Сварочный аппарат
+[11/01/2022 14:57:28]
+  igameCrog dropped Сварочный аппарат
+[11/01/2022 14:57:33]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/01/2022 14:57:33]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/01/2022 14:57:33]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/01/2022 14:57:33]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/01/2022 14:57:33]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/01/2022 14:57:33]
+  igameCrog picked up Топливный бак сварочного аппарата
+[11/01/2022 14:57:46]
+  igameCrog picked up Лом
+[11/01/2022 14:57:55]
+  igameCrog picked up Подводный скутер
+[11/01/2022 14:57:57]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 14:57:58]
+  igameCrog picked up Кислородный баллон
+[11/01/2022 14:58:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4095)
+[11/01/2022 14:58:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4095)
+[11/01/2022 14:58:01]
+  Liza Linares equipped Револьвер
+[11/01/2022 14:58:17]
+  Супостат picked up Электрошокер
+[11/01/2022 14:58:19]
+  Liza Linares unequipped Револьвер
+[11/01/2022 14:58:19]
+  Liza Linares equipped Нож ныряльщика
+[11/01/2022 14:58:24]
+  Супостат picked up Пуленепробиваемый шлем
+[11/01/2022 14:58:33]
+  Супостат equipped Сварочный аппарат
+[11/01/2022 14:58:34]
+  Супостат equipped Электрошокер
+[11/01/2022 14:58:37]
+  kynlan4ic equipped Револьвер
+[11/01/2022 14:58:37]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:40]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:41]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:42]
+  Inner wall breached by kynlan4ic
+[11/01/2022 14:58:43]
+  Liza Linares attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 14:58:45]
+  Sherita Nicolosi attacked by Супостат. Рваная рана: 0.4 Оглушение: 0.1 ProgressiveStun: 1
+[11/01/2022 14:58:45]
+  Sherita Nicolosi equipped Пистолет-пулемет
+[11/01/2022 14:58:45]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:46]
+  Liza Linares attacked by kynlan4ic. Огнестрельная рана: 14 Кровотечение: 18.75 Оглушение: 0.3
+[11/01/2022 14:58:47]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:48]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:50]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:50]
+  Sherita Nicolosi unequipped Пистолет-пулемет
+[11/01/2022 14:58:51]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:52]
+  Liza Linares used Нож ныряльщика on kynlan4ic.
+[11/01/2022 14:58:57]
+  Liza Linares unequipped Нож ныряльщика
+[11/01/2022 14:58:57]
+  Liza Linares equipped Нож ныряльщика
+[11/01/2022 14:58:58]
+  Liza Linares unequipped Нож ныряльщика
+[11/01/2022 14:58:59]
+  kynlan4ic has died (Cause of death: Кровопотеря)
+[11/01/2022 14:59:10]
+  Супостат has died (Cause of death: Кровопотеря)
+[11/01/2022 14:59:13]
+  igameCrog is a traitor and the current goals are:
+- Уничтожить на подлодке: Подводная маска вне инвентаря (не менее 85 процентов) (В процессе)
+
+[11/01/2022 14:59:43]
+  Console command "spawn Latcher outside" executed by kynlan4ic.
+[11/01/2022 14:59:56]
+  Console command "control Latcher" executed by kynlan4ic.
+[11/01/2022 15:00:25]
+  Console command "freecam" executed by kynlan4ic.
+[11/01/2022 15:00:36]
+  Liza Linares has died (Cause of death: Кровопотеря)
+[11/01/2022 15:01:18]
+  Ending round by votes (2/1)
+[11/01/2022 15:01:18]
+  Ending the round...

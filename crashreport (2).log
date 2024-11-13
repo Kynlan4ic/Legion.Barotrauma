@@ -1,0 +1,351 @@
+﻿Barotrauma Client crash report (generated on 03/07/2023 17:05:21)
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+18B4B1F1463515508F0783BBFA6953EC
+
+Game version 0.21.6.0 (ReleaseWindows, branch release, revision 480a2279e0)
+Graphics mode: 1440x900 (BorderlessWindowed)
+VSync ON
+Language: Russian
+Selected content packages: Vanilla, Украинская локализация | Ukrainian localization, Breaking Bad Guitar, ATK-89 "Sardine", Project-705k Lyra, Dors, Umkhumbi, Uzurbator3000, SITE 18 SCP 3.5 FIXED DOORS 3.5, EK Matriarch Mk-VII, The Plague Rat, Super Plague Rat, Fat Fish, Bronze Age, Cast Iron, Nemesis, QF8, IHN Kalvair, Wellerman, Unnamed, Челнок R-155, CzechSaboteur, Челнок R-170, Гага дрын, The Deep Manatee, Gato Revamped, Wyvern, Shiftless, TR-56
+Level seed: Krytogorsk
+Loaded submarine: Atron (8EF35FC9523F84CCC8098D1A0AE6ADE5)
+Selected screen: Barotrauma.GameScreen
+SteamManager initialized
+Client (Round had started)
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+    GPU name: NVIDIA GeForce GTX 1650
+    Display mode: {Width:1440 Height:900 Format:Color AspectRatio:1.6}
+    GPU status: Normal
+
+Exception: Value cannot be null. (Parameter 'texture') (System.ArgumentNullException)
+Target site: Void CheckValid(Microsoft.Xna.Framework.Graphics.Texture2D)
+Stack trace: 
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.CheckValid(Texture2D texture) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Graphics\SpriteBatch.cs:line 256
+   at Microsoft.Xna.Framework.Graphics.SpriteBatch.Draw(Texture2D texture, Rectangle destinationRectangle, Nullable`1 sourceRectangle, Color color, Single rotation, Vector2 origin, SpriteEffects effects, Single layerDepth) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Graphics\SpriteBatch.cs:line 617
+   at Barotrauma.Map.DrawConnection(SpriteBatch spriteBatch, LocationConnection connection, Rectangle viewArea, Vector2 viewOffset, Location currentDisplayLocation, Nullable`1 overrideColor) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\Map\Map.cs:line 925
+   at Barotrauma.Map.Draw(SpriteBatch spriteBatch, GUICustomComponent mapContainer) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Map\Map\Map.cs:line 565
+   at Barotrauma.GUICustomComponent.Draw(SpriteBatch spriteBatch) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUICustomComponent.cs:line 43
+   at Barotrauma.GUI.Draw(Camera cam, SpriteBatch spriteBatch) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GUI\GUI.cs:line 260
+   at Barotrauma.GameScreen.Draw(Double deltaTime, GraphicsDevice graphics, SpriteBatch spriteBatch) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Screens\GameScreen.cs:line 158
+   at Barotrauma.GameMain.Draw(GameTime gameTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\GameMain.cs:line 985
+   at Microsoft.Xna.Framework.Game.DoDraw(GameTime gameTime) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 669
+   at Microsoft.Xna.Framework.Game.Tick() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 508
+   at Microsoft.Xna.Framework.SdlGamePlatform.RunLoop() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\SDL\SDLGamePlatform.cs:line 93
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior) in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 397
+   at Microsoft.Xna.Framework.Game.Run() in <DEV>\Libraries\MonoGame.Framework\Src\MonoGame.Framework\Game.cs:line 367
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Program.cs:line 58
+
+Last debug messages:
+[03/07/2023 17:03:51] Traa
+[03/07/2023 17:03:50] Received STARTGAMEFINALIZE packet. Round init status: Started
+[03/07/2023 17:03:49]  -63: QueryServerRules (GetServers, 海底常沉号~纯净服~较流畅【qq群566368898】, 43.142.48.3), WaitingForActivation
+[03/07/2023 17:03:49]  -62: QueryServerRules (GetServers, 鸡你太美, 101.35.180.189), WaitingForActivation
+[03/07/2023 17:03:49]  -61: QueryServerRules (GetServers, MaoPao's Server, 124.223.58.158), WaitingForActivation
+[03/07/2023 17:03:49]  -60: QueryServerRules (GetServers, 海底常沉号~PVP专服~【qq群566368898】请点订阅进�, 114.116.90.232), WaitingForActivation
+[03/07/2023 17:03:49]  -59: QueryServerRules (GetServers, 二次元10倍经验精神创伤死亡空间 QQ群784523127, 43.248.185.148), WaitingForActivation
+[03/07/2023 17:03:49]  -58: QueryServerRules (GetServers, [RU/RP] Команда Ноль, 185.70.107.17), WaitingForActivation
+[03/07/2023 17:03:49]  -57: QueryServerRules (GetServers, Numbian's Hole - NEW CAMPAIGN - DEDICATED SERVER, 89.65.241.9), WaitingForActivation
+[03/07/2023 17:03:49]  -56: QueryServerRules (GetServers, USS Untergang, 188.172.228.216), WaitingForActivation
+[03/07/2023 17:03:49]  -55: QueryServerRules (GetServers, Galilean Servers Traitor Mod v2.3 | Hosted by Trusted Seas, 185.150.189.125), WaitingForActivation
+[03/07/2023 17:03:49]  -54: QueryServerRules (GetServers, Arbiter, 68.133.48.95), WaitingForActivation
+[03/07/2023 17:03:49]  -53: QueryServerRules (GetServers, Lex's Campaign, 172.107.16.244), WaitingForActivation
+[03/07/2023 17:03:49]  -52: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -51: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -50: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -49: QueryServerRules (GetServers, DYTJ, 43.139.230.100), WaitingForActivation
+[03/07/2023 17:03:49]  -48: QueryServerRules (GetServers, 欧罗巴海鲜大食堂QQ609240856, 175.24.179.20), WaitingForActivation
+[03/07/2023 17:03:49]  -47: QueryServerRules (GetServers, laowangServer, 43.138.172.45), WaitingForActivation
+[03/07/2023 17:03:49]  -46: QueryServerRules (GetServers, MaoPao's Server, 124.223.58.158), WaitingForActivation
+[03/07/2023 17:03:49]  -45: QueryServerRules (GetServers, [RU|RP] ЭИК Миссии, 46.44.27.22), WaitingForActivation
+[03/07/2023 17:03:49]  -44: QueryServerRules (GetServers, Huglertrauma, 85.156.145.91), WaitingForActivation
+[03/07/2023 17:03:49]  -43: QueryServerRules (GetServers, USS Untergang, 188.172.228.216), WaitingForActivation
+[03/07/2023 17:03:49]  -42: QueryServerRules (GetServers, Server, 78.46.46.54), WaitingForActivation
+[03/07/2023 17:03:49]  -41: QueryServerRules (GetServers, Galilean Servers USA PvP | Hosted by Trusted Seas, 172.93.101.201), WaitingForActivation
+[03/07/2023 17:03:49]  -40: QueryServerRules (GetServers, [RU]Крысы морские, 185.70.129.11), WaitingForActivation
+[03/07/2023 17:03:49]  -39: QueryServerRules (GetServers, (ECC) Breadcrumbs, 65.21.77.151), WaitingForActivation
+[03/07/2023 17:03:49]  -38: QueryServerRules (GetServers, ITS 24/7 https://discord.gg/nkXVhh5kZF BACKROOMS, 172.93.101.201), WaitingForActivation
+[03/07/2023 17:03:49]  -37: QueryServerRules (GetServers, Galilean Servers USA PvP | Hosted by Trusted Seas, 172.93.101.201), WaitingForActivation
+[03/07/2023 17:03:49]  -36: QueryServerRules (GetServers, Arbiter, 68.133.48.95), WaitingForActivation
+[03/07/2023 17:03:49]  -35: QueryServerRules (GetServers, Lex's Campaign, 172.107.16.244), WaitingForActivation
+[03/07/2023 17:03:49]  -34: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -33: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -32: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -31: QueryServerRules (GetServers, Northtower, 159.75.113.50), WaitingForActivation
+[03/07/2023 17:03:49]  -30: QueryServerRules (GetServers, 民主团结富强友爱, 106.75.178.138), WaitingForActivation
+[03/07/2023 17:03:49]  -29: QueryServerRules (GetServers, [GER] KSE - Koalitionsstreitkräfte Europa, 176.9.124.189), WaitingForActivation
+[03/07/2023 17:03:49]  -28: QueryServerRules (GetServers, Deep Sea Horror by XS-Project.de, 176.57.153.25), WaitingForActivation
+[03/07/2023 17:03:49]  -27: QueryServerRules (GetServers, Jock, 82.47.189.166), WaitingForActivation
+[03/07/2023 17:03:49]  -26: QueryServerRules (GetServers, Faroe Bank, 185.88.229.254), WaitingForActivation
+[03/07/2023 17:03:49]  -25: QueryServerRules (GetServers, Galilean Servers Traitor Mod v2.3 | Hosted by Trusted Seas, 185.150.189.125), WaitingForActivation
+[03/07/2023 17:03:49]  -24: QueryServerRules (GetServers, Server, 78.46.46.54), WaitingForActivation
+[03/07/2023 17:03:49]  -23: QueryServerRules (GetServers, Barodrama (EN), 88.99.97.43), WaitingForActivation
+[03/07/2023 17:03:49]  -22: QueryServerRules (GetServers, Lappen Private Party, 46.4.107.88), WaitingForActivation
+[03/07/2023 17:03:49]  -21: QueryServerRules (GetServers, AdminLounge Barotrauma Server, 188.68.36.99), WaitingForActivation
+[03/07/2023 17:03:49]  -20: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -19: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -18: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -17: QueryServerRules (GetServers, fdzxserver, 49.234.42.38), WaitingForActivation
+[03/07/2023 17:03:49]  -16: QueryServerRules (GetServers, Numbian's Hole - NEW CAMPAIGN - DEDICATED SERVER, 89.65.241.9), WaitingForActivation
+[03/07/2023 17:03:49]  -15: QueryServerRules (GetServers, [GER] KSE - Koalitionsstreitkräfte Europa, 176.9.124.189), WaitingForActivation
+[03/07/2023 17:03:49]  -14: QueryServerRules (GetServers, Deep Sea Horror by XS-Project.de, 176.57.153.25), WaitingForActivation
+[03/07/2023 17:03:49]  -13: QueryServerRules (GetServers, Arbiter, 68.133.48.95), WaitingForActivation
+[03/07/2023 17:03:49]  -12: QueryServerRules (GetServers, The Deep Dark, 136.35.192.216), WaitingForActivation
+[03/07/2023 17:03:49]  -11: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49]  -10: QueryServerRules (GetServers, moro, 162.14.110.172), WaitingForActivation
+[03/07/2023 17:03:49]  -9: QueryServerRules (GetServers, Foxtrot's test server, 47.93.188.231), WaitingForActivation
+[03/07/2023 17:03:49]  -8: QueryServerRules (GetServers, 这是一个...公开精创服务器, 43.139.216.169), WaitingForActivation
+[03/07/2023 17:03:49]  -7: QueryServerRules (GetServers, MaoPao's Server, 124.223.58.158), WaitingForActivation
+[03/07/2023 17:03:49]  -6: QueryServerRules (GetServers, Never gonna give you up, 119.91.138.125), WaitingForActivation
+[03/07/2023 17:03:49]  -5: QueryServerRules (GetServers, Northtower, 159.75.113.50), WaitingForActivation
+[03/07/2023 17:03:49]  -4: QueryServerRules (GetServers, 木卫四观光团, 220.172.11.123), WaitingForActivation
+[03/07/2023 17:03:49]  -3: QueryServerRules (GetServers, Gvf Blub Blub Time, 47.203.220.134), WaitingForActivation
+[03/07/2023 17:03:49]  -2: QueryServerRules (GetServers, The Deep Dark, 136.35.192.216), WaitingForActivation
+[03/07/2023 17:03:49]  -1: QueryServerRules (GetServers, Atro Lightly Mods Baro, 104.129.24.38), WaitingForActivation
+[03/07/2023 17:03:49]  -0: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 17:03:49] Task count: 64
+[03/07/2023 17:03:46] Generating an outpost for the start of the level... (Location: Старательский аванпост Krytogorsk, level type: Outpost)
+[03/07/2023 17:03:46] Level identifier: outpostlevel
+[03/07/2023 17:03:46] Creating hulls between docking ports failed. The upper docking port seems to be very far from any hulls in the upper submarine.
+[03/07/2023 17:03:22] Enabling "Breaking Bad Guitar" (TempMods_Download\Workshop_Breaking Bad Guitar_2674501807)
+[03/07/2023 17:03:22] Enabling "Украинская локализация | Ukrainian localization" (TempMods_Download\Workshop_Украинская локализация  Ukrainian localization_2828450028)
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост Noctae of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост Noctae of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Добывающий центр Balagtan of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Добывающий центр Balagtan of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Agave Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Agave Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост New Siberia of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост New Siberia of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта St. May of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта St. May of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Wolstone of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Wolstone of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Биомедицинский исследовательский центр Erlangshen of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Биомедицинский исследовательский центр Erlangshen of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Институт астробиологии Salthole of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Институт астробиологии Salthole of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Sermilik of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Sermilik of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост St. Musk of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост St. Musk of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост Moytura of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост Moytura of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Skadi's Cauldron of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Skadi's Cauldron of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Chandelle Crevasse of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Chandelle Crevasse of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Set of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Set of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Uusi-Turcu of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Uusi-Turcu of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Институт астробиологии Echion Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Институт астробиологии Echion Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Krytogorsk of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Krytogorsk of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательский центр Riville of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательский центр Riville of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Menec Fossa of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Menec Fossa of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский участок Kennet Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский участок Kennet Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Asterius Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Asterius Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательский центр Undermoist of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательский центр Undermoist of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Topol of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Topol of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Kimju of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Kimju of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Kogavostok of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Kogavostok of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Meltwater of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Meltwater of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Yasa of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Yasa of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Versas of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Versas of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Центр Arid Troma of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Центр Arid Troma of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательский центр Bramerton of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательский центр Bramerton of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Anid of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Anid of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Shinkonai of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Shinkonai of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Agenor Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Agenor Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост Hyldemoer of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост Hyldemoer of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Добывающий центр Udaeus Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Добывающий центр Udaeus Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Биомедицинский исследовательский центр Vorta of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Биомедицинский исследовательский центр Vorta of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Ana of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Ana of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Kury of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Kury of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Xinzou of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Xinzou of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Биомедицинский исследовательский центр Staldon Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Биомедицинский исследовательский центр Staldon Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост Noctae of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост Noctae of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Добывающий центр Balagtan of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Добывающий центр Balagtan of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Agave Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Agave Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост New Siberia of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост New Siberia of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта St. May of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта St. May of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Wolstone of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Wolstone of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Биомедицинский исследовательский центр Erlangshen of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Биомедицинский исследовательский центр Erlangshen of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Институт астробиологии Salthole of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Институт астробиологии Salthole of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Sermilik of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Sermilik of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост St. Musk of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост St. Musk of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост Moytura of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост Moytura of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Skadi's Cauldron of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Skadi's Cauldron of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Chandelle Crevasse of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Chandelle Crevasse of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Set of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Set of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Uusi-Turcu of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Uusi-Turcu of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Институт астробиологии Echion Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Институт астробиологии Echion Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Krytogorsk of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Krytogorsk of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательский центр Riville of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательский центр Riville of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Menec Fossa of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Menec Fossa of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский участок Kennet Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский участок Kennet Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Asterius Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Asterius Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательский центр Undermoist of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательский центр Undermoist of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Topol of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Topol of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Kimju of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Kimju of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Kogavostok of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Kogavostok of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Meltwater of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Meltwater of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Старательский аванпост Yasa of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Старательский аванпост Yasa of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Versas of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Versas of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Центр Arid Troma of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Центр Arid Troma of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательский центр Bramerton of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательский центр Bramerton of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Anid of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Anid of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Shinkonai of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Shinkonai of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Аванпост Agenor Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Аванпост Agenor Linea of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Жилой аванпост Hyldemoer of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Жилой аванпост Hyldemoer of type "Outpost": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Добывающий центр Udaeus Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Добывающий центр Udaeus Linea of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Биомедицинский исследовательский центр Vorta of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Биомедицинский исследовательский центр Vorta of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Исследовательская станция Ana of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Исследовательская станция Ana of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Укрепление Kury of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Укрепление Kury of type "Military": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Шахта Xinzou of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Шахта Xinzou of type "Mine": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantmedical" at location Биомедицинский исследовательский центр Staldon Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 17:02:59] Error loading store info for "merchantengineering" at location Биомедицинский исследовательский центр Staldon Linea of type "Research": location shouldn't contain a store with this identifier.
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "WasteyardDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "WasteyardDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "HuskgroundsDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "HuskgroundsDE". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "Lair". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "Lair". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] WARNING: Invalid location type change in location type "Construction". Probability is configured to increase when near some other type of location, but the base probability is already 100%
+[03/07/2023 16:59:55] Overriding an affliction or a buff with the identifier 'huskinfection' using the file 'C:/Users/kynlan/AppData/Local/Daedalic Entertainment GmbH/Barotrauma/WorkshopMods/Installed/2085783214/Afflictions.xml'
+[03/07/2023 16:59:53] Error while reading a message from server. 
+Mission equality check failed. Mission count doesn't match the server. Server: , client: escort1, cargomeditems, game session: escort1, cargomeditems)
+   at Barotrauma.Networking.GameClient.ReadStartGameFinalize(IReadMessage inc) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\GameClient.cs:line 891
+   at Barotrauma.Networking.GameClient.ReadDataMessage(IReadMessage inc) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\GameClient.cs:line 742
+   at Barotrauma.Networking.SteamP2PClientPeer.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\Primitives\Peers\SteamP2PClientPeer.cs:line 260
+   at Barotrauma.Networking.GameClient.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\GameClient.cs:line 500
+[03/07/2023 16:59:53]  -49: QueryServerRules (GetServers, DYTJ, 43.139.230.100), WaitingForActivation
+[03/07/2023 16:59:53]  -48: QueryServerRules (GetServers, 欧罗巴海鲜大食堂QQ609240856, 175.24.179.20), WaitingForActivation
+[03/07/2023 16:59:53]  -47: QueryServerRules (GetServers, laowangServer, 43.138.172.45), WaitingForActivation
+[03/07/2023 16:59:53]  -46: QueryServerRules (GetServers, MaoPao's Server, 124.223.58.158), WaitingForActivation
+[03/07/2023 16:59:53]  -45: QueryServerRules (GetServers, [RU|RP] ЭИК Миссии, 46.44.27.22), WaitingForActivation
+[03/07/2023 16:59:53]  -44: QueryServerRules (GetServers, Huglertrauma, 85.156.145.91), WaitingForActivation
+[03/07/2023 16:59:53]  -43: QueryServerRules (GetServers, USS Untergang, 188.172.228.216), WaitingForActivation
+[03/07/2023 16:59:53]  -42: QueryServerRules (GetServers, Server, 78.46.46.54), WaitingForActivation
+[03/07/2023 16:59:53]  -41: QueryServerRules (GetServers, Galilean Servers USA PvP | Hosted by Trusted Seas, 172.93.101.201), WaitingForActivation
+[03/07/2023 16:59:53]  -40: QueryServerRules (GetServers, [RU]Крысы морские, 185.70.129.11), WaitingForActivation
+[03/07/2023 16:59:53]  -39: QueryServerRules (GetServers, (ECC) Breadcrumbs, 65.21.77.151), WaitingForActivation
+[03/07/2023 16:59:53]  -38: QueryServerRules (GetServers, ITS 24/7 https://discord.gg/nkXVhh5kZF BACKROOMS, 172.93.101.201), WaitingForActivation
+[03/07/2023 16:59:53]  -37: QueryServerRules (GetServers, Galilean Servers USA PvP | Hosted by Trusted Seas, 172.93.101.201), WaitingForActivation
+[03/07/2023 16:59:53]  -36: QueryServerRules (GetServers, Arbiter, 68.133.48.95), WaitingForActivation
+[03/07/2023 16:59:53]  -35: QueryServerRules (GetServers, Lex's Campaign, 172.107.16.244), WaitingForActivation
+[03/07/2023 16:59:53]  -34: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -33: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -32: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -31: QueryServerRules (GetServers, Northtower, 159.75.113.50), WaitingForActivation
+[03/07/2023 16:59:53]  -30: QueryServerRules (GetServers, 民主团结富强友爱, 106.75.178.138), WaitingForActivation
+[03/07/2023 16:59:53]  -29: QueryServerRules (GetServers, [GER] KSE - Koalitionsstreitkräfte Europa, 176.9.124.189), WaitingForActivation
+[03/07/2023 16:59:53]  -28: QueryServerRules (GetServers, Deep Sea Horror by XS-Project.de, 176.57.153.25), WaitingForActivation
+[03/07/2023 16:59:53]  -27: QueryServerRules (GetServers, Jock, 82.47.189.166), WaitingForActivation
+[03/07/2023 16:59:53]  -26: QueryServerRules (GetServers, Faroe Bank, 185.88.229.254), WaitingForActivation
+[03/07/2023 16:59:53]  -25: QueryServerRules (GetServers, Galilean Servers Traitor Mod v2.3 | Hosted by Trusted Seas, 185.150.189.125), WaitingForActivation
+[03/07/2023 16:59:53]  -24: QueryServerRules (GetServers, Server, 78.46.46.54), WaitingForActivation
+[03/07/2023 16:59:53]  -23: QueryServerRules (GetServers, Barodrama (EN), 88.99.97.43), WaitingForActivation
+[03/07/2023 16:59:53]  -22: QueryServerRules (GetServers, Lappen Private Party, 46.4.107.88), WaitingForActivation
+[03/07/2023 16:59:53]  -21: QueryServerRules (GetServers, AdminLounge Barotrauma Server, 188.68.36.99), WaitingForActivation
+[03/07/2023 16:59:53]  -20: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -19: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -18: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -17: QueryServerRules (GetServers, fdzxserver, 49.234.42.38), WaitingForActivation
+[03/07/2023 16:59:53]  -16: QueryServerRules (GetServers, Numbian's Hole - NEW CAMPAIGN - DEDICATED SERVER, 89.65.241.9), WaitingForActivation
+[03/07/2023 16:59:53]  -15: QueryServerRules (GetServers, [GER] KSE - Koalitionsstreitkräfte Europa, 176.9.124.189), WaitingForActivation
+[03/07/2023 16:59:53]  -14: QueryServerRules (GetServers, Deep Sea Horror by XS-Project.de, 176.57.153.25), WaitingForActivation
+[03/07/2023 16:59:53]  -13: QueryServerRules (GetServers, Arbiter, 68.133.48.95), WaitingForActivation
+[03/07/2023 16:59:53]  -12: QueryServerRules (GetServers, The Deep Dark, 136.35.192.216), WaitingForActivation
+[03/07/2023 16:59:53]  -11: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53]  -10: QueryServerRules (GetServers, moro, 162.14.110.172), WaitingForActivation
+[03/07/2023 16:59:53]  -9: QueryServerRules (GetServers, Foxtrot's test server, 47.93.188.231), WaitingForActivation
+[03/07/2023 16:59:53]  -8: QueryServerRules (GetServers, 这是一个...公开精创服务器, 43.139.216.169), WaitingForActivation
+[03/07/2023 16:59:53]  -7: QueryServerRules (GetServers, MaoPao's Server, 124.223.58.158), WaitingForActivation
+[03/07/2023 16:59:53]  -6: QueryServerRules (GetServers, Never gonna give you up, 119.91.138.125), WaitingForActivation
+[03/07/2023 16:59:53]  -5: QueryServerRules (GetServers, Northtower, 159.75.113.50), WaitingForActivation
+[03/07/2023 16:59:53]  -4: QueryServerRules (GetServers, 木卫四观光团, 220.172.11.123), WaitingForActivation
+[03/07/2023 16:59:53]  -3: QueryServerRules (GetServers, Gvf Blub Blub Time, 47.203.220.134), WaitingForActivation
+[03/07/2023 16:59:53]  -2: QueryServerRules (GetServers, The Deep Dark, 136.35.192.216), WaitingForActivation
+[03/07/2023 16:59:53]  -1: QueryServerRules (GetServers, Atro Lightly Mods Baro, 104.129.24.38), WaitingForActivation
+[03/07/2023 16:59:53]  -0: LobbyQuery.RequestAsync (1), WaitingForActivation
+[03/07/2023 16:59:53] Task count: 50
+[03/07/2023 16:59:53] Received STARTGAMEFINALIZE packet. Round init status: WaitingForStartGameFinalize
+[03/07/2023 16:59:53] Coroutine Barotrauma.Networking.GameClient+<StartGame>d__109 threw an exception: Mission equality check failed. Mission count doesn't match the server. Server: , client: escort1, cargomeditems, game session: escort1, cargomeditems)
+   at Barotrauma.Networking.GameClient.ReadStartGameFinalize(IReadMessage inc) in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\GameClient.cs:line 891
+   at Barotrauma.Networking.GameClient.StartGame(IReadMessage inc)+MoveNext() in <DEV>\Barotrauma\BarotraumaClient\ClientSource\Networking\GameClient.cs:line 1551
+   at Barotrauma.CoroutineManager.PerformCoroutineStep(CoroutineHandle handle) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 199
+   at Barotrauma.CoroutineManager.IsDone(CoroutineHandle handle) in <DEV>\Barotrauma\BarotraumaShared\SharedSource\CoroutineManager.cs:line 257
+[03/07/2023 16:59:53]  -49: QueryServerRules (GetServers, DYTJ, 43.139.230.100), WaitingForActivation
+[03/07/2023 16:59:53]  -48: QueryServerRules (GetServers, 欧罗巴海鲜大食堂QQ609240856, 175.24.179.20), WaitingForActivation
+[03/07/2023 16:59:53]  -47: QueryServerRules (GetServers, laowangServer, 43.138.172.45), WaitingForActivation
+[03/07/2023 16:59:53]  -46: QueryServerRules (GetServers, MaoPao's Server, 124.223.58.158), WaitingForActivation
+[03/07/2023 16:59:53]  -45: QueryServerRules (GetServers, [RU|RP] ЭИК Миссии, 46.44.27.22), WaitingForActivation
+[03/07/2023 16:59:53]  -44: QueryServerRules (GetServers, Huglertrauma, 85.156.145.91), WaitingForActivation

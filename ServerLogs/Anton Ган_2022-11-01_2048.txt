@@ -1,0 +1,132 @@
+﻿[11/01/2022 20:28:25]
+  Starting the server...
+[11/01/2022 20:28:25]
+  Using SteamP2P networking.
+[11/01/2022 20:28:25]
+  Server started
+[11/01/2022 20:28:25]
+  Игрок kynlan4ic присоединился к серверу.
+[11/01/2022 20:28:25]
+  Saving client permissions
+[11/01/2022 20:28:25]
+  Saving client permissions
+[11/01/2022 20:28:29]
+  Gamemode changed to Кампания
+[11/01/2022 20:44:06]
+  Console command "enablecheats" executed by kynlan4ic.
+[11/01/2022 20:44:12]
+  Игрок igameCrog присоединился к серверу.
+[11/01/2022 20:44:12]
+  Saving client permissions
+[11/01/2022 20:44:33]
+  kynlan4ic is ready to start the game.
+[11/01/2022 20:44:36]
+  kynlan4ic is not ready to start the game.
+[11/01/2022 20:44:37]
+  kynlan4ic is ready to start the game.
+[11/01/2022 20:44:38]
+  igameCrog is ready to start the game.
+[11/01/2022 20:44:39]
+  Starting a new round...
+[11/01/2022 20:44:39]
+  kynlan4ic is not ready to start the game.
+[11/01/2022 20:44:41]
+  igameCrog is not ready to start the game.
+[11/01/2022 20:44:48]
+  Game mode: Кампания
+[11/01/2022 20:44:48]
+  Submarine: Barsuk
+[11/01/2022 20:44:48]
+  Level seed: Astypalaea Linea
+[11/01/2022 20:44:48]
+  Tanya Mansfield equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Tanya Mansfield unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Tanya Mansfield equipped Отвертка
+[11/01/2022 20:44:48]
+  Hector Ashley equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Hector Ashley unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Hector Ashley equipped Отвертка
+[11/01/2022 20:44:48]
+  Michele Chaney equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Michele Chaney unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Michele Chaney equipped Отвертка
+[11/01/2022 20:44:48]
+  Bertram Ordway equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Bertram Ordway unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Bertram Ordway equipped Отвертка
+[11/01/2022 20:44:48]
+  Bertram Ordway unequipped Отвертка
+[11/01/2022 20:44:48]
+  Bertram Ordway equipped Лом
+[11/01/2022 20:44:48]
+  Merrill Dollinger equipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Merrill Dollinger unequipped Гаечный ключ
+[11/01/2022 20:44:48]
+  Merrill Dollinger equipped Отвертка
+[11/01/2022 20:44:49]
+  Barry Lane equipped Лом
+[11/01/2022 20:44:49]
+  Sanda Newton equipped Лом
+[11/01/2022 20:44:50]
+  Round started.
+[11/01/2022 20:44:50]
+  Barry Lane unequipped Лом
+[11/01/2022 20:44:50]
+  Bertram Ordway unequipped Лом
+[11/01/2022 20:44:51]
+  Tanya Mansfield unequipped Отвертка
+[11/01/2022 20:44:51]
+  Sanda Newton unequipped Лом
+[11/01/2022 20:44:55]
+  Tanya Mansfield: ...а потом я говорю врачу: «Это не щупальце!»
+[11/01/2022 20:45:00]
+  Hector Ashley: Ну, ты даешь!
+[11/01/2022 20:45:02]
+  Erich Box: Приветствую. Надеюсь, проблем от вас не будет.
+[11/01/2022 20:45:12]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 20:45:32]
+  Hector Ashley unequipped Отвертка
+[11/01/2022 20:45:35]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 20:47:13]
+  Michele Chaney unequipped Отвертка
+[11/01/2022 20:47:27]
+  kynlan4ic purchased 2 item(s) for 191 кр.
+ - Бинт x3
+ - Галоперидол x1
+[11/01/2022 20:47:27]
+  igameCrog placed Морфин in Форма врача (ID: 2301)
+[11/01/2022 20:47:28]
+  igameCrog placed Бинт in Форма врача (ID: 2301)
+[11/01/2022 20:47:42]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 20:47:42]
+  kynlan4ic picked up Кислородный баллон
+[11/01/2022 20:47:46]
+  igameCrog removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 1518)
+[11/01/2022 20:47:54]
+  Bertram Ordway equipped Водолазный скафандр
+[11/01/2022 20:48:10]
+  Merrill Dollinger unequipped Отвертка
+[11/01/2022 20:48:39]
+  kynlan4ic purchased 2 item(s) for 282 кр.
+ - Топливный стержень x1
+ - Топливный бак сварочного аппарата x1
+[11/01/2022 20:48:45]
+  igameCrog closed Настраиваемая дверь
+[11/01/2022 20:48:48]
+  igameCrog opened Настраиваемая дверь
+[11/01/2022 20:48:55]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 20:48:55]
+  Ending the round...

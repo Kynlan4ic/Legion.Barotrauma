@@ -1,0 +1,47 @@
+﻿Barotrauma Dedicated Server crash report (generated on 11/01/2022 14:54:42)
+
+
+Barotrauma seems to have crashed. Sorry for the inconvenience! 
+
+
+Game version 0.19.14.0 (ReleaseWindows, branch release, revision 0daf5b87bd)
+Language: Russian
+Selected content packages: Vanilla, ATK-89 "Sardine", Project-705k Lyra
+Level seed: EQsd3oYu
+Loaded submarine: Sardine (95B549FBD0FCA410702C4731608951F2)
+Selected screen: Barotrauma.GameScreen
+Server (Round had started)
+
+
+System info:
+    Operating system: Microsoft Windows NT 10.0.19044.0 64 bit
+
+
+Exception: Object reference not set to an instance of an object. (System.NullReferenceException)
+Target site: Barotrauma.LocalizedString get_StartMessageServerText()
+Stack trace: 
+   at Barotrauma.Traitor.Objective.get_StartMessageServerText() in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\Objective.cs:line 67
+   at Barotrauma.Traitor.Greet(GameServer server, String codeWords, String codeResponse, MessageSender messageSender) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\Traitor.cs:line 33
+   at Barotrauma.Traitor.TraitorMission.Start(GameServer server, TraitorManager traitorManager, CharacterTeamType team) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\TraitorMission.cs:line 229
+   at Barotrauma.TraitorManager.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Traitors\TraitorManager.cs:line 176
+   at Barotrauma.Networking.GameServer.Update(Single deltaTime) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Networking\GameServer.cs:line 384
+   at Barotrauma.GameMain.Run() in <DEV>\Barotrauma\BarotraumaServer\ServerSource\GameMain.cs:line 329
+   at Barotrauma.Program.Main(String[] args) in <DEV>\Barotrauma\BarotraumaServer\ServerSource\Program.cs:line 78
+
+
+Last debug messages:
+   11/01/2022 14:54:42 - [11/01/2022 14:54:42]
+  Saving banlist
+   11/01/2022 14:54:42 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).
+   11/01/2022 14:54:41 - WARNING: Received character inputs from a client who's not controlling a character (kynlan4ic).

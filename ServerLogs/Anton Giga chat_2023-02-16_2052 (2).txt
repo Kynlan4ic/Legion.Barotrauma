@@ -1,0 +1,1600 @@
+﻿[02/16/2023 20:33:39]
+  Saving client permissions
+[02/16/2023 20:33:39]
+  Saving client permissions
+[02/16/2023 20:33:57]
+  Console command "enablecheats" executed by kynlan4ic.
+[02/16/2023 20:36:02]
+  kynlan4ic changed PlayStyle to Casual
+[02/16/2023 20:36:02]
+  kynlan4ic changed LosMode to Transparent
+[02/16/2023 20:36:02]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/16/2023 20:36:02]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/16/2023 20:36:02]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/16/2023 20:36:53]
+  Игрок Супостат499 присоединился к серверу.
+[02/16/2023 20:36:53]
+  Saving client permissions
+[02/16/2023 20:37:42]
+  Игрок igameCrog присоединился к серверу.
+[02/16/2023 20:37:42]
+  Saving client permissions
+[02/16/2023 20:38:19]
+  kynlan4ic is ready to start the game.
+[02/16/2023 20:38:20]
+  kynlan4ic is not ready to start the game.
+[02/16/2023 20:38:20]
+  kynlan4ic is ready to start the game.
+[02/16/2023 20:38:20]
+  kynlan4ic is not ready to start the game.
+[02/16/2023 20:38:20]
+  kynlan4ic is ready to start the game.
+[02/16/2023 20:38:21]
+  kynlan4ic is not ready to start the game.
+[02/16/2023 20:38:21]
+  kynlan4ic is ready to start the game.
+[02/16/2023 20:38:21]
+  kynlan4ic is not ready to start the game.
+[02/16/2023 20:38:21]
+  kynlan4ic is ready to start the game.
+[02/16/2023 20:38:21]
+  kynlan4ic is not ready to start the game.
+[02/16/2023 20:38:21]
+  kynlan4ic is ready to start the game.
+[02/16/2023 20:39:01]
+  Супостат499 is ready to start the game.
+[02/16/2023 20:39:02]
+  Client "kynlan4ic" started the round.
+[02/16/2023 20:39:02]
+  Starting a new round...
+[02/16/2023 20:39:19]
+  Миссия: Вредные грязевые рапторы
+[02/16/2023 20:39:19]
+  Поступили сообщения о стае грязевых рапторов, нападающих на суда на маршруте Исследовательский центр Milda - Укрепление Bramerton. Команда, которая их уничтожит, получит достойную награду в размере 1,500 кред.
+[02/16/2023 20:39:19]
+  Game mode: Миссия
+[02/16/2023 20:39:19]
+  Submarine: Wellerman
+[02/16/2023 20:39:19]
+  Level seed: lA7ofNbb
+[02/16/2023 20:39:19]
+  Mission: Вредные грязевые рапторы
+[02/16/2023 20:39:19]
+  Round started.
+[02/16/2023 20:39:19]
+  Trudy Cortese: Веди ее по морю, веди ее на дно...
+[02/16/2023 20:39:19]
+  Trudy Cortese: Веди ее туда, где рыбы спят давно!
+[02/16/2023 20:39:21]
+  Trudy Cortese: Загружаю в реактор дополнительное топливо!
+[02/16/2023 20:39:24]
+  Trudy Cortese: Проклятое давленье сотней острых игл...
+[02/16/2023 20:39:24]
+  Trudy Cortese equipped Топливный стержень
+[02/16/2023 20:39:26]
+  Trudy Cortese: Рвет тебя на части, как Акулий тигр!
+[02/16/2023 20:39:27]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:39:35]
+  kynlan4ic: Tyson Mooney, встань за орудия!
+[02/16/2023 20:39:36]
+  Tyson Mooney: Слушаюсь!
+[02/16/2023 20:39:38]
+  kynlan4ic picked up Дробовик
+[02/16/2023 20:39:45]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:39:46]
+  kynlan4ic picked up Бинт
+[02/16/2023 20:39:46]
+  kynlan4ic picked up Бинт
+[02/16/2023 20:39:50]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:40:04]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:40:32]
+  Супостат499 picked up Сварочный аппарат
+[02/16/2023 20:40:33]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 20:40:33]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 20:40:33]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 20:40:33]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 20:40:33]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 20:40:33]
+  Супостат499 picked up Топливный бак сварочного аппарата
+[02/16/2023 20:40:35]
+  Супостат499 picked up Лом
+[02/16/2023 20:40:48]
+  Супостат499 picked up Плазменный резак
+[02/16/2023 20:40:52]
+  Супостат499 picked up Подводная маска
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:57]
+  Супостат499 picked up Кислородный баллон
+[02/16/2023 20:40:58]
+  Console command "spawnitem fulguriumfuelrodcursor" executed by kynlan4ic.
+[02/16/2023 20:41:00]
+  Супостат499 placed Топливный стержень in Большой стальной шкаф (ID: 163)
+[02/16/2023 20:41:02]
+  Console command "spawnitem fulguriumfuelrodcursor" executed by kynlan4ic.
+[02/16/2023 20:41:10]
+  Супостат499 placed Лом in Большой стальной шкаф (ID: 163)
+[02/16/2023 20:41:11]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/16/2023 20:41:11]
+  Супостат499 picked up Закаленный лом
+[02/16/2023 20:41:13]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/16/2023 20:41:26]
+  kynlan4ic picked up Топливный стержень
+[02/16/2023 20:41:27]
+  kynlan4ic placed Грозовиевый топливный стержень in Ядерный реактор (ID: 119)
+[02/16/2023 20:41:29]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 142)
+[02/16/2023 20:42:18]
+  kynlan4ic: Tyson Mooney, займись оружием!
+[02/16/2023 20:42:19]
+  Tyson Mooney: У меня новая цель! Не могу понять, что это такое...
+[02/16/2023 20:42:19]
+  Tyson Mooney: Вас понял!
+[02/16/2023 20:42:20]
+  Tyson Mooney: Стреляю!
+[02/16/2023 20:42:20]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:42:21]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:21]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:21]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:21]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Outer wall breached by Tyson Mooney
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:22]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:23]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:25]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:29]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:42:29]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:30]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:30]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:30]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:30]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:31]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:31]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:42:31]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:31]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:42:31]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:31]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:31]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:32]
+  Tyson Mooney: Кажется, есть попадание!
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:32]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:33]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:33]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:33]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:33]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:33]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:33]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:34]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:34]
+  Tyson Mooney: Кажется, есть попадание!
+[02/16/2023 20:42:34]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:34]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:34]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:34]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:34]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:34]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:35]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:35]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:35]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:35]
+  Tyson Mooney: Цель уничтожена!
+[02/16/2023 20:42:36]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:36]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:36]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  kynlan4ic: Trudy Cortese, займись орудиями!
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:37]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Trudy Cortese: Принято.
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:38]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:39]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:40]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:40]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:40]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:40]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:40]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:40]
+  Tyson Mooney: Кажется, есть попадание!
+[02/16/2023 20:42:41]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:41]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:41]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:41]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:41]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:42]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:42]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:42]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:42]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:42]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:42]
+  Tyson Mooney: И-и-и-и... Готово!
+[02/16/2023 20:42:43]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:43]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:44]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:42:45]
+  Tyson Mooney: Враг уничтожен!
+[02/16/2023 20:42:56]
+  Супостат499 picked up Дробовик
+[02/16/2023 20:42:57]
+  Tyson Mooney: Стреляю!
+[02/16/2023 20:42:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:42:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Супостат499 picked up Полицейский шлем
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:01]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:43:01]
+  Tyson Mooney: Враг уничтожен!
+[02/16/2023 20:43:06]
+  kynlan4ic: Trudy Cortese, займись ремонтом поврежденных систем!
+[02/16/2023 20:43:07]
+  Trudy Cortese: Вас понял!
+[02/16/2023 20:43:09]
+  Супостат499 equipped Сварочный аппарат
+[02/16/2023 20:43:11]
+  kynlan4ic: Trudy Cortese, займись протечками!
+[02/16/2023 20:43:12]
+  Trudy Cortese: Вас понял!
+[02/16/2023 20:43:15]
+  Trudy Cortese equipped Сварочный аппарат
+[02/16/2023 20:43:16]
+  Trudy Cortese: Мне нужно подводное снаряжение!
+[02/16/2023 20:43:16]
+  kynlan4ic: Супостат499, займись ремонтом поврежденных систем!
+[02/16/2023 20:43:22]
+  kynlan4ic: Супостат499, займись протечками!
+[02/16/2023 20:43:30]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:43:30]
+  Trudy Cortese: Передний балласт: минус одна протечка!
+[02/16/2023 20:43:30]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:43:30]
+  Outer wall repaired by Супостат499
+[02/16/2023 20:43:39]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:43:42]
+  Tyson Mooney: У меня новая цель!
+[02/16/2023 20:43:42]
+  Tyson Mooney: Стреляю!
+[02/16/2023 20:43:43]
+  Outer wall breached by Crawlerhusk
+[02/16/2023 20:43:43]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:43:44]
+  Trudy Cortese: Багажный отсек: выполняю ремонт. Осталось несколько отверстий!
+[02/16/2023 20:43:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:44]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:47]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:47]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:48]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:48]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:48]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:48]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:48]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:49]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:49]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:49]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:49]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:49]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:50]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:51]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:51]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:51]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:43:51]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[02/16/2023 20:43:51]
+  Tyson Mooney: Враг уничтожен!
+[02/16/2023 20:43:55]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:43:56]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[02/16/2023 20:43:57]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:43:57]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[02/16/2023 20:43:57]
+  Trudy Cortese: Передний балласт: все протечки устранены!
+[02/16/2023 20:44:01]
+  Trudy Cortese unequipped Сварочный аппарат
+[02/16/2023 20:44:05]
+  Супостат499 equipped Гаечный ключ
+[02/16/2023 20:44:05]
+  Супостат499 equipped Отвертка
+[02/16/2023 20:44:26]
+  igameCrog picked up Каликсанид
+[02/16/2023 20:44:28]
+  igameCrog placed Каликсанид in Форма врача (ID: 4281)
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:37]
+  igameCrog picked up Бинт
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog picked up Морфин
+[02/16/2023 20:44:39]
+  igameCrog dropped Морфин
+[02/16/2023 20:44:39]
+  igameCrog placed Морфин in Аптечка (ID: 178)
+[02/16/2023 20:44:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:44:41]
+  Trudy Cortese equipped Водолазный скафандр
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:42]
+  igameCrog placed Морфин in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:43]
+  igameCrog placed Бинт in Форма врача (ID: 4281)
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:48]
+  igameCrog picked up Кислородный баллон
+[02/16/2023 20:44:52]
+  igameCrog picked up Подводная маска
+[02/16/2023 20:44:57]
+  igameCrog picked up Дементонитовый лом
+[02/16/2023 20:44:59]
+  igameCrog picked up Отвертка
+[02/16/2023 20:45:01]
+  igameCrog picked up Гаечный ключ
+[02/16/2023 20:45:27]
+  igameCrog equipped Отвертка
+[02/16/2023 20:45:53]
+  Tyson Mooney: Неизвестная цель обнаружена!
+[02/16/2023 20:45:53]
+  Tyson Mooney: Стреляю!
+[02/16/2023 20:45:54]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:54]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:54]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:54]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:54]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:55]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[02/16/2023 20:45:55]
+  Tyson Mooney: Цель уничтожена!
+[02/16/2023 20:45:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  igameCrog equipped Медконтейнер
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:45:59]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[02/16/2023 20:45:59]
+  Tyson Mooney: Враг уничтожен!
+[02/16/2023 20:46:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:00]
+  Trudy Cortese equipped Отвертка
+[02/16/2023 20:46:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:01]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:02]
+  igameCrog picked up Серная кислота
+[02/16/2023 20:46:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:46:02]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[02/16/2023 20:46:02]
+  Информация о миссии: Цель уничтожена - Грязевые рапторы уничтожены. Выведите подлодку из пещеры, чтобы получить награду.
+[02/16/2023 20:46:02]
+  Tyson Mooney: Кажется, есть попадание!
+[02/16/2023 20:46:03]
+  igameCrog dropped Медконтейнер
+[02/16/2023 20:46:03]
+  Trudy Cortese started repairing Кабельная коробка
+[02/16/2023 20:46:04]
+  igameCrog equipped Ящик с химикатами
+[02/16/2023 20:46:06]
+  igameCrog picked up Этанол
+[02/16/2023 20:46:06]
+  igameCrog picked up Этанол
+[02/16/2023 20:46:06]
+  Trudy Cortese unequipped Отвертка
+[02/16/2023 20:46:08]
+  igameCrog placed Ящик с химикатами in Стеллаж для ящиков (ID: 46)
+[02/16/2023 20:46:11]
+  igameCrog placed Медконтейнер in Стеллаж для ящиков (ID: 46)
+[02/16/2023 20:46:30]
+  Trudy Cortese equipped Гаечный ключ
+[02/16/2023 20:46:35]
+  Trudy Cortese started repairing Генератор кислорода челнока
+[02/16/2023 20:46:41]
+  Trudy Cortese: Цель зафиксирована: ледяной шпиль!
+[02/16/2023 20:46:41]
+  Trudy Cortese unequipped Гаечный ключ
+[02/16/2023 20:46:42]
+  Trudy Cortese: Стреляю!
+[02/16/2023 20:46:42]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:46:42]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:46:42]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:46:42]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:46:46]
+  Trudy Cortese equipped Сварочный аппарат
+[02/16/2023 20:46:46]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:46:46]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:46:46]
+  Trudy Cortese: Пункт управления: все протечки устранены!
+[02/16/2023 20:46:49]
+  Trudy Cortese unequipped Сварочный аппарат
+[02/16/2023 20:46:55]
+  Супостат499 placed Подводная маска in Большой стальной шкаф (ID: 163)
+[02/16/2023 20:47:01]
+  Outer wall repaired by Супостат499
+[02/16/2023 20:47:11]
+  igameCrog picked up Детонатор
+[02/16/2023 20:47:19]
+  Trudy Cortese: Огонь!
+[02/16/2023 20:47:19]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:19]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:20]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:20]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:20]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:21]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:21]
+  Trudy Cortese launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:24]
+  Trudy Cortese equipped Отвертка
+[02/16/2023 20:47:25]
+  Trudy Cortese started repairing Монитор состояния
+[02/16/2023 20:47:27]
+  igameCrog used item Этанол
+[02/16/2023 20:47:28]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:47:30]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:30]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:30]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:31]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:31]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:31]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:31]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:32]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:32]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:47:33]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:33]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:33]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:34]
+  Trudy Cortese: Надо найти водолазный скафандр!
+[02/16/2023 20:47:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:35]
+  Trudy Cortese unequipped Отвертка
+[02/16/2023 20:47:35]
+  Trudy Cortese equipped Сварочный аппарат
+[02/16/2023 20:47:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:35]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:35]
+  Spineling attacked by kynlan4ic. Рваная рана: 30.0 Кровотечение: 2.0
+[02/16/2023 20:47:35]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:35]
+  Spineling attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:36]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:36]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:37]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:37]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:47:37]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:37]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:37]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5
+[02/16/2023 20:47:37]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:38]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:38]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/16/2023 20:47:38]
+  Spineling_giant attacked by kynlan4ic. Рваная рана: 15.0 Кровотечение: 1.0
+[02/16/2023 20:47:39]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:39]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:40]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:41]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:42]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:42]
+  Tyson Mooney: Мне нужно подводное снаряжение!
+[02/16/2023 20:47:43]
+  Outer wall repaired by Супостат499
+[02/16/2023 20:47:46]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:47]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:48]
+  Inner wall repaired by Супостат499
+[02/16/2023 20:47:48]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:48]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:50]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:51]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:52]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:53]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:54]
+  igameCrog picked up Водолазный скафандр
+[02/16/2023 20:47:56]
+  Inner wall breached by Spineling_giant
+[02/16/2023 20:47:56]
+  Inner wall breached by Spineling
+[02/16/2023 20:47:58]
+  Outer wall repaired by Супостат499
+[02/16/2023 20:47:59]
+  Outer wall breached by Spineling
+[02/16/2023 20:47:59]
+  Outer wall breached by Spineling
+[02/16/2023 20:48:00]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:01]
+  kynlan4ic has died (Cause of death: Рваная рана)
+[02/16/2023 20:48:04]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:04]
+  Супостат499 picked up Подводная маска
+[02/16/2023 20:48:05]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:48:09]
+  Outer wall breached by Spineling
+[02/16/2023 20:48:09]
+  Outer wall breached by Spineling
+[02/16/2023 20:48:12]
+  Inner wall breached by Spineling_giant
+[02/16/2023 20:48:15]
+  Супостат499 has died (Cause of death: Баротравма)
+[02/16/2023 20:48:15]
+  Tyson Mooney: У меня кровь!
+[02/16/2023 20:48:21]
+  Tyson Mooney: Стреляю!
+[02/16/2023 20:48:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:24]
+  igameCrog equipped Кислородный баллон
+[02/16/2023 20:48:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:24]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:26]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:27]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:28]
+  Spineling has died (Cause of death: Рваная рана)
+[02/16/2023 20:48:28]
+  Tyson Mooney: Враг уничтожен!
+[02/16/2023 20:48:29]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:29]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/16/2023 20:48:30]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/16/2023 20:48:30]
+  Console command "spawnitem fulguriumfuelrod cursor" executed by kynlan4ic.
+[02/16/2023 20:48:33]
+  igameCrog picked up Пояс инструментов
+[02/16/2023 20:48:33]
+  Outer wall breached by Spineling
+[02/16/2023 20:48:37]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 4275)
+[02/16/2023 20:48:39]
+  Outer wall breached by Spineling
+[02/16/2023 20:48:39]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:41]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:48:42]
+  Trudy Cortese: У меня кровь!
+[02/16/2023 20:48:42]
+  Inner wall repaired by Trudy Cortese
+[02/16/2023 20:48:42]
+  igameCrog placed Этанол in Пояс инструментов (ID: 4275)
+[02/16/2023 20:48:43]
+  igameCrog placed Детонатор in Пояс инструментов (ID: 4275)
+[02/16/2023 20:48:49]
+  Tyson Mooney: Помогите, я истекаю кровью!
+[02/16/2023 20:48:49]
+  Outer wall breached by Spineling
+[02/16/2023 20:48:52]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:48:53]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:54]
+  Tyson Mooney: Стреляю!
+[02/16/2023 20:48:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:55]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:56]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:57]
+  Inner wall breached by Spineling
+[02/16/2023 20:48:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:57]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:58]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:48:59]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:48:59]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:00]
+  Trudy Cortese: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[02/16/2023 20:49:00]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:01]
+  Spineling_giant has died (Cause of death: Рваная рана)
+[02/16/2023 20:49:01]
+  Tyson Mooney: Цель уничтожена!
+[02/16/2023 20:49:01]
+  Dispatching the respawn shuttle.
+[02/16/2023 20:49:01]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[02/16/2023 20:49:01]
+  Respawning Супостат499 (STEAM_1:0:500890532) as Инженер
+[02/16/2023 20:49:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:02]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:03]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:03]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:03]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:03]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:49:04]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:49:06]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:06]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:06]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:07]
+  igameCrog picked up Сварочный аппарат
+[02/16/2023 20:49:08]
+  kynlan4ic picked up Подводный скутер
+[02/16/2023 20:49:08]
+  kynlan4ic picked up Плазменный резак
+[02/16/2023 20:49:08]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:09]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:09]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:09]
+  igameCrog equipped Сварочный аппарат
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:49:09]
+  Inner wall breached by Spineling
+[02/16/2023 20:49:10]
+  kynlan4ic picked up Аккумулятор
+[02/16/2023 20:49:10]
+  kynlan4ic picked up Аккумулятор
+[02/16/2023 20:49:10]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:10]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:10]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:10]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:11]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:11]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:11]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:49:11]
+  Tyson Mooney launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/16/2023 20:49:11]
+  Trudy Cortese: Моторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[02/16/2023 20:49:13]
+  Outer wall repaired by Trudy Cortese
+[02/16/2023 20:49:13]
+  kynlan4ic removed Одноразовый водолазный скафандр from Шкаф для подводного снаряжения (ID: 3892)
+[02/16/2023 20:49:15]
+  Trudy Cortese: Я теряю много крови!
+[02/16/2023 20:49:16]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[02/16/2023 20:49:20]
+  Tyson Mooney: Помогите, я истекаю кровью!
+[02/16/2023 20:49:21]
+  Inner wall breached by Spineling
+[02/16/2023 20:49:23]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:27]
+  Супостат499 picked up Подводная маска
+[02/16/2023 20:49:29]
+  Супостат499 picked up Закаленный лом
+[02/16/2023 20:49:30]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:31]
+  Супостат499 placed Топливный стержень in Средний стальной шкаф с окном (ID: 3389)
+[02/16/2023 20:49:33]
+  Outer wall repaired by igameCrog
+[02/16/2023 20:49:34]
+  Супостат499 picked up Плазменный резак
+[02/16/2023 20:49:37]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:38]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:49:41]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:43]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:47]
+  Inner wall breached by Spineling
+[02/16/2023 20:49:47]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:48]
+  Outer wall repaired by igameCrog
+[02/16/2023 20:49:49]
+  Inner wall breached by Spineling
+[02/16/2023 20:49:49]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:49:51]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:51]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:51]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:53]
+  Tyson Mooney: Я теряю много крови!
+[02/16/2023 20:49:54]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:54]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:54]
+  Outer wall breached by Spineling
+[02/16/2023 20:49:55]
+  Inner wall breached by Spineling
+[02/16/2023 20:49:56]
+  Outer wall repaired by igameCrog
+[02/16/2023 20:49:59]
+  Inner wall repaired by igameCrog
+[02/16/2023 20:50:00]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:00]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:01]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:50:01]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:50:01]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:50:01]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:02]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:02]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:03]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:03]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:06]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:06]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:50:06]
+  Inner wall breached by Spineling_giant
+[02/16/2023 20:50:06]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:07]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:08]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:08]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:08]
+  igameCrog equipped Дементонитовый лом
+[02/16/2023 20:50:08]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:08]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:11]
+  kynlan4ic has died (Cause of death: Рваная рана)
+[02/16/2023 20:50:12]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:12]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:12]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:12]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:12]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:12]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:14]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:15]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:15]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:15]
+  igameCrog equipped Гаечный ключ
+[02/16/2023 20:50:16]
+  Outer wall breached by Spineling_giant
+[02/16/2023 20:50:17]
+  Trudy Cortese has died (Cause of death: Кровопотеря)
+[02/16/2023 20:50:17]
+  igameCrog started repairing Настраиваемая дверь
+[02/16/2023 20:50:20]
+  Супостат499 has died (Cause of death: Баротравма)
+[02/16/2023 20:50:21]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:21]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:21]
+  The respawn shuttle is leaving.
+[02/16/2023 20:50:24]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:25]
+  Inner wall breached by Spineling
+[02/16/2023 20:50:26]
+  Tyson Mooney: Я теряю много крови!
+[02/16/2023 20:50:27]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:27]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:33]
+  Tyson Mooney: Суперконденсатор сломался!
+[02/16/2023 20:50:34]
+  igameCrog started repairing Настраиваемая дверь
+[02/16/2023 20:50:39]
+  igameCrog started repairing Дверь с кнопками
+[02/16/2023 20:50:39]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:41]
+  Outer wall breached by Spineling
+[02/16/2023 20:50:53]
+  The respawn shuttle has left.
+[02/16/2023 20:50:58]
+  Tyson Mooney: Помогите, я истекаю кровью!
+[02/16/2023 20:51:03]
+  Tyson Mooney: Суперконденсатор поврежден!
+[02/16/2023 20:51:13]
+  igameCrog started repairing Настраиваемый люк
+[02/16/2023 20:51:29]
+  Tyson Mooney: У меня кровь!
+[02/16/2023 20:51:33]
+  Tyson Mooney: Суперконденсатор сломался!
+[02/16/2023 20:51:37]
+  Игрок Deathfreak05 присоединился к серверу.
+[02/16/2023 20:51:37]
+  Saving client permissions
+[02/16/2023 20:51:54]
+  Dispatching the respawn shuttle.
+[02/16/2023 20:51:54]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[02/16/2023 20:51:54]
+  Respawning Супостат499 (STEAM_1:0:500890532) as Инженер
+[02/16/2023 20:51:54]
+  Respawning bot Trudy Cortese as Помощник
+[02/16/2023 20:51:55]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:51:56]
+  Супостат499 set the value "Channel" of the item "Наушники" to "0".
+[02/16/2023 20:51:56]
+  kynlan4ic: Tyson Mooney, спасибо за помощь с пушками!
+[02/16/2023 20:52:01]
+  Tyson Mooney: Помогите, я истекаю кровью!
+[02/16/2023 20:52:04]
+  kynlan4ic: Trudy Cortese, займись орудиями!
+[02/16/2023 20:52:04]
+  Trudy Cortese: Надо найти водолазный скафандр!
+[02/16/2023 20:52:05]
+  Trudy Cortese: Слушаюсь!
+[02/16/2023 20:52:05]
+  Tyson Mooney equipped Морфин
+[02/16/2023 20:52:05]
+  kynlan4ic: Trudy Cortese, спасибо за работу с оружием!
+[02/16/2023 20:52:09]
+  kynlan4ic: Tyson Mooney, встань за орудия!
+[02/16/2023 20:52:09]
+  Tyson Mooney: Суперконденсатор сломался!
+[02/16/2023 20:52:10]
+  Tyson Mooney: Слушаюсь!
+[02/16/2023 20:52:10]
+  Супостат499 picked up Плазменный резак
+[02/16/2023 20:52:12]
+  Супостат499 placed Топливный стержень in Средний стальной шкаф с окном (ID: 3389)
+[02/16/2023 20:52:14]
+  kynlan4ic picked up Топливный стержень
+[02/16/2023 20:52:14]
+  Супостат499 picked up Закаленный лом
+[02/16/2023 20:52:15]
+  kynlan4ic picked up Подводная маска
+[02/16/2023 20:52:16]
+  Супостат499 picked up Подводная маска
+[02/16/2023 20:52:16]
+  kynlan4ic picked up Подводный скутер
+[02/16/2023 20:52:17]
+  kynlan4ic picked up Аккумулятор
+[02/16/2023 20:52:17]
+  kynlan4ic picked up Аккумулятор
+[02/16/2023 20:52:17]
+  kynlan4ic picked up Аккумулятор
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:18]
+  kynlan4ic picked up Кислородный баллон
+[02/16/2023 20:52:21]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[02/16/2023 20:52:21]
+  Outer wall breached by Spineling
+[02/16/2023 20:52:22]
+  Outer wall breached by Spineling
+[02/16/2023 20:52:22]
+  Outer wall breached by Spineling
+[02/16/2023 20:52:24]
+  Inner wall breached by Spineling
+[02/16/2023 20:52:24]
+  Outer wall breached by Spineling
+[02/16/2023 20:52:27]
+  igameCrog has died (Cause of death: Кровопотеря)
+[02/16/2023 20:52:27]
+  Outer wall breached by Spineling
+[02/16/2023 20:52:30]
+  Супостат499 picked up Одноразовый водолазный скафандр
+[02/16/2023 20:52:30]
+  Супостат499 equipped Одноразовый водолазный скафандр
+[02/16/2023 20:52:32]
+  Outer wall breached by Spineling
+[02/16/2023 20:52:32]
+  Inner wall breached by Spineling
+[02/16/2023 20:52:35]
+  Tyson Mooney: У меня кровь!

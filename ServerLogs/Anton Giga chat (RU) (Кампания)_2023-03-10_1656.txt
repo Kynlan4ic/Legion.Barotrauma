@@ -1,0 +1,1600 @@
+﻿[03/10/2023 16:17:11]
+  Saving client permissions
+[03/10/2023 16:17:11]
+  Saving client permissions
+[03/10/2023 16:17:14]
+  Gamemode changed to Кампания
+[03/10/2023 16:19:23]
+  Игрок vlad32 присоединился к серверу.
+[03/10/2023 16:19:23]
+  Saving client permissions
+[03/10/2023 16:20:36]
+  kynlan4ic changed PlayStyle to Serious
+[03/10/2023 16:20:36]
+  kynlan4ic changed LosMode to Transparent
+[03/10/2023 16:20:36]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/10/2023 16:20:36]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/10/2023 16:20:36]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/10/2023 16:20:36]
+  kynlan4ic is ready to start the game.
+[03/10/2023 16:20:44]
+  vlad32 is ready to start the game.
+[03/10/2023 16:20:49]
+  Starting a new round...
+[03/10/2023 16:20:49]
+  kynlan4ic is not ready to start the game.
+[03/10/2023 16:20:52]
+  vlad32 is not ready to start the game.
+[03/10/2023 16:21:42]
+  Sonny Vaughn equipped Отвертка
+[03/10/2023 16:21:42]
+  Kenna Parks equipped Отвертка
+[03/10/2023 16:21:42]
+  Amee Stalvey equipped Remington Mod9-17
+[03/10/2023 16:21:42]
+  Миссия: Outpost Recovery
+[03/10/2023 16:21:42]
+  Contact with this outpost was recently lost, and it's suspected to have been taken over by someone. Destroy the outpost's reactor to drive away any squatters and ensure they don't return.
+[03/10/2023 16:21:42]
+  Game mode: Кампания
+[03/10/2023 16:21:42]
+  Submarine: Dugong
+[03/10/2023 16:21:42]
+  Level seed: Seosu
+[03/10/2023 16:21:42]
+  Mission: Outpost Recovery
+[03/10/2023 16:21:42]
+  Round started.
+[03/10/2023 16:21:43]
+  Kenna Parks unequipped Отвертка
+[03/10/2023 16:21:43]
+  Sonny Vaughn unequipped Отвертка
+[03/10/2023 16:21:43]
+  Darrin James: У меня новая цель!
+[03/10/2023 16:21:43]
+  Amee Stalvey: Вам не следовало сюда являться!
+[03/10/2023 16:21:51]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:21:53]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:22:04]
+  kynlan4ic picked up Водолазный скафандр
+[03/10/2023 16:22:05]
+  vlad32 picked up Водолазный скафандр
+[03/10/2023 16:22:06]
+  vlad32 equipped P-8 Pilot
+[03/10/2023 16:22:07]
+  Darwin Brady equipped Нож ныряльщика
+[03/10/2023 16:22:09]
+  Arron Gregory: Слыхал, что было на скачках рапторов в прошлые выходные?
+[03/10/2023 16:22:10]
+  vlad32 picked up Аккумулятор
+[03/10/2023 16:22:11]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 412)
+[03/10/2023 16:22:11]
+  vlad32 dropped Шоковая дубинка
+[03/10/2023 16:22:19]
+  kynlan4ic placed Форма спецназа in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:22:19]
+  kynlan4ic removed Renegade Combat Undershirt from Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:22:19]
+  kynlan4ic picked up Renegade Combat Undershirt
+[03/10/2023 16:22:25]
+  kynlan4ic equipped P-8 Pilot
+[03/10/2023 16:22:27]
+  Darwin Brady equipped Шоковая дубинка
+[03/10/2023 16:22:27]
+  kynlan4ic placed P-8 Pilot in Средний стальной шкаф с окном (ID: 131)
+[03/10/2023 16:22:27]
+  kynlan4ic removed Фонарик from Средний стальной шкаф с окном (ID: 131)
+[03/10/2023 16:22:27]
+  kynlan4ic picked up Фонарик
+[03/10/2023 16:22:29]
+  kynlan4ic picked up P-8 Pilot
+[03/10/2023 16:22:34]
+  kynlan4ic placed Фонарик in Средний стальной шкаф с окном (ID: 131)
+[03/10/2023 16:23:03]
+  Joy Case attacked by kynlan4ic. Кровотечение: 47.3 Огнестрельная рана: 37.8
+[03/10/2023 16:23:03]
+  Joy Case equipped M3 Double-Barrel
+[03/10/2023 16:23:03]
+  Joy Case attacked by kynlan4ic. Кровотечение: 41.0 Огнестрельная рана: 62.8
+[03/10/2023 16:23:14]
+  vlad32 picked up M3 Double-Barrel
+[03/10/2023 16:23:16]
+  vlad32 picked up Патрон для дробовика
+[03/10/2023 16:23:16]
+  vlad32 picked up Патрон для дробовика
+[03/10/2023 16:23:16]
+  vlad32 picked up Патрон для дробовика
+[03/10/2023 16:23:16]
+  vlad32 picked up Патрон для дробовика
+[03/10/2023 16:23:18]
+  vlad32 equipped Аккумулятор
+[03/10/2023 16:23:25]
+  vlad32 picked up Balaklava
+[03/10/2023 16:23:27]
+  Joy Case has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:23:29]
+  vlad32 equipped Аккумулятор
+[03/10/2023 16:23:29]
+  vlad32 equipped M3 Double-Barrel
+[03/10/2023 16:23:36]
+  vlad32 picked up M4-29 Assault rifle
+[03/10/2023 16:23:37]
+  kynlan4ic picked up Marine SMG
+[03/10/2023 16:23:39]
+  kynlan4ic equipped Marine SMG
+[03/10/2023 16:23:39]
+  vlad32 equipped M4-29 Assault rifle
+[03/10/2023 16:23:42]
+  vlad32 picked up FNE Compact
+[03/10/2023 16:23:44]
+  kynlan4ic picked up Удостоверение личности
+[03/10/2023 16:23:51]
+  kynlan4ic picked up Автоматический пистолет
+[03/10/2023 16:23:53]
+  vlad32 equipped FNE Compact
+[03/10/2023 16:23:57]
+  kynlan4ic placed .38 magazine in Пояс инструментов (ID: 5979)
+[03/10/2023 16:23:57]
+  vlad32 picked up M24 Colt Broadsword
+[03/10/2023 16:24:00]
+  kynlan4ic dropped Удостоверение личности
+[03/10/2023 16:24:14]
+  Sonny Vaughn equipped M18 Colt Europan
+[03/10/2023 16:24:15]
+  Siena Rowe equipped MP-22K
+[03/10/2023 16:24:16]
+  kynlan4ic equipped Нож ныряльщика
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 2.5 Кровотечение: 3.0
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.9
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.9
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 4.5 Кровотечение: 5.9
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 2.5 Кровотечение: 3.0
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 5.6 Кровотечение: 6.9
+[03/10/2023 16:24:18]
+  Siena Rowe attacked by vlad32. Огнестрельная рана: 5.6 Кровотечение: 6.9
+[03/10/2023 16:24:18]
+  Siena Rowe unequipped MP-22K
+[03/10/2023 16:24:18]
+  Siena Rowe equipped MP-22K
+[03/10/2023 16:24:20]
+  Sonny Vaughn unequipped M18 Colt Europan
+[03/10/2023 16:24:20]
+  Sonny Vaughn equipped M18 Colt Europan
+[03/10/2023 16:24:20]
+  Siena Rowe unequipped MP-22K
+[03/10/2023 16:24:21]
+  Sonny Vaughn unequipped M18 Colt Europan
+[03/10/2023 16:24:24]
+  Ending round (no living players left)
+[03/10/2023 16:24:24]
+  Ending the round...
+[03/10/2023 16:24:24]
+  Round ended.
+[03/10/2023 16:24:34]
+  Starting a new round...
+[03/10/2023 16:24:55]
+  Amira McLeroy equipped Отвертка
+[03/10/2023 16:24:55]
+  Rosina Meisner equipped Отвертка
+[03/10/2023 16:24:55]
+  Reginald Gallagher equipped Remington Mod9-17
+[03/10/2023 16:24:55]
+  Миссия: Outpost Recovery
+[03/10/2023 16:24:55]
+  Contact with this outpost was recently lost, and it's suspected to have been taken over by someone. Destroy the outpost's reactor to drive away any squatters and ensure they don't return.
+[03/10/2023 16:24:55]
+  Game mode: Кампания
+[03/10/2023 16:24:55]
+  Submarine: Dugong
+[03/10/2023 16:24:55]
+  Level seed: Seosu
+[03/10/2023 16:24:55]
+  Mission: Outpost Recovery
+[03/10/2023 16:24:55]
+  Round started.
+[03/10/2023 16:24:55]
+  Rosina Meisner unequipped Отвертка
+[03/10/2023 16:24:55]
+  Amira McLeroy unequipped Отвертка
+[03/10/2023 16:24:55]
+  Darrin James: Новая цель обнаружена!
+[03/10/2023 16:24:55]
+  Arron Gregory equipped Лом
+[03/10/2023 16:25:02]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:25:06]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:25:08]
+  kynlan4ic placed Форма спецназа in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:25:08]
+  kynlan4ic removed Renegade Combat Undershirt from Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:25:08]
+  kynlan4ic picked up Renegade Combat Undershirt
+[03/10/2023 16:25:10]
+  vlad32 picked up Водолазный скафандр
+[03/10/2023 16:25:10]
+  kynlan4ic picked up Flare Gun
+[03/10/2023 16:25:11]
+  kynlan4ic placed Flare Cartridge in Flare Gun (ID: 1080)
+[03/10/2023 16:25:12]
+  vlad32 equipped Шоковая дубинка
+[03/10/2023 16:25:25]
+  kynlan4ic equipped P-8 Pilot
+[03/10/2023 16:25:33]
+  Arron Gregory: Интересно, кто первым догадался использовать отвертку как заточку?
+[03/10/2023 16:25:37]
+  vlad32 equipped P-8 Pilot
+[03/10/2023 16:25:40]
+  Rosina Tyson equipped M3 Double-Barrel
+[03/10/2023 16:25:42]
+  Rosina Tyson unequipped M3 Double-Barrel
+[03/10/2023 16:25:53]
+  Rosina Tyson equipped M3 Double-Barrel
+[03/10/2023 16:25:54]
+  Rosina Tyson attacked by vlad32. Кровотечение: 37.8 Огнестрельная рана: 30.2
+[03/10/2023 16:25:54]
+  Rosina Tyson attacked by vlad32. Кровотечение: 37.8 Огнестрельная рана: 34.0
+[03/10/2023 16:25:55]
+  Rosina Tyson attacked by vlad32. Кровотечение: 44.1 Огнестрельная рана: 37.8
+[03/10/2023 16:25:56]
+  Rosina Tyson unequipped M3 Double-Barrel
+[03/10/2023 16:25:56]
+  Rosina Tyson equipped Нож ныряльщика
+[03/10/2023 16:26:00]
+  Rosina Tyson attacked by vlad32. Кровотечение: 47.3 Огнестрельная рана: 37.8
+[03/10/2023 16:26:00]
+  kynlan4ic attacked by vlad32. Кровотечение: 26.0 Огнестрельная рана: 25.9
+[03/10/2023 16:26:01]
+  Rosina Tyson attacked by vlad32. Кровотечение: 44.1 Огнестрельная рана: 37.8
+[03/10/2023 16:26:08]
+  kynlan4ic has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:26:09]
+  vlad32 picked up Патрон для дробовика
+[03/10/2023 16:26:10]
+  Rosina Tyson has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:26:10]
+  vlad32 picked up M3 Double-Barrel
+[03/10/2023 16:26:40]
+  Ending round (no living players left)
+[03/10/2023 16:26:40]
+  Ending the round...
+[03/10/2023 16:26:40]
+  Round ended.
+[03/10/2023 16:26:49]
+  Starting a new round...
+[03/10/2023 16:27:07]
+  Amee Klein equipped Отвертка
+[03/10/2023 16:27:07]
+  Jenine Hurley equipped Отвертка
+[03/10/2023 16:27:07]
+  Santiago Aker equipped Remington Mod9-17
+[03/10/2023 16:27:07]
+  Миссия: Outpost Recovery
+[03/10/2023 16:27:07]
+  Contact with this outpost was recently lost, and it's suspected to have been taken over by someone. Destroy the outpost's reactor to drive away any squatters and ensure they don't return.
+[03/10/2023 16:27:07]
+  Game mode: Кампания
+[03/10/2023 16:27:07]
+  Submarine: Dugong
+[03/10/2023 16:27:07]
+  Level seed: Seosu
+[03/10/2023 16:27:07]
+  Mission: Outpost Recovery
+[03/10/2023 16:27:07]
+  Round started.
+[03/10/2023 16:27:07]
+  Amee Klein unequipped Отвертка
+[03/10/2023 16:27:07]
+  Jenine Hurley unequipped Отвертка
+[03/10/2023 16:27:07]
+  Darrin James: Новая цель обнаружена!
+[03/10/2023 16:27:10]
+  Darwin Brady equipped Нож ныряльщика
+[03/10/2023 16:27:13]
+  kynlan4ic equipped P-8 Pilot
+[03/10/2023 16:27:14]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:27:14]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[03/10/2023 16:27:14]
+  vlad32 attacked by kynlan4ic. Кровотечение: 41.0 Огнестрельная рана: 66.1
+[03/10/2023 16:27:26]
+  vlad32 has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:27:26]
+  vlad32 attacked by kynlan4ic. Кровотечение: 41.0 Огнестрельная рана: 66.1
+[03/10/2023 16:27:38]
+  kynlan4ic has died (Cause of death: Баротравма)
+[03/10/2023 16:27:42]
+  Ending round (no living players left)
+[03/10/2023 16:27:42]
+  Ending the round...
+[03/10/2023 16:27:42]
+  Round ended.
+[03/10/2023 16:28:21]
+  kynlan4ic changed PlayStyle to Serious
+[03/10/2023 16:28:21]
+  kynlan4ic changed LosMode to Transparent
+[03/10/2023 16:28:21]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/10/2023 16:28:21]
+  kynlan4ic changed AllowRewiring to True
+[03/10/2023 16:28:21]
+  kynlan4ic changed AllowFriendlyFire to False
+[03/10/2023 16:28:21]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/10/2023 16:28:21]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/10/2023 16:28:58]
+  kynlan4ic changed PlayStyle to Serious
+[03/10/2023 16:28:58]
+  kynlan4ic changed LosMode to Transparent
+[03/10/2023 16:28:58]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[03/10/2023 16:28:58]
+  kynlan4ic changed SubSelectionMode to Manual
+[03/10/2023 16:28:58]
+  kynlan4ic changed ModeSelectionMode to Manual
+[03/10/2023 16:29:23]
+  kynlan4ic is ready to start the game.
+[03/10/2023 16:29:25]
+  Starting a new round...
+[03/10/2023 16:29:25]
+  kynlan4ic is not ready to start the game.
+[03/10/2023 16:29:43]
+  Tera Gallardo equipped Отвертка
+[03/10/2023 16:29:43]
+  Bell Jack equipped Отвертка
+[03/10/2023 16:29:43]
+  Austin Sparks equipped Remington Mod9-17
+[03/10/2023 16:29:43]
+  Миссия: Outpost Recovery
+[03/10/2023 16:29:43]
+  Contact with this outpost was recently lost, and it's suspected to have been taken over by someone. Destroy the outpost's reactor to drive away any squatters and ensure they don't return.
+[03/10/2023 16:29:43]
+  Game mode: Кампания
+[03/10/2023 16:29:43]
+  Submarine: Dugong
+[03/10/2023 16:29:43]
+  Level seed: Seosu
+[03/10/2023 16:29:43]
+  Mission: Outpost Recovery
+[03/10/2023 16:29:43]
+  Round started.
+[03/10/2023 16:29:43]
+  Bell Jack unequipped Отвертка
+[03/10/2023 16:29:43]
+  Tera Gallardo unequipped Отвертка
+[03/10/2023 16:29:43]
+  Darrin James: У меня новая цель!
+[03/10/2023 16:29:44]
+  Arron Gregory equipped Отвертка
+[03/10/2023 16:29:50]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:29:56]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:30:02]
+  kynlan4ic placed Форма спецназа in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:30:02]
+  kynlan4ic removed Renegade Combat Undershirt from Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:30:02]
+  kynlan4ic picked up Renegade Combat Undershirt
+[03/10/2023 16:30:03]
+  kynlan4ic placed Flare Cartridge in Flare Gun (ID: 1080)
+[03/10/2023 16:30:05]
+  kynlan4ic picked up Flare Gun
+[03/10/2023 16:30:07]
+  vlad32 placed Аккумулятор in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:30:09]
+  vlad32 placed Наручники in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:30:21]
+  vlad32 picked up Бронежилет
+[03/10/2023 16:30:22]
+  vlad32 equipped P-8 Pilot
+[03/10/2023 16:30:32]
+  kynlan4ic equipped P-8 Pilot
+[03/10/2023 16:30:39]
+  vlad32 equipped Нож ныряльщика
+[03/10/2023 16:30:39]
+  Arron Gregory: Наш предыдущий капитан иногда заставлял нас выполнять маневр под названием «нырок камикадзе».
+[03/10/2023 16:30:40]
+  kynlan4ic attacked by vlad32.
+[03/10/2023 16:30:40]
+  vlad32 used Нож ныряльщика on kynlan4ic.
+[03/10/2023 16:30:44]
+  Arron Gregory: Он говорил, что для смелых все – балласт.
+[03/10/2023 16:30:48]
+  Arron Gregory: Жаль, что его больше нет с нами. Пожалуй, он все же был слишком смелым.
+[03/10/2023 16:30:58]
+  Tisha Lyons equipped M3 Double-Barrel
+[03/10/2023 16:31:00]
+  vlad32 attacked by kynlan4ic.
+[03/10/2023 16:31:01]
+  Tisha Lyons attacked by kynlan4ic. Кровотечение: 47.3 Огнестрельная рана: 37.8
+[03/10/2023 16:31:01]
+  Tisha Lyons: Вторжение!
+[03/10/2023 16:31:01]
+  Tisha Lyons attacked by vlad32. Кровотечение: 37.8 Огнестрельная рана: 34.0
+[03/10/2023 16:31:01]
+  Tisha Lyons attacked by vlad32. Кровотечение: 37.8 Огнестрельная рана: 34.0
+[03/10/2023 16:31:02]
+  Tisha Lyons attacked by vlad32. Кровотечение: 37.8 Огнестрельная рана: 30.2
+[03/10/2023 16:31:03]
+  Tisha Lyons attacked by vlad32. Кровотечение: 25.2 Огнестрельная рана: 22.7
+[03/10/2023 16:31:04]
+  Tisha Lyons attacked by vlad32. Кровотечение: 44.1 Огнестрельная рана: 37.8
+[03/10/2023 16:31:07]
+  kynlan4ic picked up M3 Double-Barrel
+[03/10/2023 16:31:09]
+  kynlan4ic picked up Патрон для дробовика
+[03/10/2023 16:31:09]
+  kynlan4ic picked up Патрон для дробовика
+[03/10/2023 16:31:09]
+  kynlan4ic picked up Патрон для дробовика
+[03/10/2023 16:31:09]
+  Tisha Lyons has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:31:10]
+  vlad32 picked up M4-29 Assault rifle
+[03/10/2023 16:31:12]
+  vlad32 picked up Marine SMG
+[03/10/2023 16:31:13]
+  vlad32 picked up FNE Compact
+[03/10/2023 16:31:16]
+  kynlan4ic picked up Удостоверение личности
+[03/10/2023 16:31:16]
+  kynlan4ic dropped Удостоверение личности
+[03/10/2023 16:31:16]
+  kynlan4ic placed Удостоверение личности in Human
+[03/10/2023 16:31:23]
+  kynlan4ic removed Автоматический пистолет from Защищенный стальной шкаф (ID: 5255)
+[03/10/2023 16:31:24]
+  kynlan4ic removed .38 magazine from Защищенный стальной шкаф (ID: 5255)
+[03/10/2023 16:31:25]
+  vlad32 picked up Бандитский наряд
+[03/10/2023 16:31:25]
+  vlad32 dropped Форма спецназа
+[03/10/2023 16:31:25]
+  vlad32 placed Форма спецназа in Human
+[03/10/2023 16:31:27]
+  vlad32 picked up Balaklava
+[03/10/2023 16:31:30]
+  kynlan4ic picked up Удостоверение личности
+[03/10/2023 16:31:30]
+  kynlan4ic dropped Удостоверение личности
+[03/10/2023 16:31:30]
+  kynlan4ic placed Удостоверение личности in Human
+[03/10/2023 16:31:32]
+  kynlan4ic removed Удостоверение личности from Human
+[03/10/2023 16:31:38]
+  vlad32 placed Бандитский наряд in Human
+[03/10/2023 16:31:38]
+  vlad32 removed Форма спецназа from Human
+[03/10/2023 16:31:38]
+  vlad32 picked up Форма спецназа
+[03/10/2023 16:31:38]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/10/2023 16:31:39]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/10/2023 16:31:39]
+  vlad32 placed Balaklava in Human
+[03/10/2023 16:31:46]
+  vlad32 picked up Бандитский наряд
+[03/10/2023 16:31:46]
+  vlad32 dropped Форма спецназа
+[03/10/2023 16:31:46]
+  vlad32 placed Форма спецназа in Human
+[03/10/2023 16:31:48]
+  vlad32 picked up Balaklava
+[03/10/2023 16:31:56]
+  vlad32 picked up Удостоверение личности
+[03/10/2023 16:32:02]
+  vlad32 (as Tisha Lyons) placed Удостоверение личности in Human
+[03/10/2023 16:32:06]
+  vlad32 (as Tisha Lyons) picked up Удостоверение личности
+[03/10/2023 16:32:19]
+  kynlan4ic placed Flare Gun in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:32:20]
+  kynlan4ic placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:32:20]
+  kynlan4ic placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:32:20]
+  kynlan4ic placed Патрон для дробовика in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:32:27]
+  vlad32 (as Tisha Lyons) placed M4-29 Assault rifle in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:32:27]
+  kynlan4ic placed Отвертка in Хозяйственный шкаф (ID: 462)
+[03/10/2023 16:32:28]
+  vlad32 (as Tisha Lyons) placed Marine SMG in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:32:29]
+  vlad32 (as Tisha Lyons) placed FNE Compact in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:32:36]
+  Darwin Brady equipped Нож ныряльщика
+[03/10/2023 16:33:00]
+  kynlan4ic picked up M24 Colt Broadsword
+[03/10/2023 16:33:01]
+  kynlan4ic equipped M24 Colt Broadsword
+[03/10/2023 16:33:30]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:33:32]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:33:36]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:33:39]
+  kynlan4ic placed M24 Colt Broadsword in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:33:40]
+  kynlan4ic placed M3 Double-Barrel in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:33:42]
+  kynlan4ic placed .38 magazine in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:33:49]
+  kynlan4ic picked up M4-29 Assault rifle
+[03/10/2023 16:33:49]
+  Bridgett Chandler equipped MP-22K
+[03/10/2023 16:33:51]
+  kynlan4ic equipped M4-29 Assault rifle
+[03/10/2023 16:33:51]
+  Outer wall breached by Bridgett Chandler
+[03/10/2023 16:33:51]
+  Bridgett Chandler unequipped MP-22K
+[03/10/2023 16:33:54]
+  kynlan4ic placed M4-29 Assault rifle in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:01]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:05]
+  kynlan4ic picked up Бинт
+[03/10/2023 16:34:10]
+  vlad32 (as Tisha Lyons) has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:19]
+  kynlan4ic placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:20]
+  kynlan4ic placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:34:37]
+  kynlan4ic picked up Инопланетный сигнальный огонь
+[03/10/2023 16:34:45]
+  kynlan4ic placed Инопланетный сигнальный огонь in Средний стальной шкаф с окном (ID: 131)
+[03/10/2023 16:34:47]
+  kynlan4ic equipped Автоматический пистолет
+[03/10/2023 16:35:00]
+  Respawning everyone in main sub.
+[03/10/2023 16:35:00]
+  Respawning vlad32 (STEAM_1:0:579729700) as Офицер службы безопасности
+[03/10/2023 16:35:02]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:35:04]
+  vlad32 dropped Шоковая дубинка
+[03/10/2023 16:35:04]
+  vlad32 dropped Аккумулятор
+[03/10/2023 16:35:07]
+  Bridgett Chandler attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.6
+[03/10/2023 16:35:08]
+  Bridgett Chandler equipped MP-22K
+[03/10/2023 16:35:08]
+  Bridgett Chandler attacked by kynlan4ic. Огнестрельная рана: 7.7 Кровотечение: 12.0
+[03/10/2023 16:35:08]
+  Bridgett Chandler attacked by kynlan4ic. Огнестрельная рана: 3.8 Кровотечение: 6.0
+[03/10/2023 16:35:08]
+  Bridgett Chandler attacked by kynlan4ic. Огнестрельная рана: 5.3 Кровотечение: 2.6
+[03/10/2023 16:35:13]
+  Bridgett Chandler unequipped MP-22K
+[03/10/2023 16:35:13]
+  Bridgett Chandler equipped Нож ныряльщика
+[03/10/2023 16:35:14]
+  Bridgett Chandler unequipped Нож ныряльщика
+[03/10/2023 16:35:14]
+  Bridgett Chandler equipped MP-22K
+[03/10/2023 16:35:16]
+  vlad32 equipped P-8 Pilot
+[03/10/2023 16:35:19]
+  Bridgett Chandler attacked by vlad32. Кровотечение: 21.7 Огнестрельная рана: 16.2
+[03/10/2023 16:35:19]
+  Bridgett Chandler attacked by vlad32. Кровотечение: 44.1 Огнестрельная рана: 32.1
+[03/10/2023 16:35:19]
+  Bridgett Chandler attacked by vlad32. Кровотечение: 37.8 Огнестрельная рана: 28.9
+[03/10/2023 16:35:20]
+  Bridgett Chandler attacked by vlad32. Кровотечение: 11.5 Огнестрельная рана: 24.5
+[03/10/2023 16:35:22]
+  vlad32 picked up MP-22K
+[03/10/2023 16:35:23]
+  vlad32 equipped MP-22K
+[03/10/2023 16:35:28]
+  vlad32 picked up Light ballistic helmet(Alt)
+[03/10/2023 16:35:30]
+  vlad32 picked up Rugged bandit outfit
+[03/10/2023 16:35:31]
+  vlad32 picked up Бронежилет
+[03/10/2023 16:35:33]
+  vlad32 picked up Удостоверение личности
+[03/10/2023 16:35:34]
+  Austin Sparks attacked by vlad32. Кровотечение: 46.2 Огнестрельная рана: 37.4
+[03/10/2023 16:35:35]
+  Austin Sparks attacked by vlad32. Кровотечение: 46.2 Огнестрельная рана: 33.3
+[03/10/2023 16:35:35]
+  Austin Sparks attacked by vlad32. Кровотечение: 46.2 Огнестрельная рана: 33.3
+[03/10/2023 16:35:35]
+  Austin Sparks attacked by vlad32. Кровотечение: 53.9 Огнестрельная рана: 41.6
+[03/10/2023 16:35:35]
+  Austin Sparks attacked by vlad32. Кровотечение: 14.0 Огнестрельная рана: 29.9
+[03/10/2023 16:35:36]
+  Outer wall breached by vlad32
+[03/10/2023 16:35:45]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:35:48]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:35:48]
+  Bridgett Chandler has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:35:52]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:35:54]
+  Austin Sparks has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:00]
+  vlad32 picked up Бинт
+[03/10/2023 16:36:01]
+  Console command "godmode" executed by kynlan4ic.
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:01]
+  vlad32 picked up Морфин
+[03/10/2023 16:36:04]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/10/2023 16:36:08]
+  Console command "godmode" executed by kynlan4ic.
+[03/10/2023 16:36:10]
+  vlad32 used item Бинт
+[03/10/2023 16:36:10]
+  vlad32 has lost more than 25 karma in the past minute.
+[03/10/2023 16:36:11]
+  vlad32 used item Бинт
+[03/10/2023 16:36:12]
+  vlad32 used item Бинт
+[03/10/2023 16:36:14]
+  vlad32 used item Морфин
+[03/10/2023 16:36:15]
+  Console command "godmode" executed by kynlan4ic.
+[03/10/2023 16:36:16]
+  vlad32 used item Бинт
+[03/10/2023 16:36:18]
+  vlad32 used item Морфин
+[03/10/2023 16:36:23]
+  vlad32 used item Морфин
+[03/10/2023 16:36:26]
+  vlad32 used item Бинт
+[03/10/2023 16:36:28]
+  vlad32 used item Бинт
+[03/10/2023 16:36:34]
+  vlad32 used item Морфин
+[03/10/2023 16:36:36]
+  vlad32 used item Бинт
+[03/10/2023 16:36:37]
+  vlad32 used item Бинт
+[03/10/2023 16:36:43]
+  vlad32 used item Бинт
+[03/10/2023 16:36:50]
+  vlad32 placed Бинт in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:51]
+  vlad32 placed Морфин in Аптечка (ID: 132)
+[03/10/2023 16:36:56]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:36:58]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:37:00]
+  kynlan4ic picked up Морфин
+[03/10/2023 16:37:02]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:37:03]
+  kynlan4ic used item Морфин
+[03/10/2023 16:37:08]
+  kynlan4ic picked up Физраствор
+[03/10/2023 16:37:09]
+  kynlan4ic used item Физраствор
+[03/10/2023 16:37:16]
+  kynlan4ic picked up Инопланетная кровь
+[03/10/2023 16:37:17]
+  kynlan4ic used item Инопланетная кровь
+[03/10/2023 16:37:18]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:37:19]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:37:20]
+  vlad32 picked up 7.62x55 round
+[03/10/2023 16:37:20]
+  vlad32 picked up 7.62x55 round
+[03/10/2023 16:37:21]
+  vlad32 picked up Анаболические стероиды
+[03/10/2023 16:37:21]
+  vlad32 picked up Анаболические стероиды
+[03/10/2023 16:37:23]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:37:24]
+  vlad32 picked up Remington Mod9-17
+[03/10/2023 16:37:54]
+  vlad32 picked up Топливный стержень
+[03/10/2023 16:37:56]
+  vlad32 picked up Топливный стержень
+[03/10/2023 16:37:56]
+  vlad32 dropped Топливный стержень
+[03/10/2023 16:37:56]
+  vlad32 placed Топливный стержень in Ядерный реактор (ID: 161)
+[03/10/2023 16:37:57]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 9, Turbine output: 47, Autotemp ON
+[03/10/2023 16:38:01]
+  vlad32 adjusted reactor settings: Temperature: 436, Fission rate: 21, Turbine output: 47, Autotemp ON
+[03/10/2023 16:38:04]
+  vlad32 placed Топливный стержень in Средний стальной шкаф с окном (ID: 603)
+[03/10/2023 16:38:06]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:38:09]
+  Darwin Brady failed to repair Кабельная коробка
+[03/10/2023 16:38:15]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:38:18]
+  kynlan4ic picked up Light ballistic helmet
+[03/10/2023 16:38:20]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:38:26]
+  vlad32 placed Remington Mod9-17 in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:38:27]
+  vlad32 placed 7.62x55 round in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:38:27]
+  vlad32 placed 7.62x55 round in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:38:33]
+  vlad32 dropped Форма спецназа
+[03/10/2023 16:38:34]
+  kynlan4ic picked up M3 Double-Barrel
+[03/10/2023 16:38:37]
+  kynlan4ic equipped M3 Double-Barrel
+[03/10/2023 16:38:40]
+  kynlan4ic placed M3 Double-Barrel in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:38:41]
+  kynlan4ic equipped Remington Mod9-17
+[03/10/2023 16:38:41]
+  kynlan4ic picked up Remington Mod9-17
+[03/10/2023 16:38:42]
+  vlad32 placed Удостоверение личности in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:38:46]
+  kynlan4ic placed Remington Mod9-17 in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:38:54]
+  Console command "godmode" executed by kynlan4ic.
+[03/10/2023 16:39:27]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:39:30]
+  Janie Chapman equipped HKE-95 Police
+[03/10/2023 16:39:31]
+  Janie Chapman attacked by vlad32. Кровотечение: 50.1 Огнестрельная рана: 76.8
+[03/10/2023 16:39:31]
+  Janie Chapman attacked by kynlan4ic. Огнестрельная рана: 16.6 Кровотечение: 13.0
+[03/10/2023 16:39:31]
+  Outer wall breached by kynlan4ic
+[03/10/2023 16:39:31]
+  Outer wall breached by vlad32
+[03/10/2023 16:39:31]
+  Janie Chapman attacked by kynlan4ic. Огнестрельная рана: 5.1 Кровотечение: 8.0
+[03/10/2023 16:39:32]
+  Janie Chapman attacked by kynlan4ic. Огнестрельная рана: 5.1 Кровотечение: 8.3
+[03/10/2023 16:39:33]
+  Darwin Brady started repairing Навигационный терминал
+[03/10/2023 16:39:34]
+  kynlan4ic unequipped Автоматический пистолет
+[03/10/2023 16:39:34]
+  kynlan4ic equipped Вещмешок
+[03/10/2023 16:39:37]
+  kynlan4ic dropped Вещмешок
+[03/10/2023 16:39:37]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:39:38]
+  kynlan4ic equipped Автоматический пистолет
+[03/10/2023 16:39:44]
+  kynlan4ic picked up HKE-95 Police
+[03/10/2023 16:39:46]
+  Darwin Brady equipped Топливный бак сварочного аппарата
+[03/10/2023 16:39:46]
+  kynlan4ic equipped HKE-95 Police
+[03/10/2023 16:40:03]
+  Arron Gregory unequipped Отвертка
+[03/10/2023 16:40:04]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 16:40:08]
+  Janie Chapman has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:40:09]
+  kynlan4ic: vlad32, окажи первую помощь всем, кому потребуется!
+[03/10/2023 16:40:10]
+  Darwin Brady started repairing Генератор кислорода
+[03/10/2023 16:40:10]
+  kynlan4ic: vlad32, спасибо за медпомощь!
+[03/10/2023 16:40:13]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 16:40:19]
+  kynlan4ic picked up Ториевый топливный стержень
+[03/10/2023 16:40:21]
+  kynlan4ic placed Ториевый топливный стержень in Ядерный реактор (ID: 2215)
+[03/10/2023 16:40:27]
+  Darwin Brady equipped Аккумулятор
+[03/10/2023 16:40:33]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:40:34]
+  kynlan4ic: Arron Gregory, иди за мной!
+[03/10/2023 16:40:35]
+  Arron Gregory: Само собой!
+[03/10/2023 16:40:37]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:40:42]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:40:45]
+  Arron Gregory opened Настраиваемый люк
+[03/10/2023 16:40:52]
+  kynlan4ic: Arron Gregory, спасибо, что следуешь за мной!
+[03/10/2023 16:40:56]
+  kynlan4ic: Arron Gregory, окажи первую помощь всем, кому потребуется!
+[03/10/2023 16:40:57]
+  Arron Gregory: Само собой!
+[03/10/2023 16:40:58]
+  Arron Gregory: vlad32 проходит лечение здесь: мидель!
+[03/10/2023 16:40:59]
+  Arron Gregory equipped Инопланетная кровь
+[03/10/2023 16:40:59]
+  Arron Gregory: vlad32 нуждается в помощи! Срочно требуется деусицин, инопланетная кровь, физраствор или пакет с кровью!
+[03/10/2023 16:41:04]
+  Arron Gregory: vlad32 в полном порядке!
+[03/10/2023 16:41:09]
+  Arron Gregory equipped Аккумулятор
+[03/10/2023 16:41:16]
+  Arron Gregory equipped Шоковая дубинка
+[03/10/2023 16:41:17]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:41:17]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:41:21]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:41:35]
+  kynlan4ic picked up Наушники
+[03/10/2023 16:41:36]
+  kynlan4ic dropped Вещмешок
+[03/10/2023 16:41:43]
+  vlad32 picked up Пояс инструментов
+[03/10/2023 16:41:48]
+  vlad32 picked up Improvised Body Armor
+[03/10/2023 16:41:48]
+  vlad32 dropped Бронежилет
+[03/10/2023 16:41:48]
+  vlad32 placed Бронежилет in Human
+[03/10/2023 16:42:00]
+  kynlan4ic placed Наушники in Human
+[03/10/2023 16:42:05]
+  Bell Jack equipped M18 Colt Europan
+[03/10/2023 16:42:05]
+  Bell Jack attacked by vlad32. Кровотечение: 53.9 Огнестрельная рана: 46.2
+[03/10/2023 16:42:05]
+  Bell Jack attacked by vlad32. Кровотечение: 57.8 Огнестрельная рана: 46.2
+[03/10/2023 16:42:06]
+  Bell Jack attacked by vlad32. Кровотечение: 57.8 Огнестрельная рана: 46.2
+[03/10/2023 16:42:13]
+  vlad32 picked up .45 Pistol magazine
+[03/10/2023 16:42:15]
+  vlad32 picked up M18 Colt Europan
+[03/10/2023 16:42:22]
+  Bell Jack has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:42:31]
+  kynlan4ic picked up Топливный стержень
+[03/10/2023 16:42:32]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:42:33]
+  vlad32 equipped Вещмешок
+[03/10/2023 16:42:33]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:42:35]
+  vlad32 dropped Вещмешок
+[03/10/2023 16:42:37]
+  kynlan4ic adjusted reactor settings: Temperature: 4990, Fission rate: 27, Turbine output: 5, Autotemp OFF
+[03/10/2023 16:42:37]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:42:38]
+  kynlan4ic adjusted reactor settings: Temperature: 5032, Fission rate: 28, Turbine output: 5, Autotemp OFF
+[03/10/2023 16:42:39]
+  kynlan4ic adjusted reactor settings: Temperature: 5892, Fission rate: 100, Turbine output: 60, Autotemp OFF
+[03/10/2023 16:42:40]
+  kynlan4ic adjusted reactor settings: Temperature: 6892, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[03/10/2023 16:43:01]
+  vlad32 placed .45 Pistol magazine in M18 Colt Europan (ID: 5788)
+[03/10/2023 16:43:01]
+  vlad32 equipped M18 Colt Europan
+[03/10/2023 16:43:06]
+  kynlan4ic placed Подводная маска in Хозяйственный шкаф (ID: 462)
+[03/10/2023 16:43:34]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:43:38]
+  Darwin Brady started repairing Монитор состояния
+[03/10/2023 16:43:41]
+  vlad32 placed Удостоверение личности in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:43:41]
+  vlad32 removed Удостоверение личности from Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:43:41]
+  vlad32 picked up Удостоверение личности
+[03/10/2023 16:43:45]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:43:50]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:43:58]
+  kynlan4ic picked up Бронежилет
+[03/10/2023 16:44:05]
+  kynlan4ic placed Бронежилет in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:44:13]
+  kynlan4ic placed HKE-95 Police in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:44:15]
+  kynlan4ic picked up HKE-95 Police
+[03/10/2023 16:44:16]
+  kynlan4ic placed HKE-95 Police in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:44:16]
+  Jenine Hocker: Кто-нибудь слышал что-нибудь о профсоюзах?
+[03/10/2023 16:44:17]
+  kynlan4ic picked up HKE-95 Police
+[03/10/2023 16:44:17]
+  vlad32 placed MP-22K in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:44:20]
+  Tera Gallardo: Да, и что с того?
+[03/10/2023 16:44:21]
+  vlad32 placed P-8 Pilot in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:44:22]
+  Jenine Hocker: Думаю, нам надо создать профсоюз.
+[03/10/2023 16:44:23]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф с окном (ID: 603)
+[03/10/2023 16:44:23]
+  vlad32 removed Форма спецназа from Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:44:25]
+  Jenine Hocker: Было бы неплохо повысить стандарты безопасности, увеличить зарплаты, добиться достойной пенсии...
+[03/10/2023 16:44:27]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:44:29]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:44:30]
+  Tera Gallardo: Думаешь, ты доживешь до пенсии?
+[03/10/2023 16:44:33]
+  Jenine Hocker: Справедливо.
+[03/10/2023 16:44:33]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:44:35]
+  Reactor meltdown!
+[03/10/2023 16:45:10]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:45:14]
+  Darwin Brady failed to repair Кабельная коробка
+[03/10/2023 16:45:20]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:45:24]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:45:27]
+  Jenine Hocker equipped TCC-38 Carbine
+[03/10/2023 16:45:28]
+  Tera Gallardo equipped M18 Colt Europan
+[03/10/2023 16:45:28]
+  Jenine Hocker attacked by kynlan4ic. Кровотечение: 14.6 Огнестрельная рана: 42.9
+[03/10/2023 16:45:29]
+  Jenine Hocker attacked by kynlan4ic. Кровотечение: 42.2 Огнестрельная рана: 46.3
+[03/10/2023 16:45:29]
+  Tera Gallardo attacked by kynlan4ic. Кровотечение: 49.3 Огнестрельная рана: 60.5
+[03/10/2023 16:45:30]
+  Tera Gallardo attacked by kynlan4ic. Кровотечение: 52.8 Огнестрельная рана: 60.5
+[03/10/2023 16:45:30]
+  Tera Gallardo has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:45:30]
+  Tera Gallardo attacked by kynlan4ic. Кровотечение: 45.8 Огнестрельная рана: 105.9
+[03/10/2023 16:45:36]
+  vlad32 picked up TCC-38 Carbine
+[03/10/2023 16:45:38]
+  vlad32 picked up .38 magazine
+[03/10/2023 16:45:41]
+  vlad32 equipped Нож ныряльщика
+[03/10/2023 16:45:42]
+  vlad32 equipped TCC-38 Carbine
+[03/10/2023 16:45:56]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:45:58]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:46:02]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:46:03]
+  vlad32 picked up Морфин
+[03/10/2023 16:46:04]
+  vlad32 picked up Деусицин
+[03/10/2023 16:46:05]
+  kynlan4ic picked up Light ballistic helmet(Alt)
+[03/10/2023 16:46:05]
+  kynlan4ic dropped Light ballistic helmet
+[03/10/2023 16:46:05]
+  kynlan4ic placed Light ballistic helmet in Human
+[03/10/2023 16:46:35]
+  vlad32 dropped Наручники
+[03/10/2023 16:46:39]
+  Jenine Hocker has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:46:39]
+  Darrin James: И-и-и-и... Готово!
+[03/10/2023 16:46:39]
+  kynlan4ic picked up Органическое волокно
+[03/10/2023 16:46:39]
+  kynlan4ic picked up Органическое волокно
+[03/10/2023 16:46:48]
+  kynlan4ic placed Органическое волокно in Средний стальной шкаф (ID: 665)
+[03/10/2023 16:46:48]
+  kynlan4ic placed Органическое волокно in Средний стальной шкаф (ID: 665)
+[03/10/2023 16:46:54]
+  kynlan4ic picked up Форма спецназа
+[03/10/2023 16:46:56]
+  kynlan4ic dropped Форма спецназа
+[03/10/2023 16:47:05]
+  kynlan4ic placed HKE-95 Police in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:47:06]
+  kynlan4ic picked up HKE-95 Police
+[03/10/2023 16:47:10]
+  kynlan4ic placed Автоматический пистолет in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:47:38]
+  Client "kynlan4ic" ended the round.
+[03/10/2023 16:47:38]
+  kynlan4ic has gained 226 experience (405 -> 631)
+[03/10/2023 16:47:38]
+  vlad32 has gained 226 experience (405 -> 631)
+[03/10/2023 16:47:38]
+  Arron Gregory has gained 226 experience (0 -> 226)
+[03/10/2023 16:47:38]
+  Darrin James has gained 226 experience (405 -> 631)
+[03/10/2023 16:47:38]
+  Darwin Brady has gained 226 experience (405 -> 631)
+[03/10/2023 16:47:40]
+  Ending the round...
+[03/10/2023 16:47:40]
+  Round ended.
+[03/10/2023 16:47:43]
+  Starting a new round...
+[03/10/2023 16:47:54]
+  Game mode: Кампания
+[03/10/2023 16:47:54]
+  Submarine: Dugong
+[03/10/2023 16:47:54]
+  Level seed: SeosuAsterius Linea
+[03/10/2023 16:47:54]
+  Round started.
+[03/10/2023 16:48:11]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:48:11]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/10/2023 16:48:46]
+  kynlan4ic has gained the talent 'Обучение первой помощи'
+[03/10/2023 16:48:49]
+  Arron Gregory: Дай человеку рыбу, и он будет сыт один день;
+[03/10/2023 16:48:50]
+  vlad32 has gained the talent 'Качок'
+[03/10/2023 16:48:52]
+  kynlan4ic picked up Форма спецназа
+[03/10/2023 16:48:53]
+  kynlan4ic picked up Форма спецназа
+[03/10/2023 16:48:53]
+  Arron Gregory: Научи его ловить рыбу, и он, скорее всего, погибнет от жуткого несчастного случая.
+[03/10/2023 16:48:54]
+  kynlan4ic dropped Форма спецназа
+[03/10/2023 16:48:55]
+  kynlan4ic dropped Форма спецназа
+[03/10/2023 16:48:58]
+  Arron Gregory: Хватит шутить.
+[03/10/2023 16:48:58]
+  kynlan4ic picked up MP-22K
+[03/10/2023 16:48:58]
+  kynlan4ic dropped HKE-95 Police
+[03/10/2023 16:48:58]
+  kynlan4ic placed HKE-95 Police in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:48:59]
+  kynlan4ic equipped MP-22K
+[03/10/2023 16:49:04]
+  kynlan4ic picked up HKE-95 Police
+[03/10/2023 16:49:04]
+  kynlan4ic dropped MP-22K
+[03/10/2023 16:49:04]
+  kynlan4ic placed MP-22K in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:49:05]
+  kynlan4ic equipped HKE-95 Police
+[03/10/2023 16:49:06]
+  vlad32 equipped TCC-38 Carbine
+[03/10/2023 16:49:13]
+  vlad32 picked up Форма спецназа
+[03/10/2023 16:49:15]
+  kynlan4ic picked up .38 magazine
+[03/10/2023 16:49:15]
+  vlad32 dropped Форма спецназа
+[03/10/2023 16:49:16]
+  vlad32 picked up Форма спецназа
+[03/10/2023 16:49:17]
+  kynlan4ic picked up MP-22K
+[03/10/2023 16:49:17]
+  kynlan4ic dropped HKE-95 Police
+[03/10/2023 16:49:17]
+  kynlan4ic placed HKE-95 Police in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:49:17]
+  vlad32 dropped Форма спецназа
+[03/10/2023 16:49:22]
+  kynlan4ic picked up HKE-95 Police
+[03/10/2023 16:49:22]
+  kynlan4ic dropped MP-22K
+[03/10/2023 16:49:22]
+  kynlan4ic placed MP-22K in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:49:23]
+  kynlan4ic picked up M4-29 Assault rifle
+[03/10/2023 16:49:27]
+  kynlan4ic placed M4-29 Assault rifle in Средний стальной шкаф с окном (ID: 330)
+[03/10/2023 16:49:33]
+  kynlan4ic picked up M24 Colt Broadsword
+[03/10/2023 16:49:37]
+  kynlan4ic placed .38 magazine in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:49:38]
+  kynlan4ic placed M24 Colt Broadsword in Защищенный стальной шкаф (ID: 303)
+[03/10/2023 16:49:54]
+  vlad32 equipped Медконтейнер
+[03/10/2023 16:49:56]
+  vlad32 dropped Медконтейнер
+[03/10/2023 16:50:03]
+  vlad32 equipped Водолазный скафандр
+[03/10/2023 16:50:13]
+  vlad32 placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 226)
+[03/10/2023 16:51:07]
+  Darrin James: Неизвестная цель обнаружена!
+[03/10/2023 16:51:07]
+  Darrin James: Стреляю!
+[03/10/2023 16:51:07]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:07]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:08]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:08]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:08]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:08]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:09]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:09]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:09]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:10]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:10]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:10]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:10]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:11]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:11]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/10/2023 16:51:11]
+  Darrin James: И-и-и-и... Готово!
+[03/10/2023 16:51:13]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:13]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:14]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:14]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:14]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:14]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:15]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:15]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:15]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:16]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:16]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:16]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:16]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:17]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:17]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:17]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:51:17]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/10/2023 16:51:17]
+  Darrin James: И-и-и-и... Готово!
+[03/10/2023 16:53:02]
+  Darrin James: Новая цель: ледяной шпиль!
+[03/10/2023 16:53:03]
+  Darrin James: Стреляю!
+[03/10/2023 16:53:03]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:03]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:03]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:03]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:04]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:04]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:04]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:05]
+  Darrin James launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:23]
+  Darrin James equipped Отвертка
+[03/10/2023 16:53:23]
+  Darwin Brady equipped Отвертка
+[03/10/2023 16:53:26]
+  Darwin Brady started repairing Кабельная коробка
+[03/10/2023 16:53:31]
+  Darrin James unequipped Отвертка
+[03/10/2023 16:53:31]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 16:53:54]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 16:53:56]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 16:53:58]
+  Darrin James equipped Сварочный аппарат
+[03/10/2023 16:53:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:53:59]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 16:53:59]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:00]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/10/2023 16:54:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:00]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:00]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/10/2023 16:54:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:01]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/10/2023 16:54:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:01]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 16:54:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:01]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 16:54:01]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:02]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/10/2023 16:54:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:02]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:03]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/10/2023 16:54:03]
+  vlad32 launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:54:03]
+  Mudraptor_unarmored attacked by vlad32. Рваная рана: 2.9
+[03/10/2023 16:54:04]
+  Darwin Brady equipped Сварочный аппарат
+[03/10/2023 16:54:07]
+  Arron Gregory: Надо найти водолазный скафандр!
+[03/10/2023 16:54:07]
+  Darwin Brady: Надо найти водолазный скафандр!
+[03/10/2023 16:54:07]
+  Darrin James: Мне нужно подводное снаряжение!
+[03/10/2023 16:54:13]
+  kynlan4ic picked up Водолазный скафандр
+[03/10/2023 16:54:17]
+  Arron Gregory: kynlan4ic чувствует себя хорошо!
+[03/10/2023 16:54:18]
+  Arron Gregory: У меня нет средств для лечения! vlad32 в беде!
+[03/10/2023 16:54:19]
+  Arron Gregory: vlad32 проходит лечение здесь: мидель!
+[03/10/2023 16:54:20]
+  Arron Gregory: vlad32 нуждается в помощи! Срочно требуется деусицин!
+[03/10/2023 16:54:20]
+  kynlan4ic equipped Водолазный скафандр
+[03/10/2023 16:54:20]
+  kynlan4ic picked up Водолазный скафандр
+[03/10/2023 16:54:21]
+  vlad32 dropped Improvised Body Armor
+[03/10/2023 16:54:27]
+  Arron Gregory equipped Сварочный аппарат
+[03/10/2023 16:54:30]
+  kynlan4ic placed Водолазный скафандр in Human
+[03/10/2023 16:54:32]
+  Outer wall repaired by Darwin Brady
+[03/10/2023 16:54:32]
+  Darwin Brady: Верхняя средняя часть: протечек не осталось!
+[03/10/2023 16:54:35]
+  Outer wall repaired by Darrin James
+[03/10/2023 16:54:40]
+  kynlan4ic equipped Сварочный аппарат
+[03/10/2023 16:54:44]
+  Arron Gregory unequipped Сварочный аппарат
+[03/10/2023 16:54:52]
+  kynlan4ic unequipped Сварочный аппарат
+[03/10/2023 16:54:52]
+  kynlan4ic equipped Вещмешок
+[03/10/2023 16:54:53]
+  kynlan4ic dropped Вещмешок
+[03/10/2023 16:54:54]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 16:54:55]
+  vlad32 picked up Гаечный ключ
+[03/10/2023 16:54:56]
+  vlad32 equipped Гаечный ключ
+[03/10/2023 16:54:58]
+  Outer wall repaired by Darrin James
+[03/10/2023 16:55:00]
+  vlad32 started repairing Двигатель
+[03/10/2023 16:55:06]
+  Arron Gregory equipped Сварочный аппарат
+[03/10/2023 16:55:07]
+  vlad32 failed to repair Двигатель
+[03/10/2023 16:55:09]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 16:55:12]
+  Darrin James unequipped Сварочный аппарат
+[03/10/2023 16:55:12]
+  Darrin James equipped M18 Colt Europan
+[03/10/2023 16:55:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:55:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:55:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 16:55:16]
+  Arron Gregory unequipped Сварочный аппарат
+[03/10/2023 16:55:16]
+  Arron Gregory equipped Нож ныряльщика
+[03/10/2023 16:55:17]
+  vlad32: Моторный отсек: здесь пробит корпус!
+[03/10/2023 16:55:19]
+  kynlan4ic equipped Нож ныряльщика
+[03/10/2023 16:55:20]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена с проводкой.
+[03/10/2023 16:55:21]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена с проводкой.
+[03/10/2023 16:55:24]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 1.0 Оглушение: 0.2
+[03/10/2023 16:55:24]
+  kynlan4ic used Нож ныряльщика on Mudraptor_unarmored.
+[03/10/2023 16:55:25]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/10/2023 16:55:25]
+  kynlan4ic used Нож ныряльщика on Mudraptor_unarmored.
+[03/10/2023 16:55:26]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/10/2023 16:55:26]
+  kynlan4ic used Нож ныряльщика on Mudraptor_unarmored.
+[03/10/2023 16:55:26]
+  kynlan4ic used Нож ныряльщика on Большая горизонтальная внутренняя стена.
+[03/10/2023 16:55:26]
+  kynlan4ic attacked by vlad32.
+[03/10/2023 16:55:27]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/10/2023 16:55:27]
+  Mudraptor_unarmored attacked by kynlan4ic. Рваная рана: 10.0 Кровотечение: 10.0 Оглушение: 0.2
+[03/10/2023 16:55:27]
+  kynlan4ic used Нож ныряльщика on Mudraptor_unarmored.
+[03/10/2023 16:55:27]
+  Mudraptor_unarmored attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 16:55:27]
+  Arron Gregory unequipped Нож ныряльщика
+[03/10/2023 16:55:31]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 16:55:31]
+  Darrin James has died (Cause of death: Укусы)
+[03/10/2023 16:55:32]
+  Arron Gregory: kynlan4ic получает первую помощь здесь: мидель!
+[03/10/2023 16:55:33]
+  Arron Gregory: kynlan4ic нуждается в помощи! Срочно требуется деусицин, морфин, опиум или бинт!
+[03/10/2023 16:55:38]
+  Arron Gregory equipped Морфин
+[03/10/2023 16:55:40]
+  Mudraptor_unarmored attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 16:55:40]
+  Mudraptor_unarmored attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 16:55:41]
+  Mudraptor_unarmored attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 16:55:41]
+  Mudraptor_unarmored has died (Cause of death: Огнестрельная рана)
+[03/10/2023 16:55:41]
+  Mudraptor_unarmored attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 16:55:42]
+  kynlan4ic picked up Автоматический пистолет
+[03/10/2023 16:55:44]
+  kynlan4ic equipped Автоматический пистолет
+[03/10/2023 16:55:47]
+  Arron Gregory: vlad32 проходит лечение здесь: мидель!
+[03/10/2023 16:55:48]
+  Arron Gregory: Мне требуется деусицин, морфин, опиум или бинт!
+[03/10/2023 16:55:48]
+  Arron Gregory equipped Морфин
+[03/10/2023 16:55:50]
+  vlad32 used item Морфин
+[03/10/2023 16:55:52]
+  Arron Gregory unequipped Морфин
+[03/10/2023 16:55:52]
+  Arron Gregory equipped Бинт
+[03/10/2023 16:55:56]
+  vlad32 placed Топливный бак сварочного аппарата in Human
+[03/10/2023 16:55:59]
+  vlad32 picked up Сварочный аппарат
+[03/10/2023 16:56:00]
+  Arron Gregory: kynlan4ic в полном порядке!
+[03/10/2023 16:56:01]
+  vlad32 placed .38 magazine in Human
+[03/10/2023 16:56:01]
+  vlad32 removed Отвертка from Human

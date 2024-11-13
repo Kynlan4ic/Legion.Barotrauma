@@ -1,0 +1,402 @@
+﻿[11/03/2022 21:05:30]
+  Starting the server...
+[11/03/2022 21:05:30]
+  Using SteamP2P networking.
+[11/03/2022 21:05:31]
+  Server started
+[11/03/2022 21:05:31]
+  Игрок kynlan4ic присоединился к серверу.
+[11/03/2022 21:05:31]
+  Saving client permissions
+[11/03/2022 21:05:31]
+  Saving client permissions
+[11/03/2022 21:05:43]
+  Gamemode changed to Кампания
+[11/03/2022 21:05:45]
+  Игрок igameCrog присоединился к серверу.
+[11/03/2022 21:05:45]
+  Saving client permissions
+[11/03/2022 21:06:59]
+  kynlan4ic changed PlayStyle to Casual
+[11/03/2022 21:06:59]
+  kynlan4ic changed LosMode to Transparent
+[11/03/2022 21:06:59]
+  kynlan4ic changed SubSelectionMode to Manual
+[11/03/2022 21:06:59]
+  kynlan4ic changed ModeSelectionMode to Manual
+[11/03/2022 21:09:20]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:29]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:37]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:40]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:40]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:40]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:41]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:41]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:41]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:41]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:42]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:42]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:42]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:42]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:42]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:43]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:44]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:44]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:44]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:44]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:44]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:44]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:44]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:44]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:44]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:44]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:44]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:45]
+  kynlan4ic is ready to start the game.
+[11/03/2022 21:09:45]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:45]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:45]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:45]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:45]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:46]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:46]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:46]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:46]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:46]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:46]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:47]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:47]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:47]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:47]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:47]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:48]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:48]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:48]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:49]
+  Starting a new round...
+[11/03/2022 21:09:49]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:49]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:49]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:49]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:49]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:49]
+  kynlan4ic is not ready to start the game.
+[11/03/2022 21:09:49]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:49]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:50]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:50]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:50]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:50]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:51]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:51]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:51]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:54]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:54]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:54]
+  igameCrog is ready to start the game.
+[11/03/2022 21:09:58]
+  Game mode: Кампания
+[11/03/2022 21:09:58]
+  Submarine: Dugong
+[11/03/2022 21:09:58]
+  Level seed: New Iapetus
+[11/03/2022 21:09:58]
+  Rhonda Linares equipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Rhonda Linares unequipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Rhonda Linares equipped Отвертка
+[11/03/2022 21:09:58]
+  Creola Buckley equipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Creola Buckley unequipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Creola Buckley equipped Отвертка
+[11/03/2022 21:09:58]
+  Terrance Huber equipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Terrance Huber unequipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Terrance Huber equipped Отвертка
+[11/03/2022 21:09:58]
+  Cathy Carey equipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Cathy Carey unequipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Cathy Carey equipped Отвертка
+[11/03/2022 21:09:58]
+  Cathy Carey unequipped Отвертка
+[11/03/2022 21:09:58]
+  Cathy Carey equipped Лом
+[11/03/2022 21:09:58]
+  Arkadi McLeroy equipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Arkadi McLeroy unequipped Гаечный ключ
+[11/03/2022 21:09:58]
+  Arkadi McLeroy equipped Отвертка
+[11/03/2022 21:09:58]
+  Christiana James equipped Отвертка
+[11/03/2022 21:09:58]
+  Lorrie Carey equipped Гаечный ключ
+[11/03/2022 21:09:59]
+  Julianne Santistevan equipped Гаечный ключ
+[11/03/2022 21:09:59]
+  igameCrog is not ready to start the game.
+[11/03/2022 21:09:59]
+  Round started.
+[11/03/2022 21:10:00]
+  Rhonda Linares unequipped Отвертка
+[11/03/2022 21:10:00]
+  Lorrie Carey unequipped Гаечный ключ
+[11/03/2022 21:10:00]
+  Cathy Carey unequipped Лом
+[11/03/2022 21:10:00]
+  Christiana James unequipped Отвертка
+[11/03/2022 21:10:00]
+  Julianne Santistevan unequipped Гаечный ключ
+[11/03/2022 21:10:04]
+  Dorthy Escobar: Всегда приятно видеть знакомое лицо! У нас тут гости нечасто бывают.
+[11/03/2022 21:10:09]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/03/2022 21:10:17]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/03/2022 21:10:22]
+  Client "kynlan4ic" ended the round.
+[11/03/2022 21:10:22]
+  Ending the round...
+[11/03/2022 21:10:22]
+  Round ended.
+[11/03/2022 21:10:33]
+  Gamemode changed to Кампания
+[11/03/2022 21:10:35]
+  Gamemode changed to Песочница
+[11/03/2022 21:10:36]
+  Gamemode changed to Кампания
+[11/03/2022 21:10:49]
+  igameCrog: X
+[11/03/2022 21:10:51]
+  igameCrog: Y
+[11/03/2022 21:10:53]
+  kynlan4ic: ч
+[11/03/2022 21:10:54]
+  kynlan4ic: x
+[11/03/2022 21:10:54]
+  kynlan4ic: x
+[11/03/2022 21:10:55]
+  kynlan4ic: xx
+[11/03/2022 21:11:01]
+  igameCrog: X
+[11/03/2022 21:11:01]
+  kynlan4ic: Cait
+[11/03/2022 21:11:03]
+  Starting a new round...
+[11/03/2022 21:11:07]
+  igameCrog: X
+[11/03/2022 21:11:10]
+  Game mode: Кампания
+[11/03/2022 21:11:10]
+  Submarine: Barsuk
+[11/03/2022 21:11:10]
+  Level seed: Thasus Linea
+[11/03/2022 21:11:10]
+  Rowena Terry equipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Rowena Terry unequipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Rowena Terry equipped Отвертка
+[11/03/2022 21:11:10]
+  Alvin Stein equipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Alvin Stein unequipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Alvin Stein equipped Отвертка
+[11/03/2022 21:11:10]
+  David Bergman equipped Гаечный ключ
+[11/03/2022 21:11:10]
+  David Bergman unequipped Гаечный ключ
+[11/03/2022 21:11:10]
+  David Bergman equipped Отвертка
+[11/03/2022 21:11:10]
+  Lee Planck equipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Lee Planck unequipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Lee Planck equipped Отвертка
+[11/03/2022 21:11:10]
+  Lee Planck unequipped Отвертка
+[11/03/2022 21:11:10]
+  Lee Planck equipped Лом
+[11/03/2022 21:11:10]
+  Tod Meisner equipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Tod Meisner unequipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Tod Meisner equipped Отвертка
+[11/03/2022 21:11:10]
+  Masako Hefner equipped Гаечный ключ
+[11/03/2022 21:11:10]
+  Candace Gay equipped Лом
+[11/03/2022 21:11:10]
+  Roslyn Patel equipped Отвертка
+[11/03/2022 21:11:11]
+  Chance Hines equipped Отвертка
+[11/03/2022 21:11:11]
+  Round started.
+[11/03/2022 21:11:11]
+  Garrett Mcdowell equipped Гаечный ключ
+[11/03/2022 21:11:11]
+  Garrett Mcdowell: Ух ты, у нас снова гости.
+[11/03/2022 21:11:11]
+  Devin Hedrick equipped Гаечный ключ
+[11/03/2022 21:11:11]
+  Donn Wiley equipped Отвертка
+[11/03/2022 21:11:11]
+  Masako Hefner unequipped Гаечный ключ
+[11/03/2022 21:11:11]
+  Rowena Terry unequipped Отвертка
+[11/03/2022 21:11:11]
+  Candace Gay unequipped Лом
+[11/03/2022 21:11:11]
+  Garrett Mcdowell unequipped Гаечный ключ
+[11/03/2022 21:11:11]
+  Roslyn Patel unequipped Отвертка
+[11/03/2022 21:11:12]
+  Chance Hines unequipped Отвертка
+[11/03/2022 21:11:12]
+  Devin Hedrick unequipped Гаечный ключ
+[11/03/2022 21:11:12]
+  Lee Planck unequipped Лом
+[11/03/2022 21:11:12]
+  Donn Wiley unequipped Отвертка
+[11/03/2022 21:11:23]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/03/2022 21:11:31]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/03/2022 21:11:31]
+  kynlan4ic equipped Капсула для импульсного лазера
+[11/03/2022 21:11:34]
+  igameCrog picked up Кислородный баллон
+[11/03/2022 21:11:42]
+  kynlan4ic dropped Капсула для импульсного лазера
+[11/03/2022 21:11:49]
+  kynlan4ic placed Сварочный аппарат in Большой стальной шкаф (ID: 114)
+[11/03/2022 21:12:09]
+  Alice Harp: Не встревайте в неприятности.
+[11/03/2022 21:12:14]
+  Alvin Stein unequipped Отвертка
+[11/03/2022 21:12:59]
+  David Bergman unequipped Отвертка
+[11/03/2022 21:15:04]
+  kynlan4ic picked up Водолазный скафандр
+[11/03/2022 21:15:07]
+  kynlan4ic equipped Водолазный скафандр
+[11/03/2022 21:15:08]
+  kynlan4ic picked up Кислородный баллон
+[11/03/2022 21:15:08]
+  kynlan4ic picked up Кислородный баллон
+[11/03/2022 21:15:09]
+  kynlan4ic picked up Кислородный баллон
+[11/03/2022 21:15:28]
+  igameCrog equipped Шприц-пистолет
+[11/03/2022 21:15:29]
+  igameCrog equipped Отвертка
+[11/03/2022 21:15:30]
+  kynlan4ic dropped Водолазный скафандр
+[11/03/2022 21:15:33]
+  kynlan4ic placed Кислородный баллон in Большой стальной шкаф (ID: 114)
+[11/03/2022 21:15:33]
+  kynlan4ic placed Кислородный баллон in Большой стальной шкаф (ID: 114)
+[11/03/2022 21:15:33]
+  kynlan4ic placed Кислородный баллон in Большой стальной шкаф (ID: 114)
+[11/03/2022 21:15:33]
+  kynlan4ic placed Кислородный баллон in Большой стальной шкаф (ID: 114)
+[11/03/2022 21:15:36]
+  kynlan4ic equipped Металлический ящик
+[11/03/2022 21:15:37]
+  kynlan4ic picked up Водолазный скафандр
+[11/03/2022 21:15:38]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Компонент «Задержки» (signal_out)
+[11/03/2022 21:15:38]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «Задержки» (signal_out)
+[11/03/2022 21:15:39]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Компонент «И» (signal_out)
+[11/03/2022 21:15:39]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/03/2022 21:15:39]
+  kynlan4ic dropped Водолазный скафандр
+[11/03/2022 21:15:41]
+  kynlan4ic dropped Металлический ящик
+[11/03/2022 21:16:43]
+  igameCrog equipped Гаечный ключ
+[11/03/2022 21:17:29]
+  kynlan4ic changed the salary of igameCrog to 6%.
+[11/03/2022 21:17:32]
+  kynlan4ic changed the salary of igameCrog to 0%.
+[11/03/2022 21:17:38]
+  kynlan4ic transferred 500 mk to igameCrog from the bank.
+[11/03/2022 21:19:17]
+  Client "kynlan4ic" ended the round.
+[11/03/2022 21:19:18]
+  Ending the round...

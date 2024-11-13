@@ -1,0 +1,1600 @@
+﻿[03/10/2023 22:45:44]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 500)
+[03/10/2023 22:45:45]
+  kynlan4ic picked up Защищенный металлический ящик
+[03/10/2023 22:45:48]
+  Blue moon equipped Фонарик
+[03/10/2023 22:45:49]
+  kynlan4ic placed Flare Cartridge in Flare Gun (ID: 118)
+[03/10/2023 22:45:50]
+  kynlan4ic placed Защищенный металлический ящик in Стеллаж для ящиков (ID: 424)
+[03/10/2023 22:45:56]
+  Outer wall repaired by Супостат499
+[03/10/2023 22:45:56]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[03/10/2023 22:45:57]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[03/10/2023 22:46:04]
+  Супостат499 unequipped Сварочный аппарат
+[03/10/2023 22:46:04]
+  Супостат499 equipped Боеприпасы для цепной пушки
+[03/10/2023 22:46:04]
+  Colonel removed Защищенный металлический ящик from Стеллаж для ящиков (ID: 424)
+[03/10/2023 22:46:06]
+  Супостат499 dropped Боеприпасы для цепной пушки
+[03/10/2023 22:46:06]
+  Colonel equipped Защищенный металлический ящик
+[03/10/2023 22:46:08]
+  Супостат499 equipped Сварочный аппарат
+[03/10/2023 22:46:14]
+  Супостат499 started repairing Малый насос
+[03/10/2023 22:46:19]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:46:19]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:46:22]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 22:46:23]
+  igameCrog used item Морфин
+[03/10/2023 22:46:24]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:46:26]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:46:33]
+  Супостат499 placed Топливный стержень in Ядерный реактор (ID: 3015)
+[03/10/2023 22:46:34]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[03/10/2023 22:46:35]
+  Супостат499 adjusted reactor settings: Temperature: 0, Fission rate: 3, Turbine output: 0, Autotemp OFF
+[03/10/2023 22:46:36]
+  Colonel picked up FNE Compact
+[03/10/2023 22:46:36]
+  Супостат499 adjusted reactor settings: Temperature: 688, Fission rate: 51, Turbine output: 1, Autotemp OFF
+[03/10/2023 22:46:37]
+  Супостат499 adjusted reactor settings: Temperature: 1688, Fission rate: 51, Turbine output: 17, Autotemp OFF
+[03/10/2023 22:46:38]
+  Супостат499 adjusted reactor settings: Temperature: 2688, Fission rate: 51, Turbine output: 14, Autotemp OFF
+[03/10/2023 22:46:39]
+  Супостат499 adjusted reactor settings: Temperature: 3688, Fission rate: 41, Turbine output: 14, Autotemp OFF
+[03/10/2023 22:46:40]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 22:46:40]
+  Супостат499 adjusted reactor settings: Temperature: 4688, Fission rate: 42, Turbine output: 13, Autotemp ON
+[03/10/2023 22:46:46]
+  Супостат499 started repairing Ядерный реактор
+[03/10/2023 22:46:56]
+  kynlan4ic opened Настраиваемый люк
+[03/10/2023 22:46:56]
+  kynlan4ic closed Настраиваемый люк
+[03/10/2023 22:47:06]
+  igameCrog used item Морфин
+[03/10/2023 22:47:09]
+  Colonel placed Защищенный металлический ящик in Стеллаж для ящиков (ID: 424)
+[03/10/2023 22:47:14]
+  Информация о миссии:  - Маяк снова работает.
+[03/10/2023 22:47:20]
+  kynlan4ic picked up Гаечный ключ
+[03/10/2023 22:47:21]
+  kynlan4ic closed Настраиваемый люк
+[03/10/2023 22:47:21]
+  kynlan4ic opened Настраиваемый люк
+[03/10/2023 22:47:25]
+  Blue moon picked up Клоунская маска
+[03/10/2023 22:47:26]
+  Супостат499 opened Настраиваемый люк
+[03/10/2023 22:47:26]
+  Супостат499 closed Настраиваемый люк
+[03/10/2023 22:47:32]
+  Супостат499 closed Настраиваемый люк
+[03/10/2023 22:47:32]
+  Супостат499 opened Настраиваемый люк
+[03/10/2023 22:47:32]
+  kynlan4ic equipped Пистолет-пулемет
+[03/10/2023 22:47:33]
+  Colonel placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 5239)
+[03/10/2023 22:47:38]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 22:47:39]
+  kynlan4ic opened Настраиваемая дверь
+[03/10/2023 22:47:40]
+  kynlan4ic closed Настраиваемая дверь
+[03/10/2023 22:47:40]
+  Outer wall breached by Crawler
+[03/10/2023 22:47:43]
+  Crawler attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 22:47:43]
+  Colonel placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 679)
+[03/10/2023 22:47:43]
+  Colonel removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 679)
+[03/10/2023 22:47:43]
+  Colonel placed Топливный бак сварочного аппарата in Пояс инструментов (ID: 5239)
+[03/10/2023 22:47:43]
+  Crawler has died (Cause of death: Огнестрельная рана)
+[03/10/2023 22:47:43]
+  Crawler attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 22:47:44]
+  Crawler attacked by vlad32. Кровотечение: 46.0 Огнестрельная рана: 61.0 Оглушение: 0.1
+[03/10/2023 22:47:44]
+  Darwin Brady: Горелка, горелка для сварки... Куда ты пропала, когда так нужна?
+[03/10/2023 22:47:46]
+  Outer wall breached by Crawler
+[03/10/2023 22:47:48]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:47:48]
+  Outer wall repaired by Lionel Mungo
+[03/10/2023 22:47:48]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:47:48]
+  Lionel Mungo: Инженерный отсек: все протечки устранены!
+[03/10/2023 22:47:49]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:47:49]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:50]
+  Outer wall breached by Crawler
+[03/10/2023 22:47:50]
+  Blue moon used item Пакет с кровью
+[03/10/2023 22:47:51]
+  Darwin Brady failed to repair Кабельная коробка
+[03/10/2023 22:47:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:52]
+  kynlan4ic placed Flare Gun in Защищенный металлический ящик (ID: 1507)
+[03/10/2023 22:47:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:52]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:53]
+  Супостат499 opened Настраиваемая дверь
+[03/10/2023 22:47:53]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 22:47:53]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:53]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:47:54]
+  Outer wall repaired by Lionel Mungo
+[03/10/2023 22:47:54]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:54]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:47:55]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:56]
+  Супостат499 closed Настраиваемая дверь
+[03/10/2023 22:47:56]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:47:57]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:47:57]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:57]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:47:58]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:47:58]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:47:59]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:00]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:01]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:01]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:48:01]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:48:01]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:48:02]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:03]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 22:48:06]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:48:07]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:48:08]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:48:08]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:09]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:10]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:48:10]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:10]
+  Crawler has died (Cause of death: Рваная рана)
+[03/10/2023 22:48:10]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:48:11]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:48:11]
+  Crawler attacked by igameCrog. Рваная рана: 15.0 Кровотечение: 1.0
+[03/10/2023 22:48:15]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 623)
+[03/10/2023 22:48:16]
+  Супостат499 placed Military Mk-I Hardsuit (Mercenary) in Шкаф для подводного снаряжения (ID: 623)
+[03/10/2023 22:48:22]
+  Colonel placed Military Mk-I Hardsuit in Шкаф для подводного снаряжения (ID: 600)
+[03/10/2023 22:48:27]
+  igameCrog equipped Отвертка
+[03/10/2023 22:48:29]
+  igameCrog connected a wire from Дверь с кнопками (toggle) to Компонент "Задержки" (signal_in)
+[03/10/2023 22:48:31]
+  igameCrog connected a wire from Дверь с кнопками (state_out) to Компонент "И" (signal_out)
+[03/10/2023 22:48:32]
+  igameCrog disconnected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/10/2023 22:48:32]
+  Супостат499 removed Защищенный металлический ящик from Стеллаж для ящиков (ID: 424)
+[03/10/2023 22:48:35]
+  Супостат499 dropped Боеприпасы для цепной пушки
+[03/10/2023 22:48:36]
+  Супостат499 equipped Защищенный металлический ящик
+[03/10/2023 22:48:36]
+  igameCrog connected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/10/2023 22:48:38]
+  kynlan4ic picked up Металлический ящик
+[03/10/2023 22:48:38]
+  Супостат499 dropped Защищенный металлический ящик
+[03/10/2023 22:48:38]
+  igameCrog disconnected a wire from Дверь с кнопками (toggle) to Компонент "Задержки" (signal_in)
+[03/10/2023 22:48:39]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 500)
+[03/10/2023 22:48:41]
+  igameCrog disconnected a wire from Дверь с кнопками (state_out) to Компонент "И" (signal_out)
+[03/10/2023 22:48:41]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 22:48:41]
+  Супостат499 picked up Металлический ящик
+[03/10/2023 22:48:42]
+  kynlan4ic equipped Защищенный металлический ящик
+[03/10/2023 22:48:43]
+  kynlan4ic placed Защищенный металлический ящик in Стеллаж для ящиков (ID: 424)
+[03/10/2023 22:48:43]
+  vlad32 equipped M18 Colt Europan
+[03/10/2023 22:48:43]
+  Супостат499 placed Металлический ящик in Стеллаж для ящиков (ID: 500)
+[03/10/2023 22:48:44]
+  kynlan4ic picked up Защищенный металлический ящик
+[03/10/2023 22:48:48]
+  Супостат499 equipped Металлический ящик
+[03/10/2023 22:48:52]
+  kynlan4ic placed Защищенный металлический ящик in Стеллаж для ящиков (ID: 424)
+[03/10/2023 22:48:53]
+  Супостат499 removed Тяжёлый рюкзак from Металлический ящик (ID: 1560)
+[03/10/2023 22:48:54]
+  Blue moon picked up MP-22K
+[03/10/2023 22:48:55]
+  Blue moon placed MP-22K in Средний стальной шкаф (ID: 540)
+[03/10/2023 22:48:56]
+  Супостат499 dropped Металлический ящик
+[03/10/2023 22:49:09]
+  Colonel dropped Пояс инструментов
+[03/10/2023 22:49:10]
+  Colonel picked up Тяжёлый рюкзак
+[03/10/2023 22:49:11]
+  vlad32 equipped Нож ныряльщика
+[03/10/2023 22:49:24]
+  Супостат499 dropped Боеприпасы для цепной пушки
+[03/10/2023 22:49:24]
+  Arron Gregory equipped Пояс инструментов
+[03/10/2023 22:49:28]
+  vlad32 opened Настраиваемая дверь
+[03/10/2023 22:49:30]
+  vlad32 opened Настраиваемая дверь
+[03/10/2023 22:49:33]
+  vlad32 closed Настраиваемая дверь
+[03/10/2023 22:49:36]
+  vlad32 dropped Military Mk-I Hardsuit (Mercenary)
+[03/10/2023 22:49:37]
+  Colonel placed Кислородный баллон in Тяжёлый рюкзак (ID: 1561)
+[03/10/2023 22:49:42]
+  Colonel placed Кислородный баллон in Тяжёлый рюкзак (ID: 1561)
+[03/10/2023 22:49:42]
+  kynlan4ic equipped Сварочный аппарат
+[03/10/2023 22:49:44]
+  Colonel placed Кислородный баллон in Тяжёлый рюкзак (ID: 1561)
+[03/10/2023 22:49:58]
+  Blue moon disconnected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/10/2023 22:50:01]
+  Arron Gregory: igameCrog проходит лечение здесь: багажный отсек!
+[03/10/2023 22:50:02]
+  Arron Gregory: Мне требуется морфин!
+[03/10/2023 22:50:06]
+  Arron Gregory equipped Морфин
+[03/10/2023 22:50:12]
+  Arron Gregory: igameCrog чувствует себя хорошо!
+[03/10/2023 22:50:25]
+  kynlan4ic equipped УЗК
+[03/10/2023 22:50:30]
+  Супостат499 picked up Military Mk-I Hardsuit (Mercenary)
+[03/10/2023 22:50:33]
+  Colonel picked up Водолазный скафандр
+[03/10/2023 22:50:43]
+  Супостат499 placed Military Mk-I Hardsuit (Mercenary) in Шкаф для подводного снаряжения (ID: 623)
+[03/10/2023 22:50:48]
+  Colonel dropped Водолазный скафандр
+[03/10/2023 22:50:50]
+  Супостат499 picked up Водолазный скафандр
+[03/10/2023 22:50:58]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:50:58]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:51:01]
+  Darwin Brady started repairing Навигационный терминал
+[03/10/2023 22:51:01]
+  Супостат499 picked up Military Mk-I Hardsuit (Mercenary)
+[03/10/2023 22:51:01]
+  Супостат499 dropped Водолазный скафандр
+[03/10/2023 22:51:02]
+  Blue moon adjusted reactor settings: Temperature: 5026, Fission rate: 39, Turbine output: 75, Autotemp OFF
+[03/10/2023 22:51:03]
+  Blue moon adjusted reactor settings: Temperature: 5023, Fission rate: 41, Turbine output: 75, Autotemp OFF
+[03/10/2023 22:51:04]
+  Blue moon adjusted reactor settings: Temperature: 5775, Fission rate: 45, Turbine output: 75, Autotemp OFF
+[03/10/2023 22:51:04]
+  Супостат499 removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 632)
+[03/10/2023 22:51:04]
+  Devin Maxwell started repairing Навигационный терминал
+[03/10/2023 22:51:05]
+  Blue moon adjusted reactor settings: Temperature: 6652, Fission rate: 45, Turbine output: 76, Autotemp OFF
+[03/10/2023 22:51:05]
+  Супостат499 placed Military Mk-I Hardsuit (Mercenary) in Шкаф для подводного снаряжения (ID: 632)
+[03/10/2023 22:51:06]
+  Blue moon adjusted reactor settings: Temperature: 6741, Fission rate: 45, Turbine output: 80, Autotemp OFF
+[03/10/2023 22:51:06]
+  Супостат499 picked up Водолазный скафандр
+[03/10/2023 22:51:06]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:51:06]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:51:07]
+  Blue moon adjusted reactor settings: Temperature: 6479, Fission rate: 45, Turbine output: 86, Autotemp OFF
+[03/10/2023 22:51:08]
+  Blue moon adjusted reactor settings: Temperature: 5844, Fission rate: 45, Turbine output: 91, Autotemp OFF
+[03/10/2023 22:51:09]
+  Blue moon adjusted reactor settings: Temperature: 5648, Fission rate: 45, Turbine output: 89, Autotemp OFF
+[03/10/2023 22:51:10]
+  Blue moon adjusted reactor settings: Temperature: 5632, Fission rate: 45, Turbine output: 89, Autotemp OFF
+[03/10/2023 22:51:11]
+  Blue moon adjusted reactor settings: Temperature: 6218, Fission rate: 45, Turbine output: 49, Autotemp OFF
+[03/10/2023 22:51:12]
+  Blue moon adjusted reactor settings: Temperature: 7218, Fission rate: 45, Turbine output: 54, Autotemp OFF
+[03/10/2023 22:51:13]
+  Blue moon adjusted reactor settings: Temperature: 8218, Fission rate: 43, Turbine output: 54, Autotemp OFF
+[03/10/2023 22:51:14]
+  Blue moon adjusted reactor settings: Temperature: 7551, Fission rate: 34, Turbine output: 54, Autotemp OFF
+[03/10/2023 22:51:14]
+  Супостат499 dropped Водолазный скафандр
+[03/10/2023 22:51:15]
+  Blue moon adjusted reactor settings: Temperature: 6551, Fission rate: 37, Turbine output: 54, Autotemp OFF
+[03/10/2023 22:51:15]
+  Outer wall breached by Crawler
+[03/10/2023 22:51:16]
+  Blue moon adjusted reactor settings: Temperature: 6342, Fission rate: 37, Turbine output: 54, Autotemp OFF
+[03/10/2023 22:51:17]
+  Blue moon adjusted reactor settings: Temperature: 6288, Fission rate: 37, Turbine output: 49, Autotemp OFF
+[03/10/2023 22:51:17]
+  Darwin Brady: Горелка, горелка для сварки... Куда ты пропала, когда так нужна?
+[03/10/2023 22:51:18]
+  Blue moon adjusted reactor settings: Temperature: 6752, Fission rate: 37, Turbine output: 49, Autotemp OFF
+[03/10/2023 22:51:19]
+  Blue moon adjusted reactor settings: Temperature: 6464, Fission rate: 37, Turbine output: 66, Autotemp OFF
+[03/10/2023 22:51:20]
+  Blue moon adjusted reactor settings: Temperature: 5464, Fission rate: 37, Turbine output: 100, Autotemp OFF
+[03/10/2023 22:51:21]
+  Blue moon adjusted reactor settings: Temperature: 4464, Fission rate: 37, Turbine output: 82, Autotemp OFF
+[03/10/2023 22:51:21]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:51:22]
+  Outer wall repaired by Lionel Mungo
+[03/10/2023 22:51:22]
+  Lionel Mungo: Передний балласт: все протечки устранены!
+[03/10/2023 22:51:23]
+  Blue moon adjusted reactor settings: Temperature: 3662, Fission rate: 37, Turbine output: 82, Autotemp ON
+[03/10/2023 22:51:23]
+  Outer wall breached by Crawler
+[03/10/2023 22:51:23]
+  igameCrog connected a wire from Дверь с кнопками (set_state) to Выключатель (signal_out)
+[03/10/2023 22:51:23]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:51:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:23]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:23]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Outer wall breached by Crawler
+[03/10/2023 22:51:26]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:27]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:28]
+  Darwin Brady: Горелка, горелка для сварки... Куда ты пропала, когда так нужна?
+[03/10/2023 22:51:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Devin Maxwell equipped Сварочный аппарат
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Devin Maxwell: Багажный отсек: протечек не осталось!
+[03/10/2023 22:51:31]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:31]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:32]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:32]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:33]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:33]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:33]
+  Devin Maxwell: Мне нужно подводное снаряжение!
+[03/10/2023 22:51:34]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:51:34]
+  Outer wall repaired by Lionel Mungo
+[03/10/2023 22:51:35]
+  Lionel Mungo: Задний балласт: все протечки устранены!
+[03/10/2023 22:51:35]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/10/2023 22:51:35]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:51:41]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:41]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:41]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:41]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:42]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:44]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:48]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:48]
+  Blue moon set the recharge speed of Батарея to 60 %
+[03/10/2023 22:51:48]
+  Blue moon set the recharge speed of Батарея to 70 %
+[03/10/2023 22:51:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:49]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:50]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:51:51]
+  Crawler attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:51:52]
+  Blue moon set the recharge speed of Батарея to 60 %
+[03/10/2023 22:51:53]
+  Blue moon set the recharge speed of Батарея to 70 %
+[03/10/2023 22:51:54]
+  Blue moon set the recharge speed of Батарея to 80 %
+[03/10/2023 22:51:54]
+  Blue moon set the recharge speed of Батарея to 100 %
+[03/10/2023 22:51:56]
+  Blue moon set the recharge speed of Батарея to 80 %
+[03/10/2023 22:51:56]
+  Blue moon set the recharge speed of Батарея to 90 %
+[03/10/2023 22:51:56]
+  Blue moon set the recharge speed of Батарея to 100 %
+[03/10/2023 22:51:59]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:52:00]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:52:01]
+  Darwin Brady started repairing Монитор состояния
+[03/10/2023 22:52:02]
+  Devin Maxwell started repairing Монитор состояния
+[03/10/2023 22:52:04]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:52:04]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:52:19]
+  Blue moon removed Топливный стержень from Средний стальной шкаф (ID: 520)
+[03/10/2023 22:52:24]
+  Blue moon placed Топливный стержень in Ядерный реактор (ID: 497)
+[03/10/2023 22:52:26]
+  Blue moon adjusted reactor settings: Temperature: 7001, Fission rate: 42, Turbine output: 100, Autotemp ON
+[03/10/2023 22:52:27]
+  Blue moon adjusted reactor settings: Temperature: 8001, Fission rate: 40, Turbine output: 100, Autotemp OFF
+[03/10/2023 22:52:28]
+  Blue moon adjusted reactor settings: Temperature: 7827, Fission rate: 29, Turbine output: 100, Autotemp OFF
+[03/10/2023 22:52:31]
+  Blue moon adjusted reactor settings: Temperature: 4910, Fission rate: 29, Turbine output: 100, Autotemp ON
+[03/10/2023 22:52:41]
+  Colonel launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[03/10/2023 22:53:01]
+  igameCrog equipped Ящик с боеприпасами для магнитной пушки
+[03/10/2023 22:53:01]
+  igameCrog picked up Ящик с боеприпасами для магнитной пушки
+[03/10/2023 22:53:01]
+  Супостат499 removed Боеприпасы для цепной пушки from Зарядник для цепной пушки (ID: 535)
+[03/10/2023 22:53:02]
+  igameCrog placed Ящик с боеприпасами для магнитной пушки in Зарядник магнитной пушки (ID: 536)
+[03/10/2023 22:53:02]
+  Супостат499 equipped Боеприпасы для цепной пушки
+[03/10/2023 22:53:06]
+  Супостат499 placed Боеприпасы для цепной пушки in Зарядник для цепной пушки (ID: 535)
+[03/10/2023 22:53:08]
+  Darwin Brady equipped Боеприпасы для цепной пушки
+[03/10/2023 22:53:08]
+  Blue moon adjusted reactor settings: Temperature: 4995, Fission rate: 31, Turbine output: 100, Autotemp OFF
+[03/10/2023 22:53:10]
+  Blue moon adjusted reactor settings: Temperature: 5033, Fission rate: 31, Turbine output: 100, Autotemp OFF
+[03/10/2023 22:53:11]
+  Blue moon adjusted reactor settings: Temperature: 5049, Fission rate: 31, Turbine output: 100, Autotemp OFF
+[03/10/2023 22:53:11]
+  Blue moon adjusted reactor settings: Temperature: 5048, Fission rate: 31, Turbine output: 100, Autotemp ON
+[03/10/2023 22:53:20]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:53:21]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:53:22]
+  Darwin Brady started repairing Батарея
+[03/10/2023 22:53:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:25]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 22:53:26]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:53:26]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:43]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:44]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:45]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:46]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:47]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:48]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 18.0 Кровотечение: 3.0
+[03/10/2023 22:53:49]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 18.0 Кровотечение: 3.0
+[03/10/2023 22:53:52]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:52]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:52]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:52]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:52]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:53]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:53]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 18.0 Кровотечение: 3.0
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:54]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Darwin Brady: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:55]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:55]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:56]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:56]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:57]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:57]
+  Outer wall breached by Mudraptor_unarmored
+[03/10/2023 22:53:57]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:57]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:57]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:57]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:58]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:58]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:58]
+  Devin Maxwell: Мне нужно подводное снаряжение!
+[03/10/2023 22:53:58]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:58]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 2.3 Кровотечение: 0.2
+[03/10/2023 22:53:59]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:53:59]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 18.0 Кровотечение: 3.0
+[03/10/2023 22:53:59]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:00]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:01]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:01]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:01]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:01]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:01]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:01]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:01]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:01]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:03]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:03]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 18.0 Кровотечение: 3.0
+[03/10/2023 22:54:03]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:03]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 18.0 Кровотечение: 3.0
+[03/10/2023 22:54:03]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:03]
+  Mudraptor_unarmored has died (Cause of death: Рваная рана)
+[03/10/2023 22:54:03]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:03]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:03]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:04]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:04]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:04]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:04]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:04]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:04]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:04]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:04]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:54:04]
+  Mudraptor_unarmored attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:54:05]
+  Darwin Brady: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[03/10/2023 22:54:05]
+  Lionel Mungo: Задний балласт: все протечки устранены!
+[03/10/2023 22:54:08]
+  kynlan4ic: Пункт управления: здесь протечка!
+[03/10/2023 22:54:09]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[03/10/2023 22:54:12]
+  Devin Maxwell equipped Сварочный аппарат
+[03/10/2023 22:54:13]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/10/2023 22:54:19]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 22:54:19]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 22:54:20]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:54:20]
+  Lionel Mungo equipped Гаечный ключ
+[03/10/2023 22:54:22]
+  Lionel Mungo unequipped Гаечный ключ
+[03/10/2023 22:54:22]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:54:24]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:54:24]
+  Lionel Mungo equipped Гаечный ключ
+[03/10/2023 22:54:24]
+  Lionel Mungo started repairing Насос
+[03/10/2023 22:54:25]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 22:54:25]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:54:27]
+  Darwin Brady: Надо найти водолазный скафандр!
+[03/10/2023 22:54:27]
+  Lionel Mungo: Надо найти водолазный скафандр!
+[03/10/2023 22:54:27]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 22:54:27]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:54:28]
+  Devin Maxwell started repairing Кабельная коробка
+[03/10/2023 22:54:38]
+  Devin Maxwell unequipped Отвертка
+[03/10/2023 22:54:38]
+  Devin Maxwell equipped Сварочный аппарат
+[03/10/2023 22:54:38]
+  Outer wall repaired by Devin Maxwell
+[03/10/2023 22:54:39]
+  Devin Maxwell: Багажный отсек: все протечки устранены!
+[03/10/2023 22:54:40]
+  Devin Maxwell unequipped Сварочный аппарат
+[03/10/2023 22:54:41]
+  Darwin Brady unequipped Отвертка
+[03/10/2023 22:54:41]
+  Darwin Brady equipped Гаечный ключ
+[03/10/2023 22:54:42]
+  Lionel Mungo unequipped Гаечный ключ
+[03/10/2023 22:54:42]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:54:43]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 22:54:43]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:54:43]
+  Lionel Mungo equipped Гаечный ключ
+[03/10/2023 22:54:48]
+  Darwin Brady failed to repair Генератор кислорода челнока
+[03/10/2023 22:54:49]
+  Lionel Mungo started repairing Генератор кислорода челнока
+[03/10/2023 22:54:50]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 22:55:10]
+  Outer wall breached by Hammerhead_m
+[03/10/2023 22:55:10]
+  Outer wall breached by Hammerhead_m
+[03/10/2023 22:55:10]
+  Outer wall breached by Hammerhead_m
+[03/10/2023 22:55:11]
+  Outer wall breached by Hammerheadgold_m
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:12]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:12]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:12]
+  Lionel Mungo: Мне нужно подводное снаряжение!
+[03/10/2023 22:55:12]
+  Hammerheadgold_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:12]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:13]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Devin Maxwell: Мне нужно подводное снаряжение!
+[03/10/2023 22:55:13]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:13]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:14]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Darwin Brady: Куда делось все снаряжение для сварки? Ищу, ищу, и не могу найти!
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:14]
+  Lionel Mungo unequipped Гаечный ключ
+[03/10/2023 22:55:14]
+  Lionel Mungo equipped Сварочный аппарат
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:14]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:14]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Lionel Mungo unequipped Сварочный аппарат
+[03/10/2023 22:55:15]
+  Lionel Mungo equipped Гаечный ключ
+[03/10/2023 22:55:15]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:15]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:15]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Colonel closed Дверь с кнопками
+[03/10/2023 22:55:16]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Colonel opened Настраиваемая дверь
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:16]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:16]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:17]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Hammerheadgold_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Devin Maxwell equipped Гаечный ключ
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 2.3 Кровотечение: 0.4
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:18]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Outer wall breached by Hammerhead_m
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Devin Maxwell unequipped Гаечный ключ
+[03/10/2023 22:55:19]
+  Devin Maxwell equipped Отвертка
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 2.3 Кровотечение: 0.4
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 2.3 Кровотечение: 0.4
+[03/10/2023 22:55:19]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:19]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:20]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:21]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:21]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Arron Gregory: Colonel в полном порядке!
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Darwin Brady failed to repair Двигатель
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Lionel Mungo started repairing Двигатель
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:22]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:22]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:23]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:23]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:23]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  igameCrog picked up Водолазный скафандр
+[03/10/2023 22:55:24]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:24]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:24]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:25]
+  Devin Maxwell started repairing Батарея
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:25]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 2.3 Кровотечение: 0.4
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Darwin Brady unequipped Гаечный ключ
+[03/10/2023 22:55:26]
+  Darwin Brady equipped Отвертка
+[03/10/2023 22:55:26]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:26]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 2.3 Кровотечение: 0.4
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:26]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Outer wall breached by Hammerheadgold_m
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:27]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:28]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:28]
+  Outer wall breached by Hammerhead_m
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:28]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:28]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  igameCrog equipped Водолазный скафандр
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:29]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:29]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:29]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Arron Gregory: Мне нужен кислородный баллон!
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 9.0 Кровотечение: 1.5
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Hammerhead_m has died (Cause of death: Рваная рана)
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Darwin Brady: Горелка, горелка для сварки... Куда ты пропала, когда так нужна?
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 12.0 Кровотечение: 2.0
+[03/10/2023 22:55:30]
+  Hammerhead_m attacked by Супостат499. Рваная рана: 6.6 Кровотечение: 0.2
+[03/10/2023 22:55:30]
+  Супостат499 launched Цепная пушка (projectile: Болт для цепной пушки)

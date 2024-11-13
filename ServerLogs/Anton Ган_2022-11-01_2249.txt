@@ -1,0 +1,374 @@
+﻿[11/01/2022 22:39:32]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/01/2022 22:39:33]
+  kynlan4ic placed Фуражка мятежника in Большой стальной шкаф (ID: 114)
+[11/01/2022 22:39:34]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Компонент «Задержки» (signal_out)
+[11/01/2022 22:39:34]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «Задержки» (signal_out)
+[11/01/2022 22:39:34]
+  kynlan4ic picked up Фуражка мятежника
+[11/01/2022 22:39:40]
+  kynlan4ic equipped Металлический ящик
+[11/01/2022 22:39:42]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 82)
+[11/01/2022 22:40:12]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 22:40:12]
+  Ending the round...
+[11/01/2022 22:40:13]
+  Round ended.
+[11/01/2022 22:40:15]
+  Starting a new round...
+[11/01/2022 22:40:18]
+  Arthur Meisner equipped Отвертка
+[11/01/2022 22:40:18]
+  Sergei Carroll equipped Гаечный ключ
+[11/01/2022 22:40:18]
+  Миссия: Пассажирские перевозки
+[11/01/2022 22:40:18]
+  Нескольких пассажиров нужно отвезти в точку Центр Shinkonai. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[11/01/2022 22:40:18]
+  Миссия: Доставка химикатов
+[11/01/2022 22:40:18]
+  Исследователи из точки Жилой аванпост Thrudur ищут того, кто сможет выполнить доставку опасных химикатов. Пункт назначения: Центр Shinkonai. Награда: 140 кред.
+[11/01/2022 22:40:18]
+  Миссия: Убийство большого ползуна
+[11/01/2022 22:40:18]
+  Поступили сообщения о необычайно большом ползуне, нападающем на суда на маршруте Жилой аванпост Thrudur - Центр Shinkonai. Команда, которая его уничтожит, получит достойную награду в размере 1,200 кред.
+[11/01/2022 22:40:18]
+  Game mode: Кампания
+[11/01/2022 22:40:18]
+  Submarine: Barsuk
+[11/01/2022 22:40:18]
+  Level seed: ShinkonaiThrudur
+[11/01/2022 22:40:18]
+  Mission: Пассажирские перевозки
+[11/01/2022 22:40:18]
+  Mission: Доставка химикатов
+[11/01/2022 22:40:18]
+  Mission: Убийство большого ползуна
+[11/01/2022 22:40:18]
+  igameCrog equipped Отвертка
+[11/01/2022 22:40:19]
+  Round started.
+[11/01/2022 22:40:19]
+  Arthur Meisner unequipped Отвертка
+[11/01/2022 22:40:20]
+  Sergei Carroll unequipped Гаечный ключ
+[11/01/2022 22:40:20]
+  Chance Hines equipped Отвертка
+[11/01/2022 22:40:20]
+  Tyson Kidd equipped Отвертка
+[11/01/2022 22:40:21]
+  Priscilla Jones equipped Отвертка
+[11/01/2022 22:40:21]
+  Chance Hines started repairing Кабельная коробка
+[11/01/2022 22:40:22]
+  Priscilla Jones started repairing Кабельная коробка
+[11/01/2022 22:40:22]
+  Chance Hines unequipped Отвертка
+[11/01/2022 22:40:23]
+  Tyson Kidd unequipped Отвертка
+[11/01/2022 22:40:26]
+  Priscilla Jones unequipped Отвертка
+[11/01/2022 22:40:28]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 22:40:36]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 22:40:41]
+  kynlan4ic equipped Ящик с химикатами
+[11/01/2022 22:40:42]
+  Arthur Meisner: Ворюга! Положи сейчас же обратно, и я сделаю вид, что ничего не было.
+[11/01/2022 22:40:46]
+  kynlan4ic dropped Ящик с химикатами
+[11/01/2022 22:40:47]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/01/2022 22:40:51]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/01/2022 22:40:56]
+  kynlan4ic equipped Ящик с боеприпасами для магнитной пушки
+[11/01/2022 22:40:59]
+  kynlan4ic dropped Ящик с боеприпасами для магнитной пушки
+[11/01/2022 22:41:04]
+  kynlan4ic equipped Металлический ящик
+[11/01/2022 22:41:06]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[11/01/2022 22:41:06]
+  kynlan4ic picked up Топливный бак сварочного аппарата
+[11/01/2022 22:41:06]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 22:41:06]
+  kynlan4ic picked up Топливный стержень
+[11/01/2022 22:41:07]
+  Tyson Kidd: Внутрь.
+[11/01/2022 22:41:07]
+  kynlan4ic dropped Металлический ящик
+[11/01/2022 22:41:08]
+  kynlan4ic equipped Ящик со взрывчаткой
+[11/01/2022 22:41:08]
+  Tyson Kidd: Нырять глубже? Нет, нырять внутрь.
+[11/01/2022 22:41:11]
+  kynlan4ic dropped Ящик со взрывчаткой
+[11/01/2022 22:41:11]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:41:11]
+  igameCrog placed Плавательный пузырь in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:41:12]
+  igameCrog placed Пакет с кровью in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:41:14]
+  igameCrog picked up Пакет с кровью
+[11/01/2022 22:41:15]
+  igameCrog placed Гидроксиапатит in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:41:15]
+  igameCrog placed Гидроксиапатит in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:41:15]
+  igameCrog placed Гидроксиапатит in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:41:17]
+  igameCrog placed Пакет с кровью in Аптечка (ID: 3)
+[11/01/2022 22:41:17]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 39)
+[11/01/2022 22:41:17]
+  kynlan4ic placed Топливный стержень in Средний стальной шкаф (ID: 39)
+[11/01/2022 22:41:18]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 39)
+[11/01/2022 22:41:18]
+  kynlan4ic placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 39)
+[11/01/2022 22:41:19]
+  igameCrog picked up Инопланетная кровь
+[11/01/2022 22:41:21]
+  igameCrog placed Инопланетная кровь in Шкаф для хранения токсинов (ID: 680)
+[11/01/2022 22:42:41]
+  Crawler has died (Cause of death: Укусы)
+[11/01/2022 22:42:42]
+  Mudraptor_unarmored has died (Cause of death: Укусы)
+[11/01/2022 22:42:48]
+  Outer wall breached by Crawler_large
+[11/01/2022 22:42:48]
+  Sara Hebert: Огонь!
+[11/01/2022 22:42:49]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 22:42:51]
+  Crawler has died (Cause of death: Ожог)
+[11/01/2022 22:42:51]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 22:42:51]
+  Sara Hebert: И-и-и-и... Готово!
+[11/01/2022 22:42:51]
+  Stephane Palmieri: Огонь!
+[11/01/2022 22:42:51]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:51]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:51]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:51]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:52]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 22:42:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:52]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:53]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:55]
+  Crawler has died (Cause of death: Повреждение глубоких тканей)
+[11/01/2022 22:42:55]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 22:42:55]
+  Sara Hebert: Кажется, есть попадание!
+[11/01/2022 22:42:55]
+  Sara Hebert: Прицел на ледяной шпиль!
+[11/01/2022 22:42:56]
+  Stephane Palmieri: Новая цель: ледяной шпиль!
+[11/01/2022 22:42:56]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:56]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:57]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 22:42:57]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 22:42:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:57]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:58]
+  Outer wall repaired by Chance Hines
+[11/01/2022 22:42:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:58]
+  Chance Hines: Пункт управления: все протечки устранены!
+[11/01/2022 22:42:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:58]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:59]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:42:59]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 22:43:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:43:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:43:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:43:00]
+  Stephane Palmieri launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/01/2022 22:43:00]
+  Crawler_large has died (Cause of death: Рваная рана)
+[11/01/2022 22:43:00]
+  Информация о миссии: Цель уничтожена - Ползун уничтожен. Осталось получить награду на следующей станции.
+[11/01/2022 22:43:00]
+  Stephane Palmieri: Цель уничтожена!
+[11/01/2022 22:43:55]
+  Sara Hebert: Огонь!
+[11/01/2022 22:43:56]
+  Sara Hebert launched Импульсный лазер (projectile: Болт для импульсного лазера)
+[11/01/2022 22:43:57]
+  igameCrog disconnected a wire from Суперконденсатор (charge_%) to Текстовый экран (set_text)
+[11/01/2022 22:43:57]
+  igameCrog connected a wire from Суперконденсатор (charge) to Текстовый экран (set_text)
+[11/01/2022 22:43:58]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 22:43:58]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 22:44:00]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 22:44:01]
+  Outer wall repaired by Barney Clements
+[11/01/2022 22:44:02]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 22:44:06]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 22:44:09]
+  Outer wall repaired by Barney Clements
+[11/01/2022 22:44:09]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2022 22:44:11]
+  kynlan4ic docked Barsuk to Центр Shinkonai
+[11/01/2022 22:44:11]
+  kynlan4ic has gained 103 experience (1539 -> 1642)
+[11/01/2022 22:44:11]
+  igameCrog has gained 103 experience (1539 -> 1642)
+[11/01/2022 22:44:11]
+  kynlan4ic has gained 13 experience (1642 -> 1655)
+[11/01/2022 22:44:11]
+  igameCrog has gained 13 experience (1642 -> 1655)
+[11/01/2022 22:44:11]
+  kynlan4ic has gained 112 experience (1655 -> 1767)
+[11/01/2022 22:44:11]
+  igameCrog has gained 112 experience (1655 -> 1767)
+[11/01/2022 22:44:11]
+  Ending the round...
+[11/01/2022 22:44:12]
+  Round ended.
+[11/01/2022 22:44:14]
+  Starting a new round...
+[11/01/2022 22:44:17]
+  Game mode: Кампания
+[11/01/2022 22:44:17]
+  Submarine: Barsuk
+[11/01/2022 22:44:17]
+  Level seed: Shinkonai
+[11/01/2022 22:44:17]
+  Mitchel Knowles equipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Mitchel Knowles unequipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Mitchel Knowles equipped Отвертка
+[11/01/2022 22:44:17]
+  Keri Hinton equipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Keri Hinton unequipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Keri Hinton equipped Отвертка
+[11/01/2022 22:44:17]
+  Zoe Velazquez equipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Zoe Velazquez unequipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Zoe Velazquez equipped Отвертка
+[11/01/2022 22:44:17]
+  Sage Lozano equipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Sage Lozano unequipped Гаечный ключ
+[11/01/2022 22:44:17]
+  Sage Lozano equipped Отвертка
+[11/01/2022 22:44:17]
+  Sage Lozano unequipped Отвертка
+[11/01/2022 22:44:17]
+  Sage Lozano equipped Лом
+[11/01/2022 22:44:18]
+  Corinne Lavey equipped Гаечный ключ
+[11/01/2022 22:44:18]
+  Corinne Lavey unequipped Гаечный ключ
+[11/01/2022 22:44:18]
+  Corinne Lavey equipped Отвертка
+[11/01/2022 22:44:18]
+  Britt Harp equipped Лом
+[11/01/2022 22:44:18]
+  Lily Atterbury equipped Отвертка
+[11/01/2022 22:44:18]
+  igameCrog equipped Отвертка
+[11/01/2022 22:44:19]
+  Chance Hines equipped Сварочный аппарат
+[11/01/2022 22:44:19]
+  Barney Clements equipped Сварочный аппарат
+[11/01/2022 22:44:19]
+  Round started.
+[11/01/2022 22:44:19]
+  Lily Atterbury unequipped Отвертка
+[11/01/2022 22:44:20]
+  Mitchel Knowles unequipped Отвертка
+[11/01/2022 22:44:20]
+  Sage Lozano unequipped Лом
+[11/01/2022 22:44:20]
+  Britt Harp unequipped Лом
+[11/01/2022 22:44:20]
+  Chance Hines unequipped Сварочный аппарат
+[11/01/2022 22:44:20]
+  Barney Clements unequipped Сварочный аппарат
+[11/01/2022 22:44:29]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 22:44:31]
+  Corinne Lavey: Привет! Добро пожаловать в наше скромное пристанище.
+[11/01/2022 22:44:38]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/01/2022 22:45:05]
+  Britt Harp: Что думаете об обустройстве этого аванпоста?
+[11/01/2022 22:46:36]
+  Corinne Lavey unequipped Отвертка
+[11/01/2022 22:49:13]
+  kynlan4ic purchased 10 item(s) for 2,868 кр.
+ - Водолазный скафандр x1
+ - Гарпун x11
+ - Капсула для импульсного лазера x1
+ - Каликсанид x1
+ - Дробовик x1
+ - Патрон для дробовика x10
+ - Цианид x1
+ - Жидкий тоник x1
+ - Осколочная граната x2
+ - Аккумулятор x3
+[11/01/2022 22:49:57]
+  Client "kynlan4ic" ended the round.
+[11/01/2022 22:49:58]
+  Ending the round...

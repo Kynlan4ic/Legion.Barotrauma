@@ -1,0 +1,220 @@
+﻿[11/07/2022 20:32:04]
+  Roslyn Marquez: Мне требуется жидкий кислородит!
+[11/07/2022 20:32:05]
+  Tyson Kidd started repairing Батарея
+[11/07/2022 20:32:05]
+  kynlan4ic picked up Водолазный скафандр
+[11/07/2022 20:32:05]
+  Chance Hines started repairing Батарея
+[11/07/2022 20:32:06]
+  Priscilla Jones: Невозможно добраться: Батарея!
+[11/07/2022 20:32:07]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:32:07]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:32:07]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:32:07]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:32:08]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:32:08]
+  Priscilla Jones equipped Гаечный ключ
+[11/07/2022 20:32:11]
+  Roslyn Marquez equipped Сварочный аппарат
+[11/07/2022 20:32:12]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:32:12]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:32:12]
+  Roslyn Fesler equipped Ящик с боеприпасами для магнитной пушки
+[11/07/2022 20:32:12]
+  Outer wall repaired by Roslyn Marquez
+[11/07/2022 20:32:13]
+  Roslyn Marquez: Стыковочный порт: протечек не осталось!
+[11/07/2022 20:32:13]
+  Outer wall breached by Crawler
+[11/07/2022 20:32:15]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:32:16]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:32:16]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:32:16]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:32:16]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:32:16]
+  Tyson Kidd: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:19]
+  Roslyn Marquez unequipped Сварочный аппарат
+[11/07/2022 20:32:21]
+  Priscilla Jones: Надо найти водолазный скафандр!
+[11/07/2022 20:32:21]
+  Stephane Palmieri equipped Шоковая дубинка
+[11/07/2022 20:32:21]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:22]
+  Chance Hines failed to repair Фабрикатор
+[11/07/2022 20:32:22]
+  Larita Baumgardner: Не удалось зарядить боеприпасами: Магнитная пушка!
+[11/07/2022 20:32:23]
+  Larita Baumgardner: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:32:23]
+  kynlan4ic opened Настраиваемая дверь с окном
+[11/07/2022 20:32:23]
+  Larita Baumgardner: Закончились боеприпасы для магнитной пушки!
+[11/07/2022 20:32:24]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:32:24]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:32:24]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:32:24]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:24]
+  Arron Krall: Верхняя передняя часть: протечек не осталось!
+[11/07/2022 20:32:24]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:32:25]
+  Outer wall repaired by Tyson Kidd
+[11/07/2022 20:32:25]
+  Tyson Kidd: Соединительный отсек: минус одна протечка!
+[11/07/2022 20:32:26]
+  Inner wall breached by Crawler
+[11/07/2022 20:32:26]
+  Chance Hines started repairing Деконструктор
+[11/07/2022 20:32:26]
+  Outer wall breached by Crawler
+[11/07/2022 20:32:26]
+  Arron Krall: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:27]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:32:28]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:32:28]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:32:29]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,245,255,125".
+[11/07/2022 20:32:31]
+  Stephane Palmieri unequipped Шоковая дубинка
+[11/07/2022 20:32:33]
+  Stephane Palmieri: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:32:33]
+  Stephane Palmieri: Закончились боеприпасы для магнитной пушки!
+[11/07/2022 20:32:33]
+  Stephane Palmieri: Не удалось зарядить боеприпасами: Магнитная пушка!
+[11/07/2022 20:32:34]
+  Tyson Kidd unequipped Сварочный аппарат
+[11/07/2022 20:32:34]
+  Tyson Kidd equipped Отвертка
+[11/07/2022 20:32:35]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:32:35]
+  Outer wall repaired by Arron Krall
+[11/07/2022 20:32:36]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,245,255,125".
+[11/07/2022 20:32:37]
+  Arron Krall unequipped Сварочный аппарат
+[11/07/2022 20:32:38]
+  Chance Hines started repairing Малый насос
+[11/07/2022 20:32:38]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:32:41]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,0,255,125".
+[11/07/2022 20:32:42]
+  Святый сын Жорик set the value "LightColor" of the item "Лампа" to "103,2,255,125".
+[11/07/2022 20:32:42]
+  Tyson Kidd started repairing Кабельная коробка
+[11/07/2022 20:32:45]
+  Outer wall breached by Crawler
+[11/07/2022 20:32:46]
+  igameCrog picked up Информационный экран сканера здоровья
+[11/07/2022 20:32:47]
+  Tyson Kidd: Мне нужно подводное снаряжение!
+[11/07/2022 20:32:48]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,29,49,100".
+[11/07/2022 20:32:49]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "255,2,49,100".
+[11/07/2022 20:32:52]
+  Larita Baumgardner: Не удалось зарядить боеприпасами: Магнитная пушка!
+[11/07/2022 20:32:53]
+  Larita Baumgardner: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[11/07/2022 20:32:53]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,2,49,100".
+[11/07/2022 20:32:53]
+  Priscilla Jones started repairing Медицинский фабрикатор
+[11/07/2022 20:32:53]
+  Larita Baumgardner: Закончились боеприпасы для магнитной пушки!
+[11/07/2022 20:32:55]
+  Chance Hines started repairing Двигатель
+[11/07/2022 20:32:58]
+  Roslyn Marquez: Надо найти водолазный скафандр!
+[11/07/2022 20:33:00]
+  Tyson Kidd: Невозможно добраться: Ядерный реактор!
+[11/07/2022 20:33:00]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 4050)
+[11/07/2022 20:33:00]
+  igameCrog removed Кислородный баллон from Пояс инструментов (ID: 4050)
+[11/07/2022 20:33:00]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 72)
+[11/07/2022 20:33:01]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,49,100".
+[11/07/2022 20:33:02]
+  Stephane Palmieri equipped Шоковая дубинка
+[11/07/2022 20:33:02]
+  Stephane Palmieri: Мне нужно подводное снаряжение!
+[11/07/2022 20:33:02]
+  Chance Hines unequipped Гаечный ключ
+[11/07/2022 20:33:02]
+  Chance Hines equipped Отвертка
+[11/07/2022 20:33:02]
+  Chance Hines unequipped Отвертка
+[11/07/2022 20:33:02]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:33:03]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,51,100".
+[11/07/2022 20:33:03]
+  Chance Hines unequipped Сварочный аппарат
+[11/07/2022 20:33:03]
+  Chance Hines equipped Гаечный ключ
+[11/07/2022 20:33:04]
+  Arron Krall: Надо найти водолазный скафандр!
+[11/07/2022 20:33:04]
+  Chance Hines unequipped Гаечный ключ
+[11/07/2022 20:33:04]
+  Chance Hines equipped Сварочный аппарат
+[11/07/2022 20:33:05]
+  Priscilla Jones unequipped Гаечный ключ
+[11/07/2022 20:33:05]
+  Priscilla Jones equipped Отвертка
+[11/07/2022 20:33:05]
+  Chance Hines: Помогите, я истекаю кровью!
+[11/07/2022 20:33:05]
+  kynlan4ic equipped Револьвер
+[11/07/2022 20:33:05]
+  Tyson Kidd unequipped Отвертка
+[11/07/2022 20:33:05]
+  Tyson Kidd equipped Сварочный аппарат
+[11/07/2022 20:33:05]
+  Larita Baumgardner equipped Шоковая дубинка
+[11/07/2022 20:33:05]
+  Larita Baumgardner: Надо найти водолазный скафандр!
+[11/07/2022 20:33:06]
+  Priscilla Jones unequipped Отвертка
+[11/07/2022 20:33:06]
+  Priscilla Jones equipped Сварочный аппарат
+[11/07/2022 20:33:06]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,51,100".
+[11/07/2022 20:33:07]
+  Roslyn Fesler equipped Сварочный аппарат
+[11/07/2022 20:33:08]
+  Arron Krall equipped Сварочный аппарат
+[11/07/2022 20:33:08]
+  Святый сын Жорик set the value "LightColor" of the item "Аварийная лампа" to "111,5,51,104".
+[11/07/2022 20:33:09]
+  Арти Дулитл: Мне нужно подводное снаряжение!
+[11/07/2022 20:33:09]
+  Client "kynlan4ic" ended the round.
+[11/07/2022 20:33:09]
+  Ending the round...

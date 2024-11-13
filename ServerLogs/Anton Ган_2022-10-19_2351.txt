@@ -1,0 +1,1028 @@
+﻿[10/19/2022 23:01:26]
+  Starting the server...
+[10/19/2022 23:01:26]
+  Using SteamP2P networking.
+[10/19/2022 23:01:26]
+  Server started
+[10/19/2022 23:01:26]
+  Игрок kynlan4ic присоединился к серверу.
+[10/19/2022 23:01:26]
+  Saving client permissions
+[10/19/2022 23:01:26]
+  Saving client permissions
+[10/19/2022 23:02:15]
+  kynlan4ic is ready to start the game.
+[10/19/2022 23:02:15]
+  Client "kynlan4ic" started the round.
+[10/19/2022 23:02:15]
+  Starting a new round...
+[10/19/2022 23:02:20]
+  Game mode: Песочница
+[10/19/2022 23:02:20]
+  Submarine: Dugong
+[10/19/2022 23:02:20]
+  Level seed: iy7Ciex3
+[10/19/2022 23:02:20]
+  Reginald Gordon equipped Отвертка
+[10/19/2022 23:02:20]
+  Sammie Nicolosi equipped Сварочный аппарат
+[10/19/2022 23:02:21]
+  Janessa Breeki equipped Сварочный аппарат
+[10/19/2022 23:02:22]
+  Round started.
+[10/19/2022 23:02:28]
+  Devin Heuer: Слышишь, как поют люди-крабы?
+[10/19/2022 23:02:36]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/19/2022 23:05:40]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:05:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:05:41]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:08]
+  Outer wall breached by Moloch
+[10/19/2022 23:09:11]
+  Alvaro Carey: Надо найти водолазный скафандр!
+[10/19/2022 23:09:11]
+  Tory Swanger: Надо найти водолазный скафандр!
+[10/19/2022 23:09:11]
+  Randi Pool: Надо найти водолазный скафандр!
+[10/19/2022 23:09:12]
+  Nola Ashley: Надо найти водолазный скафандр!
+[10/19/2022 23:09:17]
+  Devin Heuer equipped Сварочный аппарат
+[10/19/2022 23:09:17]
+  Devin Heuer: Мне нужно подводное снаряжение!
+[10/19/2022 23:09:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:19]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:19]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:19]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:20]
+  Walker James equipped Сварочный аппарат
+[10/19/2022 23:09:20]
+  Walker James: Мне нужно подводное снаряжение!
+[10/19/2022 23:09:20]
+  Inner wall breached by Moloch
+[10/19/2022 23:09:20]
+  Inner wall breached by Moloch
+[10/19/2022 23:09:20]
+  Inner wall breached by Moloch
+[10/19/2022 23:09:20]
+  Inner wall breached by Moloch
+[10/19/2022 23:09:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:24]
+  Moloch attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/19/2022 23:09:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:25]
+  Moloch attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/19/2022 23:09:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:25]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:25]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:26]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:26]
+  Merrill Molina equipped Сварочный аппарат
+[10/19/2022 23:09:26]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:26]
+  Merrill Molina: Мне нужно подводное снаряжение!
+[10/19/2022 23:09:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:26]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:26]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:27]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:27]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:27]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:28]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:28]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:28]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:28]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:29]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:29]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:29]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:29]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:30]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:30]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:30]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:30]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:31]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:31]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:31]
+  Inner wall repaired by Devin Heuer
+[10/19/2022 23:09:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:31]
+  Inner wall repaired by Devin Heuer
+[10/19/2022 23:09:31]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:32]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:32]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:32]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:32]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:33]
+  Moloch attacked by kynlan4ic. Рваная рана: 22.5 Кровотечение: 1.5 Оглушение: 0.025
+[10/19/2022 23:09:33]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:09:33]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:09:33]
+  Outer wall breached by Moloch
+[10/19/2022 23:09:33]
+  Inner wall breached by Moloch
+[10/19/2022 23:09:33]
+  Inner wall breached by Moloch
+[10/19/2022 23:09:35]
+  Devin Heuer unequipped Сварочный аппарат
+[10/19/2022 23:09:35]
+  Walker James unequipped Сварочный аппарат
+[10/19/2022 23:09:44]
+  Lenny Rivera equipped Водолазный скафандр
+[10/19/2022 23:09:45]
+  Devin Heuer equipped Сварочный аппарат
+[10/19/2022 23:09:58]
+  Outer wall breached by Moloch
+[10/19/2022 23:09:58]
+  Outer wall breached by Moloch
+[10/19/2022 23:09:58]
+  Outer wall breached by Moloch
+[10/19/2022 23:09:58]
+  Outer wall breached by Moloch
+[10/19/2022 23:09:58]
+  Inner wall breached by Moloch
+[10/19/2022 23:10:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:03]
+  Ahmed Frye: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:03]
+  Walker James: Надо найти водолазный скафандр!
+[10/19/2022 23:10:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:04]
+  Jenine Ordway: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:04]
+  Roland James: Надо найти водолазный скафандр!
+[10/19/2022 23:10:04]
+  Allan Dollinger: Надо найти водолазный скафандр!
+[10/19/2022 23:10:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:04]
+  Tory Swanger: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:04]
+  Nola Ashley: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:04]
+  Randi Pool: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:04]
+  Moloch attacked by kynlan4ic. Рваная рана: 3.75 Кровотечение: 0.25 Оглушение: 0.025
+[10/19/2022 23:10:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:04]
+  Moloch attacked by kynlan4ic. Рваная рана: 2.85 Кровотечение: 0.1 Оглушение: 0.025
+[10/19/2022 23:10:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:05]
+  Moloch attacked by kynlan4ic. Рваная рана: 7.5 Кровотечение: 0.5 Оглушение: 0.025
+[10/19/2022 23:10:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/19/2022 23:10:09]
+  Devin Heuer unequipped Сварочный аппарат
+[10/19/2022 23:10:11]
+  Lenny Rivera: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:11]
+  Alvaro Carey: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:12]
+  Devin Heuer equipped Сварочный аппарат
+[10/19/2022 23:10:14]
+  Inner wall repaired by Devin Heuer
+[10/19/2022 23:10:14]
+  Devin Heuer: Камера балласта A: выполняю ремонт. Осталось несколько отверстий!
+[10/19/2022 23:10:17]
+  Devin Heuer unequipped Сварочный аппарат
+[10/19/2022 23:10:21]
+  Inner wall repaired by Merrill Molina
+[10/19/2022 23:10:21]
+  Merrill Molina: Соединительный отсек: протечек не осталось!
+[10/19/2022 23:10:22]
+  Allan Dollinger: Нечем дышать!
+[10/19/2022 23:10:22]
+  Walker James: Я теряю сознание!
+[10/19/2022 23:10:22]
+  Devin Heuer equipped Сварочный аппарат
+[10/19/2022 23:10:27]
+  Inner wall repaired by Devin Heuer
+[10/19/2022 23:10:34]
+  kynlan4ic has died (Cause of death: Нехватка кислорода)
+[10/19/2022 23:10:34]
+  Allan Dollinger: Надо найти водолазный скафандр!
+[10/19/2022 23:10:34]
+  Walker James: Надо найти водолазный скафандр!
+[10/19/2022 23:10:34]
+  Jenine Ordway: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:35]
+  Roland James: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:36]
+  Outer wall repaired by Merrill Molina
+[10/19/2022 23:10:36]
+  Merrill Molina: Камера балласта A: выполняю ремонт. Осталось несколько отверстий!
+[10/19/2022 23:10:38]
+  Merrill Molina unequipped Сварочный аппарат
+[10/19/2022 23:10:38]
+  Devin Heuer unequipped Сварочный аппарат
+[10/19/2022 23:10:39]
+  Devin Heuer equipped Сварочный аппарат
+[10/19/2022 23:10:45]
+  Tory Swanger equipped Отвертка
+[10/19/2022 23:10:45]
+  Tory Swanger: Мне нужно подводное снаряжение!
+[10/19/2022 23:10:47]
+  Tory Swanger unequipped Отвертка
+[10/19/2022 23:10:52]
+  Devin Heuer: Камера балласта A: минус одна протечка!
+[10/19/2022 23:10:53]
+  Inner wall repaired by Devin Heuer
+[10/19/2022 23:10:53]
+  Inner wall repaired by Devin Heuer
+[10/19/2022 23:10:56]
+  Merrill Molina equipped Сварочный аппарат
+[10/19/2022 23:10:57]
+  Nola Ashley equipped Водолазный скафандр
+[10/19/2022 23:10:58]
+  Alvaro Carey equipped Водолазный скафандр
+[10/19/2022 23:10:59]
+  Tory Swanger equipped Водолазный скафандр
+[10/19/2022 23:11:00]
+  Nola Ashley equipped Отвертка
+[10/19/2022 23:11:00]
+  Nola Ashley: Надо найти водолазный скафандр!
+[10/19/2022 23:11:01]
+  Ending round by votes (1/0)
+[10/19/2022 23:11:01]
+  Ending the round...
+[10/19/2022 23:11:02]
+  Round ended.
+[10/19/2022 23:15:13]
+  kynlan4ic changed RespawnInterval to 10
+[10/19/2022 23:15:13]
+  kynlan4ic changed MaxTransportTime to 300
+[10/19/2022 23:15:13]
+  kynlan4ic changed MinRespawnRatio to 0
+[10/19/2022 23:15:13]
+  kynlan4ic changed PlayStyle to Casual
+[10/19/2022 23:15:13]
+  kynlan4ic changed LosMode to Transparent
+[10/19/2022 23:15:13]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/19/2022 23:15:13]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/19/2022 23:15:15]
+  Client "kynlan4ic" started the round.
+[10/19/2022 23:15:15]
+  Starting a new round...
+[10/19/2022 23:15:17]
+  Game mode: Песочница
+[10/19/2022 23:15:17]
+  Submarine: Azimuth
+[10/19/2022 23:15:17]
+  Level seed: nXWEmbm6
+[10/19/2022 23:15:18]
+  Round started.
+[10/19/2022 23:15:19]
+  Virgil Stanley equipped Гаечный ключ
+[10/19/2022 23:15:20]
+  Virgil Stanley unequipped Гаечный ключ
+[10/19/2022 23:15:24]
+  Virgil Stanley: Проверка связи.
+[10/19/2022 23:15:28]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/19/2022 23:15:40]
+  kynlan4ic picked up Фонарик
+[10/19/2022 23:20:50]
+  kynlan4ic: Dorthy Little, убедись, что орудия подлодки не останутся без боеприпасов!
+[10/19/2022 23:20:51]
+  Dorthy Little: Есть!
+[10/19/2022 23:25:16]
+  kynlan4ic picked up Водолазный скафандр
+[10/19/2022 23:25:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:25:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:25:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:25:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:25:28]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:25:28]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:25:34]
+  kynlan4ic equipped Кислородный баллон
+[10/19/2022 23:25:35]
+  kynlan4ic equipped Фонарик
+[10/19/2022 23:25:59]
+  Aryanna Bushman equipped Отвертка
+[10/19/2022 23:25:59]
+  Aryanna Bushman started repairing Кабельная коробка
+[10/19/2022 23:26:02]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:26:02]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:26:10]
+  Aryanna Bushman unequipped Отвертка
+[10/19/2022 23:26:17]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 3)
+[10/19/2022 23:26:20]
+  kynlan4ic equipped Трубка капитана
+[10/19/2022 23:28:11]
+  Andres Bailey: Как правильно – таламусы или таламы?
+[10/19/2022 23:28:47]
+  Aryanna Bushman equipped Отвертка
+[10/19/2022 23:28:52]
+  Aryanna Bushman started repairing Кабельная коробка
+[10/19/2022 23:29:03]
+  Aryanna Bushman unequipped Отвертка
+[10/19/2022 23:30:22]
+  Aryanna Bushman equipped Отвертка
+[10/19/2022 23:30:23]
+  Aryanna Bushman started repairing Кабельная коробка
+[10/19/2022 23:30:34]
+  Aryanna Bushman unequipped Отвертка
+[10/19/2022 23:30:36]
+  kynlan4ic: Mechelle Knowles, отремонтируй механические приборы!
+[10/19/2022 23:30:37]
+  Mechelle Knowles: Есть!
+[10/19/2022 23:30:37]
+  Mechelle Knowles equipped Гаечный ключ
+[10/19/2022 23:30:45]
+  Mechelle Knowles started repairing Насос
+[10/19/2022 23:30:46]
+  Mechelle Knowles: Надо найти водолазный скафандр!
+[10/19/2022 23:30:49]
+  kynlan4ic picked up Водолазный скафандр
+[10/19/2022 23:30:50]
+  Aryanna Bushman equipped Отвертка
+[10/19/2022 23:30:50]
+  Beverley Hutchinson: Загружаю в реактор дополнительное топливо!
+[10/19/2022 23:30:51]
+  Aryanna Bushman unequipped Отвертка
+[10/19/2022 23:30:51]
+  Aryanna Bushman: Загружаю в реактор дополнительное топливо!
+[10/19/2022 23:30:53]
+  Lynwood Meza equipped Отвертка
+[10/19/2022 23:30:53]
+  Lynwood Meza started repairing Кабельная коробка
+[10/19/2022 23:30:55]
+  Beverley Hutchinson equipped Топливный стержень
+[10/19/2022 23:31:02]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:31:02]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:31:03]
+  Lynwood Meza unequipped Отвертка
+[10/19/2022 23:31:17]
+  Mechelle Knowles started repairing Генератор кислорода
+[10/19/2022 23:31:24]
+  Mechelle Knowles unequipped Гаечный ключ
+[10/19/2022 23:31:40]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:31:40]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:31:48]
+  kynlan4ic picked up Ручной сонар
+[10/19/2022 23:31:51]
+  kynlan4ic equipped Ручной сонар
+[10/19/2022 23:31:53]
+  Aryanna Bushman equipped Отвертка
+[10/19/2022 23:31:55]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:31:55]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:31:59]
+  Aryanna Bushman started repairing Кабельная коробка
+[10/19/2022 23:32:10]
+  Aryanna Bushman unequipped Отвертка
+[10/19/2022 23:32:21]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:32:24]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:32:26]
+  Ending round (submarine reached the end of the level)
+[10/19/2022 23:32:26]
+  Ending the round...
+[10/19/2022 23:32:27]
+  Round ended.
+[10/19/2022 23:33:50]
+  Client "kynlan4ic" started the round.
+[10/19/2022 23:33:50]
+  Starting a new round...
+[10/19/2022 23:33:52]
+  Game mode: Песочница
+[10/19/2022 23:33:52]
+  Submarine: Azimuth
+[10/19/2022 23:33:52]
+  Level seed: aJGuZgNF
+[10/19/2022 23:33:53]
+  Round started.
+[10/19/2022 23:33:58]
+  Dona Fleig: Засучим рукава, у нас впереди долгий путь!
+[10/19/2022 23:34:01]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/19/2022 23:34:58]
+  kynlan4ic: Dimitry McLeroy, пошли наружу!
+[10/19/2022 23:34:59]
+  Dimitry McLeroy: Так точно!
+[10/19/2022 23:35:15]
+  kynlan4ic picked up Водолазный скафандр
+[10/19/2022 23:35:35]
+  kynlan4ic: Dona Fleig, двигайся вперед!
+[10/19/2022 23:35:36]
+  Dona Fleig: Так точно!
+[10/19/2022 23:35:47]
+  kynlan4ic equipped Водолазный скафандр
+[10/19/2022 23:35:53]
+  Dona Fleig: Эй, тут я у руля!
+[10/19/2022 23:36:14]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 273)
+[10/19/2022 23:36:20]
+  Dona Fleig: На сонаре что-то есть. Направление: 5 ч.!
+[10/19/2022 23:36:36]
+  Outer wall breached by Mudraptor
+[10/19/2022 23:36:43]
+  Beaulah Gonzales: Надо найти водолазный скафандр!
+[10/19/2022 23:36:45]
+  Norman Mcclure: Мне нужно подводное снаряжение!
+[10/19/2022 23:36:49]
+  Shayla Pickett: Мне нужно подводное снаряжение!
+[10/19/2022 23:36:49]
+  Julius Hutchinson: Надо найти водолазный скафандр!
+[10/19/2022 23:36:50]
+  Darleen Callahan: Надо найти водолазный скафандр!
+[10/19/2022 23:36:50]
+  Inner wall breached by Mudraptor_unarmored
+[10/19/2022 23:36:52]
+  Dimitry McLeroy equipped Сварочный аппарат
+[10/19/2022 23:36:58]
+  Dimitry McLeroy unequipped Сварочный аппарат
+[10/19/2022 23:36:58]
+  Dimitry McLeroy equipped Подводный скутер
+[10/19/2022 23:36:59]
+  Client "kynlan4ic" ended the round.
+[10/19/2022 23:36:59]
+  Ending the round...
+[10/19/2022 23:37:00]
+  Round ended.
+[10/19/2022 23:38:49]
+  Client "kynlan4ic" started the round.
+[10/19/2022 23:38:49]
+  Starting a new round...
+[10/19/2022 23:38:50]
+  Game mode: Песочница
+[10/19/2022 23:38:50]
+  Submarine: Azimuth
+[10/19/2022 23:38:50]
+  Level seed: ytS0ukha
+[10/19/2022 23:38:51]
+  Round started.
+[10/19/2022 23:38:57]
+  Tisha Sacks: У меня дурное предчувствие...
+[10/19/2022 23:39:00]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/19/2022 23:39:47]
+  kynlan4ic: Tisha Sacks, двигайся вперед!
+[10/19/2022 23:39:48]
+  Tisha Sacks: Принято.
+[10/19/2022 23:41:17]
+  Tisha Sacks: Какой-то импульс на сонаре. Направление: 4 ч.!
+[10/19/2022 23:41:37]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:39]
+  Tisha Sacks: На радаре ледяные шпили!
+[10/19/2022 23:41:40]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:41]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:41]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:43]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:43]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:45]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:48]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:48]
+  Tisha Sacks: Надо найти водолазный скафандр!
+[10/19/2022 23:41:48]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:48]
+  Igor Chaney: Мне нужно подводное снаряжение!
+[10/19/2022 23:41:51]
+  Valerie Colpitts: Мне нужно подводное снаряжение!
+[10/19/2022 23:41:52]
+  kynlan4ic: Alton Poole, хватай оружие!
+[10/19/2022 23:41:53]
+  Pete Gay: Надо найти водолазный скафандр!
+[10/19/2022 23:41:53]
+  Alton Poole: Принято.
+[10/19/2022 23:41:54]
+  Micheal Jones: Надо найти водолазный скафандр!
+[10/19/2022 23:41:54]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:41:57]
+  Alton Poole equipped Лом
+[10/19/2022 23:41:58]
+  Alton Poole unequipped Лом
+[10/19/2022 23:42:01]
+  Darrin Chiu: Надо найти водолазный скафандр!
+[10/19/2022 23:42:03]
+  Crawlerhusk has died (Cause of death: Травма от удара тупым предметом)
+[10/19/2022 23:42:04]
+  Tisha Sacks equipped Револьвер
+[10/19/2022 23:42:05]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:06]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:42:06]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:42:06]
+  Valerie Colpitts equipped Сварочный аппарат
+[10/19/2022 23:42:06]
+  kynlan4ic picked up Водолазный скафандр
+[10/19/2022 23:42:07]
+  Micheal Jones equipped Сварочный аппарат
+[10/19/2022 23:42:07]
+  Igor Chaney equipped Шоковая дубинка
+[10/19/2022 23:42:07]
+  Darrin Chiu equipped Сварочный аппарат
+[10/19/2022 23:42:07]
+  Althea Phoenix equipped Сварочный аппарат
+[10/19/2022 23:42:08]
+  Alton Poole equipped Лом
+[10/19/2022 23:42:08]
+  Pete Gay equipped Сварочный аппарат
+[10/19/2022 23:42:08]
+  Marissa Robertson equipped Гаечный ключ
+[10/19/2022 23:42:09]
+  Tisha Sacks: Помогите, я истекаю кровью!
+[10/19/2022 23:42:09]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:42:09]
+  Dannette Huber equipped Гаечный ключ
+[10/19/2022 23:42:09]
+  Sebastian Rolfe equipped Гаечный ключ
+[10/19/2022 23:42:09]
+  Darrin Chiu unequipped Сварочный аппарат
+[10/19/2022 23:42:09]
+  Darrin Chiu equipped Сварочный аппарат
+[10/19/2022 23:42:11]
+  Dannette Huber unequipped Гаечный ключ
+[10/19/2022 23:42:11]
+  Althea Phoenix unequipped Сварочный аппарат
+[10/19/2022 23:42:11]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:11]
+  Igor Chaney used Шоковая дубинка (Аккумулятор) on Crawlerhusk.
+[10/19/2022 23:42:11]
+  Alton Poole unequipped Лом
+[10/19/2022 23:42:11]
+  Althea Phoenix equipped Сварочный аппарат
+[10/19/2022 23:42:11]
+  Dannette Huber equipped Гаечный ключ
+[10/19/2022 23:42:12]
+  Dannette Huber: Мне нужно подводное снаряжение!
+[10/19/2022 23:42:12]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:42:12]
+  Alton Poole equipped Лом
+[10/19/2022 23:42:12]
+  Dannette Huber unequipped Гаечный ключ
+[10/19/2022 23:42:12]
+  Dannette Huber equipped Гаечный ключ
+[10/19/2022 23:42:12]
+  Dannette Huber unequipped Гаечный ключ
+[10/19/2022 23:42:13]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:14]
+  Igor Chaney used Шоковая дубинка (Аккумулятор) on Crawlerhusk.
+[10/19/2022 23:42:14]
+  Alton Poole: Мне нужно подводное снаряжение!
+[10/19/2022 23:42:14]
+  Alton Poole unequipped Лом
+[10/19/2022 23:42:14]
+  Alton Poole equipped Лом
+[10/19/2022 23:42:14]
+  Alton Poole unequipped Лом
+[10/19/2022 23:42:15]
+  kynlan4ic picked up Фонарик
+[10/19/2022 23:42:16]
+  Igor Chaney used Шоковая дубинка (Аккумулятор) on Crawlerhusk.
+[10/19/2022 23:42:16]
+  Marissa Robertson: Надо найти водолазный скафандр!
+[10/19/2022 23:42:16]
+  Darrin Chiu unequipped Сварочный аппарат
+[10/19/2022 23:42:16]
+  Darrin Chiu equipped Сварочный аппарат
+[10/19/2022 23:42:17]
+  Pete Gay unequipped Сварочный аппарат
+[10/19/2022 23:42:17]
+  Pete Gay equipped Сварочный аппарат
+[10/19/2022 23:42:17]
+  Marissa Robertson unequipped Гаечный ключ
+[10/19/2022 23:42:17]
+  Marissa Robertson equipped Гаечный ключ
+[10/19/2022 23:42:17]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:17]
+  Igor Chaney unequipped Шоковая дубинка
+[10/19/2022 23:42:17]
+  Igor Chaney equipped Нож ныряльщика
+[10/19/2022 23:42:17]
+  Matt Patel: Мне нужно подводное снаряжение!
+[10/19/2022 23:42:17]
+  Althea Phoenix: Мне нужно подводное снаряжение!
+[10/19/2022 23:42:18]
+  Sebastian Rolfe: Мне нужно подводное снаряжение!
+[10/19/2022 23:42:18]
+  Sebastian Rolfe unequipped Гаечный ключ
+[10/19/2022 23:42:18]
+  Sebastian Rolfe equipped Гаечный ключ
+[10/19/2022 23:42:18]
+  Sebastian Rolfe unequipped Гаечный ключ
+[10/19/2022 23:42:19]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:42:19]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:42:20]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:42:20]
+  kynlan4ic picked up Фонарик
+[10/19/2022 23:42:22]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:42:22]
+  Igor Chaney unequipped Нож ныряльщика
+[10/19/2022 23:42:22]
+  Igor Chaney equipped Шоковая дубинка
+[10/19/2022 23:42:22]
+  kynlan4ic picked up Ручной сонар
+[10/19/2022 23:42:22]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:24]
+  kynlan4ic placed Фонарик in Большой стальной шкаф (ID: 290)
+[10/19/2022 23:42:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:42:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:42:25]
+  kynlan4ic picked up Кислородный баллон
+[10/19/2022 23:42:25]
+  Valerie Colpitts: Надо найти водолазный скафандр!
+[10/19/2022 23:42:28]
+  Matt Patel: Помогите, я истекаю кровью!
+[10/19/2022 23:42:28]
+  Marissa Robertson: Я теряю много крови!
+[10/19/2022 23:42:29]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:30]
+  kynlan4ic equipped Нож ныряльщика
+[10/19/2022 23:42:31]
+  Micheal Jones: Средняя передняя часть: давление достигло опасного уровня!
+[10/19/2022 23:42:31]
+  Valerie Colpitts: Средняя задняя часть: давление достигло опасного уровня!
+[10/19/2022 23:42:31]
+  Igor Chaney: Я теряю много крови!
+[10/19/2022 23:42:31]
+  Darrin Chiu: Надо найти водолазный скафандр!
+[10/19/2022 23:42:31]
+  Marissa Robertson: Соединительный отсек: давление достигло опасного уровня!
+[10/19/2022 23:42:31]
+  Pete Gay: Средняя передняя часть: давление достигло опасного уровня!
+[10/19/2022 23:42:32]
+  Alton Poole has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Darrin Chiu has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Sebastian Rolfe has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Micheal Jones has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Dannette Huber has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Pete Gay has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Marissa Robertson has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Matt Patel has died (Cause of death: Баротравма)
+[10/19/2022 23:42:32]
+  Althea Phoenix has died (Cause of death: Баротравма)
+[10/19/2022 23:42:36]
+  Valerie Colpitts unequipped Сварочный аппарат
+[10/19/2022 23:42:36]
+  Valerie Colpitts equipped Сварочный аппарат
+[10/19/2022 23:42:39]
+  Igor Chaney used Шоковая дубинка (Аккумулятор) on Crawlerhusk.
+[10/19/2022 23:42:40]
+  Igor Chaney unequipped Шоковая дубинка
+[10/19/2022 23:42:40]
+  Igor Chaney equipped Нож ныряльщика
+[10/19/2022 23:42:40]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:46]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:48]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:42:49]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:42:49]
+  Valerie Colpitts unequipped Сварочный аппарат
+[10/19/2022 23:42:49]
+  Valerie Colpitts equipped Сварочный аппарат
+[10/19/2022 23:42:53]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:42:55]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:42:56]
+  Valerie Colpitts: Мне нужно подводное снаряжение!
+[10/19/2022 23:42:56]
+  kynlan4ic launched ПУ для глубинных бомб (projectile: Глубинная приманка)
+[10/19/2022 23:42:59]
+  Tisha Sacks has died (Cause of death: Укусы)
+[10/19/2022 23:43:00]
+  Igor Chaney used Нож ныряльщика on Crawlerhusk.
+[10/19/2022 23:43:04]
+  Igor Chaney: У меня кровь!
+[10/19/2022 23:43:09]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:43:09]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:43:10]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:43:10]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:43:16]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:43:16]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:43:17]
+  kynlan4ic closed Настраиваемая дверь
+[10/19/2022 23:43:17]
+  kynlan4ic opened Настраиваемая дверь
+[10/19/2022 23:43:18]
+  Valerie Colpitts: Верхняя задняя часть: высокий уровень давления!
+[10/19/2022 23:43:18]
+  Valerie Colpitts has died (Cause of death: Баротравма)
+[10/19/2022 23:43:20]
+  Igor Chaney has died (Cause of death: Укусы)
+[10/19/2022 23:43:23]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:43:25]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:43:31]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:43:35]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:43:44]
+  kynlan4ic has died (Cause of death: Укусы)
+[10/19/2022 23:43:47]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:43:47]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:43:51]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:43:54]
+  Dispatching the respawn shuttle.
+[10/19/2022 23:43:54]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Офицер службы безопасности
+[10/19/2022 23:43:55]
+  Respawning bot Pete Gay as Механик
+[10/19/2022 23:43:55]
+  Respawning bot Micheal Jones as Механик
+[10/19/2022 23:43:55]
+  Respawning bot Igor Chaney as Офицер службы безопасности
+[10/19/2022 23:43:55]
+  Respawning bot Darrin Chiu as Механик
+[10/19/2022 23:43:55]
+  Respawning bot Tisha Sacks as Капитан
+[10/19/2022 23:43:56]
+  Respawning bot Marissa Robertson as Инженер
+[10/19/2022 23:43:56]
+  Respawning bot Valerie Colpitts as Инженер
+[10/19/2022 23:43:56]
+  Respawning bot Matt Patel as Врач
+[10/19/2022 23:43:56]
+  Respawning bot Alton Poole as Механик
+[10/19/2022 23:43:56]
+  Respawning bot Althea Phoenix as Механик
+[10/19/2022 23:43:56]
+  Respawning bot Dannette Huber as Инженер
+[10/19/2022 23:43:57]
+  Respawning bot Sebastian Rolfe as Инженер
+[10/19/2022 23:43:59]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/19/2022 23:44:03]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:44:18]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:44:21]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:44:56]
+  kynlan4ic: Tisha Sacks, прокладывай обратный курс!
+[10/19/2022 23:44:56]
+  Tisha Sacks: Надо найти водолазный скафандр!
+[10/19/2022 23:44:57]
+  Tisha Sacks: Само собой!
+[10/19/2022 23:46:03]
+  kynlan4ic: Igor Chaney, найди и уничтожь всех врагов!
+[10/19/2022 23:46:04]
+  Igor Chaney: Ни за что!
+[10/19/2022 23:46:36]
+  kynlan4ic: Pete Gay, займись поврежденными устройствами!
+[10/19/2022 23:46:37]
+  Pete Gay: Есть!
+[10/19/2022 23:46:46]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:46:47]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:46:49]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:46:53]
+  Tisha Sacks: Невозможно добраться: Навигационный терминал!
+[10/19/2022 23:47:00]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:47:00]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:47:04]
+  Pete Gay equipped Отвертка
+[10/19/2022 23:47:04]
+  Pete Gay: Надо найти водолазный скафандр!
+[10/19/2022 23:47:05]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:47:10]
+  Inner wall breached by Crawlerhusk
+[10/19/2022 23:47:10]
+  Pete Gay started repairing Навигационный терминал челнока
+[10/19/2022 23:47:15]
+  Pete Gay unequipped Отвертка
+[10/19/2022 23:47:15]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:47:18]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:47:33]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:35]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:35]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:47:35]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:36]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:37]
+  Darrin Chiu: Мне нужно подводное снаряжение!
+[10/19/2022 23:47:37]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:38]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:39]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:41]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:42]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:43]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:47:43]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:44]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:45]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:46]
+  kynlan4ic opened Настраиваемая дверь с окном
+[10/19/2022 23:47:47]
+  kynlan4ic closed Настраиваемая дверь с окном
+[10/19/2022 23:47:49]
+  Dannette Huber: Мне нужно подводное снаряжение!
+[10/19/2022 23:47:52]
+  Outer wall breached by Crawlerhusk
+[10/19/2022 23:47:59]
+  Pete Gay equipped Отвертка
+[10/19/2022 23:48:03]
+  Pete Gay started repairing Навигационный терминал челнока
+[10/19/2022 23:48:04]
+  Valerie Colpitts: Надо найти водолазный скафандр!
+[10/19/2022 23:48:09]
+  Pete Gay unequipped Отвертка
+[10/19/2022 23:48:19]
+  Client "kynlan4ic" ended the round.
+[10/19/2022 23:48:19]
+  Ending the round...
+[10/19/2022 23:48:20]
+  Round ended.
+[10/19/2022 23:49:26]
+  Client "kynlan4ic" started the round.
+[10/19/2022 23:49:26]
+  Starting a new round...
+[10/19/2022 23:49:28]
+  Game mode: Песочница
+[10/19/2022 23:49:28]
+  Submarine: Orca2
+[10/19/2022 23:49:28]
+  Level seed: Mmx1XiIv
+[10/19/2022 23:49:29]
+  Round started.
+[10/19/2022 23:49:34]
+  Margaret Pool: У тебя не бывает такого, что кажется, будто вся эта луна против нас?
+[10/19/2022 23:49:39]
+  Orval Deloney: Волны остановить нельзя, но можно научиться на них скользить.
+[10/19/2022 23:51:14]
+  Client "kynlan4ic" ended the round.
+[10/19/2022 23:51:14]
+  Ending the round...

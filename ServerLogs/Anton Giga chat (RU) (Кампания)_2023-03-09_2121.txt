@@ -1,0 +1,157 @@
+﻿[03/09/2023 21:12:09]
+  Starting the server...
+[03/09/2023 21:12:09]
+  Using SteamP2P networking.
+[03/09/2023 21:12:09]
+  Server started
+[03/09/2023 21:12:12]
+  Игрок kynlan4ic присоединился к серверу.
+[03/09/2023 21:12:12]
+  Saving client permissions
+[03/09/2023 21:12:12]
+  Saving client permissions
+[03/09/2023 21:12:13]
+  Gamemode changed to Кампания
+[03/09/2023 21:14:26]
+  Игрок vlad32 присоединился к серверу.
+[03/09/2023 21:14:26]
+  Saving client permissions
+[03/09/2023 21:14:46]
+  vlad32 покидает сервер.
+[03/09/2023 21:15:05]
+  Игрок vlad32 присоединился к серверу.
+[03/09/2023 21:15:05]
+  Saving client permissions
+[03/09/2023 21:15:54]
+  Console command "enablecheats" executed by kynlan4ic.
+[03/09/2023 21:16:17]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:34]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:35]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:35]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:35]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:35]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:35]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:36]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:36]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:36]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:36]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:36]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:36]
+  vlad32 is ready to start the game.
+[03/09/2023 21:16:37]
+  vlad32 is not ready to start the game.
+[03/09/2023 21:16:41]
+  kynlan4ic is ready to start the game.
+[03/09/2023 21:17:24]
+  Starting a new round...
+[03/09/2023 21:17:25]
+  kynlan4ic is not ready to start the game.
+[03/09/2023 21:17:38]
+  Game mode: Кампания
+[03/09/2023 21:17:38]
+  Submarine: Dugong
+[03/09/2023 21:17:38]
+  Level seed: Thaw
+[03/09/2023 21:17:39]
+  Messiah Shah equipped Гаечный ключ
+[03/09/2023 21:17:39]
+  Messiah Shah unequipped Гаечный ключ
+[03/09/2023 21:17:39]
+  Messiah Shah equipped Отвертка
+[03/09/2023 21:17:39]
+  Messiah Shah unequipped Отвертка
+[03/09/2023 21:17:39]
+  Messiah Shah equipped Лом
+[03/09/2023 21:17:39]
+  Althea Fesler equipped Гаечный ключ
+[03/09/2023 21:17:39]
+  Althea Fesler unequipped Гаечный ключ
+[03/09/2023 21:17:39]
+  Althea Fesler equipped Отвертка
+[03/09/2023 21:17:39]
+  Josef Tootle equipped Отвертка
+[03/09/2023 21:17:39]
+  Margeret Gadberry equipped Гаечный ключ
+[03/09/2023 21:17:45]
+  Round started.
+[03/09/2023 21:17:47]
+  Margeret Gadberry unequipped Гаечный ключ
+[03/09/2023 21:17:47]
+  Josef Tootle unequipped Отвертка
+[03/09/2023 21:17:47]
+  Messiah Shah unequipped Лом
+[03/09/2023 21:17:51]
+  Messiah Shah: Тот, кто проектировал это место, понятия не имел, что он делает.
+[03/09/2023 21:17:55]
+  Darwin Brady equipped Disposable ammunition container
+[03/09/2023 21:18:17]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 21:18:23]
+  vlad32 set the value "Channel" of the item "Наушники" to "0".
+[03/09/2023 21:18:25]
+  vlad32 set the recharge speed of Суперконденсатор to 40 %
+[03/09/2023 21:18:25]
+  vlad32 set the recharge speed of Суперконденсатор to 60 %
+[03/09/2023 21:18:25]
+  vlad32 set the recharge speed of Суперконденсатор to 90 %
+[03/09/2023 21:18:25]
+  vlad32 set the recharge speed of Суперконденсатор to 100 %
+[03/09/2023 21:18:27]
+  vlad32 set the recharge speed of Суперконденсатор to 30 %
+[03/09/2023 21:18:28]
+  vlad32 set the recharge speed of Суперконденсатор to 70 %
+[03/09/2023 21:18:28]
+  vlad32 set the recharge speed of Суперконденсатор to 90 %
+[03/09/2023 21:18:31]
+  kynlan4ic equipped P-8 Pilot
+[03/09/2023 21:18:32]
+  vlad32 set the recharge speed of Суперконденсатор to 90 %
+[03/09/2023 21:18:32]
+  vlad32 set the recharge speed of Суперконденсатор to 80 %
+[03/09/2023 21:18:32]
+  vlad32 set the recharge speed of Суперконденсатор to 60 %
+[03/09/2023 21:18:32]
+  vlad32 set the recharge speed of Суперконденсатор to 50 %
+[03/09/2023 21:18:33]
+  vlad32 set the recharge speed of Суперконденсатор to 60 %
+[03/09/2023 21:18:34]
+  vlad32 set the recharge speed of Суперконденсатор to 80 %
+[03/09/2023 21:18:34]
+  vlad32 set the recharge speed of Суперконденсатор to 70 %
+[03/09/2023 21:18:34]
+  vlad32 set the recharge speed of Суперконденсатор to 60 %
+[03/09/2023 21:18:35]
+  vlad32 set the recharge speed of Суперконденсатор to 70 %
+[03/09/2023 21:18:42]
+  vlad32 equipped P-8 Pilot
+[03/09/2023 21:18:52]
+  Laurie Suarez: Прежде мы с вами не встречались.
+[03/09/2023 21:19:48]
+  Althea Fesler unequipped Отвертка
+[03/09/2023 21:20:13]
+  kynlan4ic purchased 3 item(s) for 1,287 кр.
+ - Контейнер для хранения x1
+ - Топливный стержень x2
+ - Топливный бак сварочного аппарата x6
+[03/09/2023 21:21:03]
+  kynlan4ic purchased 4 item(s) for 1,695 кр.
+ - Flare Gun x1
+ - Flare Cartridge x4
+ - Renegade Combat Undershirt x1
+ - Морфин x7
+[03/09/2023 21:21:34]
+  Client "kynlan4ic" ended the round.
+[03/09/2023 21:21:35]
+  Ending the round...

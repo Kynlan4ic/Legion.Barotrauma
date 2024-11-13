@@ -1,0 +1,1600 @@
+﻿[10/23/2022 23:37:51]
+  Starting the server...
+[10/23/2022 23:37:51]
+  Using SteamP2P networking.
+[10/23/2022 23:37:51]
+  Server started
+[10/23/2022 23:37:51]
+  Игрок kynlan4ic присоединился к серверу.
+[10/23/2022 23:37:51]
+  Saving client permissions
+[10/23/2022 23:37:51]
+  Saving client permissions
+[10/23/2022 23:40:39]
+  kynlan4ic changed PlayStyle to Roleplay
+[10/23/2022 23:40:39]
+  kynlan4ic changed LosMode to None
+[10/23/2022 23:40:39]
+  kynlan4ic changed SubSelectionMode to Manual
+[10/23/2022 23:40:39]
+  kynlan4ic changed ModeSelectionMode to Manual
+[10/23/2022 23:41:30]
+  Client "kynlan4ic" started the round.
+[10/23/2022 23:41:30]
+  Starting a new round...
+[10/23/2022 23:41:34]
+  Миссия: Активировать маяк
+[10/23/2022 23:41:34]
+  Маяк на маршруте Центр Set - Шахта Skadi's Cauldron не работает. Отправьтесь туда и активируйте его, чтобы он снова передавал сигнал сонара.
+[10/23/2022 23:41:34]
+  Game mode: Миссия
+[10/23/2022 23:41:34]
+  Submarine: Orca2
+[10/23/2022 23:41:34]
+  Level seed: e3OkVxuH
+[10/23/2022 23:41:34]
+  Mission: Активировать маяк
+[10/23/2022 23:41:36]
+  Round started.
+[10/23/2022 23:41:43]
+  Walker Escobar: Здесь ужасно тихо.
+[10/23/2022 23:41:44]
+  Walker Escobar: У меня наушник, вообще, работает?
+[10/23/2022 23:41:47]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/23/2022 23:41:48]
+  Shirlee Green: Да тибя слышна!
+[10/23/2022 23:42:36]
+  kynlan4ic picked up Шоковая дубинка
+[10/23/2022 23:42:40]
+  kynlan4ic picked up Дробовик
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:50]
+  kynlan4ic picked up Патрон для дробовика
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:55]
+  kynlan4ic placed Патрон для дробовика in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:42:59]
+  kynlan4ic placed Шоковая дубинка in Большой стальной шкаф (ID: 105)
+[10/23/2022 23:43:17]
+  kynlan4ic: Tyson Hardy, прокладывай курс вперед!
+[10/23/2022 23:43:18]
+  Tyson Hardy: Само собой!
+[10/23/2022 23:43:29]
+  kynlan4ic: Phoenix Baumgardner, займись орудиями!
+[10/23/2022 23:43:30]
+  Phoenix Baumgardner: Само собой!
+[10/23/2022 23:43:34]
+  kynlan4ic: Phoenix Baumgardner, встань за орудия!
+[10/23/2022 23:43:35]
+  Phoenix Baumgardner: Вас понял!
+[10/23/2022 23:43:50]
+  kynlan4ic: Я займусь оружием!
+[10/23/2022 23:44:49]
+  Outer wall breached by Crawler
+[10/23/2022 23:44:49]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:49]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:50]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/23/2022 23:44:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:50]
+  Outer wall breached by Crawler
+[10/23/2022 23:44:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:50]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/23/2022 23:44:50]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:50]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/23/2022 23:44:51]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:51]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:51]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:51]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/23/2022 23:44:51]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:52]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/23/2022 23:44:52]
+  Crawler attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/23/2022 23:44:52]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:53]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:53]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:53]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:53]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:56]
+  Outer wall breached by Crawler
+[10/23/2022 23:44:57]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:57]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:58]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:58]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:58]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:59]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:59]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:59]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:44:59]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:00]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:00]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:00]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:00]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:01]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:01]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:02]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:03]
+  Outer wall breached by Crawler
+[10/23/2022 23:45:03]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:06]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:06]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:07]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:08]
+  Phoenix Baumgardner: Огонь!
+[10/23/2022 23:45:09]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:09]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:09]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:10]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:10]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:10]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:10]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:11]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:11]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:11]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:11]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:11]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:12]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:12]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:12]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:12]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:12]
+  kynlan4ic launched Двойная магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/23/2022 23:45:13]
+  Liza Lester equipped Сварочный аппарат
+[10/23/2022 23:45:14]
+  Outer wall breached by Crawler
+[10/23/2022 23:45:15]
+  Liza Lester: Мне нужно подводное снаряжение!
+[10/23/2022 23:45:18]
+  Yahaira Rivera: Мне нужно подводное снаряжение!
+[10/23/2022 23:45:18]
+  Tyson Hardy: Мне нужно подводное снаряжение!
+[10/23/2022 23:45:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  kynlan4ic equipped Дробовик
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Marylee Cortese: Мне нужно подводное снаряжение!
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:20]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:45:21]
+  Johny Hocker: Надо найти водолазный скафандр!
+[10/23/2022 23:45:25]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:45:25]
+  Liza Lester: Арсенал: протечек не осталось!
+[10/23/2022 23:45:36]
+  Marylee Cortese equipped Водолазный скафандр
+[10/23/2022 23:45:41]
+  Liza Lester unequipped Сварочный аппарат
+[10/23/2022 23:45:42]
+  Tyson Hardy equipped Револьвер
+[10/23/2022 23:45:42]
+  Liza Lester equipped Сварочный аппарат
+[10/23/2022 23:45:43]
+  Crawler has died (Cause of death: Рваная рана)
+[10/23/2022 23:45:43]
+  Liza Lester unequipped Сварочный аппарат
+[10/23/2022 23:45:43]
+  Tyson Hardy unequipped Револьвер
+[10/23/2022 23:45:43]
+  Tyson Hardy: Помогите, я истекаю кровью!
+[10/23/2022 23:45:57]
+  kynlan4ic picked up Водолазный скафандр
+[10/23/2022 23:46:01]
+  Liza Lester equipped Сварочный аппарат
+[10/23/2022 23:46:04]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:46:04]
+  Liza Lester: Пункт управления: все протечки устранены!
+[10/23/2022 23:46:08]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:46:08]
+  Liza Lester: Багажный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/23/2022 23:46:11]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:46:13]
+  Liza Lester unequipped Сварочный аппарат
+[10/23/2022 23:46:18]
+  Tyson Hardy: Я теряю много крови!
+[10/23/2022 23:46:21]
+  Phoenix Baumgardner: Неизвестная цель обнаружена!
+[10/23/2022 23:46:27]
+  Phoenix Baumgardner: Огонь!
+[10/23/2022 23:46:28]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:28]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:29]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Outer wall breached by Phoenix Baumgardner
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Outer wall breached by Phoenix Baumgardner
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:32]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:32]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:36]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:36]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:36]
+  Outer wall breached by Latcher
+[10/23/2022 23:46:40]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:40]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:40]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:40]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:41]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:41]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:41]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:41]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:45]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:46]
+  Liza Lester equipped Сварочный аппарат
+[10/23/2022 23:46:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:46]
+  Liza Lester: Электрика: протечек не осталось!
+[10/23/2022 23:46:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:53]
+  kynlan4ic equipped Водолазный скафандр
+[10/23/2022 23:46:56]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 571)
+[10/23/2022 23:46:57]
+  Phoenix Baumgardner: Стреляю!
+[10/23/2022 23:46:57]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:57]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:58]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:59]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:46:59]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:01]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:01]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:02]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:02]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:02]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:02]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Liza Lester unequipped Сварочный аппарат
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:04]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:05]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:06]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:07]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:08]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:08]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:08]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:47:08]
+  Outer wall breached by Latcher
+[10/23/2022 23:47:08]
+  Outer wall breached by Latcher
+[10/23/2022 23:47:08]
+  Outer wall breached by Latcher
+[10/23/2022 23:47:08]
+  Outer wall breached by Latcher
+[10/23/2022 23:47:08]
+  Outer wall breached by Latcher
+[10/23/2022 23:47:09]
+  Phoenix Baumgardner: Мне нужно подводное снаряжение!
+[10/23/2022 23:47:11]
+  Liza Lester: Мне нужно подводное снаряжение!
+[10/23/2022 23:47:15]
+  kynlan4ic picked up Водолазный скафандр
+[10/23/2022 23:47:16]
+  Arie Blakley: Мне нужно подводное снаряжение!
+[10/23/2022 23:47:29]
+  Arie Blakley equipped Сварочный аппарат
+[10/23/2022 23:47:31]
+  Arie Blakley unequipped Сварочный аппарат
+[10/23/2022 23:47:33]
+  Liza Lester equipped Сварочный аппарат
+[10/23/2022 23:47:34]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:47:34]
+  Liza Lester: Воздушный шлюз: выполняю ремонт. Осталось несколько отверстий!
+[10/23/2022 23:47:35]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:47:39]
+  Johny Hocker equipped Сварочный аппарат
+[10/23/2022 23:47:39]
+  Johny Hocker: Надо найти водолазный скафандр!
+[10/23/2022 23:47:47]
+  Johny Hocker unequipped Сварочный аппарат
+[10/23/2022 23:47:48]
+  John Sunderland equipped Водолазный скафандр
+[10/23/2022 23:47:54]
+  Bridgett Meisner equipped Водолазный скафандр
+[10/23/2022 23:47:58]
+  Outer wall repaired by Liza Lester
+[10/23/2022 23:48:04]
+  Inner wall repaired by Liza Lester
+[10/23/2022 23:48:05]
+  Liza Lester: Воздушный шлюз: все протечки устранены!
+[10/23/2022 23:48:05]
+  Liza Lester unequipped Сварочный аппарат
+[10/23/2022 23:48:14]
+  Liza Lester equipped Сварочный аппарат
+[10/23/2022 23:48:14]
+  kynlan4ic: Natalia Hefner, начинай устранять протечки!
+[10/23/2022 23:48:16]
+  Natalia Hefner: Принято.
+[10/23/2022 23:48:16]
+  Liza Lester unequipped Сварочный аппарат
+[10/23/2022 23:48:16]
+  kynlan4ic: Jamey Phoenix, начинай устранять протечки!
+[10/23/2022 23:48:17]
+  Jamey Phoenix: Принято.
+[10/23/2022 23:48:20]
+  kynlan4ic: Liza Lester, займись ремонтом поврежденных систем!
+[10/23/2022 23:48:21]
+  Liza Lester: Принято.
+[10/23/2022 23:48:22]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:48:32]
+  Liza Lester started repairing Навигационный терминал
+[10/23/2022 23:48:41]
+  Liza Lester started repairing Монитор состояния
+[10/23/2022 23:48:57]
+  Liza Lester started repairing Суперконденсатор
+[10/23/2022 23:49:03]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:49:03]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:49:10]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 571)
+[10/23/2022 23:49:11]
+  Liza Lester started repairing Медицинский фабрикатор
+[10/23/2022 23:49:18]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:49:18]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:49:24]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:49:29]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:49:29]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:49:29]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:49:35]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:49:39]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:49:44]
+  Liza Lester started repairing Батарея
+[10/23/2022 23:49:47]
+  John Sunderland equipped Водолазный скафандр
+[10/23/2022 23:49:49]
+  kynlan4ic: Tyson Hardy, прокладывай курс к месту назначения!
+[10/23/2022 23:49:50]
+  Tyson Hardy: Само собой!
+[10/23/2022 23:49:53]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:50:02]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:50:06]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:50:19]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:50:26]
+  Liza Lester started repairing Генератор кислорода
+[10/23/2022 23:50:31]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:50:37]
+  Shirlee Green equipped Водолазный скафандр
+[10/23/2022 23:50:52]
+  kynlan4ic: Tyson Hardy, прокладывай курс вперед!
+[10/23/2022 23:50:53]
+  Tyson Hardy: Есть!
+[10/23/2022 23:50:59]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:51:06]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:51:10]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:51:12]
+  Shirlee Green equipped Водолазный скафандр
+[10/23/2022 23:51:14]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:51:44]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:51:50]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:51:53]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:51:57]
+  Johny Hocker: Загружаю в реактор дополнительное топливо!
+[10/23/2022 23:52:00]
+  Johny Hocker equipped Топливный стержень
+[10/23/2022 23:52:05]
+  kynlan4ic: Liza Lester, заряди реактор!
+[10/23/2022 23:52:05]
+  Johny Hocker equipped Топливный стержень
+[10/23/2022 23:52:06]
+  Liza Lester: Так точно!
+[10/23/2022 23:52:07]
+  Liza Lester: Наконец-то, хоть что-то интересное!
+[10/23/2022 23:52:37]
+  kynlan4ic: Tyson Hardy, прокладывай обратный курс!
+[10/23/2022 23:52:38]
+  Tyson Hardy: Слушаюсь!
+[10/23/2022 23:52:40]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:52:45]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:52:52]
+  Tyson Hardy: Руки прочь! Я у руля!
+[10/23/2022 23:52:54]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:53:06]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:53:06]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:53:10]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:53:18]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:53:23]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:53:30]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:53:39]
+  Phoenix Baumgardner: Стреляю!
+[10/23/2022 23:53:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:42]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:44]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:45]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:45]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:45]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:45]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:45]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:47]
+  Outer wall breached by Latcher
+[10/23/2022 23:53:47]
+  Outer wall breached by Latcher
+[10/23/2022 23:53:47]
+  Outer wall breached by Latcher
+[10/23/2022 23:53:47]
+  Outer wall breached by Latcher
+[10/23/2022 23:53:47]
+  Outer wall breached by Latcher
+[10/23/2022 23:53:47]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:53:49]
+  Jamey Phoenix equipped Сварочный аппарат
+[10/23/2022 23:53:50]
+  Natalia Hefner: Надо найти водолазный скафандр!
+[10/23/2022 23:53:50]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:50]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:50]
+  Jamey Phoenix: Мне нужно подводное снаряжение!
+[10/23/2022 23:53:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:53:52]
+  Tyson Hardy: Эй, тут я у руля!
+[10/23/2022 23:53:57]
+  Liza Lester started repairing Суперконденсатор
+[10/23/2022 23:54:00]
+  Liza Lester: Надо найти водолазный скафандр!
+[10/23/2022 23:54:00]
+  Jamey Phoenix: Электрика: выполняю ремонт. Осталось несколько отверстий!
+[10/23/2022 23:54:03]
+  Natalia Hefner equipped Сварочный аппарат
+[10/23/2022 23:54:07]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:54:07]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:54:07]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:54:07]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:54:08]
+  Johny Hocker: Надо найти водолазный скафандр!
+[10/23/2022 23:54:09]
+  Arie Blakley: Надо найти водолазный скафандр!
+[10/23/2022 23:54:10]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:54:10]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:54:10]
+  Liza Lester started repairing Батарея
+[10/23/2022 23:54:14]
+  Rene Sykes equipped Водолазный скафандр
+[10/23/2022 23:54:15]
+  Jamey Phoenix unequipped Сварочный аппарат
+[10/23/2022 23:54:15]
+  Natalia Hefner unequipped Сварочный аппарат
+[10/23/2022 23:54:22]
+  Johny Hocker equipped Сварочный аппарат
+[10/23/2022 23:54:33]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:54:34]
+  Marylee Cortese: Jamey Phoenix получает первую помощь здесь: мидель!
+[10/23/2022 23:54:35]
+  Marylee Cortese: Jamey Phoenix нуждается в помощи! Срочно требуется морфин, опиум или экстракт взрывного граната!
+[10/23/2022 23:54:35]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:54:35]
+  Marylee Cortese equipped Опиум
+[10/23/2022 23:54:36]
+  Liza Lester started repairing Ядерный реактор
+[10/23/2022 23:54:37]
+  Inner wall repaired by Johny Hocker
+[10/23/2022 23:54:37]
+  Johny Hocker: Реакторный отсек: протечек не осталось!
+[10/23/2022 23:54:38]
+  Marylee Cortese: Jamey Phoenix в полном порядке!
+[10/23/2022 23:54:39]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:54:39]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:54:40]
+  Johny Hocker unequipped Сварочный аппарат
+[10/23/2022 23:54:41]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:54:41]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:54:41]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:54:41]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:54:43]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:54:43]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:54:43]
+  Liza Lester started repairing Двигатель
+[10/23/2022 23:54:44]
+  Arie Blakley equipped Водолазный скафандр
+[10/23/2022 23:54:45]
+  Natalia Hefner equipped Водолазный скафандр
+[10/23/2022 23:54:53]
+  Liza Lester: Мне нужно подводное снаряжение!
+[10/23/2022 23:54:53]
+  Tyson Hardy: Эй, тут я у руля!
+[10/23/2022 23:55:05]
+  Liza Lester started repairing Деконструктор
+[10/23/2022 23:55:11]
+  Liza Lester started repairing Деконструктор
+[10/23/2022 23:55:11]
+  Tyson Hardy: Эй, двоим нам тут делать нечего!
+[10/23/2022 23:55:11]
+  Liza Lester started repairing Фабрикатор
+[10/23/2022 23:55:17]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:55:17]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:55:17]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:55:17]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:55:18]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:55:18]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:55:25]
+  Liza Lester started repairing Ядерный реактор
+[10/23/2022 23:55:25]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:55:32]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:55:36]
+  Phoenix Baumgardner: Огонь!
+[10/23/2022 23:55:39]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:55:42]
+  Tyson Hardy: Эй, двоим нам тут делать нечего!
+[10/23/2022 23:55:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:43]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:46]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:47]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Outer wall breached by Latcher
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:48]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:51]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:55:51]
+  Jamey Phoenix: Надо найти водолазный скафандр!
+[10/23/2022 23:55:51]
+  Natalia Hefner: Надо найти водолазный скафандр!
+[10/23/2022 23:55:51]
+  Johny Hocker equipped Водолазный скафандр
+[10/23/2022 23:55:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:51]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:52]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:52]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:52]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:53]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:54]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:55]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:56]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:56]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:55:57]
+  Natalia Hefner equipped Сварочный аппарат
+[10/23/2022 23:55:59]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/23/2022 23:55:59]
+  Liza Lester started repairing Монитор состояния
+[10/23/2022 23:56:01]
+  Marylee Cortese: Arie Blakley получает первую помощь здесь: верхняя средняя часть!
+[10/23/2022 23:56:02]
+  Natalia Hefner unequipped Сварочный аппарат
+[10/23/2022 23:56:02]
+  Marylee Cortese: Мне требуется морфин, опиум или экстракт взрывного граната!
+[10/23/2022 23:56:04]
+  Marylee Cortese equipped Опиум
+[10/23/2022 23:56:06]
+  kynlan4ic: Arturo Thompkins, начинай устранять протечки!
+[10/23/2022 23:56:07]
+  Arturo Thompkins: Есть!
+[10/23/2022 23:56:09]
+  Marylee Cortese: Arie Blakley в полном порядке!
+[10/23/2022 23:56:10]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:56:15]
+  Natalia Hefner equipped Водолазный скафандр
+[10/23/2022 23:56:17]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:56:18]
+  Arturo Thompkins equipped Сварочный аппарат
+[10/23/2022 23:56:19]
+  Outer wall repaired by Arturo Thompkins
+[10/23/2022 23:56:20]
+  Arturo Thompkins unequipped Сварочный аппарат
+[10/23/2022 23:56:21]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:56:24]
+  Phoenix Baumgardner: Стреляю!
+[10/23/2022 23:56:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:30]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:56:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:30]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:31]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:33]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:33]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:33]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:33]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:33]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:33]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:34]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:34]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:34]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:34]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:34]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:34]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:35]
+  Tyson Hardy: Эй, двоим нам тут делать нечего!
+[10/23/2022 23:56:35]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/23/2022 23:56:39]
+  Natalia Hefner equipped Сварочный аппарат
+[10/23/2022 23:56:41]
+  Arturo Thompkins equipped Сварочный аппарат
+[10/23/2022 23:56:41]
+  Natalia Hefner unequipped Сварочный аппарат
+[10/23/2022 23:56:41]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:56:44]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:56:45]
+  Arturo Thompkins unequipped Сварочный аппарат
+[10/23/2022 23:56:50]
+  Liza Lester started repairing Батарея
+[10/23/2022 23:56:53]
+  Marylee Cortese: Liza Lester проходит лечение здесь: электрика!
+[10/23/2022 23:56:53]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:56:53]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:56:54]
+  Marylee Cortese: Мне требуется морфин или экстракт взрывного граната!
+[10/23/2022 23:56:57]
+  Marylee Cortese equipped Морфин
+[10/23/2022 23:57:01]
+  Liza Lester started repairing Генератор кислорода
+[10/23/2022 23:57:06]
+  Marylee Cortese: Liza Lester чувствует себя хорошо!
+[10/23/2022 23:57:08]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:57:13]
+  Marylee Cortese: Shirlee Green получает первую помощь здесь: орудийный отсек!
+[10/23/2022 23:57:14]
+  Marylee Cortese: Мне требуется морфин или экстракт взрывного граната!
+[10/23/2022 23:57:18]
+  Marylee Cortese equipped Экстракт взрывного граната
+[10/23/2022 23:57:27]
+  Marylee Cortese: Shirlee Green чувствует себя хорошо!
+[10/23/2022 23:57:28]
+  Marylee Cortese: Rene Sykes получает первую помощь здесь: орудийный отсек!
+[10/23/2022 23:57:29]
+  Marylee Cortese: Мне требуется морфин или экстракт взрывного граната!
+[10/23/2022 23:57:33]
+  Marylee Cortese equipped Морфин
+[10/23/2022 23:57:34]
+  Outer wall breached by Latcher
+[10/23/2022 23:57:34]
+  Outer wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Outer wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Outer wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Outer wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:34]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:35]
+  kynlan4ic: Phoenix Baumgardner, встань за орудия!
+[10/23/2022 23:57:35]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:35]
+  Inner wall breached by Latcher
+[10/23/2022 23:57:35]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:57:35]
+  Phoenix Baumgardner: Новая цель обнаружена!
+[10/23/2022 23:57:36]
+  Phoenix Baumgardner: Принято.
+[10/23/2022 23:57:37]
+  Natalia Hefner: Надо найти водолазный скафандр!
+[10/23/2022 23:57:40]
+  Liza Lester started repairing Дверь с окном и кнопками
+[10/23/2022 23:57:40]
+  Arturo Thompkins: Мне нужно подводное снаряжение!
+[10/23/2022 23:57:40]
+  Jamey Phoenix: Надо найти водолазный скафандр!
+[10/23/2022 23:57:42]
+  Marylee Cortese: Rene Sykes в полном порядке!
+[10/23/2022 23:57:44]
+  kynlan4ic: Phoenix Baumgardner, встань за орудия!
+[10/23/2022 23:57:45]
+  Phoenix Baumgardner: Есть!
+[10/23/2022 23:57:50]
+  Arie Blakley: Надо найти водолазный скафандр!
+[10/23/2022 23:57:50]
+  Natalia Hefner equipped Сварочный аппарат
+[10/23/2022 23:57:51]
+  Liza Lester: Мне нужно подводное снаряжение!
+[10/23/2022 23:57:53]
+  Arturo Thompkins equipped Сварочный аппарат
+[10/23/2022 23:57:57]
+  Tyler Moses: Надо найти водолазный скафандр!
+[10/23/2022 23:58:00]
+  Johny Hocker equipped Гаечный ключ
+[10/23/2022 23:58:00]
+  Johny Hocker: Мне нужно подводное снаряжение!
+[10/23/2022 23:58:01]
+  Tyson Hardy: Эй, тут я у руля!
+[10/23/2022 23:58:03]
+  Natalia Hefner: Верхняя средняя часть: все протечки устранены!
+[10/23/2022 23:58:05]
+  Bridgett Meisner: Надо найти водолазный скафандр!
+[10/23/2022 23:58:05]
+  Yahaira Rivera: Надо найти водолазный скафандр!
+[10/23/2022 23:58:05]
+  John Sunderland: Мне нужно подводное снаряжение!
+[10/23/2022 23:58:06]
+  Liza Lester started repairing Люк с кнопками
+[10/23/2022 23:58:08]
+  Tyson Hardy: Надо найти водолазный скафандр!
+[10/23/2022 23:58:08]
+  Walker Escobar: Надо найти водолазный скафандр!
+[10/23/2022 23:58:09]
+  Jamey Phoenix equipped Сварочный аппарат
+[10/23/2022 23:58:09]
+  Jamey Phoenix: Пункт управления: все протечки устранены!
+[10/23/2022 23:58:10]
+  Arie Blakley equipped Гаечный ключ
+[10/23/2022 23:58:13]
+  Arie Blakley started repairing Люк с кнопками
+[10/23/2022 23:58:20]
+  John Sunderland: Задыхаюсь.
+[10/23/2022 23:58:20]
+  Rene Sykes equipped Гаечный ключ
+[10/23/2022 23:58:20]
+  Rene Sykes: Мне нужно подводное снаряжение!
+[10/23/2022 23:58:25]
+  Outer wall repaired by Arturo Thompkins
+[10/23/2022 23:58:25]
+  Arie Blakley unequipped Гаечный ключ
+[10/23/2022 23:58:25]
+  Arie Blakley equipped Сварочный аппарат
+[10/23/2022 23:58:26]
+  Liza Lester started repairing Люк с кнопками
+[10/23/2022 23:58:29]
+  Arturo Thompkins: Инженерный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/23/2022 23:58:33]
+  Rene Sykes unequipped Гаечный ключ
+[10/23/2022 23:58:34]
+  Inner wall repaired by Jamey Phoenix
+[10/23/2022 23:58:34]
+  Jamey Phoenix: Камера балласта A: минус одна протечка!
+[10/23/2022 23:58:35]
+  Arie Blakley: Камера балласта B: минус одна протечка!
+[10/23/2022 23:58:36]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:58:36]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:58:36]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:58:36]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:58:39]
+  Johny Hocker: Надо найти водолазный скафандр!
+[10/23/2022 23:58:40]
+  Arie Blakley: Камера балласта C: протечек не осталось!
+[10/23/2022 23:58:40]
+  Liza Lester started repairing Люк с кнопками
+[10/23/2022 23:58:41]
+  Johny Hocker unequipped Гаечный ключ
+[10/23/2022 23:58:46]
+  Inner wall repaired by Arie Blakley
+[10/23/2022 23:58:48]
+  Inner wall repaired by Arturo Thompkins
+[10/23/2022 23:58:48]
+  Arturo Thompkins: Верхняя средняя часть: все протечки устранены!
+[10/23/2022 23:58:49]
+  Outer wall repaired by Natalia Hefner
+[10/23/2022 23:58:51]
+  Liza Lester started repairing Сливной клапан
+[10/23/2022 23:58:53]
+  Outer wall breached by Latcher
+[10/23/2022 23:58:53]
+  Outer wall breached by Latcher
+[10/23/2022 23:58:54]
+  Inner wall breached by Latcher
+[10/23/2022 23:58:54]
+  Outer wall breached by Latcher
+[10/23/2022 23:58:54]
+  Outer wall breached by Latcher
+[10/23/2022 23:58:54]
+  Inner wall breached by Latcher
+[10/23/2022 23:58:54]
+  Inner wall breached by Latcher
+[10/23/2022 23:58:54]
+  Outer wall breached by Latcher
+[10/23/2022 23:58:54]
+  Outer wall breached by Latcher
+[10/23/2022 23:58:56]
+  Inner wall repaired by Arturo Thompkins
+[10/23/2022 23:58:57]
+  Arie Blakley unequipped Сварочный аппарат
+[10/23/2022 23:58:58]
+  Liza Lester: Надо найти водолазный скафандр!
+[10/23/2022 23:58:59]
+  John Sunderland: Помогите, я истекаю кровью!
+[10/23/2022 23:59:00]
+  Johny Hocker: Помогите, я истекаю кровью!
+[10/23/2022 23:59:00]
+  Arie Blakley equipped Водолазный скафандр
+[10/23/2022 23:59:08]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:59:08]
+  Liza Lester equipped Отвертка
+[10/23/2022 23:59:10]
+  Walker Escobar equipped Водолазный скафандр
+[10/23/2022 23:59:10]
+  Liza Lester started repairing Кабельная коробка
+[10/23/2022 23:59:11]
+  Marylee Cortese: John Sunderland проходит лечение здесь: верхняя передняя часть!
+[10/23/2022 23:59:13]
+  Liza Lester unequipped Отвертка
+[10/23/2022 23:59:13]
+  Liza Lester equipped Гаечный ключ
+[10/23/2022 23:59:14]
+  Marylee Cortese: Мне требуется пакет с кровью, физраствор, инопланетная кровь или морфин!
+[10/23/2022 23:59:15]
+  Marylee Cortese: Надо найти водолазный скафандр!
+[10/23/2022 23:59:15]
+  Johny Hocker equipped Сварочный аппарат
+[10/23/2022 23:59:15]
+  Arie Blakley equipped Сварочный аппарат
+[10/23/2022 23:59:17]
+  Outer wall repaired by Arie Blakley
+[10/23/2022 23:59:17]
+  Marylee Cortese: Мне жаль, John Sunderland, это все, что я могу сделать!
+[10/23/2022 23:59:19]
+  Marylee Cortese: Shirlee Green проходит лечение здесь: верхняя передняя часть!
+[10/23/2022 23:59:20]
+  Marylee Cortese: Мне требуется морфин или экстракт взрывного граната!
+[10/23/2022 23:59:21]
+  Inner wall repaired by Johny Hocker
+[10/23/2022 23:59:21]
+  Johny Hocker: Камера балласта B: все протечки устранены!
+[10/23/2022 23:59:23]
+  Arie Blakley unequipped Сварочный аппарат
+[10/23/2022 23:59:27]
+  Outer wall repaired by Natalia Hefner
+[10/23/2022 23:59:33]
+  John Sunderland: Помогите, я истекаю кровью!
+[10/23/2022 23:59:35]
+  Johny Hocker: Помогите, я истекаю кровью!
+[10/23/2022 23:59:35]
+  Rene Sykes: Надо найти водолазный скафандр!
+[10/23/2022 23:59:37]
+  Jamey Phoenix: Верхняя средняя часть: все протечки устранены!
+[10/23/2022 23:59:38]
+  Liza Lester started repairing Двигатель
+[10/23/2022 23:59:42]
+  Inner wall repaired by Jamey Phoenix
+[10/23/2022 23:59:44]
+  John Sunderland: Мне нужно подводное снаряжение!
+[10/23/2022 23:59:46]
+  Outer wall repaired by Jamey Phoenix
+[10/23/2022 23:59:48]
+  Outer wall repaired by Natalia Hefner
+[10/23/2022 23:59:49]
+  Natalia Hefner: Электрика: минус одна протечка!
+[10/23/2022 23:59:50]
+  Arie Blakley equipped Сварочный аппарат
+[10/23/2022 23:59:52]
+  Outer wall repaired by Johny Hocker
+[10/23/2022 23:59:52]
+  Johny Hocker: Реакторный отсек: минус одна протечка!
+[10/23/2022 23:59:52]
+  Inner wall repaired by Natalia Hefner
+[10/23/2022 23:59:52]
+  Natalia Hefner: Верхняя средняя часть: протечек не осталось!
+[10/23/2022 23:59:57]
+  Inner wall repaired by Arie Blakley
+[10/23/2022 23:59:57]
+  Arie Blakley: Верхняя средняя часть: протечек не осталось!
+[10/23/2022 23:59:57]
+  Arturo Thompkins: Камера балласта A: все протечки устранены!
+[10/23/2022 23:59:58]
+  Liza Lester unequipped Гаечный ключ
+[10/23/2022 23:59:58]
+  Liza Lester equipped Отвертка
+[10/24/2022 00:00:02]
+  Liza Lester started repairing Ядерный реактор
+[10/24/2022 00:00:05]
+  John Sunderland: Я теряю много крови!
+[10/24/2022 00:00:08]
+  Outer wall repaired by Arturo Thompkins
+[10/24/2022 00:00:08]
+  Arturo Thompkins: Орудийный отсек: все протечки устранены!
+[10/24/2022 00:00:09]
+  Johny Hocker: У меня кровь!
+[10/24/2022 00:00:12]
+  Rene Sykes: Мне нужно подводное снаряжение!
+[10/24/2022 00:00:12]
+  Outer wall repaired by Arie Blakley
+[10/24/2022 00:00:12]
+  Arie Blakley: Реакторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/24/2022 00:00:13]
+  kynlan4ic equipped Шоковая дубинка
+[10/24/2022 00:00:13]
+  Johny Hocker unequipped Сварочный аппарат
+[10/24/2022 00:00:14]
+  Phoenix Baumgardner: Стреляю!
+[10/24/2022 00:00:14]
+  Outer wall repaired by Natalia Hefner
+[10/24/2022 00:00:14]
+  Natalia Hefner: Реакторный отсек: выполняю ремонт. Осталось несколько отверстий!
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:17]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Arie Blakley unequipped Сварочный аппарат
+[10/24/2022 00:00:18]
+  Arie Blakley equipped Гаечный ключ
+[10/24/2022 00:00:18]
+  Liza Lester unequipped Отвертка
+[10/24/2022 00:00:18]
+  Liza Lester equipped Гаечный ключ
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:18]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:19]
+  Liza Lester started repairing Деконструктор
+[10/24/2022 00:00:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:19]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:29]
+  Marylee Cortese: Надо найти водолазный скафандр!
+[10/24/2022 00:00:30]
+  Arie Blakley failed to repair Фабрикатор
+[10/24/2022 00:00:30]
+  Marylee Cortese: John Sunderland получает первую помощь здесь: верхняя передняя часть!
+[10/24/2022 00:00:31]
+  Marylee Cortese: John Sunderland нуждается в помощи! Срочно требуется пакет с кровью, физраствор, инопланетная кровь или морфин!
+[10/24/2022 00:00:34]
+  Marylee Cortese: Johny Hocker получает первую помощь здесь: орудийный отсек!
+[10/24/2022 00:00:34]
+  Outer wall repaired by Jamey Phoenix
+[10/24/2022 00:00:34]
+  Arie Blakley started repairing Деконструктор
+[10/24/2022 00:00:35]
+  Marylee Cortese: Мне требуется пакет с кровью, физраствор, инопланетная кровь или морфин!
+[10/24/2022 00:00:35]
+  Natalia Hefner unequipped Сварочный аппарат
+[10/24/2022 00:00:35]
+  Arie Blakley unequipped Гаечный ключ
+[10/24/2022 00:00:36]
+  Arturo Thompkins unequipped Сварочный аппарат
+[10/24/2022 00:00:37]
+  John Sunderland: Помогите, я истекаю кровью!
+[10/24/2022 00:00:38]
+  Marylee Cortese: У меня нет средств для лечения! Johny Hocker в беде!
+[10/24/2022 00:00:38]
+  Liza Lester started repairing Фабрикатор
+[10/24/2022 00:00:41]
+  Johny Hocker: Помогите, я истекаю кровью!
+[10/24/2022 00:00:42]
+  Natalia Hefner equipped Водолазный скафандр
+[10/24/2022 00:00:44]
+  Phoenix Baumgardner: Стреляю!
+[10/24/2022 00:00:44]
+  Marylee Cortese: Shirlee Green получает первую помощь здесь: арсенал!
+[10/24/2022 00:00:45]
+  Outer wall breached by Latcher
+[10/24/2022 00:00:45]
+  Marylee Cortese: Shirlee Green нуждается в помощи! Срочно требуется морфин или экстракт взрывного граната!
+[10/24/2022 00:00:46]
+  Jamey Phoenix unequipped Сварочный аппарат
+[10/24/2022 00:00:47]
+  Marylee Cortese: Arturo Thompkins получает первую помощь здесь: верхняя передняя часть!
+[10/24/2022 00:00:48]
+  Marylee Cortese: Arturo Thompkins нуждается в помощи! Срочно требуется морфин или экстракт взрывного граната!
+[10/24/2022 00:00:48]
+  Liza Lester started repairing Малый насос
+[10/24/2022 00:00:48]
+  Arturo Thompkins: Надо найти водолазный скафандр!
+[10/24/2022 00:00:49]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:49]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:49]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:49]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:49]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)
+[10/24/2022 00:00:49]
+  Phoenix Baumgardner launched Цепная пушка (projectile: Болт для цепной пушки)

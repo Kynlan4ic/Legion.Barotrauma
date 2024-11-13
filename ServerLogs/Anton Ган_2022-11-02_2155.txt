@@ -1,0 +1,1600 @@
+﻿[11/02/2022 21:39:57]
+  Submarine: Remora
+[11/02/2022 21:39:57]
+  Level seed: NoFace pizdabol
+[11/02/2022 21:39:57]
+  Mission: Добыча артефакта
+[11/02/2022 21:39:58]
+  Jerrod Southworth equipped Сварочный аппарат
+[11/02/2022 21:39:58]
+  Zoey Severance equipped Шприц-пистолет
+[11/02/2022 21:40:00]
+  Round started.
+[11/02/2022 21:40:01]
+  Fractalguardian equipped Гарпун стража
+[11/02/2022 21:40:01]
+  Fractalguardian equipped Гарпун стража
+[11/02/2022 21:40:06]
+  Darwin Dews: Знаешь, мне на днях пришла отличная предпринимательская идея.
+[11/02/2022 21:40:11]
+  Darwin Dews: Вот послушай. Мы станем богачами.
+[11/02/2022 21:40:14]
+  Darwin Dews: Водонепроницаемые кабельные коробки!
+[11/02/2022 21:40:18]
+  Darwin Dews: Гениально, да?
+[11/02/2022 21:40:19]
+  Melany Stein: Эй, а, может, все-таки займемся делом? У нас тут работы хватает.
+[11/02/2022 21:40:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:40:24]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:40:27]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:40:27]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:40:27]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:40:27]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:40:27]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:40:27]
+  kynlan4ic picked up Патрон для дробовика
+[11/02/2022 21:40:30]
+  kynlan4ic picked up Дробовик
+[11/02/2022 21:40:31]
+  kynlan4ic picked up Нож ныряльщика
+[11/02/2022 21:40:32]
+  kynlan4ic picked up Бронежилет
+[11/02/2022 21:40:37]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:40:53]
+  iliya_kind picked up Револьвер
+[11/02/2022 21:40:53]
+  iliya_kind picked up Пистолет-пулемет
+[11/02/2022 21:40:54]
+  iliya_kind picked up Подводное ружье
+[11/02/2022 21:40:56]
+  kynlan4ic: Jared Phoenix, встань за орудия!
+[11/02/2022 21:40:57]
+  Jared Phoenix: Слушаюсь!
+[11/02/2022 21:41:02]
+  kynlan4ic: Joe Boman, займись оружием!
+[11/02/2022 21:41:03]
+  Joe Boman: Так точно!
+[11/02/2022 21:41:08]
+  kynlan4ic: iliya_kind, займись орудиями!
+[11/02/2022 21:41:09]
+  Terrance Dyer: Надо найти водолазный скафандр!
+[11/02/2022 21:41:09]
+  Willie Robertson: Надо найти водолазный скафандр!
+[11/02/2022 21:41:09]
+  Darwin Dews: Надо найти водолазный скафандр!
+[11/02/2022 21:41:13]
+  iliya_kind placed Шоковая дубинка in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:41:15]
+  iliya_kind placed Наручники in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:41:27]
+  iliya_kind picked up Магазин для ПП
+[11/02/2022 21:41:28]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:41:28]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:41:28]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:41:28]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:41:28]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:41:28]
+  iliya_kind picked up Гарпун
+[11/02/2022 21:41:29]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:41:29]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:41:29]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:41:29]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:41:29]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:41:29]
+  iliya_kind picked up Патрон револьвера
+[11/02/2022 21:41:45]
+  igameCrog picked up Водолазный скафандр
+[11/02/2022 21:41:50]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:41:50]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:41:51]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:41:53]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:41:53]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:41:53]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:41:56]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 849)
+[11/02/2022 21:41:56]
+  Игрок Pajyloy_Borov присоединился к серверу.
+[11/02/2022 21:41:56]
+  Saving client permissions
+[11/02/2022 21:41:58]
+  igameCrog picked up Водолазный скафандр
+[11/02/2022 21:42:00]
+  igameCrog equipped Водолазный скафандр
+[11/02/2022 21:42:12]
+  kynlan4ic dropped Дробовик
+[11/02/2022 21:42:22]
+  iliya_kind equipped Револьвер
+[11/02/2022 21:42:26]
+  iliya_kind equipped Нож ныряльщика
+[11/02/2022 21:42:31]
+  kynlan4ic equipped Дробовик
+[11/02/2022 21:42:33]
+  iliya_kind equipped Подводное ружье
+[11/02/2022 21:42:33]
+  Dispatching the respawn shuttle.
+[11/02/2022 21:42:33]
+  Respawning Pajyloy_Borov (STEAM_1:0:220944891) as Офицер службы безопасности
+[11/02/2022 21:42:35]
+  Pajyloy_Borov set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:42:35]
+  iliya_kind equipped Пистолет-пулемет
+[11/02/2022 21:42:38]
+  Jared Phoenix: Огонь!
+[11/02/2022 21:42:38]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:39]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:39]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:39]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:40]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:41]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:41]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:41]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:42]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:42]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:42]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:42]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:43]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:42:43]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:43:12]
+  Игрок No name присоединился к серверу.
+[11/02/2022 21:43:12]
+  Saving client permissions
+[11/02/2022 21:43:15]
+  Pajyloy_Borov picked up Дементонитовый лом
+[11/02/2022 21:43:17]
+  Pajyloy_Borov picked up Закаленный лом
+[11/02/2022 21:43:23]
+  Pajyloy_Borov placed Дементонитовый лом in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:43:31]
+  kynlan4ic equipped Нож ныряльщика
+[11/02/2022 21:44:16]
+  kynlan4ic picked up Клоунская маска
+[11/02/2022 21:44:18]
+  igameCrog undocked RemoraDrone from Remora
+[11/02/2022 21:44:21]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:44:24]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:24]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:25]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:25]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:25]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:25]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:26]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:26]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:27]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:27]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:27]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:27]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:27]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:28]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:28]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 1.0000001 Кровотечение: 0.93750006 Оглушение: 0.15
+[11/02/2022 21:44:28]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:28]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:28]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:29]
+  kynlan4ic attacked by iliya_kind. Огнестрельная рана: 5 Кровотечение: 9.375 Оглушение: 0.15
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:30]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:31]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 4 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:32]
+  iliya_kind attacked by kynlan4ic. Огнестрельная рана: 3.2 Кровотечение: 4.5 Оглушение: 0.1
+[11/02/2022 21:44:39]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:44:50]
+  kynlan4ic has died (Cause of death: Огнестрельная рана)
+[11/02/2022 21:44:58]
+  iliya_kind has died (Cause of death: Огнестрельная рана)
+[11/02/2022 21:45:06]
+  Pajyloy_Borov picked up Подводный скутер
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:07]
+  Pajyloy_Borov picked up Кислородный баллон
+[11/02/2022 21:45:09]
+  Pajyloy_Borov picked up Плазменный резак
+[11/02/2022 21:45:09]
+  Pajyloy_Borov picked up Ручной сонар
+[11/02/2022 21:45:13]
+  igameCrog docked RemoraDrone to Remora
+[11/02/2022 21:45:14]
+  igameCrog undocked RemoraDrone from Remora
+[11/02/2022 21:45:17]
+  Игрок Супостат присоединился к серверу.
+[11/02/2022 21:45:17]
+  Saving client permissions
+[11/02/2022 21:45:36]
+  Pajyloy_Borov picked up Одноразовый водолазный скафандр
+[11/02/2022 21:45:41]
+  The respawn shuttle is leaving.
+[11/02/2022 21:45:44]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/02/2022 21:45:46]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/02/2022 21:45:48]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/02/2022 21:45:49]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/02/2022 21:45:50]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/02/2022 21:45:51]
+  Pajyloy_Borov opened Настраиваемая дверь
+[11/02/2022 21:45:53]
+  Pajyloy_Borov equipped Подводный скутер
+[11/02/2022 21:46:04]
+  Игрок DJ ARBUZ присоединился к серверу.
+[11/02/2022 21:46:04]
+  Saving client permissions
+[11/02/2022 21:46:11]
+  The respawn shuttle has left.
+[11/02/2022 21:46:14]
+  Pajyloy_Borov equipped Ручной сонар
+[11/02/2022 21:46:20]
+  Pajyloy_Borov equipped Нож ныряльщика
+[11/02/2022 21:46:21]
+  Dispatching the respawn shuttle.
+[11/02/2022 21:46:21]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/02/2022 21:46:21]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[11/02/2022 21:46:22]
+  Respawning No name (STEAM_1:0:528046920) as Инженер
+[11/02/2022 21:46:23]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:46:24]
+  No name set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:46:24]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:46:37]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:40]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:46:41]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[11/02/2022 21:46:42]
+  No name picked up Одноразовый водолазный скафандр
+[11/02/2022 21:46:44]
+  iliya_kind picked up Плазменный резак
+[11/02/2022 21:46:46]
+  kynlan4ic picked up Подводный скутер
+[11/02/2022 21:46:47]
+  kynlan4ic picked up Плазменный резак
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:47]
+  No name placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 6422)
+[11/02/2022 21:46:48]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic removed Кислородный баллон from Средний стальной шкаф (ID: 6704)
+[11/02/2022 21:46:48]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:46:48]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:46:49]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:46:51]
+  igameCrog launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:46:54]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 21:46:54]
+  Игрок Doctor Barber присоединился к серверу.
+[11/02/2022 21:46:54]
+  Saving client permissions
+[11/02/2022 21:46:55]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 21:46:56]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 21:46:58]
+  kynlan4ic picked up Кислородный баллон
+[11/02/2022 21:46:58]
+  kynlan4ic dropped Подводная маска
+[11/02/2022 21:46:59]
+  kynlan4ic dropped Подводная маска
+[11/02/2022 21:47:00]
+  kynlan4ic dropped Подводная маска
+[11/02/2022 21:47:01]
+  kynlan4ic dropped Подводная маска
+[11/02/2022 21:47:01]
+  No name picked up Одноразовый водолазный скафандр
+[11/02/2022 21:47:07]
+  No name placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 6494)
+[11/02/2022 21:47:08]
+  Игрок Jeleshka присоединился к серверу.
+[11/02/2022 21:47:08]
+  Saving client permissions
+[11/02/2022 21:47:09]
+  Pajyloy_Borov equipped Закаленный лом
+[11/02/2022 21:47:11]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[11/02/2022 21:47:25]
+  No name picked up Одноразовый водолазный скафандр
+[11/02/2022 21:47:33]
+  iliya_kind equipped Нож ныряльщика
+[11/02/2022 21:47:35]
+  kynlan4ic attacked by iliya_kind. Рваная рана: 4 Кровотечение: 7.5 Оглушение: 0.2
+[11/02/2022 21:47:35]
+  iliya_kind used Нож ныряльщика on kynlan4ic.
+[11/02/2022 21:47:35]
+  Jared Phoenix: Огонь!
+[11/02/2022 21:47:35]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:35]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:36]
+  Outer wall breached by Jared Phoenix
+[11/02/2022 21:47:36]
+  kynlan4ic attacked by iliya_kind. Рваная рана: 4 Кровотечение: 7.5 Оглушение: 0.2
+[11/02/2022 21:47:36]
+  iliya_kind used Нож ныряльщика on kynlan4ic.
+[11/02/2022 21:47:36]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:36]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:37]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:37]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:38]
+  Outer wall breached by Jared Phoenix
+[11/02/2022 21:47:38]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:38]
+  Outer wall breached by Jared Phoenix
+[11/02/2022 21:47:38]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:47:42]
+  kynlan4ic opened Настраиваемая дверь
+[11/02/2022 21:47:45]
+  kynlan4ic equipped Подводный скутер
+[11/02/2022 21:47:45]
+  Disconnecting client Супостат. Syncing the client with the server took too long.
+[11/02/2022 21:47:45]
+  Игрок Супостат отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/02/2022 21:47:57]
+  Игрок billy присоединился к серверу.
+[11/02/2022 21:47:57]
+  Saving client permissions
+[11/02/2022 21:48:00]
+  No name closed Настраиваемая дверь
+[11/02/2022 21:48:01]
+  Outer wall breached by Pajyloy_Borov
+[11/02/2022 21:48:03]
+  Inner wall breached by Pajyloy_Borov
+[11/02/2022 21:48:05]
+  No name opened Настраиваемая дверь
+[11/02/2022 21:48:10]
+  iliya_kind picked up Подводный скутер
+[11/02/2022 21:48:13]
+  iliya_kind picked up Лом
+[11/02/2022 21:48:23]
+  iliya_kind equipped Лом
+[11/02/2022 21:48:31]
+  No name closed Настраиваемая дверь
+[11/02/2022 21:48:31]
+  No name opened Настраиваемая дверь
+[11/02/2022 21:48:39]
+  Игрок Супостат присоединился к серверу.
+[11/02/2022 21:48:39]
+  Saving client permissions
+[11/02/2022 21:48:42]
+  Inner wall breached by Pajyloy_Borov
+[11/02/2022 21:48:49]
+  The respawn shuttle is leaving.
+[11/02/2022 21:48:50]
+  Beverley Tyson equipped Сварочный аппарат
+[11/02/2022 21:48:51]
+  Outer wall breached by Pajyloy_Borov
+[11/02/2022 21:48:54]
+  Beverley Tyson unequipped Сварочный аппарат
+[11/02/2022 21:49:04]
+  kynlan4ic opened Настраиваемая дверь
+[11/02/2022 21:49:04]
+  kynlan4ic closed Настраиваемая дверь
+[11/02/2022 21:49:15]
+  kynlan4ic opened Настраиваемая дверь
+[11/02/2022 21:49:17]
+  kynlan4ic opened Настраиваемая дверь
+[11/02/2022 21:49:19]
+  kynlan4ic opened Настраиваемая дверь
+[11/02/2022 21:49:20]
+  kynlan4ic has died (Cause of death: Unknown)
+[11/02/2022 21:49:20]
+  iliya_kind has died (Cause of death: Unknown)
+[11/02/2022 21:49:20]
+  No name has died (Cause of death: Unknown)
+[11/02/2022 21:49:20]
+  The respawn shuttle has left.
+[11/02/2022 21:49:30]
+  Dispatching the respawn shuttle.
+[11/02/2022 21:49:30]
+  Respawning kynlan4ic (STEAM_1:0:586357324) as Капитан
+[11/02/2022 21:49:30]
+  Respawning iliya_kind (STEAM_1:0:584195046) as Офицер службы безопасности
+[11/02/2022 21:49:31]
+  Respawning No name (STEAM_1:0:528046920) as Инженер
+[11/02/2022 21:49:31]
+  Respawning DJ ARBUZ (STEAM_1:1:575275775) as Помощник
+[11/02/2022 21:49:31]
+  Respawning Doctor Barber (STEAM_1:1:519468832) as Врач
+[11/02/2022 21:49:32]
+  Respawning Jeleshka (STEAM_1:1:29494700) as Механик
+[11/02/2022 21:49:32]
+  Respawning billy (STEAM_1:1:588345935) as Механик
+[11/02/2022 21:49:34]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:34]
+  No name set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:34]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:34]
+  Jeleshka set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:34]
+  Doctor Barber set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:35]
+  billy set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:35]
+  DJ ARBUZ set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:49:35]
+  Pajyloy_Borov equipped Шоковая дубинка
+[11/02/2022 21:49:36]
+  igameCrog docked RemoraDrone to Remora
+[11/02/2022 21:49:36]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/02/2022 21:49:36]
+  igameCrog undocked RemoraDrone from Remora
+[11/02/2022 21:49:36]
+  Pajyloy_Borov equipped Кислородный баллон
+[11/02/2022 21:49:37]
+  igameCrog docked RemoraDrone to Remora
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:37]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:49:38]
+  kynlan4ic picked up Отвертка
+[11/02/2022 21:49:38]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:49:39]
+  iliya_kind picked up Подводный скутер
+[11/02/2022 21:49:40]
+  kynlan4ic picked up Плазменный резак
+[11/02/2022 21:49:40]
+  Jeleshka picked up Лом
+[11/02/2022 21:49:41]
+  billy picked up Одноразовый водолазный скафандр
+[11/02/2022 21:49:41]
+  kynlan4ic picked up Подводная маска
+[11/02/2022 21:49:42]
+  Jeleshka picked up Одноразовый водолазный скафандр
+[11/02/2022 21:49:42]
+  Doctor Barber picked up Одноразовый водолазный скафандр
+[11/02/2022 21:49:43]
+  Jeleshka picked up Закаленный лом
+[11/02/2022 21:49:44]
+  Jeleshka picked up Дементонитовый лом
+[11/02/2022 21:49:45]
+  billy equipped Одноразовый водолазный скафандр
+[11/02/2022 21:49:45]
+  Doctor Barber picked up Подводная маска
+[11/02/2022 21:49:46]
+  iliya_kind picked up Плазменный резак
+[11/02/2022 21:49:47]
+  Jeleshka picked up Подводный скутер
+[11/02/2022 21:49:47]
+  iliya_kind picked up Гаечный ключ
+[11/02/2022 21:49:47]
+  Doctor Barber picked up Подводная маска
+[11/02/2022 21:49:49]
+  Jeleshka picked up Ручной сонар
+[11/02/2022 21:49:50]
+  Jeleshka placed Аккумулятор in Подводный скутер (ID: 7564)
+[11/02/2022 21:49:51]
+  Jeleshka picked up Ручной сонар
+[11/02/2022 21:49:55]
+  Jeleshka placed Ручной сонар in Хозяйственный шкаф (ID: 6602)
+[11/02/2022 21:49:59]
+  Darwin Dews: Мне нужно подводное снаряжение!
+[11/02/2022 21:50:03]
+  billy unequipped Подводный скутер
+[11/02/2022 21:50:06]
+  Mitrofan Wheeling equipped Сварочный аппарат
+[11/02/2022 21:50:06]
+  Mitrofan Wheeling: Надо найти водолазный скафандр!
+[11/02/2022 21:50:08]
+  Jeleshka dropped Лом
+[11/02/2022 21:50:09]
+  igameCrog picked up Сварочный аппарат
+[11/02/2022 21:50:10]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:50:11]
+  igameCrog equipped Сварочный аппарат
+[11/02/2022 21:50:12]
+  Jeleshka dropped Дементонитовый лом
+[11/02/2022 21:50:15]
+  billy: ты дjk,jt,
+[11/02/2022 21:50:15]
+  Jeleshka equipped Закаленный лом
+[11/02/2022 21:50:16]
+  Beverley Tyson equipped Отвертка
+[11/02/2022 21:50:17]
+  Outer wall repaired by igameCrog
+[11/02/2022 21:50:18]
+  Mitrofan Wheeling unequipped Сварочный аппарат
+[11/02/2022 21:50:20]
+  Beverley Tyson started repairing Монитор состояния
+[11/02/2022 21:50:21]
+  DJ ARBUZ picked up Одноразовый водолазный скафандр
+[11/02/2022 21:50:23]
+  billy: еблан
+[11/02/2022 21:50:32]
+  Randi Combs: Загружаю в реактор дополнительное топливо!
+[11/02/2022 21:50:33]
+  Jeleshka opened Настраиваемая дверь
+[11/02/2022 21:50:33]
+  billy equipped Подводный скутер
+[11/02/2022 21:50:33]
+  Beverley Tyson unequipped Отвертка
+[11/02/2022 21:50:34]
+  Outer wall breached by Pajyloy_Borov
+[11/02/2022 21:50:37]
+  Randi Combs equipped Топливный стержень
+[11/02/2022 21:50:44]
+  Darwin Dews equipped Водолазный скафандр
+[11/02/2022 21:50:47]
+  billy closed Настраиваемая дверь
+[11/02/2022 21:50:49]
+  Beverley Tyson equipped Сварочный аппарат
+[11/02/2022 21:50:51]
+  Jeleshka opened Настраиваемая дверь
+[11/02/2022 21:50:53]
+  Beverley Tyson unequipped Сварочный аппарат
+[11/02/2022 21:50:54]
+  igameCrog picked up Гаечный ключ
+[11/02/2022 21:50:54]
+  Jeleshka closed Настраиваемая дверь
+[11/02/2022 21:50:55]
+  igameCrog picked up Отвертка
+[11/02/2022 21:50:58]
+  DJ ARBUZ opened Настраиваемая дверь
+[11/02/2022 21:51:07]
+  DJ ARBUZ closed Настраиваемая дверь
+[11/02/2022 21:51:11]
+  DJ ARBUZ equipped Одноразовый водолазный скафандр
+[11/02/2022 21:51:11]
+  kynlan4ic docked Venture to Remora
+[11/02/2022 21:51:11]
+  Jeleshka opened Настраиваемая дверь
+[11/02/2022 21:51:13]
+  Jeleshka closed Настраиваемая дверь
+[11/02/2022 21:51:14]
+  DJ ARBUZ dropped Одноразовый водолазный скафандр
+[11/02/2022 21:51:16]
+  iliya_kind picked up Одноразовый водолазный скафандр
+[11/02/2022 21:51:19]
+  No name picked up Водолазный скафандр
+[11/02/2022 21:51:20]
+  Jeleshka undocked RemoraDrone from Remora
+[11/02/2022 21:51:21]
+  The respawn shuttle is leaving.
+[11/02/2022 21:51:22]
+  Disconnecting client Супостат. Syncing the client with the server took too long.
+[11/02/2022 21:51:22]
+  Игрок Супостат отключился от игры. Причина: Рассинхронизация событий (время истекло)
+[11/02/2022 21:51:24]
+  Doctor Barber picked up Серная кислота
+[11/02/2022 21:51:24]
+  No name picked up Кислородный баллон
+[11/02/2022 21:51:24]
+  Melany Stein equipped Водолазный скафандр
+[11/02/2022 21:51:25]
+  igameCrog equipped Гаечный ключ
+[11/02/2022 21:51:25]
+  Pajyloy_Borov dropped Одноразовый водолазный скафандр
+[11/02/2022 21:51:26]
+  No name picked up Кислородный баллон
+[11/02/2022 21:51:26]
+  igameCrog equipped Отвертка
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:26]
+  Doctor Barber picked up Морфин
+[11/02/2022 21:51:27]
+  No name picked up Кислородный баллон
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:29]
+  Doctor Barber picked up Бинт
+[11/02/2022 21:51:30]
+  Jeleshka placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 849)
+[11/02/2022 21:51:34]
+  Doctor Barber picked up Экстракт взрывного граната
+[11/02/2022 21:51:34]
+  Doctor Barber picked up Экстракт взрывного граната
+[11/02/2022 21:51:34]
+  Doctor Barber picked up Экстракт взрывного граната
+[11/02/2022 21:51:34]
+  Doctor Barber picked up Антибиотики широкого спектра
+[11/02/2022 21:51:34]
+  Doctor Barber picked up Антибиотики широкого спектра
+[11/02/2022 21:51:36]
+  Doctor Barber equipped Этанол
+[11/02/2022 21:51:36]
+  Doctor Barber picked up Этанол
+[11/02/2022 21:51:36]
+  Doctor Barber equipped Этанол
+[11/02/2022 21:51:36]
+  Doctor Barber picked up Этанол
+[11/02/2022 21:51:36]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Компонент «И» (signal_out)
+[11/02/2022 21:51:36]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/02/2022 21:51:37]
+  billy: эм
+[11/02/2022 21:51:38]
+  Melany Stein: Здесь ужасно тихо.
+[11/02/2022 21:51:39]
+  igameCrog disconnected a wire from Настраиваемый люк (set_state) to Компонент «Задержки» (signal_out)
+[11/02/2022 21:51:39]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «Задержки» (signal_out)
+[11/02/2022 21:51:39]
+  billy: ладно
+[11/02/2022 21:51:41]
+  Pajyloy_Borov placed Блок C-4+ in Детонатор (ID: 7008)
+[11/02/2022 21:51:41]
+  Doctor Barber used item Этанол
+[11/02/2022 21:51:42]
+  Pajyloy_Borov picked up Детонатор
+[11/02/2022 21:51:43]
+  Doctor Barber used item Этанол
+[11/02/2022 21:51:43]
+  Pajyloy_Borov picked up Граната с воспламенитом
+[11/02/2022 21:51:43]
+  Pajyloy_Borov picked up Граната с воспламенитом
+[11/02/2022 21:51:43]
+  Pajyloy_Borov picked up Граната с воспламенитом
+[11/02/2022 21:51:44]
+  Doctor Barber used item Экстракт взрывного граната
+[11/02/2022 21:51:44]
+  Игрок Супостат присоединился к серверу.
+[11/02/2022 21:51:44]
+  Saving client permissions
+[11/02/2022 21:51:44]
+  billy: мда
+[11/02/2022 21:51:45]
+  Pajyloy_Borov picked up Бронежилет
+[11/02/2022 21:51:46]
+  Doctor Barber used item Экстракт взрывного граната
+[11/02/2022 21:51:46]
+  igameCrog disconnected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/02/2022 21:51:46]
+  igameCrog connected a wire from Настраиваемый люк (state_out) to Компонент «И» (signal_out)
+[11/02/2022 21:51:46]
+  Pajyloy_Borov picked up Полицейский шлем
+[11/02/2022 21:51:48]
+  Doctor Barber used item Экстракт взрывного граната
+[11/02/2022 21:51:48]
+  igameCrog disconnected a wire from Настраиваемый люк (toggle) to Компонент «Задержки» (signal_out)
+[11/02/2022 21:51:48]
+  igameCrog connected a wire from Настраиваемый люк (state_out) to Компонент «Задержки» (signal_out)
+[11/02/2022 21:51:48]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:51:50]
+  Doctor Barber used item Антибиотики широкого спектра
+[11/02/2022 21:51:50]
+  Pajyloy_Borov placed Закаленный лом in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:51:50]
+  Pajyloy_Borov removed Блок C-4+ from Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:51:50]
+  Pajyloy_Borov picked up Блок C-4+
+[11/02/2022 21:51:52]
+  Pajyloy_Borov placed Наручники in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:51:52]
+  Pajyloy_Borov removed UEX from Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:51:52]
+  Pajyloy_Borov picked up UEX
+[11/02/2022 21:51:52]
+  Doctor Barber used item Антибиотики широкого спектра
+[11/02/2022 21:51:52]
+  The respawn shuttle has left.
+[11/02/2022 21:51:53]
+  Pajyloy_Borov placed Нож ныряльщика in Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:51:53]
+  Pajyloy_Borov removed Шоковая дубинка from Защищенный стальной шкаф (ID: 596)
+[11/02/2022 21:51:53]
+  Pajyloy_Borov picked up Шоковая дубинка
+[11/02/2022 21:51:54]
+  DJ ARBUZ dropped Одноразовый водолазный скафандр
+[11/02/2022 21:51:55]
+  No name placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 1)
+[11/02/2022 21:51:56]
+  Doctor Barber used item Серная кислота
+[11/02/2022 21:51:56]
+  billy: ок
+[11/02/2022 21:51:57]
+  igameCrog disconnected a wire from Настраиваемый люк (state_out) to Компонент «Задержки» (signal_out)
+[11/02/2022 21:51:57]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «Задержки» (signal_out)
+[11/02/2022 21:51:59]
+  igameCrog disconnected a wire from Настраиваемый люк (state_out) to Компонент «И» (signal_out)
+[11/02/2022 21:51:59]
+  igameCrog connected a wire from Настраиваемый люк (toggle) to Компонент «И» (signal_out)
+[11/02/2022 21:52:02]
+  Dispatching the respawn shuttle.
+[11/02/2022 21:52:03]
+  Respawning Супостат (STEAM_1:0:500890532) as Инженер
+[11/02/2022 21:52:05]
+  Супостат set the value "Channel" of the item "Наушники" to "0".
+[11/02/2022 21:52:08]
+  Doctor Barber dropped Одноразовый водолазный скафандр
+[11/02/2022 21:52:11]
+  Beverley Tyson: Прекрати!
+[11/02/2022 21:52:11]
+  kynlan4ic: Terrance Dyer, займись протечками!
+[11/02/2022 21:52:12]
+  Terrance Dyer: Так точно!
+[11/02/2022 21:52:13]
+  kynlan4ic: Beverley Tyson, займись ремонтом поврежденных систем!
+[11/02/2022 21:52:14]
+  Beverley Tyson: Так точно!
+[11/02/2022 21:52:14]
+  Jared Phoenix equipped Шоковая дубинка
+[11/02/2022 21:52:15]
+  Jared Phoenix unequipped Шоковая дубинка
+[11/02/2022 21:52:15]
+  Pajyloy_Borov equipped Красный провод
+[11/02/2022 21:52:15]
+  Pajyloy_Borov picked up Красный провод
+[11/02/2022 21:52:15]
+  billy: эээ
+[11/02/2022 21:52:15]
+  Jared Phoenix equipped Шоковая дубинка
+[11/02/2022 21:52:16]
+  Jared Phoenix unequipped Шоковая дубинка
+[11/02/2022 21:52:16]
+  Jared Phoenix equipped Шоковая дубинка
+[11/02/2022 21:52:17]
+  Doctor Barber picked up Этанол
+[11/02/2022 21:52:18]
+  billy: кудааааааааааа
+[11/02/2022 21:52:18]
+  Jeleshka equipped Гаечный ключ
+[11/02/2022 21:52:18]
+  Jeleshka equipped Отвертка
+[11/02/2022 21:52:20]
+  Doctor Barber picked up Этанол
+[11/02/2022 21:52:20]
+  Pajyloy_Borov equipped Отвертка
+[11/02/2022 21:52:20]
+  Pajyloy_Borov picked up Отвертка
+[11/02/2022 21:52:20]
+  Jared Phoenix used Шоковая дубинка (Аккумулятор) on Doctor Barber.
+[11/02/2022 21:52:21]
+  Beverley Tyson equipped Отвертка
+[11/02/2022 21:52:22]
+  Pajyloy_Borov dropped Ручной сонар
+[11/02/2022 21:52:22]
+  Beverley Tyson: Прекрати!
+[11/02/2022 21:52:22]
+  Terrance Dyer: Надо найти водолазный скафандр!
+[11/02/2022 21:52:23]
+  Pajyloy_Borov dropped Плазменный резак
+[11/02/2022 21:52:23]
+  iliya_kind picked up Кислородный баллон
+[11/02/2022 21:52:23]
+  Jared Phoenix used Шоковая дубинка (Аккумулятор) on Doctor Barber.
+[11/02/2022 21:52:25]
+  No name picked up Водолазный скафандр
+[11/02/2022 21:52:25]
+  Julius Proctor: Мне нужно подводное снаряжение!
+[11/02/2022 21:52:26]
+  Jared Phoenix used Шоковая дубинка (Аккумулятор) on Doctor Barber.
+[11/02/2022 21:52:27]
+  Pajyloy_Borov equipped Детонатор
+[11/02/2022 21:52:28]
+  Jared Phoenix unequipped Шоковая дубинка
+[11/02/2022 21:52:29]
+  billy: стороооооооооооооооооой
+[11/02/2022 21:52:30]
+  Jared Phoenix equipped Шоковая дубинка
+[11/02/2022 21:52:31]
+  billy: стоооооооооооооо
+[11/02/2022 21:52:33]
+  Jared Phoenix used Шоковая дубинка (Аккумулятор) on Doctor Barber.
+[11/02/2022 21:52:33]
+  Beverley Tyson: Эй! Ты что ж такое делаешь, а?
+[11/02/2022 21:52:36]
+  Jared Phoenix used Шоковая дубинка on Doctor Barber.
+[11/02/2022 21:52:37]
+  Jared Phoenix used Шоковая дубинка on Doctor Barber.
+[11/02/2022 21:52:40]
+  billy opened Настраиваемый люк
+[11/02/2022 21:52:40]
+  Jared Phoenix unequipped Шоковая дубинка
+[11/02/2022 21:52:40]
+  billy closed Настраиваемый люк
+[11/02/2022 21:52:41]
+  Jared Phoenix equipped Шоковая дубинка
+[11/02/2022 21:52:41]
+  billy opened Настраиваемый люк
+[11/02/2022 21:52:45]
+  Beverley Tyson: Ты что творишь-то?
+[11/02/2022 21:52:46]
+  billy closed Настраиваемый люк
+[11/02/2022 21:52:48]
+  No name equipped Отвертка
+[11/02/2022 21:52:50]
+  No name started repairing Кабельная коробка
+[11/02/2022 21:52:51]
+  Jared Phoenix unequipped Шоковая дубинка
+[11/02/2022 21:52:52]
+  Doctor Barber used item Этанол
+[11/02/2022 21:52:52]
+  Doctor Barber used item Этанол
+[11/02/2022 21:52:55]
+  billy closed Настраиваемая дверь
+[11/02/2022 21:52:55]
+  billy opened Настраиваемая дверь
+[11/02/2022 21:52:56]
+  Jared Phoenix equipped Шоковая дубинка
+[11/02/2022 21:52:57]
+  Jeleshka placed Топливный бак сварочного аппарата in Плазменный резак (ID: 7283)
+[11/02/2022 21:52:57]
+  Jeleshka removed Кислородный баллон from Плазменный резак (ID: 7283)
+[11/02/2022 21:52:57]
+  Jeleshka placed Кислородный баллон in Сварочный аппарат (ID: 7281)
+[11/02/2022 21:52:58]
+  Terrance Dyer opened Настраиваемая дверь
+[11/02/2022 21:52:58]
+  Terrance Dyer closed Настраиваемая дверь
+[11/02/2022 21:52:59]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:53:00]
+  Terrance Dyer equipped Сварочный аппарат
+[11/02/2022 21:53:00]
+  Outer wall repaired by Terrance Dyer
+[11/02/2022 21:53:00]
+  billy equipped Водолазный скафандр
+[11/02/2022 21:53:00]
+  billy picked up Водолазный скафандр
+[11/02/2022 21:53:00]
+  Terrance Dyer: Воздушный шлюз: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 21:53:02]
+  Terrance Dyer: Воздушный шлюз: протечек не осталось!
+[11/02/2022 21:53:03]
+  Terrance Dyer unequipped Сварочный аппарат
+[11/02/2022 21:53:04]
+  DJ ARBUZ opened Настраиваемая дверь
+[11/02/2022 21:53:04]
+  DJ ARBUZ closed Настраиваемая дверь
+[11/02/2022 21:53:04]
+  Jared Phoenix used Шоковая дубинка on iliya_kind.
+[11/02/2022 21:53:04]
+  billy dropped Одноразовый водолазный скафандр
+[11/02/2022 21:53:05]
+  Darwin Dews equipped Водолазный скафандр
+[11/02/2022 21:53:06]
+  Jared Phoenix used Шоковая дубинка on Darwin Dews.
+[11/02/2022 21:53:07]
+  billy picked up Кислородный баллон
+[11/02/2022 21:53:07]
+  Pajyloy_Borov attached Детонатор to a wall
+[11/02/2022 21:53:07]
+  Mitrofan Wheeling: Beverley Tyson получает первую помощь здесь: пункт управления!
+[11/02/2022 21:53:07]
+  billy picked up Кислородный баллон
+[11/02/2022 21:53:07]
+  Jared Phoenix used Шоковая дубинка on Doctor Barber.
+[11/02/2022 21:53:07]
+  Jared Phoenix unequipped Шоковая дубинка
+[11/02/2022 21:53:08]
+  billy picked up Кислородный баллон
+[11/02/2022 21:53:10]
+  Pajyloy_Borov connected a wire to Детонатор (activate)
+[11/02/2022 21:53:10]
+  Mitrofan Wheeling: Мне требуется налоксон или стабилоцин!
+[11/02/2022 21:53:12]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:53:12]
+  Mitrofan Wheeling equipped Стабилоцин
+[11/02/2022 21:53:12]
+  Pajyloy_Borov connected a wire from Дверь с окном и кнопками (condition_out) to Детонатор (activate)
+[11/02/2022 21:53:13]
+  igameCrog docked RemoraDrone to Remora
+[11/02/2022 21:53:13]
+  igameCrog undocked RemoraDrone from Remora
+[11/02/2022 21:53:14]
+  igameCrog docked RemoraDrone to Remora
+[11/02/2022 21:53:14]
+  Julius Proctor equipped Аккумулятор
+[11/02/2022 21:53:14]
+  Doctor Barber has died (Cause of death: Ожог)
+[11/02/2022 21:53:14]
+  Mitrofan Wheeling: Beverley Tyson чувствует себя хорошо!
+[11/02/2022 21:53:16]
+  Terrance Dyer equipped Сварочный аппарат
+[11/02/2022 21:53:16]
+  Inner wall repaired by Terrance Dyer
+[11/02/2022 21:53:17]
+  billy: че за хуйня
+[11/02/2022 21:53:18]
+  Inner wall repaired by Terrance Dyer
+[11/02/2022 21:53:19]
+  Willie Robertson equipped Водолазный скафандр
+[11/02/2022 21:53:19]
+  Outer wall repaired by Terrance Dyer
+[11/02/2022 21:53:19]
+  Terrance Dyer: Воздушный шлюз: выполняю ремонт. Осталось несколько отверстий!
+[11/02/2022 21:53:21]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[11/02/2022 21:53:22]
+  Mitrofan Wheeling: Pajyloy_Borov получает первую помощь здесь: передняя шахта доступа!
+[11/02/2022 21:53:22]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:53:23]
+  Mitrofan Wheeling: iliya_kind проходит лечение здесь: передняя шахта доступа!
+[11/02/2022 21:53:24]
+  Mitrofan Wheeling: Мне требуется бинт, экстракт взрывного граната, опиум или морфин!
+[11/02/2022 21:53:24]
+  billy picked up Ручной сонар
+[11/02/2022 21:53:25]
+  No name equipped Огнетушитель
+[11/02/2022 21:53:25]
+  No name picked up Огнетушитель
+[11/02/2022 21:53:26]
+  billy picked up Фонарик
+[11/02/2022 21:53:27]
+  Doctor Barber покидает сервер.
+[11/02/2022 21:53:30]
+  Darwin Dews equipped Сварочный аппарат
+[11/02/2022 21:53:32]
+  billy equipped Ручной сонар
+[11/02/2022 21:53:33]
+  billy equipped Фонарик
+[11/02/2022 21:53:34]
+  Terrance Dyer: Надо найти водолазный скафандр!
+[11/02/2022 21:53:37]
+  Terrance Dyer closed Настраиваемая дверь
+[11/02/2022 21:53:37]
+  Terrance Dyer opened Настраиваемая дверь
+[11/02/2022 21:53:38]
+  Julius Proctor equipped Сварочный аппарат
+[11/02/2022 21:53:40]
+  Terrance Dyer: Воздушный шлюз: протечек не осталось!
+[11/02/2022 21:53:43]
+  Mitrofan Wheeling equipped Опиум
+[11/02/2022 21:53:43]
+  billy equipped Сварочный аппарат
+[11/02/2022 21:53:44]
+  No name placed Огнетушитель in Стойка огнетушителя (ID: 740)
+[11/02/2022 21:53:45]
+  Randi Combs equipped Сварочный аппарат
+[11/02/2022 21:53:46]
+  Terrance Dyer closed Настраиваемая дверь
+[11/02/2022 21:53:46]
+  Terrance Dyer opened Настраиваемая дверь
+[11/02/2022 21:53:46]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:53:47]
+  Mitrofan Wheeling: Jeleshka проходит лечение здесь: трюм!
+[11/02/2022 21:53:48]
+  Mitrofan Wheeling: Jeleshka нуждается в помощи! Срочно требуется бинт, экстракт взрывного граната, опиум или морфин!
+[11/02/2022 21:53:50]
+  Inner wall repaired by Randi Combs
+[11/02/2022 21:53:51]
+  Inner wall repaired by Julius Proctor
+[11/02/2022 21:53:51]
+  Julius Proctor: Моторный отсек: все протечки устранены!
+[11/02/2022 21:53:51]
+  Randi Combs unequipped Сварочный аппарат
+[11/02/2022 21:53:52]
+  Mitrofan Wheeling equipped Морфин
+[11/02/2022 21:53:53]
+  Randi Combs equipped Сварочный аппарат
+[11/02/2022 21:53:56]
+  Inner wall repaired by Julius Proctor
+[11/02/2022 21:53:58]
+  Julius Proctor unequipped Сварочный аппарат
+[11/02/2022 21:53:59]
+  billy: какой то даун сомает лодку
+[11/02/2022 21:54:00]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:54:02]
+  Randi Combs unequipped Сварочный аппарат
+[11/02/2022 21:54:04]
+  billy: ломает
+[11/02/2022 21:54:08]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:54:08]
+  Mitrofan Wheeling equipped Опиум
+[11/02/2022 21:54:08]
+  billy equipped Гаечный ключ
+[11/02/2022 21:54:09]
+  billy equipped Отвертка
+[11/02/2022 21:54:10]
+  Darwin Dews unequipped Сварочный аппарат
+[11/02/2022 21:54:14]
+  DJ ARBUZ picked up Удостоверение личности
+[11/02/2022 21:54:15]
+  iliya_kind picked up Электрошокер
+[11/02/2022 21:54:16]
+  Melany Stein equipped Сварочный аппарат
+[11/02/2022 21:54:17]
+  iliya_kind picked up Электрошокер
+[11/02/2022 21:54:17]
+  Inner wall repaired by Melany Stein
+[11/02/2022 21:54:17]
+  Melany Stein: Моторный отсек: все протечки устранены!
+[11/02/2022 21:54:18]
+  Beverley Tyson started repairing Ядерный реактор
+[11/02/2022 21:54:19]
+  Mitrofan Wheeling equipped Бинт
+[11/02/2022 21:54:19]
+  Outer wall repaired by Melany Stein
+[11/02/2022 21:54:20]
+  Melany Stein unequipped Сварочный аппарат
+[11/02/2022 21:54:21]
+  iliya_kind equipped Электрошокер
+[11/02/2022 21:54:24]
+  Mitrofan Wheeling equipped Бинт
+[11/02/2022 21:54:26]
+  Outer wall repaired by Terrance Dyer
+[11/02/2022 21:54:26]
+  Terrance Dyer: Трюм: все протечки устранены!
+[11/02/2022 21:54:26]
+  Beverley Tyson unequipped Отвертка
+[11/02/2022 21:54:26]
+  Beverley Tyson equipped Гаечный ключ
+[11/02/2022 21:54:26]
+  Mitrofan Wheeling: iliya_kind получает первую помощь здесь: пункт управления!
+[11/02/2022 21:54:26]
+  Mitrofan Wheeling: iliya_kind чувствует себя хорошо!
+[11/02/2022 21:54:27]
+  billy equipped Огнетушитель
+[11/02/2022 21:54:27]
+  billy picked up Огнетушитель
+[11/02/2022 21:54:30]
+  Mitrofan Wheeling equipped Опиум
+[11/02/2022 21:54:32]
+  Beverley Tyson started repairing Генератор кислорода
+[11/02/2022 21:54:32]
+  Mitrofan Wheeling: Jeleshka в полном порядке!
+[11/02/2022 21:54:32]
+  Inner wall repaired by Terrance Dyer
+[11/02/2022 21:54:33]
+  No name disconnected a wire from Генератор кислорода (power_in) to Кабельная коробка (power)
+[11/02/2022 21:54:34]
+  Darwin Dews: Надо найти водолазный скафандр!
+[11/02/2022 21:54:35]
+  DJ ARBUZ picked up Клоунская маска
+[11/02/2022 21:54:37]
+  DJ ARBUZ picked up Аккордеон
+[11/02/2022 21:54:39]
+  billy dropped Огнетушитель
+[11/02/2022 21:54:40]
+  iliya_kind placed Одноразовый водолазный скафандр in Шкаф для подводного снаряжения (ID: 5)
+[11/02/2022 21:54:40]
+  DJ ARBUZ dropped Одежда помощника
+[11/02/2022 21:54:40]
+  Beverley Tyson unequipped Гаечный ключ
+[11/02/2022 21:54:40]
+  Beverley Tyson equipped Отвертка
+[11/02/2022 21:54:41]
+  DJ ARBUZ equipped Аккордеон
+[11/02/2022 21:54:42]
+  Terrance Dyer unequipped Сварочный аппарат
+[11/02/2022 21:54:44]
+  Jared Phoenix: Стреляю!
+[11/02/2022 21:54:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:45]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:45]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:45]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:54:45]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:46]
+  billy picked up Анаболические стероиды
+[11/02/2022 21:54:46]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:46]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:46]
+  Beverley Tyson: Кабельная коробка не поддается починке!
+[11/02/2022 21:54:46]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:46]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:54:48]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:54:52]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:54:54]
+  Terrance Dyer: Мне нужно подводное снаряжение!
+[11/02/2022 21:54:54]
+  iliya_kind picked up Водолазный скафандр
+[11/02/2022 21:54:56]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/02/2022 21:54:56]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[11/02/2022 21:54:56]
+  kynlan4ic picked up Одноразовый водолазный скафандр
+[11/02/2022 21:54:56]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[11/02/2022 21:54:57]
+  billy used item Анаболические стероиды
+[11/02/2022 21:54:58]
+  kynlan4ic equipped Одноразовый водолазный скафандр
+[11/02/2022 21:54:59]
+  Beverley Tyson: Мне нужно подводное снаряжение!
+[11/02/2022 21:55:01]
+  kynlan4ic dropped Одноразовый водолазный скафандр
+[11/02/2022 21:55:02]
+  billy picked up Аккордеон
+[11/02/2022 21:55:03]
+  Terrance Dyer equipped Сварочный аппарат
+[11/02/2022 21:55:04]
+  iliya_kind equipped Фонарик
+[11/02/2022 21:55:04]
+  iliya_kind picked up Фонарик
+[11/02/2022 21:55:05]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:55:06]
+  Randi Combs: Мне нужно подводное снаряжение!
+[11/02/2022 21:55:06]
+  Julius Proctor: Надо найти водолазный скафандр!
+[11/02/2022 21:55:06]
+  iliya_kind placed Электрошокер in Большой стальной шкаф (ID: 599)
+[11/02/2022 21:55:07]
+  Beverley Tyson unequipped Отвертка
+[11/02/2022 21:55:07]
+  Beverley Tyson equipped Отвертка
+[11/02/2022 21:55:07]
+  Beverley Tyson unequipped Отвертка
+[11/02/2022 21:55:07]
+  Beverley Tyson equipped Гаечный ключ
+[11/02/2022 21:55:07]
+  Beverley Tyson unequipped Гаечный ключ
+[11/02/2022 21:55:07]
+  Beverley Tyson equipped Отвертка
+[11/02/2022 21:55:09]
+  igameCrog picked up Кислородный баллон
+[11/02/2022 21:55:09]
+  igameCrog dropped Кислородный баллон
+[11/02/2022 21:55:09]
+  igameCrog placed Кислородный баллон in Водолазный скафандр (ID: 6941)
+[11/02/2022 21:55:09]
+  Julius Proctor: Где кислородные баллоны?
+[11/02/2022 21:55:10]
+  Randi Combs: Мне нужен кислород!
+[11/02/2022 21:55:11]
+  Inner wall repaired by Terrance Dyer
+[11/02/2022 21:55:12]
+  Jeleshka picked up Одноразовый водолазный скафандр
+[11/02/2022 21:55:13]
+  Pajyloy_Borov has died (Cause of death: Ожог)
+[11/02/2022 21:55:13]
+  Jeleshka equipped Одноразовый водолазный скафандр
+[11/02/2022 21:55:14]
+  The respawn shuttle is leaving.
+[11/02/2022 21:55:15]
+  Willie Robertson equipped Дробовик
+[11/02/2022 21:55:15]
+  Darwin Dews equipped Водолазный скафандр
+[11/02/2022 21:55:16]
+  billy equipped Аккордеон
+[11/02/2022 21:55:17]
+  Joe Boman: Неизвестная цель обнаружена!
+[11/02/2022 21:55:18]
+  Jared Phoenix: Стреляю!
+[11/02/2022 21:55:18]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:19]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:19]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:19]
+  Jeleshka dropped Одноразовый водолазный скафандр
+[11/02/2022 21:55:19]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:19]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:20]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:20]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:20]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:20]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:21]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:21]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:21]
+  Beverley Tyson started repairing Кабельная коробка
+[11/02/2022 21:55:21]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:21]
+  Darwin Dews: Надо найти водолазный скафандр!
+[11/02/2022 21:55:21]
+  Willie Robertson equipped Револьвер
+[11/02/2022 21:55:21]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:22]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:22]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:22]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:23]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:23]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:23]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:23]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:24]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:24]
+  iliya_kind picked up Фонарик
+[11/02/2022 21:55:24]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:24]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:24]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:25]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:25]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:25]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:25]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:26]
+  DJ ARBUZ equipped Огнетушитель
+[11/02/2022 21:55:26]
+  DJ ARBUZ picked up Огнетушитель
+[11/02/2022 21:55:26]
+  Outer wall repaired by Terrance Dyer
+[11/02/2022 21:55:27]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:27]
+  Willie Robertson equipped Подводное ружье
+[11/02/2022 21:55:27]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:27]
+  Outer wall breached by Crawlerhusk
+[11/02/2022 21:55:27]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:27]
+  No name disconnected a wire from Ядерный реактор (power_out) to Кабельная коробка (power)
+[11/02/2022 21:55:28]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:28]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:28]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:28]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:29]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:29]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:29]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/02/2022 21:55:29]
+  Jared Phoenix: Враг уничтожен!
+[11/02/2022 21:55:30]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:30]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:30]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:31]
+  billy dropped Аккордеон
+[11/02/2022 21:55:31]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:31]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:31]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:32]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:32]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:33]
+  Jeleshka placed Одноразовый водолазный скафандр in Human
+[11/02/2022 21:55:33]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:33]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:33]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:34]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:34]
+  Outer wall breached by Jared Phoenix
+[11/02/2022 21:55:34]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:34]
+  Beverley Tyson unequipped Отвертка
+[11/02/2022 21:55:34]
+  Beverley Tyson equipped Гаечный ключ
+[11/02/2022 21:55:34]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:36]
+  Jeleshka picked up Одноразовый водолазный скафандр
+[11/02/2022 21:55:36]
+  billy picked up Губная гармошка
+[11/02/2022 21:55:36]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:37]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:37]
+  billy equipped Губная гармошка
+[11/02/2022 21:55:37]
+  Beverley Tyson started repairing Малый насос
+[11/02/2022 21:55:38]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:38]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:39]
+  Randi Combs equipped Отвертка
+[11/02/2022 21:55:40]
+  Outer wall repaired by Terrance Dyer
+[11/02/2022 21:55:40]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:41]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:41]
+  Joe Boman: Мне нужно подводное снаряжение!
+[11/02/2022 21:55:41]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:41]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:43]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:43]
+  Crawlerhusk has died (Cause of death: Рваная рана)
+[11/02/2022 21:55:43]
+  Jared Phoenix: Враг уничтожен!
+[11/02/2022 21:55:43]
+  Jeleshka picked up Водолазный скафандр
+[11/02/2022 21:55:43]
+  Jeleshka dropped Одноразовый водолазный скафандр
+[11/02/2022 21:55:43]
+  Jeleshka placed Одноразовый водолазный скафандр in Human
+[11/02/2022 21:55:43]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:43]
+  Outer wall breached by Crawlerhusk
+[11/02/2022 21:55:43]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:44]
+  Супостат has died (Cause of death: Unknown)
+[11/02/2022 21:55:44]
+  The respawn shuttle has left.
+[11/02/2022 21:55:44]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:45]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[11/02/2022 21:55:45]
+  Outer wall breached by Crawlerhusk
+[11/02/2022 21:55:45]
+  Jared Phoenix launched Магнитная пушка (projectile: Снаряд для магнитной пушки)

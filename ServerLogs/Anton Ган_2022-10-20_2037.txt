@@ -1,0 +1,1404 @@
+﻿[10/20/2022 20:19:00]
+  Starting the server...
+[10/20/2022 20:19:00]
+  Using SteamP2P networking.
+[10/20/2022 20:19:00]
+  Server started
+[10/20/2022 20:19:00]
+  Игрок kynlan4ic присоединился к серверу.
+[10/20/2022 20:19:00]
+  Saving client permissions
+[10/20/2022 20:19:00]
+  Saving client permissions
+[10/20/2022 20:19:18]
+  Gamemode changed to PvP
+[10/20/2022 20:19:24]
+  Игрок iliya_kind присоединился к серверу.
+[10/20/2022 20:19:24]
+  Saving client permissions
+[10/20/2022 20:20:00]
+  Игрок igameCrog присоединился к серверу.
+[10/20/2022 20:20:00]
+  Saving client permissions
+[10/20/2022 20:20:47]
+  iliya_kind is ready to start the game.
+[10/20/2022 20:21:02]
+  igameCrog is ready to start the game.
+[10/20/2022 20:21:14]
+  Client "kynlan4ic" started the round.
+[10/20/2022 20:21:14]
+  Starting a new round...
+[10/20/2022 20:21:17]
+  Миссия: Найти и уничтожить
+[10/20/2022 20:21:17]
+  Судну коалиции, покинувшему точку «Центр Set», приказано уничтожить мятежную подлодку в районе точки «Шахта Skadi's Cauldron».
+[10/20/2022 20:21:17]
+  Game mode: PvP
+[10/20/2022 20:21:17]
+  Submarine: Dugong
+[10/20/2022 20:21:17]
+  Level seed: eKPMLag6
+[10/20/2022 20:21:17]
+  Mission: Найти и уничтожить
+[10/20/2022 20:21:19]
+  Round started.
+[10/20/2022 20:21:25]
+  Arkadi Berlin: Надо бы нам кофеварку здесь завести.
+[10/20/2022 20:21:31]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 20:21:42]
+  iliya_kind set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 20:21:49]
+  iliya_kind equipped Шоковая дубинка
+[10/20/2022 20:21:50]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/20/2022 20:21:58]
+  iliya_kind picked up Подводная маска
+[10/20/2022 20:22:00]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 20:22:08]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 20:22:14]
+  igameCrog picked up Подводная маска
+[10/20/2022 20:22:42]
+  igameCrog picked up Кислородный баллон
+[10/20/2022 20:23:02]
+  igameCrog picked up Сварочный аппарат
+[10/20/2022 20:23:06]
+  igameCrog picked up Лом
+[10/20/2022 20:23:13]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 20:23:15]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 20:23:22]
+  igameCrog picked up Морфин
+[10/20/2022 20:24:07]
+  iliya_kind placed Шоковая дубинка in Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:24:07]
+  iliya_kind removed Сварочный аппарат from Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:24:07]
+  iliya_kind picked up Сварочный аппарат
+[10/20/2022 20:24:09]
+  kynlan4ic is a traitor and the current goals are:
+- Найдите каждое яйцо, все до единого! Они могут быть спрятаны в вентиляции. (В процессе)
+
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:10]
+  iliya_kind picked up Топливный бак сварочного аппарата
+[10/20/2022 20:24:35]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:24:36]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:24:36]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:24:37]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:24:37]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:24:37]
+  iliya_kind launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:24:40]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 20:24:42]
+  kynlan4ic: Melany Ellison, займись поврежденными устройствами!
+[10/20/2022 20:24:43]
+  Melany Ellison: Само собой!
+[10/20/2022 20:25:00]
+  iliya_kind picked up Фонарик
+[10/20/2022 20:25:18]
+  iliya_kind equipped Фонарик
+[10/20/2022 20:25:28]
+  iliya_kind equipped Сварочный аппарат
+[10/20/2022 20:25:45]
+  Outer wall breached by Spineling
+[10/20/2022 20:25:46]
+  Inner wall breached by Spineling
+[10/20/2022 20:25:47]
+  Melany Ellison equipped Гаечный ключ
+[10/20/2022 20:25:47]
+  Outer wall breached by Spineling
+[10/20/2022 20:25:48]
+  Melany Ellison: Надо найти водолазный скафандр!
+[10/20/2022 20:25:51]
+  Jess Pearson: Я теряю много крови!
+[10/20/2022 20:25:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:53]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:53]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:53]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:53]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:54]
+  Spineling attacked by kynlan4ic. Рваная рана: 30 Кровотечение: 2 Оглушение: 0.025
+[10/20/2022 20:25:54]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:55]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:55]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:55]
+  Spineling has died (Cause of death: Рваная рана)
+[10/20/2022 20:25:55]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:55]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:56]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:57]
+  Barry Gadberry equipped Водолазный скафандр
+[10/20/2022 20:25:57]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:57]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:25:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:58]
+  Melany Ellison started repairing Дверь с кнопками
+[10/20/2022 20:25:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:58]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:25:59]
+  Barry Gadberry: Помогите, я истекаю кровью!
+[10/20/2022 20:25:59]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:00]
+  Macey Burke: Jess Pearson проходит лечение здесь: мидель!
+[10/20/2022 20:26:00]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:26:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:00]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:01]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:26:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:01]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:01]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:26:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:02]
+  Macey Burke: Jess Pearson чувствует себя хорошо!
+[10/20/2022 20:26:02]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:03]
+  Outer wall breached by Spineling
+[10/20/2022 20:26:03]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:03]
+  Outer wall breached by Spineling
+[10/20/2022 20:26:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:04]
+  Spineling has died (Cause of death: Рваная рана)
+[10/20/2022 20:26:04]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:26:04]
+  Outer wall breached by kynlan4ic
+[10/20/2022 20:26:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:04]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:05]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:26:05]
+  Spineling attacked by kynlan4ic. Рваная рана: 15 Кровотечение: 1 Оглушение: 0.025
+[10/20/2022 20:26:08]
+  Macey Burke equipped Водолазный скафандр
+[10/20/2022 20:26:08]
+  Melany Ellison started repairing Дверь с кнопками
+[10/20/2022 20:26:12]
+  Melany Ellison started repairing Дверь с окном и кнопками
+[10/20/2022 20:26:15]
+  Melany Ellison unequipped Гаечный ключ
+[10/20/2022 20:26:15]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:26:18]
+  Melany Ellison started repairing Суперконденсатор
+[10/20/2022 20:26:21]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:26:22]
+  Inner wall breached by Spineling
+[10/20/2022 20:26:26]
+  kynlan4ic: Jess Pearson, уничтожь врагов!
+[10/20/2022 20:26:27]
+  Jess Pearson: Слушаюсь!
+[10/20/2022 20:26:28]
+  Outer wall breached by Spineling
+[10/20/2022 20:26:28]
+  Inner wall breached by Spineling
+[10/20/2022 20:26:28]
+  Inner wall breached by Spineling
+[10/20/2022 20:26:31]
+  Melany Ellison equipped Сварочный аппарат
+[10/20/2022 20:26:32]
+  Barry Gadberry: Я теряю много крови!
+[10/20/2022 20:26:33]
+  Inner wall breached by Spineling
+[10/20/2022 20:26:33]
+  Outer wall breached by Spineling
+[10/20/2022 20:26:35]
+  igameCrog equipped Сварочный аппарат
+[10/20/2022 20:26:36]
+  Melany Ellison: Мидель: протечек не осталось!
+[10/20/2022 20:26:37]
+  Outer wall breached by Spineling
+[10/20/2022 20:26:39]
+  Karyn Mendez: У меня кровь!
+[10/20/2022 20:26:39]
+  Outer wall repaired by igameCrog
+[10/20/2022 20:26:42]
+  Melany Ellison: Пункт управления: минус одна протечка!
+[10/20/2022 20:26:43]
+  Melany Ellison unequipped Сварочный аппарат
+[10/20/2022 20:26:50]
+  Macey Burke equipped Сварочный аппарат
+[10/20/2022 20:26:50]
+  Macey Burke: Камера балласта B: протечек не осталось!
+[10/20/2022 20:26:55]
+  Outer wall repaired by Macey Burke
+[10/20/2022 20:26:57]
+  Macey Burke unequipped Сварочный аппарат
+[10/20/2022 20:27:04]
+  Margeret Williams equipped Сварочный аппарат
+[10/20/2022 20:27:07]
+  kynlan4ic equipped Нож ныряльщика
+[10/20/2022 20:27:08]
+  Inner wall repaired by Margeret Williams
+[10/20/2022 20:27:08]
+  Margeret Williams: Соединительный отсек: протечек не осталось!
+[10/20/2022 20:27:10]
+  Inner wall repaired by Margeret Williams
+[10/20/2022 20:27:10]
+  Outer wall breached by Spineling
+[10/20/2022 20:27:17]
+  Margeret Williams unequipped Сварочный аппарат
+[10/20/2022 20:27:19]
+  Spineling has died (Cause of death: Рваная рана)
+[10/20/2022 20:27:24]
+  igameCrog equipped Лом
+[10/20/2022 20:27:26]
+  kynlan4ic equipped Шоковая дубинка
+[10/20/2022 20:27:27]
+  Melany Ellison attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:27]
+  kynlan4ic used Нож ныряльщика on Melany Ellison.
+[10/20/2022 20:27:27]
+  Melany Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:27]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Melany Ellison.
+[10/20/2022 20:27:27]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[10/20/2022 20:27:28]
+  Melany Ellison attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:28]
+  kynlan4ic used Нож ныряльщика on Melany Ellison.
+[10/20/2022 20:27:28]
+  Melany Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:28]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Melany Ellison.
+[10/20/2022 20:27:28]
+  Melany Ellison: Охрана! Охрана!
+[10/20/2022 20:27:29]
+  Melany Ellison: Помогите, я истекаю кровью!
+[10/20/2022 20:27:29]
+  Melany Ellison attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:29]
+  kynlan4ic used Нож ныряльщика on Melany Ellison.
+[10/20/2022 20:27:29]
+  Melany Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:29]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Melany Ellison.
+[10/20/2022 20:27:30]
+  Melany Ellison attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:30]
+  kynlan4ic used Нож ныряльщика on Melany Ellison.
+[10/20/2022 20:27:31]
+  Melany Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:31]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Melany Ellison.
+[10/20/2022 20:27:32]
+  Melany Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:32]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Melany Ellison.
+[10/20/2022 20:27:32]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:32]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:27:33]
+  Jess Pearson equipped Шоковая дубинка
+[10/20/2022 20:27:33]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 20:27:33]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:27:34]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:34]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:27:34]
+  Jess Pearson unequipped Шоковая дубинка
+[10/20/2022 20:27:34]
+  Barry Gadberry: Почему ты так поступаешь?
+[10/20/2022 20:27:34]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:34]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:27:35]
+  Jess Pearson equipped Шоковая дубинка
+[10/20/2022 20:27:35]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:35]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:27:35]
+  Barry Gadberry: Помогите, я истекаю кровью!
+[10/20/2022 20:27:36]
+  Melany Ellison attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:36]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Melany Ellison.
+[10/20/2022 20:27:36]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:36]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:27:36]
+  Barry Gadberry equipped Гаечный ключ
+[10/20/2022 20:27:37]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:37]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:37]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:37]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:38]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:27:38]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:38]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:38]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:39]
+  Jess Pearson used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:27:40]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:40]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:40]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:27:40]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:40]
+  Jess Pearson: У меня кровь!
+[10/20/2022 20:27:40]
+  Jess Pearson used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:27:41]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:41]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:42]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:42]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:42]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 4 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:42]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:43]
+  Melany Ellison: Ты что творишь-то?
+[10/20/2022 20:27:43]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:27:43]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:43]
+  Melany Ellison attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:43]
+  kynlan4ic used Нож ныряльщика on Melany Ellison.
+[10/20/2022 20:27:44]
+  Melany Ellison equipped Гаечный ключ
+[10/20/2022 20:27:44]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:27:44]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:45]
+  Jess Pearson used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:27:45]
+  Melany Ellison unequipped Гаечный ключ
+[10/20/2022 20:27:45]
+  Melany Ellison equipped Сварочный аппарат
+[10/20/2022 20:27:46]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:46]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:46]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:27:46]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:47]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 4 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:27:47]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:27:47]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:27:47]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:27:47]
+  Barry Gadberry unequipped Гаечный ключ
+[10/20/2022 20:27:48]
+  Jess Pearson used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:27:48]
+  Jess Pearson unequipped Шоковая дубинка
+[10/20/2022 20:27:51]
+  Jess Pearson equipped Аккумулятор
+[10/20/2022 20:27:57]
+  Karyn Mendez: Barry Gadberry получает первую помощь здесь: реакторный отсек!
+[10/20/2022 20:27:57]
+  Melany Ellison unequipped Сварочный аппарат
+[10/20/2022 20:27:57]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:27:59]
+  Karyn Mendez equipped Бинт
+[10/20/2022 20:27:59]
+  Melany Ellison: Эй! Ты что ж такое делаешь, а?
+[10/20/2022 20:28:00]
+  Karyn Mendez: Barry Gadberry нуждается в помощи! Срочно требуется инопланетная кровь, физраствор, пакет с кровью или бинт!
+[10/20/2022 20:28:02]
+  Jess Pearson equipped Шоковая дубинка
+[10/20/2022 20:28:03]
+  Melany Ellison: Я теряю много крови!
+[10/20/2022 20:28:05]
+  Jess Pearson used Шоковая дубинка on Barry Gadberry.
+[10/20/2022 20:28:06]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:06]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:06]
+  Jess Pearson used Шоковая дубинка on kynlan4ic.
+[10/20/2022 20:28:09]
+  Jess Pearson used Шоковая дубинка on kynlan4ic.
+[10/20/2022 20:28:09]
+  Karyn Mendez: Я теряю много крови!
+[10/20/2022 20:28:10]
+  Barry Gadberry: Я теряю много крови!
+[10/20/2022 20:28:11]
+  Jess Pearson used Шоковая дубинка on kynlan4ic.
+[10/20/2022 20:28:11]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:28:12]
+  Jess Pearson attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:12]
+  kynlan4ic used Нож ныряльщика on Jess Pearson.
+[10/20/2022 20:28:12]
+  Jess Pearson attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:28:12]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Jess Pearson.
+[10/20/2022 20:28:12]
+  Macey Burke equipped Морфин
+[10/20/2022 20:28:12]
+  Macey Burke: Melany Ellison проходит лечение здесь: реакторный отсек!
+[10/20/2022 20:28:13]
+  Macey Burke: Мне требуется инопланетная кровь, физраствор, пакет с кровью или экстракт взрывного граната!
+[10/20/2022 20:28:17]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:17]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:28:17]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:17]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:18]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:18]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:28:18]
+  Barry Gadberry: Ты что творишь-то?
+[10/20/2022 20:28:18]
+  Karyn Mendez attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:18]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Karyn Mendez.
+[10/20/2022 20:28:23]
+  Macey Burke unequipped Морфин
+[10/20/2022 20:28:24]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:28:28]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:28]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:28]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:28]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:30]
+  Karyn Mendez attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:30]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Karyn Mendez.
+[10/20/2022 20:28:31]
+  Karyn Mendez attacked by kynlan4ic. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 20:28:31]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Karyn Mendez.
+[10/20/2022 20:28:31]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[10/20/2022 20:28:31]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 4.5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:31]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:28:32]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 20:28:32]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:34]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:34]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:34]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:34]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:34]
+  Melany Ellison: У меня кровь!
+[10/20/2022 20:28:35]
+  Macey Burke: Barry Gadberry проходит лечение здесь: пункт управления!
+[10/20/2022 20:28:35]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:35]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:35]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:35]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:28:35]
+  Barry Gadberry: Прекрати!
+[10/20/2022 20:28:36]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:36]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:36]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:36]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:38]
+  Macey Burke: Barry Gadberry нуждается в помощи! Срочно требуется инопланетная кровь, физраствор, пакет с кровью или стабилоцин!
+[10/20/2022 20:28:40]
+  Barry Gadberry attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:40]
+  kynlan4ic used Нож ныряльщика on Barry Gadberry.
+[10/20/2022 20:28:40]
+  Macey Burke attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:40]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Macey Burke.
+[10/20/2022 20:28:41]
+  Karyn Mendez: У меня кровь!
+[10/20/2022 20:28:41]
+  kynlan4ic has lost more than 25 karma in the past minute.
+[10/20/2022 20:28:41]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:41]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:42]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:42]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:42]
+  Outer wall breached by kynlan4ic
+[10/20/2022 20:28:42]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:42]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:43]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:28:43]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:28:43]
+  Barry Gadberry: Я теряю много крови!
+[10/20/2022 20:28:43]
+  Karyn Mendez attacked by kynlan4ic. Рваная рана: 5 Кровотечение: 7.5 Оглушение: 0.2
+[10/20/2022 20:28:43]
+  kynlan4ic used Нож ныряльщика on Karyn Mendez.
+[10/20/2022 20:28:50]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:28:56]
+  Melany Ellison started repairing Суперконденсатор
+[10/20/2022 20:28:59]
+  Macey Burke equipped Бинт
+[10/20/2022 20:29:02]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:02]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:02]
+  Karyn Mendez: Barry Gadberry проходит лечение здесь: пункт управления!
+[10/20/2022 20:29:03]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:03]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:03]
+  Karyn Mendez: Barry Gadberry нуждается в помощи! Срочно требуется инопланетная кровь, физраствор, пакет с кровью или бинт!
+[10/20/2022 20:29:04]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:04]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:05]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:29:06]
+  Karyn Mendez equipped Пакет с кровью
+[10/20/2022 20:29:06]
+  Melany Ellison: Помогите, я истекаю кровью!
+[10/20/2022 20:29:08]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:29:08]
+  Melany Ellison equipped Гаечный ключ
+[10/20/2022 20:29:10]
+  Melany Ellison started repairing Генератор кислорода
+[10/20/2022 20:29:10]
+  Karyn Mendez: Barry Gadberry в полном порядке!
+[10/20/2022 20:29:10]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:10]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:12]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 20:29:12]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:13]
+  Karyn Mendez equipped Пакет с кровью
+[10/20/2022 20:29:13]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:13]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:13]
+  Karyn Mendez: Помогите, я истекаю кровью!
+[10/20/2022 20:29:14]
+  Macey Burke: Jess Pearson получает первую помощь здесь: мидель!
+[10/20/2022 20:29:14]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:14]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:15]
+  Jess Pearson has died (Cause of death: Кровопотеря)
+[10/20/2022 20:29:15]
+  Macey Burke: Мне требуется инопланетная кровь, физраствор, пакет с кровью или морфин!
+[10/20/2022 20:29:16]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:16]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:16]
+  Karyn Mendez equipped Опиум
+[10/20/2022 20:29:16]
+  Macey Burke equipped Пакет с кровью
+[10/20/2022 20:29:17]
+  Melany Ellison unequipped Гаечный ключ
+[10/20/2022 20:29:17]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:29:17]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 20:29:17]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:17]
+  Barry Gadberry: Помогите, я истекаю кровью!
+[10/20/2022 20:29:18]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:18]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:19]
+  Karyn Mendez equipped Опиум
+[10/20/2022 20:29:19]
+  Macey Burke: Melany Ellison получает первую помощь здесь: соединительный отсек!
+[10/20/2022 20:29:22]
+  Karyn Mendez equipped Стабилоцин
+[10/20/2022 20:29:22]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:29:22]
+  Melany Ellison equipped Гаечный ключ
+[10/20/2022 20:29:23]
+  Macey Burke: Melany Ellison нуждается в помощи! Срочно требуется экстракт взрывного граната, морфин или опиум!
+[10/20/2022 20:29:25]
+  Karyn Mendez equipped Бинт
+[10/20/2022 20:29:26]
+  Macey Burke equipped Морфин
+[10/20/2022 20:29:28]
+  Karyn Mendez equipped Бинт
+[10/20/2022 20:29:29]
+  iliya_kind adjusted reactor settings: Temperature: 2449, Fission rate: 0, Turbine output: 0, Autotemp ON
+[10/20/2022 20:29:31]
+  Melany Ellison failed to repair Двигатель
+[10/20/2022 20:29:31]
+  iliya_kind adjusted reactor settings: Temperature: 1367, Fission rate: 10, Turbine output: 0, Autotemp ON
+[10/20/2022 20:29:33]
+  Macey Burke: Melany Ellison чувствует себя хорошо!
+[10/20/2022 20:29:35]
+  Melany Ellison started repairing Двигатель
+[10/20/2022 20:29:37]
+  Melany Ellison: Я теряю много крови!
+[10/20/2022 20:29:42]
+  Melany Ellison unequipped Гаечный ключ
+[10/20/2022 20:29:42]
+  Melany Ellison equipped Сварочный аппарат
+[10/20/2022 20:29:43]
+  Outer wall repaired by Melany Ellison
+[10/20/2022 20:29:47]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:47]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:47]
+  Barry Gadberry equipped Шоковая дубинка
+[10/20/2022 20:29:47]
+  Barry Gadberry: Мне нужно подводное снаряжение!
+[10/20/2022 20:29:48]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:48]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:49]
+  Inner wall repaired by Melany Ellison
+[10/20/2022 20:29:49]
+  Melany Ellison: Реакторный отсек: протечек не осталось!
+[10/20/2022 20:29:51]
+  Melany Ellison unequipped Сварочный аппарат
+[10/20/2022 20:29:52]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:52]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:53]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:53]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:54]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:54]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:56]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:56]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:57]
+  igameCrog attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:57]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on igameCrog.
+[10/20/2022 20:29:58]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:29:58]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:29:59]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:30:00]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:30:00]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:30:01]
+  Melany Ellison failed to repair Кабельная коробка
+[10/20/2022 20:30:01]
+  Barry Gadberry attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:30:01]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Barry Gadberry.
+[10/20/2022 20:30:10]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:30:10]
+  Melany Ellison equipped Шоковая дубинка
+[10/20/2022 20:30:10]
+  Melany Ellison: Мне нужно подводное снаряжение!
+[10/20/2022 20:30:13]
+  igameCrog picked up Подводный скутер
+[10/20/2022 20:30:14]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:30:15]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:30:19]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:30:22]
+  iliya_kind picked up Пуленепробиваемый шлем
+[10/20/2022 20:30:26]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:30:29]
+  iliya_kind picked up Бронежилет
+[10/20/2022 20:30:35]
+  iliya_kind picked up Пистолет-пулемет
+[10/20/2022 20:30:37]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[10/20/2022 20:30:39]
+  iliya_kind picked up Револьвер
+[10/20/2022 20:30:40]
+  kynlan4ic: Пункт управления: здесь пробит корпус!
+[10/20/2022 20:30:40]
+  Melany Ellison equipped Гаечный ключ
+[10/20/2022 20:30:40]
+  Melany Ellison unequipped Гаечный ключ
+[10/20/2022 20:30:40]
+  Melany Ellison equipped Сварочный аппарат
+[10/20/2022 20:30:40]
+  Melany Ellison unequipped Сварочный аппарат
+[10/20/2022 20:30:40]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:30:40]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:30:41]
+  Karyn Mendez: Мне нужно подводное снаряжение!
+[10/20/2022 20:30:41]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 20:30:42]
+  iliya_kind picked up Подводное ружье
+[10/20/2022 20:30:49]
+  iliya_kind placed Фонарик in Защищенный стальной шкаф (ID: 1172)
+[10/20/2022 20:30:50]
+  Karyn Mendez equipped Водолазный скафандр
+[10/20/2022 20:30:50]
+  Outer wall repaired by igameCrog
+[10/20/2022 20:30:55]
+  iliya_kind picked up Шоковая дубинка
+[10/20/2022 20:30:58]
+  iliya_kind equipped Пистолет-пулемет
+[10/20/2022 20:31:05]
+  Margeret Williams attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:31:05]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Margeret Williams.
+[10/20/2022 20:31:11]
+  Margeret Williams: Как правильно – таламусы или таламы?
+[10/20/2022 20:31:14]
+  Barry Gadberry: Фу ты, таламусы-саламусы...
+[10/20/2022 20:31:16]
+  kynlan4ic equipped Огнетушитель
+[10/20/2022 20:31:16]
+  kynlan4ic picked up Огнетушитель
+[10/20/2022 20:31:28]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:31:31]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:31:35]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:31:39]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:31:42]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:31:42]
+  igameCrog equipped Гаечный ключ
+[10/20/2022 20:31:46]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:32:10]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:32:11]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:32:15]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:32:28]
+  iliya_kind set the recharge speed of Суперконденсатор to 30 %
+[10/20/2022 20:32:28]
+  iliya_kind set the recharge speed of Суперконденсатор to 40 %
+[10/20/2022 20:32:28]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[10/20/2022 20:32:29]
+  iliya_kind set the recharge speed of Суперконденсатор to 50 %
+[10/20/2022 20:32:29]
+  iliya_kind set the recharge speed of Суперконденсатор to 60 %
+[10/20/2022 20:32:30]
+  iliya_kind set the recharge speed of Суперконденсатор to 70 %
+[10/20/2022 20:32:30]
+  iliya_kind set the recharge speed of Суперконденсатор to 80 %
+[10/20/2022 20:32:30]
+  iliya_kind set the recharge speed of Суперконденсатор to 90 %
+[10/20/2022 20:32:30]
+  kynlan4ic: Пункт управления: здесь протечка!
+[10/20/2022 20:32:30]
+  iliya_kind set the recharge speed of Суперконденсатор to 100 %
+[10/20/2022 20:32:30]
+  iliya_kind set the recharge speed of Суперконденсатор to 70 %
+[10/20/2022 20:32:31]
+  iliya_kind set the recharge speed of Суперконденсатор to 60 %
+[10/20/2022 20:32:31]
+  iliya_kind set the recharge speed of Суперконденсатор to 80 %
+[10/20/2022 20:32:31]
+  iliya_kind set the recharge speed of Суперконденсатор to 90 %
+[10/20/2022 20:32:31]
+  iliya_kind set the recharge speed of Суперконденсатор to 70 %
+[10/20/2022 20:32:31]
+  iliya_kind set the recharge speed of Суперконденсатор to 60 %
+[10/20/2022 20:32:32]
+  iliya_kind set the recharge speed of Суперконденсатор to 50 %
+[10/20/2022 20:32:32]
+  kynlan4ic: Пункт управления: здесь противник!
+[10/20/2022 20:32:38]
+  Karyn Mendez: Надо найти водолазный скафандр!
+[10/20/2022 20:32:45]
+  Margeret Williams: Какой-то импульс на сонаре. Направление: 4 ч.!
+[10/20/2022 20:32:49]
+  igameCrog has died (Cause of death: Баротравма)
+[10/20/2022 20:32:52]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:32:54]
+  Melany Ellison started repairing Батарея
+[10/20/2022 20:32:58]
+  Melany Ellison started repairing Батарея
+[10/20/2022 20:33:03]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:33:22]
+  Coleman Tate equipped Отвертка
+[10/20/2022 20:33:22]
+  Coleman Tate started repairing Суперконденсатор
+[10/20/2022 20:33:35]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:33:35]
+  iliya_kind placed Кислородный баллон in Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:33:35]
+  iliya_kind removed Гаечный ключ from Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:33:35]
+  iliya_kind picked up Гаечный ключ
+[10/20/2022 20:33:36]
+  Coleman Tate started repairing Навигационный терминал
+[10/20/2022 20:33:38]
+  iliya_kind equipped Гаечный ключ
+[10/20/2022 20:33:45]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:33:47]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:33:49]
+  Coleman Tate started repairing Суперконденсатор
+[10/20/2022 20:33:50]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:34:00]
+  Coleman Tate unequipped Отвертка
+[10/20/2022 20:34:02]
+  iliya_kind placed Гаечный ключ in Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:34:04]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 20:34:04]
+  iliya_kind picked up Кислородный баллон
+[10/20/2022 20:34:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:09]
+  Outer wall breached by kynlan4ic
+[10/20/2022 20:34:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:09]
+  Outer wall breached by kynlan4ic
+[10/20/2022 20:34:09]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:10]
+  Outer wall breached by kynlan4ic
+[10/20/2022 20:34:10]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:11]
+  Outer wall breached by kynlan4ic
+[10/20/2022 20:34:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:11]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:12]
+  Margeret Williams: Вижу цель на сонаре. Направление: 5 ч.!
+[10/20/2022 20:34:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:12]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:13]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:14]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:16]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:34:21]
+  Melany Ellison started repairing Навигационный терминал
+[10/20/2022 20:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:21]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:22]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:23]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:24]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:34:24]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:25]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:26]
+  Outer wall repaired by iliya_kind
+[10/20/2022 20:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:26]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:27]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:28]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:29]
+  Inner wall breached by kynlan4ic
+[10/20/2022 20:34:29]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:30]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:31]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:32]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:37]
+  Doria Bailey: Надо найти водолазный скафандр!
+[10/20/2022 20:34:43]
+  iliya_kind dropped Бронежилет
+[10/20/2022 20:34:44]
+  iliya_kind picked up Водолазный скафандр
+[10/20/2022 20:34:47]
+  Arkadi Berlin: Мне нужно подводное снаряжение!
+[10/20/2022 20:34:47]
+  Coleman Tate: Мне нужно подводное снаряжение!
+[10/20/2022 20:34:48]
+  Ivan Maynes equipped Сварочный аппарат
+[10/20/2022 20:34:48]
+  Ivan Maynes: Мне нужно подводное снаряжение!
+[10/20/2022 20:34:51]
+  Jerald Summers: Мне нужно подводное снаряжение!
+[10/20/2022 20:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:51]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:52]
+  kynlan4ic launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[10/20/2022 20:34:52]
+  Fiona Phoenix: Надо найти водолазный скафандр!
+[10/20/2022 20:34:53]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:34:53]
+  Melany Ellison started repairing Монитор состояния
+[10/20/2022 20:34:57]
+  Ivan Maynes unequipped Сварочный аппарат
+[10/20/2022 20:34:57]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:34:58]
+  Inner wall repaired by iliya_kind
+[10/20/2022 20:35:02]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:35:05]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:35:07]
+  Doria Bailey: Надо найти водолазный скафандр!
+[10/20/2022 20:35:08]
+  Outer wall repaired by iliya_kind
+[10/20/2022 20:35:09]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:35:16]
+  kynlan4ic picked up Водолазный скафандр
+[10/20/2022 20:35:20]
+  Melany Ellison: Загружаю в реактор дополнительное топливо!
+[10/20/2022 20:35:22]
+  Coleman Tate equipped Отвертка
+[10/20/2022 20:35:22]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:35:22]
+  Melany Ellison started repairing Ядерный реактор
+[10/20/2022 20:35:23]
+  Jerald Summers: Мне нужно подводное снаряжение!
+[10/20/2022 20:35:26]
+  Coleman Tate started repairing Кабельная коробка
+[10/20/2022 20:35:27]
+  Macey Burke equipped Топливный стержень
+[10/20/2022 20:35:29]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:35:31]
+  Fiona Phoenix: Надо найти водолазный скафандр!
+[10/20/2022 20:35:33]
+  iliya_kind placed Пуленепробиваемый шлем in Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:35:33]
+  iliya_kind removed Гаечный ключ from Средний стальной шкаф (ID: 1009)
+[10/20/2022 20:35:33]
+  iliya_kind picked up Гаечный ключ
+[10/20/2022 20:35:38]
+  Ivan Maynes: Мне нужно подводное снаряжение!
+[10/20/2022 20:35:44]
+  iliya_kind started repairing Двигатель
+[10/20/2022 20:35:50]
+  Ivan Maynes equipped Сварочный аппарат
+[10/20/2022 20:35:52]
+  Coleman Tate started repairing Ядерный реактор
+[10/20/2022 20:36:06]
+  Melany Ellison equipped Отвертка
+[10/20/2022 20:36:08]
+  Melany Ellison started repairing Кабельная коробка
+[10/20/2022 20:36:12]
+  Melany Ellison unequipped Отвертка
+[10/20/2022 20:36:17]
+  Coleman Tate unequipped Отвертка
+[10/20/2022 20:36:27]
+  Coleman Tate equipped Отвертка
+[10/20/2022 20:36:30]
+  Fiona Phoenix equipped Сварочный аппарат
+[10/20/2022 20:36:30]
+  Outer wall repaired by Fiona Phoenix
+[10/20/2022 20:36:30]
+  Fiona Phoenix: Моторный отсек: протечек не осталось!
+[10/20/2022 20:36:31]
+  Fiona Phoenix unequipped Сварочный аппарат
+[10/20/2022 20:36:33]
+  Coleman Tate started repairing Кабельная коробка
+[10/20/2022 20:36:40]
+  Ivan Maynes unequipped Сварочный аппарат
+[10/20/2022 20:36:52]
+  Coleman Tate started repairing Суперконденсатор
+[10/20/2022 20:36:53]
+  kynlan4ic dropped Огнетушитель
+[10/20/2022 20:37:02]
+  iliya_kind failed to repair Генератор кислорода
+[10/20/2022 20:37:03]
+  Coleman Tate started repairing Суперконденсатор
+[10/20/2022 20:37:03]
+  Doria Bailey equipped Шоковая дубинка
+[10/20/2022 20:37:03]
+  Fiona Phoenix attacked by kynlan4ic. Травма от удара тупым предметом: 1.8 Оглушение: 0.2
+[10/20/2022 20:37:03]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Fiona Phoenix.
+[10/20/2022 20:37:04]
+  Fiona Phoenix equipped Сварочный аппарат
+[10/20/2022 20:37:06]
+  Doria Bailey attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:37:06]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Doria Bailey.
+[10/20/2022 20:37:07]
+  Jerald Summers equipped Револьвер
+[10/20/2022 20:37:07]
+  Ivan Maynes equipped Сварочный аппарат
+[10/20/2022 20:37:07]
+  Ivan Maynes: Мне нужно подводное снаряжение!
+[10/20/2022 20:37:07]
+  Coleman Tate equipped Гаечный ключ
+[10/20/2022 20:37:07]
+  Arkadi Berlin equipped Гаечный ключ
+[10/20/2022 20:37:08]
+  Doria Bailey used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:37:08]
+  iliya_kind started repairing Генератор кислорода
+[10/20/2022 20:37:10]
+  Arkadi Berlin unequipped Гаечный ключ
+[10/20/2022 20:37:10]
+  Doria Bailey attacked by kynlan4ic. Травма от удара тупым предметом: 1.6 Оглушение: 0.2
+[10/20/2022 20:37:10]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Doria Bailey.
+[10/20/2022 20:37:10]
+  Arkadi Berlin equipped Гаечный ключ
+[10/20/2022 20:37:11]
+  Doria Bailey used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:37:12]
+  Ivan Maynes unequipped Сварочный аппарат
+[10/20/2022 20:37:12]
+  Ivan Maynes equipped Гаечный ключ
+[10/20/2022 20:37:13]
+  Ivan Maynes unequipped Гаечный ключ
+[10/20/2022 20:37:13]
+  Ivan Maynes equipped Сварочный аппарат
+[10/20/2022 20:37:13]
+  Doria Bailey attacked by kynlan4ic. Травма от удара тупым предметом: 2 Оглушение: 0.2
+[10/20/2022 20:37:13]
+  kynlan4ic used Шоковая дубинка (Аккумулятор) on Doria Bailey.
+[10/20/2022 20:37:14]
+  Fiona Phoenix unequipped Сварочный аппарат
+[10/20/2022 20:37:15]
+  Doria Bailey used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:37:16]
+  Ivan Maynes unequipped Сварочный аппарат
+[10/20/2022 20:37:16]
+  Ivan Maynes equipped Гаечный ключ
+[10/20/2022 20:37:17]
+  Fiona Phoenix equipped Сварочный аппарат
+[10/20/2022 20:37:17]
+  Doria Bailey used Шоковая дубинка (Аккумулятор) on kynlan4ic.
+[10/20/2022 20:37:17]
+  Doria Bailey unequipped Шоковая дубинка
+[10/20/2022 20:37:17]
+  Doria Bailey equipped Нож ныряльщика
+[10/20/2022 20:37:18]
+  Arkadi Berlin unequipped Гаечный ключ
+[10/20/2022 20:37:18]
+  Arkadi Berlin equipped Отвертка
+[10/20/2022 20:37:18]
+  Doria Bailey: У меня кровь!
+[10/20/2022 20:37:19]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:19]
+  Inner wall breached by Doria Bailey
+[10/20/2022 20:37:19]
+  Coleman Tate unequipped Отвертка
+[10/20/2022 20:37:19]
+  Coleman Tate unequipped Гаечный ключ
+[10/20/2022 20:37:20]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:20]
+  Arkadi Berlin unequipped Отвертка
+[10/20/2022 20:37:21]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:22]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:23]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:24]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:25]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:26]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:26]
+  Jerald Summers unequipped Револьвер
+[10/20/2022 20:37:27]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:27]
+  Fiona Phoenix unequipped Сварочный аппарат
+[10/20/2022 20:37:28]
+  Doria Bailey used Нож ныряльщика on kynlan4ic.
+[10/20/2022 20:37:30]
+  Ivan Maynes unequipped Гаечный ключ
+[10/20/2022 20:37:30]
+  Ivan Maynes equipped Сварочный аппарат
+[10/20/2022 20:37:32]
+  kynlan4ic has died (Cause of death: Огнестрельная рана)
+[10/20/2022 20:37:33]
+  Inner wall repaired by Ivan Maynes
+[10/20/2022 20:37:33]
+  Ivan Maynes: Реакторный отсек: все протечки устранены!
+[10/20/2022 20:37:33]
+  Doria Bailey unequipped Нож ныряльщика
+[10/20/2022 20:37:33]
+  Doria Bailey equipped Бинт
+[10/20/2022 20:37:34]
+  Coleman Tate equipped Аккумулятор
+[10/20/2022 20:37:36]
+  Doria Bailey equipped Морфин
+[10/20/2022 20:37:44]
+  Ivan Maynes unequipped Сварочный аппарат
+[10/20/2022 20:37:44]
+  iliya_kind adjusted reactor settings: Temperature: 0, Fission rate: 4, Turbine output: 65, Autotemp OFF
+[10/20/2022 20:37:45]
+  Coleman Tate equipped Отвертка
+[10/20/2022 20:37:46]
+  iliya_kind adjusted reactor settings: Temperature: 0, Fission rate: 5, Turbine output: 66, Autotemp ON
+[10/20/2022 20:37:48]
+  Ending round by votes (2/1)
+[10/20/2022 20:37:48]
+  Ending the round...

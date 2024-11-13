@@ -1,0 +1,1600 @@
+﻿[02/12/2023 21:30:36]
+  Saving client permissions
+[02/12/2023 21:30:36]
+  Saving client permissions
+[02/12/2023 21:30:45]
+  Игрок igameCrog присоединился к серверу.
+[02/12/2023 21:30:45]
+  Saving client permissions
+[02/12/2023 21:30:45]
+  Gamemode changed to PvP
+[02/12/2023 21:31:18]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/12/2023 21:31:18]
+  Saving client permissions
+[02/12/2023 21:32:03]
+  Gamemode changed to Миссия
+[02/12/2023 21:32:44]
+  igameCrog is ready to start the game.
+[02/12/2023 21:34:17]
+  kynlan4ic is ready to start the game.
+[02/12/2023 21:34:23]
+  Чпок В Пупок is ready to start the game.
+[02/12/2023 21:34:24]
+  Client "kynlan4ic" started the round.
+[02/12/2023 21:34:24]
+  Starting a new round...
+[02/12/2023 21:34:48]
+  Миссия: Добыча минералов
+[02/12/2023 21:34:48]
+  Говорят, где-то между точками Исследовательский центр Milda и Укрепление Bramerton есть Ильменит и Бавалин, целые залежи. Привезите оттуда ресурсы (требуется Ильменит и Бавалин), 4 - этого будет достаточно. Ваша доля - 25%.
+[02/12/2023 21:34:48]
+  Game mode: Миссия
+[02/12/2023 21:34:48]
+  Submarine: Dugong
+[02/12/2023 21:34:48]
+  Level seed: Trapoizm xyeta
+[02/12/2023 21:34:48]
+  Mission: Добыча минералов
+[02/12/2023 21:34:48]
+  Ramon Blakley equipped Электрошокер
+[02/12/2023 21:34:48]
+  Round started.
+[02/12/2023 21:34:50]
+  Christine Dyer: От этих Оболочек у меня мороз по коже.
+[02/12/2023 21:34:58]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 21:35:04]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 21:35:12]
+  kynlan4ic picked up Экстракт каликса
+[02/12/2023 21:35:17]
+  kynlan4ic picked up Подводная маска
+[02/12/2023 21:35:19]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:24]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 21:35:25]
+  kynlan4ic picked up Аккумулятор
+[02/12/2023 21:35:25]
+  kynlan4ic picked up Аккумулятор
+[02/12/2023 21:35:25]
+  kynlan4ic picked up Аккумулятор
+[02/12/2023 21:35:26]
+  kynlan4ic picked up Подводный скутер
+[02/12/2023 21:35:27]
+  kynlan4ic picked up Плазменный резак
+[02/12/2023 21:35:28]
+  igameCrog picked up Каликсанид
+[02/12/2023 21:35:30]
+  igameCrog placed Каликсанид in Форма врача (ID: 3599)
+[02/12/2023 21:35:32]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:37]
+  igameCrog placed Морфин in Форма врача (ID: 3599)
+[02/12/2023 21:35:42]
+  igameCrog placed Морфин in Аптечка (ID: 132)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:43]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:35:50]
+  Чпок В Пупок: Медицинский отсек: здесь протечка!
+[02/12/2023 21:35:52]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:52]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:53]
+  kynlan4ic: Fanny Southworth, займись орудиями!
+[02/12/2023 21:35:53]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:54]
+  Fanny Southworth: Вас понял!
+[02/12/2023 21:35:55]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:55]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:56]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 21:35:56]
+  kynlan4ic: Tod Gomez, займись оружием!
+[02/12/2023 21:35:57]
+  Tod Gomez: Вас понял!
+[02/12/2023 21:36:05]
+  igameCrog picked up Пояс инструментов
+[02/12/2023 21:36:06]
+  igameCrog picked up Отвертка
+[02/12/2023 21:36:07]
+  igameCrog picked up Гаечный ключ
+[02/12/2023 21:36:31]
+  igameCrog picked up Подводная маска
+[02/12/2023 21:36:35]
+  kynlan4ic equipped Револьвер
+[02/12/2023 21:36:37]
+  kynlan4ic equipped Экстракт каликса
+[02/12/2023 21:37:36]
+  igameCrog picked up Водолазный скафандр
+[02/12/2023 21:37:38]
+  igameCrog equipped Водолазный скафандр
+[02/12/2023 21:38:16]
+  kynlan4ic equipped Плазменный резак
+[02/12/2023 21:38:22]
+  Игрок Qwutix присоединился к серверу.
+[02/12/2023 21:38:22]
+  Saving client permissions
+[02/12/2023 21:38:24]
+  Чпок В Пупок picked up Сварочный аппарат
+[02/12/2023 21:38:30]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/12/2023 21:39:14]
+  Outer wall breached by kynlan4ic
+[02/12/2023 21:39:15]
+  Walker Reeves: Чпок В Пупок получает первую помощь здесь: медицинский отсек!
+[02/12/2023 21:39:19]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:39:20]
+  Bruno Breeki equipped Сварочный аппарат
+[02/12/2023 21:39:20]
+  Walker Reeves: Чпок В Пупок нуждается в помощи! Срочно требуется экстракт взрывного граната или бинт!
+[02/12/2023 21:39:21]
+  Outer wall repaired by Bruno Breeki
+[02/12/2023 21:39:21]
+  Bruno Breeki: Пункт управления: все протечки устранены!
+[02/12/2023 21:39:21]
+  igameCrog used item Бинт
+[02/12/2023 21:39:22]
+  Bruno Breeki unequipped Сварочный аппарат
+[02/12/2023 21:39:32]
+  kynlan4ic used item Экстракт каликса
+[02/12/2023 21:39:34]
+  igameCrog picked up Сварочный аппарат
+[02/12/2023 21:39:40]
+  Чпок В Пупок equipped Гаечный ключ
+[02/12/2023 21:39:42]
+  igameCrog equipped Сварочный аппарат
+[02/12/2023 21:39:48]
+  kynlan4ic picked up Водолазный скафандр
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:39:59]
+  kynlan4ic picked up Сигнальный огонь
+[02/12/2023 21:40:05]
+  kynlan4ic equipped Подводный скутер
+[02/12/2023 21:40:38]
+  Outer wall breached by kynlan4ic
+[02/12/2023 21:40:48]
+  Чпок В Пупок: Медицинский отсек: здесь срочно требуется медицинская помощь!
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:51]
+  igameCrog picked up Бинт
+[02/12/2023 21:40:53]
+  Чпок В Пупок: Медицинский отсек: здесь срочно требуется медицинская помощь!
+[02/12/2023 21:40:53]
+  igameCrog equipped Бинт
+[02/12/2023 21:40:59]
+  Marcy Mendel: Кажется, у меня жар.
+[02/12/2023 21:41:02]
+  igameCrog used item Бинт
+[02/12/2023 21:41:02]
+  igameCrog equipped Бинт
+[02/12/2023 21:41:02]
+  igameCrog used item Бинт
+[02/12/2023 21:41:02]
+  igameCrog equipped Бинт
+[02/12/2023 21:41:39]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:41:40]
+  Walker Reeves: Чпок В Пупок проходит лечение здесь: пункт управления!
+[02/12/2023 21:41:41]
+  Walker Reeves: Мне требуется бинт, морфин, экстракт взрывного граната или опиум!
+[02/12/2023 21:41:42]
+  Bruno Breeki: Мне нужно подводное снаряжение!
+[02/12/2023 21:41:48]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:41:49]
+  Чпок В Пупок picked up Водолазный скафандр
+[02/12/2023 21:41:50]
+  Katherina Mcneil equipped Сварочный аппарат
+[02/12/2023 21:41:50]
+  Katherina Mcneil: Надо найти водолазный скафандр!
+[02/12/2023 21:41:53]
+  Christine Dyer: Мне нужно подводное снаряжение!
+[02/12/2023 21:41:55]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:41:57]
+  Zoey Hurley: Мне нужно подводное снаряжение!
+[02/12/2023 21:42:00]
+  Katherina Mcneil unequipped Сварочный аппарат
+[02/12/2023 21:42:03]
+  Walker Reeves: Мне нужно подводное снаряжение!
+[02/12/2023 21:42:14]
+  Outer wall repaired by igameCrog
+[02/12/2023 21:42:19]
+  Walker Reeves: igameCrog проходит лечение здесь: камера балласта a!
+[02/12/2023 21:42:20]
+  Walker Reeves: Мне требуется бинт, морфин, экстракт взрывного граната или опиум!
+[02/12/2023 21:42:20]
+  Marcy Mendel: У меня что-то во рту...
+[02/12/2023 21:42:23]
+  igameCrog placed Топливный бак сварочного аппарата in Средний стальной шкаф (ID: 141)
+[02/12/2023 21:42:23]
+  igameCrog removed Топливный бак сварочного аппарата from Средний стальной шкаф (ID: 141)
+[02/12/2023 21:42:23]
+  igameCrog placed Топливный бак сварочного аппарата in Сварочный аппарат (ID: 3379)
+[02/12/2023 21:42:26]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:42:29]
+  igameCrog equipped Шприц-пистолет
+[02/12/2023 21:42:39]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:42:51]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:42:52]
+  Walker Reeves: igameCrog чувствует себя хорошо!
+[02/12/2023 21:42:54]
+  Walker Reeves: Чпок В Пупок проходит лечение здесь: моторный отсек!
+[02/12/2023 21:42:56]
+  Walker Reeves: Мне требуется бинт, морфин, экстракт взрывного граната или опиум!
+[02/12/2023 21:43:00]
+  igameCrog placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 409)
+[02/12/2023 21:43:03]
+  Walker Reeves equipped Морфин
+[02/12/2023 21:43:08]
+  Чпок В Пупок placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 4)
+[02/12/2023 21:43:11]
+  igameCrog equipped Гаечный ключ
+[02/12/2023 21:43:12]
+  Walker Reeves equipped Экстракт взрывного граната
+[02/12/2023 21:43:13]
+  igameCrog started repairing Двигатель
+[02/12/2023 21:43:15]
+  Walker Reeves: Чпок В Пупок в полном порядке!
+[02/12/2023 21:43:32]
+  igameCrog picked up Красный провод
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:35]
+  igameCrog placed Бинт in Форма врача (ID: 3599)
+[02/12/2023 21:43:50]
+  Walker Reeves: igameCrog получает первую помощь здесь: медицинский отсек!
+[02/12/2023 21:43:50]
+  Walker Reeves equipped Опиум
+[02/12/2023 21:43:51]
+  Walker Reeves: Мне требуется бинт, морфин или опиум!
+[02/12/2023 21:43:59]
+  igameCrog used item Бинт
+[02/12/2023 21:44:02]
+  igameCrog used item Бинт
+[02/12/2023 21:44:03]
+  igameCrog used item Бинт
+[02/12/2023 21:44:16]
+  kynlan4ic docked Dugong to Укрепление Bramerton
+[02/12/2023 21:44:16]
+  igameCrog equipped Отвертка
+[02/12/2023 21:44:18]
+  kynlan4ic undocked Dugong from Укрепление Bramerton
+[02/12/2023 21:44:20]
+  igameCrog disconnected a wire from Двигатель (set_force) to Навигационный терминал (velocity_x_out)
+[02/12/2023 21:44:20]
+  igameCrog connected a wire from Двигатель (condition_out) to Навигационный терминал (velocity_x_out)
+[02/12/2023 21:44:21]
+  kynlan4ic docked Dugong to Укрепление Bramerton
+[02/12/2023 21:44:27]
+  Ending round (submarine reached the end of the level)
+[02/12/2023 21:44:27]
+  Ending the round...
+[02/12/2023 21:44:27]
+  Round ended.
+[02/12/2023 21:44:42]
+  igameCrog is ready to start the game.
+[02/12/2023 21:44:49]
+  Чпок В Пупок покидает сервер.
+[02/12/2023 21:44:56]
+  igameCrog is not ready to start the game.
+[02/12/2023 21:45:05]
+  Qwutix покидает сервер.
+[02/12/2023 21:46:36]
+  kynlan4ic changed RespawnInterval to 60
+[02/12/2023 21:46:36]
+  kynlan4ic changed PlayStyle to Casual
+[02/12/2023 21:46:36]
+  kynlan4ic changed LosMode to Transparent
+[02/12/2023 21:46:36]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/12/2023 21:46:36]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/12/2023 21:46:36]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/12/2023 21:46:39]
+  Console command "enablecheats" executed by kynlan4ic.
+[02/12/2023 21:58:03]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/12/2023 21:58:03]
+  Saving client permissions
+[02/12/2023 22:05:57]
+  igameCrog is ready to start the game.
+[02/12/2023 22:05:57]
+  kynlan4ic changed PlayStyle to Casual
+[02/12/2023 22:05:57]
+  kynlan4ic changed LosMode to Transparent
+[02/12/2023 22:05:57]
+  kynlan4ic changed ShowEnemyHealthBars to ShowAll
+[02/12/2023 22:05:57]
+  kynlan4ic changed SubSelectionMode to Manual
+[02/12/2023 22:05:57]
+  kynlan4ic changed ModeSelectionMode to Manual
+[02/12/2023 22:05:58]
+  kynlan4ic is ready to start the game.
+[02/12/2023 22:05:59]
+  Client "kynlan4ic" started the round.
+[02/12/2023 22:05:59]
+  Starting a new round...
+[02/12/2023 22:06:13]
+  Миссия: Убийство большого ползуна
+[02/12/2023 22:06:13]
+  Поступили сообщения о необычайно большом ползуне, нападающем на суда на маршруте Исследовательский центр Milda - Укрепление Bramerton. Команда, которая его уничтожит, получит достойную награду в размере 1,200 кред.
+[02/12/2023 22:06:13]
+  Game mode: Миссия
+[02/12/2023 22:06:13]
+  Submarine: Orca
+[02/12/2023 22:06:13]
+  Level seed: wFsCrcaa
+[02/12/2023 22:06:13]
+  Mission: Убийство большого ползуна
+[02/12/2023 22:06:13]
+  Round started.
+[02/12/2023 22:06:13]
+  Fanny Lozano: Вы когда-нибудь чувствовали себя... плоским?
+[02/12/2023 22:06:19]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 22:06:21]
+  Console command "godmode" executed by kynlan4ic.
+[02/12/2023 22:06:22]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 22:06:25]
+  kynlan4ic picked up Кислородный баллон
+[02/12/2023 22:06:28]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/12/2023 22:06:38]
+  kynlan4ic: Creola Deloney, встань за орудия!
+[02/12/2023 22:06:39]
+  Creola Deloney: Так точно!
+[02/12/2023 22:06:42]
+  kynlan4ic: Avril Lee, займись ремонтом поврежденных систем!
+[02/12/2023 22:06:43]
+  Avril Lee: Само собой!
+[02/12/2023 22:06:44]
+  kynlan4ic: The Gay, займись механическими приборами!
+[02/12/2023 22:06:45]
+  The Gay: Само собой!
+[02/12/2023 22:06:46]
+  kynlan4ic: Fanny Phillips, отремонтируй электросистемы!
+[02/12/2023 22:06:47]
+  Fanny Phillips: Само собой!
+[02/12/2023 22:06:51]
+  kynlan4ic: Avery Green, окажи первую помощь всем, кому потребуется!
+[02/12/2023 22:06:52]
+  Avery Green: Принято.
+[02/12/2023 22:07:13]
+  igameCrog picked up Яйца велонацепса каликса
+[02/12/2023 22:07:50]
+  igameCrog equipped Яйца велонацепса каликса
+[02/12/2023 22:07:59]
+  igameCrog picked up Отвертка
+[02/12/2023 22:08:00]
+  igameCrog picked up Гаечный ключ
+[02/12/2023 22:08:01]
+  igameCrog picked up Пояс инструментов
+[02/12/2023 22:08:02]
+  igameCrog picked up Плазменный резак
+[02/12/2023 22:08:02]
+  igameCrog picked up Сварочный аппарат
+[02/12/2023 22:08:05]
+  igameCrog placed Сварочный аппарат in Пояс инструментов (ID: 3463)
+[02/12/2023 22:08:06]
+  igameCrog placed Плазменный резак in Пояс инструментов (ID: 3463)
+[02/12/2023 22:08:08]
+  igameCrog placed Гаечный ключ in Пояс инструментов (ID: 3463)
+[02/12/2023 22:08:09]
+  igameCrog placed Отвертка in Пояс инструментов (ID: 3463)
+[02/12/2023 22:08:14]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:14]
+  igameCrog placed Морфин in Аптечка (ID: 155)
+[02/12/2023 22:08:14]
+  igameCrog placed Бинт in Аптечка (ID: 155)
+[02/12/2023 22:08:15]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:15]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:15]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:15]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:15]
+  Inner wall breached by Spineling
+[02/12/2023 22:08:15]
+  Inner wall breached by Spineling
+[02/12/2023 22:08:16]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:08:16]
+  Avril Lee started repairing Люк с кнопками
+[02/12/2023 22:08:16]
+  Creola Deloney: Неизвестная цель обнаружена!
+[02/12/2023 22:08:16]
+  Creola Deloney: Огонь!
+[02/12/2023 22:08:16]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:16]
+  igameCrog placed Бинт in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:18]
+  igameCrog placed Морфин in Форма врача (ID: 3376)
+[02/12/2023 22:08:19]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:20]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:21]
+  Avril Lee started repairing Сливной клапан
+[02/12/2023 22:08:21]
+  igameCrog picked up Сварочный аппарат
+[02/12/2023 22:08:22]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:22]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:22]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:22]
+  kynlan4ic: Tanika Lawson, займись оружием!
+[02/12/2023 22:08:23]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:23]
+  igameCrog equipped Сварочный аппарат
+[02/12/2023 22:08:23]
+  The Gay equipped Гаечный ключ
+[02/12/2023 22:08:23]
+  The Gay: Мне нужно подводное снаряжение!
+[02/12/2023 22:08:23]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:23]
+  Spineling has died (Cause of death: Рваная рана)
+[02/12/2023 22:08:23]
+  Creola Deloney: Цель уничтожена!
+[02/12/2023 22:08:23]
+  Tanika Lawson: Так точно!
+[02/12/2023 22:08:24]
+  Avril Lee: Мне нужно подводное снаряжение!
+[02/12/2023 22:08:27]
+  Чпок В Пупок equipped Отвертка
+[02/12/2023 22:08:28]
+  Willy Mason equipped Сварочный аппарат
+[02/12/2023 22:08:28]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/12/2023 22:08:28]
+  Tanika Lawson: Стреляю!
+[02/12/2023 22:08:28]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:28]
+  Inner wall repaired by Willy Mason
+[02/12/2023 22:08:28]
+  Willy Mason: Реакторный отсек: протечек не осталось!
+[02/12/2023 22:08:29]
+  Inner wall repaired by Willy Mason
+[02/12/2023 22:08:29]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:29]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:30]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:30]
+  Willy Mason unequipped Сварочный аппарат
+[02/12/2023 22:08:30]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:30]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:34]
+  Avril Lee started repairing Люк с кнопками
+[02/12/2023 22:08:34]
+  Outer wall breached by Spineling
+[02/12/2023 22:08:34]
+  Inner wall breached by Spineling
+[02/12/2023 22:08:34]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:35]
+  The Gay started repairing Люк с кнопками
+[02/12/2023 22:08:35]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:35]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:36]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:36]
+  Avery Green: igameCrog чувствует себя хорошо!
+[02/12/2023 22:08:36]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:36]
+  Outer wall repaired by Чпок В Пупок
+[02/12/2023 22:08:36]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:37]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:37]
+  Willy Mason: Я теряю много крови!
+[02/12/2023 22:08:37]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:37]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:37]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:39]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:08:39]
+  Avril Lee equipped Сварочный аппарат
+[02/12/2023 22:08:39]
+  The Gay unequipped Гаечный ключ
+[02/12/2023 22:08:39]
+  Outer wall repaired by Чпок В Пупок
+[02/12/2023 22:08:39]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:40]
+  Outer wall repaired by Чпок В Пупок
+[02/12/2023 22:08:40]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:40]
+  Avery Green: Willy Mason проходит лечение здесь: центральный проход!
+[02/12/2023 22:08:40]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:41]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:41]
+  Avery Green: Willy Mason чувствует себя хорошо!
+[02/12/2023 22:08:41]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:41]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:41]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:42]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:42]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:42]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:42]
+  Spineling has died (Cause of death: Рваная рана)
+[02/12/2023 22:08:42]
+  Tanika Lawson: И-и-и-и... Готово!
+[02/12/2023 22:08:42]
+  The Gay equipped Водолазный скафандр
+[02/12/2023 22:08:48]
+  igameCrog picked up Подводная маска
+[02/12/2023 22:08:49]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:08:50]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:08:53]
+  Arturo Cuevas equipped Сварочный аппарат
+[02/12/2023 22:08:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:08:58]
+  Inner wall repaired by Arturo Cuevas
+[02/12/2023 22:08:59]
+  Arturo Cuevas: Соединительный отсек: все протечки устранены!
+[02/12/2023 22:09:02]
+  Tanika Lawson: Стреляю!
+[02/12/2023 22:09:02]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:02]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:02]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:03]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:03]
+  Spineling has died (Cause of death: Рваная рана)
+[02/12/2023 22:09:03]
+  Tanika Lawson: Кажется, есть попадание!
+[02/12/2023 22:09:03]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:09:03]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:09:04]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:09:05]
+  Avril Lee unequipped Сварочный аппарат
+[02/12/2023 22:09:05]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:09:05]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:09:06]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:09:06]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:09:06]
+  Arturo Cuevas unequipped Сварочный аппарат
+[02/12/2023 22:09:06]
+  igameCrog picked up Кислородный баллон
+[02/12/2023 22:09:10]
+  igameCrog picked up Фонарик
+[02/12/2023 22:09:13]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/12/2023 22:09:25]
+  Creola Deloney: У меня новая цель! Не могу понять, что это такое...
+[02/12/2023 22:09:25]
+  Creola Deloney: Огонь!
+[02/12/2023 22:09:25]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:26]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:27]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:27]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:28]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:28]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:44]
+  igameCrog picked up Красный провод
+[02/12/2023 22:09:46]
+  Tanika Lawson: Огонь!
+[02/12/2023 22:09:46]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:47]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:47]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:53]
+  igameCrog picked up Отвертка
+[02/12/2023 22:09:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:55]
+  igameCrog placed Подводная маска in Пояс инструментов (ID: 3463)
+[02/12/2023 22:09:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:09:57]
+  Чпок В Пупок equipped Гаечный ключ
+[02/12/2023 22:09:57]
+  igameCrog equipped Отвертка
+[02/12/2023 22:10:17]
+  Tanika Lawson: Неизвестная цель обнаружена!
+[02/12/2023 22:10:18]
+  Tanika Lawson: Огонь!
+[02/12/2023 22:10:18]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:19]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:19]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:19]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:19]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:20]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:20]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:20]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:21]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:21]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:21]
+  Creola Deloney: Стреляю!
+[02/12/2023 22:10:21]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:22]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:22]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:23]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:23]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:23]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:24]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:24]
+  Crawler_large has died (Cause of death: Рваная рана)
+[02/12/2023 22:10:24]
+  Creola Deloney: И-и-и-и... Готово!
+[02/12/2023 22:10:24]
+  igameCrog disconnected a wire from Люк с кнопками (set_state) to Компонент "И" (signal_out)
+[02/12/2023 22:10:24]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:24]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:24]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:24]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:24]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:25]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:25]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:25]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:26]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:26]
+  igameCrog connected a wire from Люк с кнопками (toggle) to Компонент "И" (signal_out)
+[02/12/2023 22:10:26]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:26]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:26]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:27]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:27]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:27]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:27]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:28]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:28]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:28]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:31]
+  igameCrog disconnected a wire from Люк с кнопками (toggle) to Компонент "И" (signal_out)
+[02/12/2023 22:10:31]
+  igameCrog connected a wire from Люк с кнопками (state_out) to Компонент "И" (signal_out)
+[02/12/2023 22:10:32]
+  igameCrog disconnected a wire from Люк с кнопками (state_out) to Компонент "И" (signal_out)
+[02/12/2023 22:10:34]
+  igameCrog connected a wire from Люк с кнопками (condition_out) to Компонент "И" (signal_out)
+[02/12/2023 22:10:37]
+  igameCrog disconnected a wire from Люк с кнопками (condition_out) to Компонент "И" (signal_out)
+[02/12/2023 22:10:37]
+  igameCrog connected a wire from Люк с кнопками (set_state) to Компонент "И" (signal_out)
+[02/12/2023 22:10:42]
+  igameCrog equipped Красный провод
+[02/12/2023 22:10:44]
+  igameCrog connected a wire to Люк с кнопками (set_state)
+[02/12/2023 22:10:50]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/12/2023 22:10:52]
+  Outer wall repaired by Чпок В Пупок
+[02/12/2023 22:10:56]
+  Tanika Lawson: Стреляю!
+[02/12/2023 22:10:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:56]
+  Outer wall breached by Tanika Lawson
+[02/12/2023 22:10:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:57]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:57]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:57]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:57]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:59]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:59]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:10:59]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:00]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:00]
+  igameCrog connected a wire from Дверь с кнопками (toggle) to Люк с кнопками (set_state)
+[02/12/2023 22:11:02]
+  Avril Lee equipped Сварочный аппарат
+[02/12/2023 22:11:03]
+  Outer wall repaired by Avril Lee
+[02/12/2023 22:11:03]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:03]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:04]
+  Avril Lee unequipped Сварочный аппарат
+[02/12/2023 22:11:04]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:04]
+  Outer wall breached by Hammerheadgold
+[02/12/2023 22:11:04]
+  Inner wall breached by Hammerheadgold
+[02/12/2023 22:11:04]
+  Inner wall breached by Hammerheadgold
+[02/12/2023 22:11:04]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:04]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:04]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:05]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:05]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:05]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:05]
+  Arturo Cuevas: Надо найти водолазный скафандр!
+[02/12/2023 22:11:05]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:06]
+  Crawler has died (Cause of death: Рваная рана)
+[02/12/2023 22:11:06]
+  Creola Deloney: Враг уничтожен!
+[02/12/2023 22:11:06]
+  Tanika Lawson: И-и-и-и... Готово!
+[02/12/2023 22:11:07]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:08]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:08]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:08]
+  Avril Lee: Мне нужно подводное снаряжение!
+[02/12/2023 22:11:08]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:09]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:09]
+  igameCrog disconnected a wire from Дверь с кнопками (toggle) to Люк с кнопками (set_state)
+[02/12/2023 22:11:09]
+  igameCrog connected a wire from Дверь с кнопками (set_state) to Люк с кнопками (set_state)
+[02/12/2023 22:11:10]
+  Willy Mason: Мне нужно подводное снаряжение!
+[02/12/2023 22:11:16]
+  Fanny Phillips equipped Сварочный аппарат
+[02/12/2023 22:11:16]
+  Fanny Phillips: Надо найти водолазный скафандр!
+[02/12/2023 22:11:19]
+  Fanny Lozano equipped Сварочный аппарат
+[02/12/2023 22:11:19]
+  Fanny Lozano: Мне нужно подводное снаряжение!
+[02/12/2023 22:11:21]
+  Fanny Phillips unequipped Сварочный аппарат
+[02/12/2023 22:11:21]
+  Fanny Lozano unequipped Сварочный аппарат
+[02/12/2023 22:11:24]
+  Herman Hallett: Мне нужно подводное снаряжение!
+[02/12/2023 22:11:24]
+  Willy Mason equipped Сварочный аппарат
+[02/12/2023 22:11:25]
+  igameCrog disconnected a wire from Люк с кнопками (set_state) to Дверь с кнопками (set_state)
+[02/12/2023 22:11:25]
+  Avril Lee equipped Сварочный аппарат
+[02/12/2023 22:11:26]
+  Avril Lee unequipped Сварочный аппарат
+[02/12/2023 22:11:26]
+  igameCrog connected a wire from Люк с кнопками (condition_out) to Дверь с кнопками (set_state)
+[02/12/2023 22:11:27]
+  Willy Mason unequipped Сварочный аппарат
+[02/12/2023 22:11:28]
+  Tanika Lawson: Стреляю!
+[02/12/2023 22:11:28]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:28]
+  Avril Lee equipped Сварочный аппарат
+[02/12/2023 22:11:29]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:29]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:29]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:29]
+  Willy Mason equipped Сварочный аппарат
+[02/12/2023 22:11:29]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:30]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:30]
+  igameCrog disconnected a wire from Люк с кнопками (condition_out) to Дверь с кнопками (set_state)
+[02/12/2023 22:11:30]
+  igameCrog connected a wire from Люк с кнопками (toggle) to Дверь с кнопками (set_state)
+[02/12/2023 22:11:30]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:36]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:36]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:36]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:37]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:37]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:38]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:38]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:42]
+  The Gay equipped Гаечный ключ
+[02/12/2023 22:11:42]
+  The Gay: Надо найти водолазный скафандр!
+[02/12/2023 22:11:42]
+  Avril Lee unequipped Сварочный аппарат
+[02/12/2023 22:11:42]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:11:43]
+  The Gay: Невозможно добраться: Двигатель!
+[02/12/2023 22:11:43]
+  Crawler has died (Cause of death: Укусы)
+[02/12/2023 22:11:43]
+  The Gay unequipped Гаечный ключ
+[02/12/2023 22:11:46]
+  Fanny Phillips: Мне нужно подводное снаряжение!
+[02/12/2023 22:11:46]
+  The Gay equipped Гаечный ключ
+[02/12/2023 22:11:47]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:49]
+  Fanny Lozano has died (Cause of death: Баротравма)
+[02/12/2023 22:11:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:50]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[02/12/2023 22:11:50]
+  The Gay unequipped Гаечный ключ
+[02/12/2023 22:11:50]
+  Avril Lee started repairing Двигатель
+[02/12/2023 22:11:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:51]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:11:53]
+  Arturo Cuevas equipped Сварочный аппарат
+[02/12/2023 22:11:53]
+  igameCrog disconnected a wire from Люк с кнопками (toggle) to Дверь с кнопками (set_state)
+[02/12/2023 22:11:53]
+  igameCrog connected a wire from Люк с кнопками (set_state) to Дверь с кнопками (set_state)
+[02/12/2023 22:11:54]
+  Herman Hallett: Мне нужно подводное снаряжение!
+[02/12/2023 22:11:56]
+  Fanny Phillips started repairing Суперконденсатор
+[02/12/2023 22:11:57]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:11:57]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:11:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:58]
+  Tanika Lawson: Огонь!
+[02/12/2023 22:11:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:58]
+  Avery Green: Надо найти водолазный скафандр!
+[02/12/2023 22:11:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:58]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:59]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:59]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:11:59]
+  Fanny Phillips: Невозможно добраться: Ядерный реактор!
+[02/12/2023 22:12:00]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:12:00]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:12:00]
+  Чпок В Пупок picked up Подводная маска
+[02/12/2023 22:12:00]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:12:01]
+  igameCrog disconnected a wire from Дверь с кнопками (set_state) to Люк с кнопками (set_state)
+[02/12/2023 22:12:02]
+  Avril Lee started repairing Ядерный реактор
+[02/12/2023 22:12:04]
+  Inner wall repaired by Willy Mason
+[02/12/2023 22:12:06]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:12:06]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:12:07]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:12:07]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:12:07]
+  Hammerheadgold has died (Cause of death: Рваная рана)
+[02/12/2023 22:12:07]
+  Tanika Lawson: И-и-и-и... Готово!
+[02/12/2023 22:12:08]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:12:11]
+  Avril Lee failed to repair Фабрикатор
+[02/12/2023 22:12:12]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:12:12]
+  igameCrog disconnected a wire from Люк с кнопками (set_state)
+[02/12/2023 22:12:12]
+  igameCrog picked up Красный провод
+[02/12/2023 22:12:13]
+  The Gay: Мне нужно подводное снаряжение!
+[02/12/2023 22:12:13]
+  Willy Mason: Стыковочный порт: протечек не осталось!
+[02/12/2023 22:12:14]
+  Willy Mason unequipped Сварочный аппарат
+[02/12/2023 22:12:15]
+  Outer wall repaired by Arturo Cuevas
+[02/12/2023 22:12:15]
+  Avril Lee started repairing Деконструктор
+[02/12/2023 22:12:15]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:12:21]
+  Willy Mason equipped Сварочный аппарат
+[02/12/2023 22:12:22]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:12:24]
+  Arturo Cuevas unequipped Сварочный аппарат
+[02/12/2023 22:12:24]
+  Outer wall repaired by Willy Mason
+[02/12/2023 22:12:26]
+  Willy Mason unequipped Сварочный аппарат
+[02/12/2023 22:12:27]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:12:28]
+  Outer wall repaired by Чпок В Пупок
+[02/12/2023 22:12:29]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:12:29]
+  Avril Lee equipped Сварочный аппарат
+[02/12/2023 22:12:29]
+  Avril Lee unequipped Сварочный аппарат
+[02/12/2023 22:12:29]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:12:29]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:12:29]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:12:31]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:12:31]
+  Outer wall repaired by Чпок В Пупок
+[02/12/2023 22:12:31]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:12:31]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:12:32]
+  Avril Lee failed to repair Двигатель
+[02/12/2023 22:12:35]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:12:36]
+  Avril Lee failed to repair Двигатель
+[02/12/2023 22:12:37]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:12:38]
+  Fanny Phillips started repairing Навигационный терминал
+[02/12/2023 22:12:41]
+  Avril Lee started repairing Двигатель
+[02/12/2023 22:12:42]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:12:46]
+  Avery Green: Avril Lee проходит лечение здесь: моторный отсек!
+[02/12/2023 22:12:46]
+  Avery Green: Avril Lee чувствует себя хорошо!
+[02/12/2023 22:12:46]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:13:00]
+  igameCrog set the pumping speed of Малый насос to -90 %
+[02/12/2023 22:13:00]
+  igameCrog set the pumping speed of Малый насос to -10 %
+[02/12/2023 22:13:00]
+  igameCrog set the pumping speed of Малый насос to 80 %
+[02/12/2023 22:13:01]
+  igameCrog set the pumping speed of Малый насос to 20 %
+[02/12/2023 22:13:01]
+  igameCrog set the pumping speed of Малый насос to 10 %
+[02/12/2023 22:13:02]
+  igameCrog set the pumping speed of Малый насос to 20 %
+[02/12/2023 22:13:02]
+  igameCrog set the pumping speed of Малый насос to 70 %
+[02/12/2023 22:13:03]
+  igameCrog set the pumping speed of Малый насос to 80 %
+[02/12/2023 22:13:03]
+  igameCrog set the pumping speed of Малый насос to 100 %
+[02/12/2023 22:13:04]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:13:04]
+  Avril Lee: Надо найти водолазный скафандр!
+[02/12/2023 22:13:04]
+  igameCrog set the pumping speed of Малый насос to 80 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to 60 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to 50 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to 30 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to 0 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to -40 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to -70 %
+[02/12/2023 22:13:06]
+  igameCrog set the pumping speed of Малый насос to -80 %
+[02/12/2023 22:13:07]
+  igameCrog set the pumping speed of Малый насос to -100 %
+[02/12/2023 22:13:09]
+  Avril Lee failed to repair Фабрикатор
+[02/12/2023 22:13:14]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:13:14]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:13:14]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:13:14]
+  Avril Lee equipped Гаечный ключ
+[02/12/2023 22:13:14]
+  Avril Lee failed to repair Деконструктор
+[02/12/2023 22:13:19]
+  The Gay equipped Гаечный ключ
+[02/12/2023 22:13:19]
+  Avril Lee started repairing Генератор кислорода
+[02/12/2023 22:13:23]
+  Avril Lee unequipped Гаечный ключ
+[02/12/2023 22:13:26]
+  The Gay started repairing Фабрикатор
+[02/12/2023 22:13:35]
+  igameCrog picked up Топливный стержень
+[02/12/2023 22:13:35]
+  igameCrog picked up Топливный стержень
+[02/12/2023 22:13:35]
+  igameCrog picked up Топливный стержень
+[02/12/2023 22:13:35]
+  igameCrog picked up Топливный стержень
+[02/12/2023 22:13:35]
+  igameCrog picked up Топливный стержень
+[02/12/2023 22:13:35]
+  igameCrog picked up Топливный стержень
+[02/12/2023 22:13:36]
+  kynlan4ic: Пункт управления: кто-нибудь, срочно займитесь ремонтом техники!
+[02/12/2023 22:13:36]
+  Чпок В Пупок disconnected a wire from Фабрикатор (power_in) to Кабельная коробка (power)
+[02/12/2023 22:13:37]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[02/12/2023 22:13:38]
+  Чпок В Пупок connected a wire from Фабрикатор (condition_out) to Кабельная коробка (power)
+[02/12/2023 22:13:39]
+  Willy Mason equipped Водолазный скафандр
+[02/12/2023 22:13:39]
+  The Gay started repairing Деконструктор
+[02/12/2023 22:13:39]
+  kynlan4ic: Пункт управления: поврежденные устройства!
+[02/12/2023 22:13:42]
+  Чпок В Пупок disconnected a wire from Фабрикатор (condition_out) to Кабельная коробка (power)
+[02/12/2023 22:13:42]
+  Чпок В Пупок connected a wire from Фабрикатор (power_in) to Кабельная коробка (power)
+[02/12/2023 22:13:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:13:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:13:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:13:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:13:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:13:43]
+  igameCrog placed Кислородный баллон in Пояс инструментов (ID: 3463)
+[02/12/2023 22:13:45]
+  The Gay unequipped Гаечный ключ
+[02/12/2023 22:13:46]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:13:47]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:13:52]
+  Avril Lee started repairing Кабельная коробка
+[02/12/2023 22:13:52]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:13:53]
+  Avril Lee started repairing Кабельная коробка
+[02/12/2023 22:13:56]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:13:57]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:13:57]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:14:04]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/12/2023 22:14:08]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/12/2023 22:14:11]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/12/2023 22:14:11]
+  igameCrog disconnected a wire from Ядерный реактор (meltdown_warning) to Аварийный гудок (set_state)
+[02/12/2023 22:14:11]
+  igameCrog connected a wire from Ядерный реактор (power_value_out) to Аварийный гудок (set_state)
+[02/12/2023 22:14:12]
+  igameCrog disconnected a wire from Ядерный реактор (power_value_out) to Аварийный гудок (set_state)
+[02/12/2023 22:14:13]
+  kynlan4ic opened Настраиваемый люк
+[02/12/2023 22:14:16]
+  kynlan4ic opened Настраиваемый люк
+[02/12/2023 22:14:18]
+  kynlan4ic closed Настраиваемый люк
+[02/12/2023 22:14:19]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/12/2023 22:14:21]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/12/2023 22:14:26]
+  Console command "godmode_mainsub" executed by kynlan4ic.
+[02/12/2023 22:14:27]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 103)
+[02/12/2023 22:14:29]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 103)
+[02/12/2023 22:14:31]
+  igameCrog placed Топливный стержень in Ядерный реактор (ID: 103)
+[02/12/2023 22:14:45]
+  Avril Lee: Мне нужен огнетушитель!
+[02/12/2023 22:14:46]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:14:46]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:14:47]
+  Tanika Lawson: Огонь!
+[02/12/2023 22:14:47]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:47]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:14:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:48]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:49]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:50]
+  Willy Mason equipped Огнетушитель
+[02/12/2023 22:14:50]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:50]
+  Herman Hallett equipped Огнетушитель
+[02/12/2023 22:14:51]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:51]
+  Willy Mason: Надо найти огнетушитель!
+[02/12/2023 22:14:51]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:51]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:51]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:52]
+  The Gay: Надо найти огнетушитель!
+[02/12/2023 22:14:52]
+  Herman Hallett: Пытаюсь найти огнетушитель!
+[02/12/2023 22:14:52]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:52]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:14:52]
+  Avril Lee equipped Огнетушитель
+[02/12/2023 22:14:52]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:52]
+  Avery Green: Пытаюсь найти огнетушитель!
+[02/12/2023 22:14:52]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:53]
+  The Gay equipped Огнетушитель
+[02/12/2023 22:14:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:53]
+  Fanny Phillips: Мне нужен огнетушитель!
+[02/12/2023 22:14:53]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:54]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:54]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:14:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:55]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:14:56]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:00]
+  Willy Mason equipped Огнетушитель
+[02/12/2023 22:15:01]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:15:01]
+  kynlan4ic: Пункт управления: здесь пожар!
+[02/12/2023 22:15:02]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:15:03]
+  kynlan4ic: Пункт управления: здесь пожар!
+[02/12/2023 22:15:04]
+  kynlan4ic: Пункт управления: здесь пожар!
+[02/12/2023 22:15:05]
+  Avril Lee started repairing Кабельная коробка
+[02/12/2023 22:15:08]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:15:09]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:15:12]
+  igameCrog adjusted reactor settings: Temperature: 5027, Fission rate: 21, Turbine output: 87, Autotemp OFF
+[02/12/2023 22:15:15]
+  igameCrog adjusted reactor settings: Temperature: 5020, Fission rate: 21, Turbine output: 86, Autotemp OFF
+[02/12/2023 22:15:16]
+  igameCrog adjusted reactor settings: Temperature: 5556, Fission rate: 21, Turbine output: 73, Autotemp OFF
+[02/12/2023 22:15:17]
+  igameCrog adjusted reactor settings: Temperature: 5518, Fission rate: 21, Turbine output: 90, Autotemp OFF
+[02/12/2023 22:15:18]
+  igameCrog adjusted reactor settings: Temperature: 4543, Fission rate: 21, Turbine output: 97, Autotemp OFF
+[02/12/2023 22:15:19]
+  Avril Lee equipped Огнетушитель
+[02/12/2023 22:15:19]
+  igameCrog adjusted reactor settings: Temperature: 4160, Fission rate: 21, Turbine output: 100, Autotemp OFF
+[02/12/2023 22:15:20]
+  igameCrog adjusted reactor settings: Temperature: 4521, Fission rate: 21, Turbine output: 79, Autotemp OFF
+[02/12/2023 22:15:21]
+  igameCrog adjusted reactor settings: Temperature: 5521, Fission rate: 21, Turbine output: 70, Autotemp OFF
+[02/12/2023 22:15:22]
+  igameCrog adjusted reactor settings: Temperature: 6521, Fission rate: 21, Turbine output: 60, Autotemp OFF
+[02/12/2023 22:15:23]
+  igameCrog adjusted reactor settings: Temperature: 7521, Fission rate: 21, Turbine output: 59, Autotemp OFF
+[02/12/2023 22:15:24]
+  igameCrog adjusted reactor settings: Temperature: 7421, Fission rate: 21, Turbine output: 0, Autotemp OFF
+[02/12/2023 22:15:24]
+  Creola Deloney: Цель зафиксирована: ледяной шпиль!
+[02/12/2023 22:15:24]
+  Creola Deloney: Огонь!
+[02/12/2023 22:15:24]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:24]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:24]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:25]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:25]
+  igameCrog adjusted reactor settings: Temperature: 8421, Fission rate: 21, Turbine output: 19, Autotemp OFF
+[02/12/2023 22:15:25]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:25]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:15:26]
+  igameCrog adjusted reactor settings: Temperature: 9421, Fission rate: 19, Turbine output: 21, Autotemp ON
+[02/12/2023 22:15:33]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:15:33]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:15:38]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:15:38]
+  Avril Lee equipped Отвертка
+[02/12/2023 22:15:40]
+  Avril Lee started repairing Кабельная коробка
+[02/12/2023 22:15:42]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:15:43]
+  Avril Lee unequipped Отвертка
+[02/12/2023 22:15:44]
+  Fanny Phillips unequipped Отвертка
+[02/12/2023 22:16:03]
+  Creola Deloney: Неизвестная цель обнаружена!
+[02/12/2023 22:16:03]
+  Creola Deloney: Огонь!
+[02/12/2023 22:16:03]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:03]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:04]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:04]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:04]
+  igameCrog adjusted reactor settings: Temperature: 4982, Fission rate: 30, Turbine output: 95, Autotemp OFF
+[02/12/2023 22:16:04]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:05]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:05]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:06]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:06]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:06]
+  Tanika Lawson: Стреляю!
+[02/12/2023 22:16:06]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:06]
+  igameCrog adjusted reactor settings: Temperature: 4966, Fission rate: 46, Turbine output: 95, Autotemp OFF
+[02/12/2023 22:16:07]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:07]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:07]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:07]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:07]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:07]
+  igameCrog adjusted reactor settings: Temperature: 5940, Fission rate: 100, Turbine output: 95, Autotemp OFF
+[02/12/2023 22:16:08]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:08]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:08]
+  Fanny Phillips equipped Отвертка
+[02/12/2023 22:16:08]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:08]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:08]
+  Tanika Lawson launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:08]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)
+[02/12/2023 22:16:08]
+  Fanny Phillips started repairing Кабельная коробка
+[02/12/2023 22:16:08]
+  Creola Deloney launched Магнитная пушка (projectile: Снаряд для магнитной пушки)

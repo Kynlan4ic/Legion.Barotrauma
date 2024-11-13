@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<servers>
+  <ServerInfo Endpoint="STEAM_1:0:421021170" GameVersion="0.19.14.0" ServerName="Операция Смерть" ServerMessage="Воровство без разрешения - бан&#xA;Портить репутацию нельзя&#xA;Играть! не руинить!" MaxPlayers="3" HasPassword="False" GameMode="multiplayercampaign" ModeSelectionMode="Manual" SubSelectionMode="Manual" AllowSpectating="False" VoipEnabled="True" KarmaEnabled="False" FriendlyFireEnabled="False" AllowRespawn="False" TraitorsEnabled="No" PlayStyle="Serious" />
+</servers>

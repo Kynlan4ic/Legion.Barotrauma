@@ -1,0 +1,1604 @@
+﻿[02/26/2023 13:21:32]
+  kynlan4ic picked up Револьвер
+[02/26/2023 13:21:32]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:21:33]
+  kynlan4ic picked up Нож ныряльщика
+[02/26/2023 13:21:35]
+  kynlan4ic picked up Шоковая дубинка
+[02/26/2023 13:21:38]
+  igameCrog opened Настраиваемая дверь
+[02/26/2023 13:21:41]
+  igameCrog closed Настраиваемая дверь
+[02/26/2023 13:21:42]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:21:43]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:22:05]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:22:07]
+  kynlan4ic dropped Револьвер
+[02/26/2023 13:22:09]
+  kynlan4ic picked up Алюминий
+[02/26/2023 13:22:12]
+  kynlan4ic placed Алюминий in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:22:14]
+  kynlan4ic placed Алюминий in Контейнер для хранения (ID: 2052)
+[02/26/2023 13:22:17]
+  kynlan4ic picked up Торий
+[02/26/2023 13:22:17]
+  kynlan4ic picked up Торий
+[02/26/2023 13:22:17]
+  kynlan4ic picked up Торий
+[02/26/2023 13:22:17]
+  kynlan4ic picked up Торий
+[02/26/2023 13:22:17]
+  kynlan4ic picked up Торий
+[02/26/2023 13:22:17]
+  kynlan4ic picked up Торий
+[02/26/2023 13:22:19]
+  kynlan4ic placed Торий in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:22:19]
+  kynlan4ic placed Торий in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:22:19]
+  kynlan4ic placed Торий in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:22:19]
+  kynlan4ic placed Торий in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:22:19]
+  kynlan4ic placed Торий in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:22:19]
+  kynlan4ic placed Торий in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:22:23]
+  kynlan4ic picked up Свинец
+[02/26/2023 13:22:26]
+  kynlan4ic placed Свинец in Контейнер для хранения (ID: 2052)
+[02/26/2023 13:22:42]
+  Karyn Clothier: Какая славная сегодня погода. Никакого течения, вода чистая... Пожалуй, позже пойду собирать мак.
+[02/26/2023 13:22:44]
+  kynlan4ic deactivated Деконструктор
+[02/26/2023 13:22:45]
+  kynlan4ic placed Магазин для ПП in Деконструктор (ID: 228)
+[02/26/2023 13:22:49]
+  kynlan4ic placed Револьвер in Деконструктор (ID: 228)
+[02/26/2023 13:22:50]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:22:55]
+  kynlan4ic picked up Аккумулятор
+[02/26/2023 13:22:58]
+  vlad32 has died (Cause of death: Disconnected)
+[02/26/2023 13:23:07]
+  kynlan4ic deactivated Деконструктор
+[02/26/2023 13:23:09]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 228)
+[02/26/2023 13:23:10]
+  kynlan4ic picked up Подводная маска
+[02/26/2023 13:23:11]
+  kynlan4ic placed Нож ныряльщика in Деконструктор (ID: 228)
+[02/26/2023 13:23:12]
+  kynlan4ic picked up Кислородный баллон
+[02/26/2023 13:23:13]
+  kynlan4ic placed Подводная маска in Деконструктор (ID: 228)
+[02/26/2023 13:23:14]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:23:21]
+  kynlan4ic picked up Пластик
+[02/26/2023 13:23:26]
+  kynlan4ic placed Пластик in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:23:31]
+  kynlan4ic deactivated Деконструктор
+[02/26/2023 13:23:32]
+  kynlan4ic picked up Пластик
+[02/26/2023 13:23:33]
+  kynlan4ic placed Кислородный баллон in Деконструктор (ID: 228)
+[02/26/2023 13:23:36]
+  kynlan4ic placed Аккумулятор in Деконструктор (ID: 228)
+[02/26/2023 13:23:39]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:23:42]
+  kynlan4ic placed Пластик in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:23:44]
+  kynlan4ic picked up Резина
+[02/26/2023 13:23:46]
+  kynlan4ic placed Резина in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:23:52]
+  kynlan4ic picked up Железо
+[02/26/2023 13:23:56]
+  kynlan4ic deactivated Деконструктор
+[02/26/2023 13:23:56]
+  kynlan4ic placed Шоковая дубинка in Деконструктор (ID: 228)
+[02/26/2023 13:23:57]
+  kynlan4ic picked up Литий
+[02/26/2023 13:23:58]
+  kynlan4ic picked up Цинк
+[02/26/2023 13:24:00]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:24:02]
+  kynlan4ic placed Железо in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:24:04]
+  kynlan4ic placed Железо in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:24:05]
+  kynlan4ic placed Литий in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:24:07]
+  kynlan4ic placed Цинк in Контейнер для хранения (ID: 2420)
+[02/26/2023 13:24:08]
+  igameCrog picked up Стальной слиток
+[02/26/2023 13:24:08]
+  igameCrog picked up Стальной слиток
+[02/26/2023 13:24:15]
+  kynlan4ic picked up Алюминий
+[02/26/2023 13:24:17]
+  kynlan4ic placed Алюминий in Большой стальной шкаф (ID: 268)
+[02/26/2023 13:24:21]
+  igameCrog picked up Электрошокер
+[02/26/2023 13:24:45]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[02/26/2023 13:24:51]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[02/26/2023 13:24:54]
+  igameCrog picked up Провод
+[02/26/2023 13:24:55]
+  kynlan4ic equipped Ящик с химикатами
+[02/26/2023 13:24:58]
+  kynlan4ic dropped Ящик с химикатами
+[02/26/2023 13:24:59]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:02]
+  kynlan4ic placed Бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:03]
+  kynlan4ic placed Каликсанид in Аптечка (ID: 251)
+[02/26/2023 13:25:03]
+  kynlan4ic placed Каликсанид in Аптечка (ID: 251)
+[02/26/2023 13:25:03]
+  kynlan4ic placed Каликсанид in Аптечка (ID: 251)
+[02/26/2023 13:25:03]
+  kynlan4ic placed Каликсанид in Аптечка (ID: 251)
+[02/26/2023 13:25:03]
+  kynlan4ic placed Каликсанид in Аптечка (ID: 251)
+[02/26/2023 13:25:11]
+  igameCrog placed Стальной слиток in Фабрикатор (ID: 227)
+[02/26/2023 13:25:11]
+  igameCrog placed Стальной слиток in Фабрикатор (ID: 227)
+[02/26/2023 13:25:13]
+  igameCrog placed Провод in Фабрикатор (ID: 227)
+[02/26/2023 13:25:14]
+  kynlan4ic placed Медконтейнер in Деконструктор (ID: 228)
+[02/26/2023 13:25:15]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:25:18]
+  igameCrog started fabricating Дротик для электрошокера in Фабрикатор
+[02/26/2023 13:25:27]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 13:25:31]
+  kynlan4ic placed Физраствор in Аптечка (ID: 251)
+[02/26/2023 13:25:31]
+  kynlan4ic placed Физраствор in Аптечка (ID: 251)
+[02/26/2023 13:25:31]
+  kynlan4ic placed Физраствор in Аптечка (ID: 251)
+[02/26/2023 13:25:31]
+  kynlan4ic placed Физраствор in Аптечка (ID: 251)
+[02/26/2023 13:25:31]
+  kynlan4ic placed Фентанил in Аптечка (ID: 251)
+[02/26/2023 13:25:31]
+  kynlan4ic placed Фентанил in Аптечка (ID: 251)
+[02/26/2023 13:25:32]
+  kynlan4ic placed Опиум in Аптечка (ID: 251)
+[02/26/2023 13:25:32]
+  kynlan4ic placed Опиум in Аптечка (ID: 251)
+[02/26/2023 13:25:32]
+  kynlan4ic placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:25:32]
+  kynlan4ic placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:25:32]
+  kynlan4ic placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:25:33]
+  kynlan4ic placed Эластичный бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:33]
+  kynlan4ic placed Эластичный бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:33]
+  kynlan4ic placed Эластичный бинт in Аптечка (ID: 251)
+[02/26/2023 13:25:34]
+  kynlan4ic placed Антидот цианида in Аптечка (ID: 251)
+[02/26/2023 13:25:34]
+  kynlan4ic placed Антидот цианида in Аптечка (ID: 251)
+[02/26/2023 13:25:35]
+  kynlan4ic placed Антидот страданита in Аптечка (ID: 251)
+[02/26/2023 13:25:35]
+  kynlan4ic placed Антидот страданита in Аптечка (ID: 251)
+[02/26/2023 13:25:39]
+  kynlan4ic dropped Медконтейнер
+[02/26/2023 13:25:40]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 13:25:46]
+  kynlan4ic dropped Медконтейнер
+[02/26/2023 13:25:46]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 13:25:49]
+  kynlan4ic dropped Медконтейнер
+[02/26/2023 13:25:49]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:25:51]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:25:53]
+  kynlan4ic grabbed vlad32's body and received 4946 mk.
+[02/26/2023 13:25:57]
+  igameCrog picked up Неизвестный генетический материал
+[02/26/2023 13:26:05]
+  kynlan4ic placed Табачный бутон in Средний стальной шкаф (ID: 261)
+[02/26/2023 13:26:06]
+  kynlan4ic placed Взрывной гранат in Средний стальной шкаф (ID: 261)
+[02/26/2023 13:26:18]
+  kynlan4ic equipped Ящик с химикатами
+[02/26/2023 13:26:18]
+  kynlan4ic picked up Ящик с химикатами
+[02/26/2023 13:26:20]
+  kynlan4ic placed Ящик с химикатами in Стеллаж для ящиков (ID: 1124)
+[02/26/2023 13:26:22]
+  igameCrog placed Неизвестный генетический материал in Исследовательский терминал (ID: 3969)
+[02/26/2023 13:26:23]
+  igameCrog placed Стабилоцин in Исследовательский терминал (ID: 3969)
+[02/26/2023 13:26:24]
+  igameCrog activated Исследовательский терминал
+[02/26/2023 13:26:33]
+  igameCrog picked up Генетический материал (Молотоглав-матриарх)
+[02/26/2023 13:26:49]
+  kynlan4ic picked up Фонарик
+[02/26/2023 13:26:50]
+  kynlan4ic placed Аккумулятор in Фонарик (ID: 4636)
+[02/26/2023 13:26:50]
+  kynlan4ic removed Аккумулятор from Фонарик (ID: 4636)
+[02/26/2023 13:26:50]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 226)
+[02/26/2023 13:26:52]
+  kynlan4ic placed Фонарик in Подводное ружье (ID: 4629)
+[02/26/2023 13:27:06]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 13:27:06]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 13:27:10]
+  igameCrog placed Генетический материал (Молотоглав-матриарх) in Контейнер для хранения (ID: 3023)
+[02/26/2023 13:27:43]
+  Darleen Smith unequipped Отвертка
+[02/26/2023 13:27:47]
+  igameCrog purchased 1 item(s) for 36 кр.
+ - Черный провод x4
+[02/26/2023 13:28:03]
+  igameCrog placed Генетический материал (Молотоглав-матриарх) in Исследовательский терминал (ID: 3969)
+[02/26/2023 13:28:04]
+  igameCrog removed Генетический материал (Молотоглав-матриарх) from Контейнер для хранения (ID: 3023)
+[02/26/2023 13:28:09]
+  igameCrog placed Генетический материал (Молотоглав-матриарх) in Исследовательский терминал (ID: 3969)
+[02/26/2023 13:28:12]
+  igameCrog activated Исследовательский терминал
+[02/26/2023 13:28:26]
+  igameCrog placed Генетический материал (Молотоглав-матриарх) in Контейнер для хранения (ID: 3018)
+[02/26/2023 13:28:40]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:28:50]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:28:58]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:28:59]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:29:00]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:29:02]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:29:17]
+  kynlan4ic placed Кислородный баллон in Хозяйственный шкаф (ID: 243)
+[02/26/2023 13:29:23]
+  kynlan4ic equipped Ящик со взрывчаткой
+[02/26/2023 13:29:23]
+  kynlan4ic picked up Ящик со взрывчаткой
+[02/26/2023 13:29:24]
+  kynlan4ic placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:29:25]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:29:25]
+  kynlan4ic picked up Металлический ящик
+[02/26/2023 13:29:26]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:29:27]
+  kynlan4ic equipped Ящик со взрывчаткой
+[02/26/2023 13:29:27]
+  kynlan4ic picked up Ящик со взрывчаткой
+[02/26/2023 13:29:28]
+  kynlan4ic placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:29:29]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:29:29]
+  kynlan4ic picked up Металлический ящик
+[02/26/2023 13:29:32]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:29:33]
+  kynlan4ic picked up Ящик со взрывчаткой
+[02/26/2023 13:29:34]
+  kynlan4ic placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:29:37]
+  kynlan4ic dropped Ящик с химикатами
+[02/26/2023 13:29:46]
+  igameCrog removed Металлический ящик from Медицинский фабрикатор (ID: 250)
+[02/26/2023 13:29:47]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:29:52]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:29:53]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 252)
+[02/26/2023 13:29:54]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 252)
+[02/26/2023 13:29:56]
+  igameCrog equipped Медконтейнер
+[02/26/2023 13:29:56]
+  igameCrog picked up Медконтейнер
+[02/26/2023 13:30:05]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 13:30:05]
+  kynlan4ic picked up Медконтейнер
+[02/26/2023 13:30:08]
+  igameCrog placed Медконтейнер in Деконструктор (ID: 228)
+[02/26/2023 13:30:09]
+  igameCrog activated Деконструктор
+[02/26/2023 13:30:17]
+  kynlan4ic placed Медконтейнер in Деконструктор (ID: 228)
+[02/26/2023 13:30:17]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:30:23]
+  igameCrog picked up Медконтейнер
+[02/26/2023 13:30:28]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 13:30:28]
+  kynlan4ic picked up Медконтейнер
+[02/26/2023 13:30:35]
+  igameCrog placed Медконтейнер in Деконструктор (ID: 228)
+[02/26/2023 13:30:37]
+  igameCrog activated Деконструктор
+[02/26/2023 13:30:38]
+  kynlan4ic placed Медконтейнер in Деконструктор (ID: 228)
+[02/26/2023 13:30:39]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:30:46]
+  igameCrog equipped Ящик с химикатами
+[02/26/2023 13:30:48]
+  igameCrog placed Ящик с химикатами in Медицинский фабрикатор (ID: 250)
+[02/26/2023 13:30:51]
+  igameCrog equipped Металлический ящик
+[02/26/2023 13:31:00]
+  igameCrog placed Ружье in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:02]
+  igameCrog placed Нож ныряльщика in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:03]
+  igameCrog placed Ружейный патрон in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:04]
+  igameCrog placed Подводный скутер in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:11]
+  igameCrog placed Гаечный ключ in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:12]
+  igameCrog placed Сварочный аппарат in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:14]
+  igameCrog placed Лом in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:16]
+  igameCrog placed Отвертка in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:18]
+  igameCrog placed Плазменный резак in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:20]
+  igameCrog placed Бронежилет in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:22]
+  igameCrog placed Пуленепробиваемый шлем in Металлический ящик (ID: 1989)
+[02/26/2023 13:31:30]
+  igameCrog dropped Металлический ящик
+[02/26/2023 13:32:04]
+  Astrid Hutchinson: Интересно, что нам сегодня предложит торговый автомат в кафе?
+[02/26/2023 13:32:13]
+  igameCrog opened Настраиваемая дверь
+[02/26/2023 13:32:23]
+  igameCrog closed Настраиваемая дверь
+[02/26/2023 13:32:29]
+  igameCrog opened Настраиваемая дверь
+[02/26/2023 13:32:32]
+  igameCrog closed Настраиваемая дверь
+[02/26/2023 13:33:16]
+  igameCrog placed Дротик для электрошокера in Электрошокер (ID: 3039)
+[02/26/2023 13:33:16]
+  igameCrog placed Дротик для электрошокера in Электрошокер (ID: 3039)
+[02/26/2023 13:33:24]
+  igameCrog picked up Стальной слиток
+[02/26/2023 13:33:26]
+  igameCrog placed Стальной слиток in Фабрикатор (ID: 227)
+[02/26/2023 13:33:35]
+  igameCrog equipped Электрошокер
+[02/26/2023 13:34:04]
+  igameCrog equipped Отвертка
+[02/26/2023 13:34:11]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "255,49,49,117".
+[02/26/2023 13:34:18]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "210,152,49,117".
+[02/26/2023 13:34:22]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "210,152,163,117".
+[02/26/2023 13:34:28]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "210,152,163,117".
+[02/26/2023 13:34:31]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "210,152,86,117".
+[02/26/2023 13:34:38]
+  igameCrog set the value "LightColor" of the item "Лампа" to "135,245,149,255".
+[02/26/2023 13:34:42]
+  igameCrog set the value "LightColor" of the item "Лампа" to "135,116,149,255".
+[02/26/2023 13:34:45]
+  igameCrog set the value "LightColor" of the item "Лампа" to "135,129,149,255".
+[02/26/2023 13:34:49]
+  igameCrog set the value "LightColor" of the item "Лампа" to "133,129,149,255".
+[02/26/2023 13:34:50]
+  igameCrog set the value "LightColor" of the item "Лампа" to "146,129,149,255".
+[02/26/2023 13:34:53]
+  igameCrog set the value "LightColor" of the item "Лампа" to "146,129,149,255".
+[02/26/2023 13:34:57]
+  igameCrog set the value "LightColor" of the item "Лампа" to "146,120,149,255".
+[02/26/2023 13:35:00]
+  igameCrog set the value "LightColor" of the item "Лампа" to "146,120,117,255".
+[02/26/2023 13:35:03]
+  igameCrog set the value "LightColor" of the item "Лампа" to "150,120,117,255".
+[02/26/2023 13:35:10]
+  igameCrog set the value "LightColor" of the item "Лампа" to "150,120,117,217".
+[02/26/2023 13:35:25]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,49,49,100".
+[02/26/2023 13:35:27]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,75,49,100".
+[02/26/2023 13:35:29]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,75,81,100".
+[02/26/2023 13:35:33]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,75,81,121".
+[02/26/2023 13:35:36]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,75,81,121".
+[02/26/2023 13:35:38]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,74,81,121".
+[02/26/2023 13:35:40]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,108,81,121".
+[02/26/2023 13:35:49]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "178,49,49,100".
+[02/26/2023 13:35:51]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "178,82,49,100".
+[02/26/2023 13:35:56]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "178,126,100,100".
+[02/26/2023 13:35:57]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "178,126,100,100".
+[02/26/2023 13:35:59]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "178,126,100,115".
+[02/26/2023 13:36:02]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "178,126,100,115".
+[02/26/2023 13:36:04]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "122,126,100,115".
+[02/26/2023 13:36:07]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "122,92,100,115".
+[02/26/2023 13:36:09]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "122,92,87,115".
+[02/26/2023 13:36:16]
+  igameCrog set the value "LightColor" of the item "Лампа" to "183,245,255,250".
+[02/26/2023 13:36:19]
+  igameCrog set the value "LightColor" of the item "Лампа" to "183,172,255,250".
+[02/26/2023 13:36:20]
+  igameCrog set the value "LightColor" of the item "Лампа" to "183,172,255,250".
+[02/26/2023 13:36:24]
+  igameCrog set the value "LightColor" of the item "Лампа" to "183,172,146,250".
+[02/26/2023 13:36:27]
+  igameCrog set the value "LightColor" of the item "Лампа" to "183,172,146,170".
+[02/26/2023 13:36:30]
+  kynlan4ic equipped Контейнер для хранения
+[02/26/2023 13:36:30]
+  kynlan4ic picked up Контейнер для хранения
+[02/26/2023 13:36:32]
+  kynlan4ic placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 252)
+[02/26/2023 13:36:38]
+  igameCrog set the value "LightColor" of the item "Лампа" to "162,245,255,125".
+[02/26/2023 13:36:42]
+  igameCrog set the value "LightColor" of the item "Лампа" to "162,179,255,125".
+[02/26/2023 13:36:46]
+  igameCrog set the value "LightColor" of the item "Лампа" to "162,179,183,125".
+[02/26/2023 13:36:48]
+  igameCrog set the value "LightColor" of the item "Лампа" to "162,149,183,125".
+[02/26/2023 13:36:51]
+  igameCrog set the value "LightColor" of the item "Лампа" to "162,149,147,125".
+[02/26/2023 13:36:53]
+  igameCrog set the value "LightColor" of the item "Лампа" to "176,149,147,125".
+[02/26/2023 13:36:54]
+  igameCrog set the value "LightColor" of the item "Лампа" to "176,149,147,125".
+[02/26/2023 13:36:56]
+  kynlan4ic picked up Отвертка
+[02/26/2023 13:36:58]
+  kynlan4ic equipped Отвертка
+[02/26/2023 13:37:06]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,245,16,233".
+[02/26/2023 13:37:06]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,49,49,100".
+[02/26/2023 13:37:07]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,49,49,100".
+[02/26/2023 13:37:09]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,78,49,100".
+[02/26/2023 13:37:09]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,89,16,233".
+[02/26/2023 13:37:10]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,78,49,100".
+[02/26/2023 13:37:12]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,88,16,233".
+[02/26/2023 13:37:15]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,78,133,100".
+[02/26/2023 13:37:16]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,88,16,244".
+[02/26/2023 13:37:18]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,148,133,100".
+[02/26/2023 13:37:18]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,88,16,244".
+[02/26/2023 13:37:19]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,89,16,244".
+[02/26/2023 13:37:21]
+  igameCrog set the value "LightColor" of the item "Аварийная лампа" to "182,148,133,137".
+[02/26/2023 13:37:22]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "135,89,74,244".
+[02/26/2023 13:37:27]
+  kynlan4ic placed Отвертка in Средний стальной шкаф (ID: 714)
+[02/26/2023 13:37:42]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,245,255,255".
+[02/26/2023 13:37:44]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,200,255,255".
+[02/26/2023 13:37:45]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,200,255,255".
+[02/26/2023 13:37:50]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,200,178,255".
+[02/26/2023 13:37:51]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,200,178,255".
+[02/26/2023 13:37:55]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,142,178,255".
+[02/26/2023 13:37:58]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,142,129,255".
+[02/26/2023 13:38:02]
+  igameCrog set the value "LightColor" of the item "Лампа" to "178,142,129,196".
+[02/26/2023 13:39:28]
+  kynlan4ic picked up Отвертка
+[02/26/2023 13:39:47]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,0,251".
+[02/26/2023 13:39:51]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,155,251".
+[02/26/2023 13:39:59]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,155,251".
+[02/26/2023 13:40:03]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,160,160,150".
+[02/26/2023 13:40:10]
+  igameCrog purchased 3 item(s) for 322 кр.
+ - Черный провод x4
+ - Осветительный компонент x1
+ - Терминал x1
+[02/26/2023 13:40:10]
+  kynlan4ic set the value "LightColor" of the item "Аварийная лампа" to "255,0,155,251".
+[02/26/2023 13:40:14]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,160,155,150".
+[02/26/2023 13:40:18]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,0,155,150".
+[02/26/2023 13:40:22]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,0,155,249".
+[02/26/2023 13:40:30]
+  igameCrog picked up Курительный табак
+[02/26/2023 13:40:30]
+  igameCrog picked up Курительный табак
+[02/26/2023 13:40:30]
+  igameCrog picked up Курительный табак
+[02/26/2023 13:40:30]
+  igameCrog picked up Курительный табак
+[02/26/2023 13:40:30]
+  igameCrog picked up Курительный табак
+[02/26/2023 13:40:30]
+  igameCrog picked up Курительный табак
+[02/26/2023 13:40:44]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,0,155,249".
+[02/26/2023 13:40:48]
+  igameCrog picked up Трубка капитана
+[02/26/2023 13:40:50]
+  igameCrog equipped Гаечный ключ
+[02/26/2023 13:40:50]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,160,160,150".
+[02/26/2023 13:40:52]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,160,160,150".
+[02/26/2023 13:40:52]
+  igameCrog equipped Трубка капитана
+[02/26/2023 13:40:54]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,0,160,150".
+[02/26/2023 13:40:54]
+  igameCrog placed Курительный табак in Трубка капитана (ID: 2383)
+[02/26/2023 13:40:59]
+  kynlan4ic set the value "LightColor" of the item "Лампа" to "255,0,160,249".
+[02/26/2023 13:41:17]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:41:20]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:41:28]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "200,150,150,160".
+[02/26/2023 13:41:28]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:41:30]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:41:34]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:41:35]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:41:42]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "200,150,150,249".
+[02/26/2023 13:41:44]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "255,150,150,249".
+[02/26/2023 13:41:48]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "255,14,150,249".
+[02/26/2023 13:41:49]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:41:50]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:41:51]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:41:57]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "255,150,150,160".
+[02/26/2023 13:42:01]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:42:02]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "255,14,150,160".
+[02/26/2023 13:42:06]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,245,255,224".
+[02/26/2023 13:42:06]
+  kynlan4ic set the value "LightColor" of the item "Осветительный компонент" to "255,14,150,250".
+[02/26/2023 13:42:07]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:42:08]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:42:09]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,141,255,224".
+[02/26/2023 13:42:13]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,141,178,224".
+[02/26/2023 13:42:18]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,141,133,224".
+[02/26/2023 13:42:19]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,141,133,224".
+[02/26/2023 13:42:21]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,141,133,215".
+[02/26/2023 13:42:22]
+  kynlan4ic placed Отвертка in Средний стальной шкаф (ID: 714)
+[02/26/2023 13:42:34]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,141,133,215".
+[02/26/2023 13:42:38]
+  igameCrog set the value "LightColor" of the item "Лампа" to "185,255,133,215".
+[02/26/2023 13:42:41]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,133,215".
+[02/26/2023 13:42:44]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,215".
+[02/26/2023 13:42:45]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,215".
+[02/26/2023 13:42:47]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,255".
+[02/26/2023 13:42:55]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,141".
+[02/26/2023 13:42:59]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:00]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:00]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,141".
+[02/26/2023 13:43:01]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:02]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:03]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:04]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,225".
+[02/26/2023 13:43:04]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:05]
+  igameCrog attacked by kynlan4ic.
+[02/26/2023 13:43:06]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,249,255".
+[02/26/2023 13:43:17]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,255,250,255".
+[02/26/2023 13:43:18]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,254,250,255".
+[02/26/2023 13:43:21]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,254,254,255".
+[02/26/2023 13:43:24]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,175,254,255".
+[02/26/2023 13:43:26]
+  igameCrog set the value "LightColor" of the item "Лампа" to "129,240,254,255".
+[02/26/2023 13:43:40]
+  igameCrog placed Дротик для электрошокера in Электрошокер (ID: 3080)
+[02/26/2023 13:43:40]
+  igameCrog placed Дротик для электрошокера in Электрошокер (ID: 3080)
+[02/26/2023 13:43:50]
+  igameCrog placed Электрошокер in Большой стальной шкаф (ID: 321)
+[02/26/2023 13:44:00]
+  igameCrog picked up Электрошокер
+[02/26/2023 13:44:01]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:44:04]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:44:39]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:44:47]
+  kynlan4ic placed Металлический ящик in Деконструктор (ID: 228)
+[02/26/2023 13:44:48]
+  kynlan4ic activated Деконструктор
+[02/26/2023 13:45:29]
+  kynlan4ic equipped Боеприпасы для цепной пушки
+[02/26/2023 13:45:31]
+  igameCrog equipped Электрошокер
+[02/26/2023 13:45:34]
+  kynlan4ic dropped Боеприпасы для цепной пушки
+[02/26/2023 13:45:56]
+  igameCrog equipped Шприц-пистолет
+[02/26/2023 13:46:04]
+  igameCrog placed Каликсанид in Шприц-пистолет (ID: 4685)
+[02/26/2023 13:46:04]
+  igameCrog placed Каликсанид in Шприц-пистолет (ID: 4685)
+[02/26/2023 13:46:04]
+  igameCrog placed Каликсанид in Шприц-пистолет (ID: 4685)
+[02/26/2023 13:46:09]
+  igameCrog placed Каликсанид in Пояс инструментов (ID: 4661)
+[02/26/2023 13:46:09]
+  igameCrog placed Каликсанид in Пояс инструментов (ID: 4661)
+[02/26/2023 13:46:37]
+  igameCrog equipped Огнетушитель
+[02/26/2023 13:46:37]
+  igameCrog picked up Огнетушитель
+[02/26/2023 13:46:43]
+  Stella Box: Наш предыдущий капитан иногда заставлял нас выполнять маневр под названием «нырок камикадзе».
+[02/26/2023 13:46:48]
+  Stella Box: Он говорил, что для смелых все – балласт.
+[02/26/2023 13:46:52]
+  Stella Box: Жаль, что его больше нет с нами. Пожалуй, он все же был слишком смелым.
+[02/26/2023 13:46:58]
+  igameCrog placed Огнетушитель in Стойка огнетушителя (ID: 1122)
+[02/26/2023 13:47:10]
+  igameCrog dropped Металлический ящик
+[02/26/2023 13:47:16]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:47:26]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:47:29]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:47:56]
+  igameCrog placed Курительный табак in Трубка капитана (ID: 2383)
+[02/26/2023 13:48:20]
+  igameCrog placed Курительный табак in Хозяйственный шкаф (ID: 324)
+[02/26/2023 13:48:20]
+  igameCrog placed Курительный табак in Хозяйственный шкаф (ID: 324)
+[02/26/2023 13:48:20]
+  igameCrog placed Курительный табак in Хозяйственный шкаф (ID: 324)
+[02/26/2023 13:48:20]
+  igameCrog placed Курительный табак in Хозяйственный шкаф (ID: 324)
+[02/26/2023 13:48:26]
+  igameCrog picked up Ром
+[02/26/2023 13:48:28]
+  igameCrog placed Ром in Средний стальной шкаф (ID: 261)
+[02/26/2023 13:48:34]
+  igameCrog placed Пакет с кровью in Форма медика (ID: 4653)
+[02/26/2023 13:48:34]
+  igameCrog placed Пакет с кровью in Форма медика (ID: 4653)
+[02/26/2023 13:48:34]
+  igameCrog placed Пакет с кровью in Форма медика (ID: 4653)
+[02/26/2023 13:48:34]
+  igameCrog placed Пакет с кровью in Форма медика (ID: 4653)
+[02/26/2023 13:48:34]
+  igameCrog placed Пакет с кровью in Форма медика (ID: 4653)
+[02/26/2023 13:48:34]
+  igameCrog placed Пакет с кровью in Форма медика (ID: 4653)
+[02/26/2023 13:48:53]
+  Orval Graves: Загружаю в реактор дополнительное топливо!
+[02/26/2023 13:48:54]
+  Fanny Mcclure: Загружаю в реактор дополнительное топливо!
+[02/26/2023 13:48:54]
+  Astrid Hutchinson: Загружаю в реактор дополнительное топливо!
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:03]
+  Чпок В Пупок picked up Аккумулятор
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:04]
+  Чпок В Пупок placed Аккумулятор in Средний стальной шкаф с окном (ID: 911)
+[02/26/2023 13:49:13]
+  Astrid Hutchinson equipped Ториевый топливный стержень
+[02/26/2023 13:49:24]
+  igameCrog picked up Водолазный скафандр
+[02/26/2023 13:49:29]
+  igameCrog opened Настраиваемая дверь
+[02/26/2023 13:49:39]
+  igameCrog closed Настраиваемая дверь
+[02/26/2023 13:49:42]
+  igameCrog dropped Водолазный скафандр
+[02/26/2023 13:49:44]
+  kynlan4ic opened Настраиваемая дверь
+[02/26/2023 13:49:46]
+  igameCrog picked up Водолазный скафандр
+[02/26/2023 13:49:46]
+  kynlan4ic closed Настраиваемая дверь
+[02/26/2023 13:49:50]
+  igameCrog opened Настраиваемая дверь
+[02/26/2023 13:49:52]
+  igameCrog closed Настраиваемая дверь
+[02/26/2023 13:49:58]
+  igameCrog dropped Водолазный скафандр
+[02/26/2023 13:50:07]
+  igameCrog equipped Контейнер для хранения
+[02/26/2023 13:50:07]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 13:50:08]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 13:50:22]
+  kynlan4ic placed Взрывной гранат in Средний стальной шкаф (ID: 261)
+[02/26/2023 13:50:41]
+  Чпок В Пупок equipped Отвертка
+[02/26/2023 13:51:38]
+  kynlan4ic dropped Медконтейнер
+[02/26/2023 13:51:49]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:53:08]
+  igameCrog picked up Генетический материал (Акулий тигр)
+[02/26/2023 13:53:14]
+  igameCrog placed Трубка капитана in Контейнер для хранения (ID: 3023)
+[02/26/2023 13:53:18]
+  igameCrog picked up Трубка капитана
+[02/26/2023 13:53:40]
+  kynlan4ic dropped Водолазный скафандр
+[02/26/2023 13:54:21]
+  igameCrog placed Генетический материал (Акулий тигр) in Исследовательский терминал (ID: 3969)
+[02/26/2023 13:54:24]
+  igameCrog placed Генетический материал (Хаск) in Исследовательский терминал (ID: 3969)
+[02/26/2023 13:54:29]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "24,0,155,249".
+[02/26/2023 13:54:33]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "192,0,155,249".
+[02/26/2023 13:54:39]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "246,0,155,249".
+[02/26/2023 13:54:58]
+  igameCrog placed Генетический материал (Акулий тигр) in Контейнер для хранения (ID: 3023)
+[02/26/2023 13:55:00]
+  igameCrog picked up Генетический материал (Хаск)
+[02/26/2023 13:55:05]
+  igameCrog placed Генетический материал (Хаск) in Контейнер для хранения (ID: 3023)
+[02/26/2023 13:55:08]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "0,0,155,249".
+[02/26/2023 13:55:09]
+  igameCrog picked up Генетический материал (Хаск)
+[02/26/2023 13:55:13]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "0,0,231,249".
+[02/26/2023 13:55:14]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "0,0,143,249".
+[02/26/2023 13:55:17]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "0,0,175,249".
+[02/26/2023 13:55:18]
+  Чпок В Пупок set the value "LightColor" of the item "Лампа" to "0,0,255,249".
+[02/26/2023 13:55:32]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 252)
+[02/26/2023 13:55:32]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 252)
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:36]
+  Чпок В Пупок picked up Эластин
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:37]
+  Чпок В Пупок placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:39]
+  Чпок В Пупок picked up Органическое волокно
+[02/26/2023 13:55:39]
+  Чпок В Пупок picked up Органическое волокно
+[02/26/2023 13:55:39]
+  Чпок В Пупок picked up Органическое волокно
+[02/26/2023 13:55:41]
+  Чпок В Пупок equipped Органическое волокно
+[02/26/2023 13:55:44]
+  Чпок В Пупок placed Органическое волокно in Средний стальной шкаф (ID: 253)
+[02/26/2023 13:55:44]
+  Чпок В Пупок placed Органическое волокно in Средний стальной шкаф (ID: 253)
+[02/26/2023 13:55:44]
+  Чпок В Пупок placed Органическое волокно in Средний стальной шкаф (ID: 253)
+[02/26/2023 13:55:52]
+  igameCrog equipped Эластин
+[02/26/2023 13:55:52]
+  igameCrog picked up Эластин
+[02/26/2023 13:55:56]
+  igameCrog placed Эластин in Аптечка (ID: 251)
+[02/26/2023 13:55:57]
+  igameCrog equipped Этанол
+[02/26/2023 13:55:57]
+  igameCrog picked up Этанол
+[02/26/2023 13:56:04]
+  igameCrog placed Генетический материал (Хаск) in Аптечка (ID: 251)
+[02/26/2023 13:56:06]
+  Чпок В Пупок picked up Генетический материал (Хаск)
+[02/26/2023 13:56:09]
+  kynlan4ic placed Взрывной гранат in Средний стальной шкаф (ID: 261)
+[02/26/2023 13:56:11]
+  Чпок В Пупок placed Генетический материал (Хаск) in Улучшенный спайщик генов (ID: 4870)
+[02/26/2023 13:56:18]
+  igameCrog placed Трубка капитана in Хозяйственный шкаф (ID: 820)
+[02/26/2023 13:56:47]
+  kynlan4ic picked up Ящик с химикатами
+[02/26/2023 13:56:48]
+  kynlan4ic placed Ящик с химикатами in Стеллаж для ящиков (ID: 1124)
+[02/26/2023 13:56:49]
+  kynlan4ic picked up Металлический ящик
+[02/26/2023 13:56:50]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:56:51]
+  kynlan4ic picked up Ящик со взрывчаткой
+[02/26/2023 13:56:52]
+  kynlan4ic placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:56:53]
+  kynlan4ic picked up Металлический ящик
+[02/26/2023 13:56:54]
+  kynlan4ic placed Металлический ящик in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:56:55]
+  kynlan4ic picked up Ящик со взрывчаткой
+[02/26/2023 13:56:56]
+  kynlan4ic placed Ящик со взрывчаткой in Стеллаж для ящиков (ID: 100)
+[02/26/2023 13:57:13]
+  igameCrog picked up Экстракт каликса
+[02/26/2023 13:57:16]
+  igameCrog placed Экстракт каликса in Аптечка (ID: 251)
+[02/26/2023 13:57:20]
+  Чпок В Пупок picked up Экстракт каликса
+[02/26/2023 13:57:22]
+  Чпок В Пупок equipped Экстракт каликса
+[02/26/2023 13:57:29]
+  Чпок В Пупок used item Экстракт каликса
+[02/26/2023 13:57:44]
+  Чпок В Пупок closed Настраиваемая дверь с окном
+[02/26/2023 13:57:45]
+  Чпок В Пупок opened Настраиваемая дверь с окном
+[02/26/2023 13:57:52]
+  Чпок В Пупок picked up Водолазный скафандр бездны
+[02/26/2023 13:57:53]
+  Чпок В Пупок equipped Водолазный скафандр бездны
+[02/26/2023 13:57:55]
+  Чпок В Пупок closed Настраиваемая дверь с окном
+[02/26/2023 13:57:57]
+  Чпок В Пупок opened Настраиваемый люк
+[02/26/2023 13:58:00]
+  Чпок В Пупок closed Настраиваемый люк
+[02/26/2023 13:58:06]
+  Чпок В Пупок opened Настраиваемая дверь с окном
+[02/26/2023 13:58:08]
+  kynlan4ic opened Настраиваемый люк
+[02/26/2023 13:58:09]
+  kynlan4ic opened Настраиваемый люк
+[02/26/2023 13:58:11]
+  Чпок В Пупок placed Водолазный скафандр бездны in Шкаф для подводного снаряжения (ID: 99)
+[02/26/2023 13:58:29]
+  kynlan4ic closed Настраиваемый люк
+[02/26/2023 13:58:37]
+  kynlan4ic opened Настраиваемая дверь с окном
+[02/26/2023 13:58:40]
+  kynlan4ic closed Настраиваемая дверь с окном
+[02/26/2023 13:58:44]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 13:58:45]
+  igameCrog picked up Контейнер для хранения
+[02/26/2023 13:58:55]
+  Client "kynlan4ic" ended the round.
+[02/26/2023 13:58:56]
+  Ending the round...
+[02/26/2023 13:58:57]
+  Round ended.
+[02/26/2023 13:58:59]
+  Starting a new round...
+[02/26/2023 13:59:13]
+  Alice Dyer equipped Отвертка
+[02/26/2023 13:59:13]
+  Jamey Vaughn equipped Лом
+[02/26/2023 13:59:13]
+  Миссия: Карта руин
+[02/26/2023 13:59:13]
+  Для дальнейших исследований ученым потребовалось составить карту руин в точке "Добывающий центр Borvo Mensa". Отправьтесь в руины и просканируйте отмеченные комнаты предоставленным сканером.
+[02/26/2023 13:59:13]
+  Миссия: Пассажирские перевозки
+[02/26/2023 13:59:13]
+  Нескольких пассажиров нужно отвезти в точку Agave Linea. Обеспечьте их безопасность - если ни один из них не погибнет, вы получите награду в 1,100 кред.
+[02/26/2023 13:59:14]
+  Game mode: Кампания
+[02/26/2023 13:59:14]
+  Submarine: Orca
+[02/26/2023 13:59:14]
+  Level seed: Agave LineaBorvo Mensa
+[02/26/2023 13:59:14]
+  Mission: Карта руин
+[02/26/2023 13:59:14]
+  Mission: Пассажирские перевозки
+[02/26/2023 13:59:15]
+  Abe Palmieri equipped Пистолет-пулемет
+[02/26/2023 13:59:15]
+  Morton Summitt equipped Контейнер для хранения
+[02/26/2023 13:59:15]
+  igameCrog equipped Контейнер для хранения
+[02/26/2023 13:59:15]
+  igameCrog equipped Контейнер для хранения
+[02/26/2023 13:59:16]
+  Round started.
+[02/26/2023 13:59:17]
+  Fractalguardian2 equipped Паровая пушка стража
+[02/26/2023 13:59:17]
+  Fractalguardian equipped Гарпун стража
+[02/26/2023 13:59:18]
+  Alice Dyer unequipped Отвертка
+[02/26/2023 13:59:18]
+  Jamey Vaughn unequipped Лом
+[02/26/2023 13:59:39]
+  Sara Lyons equipped Кислородный баллон
+[02/26/2023 13:59:39]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 13:59:43]
+  Чпок В Пупок set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 13:59:46]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:59:51]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 13:59:53]
+  kynlan4ic equipped Металлический ящик
+[02/26/2023 13:59:57]
+  kynlan4ic placed Металлический ящик in Медицинский фабрикатор (ID: 245)
+[02/26/2023 13:59:59]
+  kynlan4ic picked up Металлический ящик
+[02/26/2023 14:00:00]
+  kynlan4ic dropped Металлический ящик
+[02/26/2023 14:00:01]
+  Чпок В Пупок placed Аккумулятор in Подводный скутер (ID: 9005)
+[02/26/2023 14:00:01]
+  Чпок В Пупок removed Аккумулятор from Подводный скутер (ID: 9005)
+[02/26/2023 14:00:01]
+  Чпок В Пупок placed Аккумулятор in Батарея (ID: 221)
+[02/26/2023 14:00:02]
+  kynlan4ic equipped Медконтейнер
+[02/26/2023 14:00:05]
+  kynlan4ic dropped Медконтейнер
+[02/26/2023 14:00:07]
+  Sara Lyons equipped Кислородный баллон
+[02/26/2023 14:00:12]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[02/26/2023 14:00:17]
+  Dominick Mansfield: Вы когда-нибудь чувствовали себя... плоским?
+[02/26/2023 14:00:28]
+  Carlton Craig equipped Семя табачной лозы
+[02/26/2023 14:01:37]
+  Bennie Castro: У меня новая цель! Не могу понять, что это такое...
+[02/26/2023 14:01:37]
+  Bennie Castro: Огонь!
+[02/26/2023 14:01:38]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:39]
+  Inner wall breached by Hammerhead
+[02/26/2023 14:01:39]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:01:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:39]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:40]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:40]
+  Sara Lyons equipped Гаечный ключ
+[02/26/2023 14:01:40]
+  Neal Bradley equipped Гаечный ключ
+[02/26/2023 14:01:41]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:01:41]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:01:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:42]
+  Dominick Mansfield equipped Гаечный ключ
+[02/26/2023 14:01:42]
+  Rowena Colpitts equipped Гаечный ключ
+[02/26/2023 14:01:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:42]
+  Bennie Castro launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:01:45]
+  Rowena Colpitts started repairing Настраиваемый люк
+[02/26/2023 14:01:45]
+  Bennie Castro: Мне нужно подводное снаряжение!
+[02/26/2023 14:01:48]
+  Dominick Mansfield unequipped Гаечный ключ
+[02/26/2023 14:01:55]
+  Sara Lyons unequipped Гаечный ключ
+[02/26/2023 14:01:57]
+  Neal Bradley unequipped Гаечный ключ
+[02/26/2023 14:01:57]
+  Neal Bradley equipped Сварочный аппарат
+[02/26/2023 14:01:57]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:01:58]
+  Bennie Castro equipped Сварочный аппарат
+[02/26/2023 14:01:58]
+  Neal Bradley: Стыковочный порт: протечек не осталось!
+[02/26/2023 14:01:59]
+  Inner wall breached by Hammerhead
+[02/26/2023 14:01:59]
+  Inner wall breached by Hammerhead
+[02/26/2023 14:02:02]
+  Carlton Craig equipped Сварочный аппарат
+[02/26/2023 14:02:04]
+  Rowena Colpitts started repairing Настраиваемый люк
+[02/26/2023 14:02:04]
+  Outer wall repaired by Carlton Craig
+[02/26/2023 14:02:05]
+  Sara Lyons equipped Сварочный аппарат
+[02/26/2023 14:02:05]
+  Sara Lyons: Надо найти водолазный скафандр!
+[02/26/2023 14:02:07]
+  Neal Bradley: Мне нужно подводное снаряжение!
+[02/26/2023 14:02:09]
+  Carlton Craig: Надо найти водолазный скафандр!
+[02/26/2023 14:02:13]
+  Outer wall repaired by Bennie Castro
+[02/26/2023 14:02:13]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:13]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:14]
+  Inner wall breached by Hammerhead
+[02/26/2023 14:02:14]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:17]
+  Rowena Colpitts started repairing Настраиваемый люк
+[02/26/2023 14:02:19]
+  Outer wall repaired by Bennie Castro
+[02/26/2023 14:02:21]
+  Outer wall repaired by Sara Lyons
+[02/26/2023 14:02:25]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:25]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:25]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:32]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 247)
+[02/26/2023 14:02:32]
+  igameCrog placed Контейнер для хранения in Шкаф для хранения токсинов (ID: 247)
+[02/26/2023 14:02:34]
+  Outer wall repaired by Neal Bradley
+[02/26/2023 14:02:35]
+  Rowena Colpitts: Надо найти водолазный скафандр!
+[02/26/2023 14:02:37]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:37]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:40]
+  Outer wall repaired by Bennie Castro
+[02/26/2023 14:02:41]
+  Carlton Craig: Стыковочный порт: протечек не осталось!
+[02/26/2023 14:02:41]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:41]
+  Чпок В Пупок equipped Сварочный аппарат
+[02/26/2023 14:02:42]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 12.0 Кровотечение: 2.0
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:43]
+  Outer wall repaired by Bennie Castro
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  Bennie Castro: Инженерный отсек: выполняю ремонт. Осталось несколько отверстий!
+[02/26/2023 14:02:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:43]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:43]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:44]
+  Neal Bradley: Стыковочный порт: все протечки устранены!
+[02/26/2023 14:02:44]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:45]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[02/26/2023 14:02:45]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 9.0 Кровотечение: 1.5
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 2.3 Кровотечение: 0.4
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:46]
+  kynlan4ic launched Цепная пушка (projectile: Болт для цепной пушки)
+[02/26/2023 14:02:47]
+  Hammerhead attacked by kynlan4ic. Рваная рана: 6.6 Кровотечение: 0.2
+[02/26/2023 14:02:48]
+  Sara Lyons unequipped Сварочный аппарат
+[02/26/2023 14:02:49]
+  Outer wall repaired by Carlton Craig
+[02/26/2023 14:02:52]
+  Delbert Graves: Огонь!
+[02/26/2023 14:02:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:02:52]
+  Carlton Craig: Инженерный отсек: минус одна протечка!
+[02/26/2023 14:02:52]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:02:53]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 14:02:53]
+  Dominick Mansfield started repairing Ядерный реактор
+[02/26/2023 14:02:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:02:53]
+  Delbert Graves: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[02/26/2023 14:02:55]
+  Dominick Mansfield: Мне нужен кислородный баллон!
+[02/26/2023 14:02:56]
+  Delbert Graves equipped Ящик пробивных снарядов
+[02/26/2023 14:02:57]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:57]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:02:58]
+  Sara Lyons: Мне нужно подводное снаряжение!
+[02/26/2023 14:02:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:02:59]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:59]
+  Inner wall breached by Hammerhead
+[02/26/2023 14:02:59]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:59]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:59]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:02:59]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:00]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:01]
+  Neal Bradley: Надо найти водолазный скафандр!
+[02/26/2023 14:03:01]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:01]
+  Dominick Mansfield: Надо найти водолазный скафандр!
+[02/26/2023 14:03:02]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:04]
+  Rowena Colpitts unequipped Гаечный ключ
+[02/26/2023 14:03:04]
+  Rowena Colpitts equipped Сварочный аппарат
+[02/26/2023 14:03:04]
+  Rowena Colpitts unequipped Сварочный аппарат
+[02/26/2023 14:03:04]
+  Rowena Colpitts equipped Гаечный ключ
+[02/26/2023 14:03:06]
+  Sara Lyons equipped Гаечный ключ
+[02/26/2023 14:03:08]
+  igameCrog picked up Сварочный аппарат
+[02/26/2023 14:03:10]
+  Neal Bradley unequipped Сварочный аппарат
+[02/26/2023 14:03:10]
+  Neal Bradley equipped Гаечный ключ
+[02/26/2023 14:03:12]
+  igameCrog equipped Сварочный аппарат
+[02/26/2023 14:03:14]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 14:03:14]
+  Dominick Mansfield equipped Гаечный ключ
+[02/26/2023 14:03:15]
+  Чпок В Пупок equipped Отвертка
+[02/26/2023 14:03:15]
+  Чпок В Пупок equipped Гаечный ключ
+[02/26/2023 14:03:19]
+  Outer wall repaired by Bennie Castro
+[02/26/2023 14:03:24]
+  Bennie Castro opened Настраиваемая дверь с окном
+[02/26/2023 14:03:25]
+  Bennie Castro: Воздушный шлюз: выполняю ремонт. Осталось несколько отверстий!
+[02/26/2023 14:03:27]
+  Neal Bradley started repairing Двигатель
+[02/26/2023 14:03:29]
+  Outer wall repaired by Bennie Castro
+[02/26/2023 14:03:31]
+  Bennie Castro closed Настраиваемая дверь с окном
+[02/26/2023 14:03:31]
+  Carlton Craig: Sara Lyons проходит лечение здесь: реакторный отсек!
+[02/26/2023 14:03:32]
+  Carlton Craig: Мне требуется опиум, фентанил, экстракт взрывного граната или морфин!
+[02/26/2023 14:03:35]
+  kynlan4ic equipped Боевой водолазный скафандр
+[02/26/2023 14:03:36]
+  Dominick Mansfield started repairing Фабрикатор
+[02/26/2023 14:03:37]
+  Rowena Colpitts started repairing Деконструктор
+[02/26/2023 14:03:39]
+  Sara Lyons started repairing Двигатель
+[02/26/2023 14:03:39]
+  Sara Lyons started repairing Двигатель
+[02/26/2023 14:03:41]
+  Bennie Castro: Камера балласта B: выполняю ремонт. Осталось несколько отверстий!
+[02/26/2023 14:03:42]
+  Dominick Mansfield unequipped Гаечный ключ
+[02/26/2023 14:03:42]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 14:03:42]
+  Carlton Craig unequipped Сварочный аппарат
+[02/26/2023 14:03:42]
+  Carlton Craig equipped Фентанил
+[02/26/2023 14:03:44]
+  Neal Bradley started repairing Фабрикатор
+[02/26/2023 14:03:44]
+  Neal Bradley unequipped Гаечный ключ
+[02/26/2023 14:03:44]
+  Neal Bradley equipped Отвертка
+[02/26/2023 14:03:48]
+  Dominick Mansfield started repairing Ядерный реактор
+[02/26/2023 14:03:49]
+  Sara Lyons started repairing Деконструктор
+[02/26/2023 14:03:49]
+  Sara Lyons unequipped Гаечный ключ
+[02/26/2023 14:03:49]
+  Sara Lyons equipped Отвертка
+[02/26/2023 14:03:49]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 94)
+[02/26/2023 14:03:50]
+  Neal Bradley unequipped Отвертка
+[02/26/2023 14:03:50]
+  Neal Bradley equipped Сварочный аппарат
+[02/26/2023 14:03:50]
+  Neal Bradley unequipped Сварочный аппарат
+[02/26/2023 14:03:50]
+  Neal Bradley equipped Гаечный ключ
+[02/26/2023 14:03:51]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 14:03:51]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 14:03:51]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 14:03:51]
+  Dominick Mansfield equipped Гаечный ключ
+[02/26/2023 14:03:51]
+  Neal Bradley unequipped Гаечный ключ
+[02/26/2023 14:03:51]
+  Neal Bradley equipped Отвертка
+[02/26/2023 14:03:51]
+  Dominick Mansfield unequipped Гаечный ключ
+[02/26/2023 14:03:51]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 14:03:52]
+  Carlton Craig equipped Сварочный аппарат
+[02/26/2023 14:03:53]
+  Delbert Graves: Стреляю!
+[02/26/2023 14:03:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:53]
+  Carlton Craig: Sara Lyons в полном порядке!
+[02/26/2023 14:03:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:53]
+  Sara Lyons unequipped Отвертка
+[02/26/2023 14:03:53]
+  Sara Lyons equipped Гаечный ключ
+[02/26/2023 14:03:53]
+  Sara Lyons unequipped Гаечный ключ
+[02/26/2023 14:03:53]
+  Sara Lyons equipped Отвертка
+[02/26/2023 14:03:53]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:53]
+  Sara Lyons started repairing Ядерный реактор
+[02/26/2023 14:03:54]
+  Dominick Mansfield unequipped Отвертка
+[02/26/2023 14:03:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:54]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:55]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:03:55]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:03:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:55]
+  Rowena Colpitts unequipped Гаечный ключ
+[02/26/2023 14:03:55]
+  Rowena Colpitts equipped Сварочный аппарат
+[02/26/2023 14:03:55]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:56]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:57]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:58]
+  Outer wall breached by Hammerhead
+[02/26/2023 14:03:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:58]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[02/26/2023 14:03:58]
+  Hammerhead has died (Cause of death: Рваная рана)
+[02/26/2023 14:03:58]
+  Delbert Graves: Цель уничтожена!
+[02/26/2023 14:03:58]
+  Dominick Mansfield equipped Отвертка
+[02/26/2023 14:03:58]
+  Carlton Craig: Мне нужно подводное снаряжение!
+[02/26/2023 14:03:58]
+  Neal Bradley: Надо найти водолазный скафандр!
+[02/26/2023 14:03:58]
+  Sara Lyons: Надо найти водолазный скафандр!
+[02/26/2023 14:03:59]
+  Dominick Mansfield started repairing Ядерный реактор

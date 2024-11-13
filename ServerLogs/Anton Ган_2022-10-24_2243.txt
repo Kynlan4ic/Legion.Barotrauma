@@ -1,0 +1,1601 @@
+﻿[10/24/2022 22:20:46]
+  Respawning bot Mechelle Cork as Инженер
+[10/24/2022 22:20:46]
+  Respawning bot Waldo Rios as Офицер службы безопасности
+[10/24/2022 22:20:49]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:20:49]
+  Ashley Heuer: У меня нет оружия для самообороны!
+[10/24/2022 22:20:50]
+  Ashley Heuer: Ищу безопасное место!
+[10/24/2022 22:20:50]
+  Tania Schmitt: Отвали от меня!
+[10/24/2022 22:20:50]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:20:55]
+  Tania Schmitt: У меня кровь!
+[10/24/2022 22:20:56]
+  Ashley Heuer: Я теряю много крови!
+[10/24/2022 22:21:06]
+  Mechelle Cork has died (Cause of death: Кровопотеря)
+[10/24/2022 22:21:07]
+  Mechelle Cork has died (Cause of death: Кровопотеря)
+[10/24/2022 22:21:10]
+  Tania Schmitt: А-А-А-А-А-А!
+[10/24/2022 22:21:10]
+  Ashley Heuer: Ищу безопасное место!
+[10/24/2022 22:21:23]
+  Ashley Heuer has died (Cause of death: Укусы)
+[10/24/2022 22:21:30]
+  Tania Schmitt has died (Cause of death: Укусы)
+[10/24/2022 22:22:23]
+  kynlan4ic is a traitor and the current goals are:
+(empty)
+[10/24/2022 22:22:28]
+  Ending round (a traitor completed their mission)
+[10/24/2022 22:22:28]
+  Ending the round...
+[10/24/2022 22:22:29]
+  Round ended.
+[10/24/2022 22:23:07]
+  igameCrog is ready to start the game.
+[10/24/2022 22:24:20]
+  igameCrog покидает сервер.
+[10/24/2022 22:24:32]
+  Игрок igameCrog присоединился к серверу.
+[10/24/2022 22:24:32]
+  Saving client permissions
+[10/24/2022 22:27:57]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:27:57]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:27:58]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:27:58]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:27:58]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:27:58]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:27:58]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:27:59]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:27:59]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:27:59]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:27:59]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:27:59]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:27:59]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:28:00]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:28:00]
+  kynlan4ic is ready to start the game.
+[10/24/2022 22:28:00]
+  kynlan4ic is not ready to start the game.
+[10/24/2022 22:32:57]
+  Client "kynlan4ic" started the round.
+[10/24/2022 22:32:57]
+  Starting a new round...
+[10/24/2022 22:33:18]
+  Миссия: Злые молотоглавы
+[10/24/2022 22:33:18]
+  Нам сообщают, что стая молотоглавов перекрыла путь между локациями Центр Set и Шахта Skadi's Cauldron. Уничтожьте чудовищ, чтобы наши корабли могли спокойно преодолеть этот отрезок пути.
+[10/24/2022 22:33:18]
+  Game mode: Миссия
+[10/24/2022 22:33:18]
+  Submarine: Project-705k Lyra v1.02.07
+[10/24/2022 22:33:18]
+  Level seed: OpkmEK5x
+[10/24/2022 22:33:18]
+  Mission: Злые молотоглавы
+[10/24/2022 22:33:21]
+  Round started.
+[10/24/2022 22:33:28]
+  Terrell Linares: Я слышу, как скрипит корпус.
+[10/24/2022 22:33:42]
+  Pedro Goodin equipped Топливный стержень
+[10/24/2022 22:33:46]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:33:49]
+  Console command "enablecheats" executed by kynlan4ic.
+[10/24/2022 22:33:58]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:34:58]
+  Ending round by votes (2/0)
+[10/24/2022 22:34:58]
+  Ending the round...
+[10/24/2022 22:35:06]
+  Round ended.
+[10/24/2022 22:35:32]
+  Client "kynlan4ic" started the round.
+[10/24/2022 22:35:32]
+  Starting a new round...
+[10/24/2022 22:35:48]
+  Миссия: Уничтожение молотоглавов
+[10/24/2022 22:35:48]
+  Крайне свирепые молотоглавы терроризируют суда, плавающие по маршруту Центр Set - Шахта Skadi's Cauldron. Тому, кто истребит этих опасных созданий, полагается достойная награда в размере 1,000 кред.
+[10/24/2022 22:35:48]
+  Game mode: Миссия
+[10/24/2022 22:35:48]
+  Submarine: Project-705k Lyra Litev1.00.12
+[10/24/2022 22:35:48]
+  Level seed: U2R21fbo
+[10/24/2022 22:35:48]
+  Mission: Уничтожение молотоглавов
+[10/24/2022 22:35:50]
+  Round started.
+[10/24/2022 22:35:57]
+  Raymon Sawyer: Вы когда-нибудь чувствовали себя... плоским?
+[10/24/2022 22:36:09]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:36:11]
+  Harry Nunez equipped Отвертка
+[10/24/2022 22:36:11]
+  Emerald Williams equipped Топливный стержень
+[10/24/2022 22:36:13]
+  Burl Day equipped Отвертка
+[10/24/2022 22:36:16]
+  kynlan4ic set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:36:22]
+  Jamey Chaney equipped Гаечный ключ
+[10/24/2022 22:36:22]
+  Seth Petersen equipped Отвертка
+[10/24/2022 22:36:25]
+  Console command "enablecheats" executed by kynlan4ic.
+[10/24/2022 22:36:27]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:36:32]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:36:33]
+  Kenna Lozano equipped Гаечный ключ
+[10/24/2022 22:36:44]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:36:45]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:36:53]
+  Jamey Chaney equipped Гаечный ключ
+[10/24/2022 22:37:00]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:37:04]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:37:04]
+  Kenna Lozano equipped Отвертка
+[10/24/2022 22:37:08]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:37:12]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:37:22]
+  Console command "spawn husk inside" executed by kynlan4ic.
+[10/24/2022 22:37:23]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:37:35]
+  Seth Petersen equipped Отвертка
+[10/24/2022 22:37:45]
+  Kenna Lozano equipped Отвертка
+[10/24/2022 22:37:47]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:37:47]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:37:47]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:37:47]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:37:47]
+  Marcel Bailey equipped Шоковая дубинка
+[10/24/2022 22:37:47]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:37:48]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:37:48]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:37:49]
+  Marcel Bailey used Шоковая дубинка (Аккумулятор) on Husk.
+[10/24/2022 22:37:49]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:37:49]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:37:50]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:37:50]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:37:51]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:37:51]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:37:51]
+  Albertine Connors equipped Шоковая дубинка
+[10/24/2022 22:37:51]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:37:51]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:37:51]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:37:51]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:37:51]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:37:52]
+  Marcel Bailey used Шоковая дубинка (Аккумулятор) on Husk.
+[10/24/2022 22:37:52]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:37:52]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:37:52]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:37:53]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:37:53]
+  Marcel Bailey used Шоковая дубинка (Аккумулятор) on Husk.
+[10/24/2022 22:37:53]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:37:53]
+  Valerie Avery: Помогите, я истекаю кровью!
+[10/24/2022 22:37:54]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:37:55]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:37:56]
+  Ina Mcclure used Гаечный ключ on Husk.
+[10/24/2022 22:37:56]
+  Marcel Bailey used Шоковая дубинка (Аккумулятор) on Ina Mcclure.
+[10/24/2022 22:37:56]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:37:56]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:37:56]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:37:57]
+  Marcel Bailey unequipped Шоковая дубинка
+[10/24/2022 22:37:57]
+  Marcel Bailey equipped Нож ныряльщика
+[10/24/2022 22:37:57]
+  Albertine Connors used Шоковая дубинка (Аккумулятор) on Husk.
+[10/24/2022 22:37:57]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:37:57]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:37:57]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:37:57]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:37:58]
+  Ramon Stein opened Дверь с кнопками
+[10/24/2022 22:37:58]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:37:58]
+  Marcel Bailey used Нож ныряльщика on Janee Berlin.
+[10/24/2022 22:37:58]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:37:59]
+  Albertine Connors used Шоковая дубинка (Аккумулятор) on Husk.
+[10/24/2022 22:37:59]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:38:00]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:00]
+  Marcel Bailey: Я теряю много крови!
+[10/24/2022 22:38:00]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:00]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:01]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:38:01]
+  Albertine Connors used Шоковая дубинка (Аккумулятор) on Husk.
+[10/24/2022 22:38:02]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:02]
+  Janee Berlin: Помогите, я истекаю кровью!
+[10/24/2022 22:38:02]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:02]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:38:02]
+  Albertine Connors used Шоковая дубинка (Аккумулятор) on Marcel Bailey.
+[10/24/2022 22:38:02]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:38:03]
+  Albertine Connors unequipped Шоковая дубинка
+[10/24/2022 22:38:03]
+  Albertine Connors equipped Нож ныряльщика
+[10/24/2022 22:38:03]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:38:03]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:03]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:38:03]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:03]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:04]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:38:04]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:38:04]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:04]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:04]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:04]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:04]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:04]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:05]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:05]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:05]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:05]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:05]
+  Albertine Connors: У меня кровь!
+[10/24/2022 22:38:05]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:05]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:38:05]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:06]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:06]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:38:06]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:06]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:38:06]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:07]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:07]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:38:07]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:08]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:08]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:38:08]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:38:08]
+  Albertine Connors used Нож ныряльщика on Marcel Bailey.
+[10/24/2022 22:38:08]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:08]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:09]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:38:09]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:10]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:10]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:10]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:38:11]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:38:11]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:38:11]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:12]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:12]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:38:12]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:12]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:12]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:38:13]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:13]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:13]
+  Albertine Connors used Нож ныряльщика on Marcel Bailey.
+[10/24/2022 22:38:13]
+  Ramon Stein opened Дверь с кнопками
+[10/24/2022 22:38:14]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:14]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:14]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:14]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:15]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:15]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:15]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:15]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:16]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:16]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:16]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:38:16]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:17]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:38:17]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:17]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:17]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:18]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:18]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:18]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:38:18]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:18]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:38:18]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:19]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:38:19]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:19]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:19]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:20]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:38:20]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:38:20]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:21]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:38:22]
+  Albertine Connors used Нож ныряльщика on Marcel Bailey.
+[10/24/2022 22:38:22]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:38:22]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:22]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:23]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:23]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:24]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:38:24]
+  Albertine Connors used Нож ныряльщика on Marcel Bailey.
+[10/24/2022 22:38:24]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:24]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:38:24]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:25]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:38:25]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:25]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:25]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:25]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:38:25]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:25]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:26]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:26]
+  Inner wall breached by Albertine Connors
+[10/24/2022 22:38:26]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:26]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:38:26]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:38:26]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:27]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:28]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:28]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:38:28]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:28]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:28]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:38:28]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:28]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:38:28]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:38:28]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:29]
+  Ramon Stein opened Дверь с кнопками
+[10/24/2022 22:38:29]
+  Albertine Connors used Нож ныряльщика on Husk.
+[10/24/2022 22:38:29]
+  Marcel Bailey used Нож ныряльщика on Albertine Connors.
+[10/24/2022 22:38:29]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:29]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:31]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:38:31]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:31]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:31]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:38:31]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:38:32]
+  Marcel Bailey: Кажется, у меня жар.
+[10/24/2022 22:38:32]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:32]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:32]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:38:32]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:38:33]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:33]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:34]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:34]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:38:34]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:34]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:34]
+  Marcel Bailey: Я теряю много крови!
+[10/24/2022 22:38:34]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:34]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:34]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:38:35]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:38:35]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:38:35]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:35]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:35]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:38:35]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:38:36]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:38:36]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:38:36]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:36]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:36]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:38:36]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:38:37]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:37]
+  Janee Berlin: Я теряю много крови!
+[10/24/2022 22:38:37]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:38]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:38:38]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:38]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:38:39]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:39]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:39]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:40]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:41]
+  igameCrog adjusted reactor settings: Temperature: 2597, Fission rate: 46, Turbine output: 49, Autotemp OFF
+[10/24/2022 22:38:41]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:41]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:41]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:38:41]
+  Joe Case used Гаечный ключ on Husk.
+[10/24/2022 22:38:41]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:38:42]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:38:42]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:38:42]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:42]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:38:43]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:43]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:44]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:44]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:44]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:44]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:38:45]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:38:45]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:45]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:45]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:38:45]
+  Raymon Sawyer opened Дверь с кнопками
+[10/24/2022 22:38:45]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:46]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:38:46]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:38:46]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:47]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:38:47]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:47]
+  Jamey Chaney equipped Гаечный ключ
+[10/24/2022 22:38:48]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:38:48]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:49]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:38:49]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:38:49]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:38:49]
+  Jamey Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:49]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:38:49]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:38:50]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:38:50]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:50]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:38:50]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:38:50]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:38:51]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:51]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:38:51]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:51]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:38:51]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:38:51]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:38:51]
+  Ina Mcclure used Гаечный ключ on Husk.
+[10/24/2022 22:38:51]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:38:52]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:54]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:55]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:38:55]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:38:55]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:38:56]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:56]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:38:56]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:38:57]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:38:57]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:38:57]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:38:57]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:57]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:38:58]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:38:58]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:38:58]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:38:58]
+  igameCrog adjusted reactor settings: Temperature: 2564, Fission rate: 49, Turbine output: 49, Autotemp OFF
+[10/24/2022 22:38:58]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:38:59]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:39:00]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:39:00]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:39:00]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:39:00]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:39:00]
+  Marcel Bailey used Нож ныряльщика on Husk.
+[10/24/2022 22:39:00]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:39:00]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:39:00]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:39:01]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:39:01]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:39:02]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:39:02]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:39:02]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:39:03]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:39:03]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:39:04]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:39:04]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:39:06]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:39:06]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:39:09]
+  igameCrog adjusted reactor settings: Temperature: 2941, Fission rate: 31, Turbine output: 49, Autotemp OFF
+[10/24/2022 22:39:10]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:39:10]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:39:10]
+  Ina Mcclure: Помогите, я истекаю кровью!
+[10/24/2022 22:39:11]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:39:11]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:39:11]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:39:11]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:39:11]
+  igameCrog adjusted reactor settings: Temperature: 1441, Fission rate: 32, Turbine output: 49, Autotemp OFF
+[10/24/2022 22:39:12]
+  igameCrog adjusted reactor settings: Temperature: 1271, Fission rate: 62, Turbine output: 49, Autotemp OFF
+[10/24/2022 22:39:12]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:39:12]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:39:13]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:39:14]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:39:14]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:39:20]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:39:20]
+  igameCrog adjusted reactor settings: Temperature: 5073, Fission rate: 61, Turbine output: 50, Autotemp OFF
+[10/24/2022 22:39:21]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:39:21]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:39:21]
+  kynlan4ic adjusted reactor settings: Temperature: 4851, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/24/2022 22:39:22]
+  Albertine Connors has died (Cause of death: Кровопотеря)
+[10/24/2022 22:39:29]
+  igameCrog adjusted reactor settings: Temperature: 2, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[10/24/2022 22:39:33]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 18, Autotemp OFF
+[10/24/2022 22:39:34]
+  Raymon Sawyer equipped Нож ныряльщика
+[10/24/2022 22:39:34]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 64, Autotemp OFF
+[10/24/2022 22:39:36]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 90, Autotemp OFF
+[10/24/2022 22:39:37]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 100, Autotemp OFF
+[10/24/2022 22:39:38]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 34, Autotemp OFF
+[10/24/2022 22:39:40]
+  igameCrog adjusted reactor settings: Temperature: 0, Fission rate: 23, Turbine output: 34, Autotemp OFF
+[10/24/2022 22:39:41]
+  igameCrog adjusted reactor settings: Temperature: 250, Fission rate: 100, Turbine output: 34, Autotemp OFF
+[10/24/2022 22:39:42]
+  igameCrog adjusted reactor settings: Temperature: 1250, Fission rate: 100, Turbine output: 47, Autotemp OFF
+[10/24/2022 22:39:43]
+  igameCrog adjusted reactor settings: Temperature: 2249, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/24/2022 22:39:54]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:39:54]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:39:55]
+  kynlan4ic picked up Кислородный баллон
+[10/24/2022 22:40:03]
+  kynlan4ic picked up Водолазный скафандр
+[10/24/2022 22:40:05]
+  kynlan4ic placed Водолазный скафандр in Шкаф для подводного снаряжения (ID: 444)
+[10/24/2022 22:40:07]
+  kynlan4ic removed Водолазный скафандр from Шкаф для подводного снаряжения (ID: 444)
+[10/24/2022 22:40:10]
+  kynlan4ic equipped Водолазный скафандр
+[10/24/2022 22:40:14]
+  Marcel Bailey has died (Cause of death: Кровопотеря)
+[10/24/2022 22:40:14]
+  Ina Mcclure: Я чувствую жуткую слабость. Все тело болит.
+[10/24/2022 22:40:19]
+  kynlan4ic picked up Сварочный аппарат
+[10/24/2022 22:40:20]
+  igameCrog set the force of Большой двигатель to 40 %
+[10/24/2022 22:40:20]
+  igameCrog set the force of Большой двигатель to 90 %
+[10/24/2022 22:40:45]
+  igameCrog adjusted reactor settings: Temperature: 2799, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/24/2022 22:40:46]
+  igameCrog adjusted reactor settings: Temperature: 2799, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/24/2022 22:40:47]
+  igameCrog adjusted reactor settings: Temperature: 2799, Fission rate: 100, Turbine output: 100, Autotemp OFF
+[10/24/2022 22:40:53]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:40:54]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:40:54]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:40:55]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:40:55]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:40:56]
+  Ramon Stein: У меня кровь!
+[10/24/2022 22:40:56]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:40:56]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:40:56]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:40:56]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:40:57]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:40:57]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:40:57]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:40:57]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:40:57]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:40:57]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:40:58]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:40:58]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:40:58]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:40:58]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:40:59]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:40:59]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:40:59]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:40:59]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:40:59]
+  Burl Day used Гаечный ключ on Husk.
+[10/24/2022 22:40:59]
+  Raymon Sawyer used Гаечный ключ on Burl Day.
+[10/24/2022 22:41:00]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:41:00]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:41:02]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:41:02]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:41:02]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:02]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:41:04]
+  Ramon Stein used Гаечный ключ on Marcel Bailey.
+[10/24/2022 22:41:05]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:41:06]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:41:06]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:41:06]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:41:06]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:41:07]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:41:07]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:41:07]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:41:07]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:41:07]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:41:08]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:41:08]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:41:08]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:41:09]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:09]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:41:10]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:41:10]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:41:11]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:41:11]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:41:12]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:41:12]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:41:14]
+  kynlan4ic undocked Glass Shuttle from Project-705k Lyra Litev1.00.12
+[10/24/2022 22:41:15]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:41:17]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:17]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:41:17]
+  Ramon Stein opened Дверь с кнопками
+[10/24/2022 22:41:18]
+  Britt Green: Помогите, я истекаю кровью!
+[10/24/2022 22:41:18]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:41:18]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:41:19]
+  Burl Day used Гаечный ключ on Husk.
+[10/24/2022 22:41:20]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:41:21]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:41:21]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:41:21]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:41:21]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:41:21]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:41:23]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:41:24]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:41:25]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:41:25]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:41:26]
+  Jamey Chaney: Я теряю много крови!
+[10/24/2022 22:41:26]
+  Britt Green used Гаечный ключ on Husk.
+[10/24/2022 22:41:27]
+  Burl Day used Гаечный ключ on Husk.
+[10/24/2022 22:41:28]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:41:28]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:41:28]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:41:28]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:41:29]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:41:29]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:41:29]
+  Burl Day: У меня кровь!
+[10/24/2022 22:41:29]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:41:30]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:41:30]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:41:31]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:41:31]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:41:31]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:41:31]
+  Ramon Stein: Что-то в горле першит.
+[10/24/2022 22:41:31]
+  Ramon Stein: Помогите, я истекаю кровью!
+[10/24/2022 22:41:31]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:41:31]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:41:32]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:32]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:41:32]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:41:32]
+  Kenna Lozano equipped Гаечный ключ
+[10/24/2022 22:41:32]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:41:33]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:41:34]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:41:34]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:41:34]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:41:34]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:41:34]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:41:34]
+  Kenna Lozano: У меня кровь!
+[10/24/2022 22:41:34]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:41:35]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:41:35]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:41:36]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:41:36]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:41:36]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:41:37]
+  Kenna Lozano unequipped Гаечный ключ
+[10/24/2022 22:41:37]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:41:38]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:41:38]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:41:38]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:41:38]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:41:38]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:41:38]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:41:38]
+  Ina Mcclure: У меня что-то во рту...
+[10/24/2022 22:41:41]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:41:41]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:41:42]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:41:42]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:41:42]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:41:43]
+  Valerie Avery used Гаечный ключ on Husk.
+[10/24/2022 22:41:43]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:41:44]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:41:44]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:41:44]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:41:45]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:41:45]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:41:45]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:41:46]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:41:46]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:41:46]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:46]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:41:46]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:41:46]
+  Valerie Avery used Гаечный ключ on Husk.
+[10/24/2022 22:41:47]
+  Valerie Avery: У меня кровь!
+[10/24/2022 22:41:48]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:41:48]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:41:48]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:41:48]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:41:48]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:41:48]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:41:48]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:41:49]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:41:49]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:41:49]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:41:50]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:50]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:41:50]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:41:50]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:41:50]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:41:50]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:41:51]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:41:51]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:41:51]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:41:51]
+  Ramon Stein used Гаечный ключ on Husk.
+[10/24/2022 22:41:52]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:41:52]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:41:52]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:41:53]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:41:54]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:41:54]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:41:54]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:41:54]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:41:55]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:41:55]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:41:55]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:41:55]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:41:55]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:41:55]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:41:56]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:41:56]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:41:56]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:41:56]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:41:57]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:41:58]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:41:58]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:41:59]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:41:59]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:41:59]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:41:59]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:41:59]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:42:00]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:42:01]
+  igameCrog entered "пизда" on Терминал
+[10/24/2022 22:42:01]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:42:01]
+  igameCrog entered "" on Терминал
+[10/24/2022 22:42:02]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:42:03]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:42:04]
+  Valerie Avery opened Дверь с кнопками
+[10/24/2022 22:42:04]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:42:04]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:42:05]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:42:06]
+  Ramon Stein: У меня кровь!
+[10/24/2022 22:42:06]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:42:08]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:42:09]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:42:09]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:42:09]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:42:10]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:42:13]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:42:13]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:42:13]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:42:13]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:42:13]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:42:14]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:42:14]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:42:14]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:42:14]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:42:14]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:42:14]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:42:14]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:42:15]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:42:15]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:42:16]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:42:16]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:42:16]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:42:16]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:42:18]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:42:18]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:42:20]
+  Ramon Stein: У меня что-то во рту...
+[10/24/2022 22:42:20]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:42:20]
+  Janee Berlin: Я теряю много крови!
+[10/24/2022 22:42:22]
+  Valerie Avery: У меня кровь!
+[10/24/2022 22:42:23]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:42:23]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:42:23]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:42:23]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:42:23]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:42:26]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:42:26]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:42:26]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:42:26]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:42:26]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:42:27]
+  Britt Green: Кажется, у меня жар.
+[10/24/2022 22:42:27]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:42:28]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:42:34]
+  Ina Mcclure equipped Нож ныряльщика
+[10/24/2022 22:42:38]
+  Janee Berlin: Ramon Stein проходит лечение здесь: медицинский отсек!
+[10/24/2022 22:42:38]
+  Janee Berlin: Ramon Stein чувствует себя хорошо!
+[10/24/2022 22:42:38]
+  Harry Nunez equipped Отвертка
+[10/24/2022 22:42:40]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:42:41]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:42:41]
+  Ina Mcclure: У меня кровь!
+[10/24/2022 22:42:43]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:42:43]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:42:43]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:42:43]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:42:43]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:42:45]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:42:45]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:42:45]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:42:45]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:42:45]
+  Darleen Chaney equipped Отвертка
+[10/24/2022 22:42:46]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:42:46]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:42:46]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:42:46]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:42:48]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:42:49]
+  Britt Green used Гаечный ключ on Husk.
+[10/24/2022 22:42:49]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:42:49]
+  igameCrog has died (Cause of death: Баротравма)
+[10/24/2022 22:42:50]
+  Raymon Sawyer used Гаечный ключ on Husk.
+[10/24/2022 22:42:51]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:42:52]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:42:53]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:42:53]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:42:53]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:42:54]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:42:54]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:42:54]
+  Raymon Sawyer: У меня кровь!
+[10/24/2022 22:42:54]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:42:54]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:42:54]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:42:55]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:42:55]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:42:55]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:42:56]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:42:56]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:42:59]
+  Dispatching the respawn shuttle.
+[10/24/2022 22:42:59]
+  Respawning igameCrog (STEAM_1:0:584229539) as Врач
+[10/24/2022 22:43:00]
+  Respawning bot Albertine Connors as Офицер службы безопасности
+[10/24/2022 22:43:00]
+  Respawning bot Marcel Bailey as Офицер службы безопасности
+[10/24/2022 22:43:01]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:43:03]
+  Valerie Avery: Я чувствую жуткую слабость. Все тело болит.
+[10/24/2022 22:43:03]
+  igameCrog set the value "Channel" of the item "Наушники" to "0".
+[10/24/2022 22:43:04]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:43:04]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:43:04]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:43:09]
+  Valerie Avery equipped Гаечный ключ
+[10/24/2022 22:43:10]
+  Kenna Lozano equipped Сварочный аппарат
+[10/24/2022 22:43:10]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:43:10]
+  Kenna Lozano opened Дверь с кнопками
+[10/24/2022 22:43:12]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:43:12]
+  Ramon Stein equipped Гаечный ключ
+[10/24/2022 22:43:12]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:43:12]
+  Britt Green equipped Аккумулятор
+[10/24/2022 22:43:13]
+  Janee Berlin: Что-то в горле першит.
+[10/24/2022 22:43:13]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:43:13]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:43:13]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:43:13]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:43:13]
+  Valerie Avery: У меня кровь!
+[10/24/2022 22:43:14]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:43:14]
+  Ramon Stein unequipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:43:14]
+  Burl Day unequipped Гаечный ключ
+[10/24/2022 22:43:14]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:43:14]
+  Britt Green unequipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Joe Case unequipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:43:15]
+  Britt Green equipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Burl Day equipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Joe Case equipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Valerie Avery unequipped Гаечный ключ
+[10/24/2022 22:43:15]
+  Valerie Avery equipped Сварочный аппарат
+[10/24/2022 22:43:15]
+  Darleen Chaney unequipped Гаечный ключ
+[10/24/2022 22:43:16]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:43:16]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:43:16]
+  Darleen Chaney equipped Гаечный ключ
+[10/24/2022 22:43:16]
+  Emerald Williams equipped Гаечный ключ
+[10/24/2022 22:43:16]
+  Seth Petersen equipped Гаечный ключ
+[10/24/2022 22:43:16]
+  Harry Nunez unequipped Сварочный аппарат
+[10/24/2022 22:43:16]
+  Ina Mcclure unequipped Гаечный ключ
+[10/24/2022 22:43:17]
+  Ina Mcclure equipped Гаечный ключ
+[10/24/2022 22:43:17]
+  Seth Petersen unequipped Гаечный ключ
+[10/24/2022 22:43:17]
+  Raymon Sawyer unequipped Гаечный ключ
+[10/24/2022 22:43:17]
+  Emerald Williams unequipped Гаечный ключ
+[10/24/2022 22:43:20]
+  Valerie Avery unequipped Сварочный аппарат
+[10/24/2022 22:43:20]
+  Kenna Lozano unequipped Сварочный аппарат
+[10/24/2022 22:43:20]
+  Ramon Stein unequipped Сварочный аппарат
+[10/24/2022 22:43:20]
+  Ina Mcclure used Гаечный ключ on Husk.
+[10/24/2022 22:43:20]
+  Burl Day: Я теряю много крови!
+[10/24/2022 22:43:21]
+  Jamey Chaney equipped Сварочный аппарат
+[10/24/2022 22:43:22]
+  Ina Mcclure used Гаечный ключ on Husk.
+[10/24/2022 22:43:22]
+  Harry Nunez equipped Сварочный аппарат
+[10/24/2022 22:43:23]
+  Jamey Chaney unequipped Сварочный аппарат
+[10/24/2022 22:43:23]
+  Ramon Stein equipped Сварочный аппарат
+[10/24/2022 22:43:23]
+  Raymon Sawyer equipped Гаечный ключ
+[10/24/2022 22:43:24]
+  Harry Nunez unequipped Сварочный аппарат

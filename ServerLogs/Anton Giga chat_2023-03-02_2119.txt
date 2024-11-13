@@ -1,0 +1,1600 @@
+﻿[03/02/2023 21:08:45]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:08:45]
+  Neal Bradley equipped Гаечный ключ
+[03/02/2023 21:08:46]
+  Neal Bradley unequipped Гаечный ключ
+[03/02/2023 21:08:49]
+  Neal Bradley equipped Гаечный ключ
+[03/02/2023 21:08:49]
+  Sara Lyons equipped Гаечный ключ
+[03/02/2023 21:08:54]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:08:54]
+  Dominick Mansfield equipped Гаечный ключ
+[03/02/2023 21:08:54]
+  Rowena Colpitts started repairing Малый насос
+[03/02/2023 21:08:56]
+  Neal Bradley unequipped Гаечный ключ
+[03/02/2023 21:08:57]
+  Sara Lyons unequipped Гаечный ключ
+[03/02/2023 21:08:57]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/02/2023 21:08:58]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/02/2023 21:09:48]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:10:00]
+  Информация о миссии: Артефакт у вас - Артефакт у вас на борту. Выведите подлодку из пещеры, чтобы получить награду
+[03/02/2023 21:10:01]
+  kynlan4ic closed Настраиваемый люк
+[03/02/2023 21:10:02]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/02/2023 21:10:05]
+  kynlan4ic removed Водолазный скафандр бездны from Шкаф для подводного снаряжения (ID: 88)
+[03/02/2023 21:10:06]
+  kynlan4ic placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 88)
+[03/02/2023 21:10:11]
+  kynlan4ic placed Контейнер для перевозки артефактов in Хозяйственный шкаф (ID: 232)
+[03/02/2023 21:10:11]
+  vlad32 dropped Боевой водолазный скафандр
+[03/02/2023 21:10:14]
+  kynlan4ic placed Ручной сонар in Средний стальной шкаф с окном (ID: 935)
+[03/02/2023 21:10:19]
+  vlad32 dropped Боевой водолазный скафандр
+[03/02/2023 21:10:34]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:10:34]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:10:35]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:10:35]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:10:41]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:10:43]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:10:43]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/02/2023 21:10:44]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:10:45]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:10:45]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:10:51]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:11:09]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:11:09]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:11:09]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:11:10]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:11:12]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:11:14]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:11:14]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/02/2023 21:11:15]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:11:18]
+  kynlan4ic picked up Боевой водолазный скафандр
+[03/02/2023 21:11:19]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:11:22]
+  kynlan4ic picked up Плазменный резак
+[03/02/2023 21:11:23]
+  kynlan4ic picked up Ручной сонар
+[03/02/2023 21:11:26]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:11:26]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/02/2023 21:11:28]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:11:28]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/02/2023 21:11:28]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:11:28]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:11:28]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:11:29]
+  Sara Lyons started repairing Кабельная коробка
+[03/02/2023 21:11:30]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:11:31]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:11:32]
+  vlad32 removed Боевой водолазный скафандр from Шкаф для подводного снаряжения (ID: 569)
+[03/02/2023 21:11:32]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:11:32]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:11:32]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:11:32]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:11:33]
+  vlad32 equipped Боевой водолазный скафандр
+[03/02/2023 21:11:33]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:11:34]
+  Carlton Craig equipped Боевой водолазный скафандр
+[03/02/2023 21:11:36]
+  vlad32 placed Боевой водолазный скафандр in Шкаф для подводного снаряжения (ID: 569)
+[03/02/2023 21:11:37]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:11:38]
+  Dominick Mansfield started repairing Ядерный реактор
+[03/02/2023 21:11:38]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:11:44]
+  Carlton Craig equipped Боевой водолазный скафандр
+[03/02/2023 21:11:48]
+  vlad32 picked up Физраствор
+[03/02/2023 21:11:48]
+  kynlan4ic opened Настраиваемый люк
+[03/02/2023 21:11:49]
+  kynlan4ic opened Настраиваемый люк
+[03/02/2023 21:11:51]
+  vlad32 picked up Физраствор
+[03/02/2023 21:12:07]
+  kynlan4ic placed Инопланетная безделушка in Пояс инструментов (ID: 9965)
+[03/02/2023 21:12:14]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:12:14]
+  kynlan4ic opened Инопланетная дверь
+[03/02/2023 21:12:14]
+  kynlan4ic sent a signal "1" from Инопланетный терминал
+[03/02/2023 21:12:14]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:12:14]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:12:15]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:12:15]
+  kynlan4ic picked up Инопланетная безделушка
+[03/02/2023 21:12:16]
+  kynlan4ic placed Инопланетная безделушка in Пояс инструментов (ID: 9965)
+[03/02/2023 21:12:17]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:12:17]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:12:18]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:12:19]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/02/2023 21:12:19]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:12:20]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/02/2023 21:12:21]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:12:21]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:12:24]
+  vlad32 opened Настраиваемая дверь с окном
+[03/02/2023 21:12:26]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:12:26]
+  vlad32 opened Настраиваемая дверь с окном
+[03/02/2023 21:12:28]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5278)
+[03/02/2023 21:12:29]
+  vlad32 closed Настраиваемая дверь с окном
+[03/02/2023 21:12:29]
+  kynlan4ic sent a signal "" from Инопланетный терминал
+[03/02/2023 21:12:29]
+  kynlan4ic sent a signal "" from Инопланетный терминал
+[03/02/2023 21:12:30]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:12:31]
+  vlad32 opened Настраиваемый люк
+[03/02/2023 21:12:31]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:12:34]
+  vlad32 closed Настраиваемый люк
+[03/02/2023 21:12:50]
+  Claire Suarez: Стреляю!
+[03/02/2023 21:12:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:50]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:12:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:51]
+  Inner wall breached by Claire Suarez
+[03/02/2023 21:12:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:51]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:12:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:12:59]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5924)
+[03/02/2023 21:13:00]
+  kynlan4ic opened Инопланетная дверь
+[03/02/2023 21:13:00]
+  kynlan4ic sent a signal "1" from Инопланетный терминал
+[03/02/2023 21:13:01]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:13:03]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:03]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:03]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:04]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:04]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:04]
+  Inner wall breached by Claire Suarez
+[03/02/2023 21:13:04]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:04]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:05]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:05]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:05]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:05]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:06]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:06]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:06]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:06]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:07]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:07]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:10]
+  Inner wall breached by Claire Suarez
+[03/02/2023 21:13:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:11]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:12]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:12]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:13:12]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:13:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:13]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:13:13]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:13:13]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:17]
+  Sara Lyons started repairing Кабельная коробка
+[03/02/2023 21:13:17]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:17]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:17]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:13:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:17]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:18]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:13:18]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:18]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 6139)
+[03/02/2023 21:13:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:18]
+  Outer wall breached by Bonethresher
+[03/02/2023 21:13:18]
+  Outer wall breached by Bonethresher
+[03/02/2023 21:13:18]
+  Outer wall breached by Bonethresher
+[03/02/2023 21:13:18]
+  Outer wall breached by Bonethresher
+[03/02/2023 21:13:18]
+  Outer wall breached by Bonethresher
+[03/02/2023 21:13:18]
+  kynlan4ic sent a signal "" from Инопланетный терминал
+[03/02/2023 21:13:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:19]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:13:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:19]
+  kynlan4ic sent a signal "" from Инопланетный терминал
+[03/02/2023 21:13:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:19]
+  Outer wall breached by Bonethresher
+[03/02/2023 21:13:19]
+  Inner wall breached by Bonethresher
+[03/02/2023 21:13:19]
+  Inner wall breached by Bonethresher
+[03/02/2023 21:13:19]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:13:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:20]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:13:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:20]
+  Claire Suarez: Стреляю!
+[03/02/2023 21:13:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:22]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:13:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:22]
+  kynlan4ic picked up Инопланетное украшение
+[03/02/2023 21:13:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:25]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:25]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:25]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:25]
+  kynlan4ic placed Осколок кислородита in Пояс инструментов (ID: 9965)
+[03/02/2023 21:13:25]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:26]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:13:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:26]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:27]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:27]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:27]
+  Claire Suarez: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/02/2023 21:13:30]
+  kynlan4ic placed Инопланетный сигнальный огонь in Пояс инструментов (ID: 9965)
+[03/02/2023 21:13:30]
+  kynlan4ic placed Инопланетный сигнальный огонь in Пояс инструментов (ID: 9965)
+[03/02/2023 21:13:30]
+  kynlan4ic placed Инопланетный сигнальный огонь in Пояс инструментов (ID: 9965)
+[03/02/2023 21:13:30]
+  Claire Suarez equipped Ящик пробивных снарядов
+[03/02/2023 21:13:32]
+  kynlan4ic placed Осколок кислородита in Пояс инструментов (ID: 9965)
+[03/02/2023 21:13:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:34]
+  Delbert Graves: Огонь!
+[03/02/2023 21:13:34]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:34]
+  Delbert Graves: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/02/2023 21:13:36]
+  Delbert Graves equipped Ящик пробивных снарядов
+[03/02/2023 21:13:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:39]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Inner wall breached by Delbert Graves
+[03/02/2023 21:13:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Inner wall breached by Delbert Graves
+[03/02/2023 21:13:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:40]
+  Outer wall breached by Delbert Graves
+[03/02/2023 21:13:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Outer wall breached by Delbert Graves
+[03/02/2023 21:13:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:41]
+  Outer wall breached by Delbert Graves
+[03/02/2023 21:13:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:42]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:42]
+  Outer wall breached by Delbert Graves
+[03/02/2023 21:13:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:42]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:13:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:42]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:13:42]
+  kynlan4ic equipped Скопление дементонита
+[03/02/2023 21:13:42]
+  kynlan4ic picked up Скопление дементонита
+[03/02/2023 21:13:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:43]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:13:43]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:13:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:44]
+  Neal Bradley started repairing Суперконденсатор
+[03/02/2023 21:13:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:45]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:46]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:13:46]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:13:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:48]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:13:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:48]
+  Bonethresher has died (Cause of death: Рваная рана)
+[03/02/2023 21:13:48]
+  Claire Suarez: И-и-и-и... Готово!
+[03/02/2023 21:13:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:50]
+  Claire Suarez: Стреляю!
+[03/02/2023 21:13:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:51]
+  Inner wall breached by Claire Suarez
+[03/02/2023 21:13:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:52]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:53]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:54]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:54]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:13:55]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:56]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:57]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:13:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:57]
+  vlad32 used item Физраствор
+[03/02/2023 21:13:57]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:58]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:59]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:59]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:13:59]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:00]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:00]
+  vlad32 used item Физраствор
+[03/02/2023 21:14:00]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:00]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:00]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/02/2023 21:14:00]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:01]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:01]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:01]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:01]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:02]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:02]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:02]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:03]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:06]
+  kynlan4ic equipped Плазменный резак
+[03/02/2023 21:14:06]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:07]
+  Tigerthresher attacked by vlad32. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[03/02/2023 21:14:08]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:08]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:08]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:08]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:09]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:09]
+  Inner wall breached by kynlan4ic
+[03/02/2023 21:14:09]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:09]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:09]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/02/2023 21:14:09]
+  Claire Suarez: Кажется, есть попадание!
+[03/02/2023 21:14:09]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:10]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:11]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:12]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:13]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:13]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:13]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:13]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:14]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:15]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:16]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:17]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:18]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:19]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:20]
+  Claire Suarez: Стреляю!
+[03/02/2023 21:14:20]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:21]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:22]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:23]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:24]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:25]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:25]
+  Claire Suarez: У меня тут Магнитная пушка! Заряжаю боеприпасы!
+[03/02/2023 21:14:26]
+  Tigerthresher attacked by vlad32. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[03/02/2023 21:14:27]
+  Claire Suarez equipped Ящик пробивных снарядов
+[03/02/2023 21:14:28]
+  Tigerthresher has died (Cause of death: Огнестрельная рана)
+[03/02/2023 21:14:28]
+  Tigerthresher attacked by vlad32. Огнестрельная рана: 55.0 Кровотечение: 33.0 Оглушение: 0.6
+[03/02/2023 21:14:28]
+  Bennie Castro: Враг уничтожен!
+[03/02/2023 21:14:28]
+  Delbert Graves: Враг уничтожен!
+[03/02/2023 21:14:30]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:30]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:30]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:31]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:32]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:33]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:34]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:35]
+  vlad32 opened Настраиваемый люк
+[03/02/2023 21:14:35]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:36]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:37]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:38]
+  vlad32 closed Настраиваемый люк
+[03/02/2023 21:14:38]
+  Carlton Craig: Надо найти водолазный скафандр!
+[03/02/2023 21:14:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:38]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:14:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:38]
+  kynlan4ic opened Настраиваемая дверь с окном
+[03/02/2023 21:14:38]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:39]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:40]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:41]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:42]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:43]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:14:43]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:43]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:14:43]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:14:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:44]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:44]
+  kynlan4ic placed Плазменный резак in Средний стальной шкаф с окном (ID: 935)
+[03/02/2023 21:14:44]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:14:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:45]
+  Carlton Craig: vlad32 проходит лечение здесь: пункт управления!
+[03/02/2023 21:14:45]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:14:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:45]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:46]
+  Carlton Craig: vlad32 нуждается в помощи! Срочно требуется физраствор, деусицин, инопланетная кровь или пакет с кровью!
+[03/02/2023 21:14:46]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:14:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:46]
+  Outer wall breached by Claire Suarez
+[03/02/2023 21:14:46]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:47]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:14:47]
+  Carlton Craig equipped Инопланетная кровь
+[03/02/2023 21:14:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:47]
+  Dominick Mansfield started repairing Кабельная коробка
+[03/02/2023 21:14:47]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:47]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:14:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:48]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:14:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:48]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:49]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:50]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:50]
+  Claire Suarez: Стреляю!
+[03/02/2023 21:14:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:51]
+  Claire Suarez launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:14:51]
+  Bonethresher has died (Cause of death: Рваная рана)
+[03/02/2023 21:14:51]
+  Claire Suarez: И-и-и-и... Готово!
+[03/02/2023 21:14:52]
+  Dominick Mansfield unequipped Отвертка
+[03/02/2023 21:14:53]
+  Carlton Craig equipped Антибиотический клей
+[03/02/2023 21:14:53]
+  kynlan4ic placed Инопланетная безделушка in Хозяйственный шкаф (ID: 313)
+[03/02/2023 21:14:53]
+  kynlan4ic placed Инопланетная безделушка in Хозяйственный шкаф (ID: 313)
+[03/02/2023 21:14:57]
+  Carlton Craig equipped Антибиотический клей
+[03/02/2023 21:15:01]
+  Carlton Craig equipped Деусицин
+[03/02/2023 21:15:01]
+  kynlan4ic placed Инопланетное украшение in Шкаф для хранения токсинов (ID: 241)
+[03/02/2023 21:15:03]
+  Carlton Craig: vlad32 чувствует себя хорошо!
+[03/02/2023 21:15:11]
+  Carlton Craig equipped Боевой водолазный скафандр
+[03/02/2023 21:15:15]
+  kynlan4ic placed Инопланетный сигнальный огонь in Хозяйственный шкаф (ID: 809)
+[03/02/2023 21:15:15]
+  kynlan4ic placed Инопланетный сигнальный огонь in Хозяйственный шкаф (ID: 809)
+[03/02/2023 21:15:15]
+  kynlan4ic placed Инопланетный сигнальный огонь in Хозяйственный шкаф (ID: 809)
+[03/02/2023 21:15:19]
+  vlad32 picked up Лейка
+[03/02/2023 21:15:20]
+  vlad32 equipped Лейка
+[03/02/2023 21:15:23]
+  kynlan4ic placed Магазин для ПП in Деконструктор (ID: 217)
+[03/02/2023 21:15:26]
+  Delbert Graves: Стреляю!
+[03/02/2023 21:15:26]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:15:27]
+  vlad32 placed Лейка in Средний стальной шкаф (ID: 250)
+[03/02/2023 21:15:28]
+  kynlan4ic placed Осколок кислородита in Средний стальной шкаф с окном (ID: 900)
+[03/02/2023 21:15:28]
+  kynlan4ic placed Осколок кислородита in Средний стальной шкаф с окном (ID: 900)
+[03/02/2023 21:15:29]
+  Sara Lyons equipped Гаечный ключ
+[03/02/2023 21:15:29]
+  Sara Lyons: Надо найти водолазный скафандр!
+[03/02/2023 21:15:29]
+  Rowena Colpitts equipped Гаечный ключ
+[03/02/2023 21:15:29]
+  Rowena Colpitts: Мне нужно подводное снаряжение!
+[03/02/2023 21:15:29]
+  Neal Bradley equipped Гаечный ключ
+[03/02/2023 21:15:29]
+  Neal Bradley: Надо найти водолазный скафандр!
+[03/02/2023 21:15:30]
+  Dominick Mansfield equipped Гаечный ключ
+[03/02/2023 21:15:30]
+  Dominick Mansfield: Мне нужно подводное снаряжение!
+[03/02/2023 21:15:35]
+  kynlan4ic placed Скопление дементонита in Большой стальной шкаф (ID: 964)
+[03/02/2023 21:15:35]
+  Sara Lyons started repairing Настраиваемый люк
+[03/02/2023 21:15:36]
+  Sara Lyons: Настраиваемый люк не поддается починке!
+[03/02/2023 21:15:38]
+  Delbert Graves launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:15:38]
+  Outer wall breached by Delbert Graves
+[03/02/2023 21:15:38]
+  Rowena Colpitts started repairing Настраиваемый люк
+[03/02/2023 21:15:39]
+  Rowena Colpitts: Настраиваемый люк не поддается починке!
+[03/02/2023 21:15:42]
+  kynlan4ic equipped Подводное ружье
+[03/02/2023 21:15:43]
+  Claire Suarez equipped Нож ныряльщика
+[03/02/2023 21:15:43]
+  Bennie Castro equipped Нож ныряльщика
+[03/02/2023 21:15:44]
+  Delbert Graves equipped Нож ныряльщика
+[03/02/2023 21:15:44]
+  Claire Suarez used Нож ныряльщика on kynlan4ic.
+[03/02/2023 21:15:45]
+  Carlton Craig equipped Сварочный аппарат
+[03/02/2023 21:15:45]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/02/2023 21:15:45]
+  Dominick Mansfield equipped Сварочный аппарат
+[03/02/2023 21:15:45]
+  Neal Bradley unequipped Гаечный ключ
+[03/02/2023 21:15:45]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:15:46]
+  Neal Bradley unequipped Отвертка
+[03/02/2023 21:15:46]
+  Neal Bradley equipped Сварочный аппарат
+[03/02/2023 21:15:46]
+  Claire Suarez: У меня кровь!
+[03/02/2023 21:15:46]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/02/2023 21:15:46]
+  Rowena Colpitts equipped Сварочный аппарат
+[03/02/2023 21:15:46]
+  Sara Lyons unequipped Гаечный ключ
+[03/02/2023 21:15:46]
+  Sara Lyons equipped Сварочный аппарат
+[03/02/2023 21:15:47]
+  Delbert Graves unequipped Нож ныряльщика
+[03/02/2023 21:15:47]
+  Delbert Graves equipped Пистолет-пулемет
+[03/02/2023 21:15:47]
+  Bennie Castro unequipped Нож ныряльщика
+[03/02/2023 21:15:47]
+  Bennie Castro equipped Дробовик
+[03/02/2023 21:15:47]
+  Claire Suarez used Нож ныряльщика on Tigerthresher.
+[03/02/2023 21:15:48]
+  Delbert Graves equipped Пистолет-пулемет
+[03/02/2023 21:15:48]
+  Claire Suarez used Нож ныряльщика on Базовая стена – верх.
+[03/02/2023 21:15:48]
+  Claire Suarez used Нож ныряльщика on Tigerthresher.
+[03/02/2023 21:15:49]
+  Tigerthresher has died (Cause of death: Рваная рана)
+[03/02/2023 21:15:49]
+  Rowena Colpitts unequipped Сварочный аппарат
+[03/02/2023 21:15:49]
+  Dominick Mansfield unequipped Сварочный аппарат
+[03/02/2023 21:15:49]
+  Neal Bradley unequipped Сварочный аппарат
+[03/02/2023 21:15:49]
+  Sara Lyons unequipped Сварочный аппарат
+[03/02/2023 21:15:49]
+  Carlton Craig unequipped Сварочный аппарат
+[03/02/2023 21:15:49]
+  Carlton Craig: Загружаю в реактор дополнительное топливо!
+[03/02/2023 21:15:49]
+  Claire Suarez unequipped Нож ныряльщика
+[03/02/2023 21:15:50]
+  Dominick Mansfield equipped Гаечный ключ
+[03/02/2023 21:15:50]
+  Neal Bradley equipped Гаечный ключ
+[03/02/2023 21:15:50]
+  Rowena Colpitts equipped Гаечный ключ
+[03/02/2023 21:15:52]
+  vlad32 picked up Топливный стержень
+[03/02/2023 21:15:55]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 4, Turbine output: 72, Autotemp ON
+[03/02/2023 21:15:56]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 9989)
+[03/02/2023 21:15:56]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 9989)
+[03/02/2023 21:15:56]
+  kynlan4ic placed Гарпун in Подводное ружье (ID: 9989)
+[03/02/2023 21:15:56]
+  Carlton Craig: Claire Suarez проходит лечение здесь: пункт управления!
+[03/02/2023 21:15:56]
+  vlad32 placed Топливный стержень in Ядерный реактор (ID: 188)
+[03/02/2023 21:15:57]
+  Carlton Craig: Мне требуется деусицин, фентанил, опиум или экстракт взрывного граната!
+[03/02/2023 21:15:59]
+  kynlan4ic picked up Гарпун
+[03/02/2023 21:15:59]
+  Carlton Craig equipped Эластичный бинт
+[03/02/2023 21:15:59]
+  vlad32 picked up Топливный стержень
+[03/02/2023 21:16:00]
+  Neal Bradley: Надо найти водолазный скафандр!
+[03/02/2023 21:16:00]
+  vlad32 adjusted reactor settings: Temperature: 0, Fission rate: 24, Turbine output: 73, Autotemp ON
+[03/02/2023 21:16:04]
+  vlad32 adjusted reactor settings: Temperature: 627, Fission rate: 37, Turbine output: 73, Autotemp ON
+[03/02/2023 21:16:07]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:16:07]
+  vlad32 adjusted reactor settings: Temperature: 2411, Fission rate: 47, Turbine output: 72, Autotemp ON
+[03/02/2023 21:16:09]
+  Carlton Craig equipped Инопланетная кровь
+[03/02/2023 21:16:11]
+  Dominick Mansfield unequipped Гаечный ключ
+[03/02/2023 21:16:11]
+  Neal Bradley unequipped Гаечный ключ
+[03/02/2023 21:16:11]
+  vlad32 adjusted reactor settings: Temperature: 3273, Fission rate: 51, Turbine output: 71, Autotemp ON
+[03/02/2023 21:16:13]
+  Rowena Colpitts unequipped Гаечный ключ
+[03/02/2023 21:16:14]
+  vlad32 adjusted reactor settings: Temperature: 3145, Fission rate: 49, Turbine output: 66, Autotemp ON
+[03/02/2023 21:16:18]
+  Claire Suarez: У меня кровь!
+[03/02/2023 21:16:18]
+  vlad32 adjusted reactor settings: Temperature: 3325, Fission rate: 45, Turbine output: 63, Autotemp ON
+[03/02/2023 21:16:19]
+  Carlton Craig equipped Эластичный бинт
+[03/02/2023 21:16:21]
+  Dominick Mansfield equipped Водолазный скафандр бездны
+[03/02/2023 21:16:21]
+  Dominick Mansfield equipped Отвертка
+[03/02/2023 21:16:23]
+  Neal Bradley equipped Водолазный скафандр бездны
+[03/02/2023 21:16:27]
+  vlad32 placed Топливный стержень in Средний стальной шкаф (ID: 703)
+[03/02/2023 21:16:27]
+  kynlan4ic placed Аккумулятор in Шоковая дубинка (ID: 9987)
+[03/02/2023 21:16:27]
+  kynlan4ic removed Аккумулятор from Шоковая дубинка (ID: 9987)
+[03/02/2023 21:16:27]
+  kynlan4ic placed Аккумулятор in Батарея (ID: 215)
+[03/02/2023 21:16:29]
+  Carlton Craig equipped Фентанил
+[03/02/2023 21:16:31]
+  vlad32 adjusted reactor settings: Temperature: 3964, Fission rate: 44, Turbine output: 45, Autotemp ON
+[03/02/2023 21:16:33]
+  Carlton Craig: Claire Suarez в полном порядке!
+[03/02/2023 21:16:33]
+  Rowena Colpitts equipped Водолазный скафандр
+[03/02/2023 21:16:37]
+  kynlan4ic closed Настраиваемая дверь с окном
+[03/02/2023 21:16:38]
+  kynlan4ic opened Настраиваемый люк
+[03/02/2023 21:16:44]
+  Neal Bradley equipped Боевой водолазный скафандр
+[03/02/2023 21:16:48]
+  Rowena Colpitts equipped Боевой водолазный скафандр
+[03/02/2023 21:16:49]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:16:49]
+  Sara Lyons equipped Пистолет-пулемет
+[03/02/2023 21:16:49]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:16:55]
+  vlad32 dropped Боевой водолазный скафандр
+[03/02/2023 21:16:55]
+  Neal Bradley equipped Боевой водолазный скафандр
+[03/02/2023 21:17:01]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5126)
+[03/02/2023 21:17:01]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5126)
+[03/02/2023 21:17:02]
+  kynlan4ic sent a signal "" from Инопланетный терминал
+[03/02/2023 21:17:03]
+  kynlan4ic opened Инопланетная дверь
+[03/02/2023 21:17:03]
+  kynlan4ic sent a signal "1" from Инопланетный терминал
+[03/02/2023 21:17:03]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:17:03]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:17:10]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:17:10]
+  Sara Lyons equipped Кислородный баллон
+[03/02/2023 21:17:13]
+  kynlan4ic picked up Инопланетное украшение
+[03/02/2023 21:17:13]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:17:14]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:17:15]
+  Neal Bradley equipped Отвертка
+[03/02/2023 21:17:15]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:17:19]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:17:41]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:45]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:45]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:45]
+  Swarmfeeder has died (Cause of death: Рваная рана)
+[03/02/2023 21:17:45]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:45]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:45]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:45]
+  Swarmfeeder has died (Cause of death: Рваная рана)
+[03/02/2023 21:17:45]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:45]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:45]
+  Swarmfeeder has died (Cause of death: Рваная рана)
+[03/02/2023 21:17:45]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:46]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:46]
+  Outer wall breached by vlad32
+[03/02/2023 21:17:46]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:46]
+  Outer wall breached by vlad32
+[03/02/2023 21:17:46]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:46]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:47]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:47]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:47]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:47]
+  Outer wall breached by vlad32
+[03/02/2023 21:17:47]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:48]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:48]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:48]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:49]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:49]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:49]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:49]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:50]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:50]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:50]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:51]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:51]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:51]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:51]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:53]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:53]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:53]
+  Swarmfeeder has died (Cause of death: Рваная рана)
+[03/02/2023 21:17:53]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:53]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:53]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:53]
+  Swarmfeeder has died (Cause of death: Рваная рана)
+[03/02/2023 21:17:53]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:53]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:54]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:54]
+  Outer wall breached by vlad32
+[03/02/2023 21:17:54]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:57]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:17:57]
+  Swarmfeeder has died (Cause of death: Рваная рана)
+[03/02/2023 21:17:57]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:17:57]
+  Swarmfeeder attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:18:00]
+  Sara Lyons unequipped Отвертка
+[03/02/2023 21:18:00]
+  Sara Lyons equipped Дробовик
+[03/02/2023 21:18:27]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5353)
+[03/02/2023 21:18:27]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5353)
+[03/02/2023 21:18:28]
+  kynlan4ic sent a signal "" from Инопланетный терминал
+[03/02/2023 21:18:28]
+  kynlan4ic opened Инопланетная дверь
+[03/02/2023 21:18:28]
+  kynlan4ic sent a signal "1" from Инопланетный терминал
+[03/02/2023 21:18:28]
+  Rowena Colpitts unequipped Отвертка
+[03/02/2023 21:18:28]
+  Rowena Colpitts equipped Дробовик
+[03/02/2023 21:18:29]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:18:29]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:18:30]
+  Fractalguardian2 has died (Cause of death: Ожог)
+[03/02/2023 21:18:31]
+  Rowena Colpitts equipped Отвертка
+[03/02/2023 21:18:35]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5365)
+[03/02/2023 21:18:35]
+  kynlan4ic placed Инопланетная вещица in Инопланетный терминал (ID: 5365)
+[03/02/2023 21:18:36]
+  kynlan4ic opened Инопланетный люк
+[03/02/2023 21:18:36]
+  kynlan4ic opened Инопланетная дверь
+[03/02/2023 21:18:36]
+  kynlan4ic sent a signal "1" from Инопланетный терминал
+[03/02/2023 21:18:36]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:18:36]
+  kynlan4ic picked up Инопланетная вещица
+[03/02/2023 21:19:05]
+  Sara Lyons equipped Отвертка
+[03/02/2023 21:19:06]
+  Rowena Colpitts started repairing Кабельная коробка
+[03/02/2023 21:19:08]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:19:10]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:10]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:10]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:11]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:11]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 5.4 Кровотечение: 2.0
+[03/02/2023 21:19:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:11]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:11]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:11]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:11]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:12]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:13]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:13]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:13]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:13]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:14]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:14]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0
+[03/02/2023 21:19:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:14]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:14]
+  Neal Bradley started repairing Кабельная коробка
+[03/02/2023 21:19:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:14]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:14]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:14]
+  vlad32 launched Магнитная пушка (projectile: Пробивной снаряд магнитной пушки)
+[03/02/2023 21:19:15]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 8.0 Кровотечение: 2.0
+[03/02/2023 21:19:15]
+  Fractalguardian2 attacked by vlad32. Рваная рана: 6.6 Кровотечение: 2.0

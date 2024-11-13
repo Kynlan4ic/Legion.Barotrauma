@@ -1,0 +1,28 @@
+﻿[02/24/2023 01:27:34]
+  Starting the server...
+[02/24/2023 01:27:34]
+  Using SteamP2P networking.
+[02/24/2023 01:27:35]
+  Server started
+[02/24/2023 01:27:35]
+  Игрок kynlan4ic присоединился к серверу.
+[02/24/2023 01:27:35]
+  Saving client permissions
+[02/24/2023 01:27:35]
+  Saving client permissions
+[02/24/2023 01:27:36]
+  Gamemode changed to Кампания
+[02/24/2023 01:27:49]
+  Игрок Чпок В Пупок присоединился к серверу.
+[02/24/2023 01:27:49]
+  Saving client permissions
+[02/24/2023 01:28:28]
+  Gamemode changed to Песочница
+[02/24/2023 01:28:29]
+  Gamemode changed to Миссия
+[02/24/2023 01:30:20]
+  Чпок В Пупок is ready to start the game.
+[02/24/2023 01:31:52]
+  Saving banlist
+[02/24/2023 01:31:52]
+  Shutting down the server...
